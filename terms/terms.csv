@@ -1,14 +1,14 @@
-﻿term_en,term_zh,category,status
-Incoterms,国际贸易术语,trade-terms,pending
-FOB,离岸价,trade-terms,pending
-CIF,到岸价,trade-terms,pending
-EXW,工厂交货价,trade-terms,pending
-DDP,完税后交货,trade-terms,pending
-DAP,目的地交货,trade-terms,pending
-FCA,货交承运人,trade-terms,pending
-CFR,成本加运费,trade-terms,pending
-Freight Forwarding,货运代理,transport,pending
-Bill of Lading,海运提单,transport,pending
+term_en,term_zh,category,status
+Incoterms,国际贸易术语,trade-terms,published
+FOB,离岸价,trade-terms,published
+CIF,到岸价,trade-terms,published
+EXW,工厂交货价,trade-terms,published
+DDP,完税后交货,trade-terms,published
+DAP,目的地交货,trade-terms,published
+FCA,货交承运人,trade-terms,published
+CFR,成本加运费,trade-terms,published
+Freight Forwarding,货运代理,transport,published
+Bill of Lading,海运提单,transport,published
 Sea Waybill,海运单,transport,pending
 Air Waybill,空运提单,transport,pending
 TEU,标准箱,transport,pending
