@@ -1,0 +1,46 @@
+﻿term_en,term_zh,category,status
+Incoterms,国际贸易术语,trade-terms,pending
+FOB,离岸价,trade-terms,pending
+CIF,到岸价,trade-terms,pending
+EXW,工厂交货价,trade-terms,pending
+DDP,完税后交货,trade-terms,pending
+DAP,目的地交货,trade-terms,pending
+FCA,货交承运人,trade-terms,pending
+CFR,成本加运费,trade-terms,pending
+Freight Forwarding,货运代理,transport,pending
+Bill of Lading,海运提单,transport,pending
+Sea Waybill,海运单,transport,pending
+Air Waybill,空运提单,transport,pending
+TEU,标准箱,transport,pending
+FCL,整箱货,transport,pending
+LCL,拼箱货,transport,pending
+Multimodal Transport,多式联运,transport,pending
+Demurrage,滞期费,transport,pending
+Detention,滞箱费,transport,pending
+NVOCC,无船承运人,transport,pending
+Chartering,租船运输,transport,pending
+Commercial Invoice,商业发票,documents,pending
+Packing List,装箱单,documents,pending
+Certificate of Origin,原产地证书,documents,pending
+Letter of Credit,信用证,documents,pending
+Shipping Mark,唛头,documents,pending
+Insurance Certificate,保险单,documents,pending
+Customs Clearance,清关,customs,pending
+HS Code,海关编码,customs,pending
+Tariff,关税,customs,pending
+Customs Declaration,报关,customs,pending
+Duty Drawback,出口退税,customs,pending
+Bonded Warehouse,保税仓库,customs,pending
+AEO,经认证的经营者,customs,pending
+Warehousing,仓储,warehousing,pending
+3PL,第三方物流,warehousing,pending
+4PL,第四方物流,warehousing,pending
+Cross-docking,越库作业,warehousing,pending
+Last-mile Delivery,最后一公里配送,warehousing,pending
+Fulfillment Center,履约中心,warehousing,pending
+Inventory Management,库存管理,warehousing,pending
+Dangerous Goods,危险品,special-cargo,pending
+Cold Chain,冷链运输,special-cargo,pending
+Reefer Container,冷藏集装箱,special-cargo,pending
+Project Cargo,项目物流,special-cargo,pending
+Out of Gauge Cargo,超限货物,special-cargo,pending

@@ -2,33 +2,19 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: Home
+  - name: 首页
     url: /
     weight: 10
-  - name: Documentation
+  - name: 术语词典
     url: docs/
     weight: 20
-  - name: Blog
-    url: blog/
-    weight: 30
-  - name: Showcase
-    url: showcase/
-    weight: 40
-  - name: Community
-    url: community/
-    weight: 50
 
 sidebar:
-  - identifier: more
-    name: Still need help?
-    params:
-      type: separator
+  - identifier: about
+    name: "关于本站"
+    pageRef: "/docs/about"
     weight: 1
-  - identifier: community
-    name: "Community"
-    pageRef: "/community"
+  - identifier: github
+    name: "GitHub 仓库 ↗"
+    url: "https://github.com/BXNK-maker/freight-logistics-dictionary"
     weight: 2
-  - identifier: hugoDocs
-    name: "Hugo Docs ↗"
-    url: "https://docs.hugoblox.com"
-    weight: 3

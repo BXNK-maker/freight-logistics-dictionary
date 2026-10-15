@@ -1,16 +1,21 @@
 ---
-linkTitle: Documentation
-title: Introduction
+linkTitle: 术语词典
+title: 货运物流术语词典
 ---
 
-👋 Welcome to the demo of the Hugo Blox Documentation template!
+本站收录货运物流领域的核心术语，提供中英对照解释。
 
 <!--more-->
 
-This site is a demo of the Hugo Blox Documentation theme. For the full documentation on how to use this template, refer to the [Hugo Blox Documentation](https://docs.hugoblox.com/).
+词条由 AI 辅助生成初稿，经人工审核后发布，仅供参考，不构成任何法律或商务建议。
 
-## Next
+## 术语分类
 
-{{< cards >}}
-  {{< card url="getting-started" title="Get Started" icon="document-text" subtitle="Create your docs in just 5 minutes!" >}}
-{{< /cards >}}
+- **贸易术语**：Incoterms、FOB、CIF 等国际贸易价格条款
+- **运输**：货运代理、提单、集装箱运输、租船等
+- **单证**：商业发票、装箱单、原产地证、信用证等
+- **清关**：报关、HS 编码、关税、退税等
+- **仓储与配送**：第三方物流、仓配一体、库存管理等
+- **特种货运**：危险品、冷链、项目物流等
+
+> 💡 词条内容持续更新中。发现错误欢迎在 GitHub 仓库提 Issue 指正。

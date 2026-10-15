@@ -1,0 +1,61 @@
+# 每日自动生成词条 → 提交 Pull Request → 人工审核合并后自动部署
+name: Generate dictionary entries
+
+on:
+  schedule:
+    - cron: "0 2 * * *" # 每天 UTC 02:00（北京时间 10:00）运行
+  workflow_dispatch: # 允许在 Actions 页面手动触发
+    inputs:
+      max_entries:
+        description: "单次最多生成多少条词条"
+        default: "20"
+        required: false
+
+permissions:
+  contents: write
+  pull-requests: write
+
+concurrency:
+  group: generate-entries
+  cancel-in-progress: false
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v6
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Generate entries via Gemini
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GEMINI_MODEL: gemini-flash-lite-latest
+          MAX_ENTRIES: ${{ github.event.inputs.max_entries || '20' }}
+        run: python scripts/generate_entries.py
+
+      # 若有新词条，自动创建 Pull Request 供人工审核
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          commit-message: "feat(dict): 新增 AI 生成的词条初稿"
+          title: "📚 新词条初稿（请审核后合并）"
+          body: |
+            本 PR 由自动化流水线生成，包含新词条的 Markdown 初稿。
+
+            **审核要点：**
+            - [ ] 定义是否准确
+            - [ ] 中英对照是否正确
+            - [ ] 有无明显幻觉/编造内容
+
+            ✅ 确认无误后直接点 **Merge pull request** 合并，网站将自动构建发布。
+          branch: auto/generated-entries
+          delete-branch: true
+          add-paths: |
+            content/docs/
+            terms/terms.csv

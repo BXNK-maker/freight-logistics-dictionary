@@ -13,19 +13,18 @@ hugoblox:
   # ────────────────────────────────────────────────────────────────────────────
   identity:
     # Site name - shown in navbar, footer, copyright, and browser title by default
-    name: "Your Name"
+    name: "货运物流字典"
     # Legal entity for copyright notices (defaults to name if not set)
     organization: ""
     # Schema.org type for structured data
-    type: person # person | organization | local_business
+    type: organization # person | organization | local_business
     # Short tagline displayed on your site
-    tagline: ""
+    tagline: "Freight & Logistics Dictionary · 中英对照货运物流术语词典"
     # Site meta description for search engines and social sharing
-    description: "The highly-customizable Hugo Academic theme powered by HugoBlox
-      Kit. Easily create your personal academic website."
+    description: "货运物流术语中英对照词典：涵盖国际贸易术语、运输、单证、清关、仓储与特种货运等核心概念，AI 辅助生成、人工审核校对。"
     # Social accounts (used for meta tags like Twitter Cards)
     social:
-      twitter: "GoOwnable" # Twitter/X handle for Twitter Cards (without @)
+      twitter: "" # Twitter/X handle for Twitter Cards (without @)
 
   # ────────────────────────────────────────────────────────────────────────────
   # THEME

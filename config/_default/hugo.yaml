@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 # Website name (set in params.yaml under hugoblox.branding.name)
-title: ''
-baseURL: 'https://example.com/' # Website URL
+title: '货运物流字典'
+baseURL: 'https://bxnk-maker.github.io/freight-logistics-dictionary/' # GitHub Pages 地址（仓库名若不同请修改）
 
 ############################
 ## PAGE OPTIONS
@@ -44,7 +44,7 @@ cascade:
 ############################
 
 defaultContentLanguage: en
-hasCJKLanguage: false
+hasCJKLanguage: true
 defaultContentLanguageInSubdir: false
 removePathAccents: true
 
