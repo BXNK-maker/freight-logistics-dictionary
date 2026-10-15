@@ -9,26 +9,26 @@ FCA,货交承运人,trade-terms,published
 CFR,成本加运费,trade-terms,published
 Freight Forwarding,货运代理,transport,published
 Bill of Lading,海运提单,transport,published
-Sea Waybill,海运单,transport,pending
-Air Waybill,空运提单,transport,pending
-TEU,标准箱,transport,pending
-FCL,整箱货,transport,pending
-LCL,拼箱货,transport,pending
-Multimodal Transport,多式联运,transport,pending
-Demurrage,滞期费,transport,pending
-Detention,滞箱费,transport,pending
-NVOCC,无船承运人,transport,pending
-Chartering,租船运输,transport,pending
-Commercial Invoice,商业发票,documents,pending
-Packing List,装箱单,documents,pending
-Certificate of Origin,原产地证书,documents,pending
-Letter of Credit,信用证,documents,pending
-Shipping Mark,唛头,documents,pending
-Insurance Certificate,保险单,documents,pending
-Customs Clearance,清关,customs,pending
-HS Code,海关编码,customs,pending
-Tariff,关税,customs,pending
-Customs Declaration,报关,customs,pending
+Sea Waybill,海运单,transport,published
+Air Waybill,空运提单,transport,published
+TEU,标准箱,transport,published
+FCL,整箱货,transport,published
+LCL,拼箱货,transport,published
+Multimodal Transport,多式联运,transport,published
+Demurrage,滞期费,transport,published
+Detention,滞箱费,transport,published
+NVOCC,无船承运人,transport,published
+Chartering,租船运输,transport,published
+Commercial Invoice,商业发票,documents,published
+Packing List,装箱单,documents,published
+Certificate of Origin,原产地证书,documents,published
+Letter of Credit,信用证,documents,published
+Shipping Mark,唛头,documents,published
+Insurance Certificate,保险单,documents,published
+Customs Clearance,清关,customs,published
+HS Code,海关编码,customs,published
+Tariff,关税,customs,published
+Customs Declaration,报关,customs,published
 Duty Drawback,出口退税,customs,pending
 Bonded Warehouse,保税仓库,customs,pending
 AEO,经认证的经营者,customs,pending
