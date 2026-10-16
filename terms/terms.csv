@@ -29,18 +29,18 @@ Customs Clearance,清关,customs,published
 HS Code,海关编码,customs,published
 Tariff,关税,customs,published
 Customs Declaration,报关,customs,published
-Duty Drawback,出口退税,customs,pending
-Bonded Warehouse,保税仓库,customs,pending
-AEO,经认证的经营者,customs,pending
-Warehousing,仓储,warehousing,pending
-3PL,第三方物流,warehousing,pending
-4PL,第四方物流,warehousing,pending
-Cross-docking,越库作业,warehousing,pending
-Last-mile Delivery,最后一公里配送,warehousing,pending
-Fulfillment Center,履约中心,warehousing,pending
-Inventory Management,库存管理,warehousing,pending
-Dangerous Goods,危险品,special-cargo,pending
-Cold Chain,冷链运输,special-cargo,pending
-Reefer Container,冷藏集装箱,special-cargo,pending
-Project Cargo,项目物流,special-cargo,pending
-Out of Gauge Cargo,超限货物,special-cargo,pending
+Duty Drawback,出口退税,customs,published
+Bonded Warehouse,保税仓库,customs,published
+AEO,经认证的经营者,customs,published
+Warehousing,仓储,warehousing,published
+3PL,第三方物流,warehousing,published
+4PL,第四方物流,warehousing,published
+Cross-docking,越库作业,warehousing,published
+Last-mile Delivery,最后一公里配送,warehousing,published
+Fulfillment Center,履约中心,warehousing,published
+Inventory Management,库存管理,warehousing,published
+Dangerous Goods,危险品,special-cargo,published
+Cold Chain,冷链运输,special-cargo,published
+Reefer Container,冷藏集装箱,special-cargo,published
+Project Cargo,项目物流,special-cargo,published
+Out of Gauge Cargo,超限货物,special-cargo,published
