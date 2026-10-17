@@ -64,7 +64,7 @@ def slugify(text: str) -> str:
     return slug or "entry"
 
 
-def call_gemini(prompt: str, retries: int = 6) -> str:
+def call_gemini(prompt: str, retries: int = 4) -> str:
     """调用 Gemini generateContent API，返回文本。"""
     url = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
@@ -92,7 +92,7 @@ def call_gemini(prompt: str, retries: int = 6) -> str:
             return text.strip()
         except Exception as err:  # noqa: BLE001
             last_err = err
-            wait = min(attempt * 20, 60)  # 大批量运行时给限流留出恢复时间
+            wait = min(attempt * 15, 45)
             print(f"  [重试 {attempt}/{retries}] {err}，{wait}s 后再试", flush=True)
             time.sleep(wait)
     raise RuntimeError(f"Gemini API 调用失败: {last_err}")
@@ -148,6 +148,7 @@ def main() -> int:
     print(f"共 {len(pending)} 条待生成，本次处理 {len(todo)} 条（模型: {GEMINI_MODEL}）\n")
 
     generated = 0
+    consecutive_fail = 0
     for row in todo:
         term_en = row["term_en"].strip()
         term_zh = row["term_zh"].strip()
@@ -156,8 +157,14 @@ def main() -> int:
 
         try:
             body = call_gemini(PROMPT_TEMPLATE.format(term_en=term_en, term_zh=term_zh))
+            consecutive_fail = 0
         except RuntimeError as err:
+            consecutive_fail += 1
             print(f"  ✗ 跳过：{err}", flush=True)
+            if consecutive_fail >= 5:
+                print("\n⚠️ 连续 5 条失败，疑似 API 配额耗尽，提前熔断退出。", flush=True)
+                (ROOT / ".quota_exhausted").write_text("1", encoding="utf-8")
+                break
             continue
 
         ensure_category_index(category)

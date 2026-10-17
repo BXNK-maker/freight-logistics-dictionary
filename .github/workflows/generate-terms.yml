@@ -1,19 +1,20 @@
-# 每日自动生成词条 → 提交 Pull Request → 人工审核合并后自动部署
+# 每日自动生成词条 → 分块提交 main → 自动部署
+# 大批量运行时按块提交，即使任务被中断也已完成的词条不丢失；
+# 连续失败时熔断退出（写入 .quota_exhausted 标记），避免空耗重试。
 name: Generate dictionary entries
 
 on:
   schedule:
-    - cron: "0 2 * * *" # 每天 UTC 02:00（北京时间 10:00）运行
+    - cron: "10 7 * * *" # 每天 UTC 07:10（北京时间 15:10，Gemini 免费配额每日重置后）
   workflow_dispatch: # 允许在 Actions 页面手动触发
     inputs:
       max_entries:
-        description: "单次最多生成多少条词条"
-        default: "200"
+        description: "本次最多生成多少条词条（0 = 全部 pending）"
+        default: "750"
         required: false
 
 permissions:
   contents: write
-  pull-requests: write
 
 concurrency:
   group: generate-entries
@@ -22,6 +23,7 @@ concurrency:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    timeout-minutes: 330 # 留 30 分钟余量，低于 GitHub 6 小时硬上限
     steps:
       - name: Checkout
         uses: actions/checkout@v6
@@ -31,31 +33,42 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Generate entries via Gemini
+      - name: Generate entries in chunks and push
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: gemini-flash-lite-latest
-          MAX_ENTRIES: ${{ github.event.inputs.max_entries || '200' }}
-        run: python scripts/generate_entries.py
+          TOTAL: ${{ github.event.inputs.max_entries || '750' }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
 
-      # 若有新词条，自动创建 Pull Request 供人工审核
-      - name: Create Pull Request
-        uses: peter-evans/create-pull-request@v7
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "feat(dict): 新增 AI 生成的词条初稿"
-          title: "📚 新词条初稿（请审核后合并）"
-          body: |
-            本 PR 由自动化流水线生成，包含新词条的 Markdown 初稿。
+          total=${TOTAL}
+          chunk=100
+          batch=0
+          while [ "$total" -gt 0 ]; do
+            batch=$((batch + 1))
+            n=$(( total < chunk ? total : chunk ))
+            echo "=== 批次 $batch：生成 $n 条（剩余总目标 $total）==="
+            rm -f .quota_exhausted
+            MAX_ENTRIES=$n python scripts/generate_entries.py
+            total=$(( total - n ))
 
-            **审核要点：**
-            - [ ] 定义是否准确
-            - [ ] 中英对照是否正确
-            - [ ] 有无明显幻觉/编造内容
+            if [ -f .quota_exhausted ]; then
+              echo "检测到配额熔断标记，停止后续批次。"
+              total=0
+            fi
 
-            ✅ 确认无误后直接点 **Merge pull request** 合并，网站将自动构建发布。
-          branch: auto/generated-entries
-          delete-branch: true
-          add-paths: |
-            content/docs/
-            terms/terms.csv
+            if [ -z "$(git status --porcelain)" ]; then
+              echo "本批次无新词条（可能已全部生成完毕），结束。"
+              break
+            fi
+
+            git add -A
+            git commit -m "chore(dict): AI 生成词条批次 $batch" -q
+            git pull --rebase origin main -q || git pull --no-rebase origin main -q
+            git push origin main -q
+            echo "批次 $batch 已提交并推送 ✓"
+          done
+
+          echo "=== 完成，剩余 pending 统计 ==="
+          python -c "import csv;rows=list(csv.DictReader(open('terms/terms.csv',encoding='utf-8-sig')));p=sum(1 for r in rows if r['status'].strip()=='pending');print('published:', len(rows)-p, '| pending:', p)"
