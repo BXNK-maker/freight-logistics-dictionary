@@ -55,6 +55,8 @@ jobs:
 
             if [ -f .quota_exhausted ]; then
               echo "检测到配额熔断标记，停止后续批次。"
+              rm -f .quota_exhausted
+              git checkout -- . 2>/dev/null || true
               total=0
             fi
 
