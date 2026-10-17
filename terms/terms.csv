@@ -290,214 +290,214 @@ Bulk Cargo,散装货物,transport,published
 Tanker,油轮运输,transport,published
 Flexitank,液袋运输,transport,published
 Neo-bulk,准散货,transport,published
-Containerization,集装箱化,transport,pending
-Slot Exchange,舱位互换,transport,pending
+Containerization,集装箱化,transport,published
+Slot Exchange,舱位互换,transport,published
 Slot Charter,舱位租赁,transport,published
 Space Booking,订舱,transport,published
 Booking Confirmation,订舱确认,transport,published
 Shipping Instruction,托运指示,transport,published
 SI Cut-off,截托书时间,transport,published
-Amendment,改单,transport,pending
-Telex Release,电报放货,transport,pending
-Original B/L,正本提单,transport,pending
-B/L Endorsement,提单背书,transport,pending
-Negotiable B/L,可转让提单,transport,pending
+Amendment,改单,transport,published
+Telex Release,电报放货,transport,published
+Original B/L,正本提单,transport,published
+B/L Endorsement,提单背书,transport,published
+Negotiable B/L,可转让提单,transport,published
 Order B/L,指示提单,transport,published
-Straight B/L,记名提单,transport,pending
-Clean B/L,清洁提单,transport,pending
-Claused B/L,不清洁提单,transport,pending
-Stale B/L,过期提单,transport,pending
-Switch B/L,换提单,transport,pending
-Onboard Notation,已装船批注,transport,pending
-Shipped on Board,已装船,transport,pending
-Received for Shipment,收妥待运,transport,pending
-Port-to-Port,港到港运输,transport,pending
-Door-to-Door,门到门运输,transport,pending
-CY-to-CY,堆场到堆场,transport,pending
-CFS-to-CFS,货运站到货运站,transport,pending
-Through B/L,联运提单,transport,pending
-Combined Transport,联合运输,transport,pending
-Carrier's Liability,承运人责任,transport,pending
-Package Limitation,单位赔偿限额,transport,pending
+Straight B/L,记名提单,transport,published
+Clean B/L,清洁提单,transport,published
+Claused B/L,不清洁提单,transport,published
+Stale B/L,过期提单,transport,published
+Switch B/L,换提单,transport,published
+Onboard Notation,已装船批注,transport,published
+Shipped on Board,已装船,transport,published
+Received for Shipment,收妥待运,transport,published
+Port-to-Port,港到港运输,transport,published
+Door-to-Door,门到门运输,transport,published
+CY-to-CY,堆场到堆场,transport,published
+CFS-to-CFS,货运站到货运站,transport,published
+Through B/L,联运提单,transport,published
+Combined Transport,联合运输,transport,published
+Carrier's Liability,承运人责任,transport,published
+Package Limitation,单位赔偿限额,transport,published
 Hague Rules,海牙规则,transport,published
-Hague-Visby Rules,海牙-维斯比规则,transport,pending
-Hamburg Rules,汉堡规则,transport,pending
-Rotterdam Rules,鹿特丹规则,transport,pending
-Montreal Convention,蒙特利尔公约,transport,pending
+Hague-Visby Rules,海牙-维斯比规则,transport,published
+Hamburg Rules,汉堡规则,transport,published
+Rotterdam Rules,鹿特丹规则,transport,published
+Montreal Convention,蒙特利尔公约,transport,published
 Warsaw Convention,华沙公约,transport,published
-Off-hire,停租,transport,pending
-Ship Broker,船舶经纪人,transport,pending
-Debit Note,借记通知单,documents,pending
-Credit Note,贷记通知单,documents,pending
-Sight Draft,即期汇票,documents,pending
-Usance Draft,远期汇票,documents,pending
-Irrevocable L/C,不可撤销信用证,documents,pending
-Confirmed L/C,保兑信用证,documents,pending
-Standby L/C,备用信用证,documents,pending
-Revolving L/C,循环信用证,documents,pending
-Back-to-back L/C,背对背信用证,documents,pending
-Transferable L/C,可转让信用证,documents,pending
-Red Clause L/C,红条款信用证,documents,pending
-L/C Amendment,信用证修改,documents,pending
-Discrepancy,不符点,documents,pending
-UCP 600,跟单信用证统一惯例,documents,pending
-D/P (Documents against Payment),付款交单,documents,pending
-D/A (Documents against Acceptance),承兑交单,documents,pending
-Collection,托收,documents,pending
-Open Account (O/A),赊销,documents,pending
-T/T (Telegraphic Transfer),电汇,documents,pending
-Advance Payment,预付货款,documents,pending
-Bank Guarantee,银行保函,documents,pending
-Performance Bond,履约保函,documents,pending
-Bid Bond,投标保函,documents,pending
-Advance Payment Guarantee,预付款保函,documents,pending
-Open Cover,预约保险,documents,pending
-Marine Cargo Insurance,海运货物保险,documents,pending
-Institute Cargo Clauses,协会货物条款,documents,pending
-All Risks,一切险,documents,pending
-WPA (With Particular Average),水渍险,documents,pending
-FPA (Free from Particular Average),平安险,documents,pending
-General Additional Risks,一般附加险,documents,pending
-Special Additional Risks,特殊附加险,documents,pending
-War Risk,战争险,documents,pending
-Strikes Risk,罢工险,documents,pending
-Insurable Interest,可保利益,documents,pending
-Insured Value,保险价值,documents,pending
-Insurance Premium,保险费,documents,pending
-Insurance Claim,保险索赔,documents,pending
-Survey Report,检验报告,documents,pending
-Deductible,免赔额,documents,pending
-Subrogation,代位追偿,documents,pending
-Weight Memo,重量单,documents,pending
-Measurement List,尺码单,documents,pending
-Neutral Invoice,中性发票,documents,pending
-FCR (Forwarder's Certificate of Receipt),货运代理收据凭证,documents,pending
-Shipping Advice,装运通知,documents,pending
-Form A Certificate,普惠制原产地证,documents,pending
-Form E Certificate,中国-东盟原产地证,documents,pending
-RCEP Certificate,RCEP原产地证书,documents,pending
-Certificate of Analysis,分析证书,documents,pending
-Quality Certificate,质量证书,documents,pending
-ISPM 15,国际木质包装检疫标准,documents,pending
-Wood Packaging Declaration,木质包装声明,documents,pending
-DGD (Dangerous Goods Declaration),危险品申报单,documents,pending
-SLI (Shipper's Letter of Instruction),托运指示书,documents,pending
-End-user Certificate,最终用户证明,documents,pending
-Consular Invoice,领事发票,documents,pending
-Legalisation,领事认证,documents,pending
-E-invoice,电子发票,documents,pending
-E-B/L,电子提单,documents,pending
-Payment Receipt,收款收据,documents,pending
-Remittance Advice,汇款通知,documents,pending
-Statement of Account,对账单,documents,pending
-Packing Declaration,包装声明,documents,pending
-Insurance Policy,保险单,documents,pending
-Cover Note,承保通知书,documents,pending
-Dock Receipt,场站收据,documents,pending
-Mate's Receipt,大副收据,documents,pending
-Post Receipt,邮包收据,documents,pending
-Courier Receipt,快递收据,documents,pending
-Delivery Note,送货单,documents,pending
-GRN (Goods Received Note),收货单,documents,pending
-Export Declaration Form,出口报关单,documents,pending
-Import Declaration Form,进口报关单,documents,pending
-Customs Invoice,海关发票,documents,pending
-Certificate of Free Sale,自由销售证书,documents,pending
-Certificate of Conformity,符合性证书,documents,pending
-SGS Inspection Certificate,SGS检验证书,documents,pending
-Radiation Certificate,辐射检测证书,documents,pending
-Certificate of Weight,重量证书,documents,pending
-House Air Waybill,空运分运单,documents,pending
-Master Air Waybill,空运主运单,documents,pending
-DG Label,危险品标签,documents,pending
-Handling Label,操作标签,documents,pending
-Fragile Label,易碎标签,documents,pending
-This Side Up Label,向上标签,documents,pending
-Beneficiary,受益人,documents,pending
-Applicant,开证申请人,documents,pending
-Issuing Bank,开证行,documents,pending
-Advising Bank,通知行,documents,pending
-Negotiating Bank,议付行,documents,pending
-Confirming Bank,保兑行,documents,pending
-Reimbursing Bank,偿付行,documents,pending
-MFN (Most Favoured Nation),最惠国待遇,customs,pending
-Bound Rate,约束税率,customs,pending
-Applied Tariff Rate,实施税率,customs,pending
-Preferential Tariff,特惠关税,customs,pending
-Tariff Rate Quota,关税配额,customs,pending
-Safeguard Measures,保障措施,customs,pending
-Trade Remedy,贸易救济措施,customs,pending
-Import Duty,进口关税,customs,pending
-Export Duty,出口关税,customs,pending
-Rules of Origin,原产地规则,customs,pending
-Country of Origin,原产国,customs,pending
-Substantial Transformation,实质性改变标准,customs,pending
-Origin Marking,原产地标记,customs,pending
-Pre-shipment Inspection,装运前检验,customs,pending
-Commodity Inspection,商品检验,customs,pending
-CIQ,出入境检验检疫,customs,pending
-SPS Agreement,卫生与植物卫生措施协定,customs,pending
-TBT (Technical Barriers to Trade),技术性贸易壁垒,customs,pending
-CE Marking,CE认证,customs,pending
-CCC Certification,中国强制性产品认证,customs,pending
-FDA Registration,FDA注册,customs,pending
-Halal Certification,清真认证,customs,pending
-Sanitary Certificate,卫生证书,customs,pending
-Veterinary Certificate,兽医卫生证书,customs,pending
-Import Quota,进口配额,customs,pending
-Export Quota,出口配额,customs,pending
-Dual-use Goods,两用物项,customs,pending
-Export Control,出口管制,customs,pending
-Embargo,禁运,customs,pending
-Sanctions Screening,制裁名单筛查,customs,pending
-Denied Party Screening,禁运对象筛查,customs,pending
-Re-export,再出口,customs,pending
-Bonded Logistics Zone,保税物流中心,customs,pending
-Bonded Factory,保税工厂,customs,pending
-Customs Supervision Zone,海关监管区,customs,pending
-Customs Broker,报关行,customs,pending
-Declarant,报关申报人,customs,pending
-Importer of Record,进口记录商,customs,pending
-Exporter of Record,出口记录商,customs,pending
-Dutiable Value,完税价格,customs,pending
-Transaction Value Method,成交价格法,customs,pending
-Import VAT,进口环节增值税,customs,pending
-Tariff Heading,税则号列,customs,pending
-Classification Ruling,商品归类裁定,customs,pending
-BTI (Binding Tariff Information),约束性税率信息,customs,pending
-WCO,世界海关组织,customs,pending
-Kyoto Convention,京都公约,customs,pending
-Single Window,国际贸易单一窗口,customs,pending
-Paperless Clearance,无纸化通关,customs,pending
-Pre-arrival Declaration,抵达前申报,customs,pending
-Green Lane,绿色通道,customs,pending
-Red Lane,红色通道,customs,pending
-X-ray Scanning,机检查验,customs,pending
-Smuggling,走私,customs,pending
-Under-declaration,低报价格,customs,pending
-Misdeclaration,申报不实,customs,pending
-Customs Penalty,海关处罚,customs,pending
-Seizure,海关扣押,customs,pending
-Confiscation,没收,customs,pending
-Duty Evasion,逃税,customs,pending
-Voluntary Disclosure,主动披露,customs,pending
-Post-clearance Audit,海关稽查,customs,pending
-Customs Guarantee,海关保证金,customs,pending
-Duty Deferral,关税递延,customs,pending
-Duty Exemption,关税豁免,customs,pending
-Returned Goods,退运货物,customs,pending
-Re-import,复进口,customs,pending
-Second-hand Machinery Import,旧机电进口,customs,pending
-Customs Seal,海关关锁,customs,pending
-E-manifest,电子舱单,customs,pending
-AMS (Automated Manifest System),美国自动舱单系统,customs,pending
-ENS (Entry Summary Declaration),欧盟入境摘要申报,customs,pending
-ICS2,欧盟新版舱单系统,customs,pending
-CBP (Customs and Border Protection),美国海关及边境保卫局,customs,pending
-IPR Protection,知识产权海关保护,customs,pending
-Waste Import Restriction,固废进口限制,customs,pending
-Tariff Engineering,关税筹划,customs,pending
-First Sale Rule,首次销售规则,customs,pending
+Off-hire,停租,transport,published
+Ship Broker,船舶经纪人,transport,published
+Debit Note,借记通知单,documents,published
+Credit Note,贷记通知单,documents,published
+Sight Draft,即期汇票,documents,published
+Usance Draft,远期汇票,documents,published
+Irrevocable L/C,不可撤销信用证,documents,published
+Confirmed L/C,保兑信用证,documents,published
+Standby L/C,备用信用证,documents,published
+Revolving L/C,循环信用证,documents,published
+Back-to-back L/C,背对背信用证,documents,published
+Transferable L/C,可转让信用证,documents,published
+Red Clause L/C,红条款信用证,documents,published
+L/C Amendment,信用证修改,documents,published
+Discrepancy,不符点,documents,published
+UCP 600,跟单信用证统一惯例,documents,published
+D/P (Documents against Payment),付款交单,documents,published
+D/A (Documents against Acceptance),承兑交单,documents,published
+Collection,托收,documents,published
+Open Account (O/A),赊销,documents,published
+T/T (Telegraphic Transfer),电汇,documents,published
+Advance Payment,预付货款,documents,published
+Bank Guarantee,银行保函,documents,published
+Performance Bond,履约保函,documents,published
+Bid Bond,投标保函,documents,published
+Advance Payment Guarantee,预付款保函,documents,published
+Open Cover,预约保险,documents,published
+Marine Cargo Insurance,海运货物保险,documents,published
+Institute Cargo Clauses,协会货物条款,documents,published
+All Risks,一切险,documents,published
+WPA (With Particular Average),水渍险,documents,published
+FPA (Free from Particular Average),平安险,documents,published
+General Additional Risks,一般附加险,documents,published
+Special Additional Risks,特殊附加险,documents,published
+War Risk,战争险,documents,published
+Strikes Risk,罢工险,documents,published
+Insurable Interest,可保利益,documents,published
+Insured Value,保险价值,documents,published
+Insurance Premium,保险费,documents,published
+Insurance Claim,保险索赔,documents,published
+Survey Report,检验报告,documents,published
+Deductible,免赔额,documents,published
+Subrogation,代位追偿,documents,published
+Weight Memo,重量单,documents,published
+Measurement List,尺码单,documents,published
+Neutral Invoice,中性发票,documents,published
+FCR (Forwarder's Certificate of Receipt),货运代理收据凭证,documents,published
+Shipping Advice,装运通知,documents,published
+Form A Certificate,普惠制原产地证,documents,published
+Form E Certificate,中国-东盟原产地证,documents,published
+RCEP Certificate,RCEP原产地证书,documents,published
+Certificate of Analysis,分析证书,documents,published
+Quality Certificate,质量证书,documents,published
+ISPM 15,国际木质包装检疫标准,documents,published
+Wood Packaging Declaration,木质包装声明,documents,published
+DGD (Dangerous Goods Declaration),危险品申报单,documents,published
+SLI (Shipper's Letter of Instruction),托运指示书,documents,published
+End-user Certificate,最终用户证明,documents,published
+Consular Invoice,领事发票,documents,published
+Legalisation,领事认证,documents,published
+E-invoice,电子发票,documents,published
+E-B/L,电子提单,documents,published
+Payment Receipt,收款收据,documents,published
+Remittance Advice,汇款通知,documents,published
+Statement of Account,对账单,documents,published
+Packing Declaration,包装声明,documents,published
+Insurance Policy,保险单,documents,published
+Cover Note,承保通知书,documents,published
+Dock Receipt,场站收据,documents,published
+Mate's Receipt,大副收据,documents,published
+Post Receipt,邮包收据,documents,published
+Courier Receipt,快递收据,documents,published
+Delivery Note,送货单,documents,published
+GRN (Goods Received Note),收货单,documents,published
+Export Declaration Form,出口报关单,documents,published
+Import Declaration Form,进口报关单,documents,published
+Customs Invoice,海关发票,documents,published
+Certificate of Free Sale,自由销售证书,documents,published
+Certificate of Conformity,符合性证书,documents,published
+SGS Inspection Certificate,SGS检验证书,documents,published
+Radiation Certificate,辐射检测证书,documents,published
+Certificate of Weight,重量证书,documents,published
+House Air Waybill,空运分运单,documents,published
+Master Air Waybill,空运主运单,documents,published
+DG Label,危险品标签,documents,published
+Handling Label,操作标签,documents,published
+Fragile Label,易碎标签,documents,published
+This Side Up Label,向上标签,documents,published
+Beneficiary,受益人,documents,published
+Applicant,开证申请人,documents,published
+Issuing Bank,开证行,documents,published
+Advising Bank,通知行,documents,published
+Negotiating Bank,议付行,documents,published
+Confirming Bank,保兑行,documents,published
+Reimbursing Bank,偿付行,documents,published
+MFN (Most Favoured Nation),最惠国待遇,customs,published
+Bound Rate,约束税率,customs,published
+Applied Tariff Rate,实施税率,customs,published
+Preferential Tariff,特惠关税,customs,published
+Tariff Rate Quota,关税配额,customs,published
+Safeguard Measures,保障措施,customs,published
+Trade Remedy,贸易救济措施,customs,published
+Import Duty,进口关税,customs,published
+Export Duty,出口关税,customs,published
+Rules of Origin,原产地规则,customs,published
+Country of Origin,原产国,customs,published
+Substantial Transformation,实质性改变标准,customs,published
+Origin Marking,原产地标记,customs,published
+Pre-shipment Inspection,装运前检验,customs,published
+Commodity Inspection,商品检验,customs,published
+CIQ,出入境检验检疫,customs,published
+SPS Agreement,卫生与植物卫生措施协定,customs,published
+TBT (Technical Barriers to Trade),技术性贸易壁垒,customs,published
+CE Marking,CE认证,customs,published
+CCC Certification,中国强制性产品认证,customs,published
+FDA Registration,FDA注册,customs,published
+Halal Certification,清真认证,customs,published
+Sanitary Certificate,卫生证书,customs,published
+Veterinary Certificate,兽医卫生证书,customs,published
+Import Quota,进口配额,customs,published
+Export Quota,出口配额,customs,published
+Dual-use Goods,两用物项,customs,published
+Export Control,出口管制,customs,published
+Embargo,禁运,customs,published
+Sanctions Screening,制裁名单筛查,customs,published
+Denied Party Screening,禁运对象筛查,customs,published
+Re-export,再出口,customs,published
+Bonded Logistics Zone,保税物流中心,customs,published
+Bonded Factory,保税工厂,customs,published
+Customs Supervision Zone,海关监管区,customs,published
+Customs Broker,报关行,customs,published
+Declarant,报关申报人,customs,published
+Importer of Record,进口记录商,customs,published
+Exporter of Record,出口记录商,customs,published
+Dutiable Value,完税价格,customs,published
+Transaction Value Method,成交价格法,customs,published
+Import VAT,进口环节增值税,customs,published
+Tariff Heading,税则号列,customs,published
+Classification Ruling,商品归类裁定,customs,published
+BTI (Binding Tariff Information),约束性税率信息,customs,published
+WCO,世界海关组织,customs,published
+Kyoto Convention,京都公约,customs,published
+Single Window,国际贸易单一窗口,customs,published
+Paperless Clearance,无纸化通关,customs,published
+Pre-arrival Declaration,抵达前申报,customs,published
+Green Lane,绿色通道,customs,published
+Red Lane,红色通道,customs,published
+X-ray Scanning,机检查验,customs,published
+Smuggling,走私,customs,published
+Under-declaration,低报价格,customs,published
+Misdeclaration,申报不实,customs,published
+Customs Penalty,海关处罚,customs,published
+Seizure,海关扣押,customs,published
+Confiscation,没收,customs,published
+Duty Evasion,逃税,customs,published
+Voluntary Disclosure,主动披露,customs,published
+Post-clearance Audit,海关稽查,customs,published
+Customs Guarantee,海关保证金,customs,published
+Duty Deferral,关税递延,customs,published
+Duty Exemption,关税豁免,customs,published
+Returned Goods,退运货物,customs,published
+Re-import,复进口,customs,published
+Second-hand Machinery Import,旧机电进口,customs,published
+Customs Seal,海关关锁,customs,published
+E-manifest,电子舱单,customs,published
+AMS (Automated Manifest System),美国自动舱单系统,customs,published
+ENS (Entry Summary Declaration),欧盟入境摘要申报,customs,published
+ICS2,欧盟新版舱单系统,customs,published
+CBP (Customs and Border Protection),美国海关及边境保卫局,customs,published
+IPR Protection,知识产权海关保护,customs,published
+Waste Import Restriction,固废进口限制,customs,published
+Tariff Engineering,关税筹划,customs,published
+First Sale Rule,首次销售规则,customs,published
 Duty Repayment,关税退还,customs,pending
 Harmonized Tariff Schedule,协调关税表,customs,pending
 Export Subsidy,出口补贴,customs,pending

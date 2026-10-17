@@ -64,7 +64,7 @@ def slugify(text: str) -> str:
     return slug or "entry"
 
 
-def call_gemini(prompt: str, retries: int = 3) -> str:
+def call_gemini(prompt: str, retries: int = 6) -> str:
     """调用 Gemini generateContent API，返回文本。"""
     url = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
@@ -92,7 +92,7 @@ def call_gemini(prompt: str, retries: int = 3) -> str:
             return text.strip()
         except Exception as err:  # noqa: BLE001
             last_err = err
-            wait = attempt * 5
+            wait = min(attempt * 20, 60)  # 大批量运行时给限流留出恢复时间
             print(f"  [重试 {attempt}/{retries}] {err}，{wait}s 后再试", flush=True)
             time.sleep(wait)
     raise RuntimeError(f"Gemini API 调用失败: {last_err}")
