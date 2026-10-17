@@ -619,3 +619,623 @@ Fragile Cargo,易碎品运输,special-cargo,pending
 Lashing,货物绑扎,special-cargo,pending
 Dunnage,垫料,special-cargo,pending
 Cargo Securing,货物系固,special-cargo,pending
+Firm Offer,实盘,trade-terms,pending
+Non-firm Offer,虚盘,trade-terms,pending
+Offer,发盘,trade-terms,pending
+Counter-offer,还盘,trade-terms,pending
+Acceptance,承诺接受,trade-terms,pending
+Inquiry,询盘,trade-terms,pending
+Quotation,报价,trade-terms,pending
+Offer Validity,报价有效期,trade-terms,pending
+Triangular Trade,三角贸易,trade-terms,pending
+Middleman,中间商,trade-terms,pending
+Trading Company,贸易公司,trade-terms,pending
+OEM,代工生产,trade-terms,pending
+ODM,原始设计制造,trade-terms,pending
+OBM,自有品牌制造,trade-terms,pending
+Private Label,贴牌生产,trade-terms,pending
+Sourcing,采购寻源,trade-terms,pending
+Procurement,采购,trade-terms,pending
+Supplier,供应商,trade-terms,pending
+Sub-supplier,二级供应商,trade-terms,pending
+Settlement Currency,结算货币,trade-terms,pending
+Exchange Rate,汇率,trade-terms,pending
+Exchange Risk,汇率风险,trade-terms,pending
+Hedging,套期保值,trade-terms,pending
+Letter of Intent,意向书,trade-terms,pending
+MOU,谅解备忘录,trade-terms,pending
+Breach of Contract,违约,trade-terms,pending
+Liquidated Damages,违约金,trade-terms,pending
+Warranty Period,质保期,trade-terms,pending
+Retention Money,质保金,trade-terms,pending
+Down Payment,首付款,trade-terms,pending
+Balance Payment,尾款,trade-terms,pending
+Net 30,30天付款账期,trade-terms,pending
+Credit Limit,信用额度,trade-terms,pending
+Market Price,市场价,trade-terms,pending
+Spot Price,现货价,trade-terms,pending
+Spot Goods,现货,trade-terms,pending
+Futures,期货,trade-terms,pending
+Forward Contract,远期合约,trade-terms,pending
+Long-term Agreement,长期协议,trade-terms,pending
+Price Adjustment Clause,价格调整条款,trade-terms,pending
+Hard Currency,硬通货,trade-terms,pending
+Buyback Trade,回购贸易,trade-terms,pending
+Governing Law,适用法律,trade-terms,pending
+Inspection Clause,检验条款,trade-terms,pending
+Packing Clause,包装条款,trade-terms,pending
+Berth Allocation,泊位分配,transport,pending
+Quay Wall,码头岸壁,transport,pending
+Container Terminal,集装箱码头,transport,pending
+Terminal Yard,码头堆场,transport,pending
+Quay Crane,岸桥,transport,pending
+Truck Appointment System,卡车预约系统,transport,pending
+Reefer Plug,冷藏箱插座,transport,pending
+Genset,发电机组,transport,pending
+Container Wash,集装箱清洗,transport,pending
+Container Repair,集装箱维修,transport,pending
+Damage Survey,货损检验,transport,pending
+On-hire Survey,起租验箱,transport,pending
+Off-hire Survey,退租验箱,transport,pending
+Container Leasing,集装箱租赁,transport,pending
+Leasing Company,租箱公司,transport,pending
+Overbooking,超售订舱,transport,pending
+Priority Booking,优先订舱,transport,pending
+Premium Freight,加急运费,transport,pending
+Expedited Shipping,加急运输,transport,pending
+Backhaul,回程运输,transport,pending
+Headhaul,去程运输,transport,pending
+Empty Repositioning,空箱调运,transport,pending
+Repositioning Charge,空箱调运费,transport,pending
+Bonded Transport,保税运输,transport,pending
+In Transit,在途运输,transport,pending
+Stowage,配载,transport,pending
+Stowage Plan,配载图,transport,pending
+Lashing Points,绑扎点,transport,pending
+Twist Lock,扭锁,transport,pending
+Cell Guide,导轨架,transport,pending
+Ship Stability,船舶稳性,transport,pending
+Deadweight Tonnage,载重吨,transport,pending
+Gross Tonnage,总吨,transport,pending
+Net Tonnage,净吨,transport,pending
+FEU,40英尺标准箱,transport,pending
+Standard Container,标准集装箱,transport,pending
+High Cube Container,超高集装箱,transport,pending
+45ft Container,45英尺集装箱,transport,pending
+Pallet Wide Container,加宽托盘箱,transport,pending
+Swap Body,交换箱体,transport,pending
+Palletized Cargo,托盘化货物,transport,pending
+Unitization,成组化运输,transport,pending
+Material Handling,物料搬运,transport,pending
+Forklift,叉车,transport,pending
+Container Per Diem,集装箱按日计费,transport,pending
+Intermodal Operator,多式联运经营人,transport,pending
+Freight Village,物流园区,transport,pending
+Dry Port,内陆港,transport,pending
+Transshipment Hub,转运枢纽,transport,pending
+Hub Port,枢纽港,transport,pending
+Feeder Port,支线港,transport,pending
+Load Center,航线挂靠中心,transport,pending
+Port Call,挂靠港口,transport,pending
+Rotation,挂靠顺序,transport,pending
+Voyage Number,航次号,transport,pending
+Vessel Name,船名,transport,pending
+IMO Number,IMO编号,transport,pending
+AIS,船舶自动识别系统,transport,pending
+Vessel Tracking,船舶动态跟踪,transport,pending
+War Risk Surcharge,战争险附加费,transport,pending
+Piracy Risk,海盗风险,transport,pending
+Bulk Carrier,散货船,transport,pending
+Container Ship,集装箱船,transport,pending
+VLCC,超大型油轮,transport,pending
+ULCV,超大型集装箱船,transport,pending
+Panamax,巴拿马型船,transport,pending
+Post-Panamax,超巴拿马型船,transport,pending
+Ice Class,冰级船舶,transport,pending
+Shore Power,岸电,transport,pending
+Decarbonization,航运脱碳,transport,pending
+EEXI,现有船能效指数,transport,pending
+CII,碳强度指标,transport,pending
+EU ETS,欧盟碳排放交易体系,transport,pending
+Green Corridor,绿色航运走廊,transport,pending
+Slow Steaming,减速航行,transport,pending
+Weather Routing,气象导航,transport,pending
+Charter Market,租船市场,transport,pending
+BDI,波罗的海干散货指数,transport,pending
+Ship Registration,船舶登记,transport,pending
+Maritime Arbitration,海事仲裁,transport,pending
+Collision,碰撞事故,transport,pending
+Grounding,搁浅事故,transport,pending
+Jettison,海上抛货,transport,pending
+Theft and Pilferage,偷盗短缺,transport,pending
+GA Adjustment,共同海损理算,transport,pending
+Average Adjuster,海损理算师,transport,pending
+Marine Surveyor,海事检验师,transport,pending
+Cargo Surveyor,货物检验师,transport,pending
+AOG (Aircraft on Ground),航空器材紧急运输,transport,pending
+Next Flight Out,下一航班出运,transport,pending
+Hand Carry,手提急件,transport,pending
+Fleet,车队,transport,pending
+Owner-operator,个体司机,transport,pending
+Route Optimization,路径优化,transport,pending
+Consolidation Center,集货中心,transport,pending
+Delivery Attempt,派送尝试,transport,pending
+Address Correction,地址更正费,transport,pending
+Accessorial Charge,附加服务费,transport,pending
+Residential Surcharge,住宅派送附加费,transport,pending
+Remote Area Surcharge,偏远地区附加费,transport,pending
+Oversize Surcharge,超大件附加费,transport,pending
+Additional Handling,额外操作费,transport,pending
+Port Dues,港务费,transport,pending
+Cargo Hold,货舱,transport,pending
+Sweat Damage,舱内汗湿,transport,pending
+Lift-on Lift-off,吊上吊下作业,transport,pending
+P&I Club,保赔协会,transport,pending
+Hull Insurance,船壳险,transport,pending
+Liner Shipping,班轮运输,transport,pending
+Tramp Shipping,不定期船运输,transport,pending
+Tailgate Delivery,尾板派送,transport,pending
+Liftgate,升降尾板车,transport,pending
+Inside Delivery,入室派送,transport,pending
+White Glove Service,白手套服务,transport,pending
+Job Site Delivery,工地交付,transport,pending
+Drone Delivery,无人机配送,transport,pending
+Autonomous Trucking,自动驾驶卡车,transport,pending
+EV Fleet,新能源车队,transport,pending
+City Logistics,城市物流,transport,pending
+Micro-hub,微型配送枢纽,transport,pending
+Cargo Bike,货运自行车,transport,pending
+Night Delivery,夜间配送,transport,pending
+Off-peak Delivery,错峰配送,transport,pending
+Parcel Locker,智能快递柜,transport,pending
+Pickup Point,自提点,transport,pending
+Middle Mile,中间公里运输,transport,pending
+Line Haul,干线运输,transport,pending
+Shuttle Service,往返接驳,transport,pending
+Dedicated Contract,运力专包,transport,pending
+Freight Marketplace,运力交易平台,transport,pending
+Digital Freight,数字货运,transport,pending
+Warehouse-to-Warehouse Clause,仓至仓条款,documents,pending
+Insurance Broker,保险经纪人,documents,pending
+Loss Adjuster,理赔公估师,documents,pending
+Notice of Loss,出险通知,documents,pending
+Abandonment,委付,documents,pending
+Constructive Total Loss,推定全损,documents,pending
+Actual Total Loss,实际全损,documents,pending
+Partial Loss,部分损失,documents,pending
+Sue and Labour Clause,施救条款,documents,pending
+Himalaya Clause,喜马拉雅条款,documents,pending
+Paramount Clause,首要条款,documents,pending
+Jurisdiction Clause,管辖权条款,documents,pending
+Arbitration Clause,仲裁条款,documents,pending
+Excepted Perils,免责事由,documents,pending
+Force Majeure,不可抗力,documents,pending
+Beneficiary's Certificate,受益人证明,documents,pending
+Shipping Company Certificate,船公司证明,documents,pending
+Packing Specification,包装明细单,documents,pending
+Origin Declaration,原产地声明,documents,pending
+Approved Exporter,认证出口商,documents,pending
+REX System,注册出口商制度,documents,pending
+EUR.1 Movement Certificate,欧盟优惠原产地流转证书,documents,pending
+FX Settlement,结汇,documents,pending
+Negotiation,议付,documents,pending
+Discounting,票据贴现,documents,pending
+Forfaiting,福费廷,documents,pending
+Factoring,保理,documents,pending
+Export Credit Insurance,出口信用保险,documents,pending
+Sinosure,中国出口信用保险,documents,pending
+Trade Finance,贸易融资,documents,pending
+Packing Credit,打包贷款,documents,pending
+Payment Terms,付款条件,documents,pending
+Installment Payment,分期付款,documents,pending
+Letter of Indemnity,提单保函,documents,pending
+Indemnity,赔偿保证,documents,pending
+Acceptance of Draft,汇票承兑,documents,pending
+Blank Endorsement,空白背书,documents,pending
+Restrictive Endorsement,记名背书,documents,pending
+Holder in Due Course,正当持票人,documents,pending
+Presentation,交单,documents,pending
+Document Examination,审单,documents,pending
+Waiver of Discrepancy,不符点放弃,documents,pending
+Refusal Notice,拒付通知,documents,pending
+Swift MT700,SWIFT信用证电文,documents,pending
+Amicable Settlement,友好和解,documents,pending
+Force Majeure Certificate,不可抗力证明,documents,pending
+CCPIT Certification,贸促会认证,documents,pending
+Chamber of Commerce,商会,documents,pending
+Notarization,公证,documents,pending
+Business License,营业执照,documents,pending
+E-CO,电子原产地证,documents,pending
+Digital Trade Document,数字贸易单证,documents,pending
+EDI,电子数据交换,documents,pending
+UN/EDIFACT,联合国EDI标准,documents,pending
+Track and Trace,货物轨迹追踪,documents,pending
+Milestone Notification,物流节点通知,documents,pending
+Exception Notification,异常事件通知,documents,pending
+Freight Invoice,运费发票,documents,pending
+Freight Audit,运费审计,documents,pending
+Distribution Agreement,经销协议,documents,pending
+Supply Agreement,供货协议,documents,pending
+Framework Agreement,框架协议,documents,pending
+NDA,保密协议,documents,pending
+Warranty Certificate,质保书,documents,pending
+Customs Power of Attorney,报关委托书,documents,pending
+Booking Form,订舱委托书,documents,pending
+Short Shipment,短装,documents,pending
+Claim Letter,索赔函,documents,pending
+Settlement Agreement,和解协议,documents,pending
+Third-party Inspection,第三方检验机构,documents,pending
+CAD (Cash against Documents),凭单付款,documents,pending
+Bank Draft,银行汇票,documents,pending
+Promissory Note,本票,documents,pending
+Check,支票,documents,pending
+Wire Confirmation,汇款水单,documents,pending
+Payment Voucher,付款凭证,documents,pending
+Commission Invoice,佣金发票,documents,pending
+Sample Invoice,样品发票,documents,pending
+Final Invoice,最终发票,documents,pending
+Interim Invoice,期中发票,documents,pending
+EEI (Electronic Export Information),美国电子出口信息申报,documents,pending
+AES,美国出口申报系统,documents,pending
+ITN,美国内部交易编号,documents,pending
+Destination Control Statement,目的地管制声明,documents,pending
+Importer Number,美国进口商编号,documents,pending
+Insurance Declaration,保险申报单,documents,pending
+Loss Payee,保险赔付受益人,documents,pending
+Co-insurance,共同保险,documents,pending
+Franchise,免赔率,documents,pending
+P&I Certificate,保赔保险证书,documents,pending
+Digital Signature,数字签名,documents,pending
+Document Retention,单证保存,documents,pending
+Remittance,汇款,documents,pending
+Bank Charges,银行手续费,documents,pending
+Confirmation Fee,保兑费,documents,pending
+Discrepancy Fee,不符点费,documents,pending
+Documentation Fee,单证费,documents,pending
+Amendment Fee,改单费,documents,pending
+Courier Fee,快递费,documents,pending
+Tally Sheet,理货单,documents,pending
+Loading List,装货清单,documents,pending
+Gate Pass,出门证,documents,pending
+Weighbridge Slip,地磅单,documents,pending
+Comprehensive Bonded Zone,综合保税区,customs,pending
+9610 Model,跨境电商9610模式,customs,pending
+9710 Model,跨境电商9710模式,customs,pending
+9810 Model,跨境电商9810模式,customs,pending
+1210 Model,跨境电商1210模式,customs,pending
+Positive List,跨境电商进口正面清单,customs,pending
+Verification Write-off,加工贸易核销,customs,pending
+Processing Manual,加工贸易手册,customs,pending
+Electronic Manual,电子化手册,customs,pending
+Bonded Processing,保税加工,customs,pending
+Outsourced Processing,外发加工,customs,pending
+Bonded Goods Domestic Sales,保税货物内销,customs,pending
+Supplementary Duty,补缴税款,customs,pending
+Margin Account,保证金台账,customs,pending
+Animal and Plant Quarantine,动植物检疫,customs,pending
+Food Import Registration,进口食品收货人备案,customs,pending
+Cosmetics Filing,进口化妆品备案,customs,pending
+Medical Device Registration,医疗器械注册,customs,pending
+Drug Import Permit,药品进口许可,customs,pending
+Energy Label,能效标识,customs,pending
+SRRC Type Approval,无线电型号核准,customs,pending
+Tax Invoice,增值税专用发票,customs,pending
+Export Rebate Rate,出口退税率,customs,pending
+General Trade,一般贸易,customs,pending
+Border Trade,边境贸易,customs,pending
+Market Procurement Trade,市场采购贸易,customs,pending
+Offshore Trade,离岸贸易,customs,pending
+Section 301,美国301条款,customs,pending
+Section 232,美国232条款,customs,pending
+Administrative Review,行政复审,customs,pending
+Scope Ruling,反倾销范围裁定,customs,pending
+Entry (US),美国进口申报,customs,pending
+CPSC,美国消费品安全委员会,customs,pending
+Lacey Act,美国野生动植物保护法,customs,pending
+FDA Prior Notice,FDA预先申报,customs,pending
+USMCA,美墨加协定,customs,pending
+Union Customs Code,欧盟海关法典,customs,pending
+VAT Registration,欧盟VAT税号注册,customs,pending
+IOSS,欧盟进口一站式申报,customs,pending
+VAT Deferral,欧盟关税递延,customs,pending
+Fiscal Representation,欧盟财税代表,customs,pending
+EU Deforestation Regulation,欧盟零毁林法案,customs,pending
+CBAM,欧盟碳边境调节机制,customs,pending
+REACH Regulation,欧盟REACH化学品法规,customs,pending
+RoHS,欧盟RoHS指令,customs,pending
+WEEE,欧盟废弃电子设备指令,customs,pending
+GPSR,欧盟通用产品安全法规,customs,pending
+EU Responsible Person,欧盟授权代表,customs,pending
+UKCA,英国合格认证标志,customs,pending
+HMRC,英国税务海关总署,customs,pending
+Customs Unit Filing,报关单位备案,customs,pending
+Enterprise Credit Rating,企业信用等级,customs,pending
+Two-step Declaration,两步申报,customs,pending
+Examination Ratio,查验率,customs,pending
+Double Random,双随机查验,customs,pending
+Intelligent Image Review,智能审图,customs,pending
+Risk Targeting,风险布控,customs,pending
+Entity List,美国实体清单,customs,pending
+UVL,未经验证清单,customs,pending
+Military End User,军事最终用户,customs,pending
+BIS,美国工业与安全局,customs,pending
+OFAC,美国海外资产控制办公室,customs,pending
+ECCN,出口管制分类编号,customs,pending
+License Exception,出口许可例外,customs,pending
+Re-export Control,再出口管制,customs,pending
+Secondary Sanctions,二级制裁,customs,pending
+Red Flags,合规预警信号,customs,pending
+Trade Compliance,贸易合规,customs,pending
+Compliance Program,合规管理体系,customs,pending
+T1 Document,欧盟T1转关单,customs,pending
+NCTS,欧盟转关计算机系统,customs,pending
+Release for Free Circulation,自由流通放行,customs,pending
+End-use Authorization,特定用途放行,customs,pending
+Returned Goods Relief,退运货物减免,customs,pending
+Inward Processing,欧盟进料加工,customs,pending
+Outward Processing,欧盟出料加工,customs,pending
+Authorised Consignee,欧盟授权收货人,customs,pending
+Authorised Consignor,欧盟授权发货人,customs,pending
+Cabotage,沿海运输权,customs,pending
+Supplier's Declaration,供应商原产地声明,customs,pending
+Long-term Supplier Declaration,长期供应商声明,customs,pending
+Origin Self-certification,原产地自我声明,customs,pending
+Fake Origin,伪造原产地,customs,pending
+Transshipment Fraud,转口贸易欺诈,customs,pending
+Gray Clearance,灰关清关,customs,pending
+Baggage Declaration,行李物品申报,customs,pending
+WTO Valuation Agreement,WTO海关估价协定,customs,pending
+Royalty Assessment,特许权使用费估价,customs,pending
+Assists,无偿协助货物估价,customs,pending
+Post-entry Amendment,进口后申报修改,customs,pending
+Formal Entry,正式报关,customs,pending
+Informal Entry,非正式报关,customs,pending
+Low Value Shipment,低值货物申报,customs,pending
+Consolidated Clearance,合并清关,customs,pending
+Blast Freezing,速冻处理,warehousing,pending
+Chilled Zone,冷藏温区,warehousing,pending
+Frozen Zone,冷冻温区,warehousing,pending
+Ambient Zone,常温区,warehousing,pending
+Temperature Mapping,温度分布验证,warehousing,pending
+Clear Height,仓库净高,warehousing,pending
+Floor Loading,地面承重,warehousing,pending
+Fire Sprinkler,消防喷淋系统,warehousing,pending
+MHE,物料搬运设备,warehousing,pending
+VNA (Very Narrow Aisle),窄巷道货架,warehousing,pending
+Shuttle System,穿梭车系统,warehousing,pending
+Goods-to-Person,货到人拣选,warehousing,pending
+Person-to-Goods,人到货拣选,warehousing,pending
+Drone Inventory Counting,无人机盘点,warehousing,pending
+ERP,企业资源计划系统,warehousing,pending
+IoT,物联网,warehousing,pending
+Sensor Monitoring,仓库环境监控,warehousing,pending
+Digital Twin,数字孪生仓库,warehousing,pending
+Predictive Maintenance,预测性维护,warehousing,pending
+Labor Management System,劳动力管理系统,warehousing,pending
+Labor Productivity,仓库人效,warehousing,pending
+Orders per Hour,每小时订单处理量,warehousing,pending
+Cost per Order,单均履约成本,warehousing,pending
+Handling Cost,库内操作成本,warehousing,pending
+Freight Cost,运输成本,warehousing,pending
+Logistics Cost,物流总成本,warehousing,pending
+Landed Cost,到岸总成本,warehousing,pending
+Seasonality,季节性波动,warehousing,pending
+Pick Path,拣货路径,warehousing,pending
+Golden Zone,黄金拣货区,warehousing,pending
+Forward Pick,前置拣货区,warehousing,pending
+Reserve Storage,储备存储区,warehousing,pending
+Staging Area,发货暂存区,warehousing,pending
+QA Hold,质检扣留区,warehousing,pending
+Refurbishment,翻新处理,warehousing,pending
+Disposal,销毁处理,warehousing,pending
+Recycling,回收处理,warehousing,pending
+Carton,纸箱,warehousing,pending
+Master Carton,外包装箱,warehousing,pending
+Inner Box,内盒,warehousing,pending
+Bubble Wrap,气泡膜,warehousing,pending
+Foam Fill,泡沫填充物,warehousing,pending
+Void Fill,空隙填充,warehousing,pending
+Stretch Film,缠绕膜,warehousing,pending
+Strapping,打包带,warehousing,pending
+Edge Protector,护角,warehousing,pending
+Desiccant,干燥剂,warehousing,pending
+Vacuum Packing,真空包装,warehousing,pending
+Crating,木箱包装,warehousing,pending
+Sustainable Packaging,环保包装,warehousing,pending
+Right-sizing,包装适型优化,warehousing,pending
+Dock-to-Stock,入库上架时长,warehousing,pending
+Lead Time,交货周期,warehousing,pending
+Order Lead Time,订单履约周期,warehousing,pending
+Transit Time,运输时效,warehousing,pending
+Cycle Time,作业周转时间,warehousing,pending
+On-time Rate,准时交付率,warehousing,pending
+Damage Rate,货损率,warehousing,pending
+Perfect Order Rate,订单完美履行率,warehousing,pending
+Service Level,服务水平,warehousing,pending
+SLA,服务水平协议,warehousing,pending
+Multi-order Picking,复合订单拣货,warehousing,pending
+Put-wall,播种墙,warehousing,pending
+Packing Station,打包工位,warehousing,pending
+Shipping Label,物流面单,warehousing,pending
+Thermal Printing,热敏打印,warehousing,pending
+Picking Cart,拣货车,warehousing,pending
+Ripening Room,果蔬催熟间,warehousing,pending
+Rack Label,货架标签,warehousing,pending
+Stock Transfer,库存调拨,warehousing,pending
+Full Pallet,整托作业,warehousing,pending
+Case Pick,拆箱拣货,warehousing,pending
+Each Pick,单件拣货,warehousing,pending
+Layer Picking,整层拣货,warehousing,pending
+Pallet Flow Rack,重力式托盘货架,warehousing,pending
+Carton Flow Rack,箱式流利货架,warehousing,pending
+Cantilever Racking,悬臂式货架,warehousing,pending
+Mezzanine,阁楼式货架,warehousing,pending
+Dock Seal,装卸门封,warehousing,pending
+Dedicated Warehouse,专属仓库,warehousing,pending
+Multi-client Warehouse,多客户共仓,warehousing,pending
+Flex Space,弹性仓容,warehousing,pending
+Overflow Warehouse,溢出备用仓,warehousing,pending
+Temp Labor,旺季临时用工,warehousing,pending
+Load Building,装车配载,warehousing,pending
+Route Sequence,配送顺序编排,warehousing,pending
+Cartonization,智能装箱算法,warehousing,pending
+Cube Utilization,装载空间利用率,warehousing,pending
+Trailer Load,拖车装载,warehousing,pending
+Multi-stop Route,多点配送线路,warehousing,pending
+DG Segregation Table,危险品隔离表,special-cargo,pending
+Class 1 Explosives,第1类爆炸品,special-cargo,pending
+Class 2 Gases,第2类气体,special-cargo,pending
+Class 3 Flammable Liquids,第3类易燃液体,special-cargo,pending
+Class 4 Flammable Solids,第4类易燃固体,special-cargo,pending
+Class 5 Oxidizers,第5类氧化性物质,special-cargo,pending
+Class 6 Toxic Substances,第6类毒性物质,special-cargo,pending
+Class 8 Corrosives,第8类腐蚀性物质,special-cargo,pending
+Class 9 Miscellaneous,第9类杂项危险品,special-cargo,pending
+Excepted Quantities,豁免数量危险品,special-cargo,pending
+DG Training,危险品从业培训,special-cargo,pending
+Cargo Aircraft Only,仅限货机运输,special-cargo,pending
+Passenger Aircraft Limit,客机限量危险品,special-cargo,pending
+Authority Approval,主管当局批准,special-cargo,pending
+UN Performance Test,联合国包装性能测试,special-cargo,pending
+Drop Test,包装跌落测试,special-cargo,pending
+Overpack,危险品外包装,special-cargo,pending
+Salvage Packaging,救助包装,special-cargo,pending
+Reconditioned Packaging,修复包装,special-cargo,pending
+Cold Room,冷藏间,special-cargo,pending
+Cold Treatment,冷处理除虫,special-cargo,pending
+Pre-cooling,采后预冷,special-cargo,pending
+Live Seafood,活鲜水产品运输,special-cargo,pending
+Cut Flowers,鲜切花运输,special-cargo,pending
+Clinical Trial Logistics,临床试验物流,special-cargo,pending
+Reefer Breakdown,冷藏箱故障,special-cargo,pending
+Gel Pack,蓄冷剂冰袋,special-cargo,pending
+Insulated Liner,隔热内衬袋,special-cargo,pending
+Thermal Blanket,保温毯,special-cargo,pending
+GHS,全球化学品统一分类标准,special-cargo,pending
+EMS Guide,船载危险品应急措施表,special-cargo,pending
+MFAG,危险品医疗急救指南,special-cargo,pending
+MARPOL,国际防止船舶污染公约,special-cargo,pending
+Permit to Transport,大件运输许可,special-cargo,pending
+Night Move,大件夜间运输,special-cargo,pending
+Counter Sample,回样,trade-terms,pending
+Original Sample,原样,trade-terms,pending
+Sealed Sample,封样,trade-terms,pending
+Duplicate Sample,复样,trade-terms,pending
+Sale by Sample,凭样成交,trade-terms,pending
+Sale by Description,凭说明成交,trade-terms,pending
+Sale by Grade,凭等级成交,trade-terms,pending
+Sale by Specification,凭规格成交,trade-terms,pending
+Indicative Mark,指示性包装标志,trade-terms,pending
+Warning Mark,警告性包装标志,trade-terms,pending
+Rebate,佣金回扣,trade-terms,pending
+Seasonal Pricing,季节性定价,trade-terms,pending
+Volume Discount,数量折扣,trade-terms,pending
+Price List,价目表,trade-terms,pending
+Floor Price,最低限价,trade-terms,pending
+Ceiling Price,最高限价,trade-terms,pending
+Reference Price,参考价格,trade-terms,pending
+Base Price,基准价格,trade-terms,pending
+Formula Price,公式定价,trade-terms,pending
+Fixed Price,固定价格,trade-terms,pending
+Floating Price,浮动价格,trade-terms,pending
+Sailing Schedule,船期表,trade-terms,pending
+Sailing Date,开航日期,trade-terms,pending
+Bunker Clause,租船燃油条款,transport,pending
+NYPE Form,纽约土产交易所定期租约格式,transport,pending
+GENCON,标准航次租船合同,transport,pending
+World Scale,世界油轮运价表,transport,pending
+Ship Agent,船舶代理,transport,pending
+Flag of Convenience,方便旗,transport,pending
+Wharfage,码头费,transport,pending
+Draft Survey,水尺计重,transport,pending
+Ullage,液货舱空距测量,transport,pending
+Cargo Readiness,货物备妥,transport,pending
+Mooring,系泊作业,transport,pending
+Drydocking,船舶进坞检修,transport,pending
+Freight Futures,运费期货,transport,pending
+Chassis Split,底盘车分离费,transport,pending
+Pre-pull,预提箱作业,transport,pending
+Factory Relocation,工厂搬迁物流,transport,pending
+Exhibition Logistics,展会物流,transport,pending
+Land Bridge,大陆桥运输,transport,pending
+Mini-land Bridge,小陆桥运输,transport,pending
+Piggyback,驮背运输,transport,pending
+Double-stack Train,双层集装箱列车,transport,pending
+Platform Container,平台集装箱,transport,pending
+Garment on Hanger,挂衣箱运输,transport,pending
+Overland Common Point,内陆公共点运价,transport,pending
+Pre-alert,到货预告单,documents,pending
+Outturn Report,卸货溢短残损报告,documents,pending
+Statement of Facts,装卸时间事实记录,documents,pending
+Charter Party B/L,租约提单,documents,pending
+Proof of Export,出口证明文件,documents,pending
+Trust Receipt,信托收据,documents,pending
+Import Loan,进口押汇,documents,pending
+Export Bill Purchase,出口押汇,documents,pending
+Clean Collection,光票托收,documents,pending
+Documentary Collection,跟单托收,documents,pending
+House Manifest,分舱单,documents,pending
+CN22/CN23 Declaration,邮政报关单,documents,pending
+Release,海关放行,customs,pending
+Port of Entry,入境口岸,customs,pending
+Land Port,陆路口岸,customs,pending
+Free Port,自由港,customs,pending
+Origin Verification,原产地核查,customs,pending
+Transfer Pricing,转让定价海关审查,customs,pending
+Related Party Transaction,关联交易估价,customs,pending
+Interest on Duty,关税滞纳金,customs,pending
+Provisional Duty,临时关税,customs,pending
+Mutual Recognition Agreement,国际互认协定,customs,pending
+Import Ban,进口禁令,customs,pending
+Export Ban,出口禁令,customs,pending
+Quantitative Restriction,数量限制措施,customs,pending
+Automatic Licensing,自动进口许可,customs,pending
+Conformity Assessment,合格评定程序,customs,pending
+Biosecurity,生物安全检疫,customs,pending
+Traceability,食品可追溯性,customs,pending
+Country of Dispatch,发货国,customs,pending
+Third Country,第三国,customs,pending
+Express Consignment Operator,快件运营人资质,customs,pending
+Postal Clearance,邮政渠道清关,customs,pending
+Pre-clearance,预清关,customs,pending
+Carrier Selection,承运商选择,warehousing,pending
+Rate Shopping,运价比价,warehousing,pending
+Carrier Scorecard,承运商绩效考核,warehousing,pending
+Inbound Scheduling,入库预约排程,warehousing,pending
+Sequencing,顺序供料配送,warehousing,pending
+Returns Grading,退货分级处理,warehousing,pending
+Restock,退货重新上架,warehousing,pending
+Take-back Obligation,生产者回收责任,warehousing,pending
+Circular Logistics,循环物流,warehousing,pending
+Green Warehouse,绿色仓库,warehousing,pending
+Solar Roof,仓库屋顶光伏,warehousing,pending
+Carbon Accounting,物流碳核算,warehousing,pending
+Emissions Reporting,碳排放报告,warehousing,pending
+GMP Warehouse,GMP药品仓库,warehousing,pending
+Zoning,库区分区管理,warehousing,pending
+Variance Report,库存差异报告,warehousing,pending
+Loss Prevention,仓库防损,warehousing,pending
+CCTV,仓库视频监控,warehousing,pending
+Access Control,仓库门禁管理,warehousing,pending
+State of Charge,锂电池荷电状态限制,special-cargo,pending
+Cold Box,冷链保温箱,special-cargo,pending
+Passive Packaging,被动保温包装,special-cargo,pending
+Active Reefer,主动制冷集装箱,special-cargo,pending
+Ethylene Scavenger,乙烯清除剂,special-cargo,pending
+Hatching Eggs,种蛋运输,special-cargo,pending
+Research Samples,科研样本运输,special-cargo,pending
+Infectious Substances,感染性物质运输,special-cargo,pending
+GMO Transport,转基因生物运输,special-cargo,pending
+Precursor Chemicals,易制毒化学品运输,special-cargo,pending
+Fireworks,烟花爆竹运输,special-cargo,pending
+Airbag Transport,汽车安全气囊运输,special-cargo,pending
+Ice Cream Transport,冰淇淋冷链运输,special-cargo,pending
+Chocolate Transport,巧克力温控运输,special-cargo,pending
+Wine Transport,葡萄酒运输,special-cargo,pending
+Odor Contamination,货物串味污染,special-cargo,pending
+Shortage,货物短缺,special-cargo,pending
+Breakage,货物破损,special-cargo,pending
+Contamination,货物污染,special-cargo,pending
+Leakage,货物渗漏,special-cargo,pending
+Return Merchandise Authorization,退货授权RMA,warehousing,pending
+Customs Brokerage Fee,清关代理服务费,customs,pending
