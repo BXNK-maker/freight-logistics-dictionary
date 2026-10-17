@@ -44,86 +44,86 @@ Cold Chain,冷链运输,special-cargo,published
 Reefer Container,冷藏集装箱,special-cargo,published
 Project Cargo,项目物流,special-cargo,published
 Out of Gauge Cargo,超限货物,special-cargo,published
-CIP,运费保险费付至,trade-terms,pending
-CPT,运费付至,trade-terms,pending
-DPU,卸货地交货,trade-terms,pending
-FAS,船边交货,trade-terms,pending
-DDU,未完税交货,trade-terms,pending
-Consignee,收货人,trade-terms,pending
-Shipper,发货人,trade-terms,pending
-Notify Party,被通知人,trade-terms,pending
-Freight Prepaid,运费预付,trade-terms,pending
-Freight Collect,运费到付,trade-terms,pending
-Container Yard,集装箱堆场,transport,pending
-Container Freight Station,集装箱货运站,transport,pending
-VGM,集装箱称重验证,transport,pending
-Cut-off Time,截关时间,transport,pending
-ETA and ETD,预计到港与离港时间,transport,pending
-Transshipment,转运,transport,pending
-THC,码头操作费,transport,pending
-BAF,燃油附加费,transport,pending
-Ocean Freight,海运费,transport,pending
-Dead Freight,亏舱费,transport,pending
-Laycan,受载期,transport,pending
-Stevedoring,装卸作业,transport,pending
-Feeder Service,支线运输,transport,pending
-RORO,滚装运输,transport,pending
-Breakbulk,件杂货运输,transport,pending
-Dimensional Weight,体积重量,transport,pending
-Chargeable Weight,计费重量,transport,pending
-GRI,综合费率上调,transport,pending
-Shipping Order,托运单,documents,pending
-House Bill of Lading,House 提单,documents,pending
-Master Bill of Lading,Master 提单,documents,pending
-Delivery Order,提货单,documents,pending
-Arrival Notice,到货通知,documents,pending
-Cargo Manifest,舱单,documents,pending
-Bill of Exchange,汇票,documents,pending
-Export License,出口许可证,documents,pending
-Import License,进口许可证,documents,pending
-Inspection Certificate,检验证书,documents,pending
-Fumigation Certificate,熏蒸证书,documents,pending
-ATA Carnet,ATA 单证册,documents,pending
-Phytosanitary Certificate,植物检疫证书,documents,pending
-ISF 10+2,进口安全申报,documents,pending
-Anti-dumping Duty,反倾销税,customs,pending
-Countervailing Duty,反补贴税,customs,pending
-FTA,自由贸易协定,customs,pending
-GSP,普惠制,customs,pending
-EORI,欧盟经营者注册识别号,customs,pending
-Temporary Admission,暂准进口,customs,pending
-Customs Valuation,海关估价,customs,pending
-Transit Procedure,转关运输,customs,pending
-Advance Ruling,预裁定,customs,pending
-Free Trade Zone,自由贸易区,customs,pending
-Excise Duty,消费税,customs,pending
-Customs Examination,海关查验,customs,pending
-De Minimis,小额免税,customs,pending
-WMS,仓库管理系统,warehousing,pending
-Distribution Center,配送中心,warehousing,pending
-SKU,最小库存单位,warehousing,pending
-ASN,预先发货通知,warehousing,pending
-Pick and Pack,拣货包装,warehousing,pending
-Cycle Count,循环盘点,warehousing,pending
-Safety Stock,安全库存,warehousing,pending
-FIFO,先进先出,warehousing,pending
-FEFO,先到期先出,warehousing,pending
-EOQ,经济订货批量,warehousing,pending
-Just-in-Time,准时制,warehousing,pending
-Reverse Logistics,逆向物流,warehousing,pending
-Pallet,托盘,warehousing,pending
-UN Number,联合国危险品编号,special-cargo,pending
-MSDS,化学品安全技术说明书,special-cargo,pending
-Packing Group,危险品包装类别,special-cargo,pending
-IATA DGR,国际航协危险品规则,special-cargo,pending
-IMDG Code,国际海运危险货物规则,special-cargo,pending
-Lithium Battery Shipping,锂电池运输,special-cargo,pending
-ADR,欧洲危险品公路运输协定,special-cargo,pending
-Perishable Cargo,易腐货物,special-cargo,pending
-Pharmaceutical Logistics,医药物流,special-cargo,pending
-Livestock Transport,活体动物运输,special-cargo,pending
-Valuable Cargo,贵重货物,special-cargo,pending
-ISO Tank,罐式集装箱,special-cargo,pending
-Flat Rack Container,框架集装箱,special-cargo,pending
-Open Top Container,开顶集装箱,special-cargo,pending
-Heavy Lift Cargo,超重货物,special-cargo,pending
+CIP,运费保险费付至,trade-terms,published
+CPT,运费付至,trade-terms,published
+DPU,卸货地交货,trade-terms,published
+FAS,船边交货,trade-terms,published
+DDU,未完税交货,trade-terms,published
+Consignee,收货人,trade-terms,published
+Shipper,发货人,trade-terms,published
+Notify Party,被通知人,trade-terms,published
+Freight Prepaid,运费预付,trade-terms,published
+Freight Collect,运费到付,trade-terms,published
+Container Yard,集装箱堆场,transport,published
+Container Freight Station,集装箱货运站,transport,published
+VGM,集装箱称重验证,transport,published
+Cut-off Time,截关时间,transport,published
+ETA and ETD,预计到港与离港时间,transport,published
+Transshipment,转运,transport,published
+THC,码头操作费,transport,published
+BAF,燃油附加费,transport,published
+Ocean Freight,海运费,transport,published
+Dead Freight,亏舱费,transport,published
+Laycan,受载期,transport,published
+Stevedoring,装卸作业,transport,published
+Feeder Service,支线运输,transport,published
+RORO,滚装运输,transport,published
+Breakbulk,件杂货运输,transport,published
+Dimensional Weight,体积重量,transport,published
+Chargeable Weight,计费重量,transport,published
+GRI,综合费率上调,transport,published
+Shipping Order,托运单,documents,published
+House Bill of Lading,House 提单,documents,published
+Master Bill of Lading,Master 提单,documents,published
+Delivery Order,提货单,documents,published
+Arrival Notice,到货通知,documents,published
+Cargo Manifest,舱单,documents,published
+Bill of Exchange,汇票,documents,published
+Export License,出口许可证,documents,published
+Import License,进口许可证,documents,published
+Inspection Certificate,检验证书,documents,published
+Fumigation Certificate,熏蒸证书,documents,published
+ATA Carnet,ATA 单证册,documents,published
+Phytosanitary Certificate,植物检疫证书,documents,published
+ISF 10+2,进口安全申报,documents,published
+Anti-dumping Duty,反倾销税,customs,published
+Countervailing Duty,反补贴税,customs,published
+FTA,自由贸易协定,customs,published
+GSP,普惠制,customs,published
+EORI,欧盟经营者注册识别号,customs,published
+Temporary Admission,暂准进口,customs,published
+Customs Valuation,海关估价,customs,published
+Transit Procedure,转关运输,customs,published
+Advance Ruling,预裁定,customs,published
+Free Trade Zone,自由贸易区,customs,published
+Excise Duty,消费税,customs,published
+Customs Examination,海关查验,customs,published
+De Minimis,小额免税,customs,published
+WMS,仓库管理系统,warehousing,published
+Distribution Center,配送中心,warehousing,published
+SKU,最小库存单位,warehousing,published
+ASN,预先发货通知,warehousing,published
+Pick and Pack,拣货包装,warehousing,published
+Cycle Count,循环盘点,warehousing,published
+Safety Stock,安全库存,warehousing,published
+FIFO,先进先出,warehousing,published
+FEFO,先到期先出,warehousing,published
+EOQ,经济订货批量,warehousing,published
+Just-in-Time,准时制,warehousing,published
+Reverse Logistics,逆向物流,warehousing,published
+Pallet,托盘,warehousing,published
+UN Number,联合国危险品编号,special-cargo,published
+MSDS,化学品安全技术说明书,special-cargo,published
+Packing Group,危险品包装类别,special-cargo,published
+IATA DGR,国际航协危险品规则,special-cargo,published
+IMDG Code,国际海运危险货物规则,special-cargo,published
+Lithium Battery Shipping,锂电池运输,special-cargo,published
+ADR,欧洲危险品公路运输协定,special-cargo,published
+Perishable Cargo,易腐货物,special-cargo,published
+Pharmaceutical Logistics,医药物流,special-cargo,published
+Livestock Transport,活体动物运输,special-cargo,published
+Valuable Cargo,贵重货物,special-cargo,published
+ISO Tank,罐式集装箱,special-cargo,published
+Flat Rack Container,框架集装箱,special-cargo,published
+Open Top Container,开顶集装箱,special-cargo,published
+Heavy Lift Cargo,超重货物,special-cargo,published
