@@ -8,7 +8,7 @@ on:
     inputs:
       max_entries:
         description: "单次最多生成多少条词条"
-        default: "20"
+        default: "200"
         required: false
 
 permissions:
@@ -35,7 +35,7 @@ jobs:
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
           GEMINI_MODEL: gemini-flash-lite-latest
-          MAX_ENTRIES: ${{ github.event.inputs.max_entries || '20' }}
+          MAX_ENTRIES: ${{ github.event.inputs.max_entries || '200' }}
         run: python scripts/generate_entries.py
 
       # 若有新词条，自动创建 Pull Request 供人工审核
