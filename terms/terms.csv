@@ -127,182 +127,182 @@ ISO Tank,罐式集装箱,special-cargo,published
 Flat Rack Container,框架集装箱,special-cargo,published
 Open Top Container,开顶集装箱,special-cargo,published
 Heavy Lift Cargo,超重货物,special-cargo,published
-FOB Stowed,离岸价含装舱费,trade-terms,pending
-FOB Trimmed,离岸价含平舱费,trade-terms,pending
-FOB Under Tackle,船钩下交货价,trade-terms,pending
-Ex Ship,目的港船上交货,trade-terms,pending
-Ex Quay,目的港码头交货,trade-terms,pending
-Ex Bonded Warehouse,保税仓库交货价,trade-terms,pending
-DAF (Delivered at Frontier),边境交货（旧术语）,trade-terms,pending
-DES (Delivered Ex Ship),目的港船上交货（旧术语）,trade-terms,pending
-DEQ (Delivered Ex Quay),目的港码头交货（旧术语）,trade-terms,pending
-Net Weight,净重,trade-terms,pending
-Gross Weight,毛重,trade-terms,pending
-Tare Weight,皮重,trade-terms,pending
-Gross for Net,以毛作净,trade-terms,pending
-Conditioned Weight,公量,trade-terms,pending
-More or Less Clause,溢短装条款,trade-terms,pending
-MOQ (Minimum Order Quantity),最小起订量,trade-terms,pending
-Unit Price,单价,trade-terms,pending
-Partial Shipment,分批装运,trade-terms,pending
-Latest Shipment Date,最迟装运期,trade-terms,pending
-Shipment Period,装运期,trade-terms,pending
-Port of Loading,装货港,trade-terms,pending
-Port of Discharge,卸货港,trade-terms,pending
-Place of Delivery,交货地点,trade-terms,pending
-Final Destination,最终目的地,trade-terms,pending
-Base Port,基本港,trade-terms,pending
-Non-Base Port,非基本港,trade-terms,pending
-ICD (Inland Container Depot),内陆集装箱堆场,trade-terms,pending
-Inland Point,内陆点,trade-terms,pending
-Title Transfer,所有权转移,trade-terms,pending
-Risk Transfer,风险转移,trade-terms,pending
-Sales Contract,销售合同,trade-terms,pending
-Purchase Order,采购订单,trade-terms,pending
-Sales Confirmation,销售确认书,trade-terms,pending
-Proforma Invoice,形式发票,trade-terms,pending
-Counter Trade,对销贸易,trade-terms,pending
-Barter Trade,易货贸易,trade-terms,pending
-Entrepot Trade,转口贸易,trade-terms,pending
-Processing Trade,加工贸易,trade-terms,pending
-Compensation Trade,补偿贸易,trade-terms,pending
-Agency Agreement,代理协议,trade-terms,pending
-Exclusive Agency,独家代理,trade-terms,pending
-Distributor,经销商,trade-terms,pending
-Consignment,寄售,trade-terms,pending
-Invitation to Tender,招标,trade-terms,pending
-Bid,投标,trade-terms,pending
-Liner Terms,班轮条款,transport,pending
-Berth Terms,泊位条款,transport,pending
-FIO (Free In and Out),船方不负担装卸费,transport,pending
-FIOS,船方不负担装卸堆垛费,transport,pending
-FIOST,船方不负担装卸堆垛平舱费,transport,pending
-Laytime,装卸时间,transport,pending
-Laytime Statement,装卸时间计算表,transport,pending
-Despatch Money,速遣费,transport,pending
-NOR (Notice of Readiness),装卸准备就绪通知书,transport,pending
-Time Charter,定期租船,transport,pending
-Voyage Charter,航次租船,transport,pending
-Bareboat Charter,光船租赁,transport,pending
-Charter Party,租船合同,transport,pending
-Freight Ton,运费吨,transport,pending
-W/M (Weight or Measurement),重量或体积计费,transport,pending
-CAF (Currency Adjustment Factor),货币贬值附加费,transport,pending
-EBS (Emergency Bunker Surcharge),紧急燃油附加费,transport,pending
-PCS (Port Congestion Surcharge),港口拥挤附加费,transport,pending
-PSS (Peak Season Surcharge),旺季附加费,transport,pending
-LSS (Low Sulphur Surcharge),低硫附加费,transport,pending
-CIC (Container Imbalance Charge),集装箱不平衡附加费,transport,pending
-DDC (Destination Delivery Charge),目的港交货费,transport,pending
-ORC (Origin Receiving Charge),起运港收货费,transport,pending
-ISPS Surcharge,港口安全附加费,transport,pending
-All-in Rate,全包运价,transport,pending
-Spot Rate,即期运价,transport,pending
-Contract Rate,协议运价,transport,pending
-Service Contract,运价服务协议,transport,pending
-BCO (Beneficial Cargo Owner),直客货主,transport,pending
-Co-load,同业拼箱,transport,pending
-Buyer's Consolidation,买家指定货,transport,pending
-Empty Container Depot,空箱堆场,transport,pending
-EIR (Equipment Interchange Receipt),设备交接单,transport,pending
-Gate-in,进场,transport,pending
-Gate-out,提箱出场,transport,pending
-Free Time,免费堆存期,transport,pending
-Storage Charge,堆存费,transport,pending
-Container Deposit,押箱费,transport,pending
-Seal,铅封,transport,pending
-Seal Number,铅封号,transport,pending
-Tally,理货,transport,pending
-Gantry Crane,桥吊,transport,pending
-RTG (Rubber-Tyred Gantry Crane),轮胎式龙门吊,transport,pending
-RMG (Rail-Mounted Gantry Crane),轨道式龙门吊,transport,pending
-Straddle Carrier,跨运车,transport,pending
-Reach Stacker,正面吊,transport,pending
-TOS (Terminal Operating System),码头操作系统,transport,pending
-Berth Window,泊位窗口,transport,pending
-Anchorage,锚地,transport,pending
-Pilotage,引航费,transport,pending
-Towage,拖轮费,transport,pending
-Canal Transit Fee,运河通行费,transport,pending
-Suez Canal Transit,苏伊士运河通行,transport,pending
-Cape of Good Hope Route,好望角航线,transport,pending
-Bunkering,船舶加油,transport,pending
-VLSFO,超低硫燃油,transport,pending
-IMO 2020,国际海事组织限硫令,transport,pending
-Ballast Water,压载水,transport,pending
-Flag State,船旗国,transport,pending
-Classification Society,船级社,transport,pending
-PSC (Port State Control),港口国监督,transport,pending
-General Average,共同海损,transport,pending
-Particular Average,单独海损,transport,pending
-GA Deposit,共同海损保证金,transport,pending
-Salvage,海难救助,transport,pending
-Shipping Alliance,航运联盟,transport,pending
-Freight Index,运价指数,transport,pending
-SCFI,上海出口集装箱运价指数,transport,pending
-Transpacific Route,跨太平洋航线,transport,pending
-Asia-Europe Route,亚欧航线,transport,pending
-Inland Waterway Transport,内河运输,transport,pending
-Barge,驳船运输,transport,pending
-Rail Freight,铁路运输,transport,pending
-China-Europe Railway Express,中欧班列,transport,pending
-Block Train,整列直达列车,transport,pending
-Rail Waybill,铁路运单,transport,pending
-SMGS Convention,国际铁路货物联运协定,transport,pending
-Road Freight,公路运输,transport,pending
-FTL (Full Truckload),整车运输,transport,pending
-LTL (Less than Truckload),零担运输,transport,pending
-Cross-border Trucking,跨境卡车运输,transport,pending
-TIR (Transports Internationaux Routiers),国际公路运输系统,transport,pending
-CMR Convention,国际公路货物运输合同公约,transport,pending
-Air Freight,航空货运,transport,pending
-Fuel Surcharge (Air),空运燃油附加费,transport,pending
-Security Surcharge (Air),空运安全附加费,transport,pending
-ULD (Unit Load Device),航空集装器,transport,pending
-Charter Flight,包机运输,transport,pending
-Freighter,全货机,transport,pending
-Belly Cargo,腹舱货,transport,pending
-e-AWB,电子航空运单,transport,pending
-Sea-Air Transport,海空联运,transport,pending
-Express,国际快递,transport,pending
-Parcel,包裹,transport,pending
-COD (Cash on Delivery),货到付款,transport,pending
-E-commerce Logistics,电商物流,transport,pending
-Cross-border E-commerce,跨境电商,transport,pending
-Dropshipping,一件代发,transport,pending
-POD (Proof of Delivery),签收证明,transport,pending
-Delivery Exception,派送异常,transport,pending
-Pickup,揽收,transport,pending
-Drayage,港区短驳,transport,pending
-Cartage,短途搬运,transport,pending
-Transloading,换装转载,transport,pending
-Chassis,集装箱底盘车,transport,pending
-Overweight Container,超重集装箱,transport,pending
-Axle Load,轴重,transport,pending
-Weight Limit,公路限重,transport,pending
-Schedule Reliability,船期可靠性,transport,pending
-Blank Sailing,跳港停航,transport,pending
-Rolled Cargo,甩柜,transport,pending
-Port Congestion,港口拥堵,transport,pending
-Dry Bulk,干散货,transport,pending
-Liquid Bulk,液体散货,transport,pending
-Bulk Cargo,散装货物,transport,pending
-Tanker,油轮运输,transport,pending
-Flexitank,液袋运输,transport,pending
-Neo-bulk,准散货,transport,pending
+FOB Stowed,离岸价含装舱费,trade-terms,published
+FOB Trimmed,离岸价含平舱费,trade-terms,published
+FOB Under Tackle,船钩下交货价,trade-terms,published
+Ex Ship,目的港船上交货,trade-terms,published
+Ex Quay,目的港码头交货,trade-terms,published
+Ex Bonded Warehouse,保税仓库交货价,trade-terms,published
+DAF (Delivered at Frontier),边境交货（旧术语）,trade-terms,published
+DES (Delivered Ex Ship),目的港船上交货（旧术语）,trade-terms,published
+DEQ (Delivered Ex Quay),目的港码头交货（旧术语）,trade-terms,published
+Net Weight,净重,trade-terms,published
+Gross Weight,毛重,trade-terms,published
+Tare Weight,皮重,trade-terms,published
+Gross for Net,以毛作净,trade-terms,published
+Conditioned Weight,公量,trade-terms,published
+More or Less Clause,溢短装条款,trade-terms,published
+MOQ (Minimum Order Quantity),最小起订量,trade-terms,published
+Unit Price,单价,trade-terms,published
+Partial Shipment,分批装运,trade-terms,published
+Latest Shipment Date,最迟装运期,trade-terms,published
+Shipment Period,装运期,trade-terms,published
+Port of Loading,装货港,trade-terms,published
+Port of Discharge,卸货港,trade-terms,published
+Place of Delivery,交货地点,trade-terms,published
+Final Destination,最终目的地,trade-terms,published
+Base Port,基本港,trade-terms,published
+Non-Base Port,非基本港,trade-terms,published
+ICD (Inland Container Depot),内陆集装箱堆场,trade-terms,published
+Inland Point,内陆点,trade-terms,published
+Title Transfer,所有权转移,trade-terms,published
+Risk Transfer,风险转移,trade-terms,published
+Sales Contract,销售合同,trade-terms,published
+Purchase Order,采购订单,trade-terms,published
+Sales Confirmation,销售确认书,trade-terms,published
+Proforma Invoice,形式发票,trade-terms,published
+Counter Trade,对销贸易,trade-terms,published
+Barter Trade,易货贸易,trade-terms,published
+Entrepot Trade,转口贸易,trade-terms,published
+Processing Trade,加工贸易,trade-terms,published
+Compensation Trade,补偿贸易,trade-terms,published
+Agency Agreement,代理协议,trade-terms,published
+Exclusive Agency,独家代理,trade-terms,published
+Distributor,经销商,trade-terms,published
+Consignment,寄售,trade-terms,published
+Invitation to Tender,招标,trade-terms,published
+Bid,投标,trade-terms,published
+Liner Terms,班轮条款,transport,published
+Berth Terms,泊位条款,transport,published
+FIO (Free In and Out),船方不负担装卸费,transport,published
+FIOS,船方不负担装卸堆垛费,transport,published
+FIOST,船方不负担装卸堆垛平舱费,transport,published
+Laytime,装卸时间,transport,published
+Laytime Statement,装卸时间计算表,transport,published
+Despatch Money,速遣费,transport,published
+NOR (Notice of Readiness),装卸准备就绪通知书,transport,published
+Time Charter,定期租船,transport,published
+Voyage Charter,航次租船,transport,published
+Bareboat Charter,光船租赁,transport,published
+Charter Party,租船合同,transport,published
+Freight Ton,运费吨,transport,published
+W/M (Weight or Measurement),重量或体积计费,transport,published
+CAF (Currency Adjustment Factor),货币贬值附加费,transport,published
+EBS (Emergency Bunker Surcharge),紧急燃油附加费,transport,published
+PCS (Port Congestion Surcharge),港口拥挤附加费,transport,published
+PSS (Peak Season Surcharge),旺季附加费,transport,published
+LSS (Low Sulphur Surcharge),低硫附加费,transport,published
+CIC (Container Imbalance Charge),集装箱不平衡附加费,transport,published
+DDC (Destination Delivery Charge),目的港交货费,transport,published
+ORC (Origin Receiving Charge),起运港收货费,transport,published
+ISPS Surcharge,港口安全附加费,transport,published
+All-in Rate,全包运价,transport,published
+Spot Rate,即期运价,transport,published
+Contract Rate,协议运价,transport,published
+Service Contract,运价服务协议,transport,published
+BCO (Beneficial Cargo Owner),直客货主,transport,published
+Co-load,同业拼箱,transport,published
+Buyer's Consolidation,买家指定货,transport,published
+Empty Container Depot,空箱堆场,transport,published
+EIR (Equipment Interchange Receipt),设备交接单,transport,published
+Gate-in,进场,transport,published
+Gate-out,提箱出场,transport,published
+Free Time,免费堆存期,transport,published
+Storage Charge,堆存费,transport,published
+Container Deposit,押箱费,transport,published
+Seal,铅封,transport,published
+Seal Number,铅封号,transport,published
+Tally,理货,transport,published
+Gantry Crane,桥吊,transport,published
+RTG (Rubber-Tyred Gantry Crane),轮胎式龙门吊,transport,published
+RMG (Rail-Mounted Gantry Crane),轨道式龙门吊,transport,published
+Straddle Carrier,跨运车,transport,published
+Reach Stacker,正面吊,transport,published
+TOS (Terminal Operating System),码头操作系统,transport,published
+Berth Window,泊位窗口,transport,published
+Anchorage,锚地,transport,published
+Pilotage,引航费,transport,published
+Towage,拖轮费,transport,published
+Canal Transit Fee,运河通行费,transport,published
+Suez Canal Transit,苏伊士运河通行,transport,published
+Cape of Good Hope Route,好望角航线,transport,published
+Bunkering,船舶加油,transport,published
+VLSFO,超低硫燃油,transport,published
+IMO 2020,国际海事组织限硫令,transport,published
+Ballast Water,压载水,transport,published
+Flag State,船旗国,transport,published
+Classification Society,船级社,transport,published
+PSC (Port State Control),港口国监督,transport,published
+General Average,共同海损,transport,published
+Particular Average,单独海损,transport,published
+GA Deposit,共同海损保证金,transport,published
+Salvage,海难救助,transport,published
+Shipping Alliance,航运联盟,transport,published
+Freight Index,运价指数,transport,published
+SCFI,上海出口集装箱运价指数,transport,published
+Transpacific Route,跨太平洋航线,transport,published
+Asia-Europe Route,亚欧航线,transport,published
+Inland Waterway Transport,内河运输,transport,published
+Barge,驳船运输,transport,published
+Rail Freight,铁路运输,transport,published
+China-Europe Railway Express,中欧班列,transport,published
+Block Train,整列直达列车,transport,published
+Rail Waybill,铁路运单,transport,published
+SMGS Convention,国际铁路货物联运协定,transport,published
+Road Freight,公路运输,transport,published
+FTL (Full Truckload),整车运输,transport,published
+LTL (Less than Truckload),零担运输,transport,published
+Cross-border Trucking,跨境卡车运输,transport,published
+TIR (Transports Internationaux Routiers),国际公路运输系统,transport,published
+CMR Convention,国际公路货物运输合同公约,transport,published
+Air Freight,航空货运,transport,published
+Fuel Surcharge (Air),空运燃油附加费,transport,published
+Security Surcharge (Air),空运安全附加费,transport,published
+ULD (Unit Load Device),航空集装器,transport,published
+Charter Flight,包机运输,transport,published
+Freighter,全货机,transport,published
+Belly Cargo,腹舱货,transport,published
+e-AWB,电子航空运单,transport,published
+Sea-Air Transport,海空联运,transport,published
+Express,国际快递,transport,published
+Parcel,包裹,transport,published
+COD (Cash on Delivery),货到付款,transport,published
+E-commerce Logistics,电商物流,transport,published
+Cross-border E-commerce,跨境电商,transport,published
+Dropshipping,一件代发,transport,published
+POD (Proof of Delivery),签收证明,transport,published
+Delivery Exception,派送异常,transport,published
+Pickup,揽收,transport,published
+Drayage,港区短驳,transport,published
+Cartage,短途搬运,transport,published
+Transloading,换装转载,transport,published
+Chassis,集装箱底盘车,transport,published
+Overweight Container,超重集装箱,transport,published
+Axle Load,轴重,transport,published
+Weight Limit,公路限重,transport,published
+Schedule Reliability,船期可靠性,transport,published
+Blank Sailing,跳港停航,transport,published
+Rolled Cargo,甩柜,transport,published
+Port Congestion,港口拥堵,transport,published
+Dry Bulk,干散货,transport,published
+Liquid Bulk,液体散货,transport,published
+Bulk Cargo,散装货物,transport,published
+Tanker,油轮运输,transport,published
+Flexitank,液袋运输,transport,published
+Neo-bulk,准散货,transport,published
 Containerization,集装箱化,transport,pending
 Slot Exchange,舱位互换,transport,pending
-Slot Charter,舱位租赁,transport,pending
-Space Booking,订舱,transport,pending
-Booking Confirmation,订舱确认,transport,pending
-Shipping Instruction,托运指示,transport,pending
-SI Cut-off,截托书时间,transport,pending
+Slot Charter,舱位租赁,transport,published
+Space Booking,订舱,transport,published
+Booking Confirmation,订舱确认,transport,published
+Shipping Instruction,托运指示,transport,published
+SI Cut-off,截托书时间,transport,published
 Amendment,改单,transport,pending
 Telex Release,电报放货,transport,pending
 Original B/L,正本提单,transport,pending
 B/L Endorsement,提单背书,transport,pending
 Negotiable B/L,可转让提单,transport,pending
-Order B/L,指示提单,transport,pending
+Order B/L,指示提单,transport,published
 Straight B/L,记名提单,transport,pending
 Clean B/L,清洁提单,transport,pending
 Claused B/L,不清洁提单,transport,pending
@@ -319,12 +319,12 @@ Through B/L,联运提单,transport,pending
 Combined Transport,联合运输,transport,pending
 Carrier's Liability,承运人责任,transport,pending
 Package Limitation,单位赔偿限额,transport,pending
-Hague Rules,海牙规则,transport,pending
+Hague Rules,海牙规则,transport,published
 Hague-Visby Rules,海牙-维斯比规则,transport,pending
 Hamburg Rules,汉堡规则,transport,pending
 Rotterdam Rules,鹿特丹规则,transport,pending
 Montreal Convention,蒙特利尔公约,transport,pending
-Warsaw Convention,华沙公约,transport,pending
+Warsaw Convention,华沙公约,transport,published
 Off-hire,停租,transport,pending
 Ship Broker,船舶经纪人,transport,pending
 Debit Note,借记通知单,documents,pending
