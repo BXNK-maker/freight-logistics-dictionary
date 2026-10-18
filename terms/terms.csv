@@ -598,106 +598,106 @@ Live Animals,活动物运输,special-cargo,published
 Pet Relocation,宠物托运,special-cargo,published
 Art Logistics,艺术品物流,special-cargo,published
 Vehicle Shipping,商品车运输,special-cargo,published
-Lowbed Trailer,低平板车运输,special-cargo,pending
-Escort Vehicle,超限护送车,special-cargo,pending
-Route Survey,超限运输路勘,special-cargo,pending
-Wind Turbine Blade,风电叶片运输,special-cargo,pending
-Transformer Transport,变压器运输,special-cargo,pending
-Cryogenic Cargo,低温货物,special-cargo,pending
-Gas Cylinder,气瓶运输,special-cargo,pending
-Swap Tank,交换罐箱,special-cargo,pending
-Insulated Container,保温集装箱,special-cargo,pending
-Ventilated Container,通风集装箱,special-cargo,pending
-Bulk Container,散货集装箱,special-cargo,pending
-Half Height Container,半高集装箱,special-cargo,pending
-Tank Cleaning,罐箱清洗,special-cargo,pending
-Vaccine Transport,疫苗运输,special-cargo,pending
-Temperature Excursion,温度偏移,special-cargo,pending
-Cold Chain Packaging,冷链包装,special-cargo,pending
-Phase Change Material,相变蓄冷材料,special-cargo,pending
-Fragile Cargo,易碎品运输,special-cargo,pending
-Lashing,货物绑扎,special-cargo,pending
-Dunnage,垫料,special-cargo,pending
-Cargo Securing,货物系固,special-cargo,pending
-Firm Offer,实盘,trade-terms,pending
-Non-firm Offer,虚盘,trade-terms,pending
-Offer,发盘,trade-terms,pending
-Counter-offer,还盘,trade-terms,pending
-Acceptance,承诺接受,trade-terms,pending
-Inquiry,询盘,trade-terms,pending
-Quotation,报价,trade-terms,pending
-Offer Validity,报价有效期,trade-terms,pending
-Triangular Trade,三角贸易,trade-terms,pending
-Middleman,中间商,trade-terms,pending
-Trading Company,贸易公司,trade-terms,pending
-OEM,代工生产,trade-terms,pending
-ODM,原始设计制造,trade-terms,pending
-OBM,自有品牌制造,trade-terms,pending
-Private Label,贴牌生产,trade-terms,pending
-Sourcing,采购寻源,trade-terms,pending
-Procurement,采购,trade-terms,pending
-Supplier,供应商,trade-terms,pending
-Sub-supplier,二级供应商,trade-terms,pending
-Settlement Currency,结算货币,trade-terms,pending
-Exchange Rate,汇率,trade-terms,pending
-Exchange Risk,汇率风险,trade-terms,pending
-Hedging,套期保值,trade-terms,pending
-Letter of Intent,意向书,trade-terms,pending
-MOU,谅解备忘录,trade-terms,pending
-Breach of Contract,违约,trade-terms,pending
-Liquidated Damages,违约金,trade-terms,pending
-Warranty Period,质保期,trade-terms,pending
-Retention Money,质保金,trade-terms,pending
-Down Payment,首付款,trade-terms,pending
-Balance Payment,尾款,trade-terms,pending
-Net 30,30天付款账期,trade-terms,pending
-Credit Limit,信用额度,trade-terms,pending
-Market Price,市场价,trade-terms,pending
-Spot Price,现货价,trade-terms,pending
-Spot Goods,现货,trade-terms,pending
-Futures,期货,trade-terms,pending
-Forward Contract,远期合约,trade-terms,pending
-Long-term Agreement,长期协议,trade-terms,pending
-Price Adjustment Clause,价格调整条款,trade-terms,pending
-Hard Currency,硬通货,trade-terms,pending
-Buyback Trade,回购贸易,trade-terms,pending
-Governing Law,适用法律,trade-terms,pending
-Inspection Clause,检验条款,trade-terms,pending
-Packing Clause,包装条款,trade-terms,pending
-Berth Allocation,泊位分配,transport,pending
-Quay Wall,码头岸壁,transport,pending
-Container Terminal,集装箱码头,transport,pending
-Terminal Yard,码头堆场,transport,pending
-Quay Crane,岸桥,transport,pending
-Truck Appointment System,卡车预约系统,transport,pending
-Reefer Plug,冷藏箱插座,transport,pending
-Genset,发电机组,transport,pending
-Container Wash,集装箱清洗,transport,pending
-Container Repair,集装箱维修,transport,pending
-Damage Survey,货损检验,transport,pending
-On-hire Survey,起租验箱,transport,pending
-Off-hire Survey,退租验箱,transport,pending
-Container Leasing,集装箱租赁,transport,pending
-Leasing Company,租箱公司,transport,pending
-Overbooking,超售订舱,transport,pending
-Priority Booking,优先订舱,transport,pending
-Premium Freight,加急运费,transport,pending
-Expedited Shipping,加急运输,transport,pending
-Backhaul,回程运输,transport,pending
-Headhaul,去程运输,transport,pending
-Empty Repositioning,空箱调运,transport,pending
-Repositioning Charge,空箱调运费,transport,pending
-Bonded Transport,保税运输,transport,pending
-In Transit,在途运输,transport,pending
-Stowage,配载,transport,pending
-Stowage Plan,配载图,transport,pending
-Lashing Points,绑扎点,transport,pending
-Twist Lock,扭锁,transport,pending
-Cell Guide,导轨架,transport,pending
-Ship Stability,船舶稳性,transport,pending
-Deadweight Tonnage,载重吨,transport,pending
-Gross Tonnage,总吨,transport,pending
-Net Tonnage,净吨,transport,pending
+Lowbed Trailer,低平板车运输,special-cargo,published
+Escort Vehicle,超限护送车,special-cargo,published
+Route Survey,超限运输路勘,special-cargo,published
+Wind Turbine Blade,风电叶片运输,special-cargo,published
+Transformer Transport,变压器运输,special-cargo,published
+Cryogenic Cargo,低温货物,special-cargo,published
+Gas Cylinder,气瓶运输,special-cargo,published
+Swap Tank,交换罐箱,special-cargo,published
+Insulated Container,保温集装箱,special-cargo,published
+Ventilated Container,通风集装箱,special-cargo,published
+Bulk Container,散货集装箱,special-cargo,published
+Half Height Container,半高集装箱,special-cargo,published
+Tank Cleaning,罐箱清洗,special-cargo,published
+Vaccine Transport,疫苗运输,special-cargo,published
+Temperature Excursion,温度偏移,special-cargo,published
+Cold Chain Packaging,冷链包装,special-cargo,published
+Phase Change Material,相变蓄冷材料,special-cargo,published
+Fragile Cargo,易碎品运输,special-cargo,published
+Lashing,货物绑扎,special-cargo,published
+Dunnage,垫料,special-cargo,published
+Cargo Securing,货物系固,special-cargo,published
+Firm Offer,实盘,trade-terms,published
+Non-firm Offer,虚盘,trade-terms,published
+Offer,发盘,trade-terms,published
+Counter-offer,还盘,trade-terms,published
+Acceptance,承诺接受,trade-terms,published
+Inquiry,询盘,trade-terms,published
+Quotation,报价,trade-terms,published
+Offer Validity,报价有效期,trade-terms,published
+Triangular Trade,三角贸易,trade-terms,published
+Middleman,中间商,trade-terms,published
+Trading Company,贸易公司,trade-terms,published
+OEM,代工生产,trade-terms,published
+ODM,原始设计制造,trade-terms,published
+OBM,自有品牌制造,trade-terms,published
+Private Label,贴牌生产,trade-terms,published
+Sourcing,采购寻源,trade-terms,published
+Procurement,采购,trade-terms,published
+Supplier,供应商,trade-terms,published
+Sub-supplier,二级供应商,trade-terms,published
+Settlement Currency,结算货币,trade-terms,published
+Exchange Rate,汇率,trade-terms,published
+Exchange Risk,汇率风险,trade-terms,published
+Hedging,套期保值,trade-terms,published
+Letter of Intent,意向书,trade-terms,published
+MOU,谅解备忘录,trade-terms,published
+Breach of Contract,违约,trade-terms,published
+Liquidated Damages,违约金,trade-terms,published
+Warranty Period,质保期,trade-terms,published
+Retention Money,质保金,trade-terms,published
+Down Payment,首付款,trade-terms,published
+Balance Payment,尾款,trade-terms,published
+Net 30,30天付款账期,trade-terms,published
+Credit Limit,信用额度,trade-terms,published
+Market Price,市场价,trade-terms,published
+Spot Price,现货价,trade-terms,published
+Spot Goods,现货,trade-terms,published
+Futures,期货,trade-terms,published
+Forward Contract,远期合约,trade-terms,published
+Long-term Agreement,长期协议,trade-terms,published
+Price Adjustment Clause,价格调整条款,trade-terms,published
+Hard Currency,硬通货,trade-terms,published
+Buyback Trade,回购贸易,trade-terms,published
+Governing Law,适用法律,trade-terms,published
+Inspection Clause,检验条款,trade-terms,published
+Packing Clause,包装条款,trade-terms,published
+Berth Allocation,泊位分配,transport,published
+Quay Wall,码头岸壁,transport,published
+Container Terminal,集装箱码头,transport,published
+Terminal Yard,码头堆场,transport,published
+Quay Crane,岸桥,transport,published
+Truck Appointment System,卡车预约系统,transport,published
+Reefer Plug,冷藏箱插座,transport,published
+Genset,发电机组,transport,published
+Container Wash,集装箱清洗,transport,published
+Container Repair,集装箱维修,transport,published
+Damage Survey,货损检验,transport,published
+On-hire Survey,起租验箱,transport,published
+Off-hire Survey,退租验箱,transport,published
+Container Leasing,集装箱租赁,transport,published
+Leasing Company,租箱公司,transport,published
+Overbooking,超售订舱,transport,published
+Priority Booking,优先订舱,transport,published
+Premium Freight,加急运费,transport,published
+Expedited Shipping,加急运输,transport,published
+Backhaul,回程运输,transport,published
+Headhaul,去程运输,transport,published
+Empty Repositioning,空箱调运,transport,published
+Repositioning Charge,空箱调运费,transport,published
+Bonded Transport,保税运输,transport,published
+In Transit,在途运输,transport,published
+Stowage,配载,transport,published
+Stowage Plan,配载图,transport,published
+Lashing Points,绑扎点,transport,published
+Twist Lock,扭锁,transport,published
+Cell Guide,导轨架,transport,published
+Ship Stability,船舶稳性,transport,published
+Deadweight Tonnage,载重吨,transport,published
+Gross Tonnage,总吨,transport,published
+Net Tonnage,净吨,transport,published
 FEU,40英尺标准箱,transport,pending
 Standard Container,标准集装箱,transport,pending
 High Cube Container,超高集装箱,transport,pending
