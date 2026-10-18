@@ -69,6 +69,7 @@ def slugify(text: str) -> str:
 
 def call_gemini(prompt: str, retries: int = 6) -> str:
     """调用 Gemini generateContent API，返回文本（支持模型降级链）。"""
+    global model_idx
     url = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
         f"{GEMINI_MODEL}:generateContent"
