@@ -798,106 +798,106 @@ Digital Freight,数字货运,transport,published
 Warehouse-to-Warehouse Clause,仓至仓条款,documents,published
 Insurance Broker,保险经纪人,documents,published
 Loss Adjuster,理赔公估师,documents,published
-Notice of Loss,出险通知,documents,pending
-Abandonment,委付,documents,pending
-Constructive Total Loss,推定全损,documents,pending
-Actual Total Loss,实际全损,documents,pending
-Partial Loss,部分损失,documents,pending
-Sue and Labour Clause,施救条款,documents,pending
-Himalaya Clause,喜马拉雅条款,documents,pending
-Paramount Clause,首要条款,documents,pending
-Jurisdiction Clause,管辖权条款,documents,pending
-Arbitration Clause,仲裁条款,documents,pending
-Excepted Perils,免责事由,documents,pending
-Force Majeure,不可抗力,documents,pending
-Beneficiary's Certificate,受益人证明,documents,pending
-Shipping Company Certificate,船公司证明,documents,pending
-Packing Specification,包装明细单,documents,pending
-Origin Declaration,原产地声明,documents,pending
-Approved Exporter,认证出口商,documents,pending
-REX System,注册出口商制度,documents,pending
-EUR.1 Movement Certificate,欧盟优惠原产地流转证书,documents,pending
-FX Settlement,结汇,documents,pending
-Negotiation,议付,documents,pending
-Discounting,票据贴现,documents,pending
-Forfaiting,福费廷,documents,pending
-Factoring,保理,documents,pending
-Export Credit Insurance,出口信用保险,documents,pending
-Sinosure,中国出口信用保险,documents,pending
-Trade Finance,贸易融资,documents,pending
-Packing Credit,打包贷款,documents,pending
-Payment Terms,付款条件,documents,pending
-Installment Payment,分期付款,documents,pending
-Letter of Indemnity,提单保函,documents,pending
-Indemnity,赔偿保证,documents,pending
-Acceptance of Draft,汇票承兑,documents,pending
-Blank Endorsement,空白背书,documents,pending
-Restrictive Endorsement,记名背书,documents,pending
-Holder in Due Course,正当持票人,documents,pending
-Presentation,交单,documents,pending
-Document Examination,审单,documents,pending
-Waiver of Discrepancy,不符点放弃,documents,pending
-Refusal Notice,拒付通知,documents,pending
-Swift MT700,SWIFT信用证电文,documents,pending
-Amicable Settlement,友好和解,documents,pending
-Force Majeure Certificate,不可抗力证明,documents,pending
-CCPIT Certification,贸促会认证,documents,pending
-Chamber of Commerce,商会,documents,pending
-Notarization,公证,documents,pending
-Business License,营业执照,documents,pending
-E-CO,电子原产地证,documents,pending
-Digital Trade Document,数字贸易单证,documents,pending
-EDI,电子数据交换,documents,pending
-UN/EDIFACT,联合国EDI标准,documents,pending
-Track and Trace,货物轨迹追踪,documents,pending
-Milestone Notification,物流节点通知,documents,pending
-Exception Notification,异常事件通知,documents,pending
-Freight Invoice,运费发票,documents,pending
-Freight Audit,运费审计,documents,pending
-Distribution Agreement,经销协议,documents,pending
-Supply Agreement,供货协议,documents,pending
-Framework Agreement,框架协议,documents,pending
-NDA,保密协议,documents,pending
-Warranty Certificate,质保书,documents,pending
-Customs Power of Attorney,报关委托书,documents,pending
-Booking Form,订舱委托书,documents,pending
-Short Shipment,短装,documents,pending
-Claim Letter,索赔函,documents,pending
-Settlement Agreement,和解协议,documents,pending
-Third-party Inspection,第三方检验机构,documents,pending
-CAD (Cash against Documents),凭单付款,documents,pending
-Bank Draft,银行汇票,documents,pending
-Promissory Note,本票,documents,pending
-Check,支票,documents,pending
-Wire Confirmation,汇款水单,documents,pending
-Payment Voucher,付款凭证,documents,pending
-Commission Invoice,佣金发票,documents,pending
-Sample Invoice,样品发票,documents,pending
-Final Invoice,最终发票,documents,pending
-Interim Invoice,期中发票,documents,pending
-EEI (Electronic Export Information),美国电子出口信息申报,documents,pending
-AES,美国出口申报系统,documents,pending
-ITN,美国内部交易编号,documents,pending
-Destination Control Statement,目的地管制声明,documents,pending
-Importer Number,美国进口商编号,documents,pending
-Insurance Declaration,保险申报单,documents,pending
-Loss Payee,保险赔付受益人,documents,pending
-Co-insurance,共同保险,documents,pending
-Franchise,免赔率,documents,pending
-P&I Certificate,保赔保险证书,documents,pending
-Digital Signature,数字签名,documents,pending
-Document Retention,单证保存,documents,pending
-Remittance,汇款,documents,pending
-Bank Charges,银行手续费,documents,pending
-Confirmation Fee,保兑费,documents,pending
-Discrepancy Fee,不符点费,documents,pending
-Documentation Fee,单证费,documents,pending
-Amendment Fee,改单费,documents,pending
-Courier Fee,快递费,documents,pending
-Tally Sheet,理货单,documents,pending
-Loading List,装货清单,documents,pending
-Gate Pass,出门证,documents,pending
-Weighbridge Slip,地磅单,documents,pending
+Notice of Loss,出险通知,documents,published
+Abandonment,委付,documents,published
+Constructive Total Loss,推定全损,documents,published
+Actual Total Loss,实际全损,documents,published
+Partial Loss,部分损失,documents,published
+Sue and Labour Clause,施救条款,documents,published
+Himalaya Clause,喜马拉雅条款,documents,published
+Paramount Clause,首要条款,documents,published
+Jurisdiction Clause,管辖权条款,documents,published
+Arbitration Clause,仲裁条款,documents,published
+Excepted Perils,免责事由,documents,published
+Force Majeure,不可抗力,documents,published
+Beneficiary's Certificate,受益人证明,documents,published
+Shipping Company Certificate,船公司证明,documents,published
+Packing Specification,包装明细单,documents,published
+Origin Declaration,原产地声明,documents,published
+Approved Exporter,认证出口商,documents,published
+REX System,注册出口商制度,documents,published
+EUR.1 Movement Certificate,欧盟优惠原产地流转证书,documents,published
+FX Settlement,结汇,documents,published
+Negotiation,议付,documents,published
+Discounting,票据贴现,documents,published
+Forfaiting,福费廷,documents,published
+Factoring,保理,documents,published
+Export Credit Insurance,出口信用保险,documents,published
+Sinosure,中国出口信用保险,documents,published
+Trade Finance,贸易融资,documents,published
+Packing Credit,打包贷款,documents,published
+Payment Terms,付款条件,documents,published
+Installment Payment,分期付款,documents,published
+Letter of Indemnity,提单保函,documents,published
+Indemnity,赔偿保证,documents,published
+Acceptance of Draft,汇票承兑,documents,published
+Blank Endorsement,空白背书,documents,published
+Restrictive Endorsement,记名背书,documents,published
+Holder in Due Course,正当持票人,documents,published
+Presentation,交单,documents,published
+Document Examination,审单,documents,published
+Waiver of Discrepancy,不符点放弃,documents,published
+Refusal Notice,拒付通知,documents,published
+Swift MT700,SWIFT信用证电文,documents,published
+Amicable Settlement,友好和解,documents,published
+Force Majeure Certificate,不可抗力证明,documents,published
+CCPIT Certification,贸促会认证,documents,published
+Chamber of Commerce,商会,documents,published
+Notarization,公证,documents,published
+Business License,营业执照,documents,published
+E-CO,电子原产地证,documents,published
+Digital Trade Document,数字贸易单证,documents,published
+EDI,电子数据交换,documents,published
+UN/EDIFACT,联合国EDI标准,documents,published
+Track and Trace,货物轨迹追踪,documents,published
+Milestone Notification,物流节点通知,documents,published
+Exception Notification,异常事件通知,documents,published
+Freight Invoice,运费发票,documents,published
+Freight Audit,运费审计,documents,published
+Distribution Agreement,经销协议,documents,published
+Supply Agreement,供货协议,documents,published
+Framework Agreement,框架协议,documents,published
+NDA,保密协议,documents,published
+Warranty Certificate,质保书,documents,published
+Customs Power of Attorney,报关委托书,documents,published
+Booking Form,订舱委托书,documents,published
+Short Shipment,短装,documents,published
+Claim Letter,索赔函,documents,published
+Settlement Agreement,和解协议,documents,published
+Third-party Inspection,第三方检验机构,documents,published
+CAD (Cash against Documents),凭单付款,documents,published
+Bank Draft,银行汇票,documents,published
+Promissory Note,本票,documents,published
+Check,支票,documents,published
+Wire Confirmation,汇款水单,documents,published
+Payment Voucher,付款凭证,documents,published
+Commission Invoice,佣金发票,documents,published
+Sample Invoice,样品发票,documents,published
+Final Invoice,最终发票,documents,published
+Interim Invoice,期中发票,documents,published
+EEI (Electronic Export Information),美国电子出口信息申报,documents,published
+AES,美国出口申报系统,documents,published
+ITN,美国内部交易编号,documents,published
+Destination Control Statement,目的地管制声明,documents,published
+Importer Number,美国进口商编号,documents,published
+Insurance Declaration,保险申报单,documents,published
+Loss Payee,保险赔付受益人,documents,published
+Co-insurance,共同保险,documents,published
+Franchise,免赔率,documents,published
+P&I Certificate,保赔保险证书,documents,published
+Digital Signature,数字签名,documents,published
+Document Retention,单证保存,documents,published
+Remittance,汇款,documents,published
+Bank Charges,银行手续费,documents,published
+Confirmation Fee,保兑费,documents,published
+Discrepancy Fee,不符点费,documents,published
+Documentation Fee,单证费,documents,published
+Amendment Fee,改单费,documents,published
+Courier Fee,快递费,documents,published
+Tally Sheet,理货单,documents,published
+Loading List,装货清单,documents,published
+Gate Pass,出门证,documents,published
+Weighbridge Slip,地磅单,documents,published
 Comprehensive Bonded Zone,综合保税区,customs,pending
 9610 Model,跨境电商9610模式,customs,pending
 9710 Model,跨境电商9710模式,customs,pending
