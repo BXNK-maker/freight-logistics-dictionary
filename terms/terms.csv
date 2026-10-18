@@ -498,106 +498,106 @@ IPR Protection,知识产权海关保护,customs,published
 Waste Import Restriction,固废进口限制,customs,published
 Tariff Engineering,关税筹划,customs,published
 First Sale Rule,首次销售规则,customs,published
-Duty Repayment,关税退还,customs,pending
-Harmonized Tariff Schedule,协调关税表,customs,pending
-Export Subsidy,出口补贴,customs,pending
-Anti-circumvention,反规避,customs,pending
-Sunset Review,日落复审,customs,pending
-WTO,世界贸易组织,customs,pending
-Direct Shipment Rule,直运规则,customs,pending
-Public Warehouse,公共仓库,warehousing,pending
-Private Warehouse,自营仓库,warehousing,pending
-Cold Storage,冷库,warehousing,pending
-Temperature-controlled Warehouse,恒温仓库,warehousing,pending
-Hazmat Warehouse,危险品仓库,warehousing,pending
-Micro-fulfillment,微型履约中心,warehousing,pending
-Hub-and-Spoke,轴辐式网络,warehousing,pending
-Racking,货架,warehousing,pending
-ASRS,自动化立体仓库,warehousing,pending
-AGV,自动导引车,warehousing,pending
-AMR,自主移动机器人,warehousing,pending
-Conveyor System,输送系统,warehousing,pending
-Sortation,分拣作业,warehousing,pending
-Sorter,分拣机,warehousing,pending
-Pick List,拣货单,warehousing,pending
-Wave Picking,波次拣货,warehousing,pending
-Batch Picking,批量拣货,warehousing,pending
-Zone Picking,分区拣货,warehousing,pending
-Pick-to-Light,电子标签拣货,warehousing,pending
-Voice Picking,语音拣货,warehousing,pending
-Putaway,上架,warehousing,pending
-Replenishment,补货,warehousing,pending
-Slotting,储位优化,warehousing,pending
-Bin Location,库位,warehousing,pending
-Lot Number,批号,warehousing,pending
-Serial Number Tracking,序列号管理,warehousing,pending
-Expiry Date Management,效期管理,warehousing,pending
-Barcode,条形码,warehousing,pending
-QR Code,二维码,warehousing,pending
-RFID,射频识别,warehousing,pending
-Inbound,入库作业,warehousing,pending
-Outbound,出库作业,warehousing,pending
-Receiving,收货,warehousing,pending
-OMS (Order Management System),订单管理系统,warehousing,pending
-TMS (Transportation Management System),运输管理系统,warehousing,pending
-YMS (Yard Management System),场院管理系统,warehousing,pending
-Dock Door,装卸门,warehousing,pending
-Dock Leveler,登车桥,warehousing,pending
-Drop Trailer,甩挂运输,warehousing,pending
-OTIF (On Time In Full),准时足量交付率,warehousing,pending
-Fill Rate,订单满足率,warehousing,pending
-Inventory Accuracy,库存准确率,warehousing,pending
-Inventory Turnover,库存周转率,warehousing,pending
-Days of Inventory,库存周转天数,warehousing,pending
-Stockout,缺货,warehousing,pending
-Overstock,超储,warehousing,pending
-Dead Stock,呆滞库存,warehousing,pending
-Min-Max Inventory,最高最低库存法,warehousing,pending
-Reorder Point,再订货点,warehousing,pending
-Demand Planning,需求计划,warehousing,pending
-S&OP,销售与运营计划,warehousing,pending
-Demand Forecasting,需求预测,warehousing,pending
-VMI (Vendor Managed Inventory),供应商管理库存,warehousing,pending
-Consignment Stock,寄售库存,warehousing,pending
-Lean Logistics,精益物流,warehousing,pending
-Shrinkage,库存损耗,warehousing,pending
-Kitting,组套作业,warehousing,pending
-Value-added Services (VAS),仓储增值服务,warehousing,pending
-Labeling,贴标服务,warehousing,pending
-Repackaging,改包装服务,warehousing,pending
-Same-day Delivery,当日达,warehousing,pending
-Next-day Delivery,次日达,warehousing,pending
-Time Slot Booking,配送时段预约,warehousing,pending
-Peak Season,物流旺季,warehousing,pending
-Milk Run,循环取货,warehousing,pending
-Overseas Warehouse,海外仓,warehousing,pending
-Returns Center,退货处理中心,warehousing,pending
-Returns Management,退货管理,warehousing,pending
-Quality Control (QC),出货质检,warehousing,pending
-Cubing,货件体积测量,warehousing,pending
-Container Stuffing,装柜,warehousing,pending
-Container Destuffing,拆柜,warehousing,pending
-Pallet Exchange,托盘互换,warehousing,pending
-Slip Sheet,滑托板,warehousing,pending
-Pallet Inverter,托盘翻转机,warehousing,pending
-DG Classification,危险品分类,special-cargo,pending
-Radioactive Material,放射性物质,special-cargo,pending
-DG Surcharge,危险品附加费,special-cargo,pending
-UN-approved Packaging,联合国认证包装,special-cargo,pending
-Limited Quantity (LQ),限量危险品,special-cargo,pending
-Segregation,危险品隔离,special-cargo,pending
-Flash Point,闪点,special-cargo,pending
-Proper Shipping Name,运输名称,special-cargo,pending
-GDP (Good Distribution Practice),药品良好分销规范,special-cargo,pending
-Dry Ice,干冰运输,special-cargo,pending
-Temperature Data Logger,温度记录仪,special-cargo,pending
-Reefer Settings,冷藏箱温度设定,special-cargo,pending
-Humidity Control,湿度控制,special-cargo,pending
-Controlled Atmosphere,气调储运,special-cargo,pending
-Live Animals,活动物运输,special-cargo,pending
-Pet Relocation,宠物托运,special-cargo,pending
-Art Logistics,艺术品物流,special-cargo,pending
-Vehicle Shipping,商品车运输,special-cargo,pending
+Duty Repayment,关税退还,customs,published
+Harmonized Tariff Schedule,协调关税表,customs,published
+Export Subsidy,出口补贴,customs,published
+Anti-circumvention,反规避,customs,published
+Sunset Review,日落复审,customs,published
+WTO,世界贸易组织,customs,published
+Direct Shipment Rule,直运规则,customs,published
+Public Warehouse,公共仓库,warehousing,published
+Private Warehouse,自营仓库,warehousing,published
+Cold Storage,冷库,warehousing,published
+Temperature-controlled Warehouse,恒温仓库,warehousing,published
+Hazmat Warehouse,危险品仓库,warehousing,published
+Micro-fulfillment,微型履约中心,warehousing,published
+Hub-and-Spoke,轴辐式网络,warehousing,published
+Racking,货架,warehousing,published
+ASRS,自动化立体仓库,warehousing,published
+AGV,自动导引车,warehousing,published
+AMR,自主移动机器人,warehousing,published
+Conveyor System,输送系统,warehousing,published
+Sortation,分拣作业,warehousing,published
+Sorter,分拣机,warehousing,published
+Pick List,拣货单,warehousing,published
+Wave Picking,波次拣货,warehousing,published
+Batch Picking,批量拣货,warehousing,published
+Zone Picking,分区拣货,warehousing,published
+Pick-to-Light,电子标签拣货,warehousing,published
+Voice Picking,语音拣货,warehousing,published
+Putaway,上架,warehousing,published
+Replenishment,补货,warehousing,published
+Slotting,储位优化,warehousing,published
+Bin Location,库位,warehousing,published
+Lot Number,批号,warehousing,published
+Serial Number Tracking,序列号管理,warehousing,published
+Expiry Date Management,效期管理,warehousing,published
+Barcode,条形码,warehousing,published
+QR Code,二维码,warehousing,published
+RFID,射频识别,warehousing,published
+Inbound,入库作业,warehousing,published
+Outbound,出库作业,warehousing,published
+Receiving,收货,warehousing,published
+OMS (Order Management System),订单管理系统,warehousing,published
+TMS (Transportation Management System),运输管理系统,warehousing,published
+YMS (Yard Management System),场院管理系统,warehousing,published
+Dock Door,装卸门,warehousing,published
+Dock Leveler,登车桥,warehousing,published
+Drop Trailer,甩挂运输,warehousing,published
+OTIF (On Time In Full),准时足量交付率,warehousing,published
+Fill Rate,订单满足率,warehousing,published
+Inventory Accuracy,库存准确率,warehousing,published
+Inventory Turnover,库存周转率,warehousing,published
+Days of Inventory,库存周转天数,warehousing,published
+Stockout,缺货,warehousing,published
+Overstock,超储,warehousing,published
+Dead Stock,呆滞库存,warehousing,published
+Min-Max Inventory,最高最低库存法,warehousing,published
+Reorder Point,再订货点,warehousing,published
+Demand Planning,需求计划,warehousing,published
+S&OP,销售与运营计划,warehousing,published
+Demand Forecasting,需求预测,warehousing,published
+VMI (Vendor Managed Inventory),供应商管理库存,warehousing,published
+Consignment Stock,寄售库存,warehousing,published
+Lean Logistics,精益物流,warehousing,published
+Shrinkage,库存损耗,warehousing,published
+Kitting,组套作业,warehousing,published
+Value-added Services (VAS),仓储增值服务,warehousing,published
+Labeling,贴标服务,warehousing,published
+Repackaging,改包装服务,warehousing,published
+Same-day Delivery,当日达,warehousing,published
+Next-day Delivery,次日达,warehousing,published
+Time Slot Booking,配送时段预约,warehousing,published
+Peak Season,物流旺季,warehousing,published
+Milk Run,循环取货,warehousing,published
+Overseas Warehouse,海外仓,warehousing,published
+Returns Center,退货处理中心,warehousing,published
+Returns Management,退货管理,warehousing,published
+Quality Control (QC),出货质检,warehousing,published
+Cubing,货件体积测量,warehousing,published
+Container Stuffing,装柜,warehousing,published
+Container Destuffing,拆柜,warehousing,published
+Pallet Exchange,托盘互换,warehousing,published
+Slip Sheet,滑托板,warehousing,published
+Pallet Inverter,托盘翻转机,warehousing,published
+DG Classification,危险品分类,special-cargo,published
+Radioactive Material,放射性物质,special-cargo,published
+DG Surcharge,危险品附加费,special-cargo,published
+UN-approved Packaging,联合国认证包装,special-cargo,published
+Limited Quantity (LQ),限量危险品,special-cargo,published
+Segregation,危险品隔离,special-cargo,published
+Flash Point,闪点,special-cargo,published
+Proper Shipping Name,运输名称,special-cargo,published
+GDP (Good Distribution Practice),药品良好分销规范,special-cargo,published
+Dry Ice,干冰运输,special-cargo,published
+Temperature Data Logger,温度记录仪,special-cargo,published
+Reefer Settings,冷藏箱温度设定,special-cargo,published
+Humidity Control,湿度控制,special-cargo,published
+Controlled Atmosphere,气调储运,special-cargo,published
+Live Animals,活动物运输,special-cargo,published
+Pet Relocation,宠物托运,special-cargo,published
+Art Logistics,艺术品物流,special-cargo,published
+Vehicle Shipping,商品车运输,special-cargo,published
 Lowbed Trailer,低平板车运输,special-cargo,pending
 Escort Vehicle,超限护送车,special-cargo,pending
 Route Survey,超限运输路勘,special-cargo,pending
