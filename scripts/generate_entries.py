@@ -31,6 +31,9 @@ TERMS_FILE = ROOT / "terms" / "terms.csv"
 DOCS_DIR = ROOT / "content" / "docs"
 
 GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-flash-lite-latest")
+# 支持逗号分隔的模型链：404 或配额问题时自动切换下一个
+MODEL_CHAIN = [m.strip() for m in GEMINI_MODEL.split(",") if m.strip()]
+model_idx = 0
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 MAX_ENTRIES = int(os.environ.get("MAX_ENTRIES", "20"))
 
@@ -64,8 +67,8 @@ def slugify(text: str) -> str:
     return slug or "entry"
 
 
-def call_gemini(prompt: str, retries: int = 4) -> str:
-    """调用 Gemini generateContent API，返回文本。"""
+def call_gemini(prompt: str, retries: int = 6) -> str:
+    """调用 Gemini generateContent API，返回文本（支持模型降级链）。"""
     url = (
         "https://generativelanguage.googleapis.com/v1beta/models/"
         f"{GEMINI_MODEL}:generateContent"
@@ -84,14 +87,45 @@ def call_gemini(prompt: str, retries: int = 4) -> str:
         method="POST",
     )
     last_err = None
-    for attempt in range(1, retries + 1):
+    attempt = 0
+    while attempt < retries:
+        model = MODEL_CHAIN[model_idx]
+        url = (
+            "https://generativelanguage.googleapis.com/v1beta/models/"
+            f"{model}:generateContent"
+        )
+        payload = {
+            "contents": [{"parts": [{"text": prompt}]}],
+            "generationConfig": {"temperature": 0.3},
+        }
+        req = urllib.request.Request(
+            url,
+            data=json.dumps(payload).encode("utf-8"),
+            headers={
+                "Content-Type": "application/json",
+                "x-goog-api-key": GEMINI_API_KEY,
+            },
+            method="POST",
+        )
         try:
             with urllib.request.urlopen(req, timeout=120) as resp:
                 data = json.loads(resp.read().decode("utf-8"))
             text = data["candidates"][0]["content"]["parts"][0]["text"]
             return text.strip()
+        except urllib.error.HTTPError as err:
+            last_err = err
+            # 404/429 且还有下一个模型时，立即切换（各模型配额独立）
+            if err.code in (404, 429) and model_idx < len(MODEL_CHAIN) - 1:
+                model_idx += 1
+                print(f"  [模型切换] {model} -> {MODEL_CHAIN[model_idx]}", flush=True)
+                continue
+            attempt += 1
+            wait = min(attempt * 15, 45)
+            print(f"  [重试 {attempt}/{retries}] {err}，{wait}s 后再试", flush=True)
+            time.sleep(wait)
         except Exception as err:  # noqa: BLE001
             last_err = err
+            attempt += 1
             wait = min(attempt * 15, 45)
             print(f"  [重试 {attempt}/{retries}] {err}，{wait}s 后再试", flush=True)
             time.sleep(wait)
@@ -145,7 +179,7 @@ def main() -> int:
         return 0
 
     todo = pending[:MAX_ENTRIES]
-    print(f"共 {len(pending)} 条待生成，本次处理 {len(todo)} 条（模型: {GEMINI_MODEL}）\n")
+    print(f"共 {len(pending)} 条待生成，本次处理 {len(todo)} 条（模型链: {' -> '.join(MODEL_CHAIN)}）\n")
 
     generated = 0
     consecutive_fail = 0

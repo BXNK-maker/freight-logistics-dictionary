@@ -36,7 +36,7 @@ jobs:
       - name: Generate entries in chunks and push
         env:
           GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-          GEMINI_MODEL: gemini-2.0-flash # flash-lite 配额耗尽时切换到本模型（独立配额）
+          GEMINI_MODEL: gemini-flash-latest,gemini-2.5-flash,gemini-2.0-flash-lite,gemini-flash-lite-latest # 逗号分隔模型链：404/429 自动切换（各模型配额独立）
           TOTAL: ${{ github.event.inputs.max_entries || '750' }}
         run: |
           git config user.name "github-actions[bot]"
