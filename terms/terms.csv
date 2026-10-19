@@ -1195,47 +1195,47 @@ Biosecurity,生物安全检疫,customs,published
 Traceability,食品可追溯性,customs,published
 Country of Dispatch,发货国,customs,published
 Third Country,第三国,customs,published
-Express Consignment Operator,快件运营人资质,customs,pending
-Postal Clearance,邮政渠道清关,customs,pending
-Pre-clearance,预清关,customs,pending
-Carrier Selection,承运商选择,warehousing,pending
-Rate Shopping,运价比价,warehousing,pending
-Carrier Scorecard,承运商绩效考核,warehousing,pending
-Inbound Scheduling,入库预约排程,warehousing,pending
-Sequencing,顺序供料配送,warehousing,pending
-Returns Grading,退货分级处理,warehousing,pending
-Restock,退货重新上架,warehousing,pending
-Take-back Obligation,生产者回收责任,warehousing,pending
-Circular Logistics,循环物流,warehousing,pending
-Green Warehouse,绿色仓库,warehousing,pending
-Solar Roof,仓库屋顶光伏,warehousing,pending
-Carbon Accounting,物流碳核算,warehousing,pending
-Emissions Reporting,碳排放报告,warehousing,pending
-GMP Warehouse,GMP药品仓库,warehousing,pending
-Zoning,库区分区管理,warehousing,pending
-Variance Report,库存差异报告,warehousing,pending
-Loss Prevention,仓库防损,warehousing,pending
-CCTV,仓库视频监控,warehousing,pending
-Access Control,仓库门禁管理,warehousing,pending
-State of Charge,锂电池荷电状态限制,special-cargo,pending
-Cold Box,冷链保温箱,special-cargo,pending
-Passive Packaging,被动保温包装,special-cargo,pending
-Active Reefer,主动制冷集装箱,special-cargo,pending
-Ethylene Scavenger,乙烯清除剂,special-cargo,pending
-Hatching Eggs,种蛋运输,special-cargo,pending
-Research Samples,科研样本运输,special-cargo,pending
-Infectious Substances,感染性物质运输,special-cargo,pending
-GMO Transport,转基因生物运输,special-cargo,pending
-Precursor Chemicals,易制毒化学品运输,special-cargo,pending
-Fireworks,烟花爆竹运输,special-cargo,pending
-Airbag Transport,汽车安全气囊运输,special-cargo,pending
-Ice Cream Transport,冰淇淋冷链运输,special-cargo,pending
-Chocolate Transport,巧克力温控运输,special-cargo,pending
-Wine Transport,葡萄酒运输,special-cargo,pending
-Odor Contamination,货物串味污染,special-cargo,pending
-Shortage,货物短缺,special-cargo,pending
-Breakage,货物破损,special-cargo,pending
-Contamination,货物污染,special-cargo,pending
-Leakage,货物渗漏,special-cargo,pending
-Return Merchandise Authorization,退货授权RMA,warehousing,pending
-Customs Brokerage Fee,清关代理服务费,customs,pending
+Express Consignment Operator,快件运营人资质,customs,published
+Postal Clearance,邮政渠道清关,customs,published
+Pre-clearance,预清关,customs,published
+Carrier Selection,承运商选择,warehousing,published
+Rate Shopping,运价比价,warehousing,published
+Carrier Scorecard,承运商绩效考核,warehousing,published
+Inbound Scheduling,入库预约排程,warehousing,published
+Sequencing,顺序供料配送,warehousing,published
+Returns Grading,退货分级处理,warehousing,published
+Restock,退货重新上架,warehousing,published
+Take-back Obligation,生产者回收责任,warehousing,published
+Circular Logistics,循环物流,warehousing,published
+Green Warehouse,绿色仓库,warehousing,published
+Solar Roof,仓库屋顶光伏,warehousing,published
+Carbon Accounting,物流碳核算,warehousing,published
+Emissions Reporting,碳排放报告,warehousing,published
+GMP Warehouse,GMP药品仓库,warehousing,published
+Zoning,库区分区管理,warehousing,published
+Variance Report,库存差异报告,warehousing,published
+Loss Prevention,仓库防损,warehousing,published
+CCTV,仓库视频监控,warehousing,published
+Access Control,仓库门禁管理,warehousing,published
+State of Charge,锂电池荷电状态限制,special-cargo,published
+Cold Box,冷链保温箱,special-cargo,published
+Passive Packaging,被动保温包装,special-cargo,published
+Active Reefer,主动制冷集装箱,special-cargo,published
+Ethylene Scavenger,乙烯清除剂,special-cargo,published
+Hatching Eggs,种蛋运输,special-cargo,published
+Research Samples,科研样本运输,special-cargo,published
+Infectious Substances,感染性物质运输,special-cargo,published
+GMO Transport,转基因生物运输,special-cargo,published
+Precursor Chemicals,易制毒化学品运输,special-cargo,published
+Fireworks,烟花爆竹运输,special-cargo,published
+Airbag Transport,汽车安全气囊运输,special-cargo,published
+Ice Cream Transport,冰淇淋冷链运输,special-cargo,published
+Chocolate Transport,巧克力温控运输,special-cargo,published
+Wine Transport,葡萄酒运输,special-cargo,published
+Odor Contamination,货物串味污染,special-cargo,published
+Shortage,货物短缺,special-cargo,published
+Breakage,货物破损,special-cargo,published
+Contamination,货物污染,special-cargo,published
+Leakage,货物渗漏,special-cargo,published
+Return Merchandise Authorization,退货授权RMA,warehousing,published
+Customs Brokerage Fee,清关代理服务费,customs,published
