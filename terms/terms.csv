@@ -901,103 +901,103 @@ Weighbridge Slip,地磅单,documents,published
 Comprehensive Bonded Zone,综合保税区,customs,pending
 9610 Model,跨境电商9610模式,customs,pending
 9710 Model,跨境电商9710模式,customs,pending
-9810 Model,跨境电商9810模式,customs,pending
-1210 Model,跨境电商1210模式,customs,pending
-Positive List,跨境电商进口正面清单,customs,pending
-Verification Write-off,加工贸易核销,customs,pending
-Processing Manual,加工贸易手册,customs,pending
-Electronic Manual,电子化手册,customs,pending
-Bonded Processing,保税加工,customs,pending
-Outsourced Processing,外发加工,customs,pending
-Bonded Goods Domestic Sales,保税货物内销,customs,pending
-Supplementary Duty,补缴税款,customs,pending
-Margin Account,保证金台账,customs,pending
-Animal and Plant Quarantine,动植物检疫,customs,pending
-Food Import Registration,进口食品收货人备案,customs,pending
-Cosmetics Filing,进口化妆品备案,customs,pending
-Medical Device Registration,医疗器械注册,customs,pending
-Drug Import Permit,药品进口许可,customs,pending
-Energy Label,能效标识,customs,pending
-SRRC Type Approval,无线电型号核准,customs,pending
-Tax Invoice,增值税专用发票,customs,pending
-Export Rebate Rate,出口退税率,customs,pending
-General Trade,一般贸易,customs,pending
-Border Trade,边境贸易,customs,pending
-Market Procurement Trade,市场采购贸易,customs,pending
-Offshore Trade,离岸贸易,customs,pending
-Section 301,美国301条款,customs,pending
-Section 232,美国232条款,customs,pending
-Administrative Review,行政复审,customs,pending
-Scope Ruling,反倾销范围裁定,customs,pending
-Entry (US),美国进口申报,customs,pending
-CPSC,美国消费品安全委员会,customs,pending
-Lacey Act,美国野生动植物保护法,customs,pending
-FDA Prior Notice,FDA预先申报,customs,pending
-USMCA,美墨加协定,customs,pending
-Union Customs Code,欧盟海关法典,customs,pending
-VAT Registration,欧盟VAT税号注册,customs,pending
-IOSS,欧盟进口一站式申报,customs,pending
-VAT Deferral,欧盟关税递延,customs,pending
-Fiscal Representation,欧盟财税代表,customs,pending
-EU Deforestation Regulation,欧盟零毁林法案,customs,pending
-CBAM,欧盟碳边境调节机制,customs,pending
-REACH Regulation,欧盟REACH化学品法规,customs,pending
-RoHS,欧盟RoHS指令,customs,pending
-WEEE,欧盟废弃电子设备指令,customs,pending
-GPSR,欧盟通用产品安全法规,customs,pending
-EU Responsible Person,欧盟授权代表,customs,pending
-UKCA,英国合格认证标志,customs,pending
-HMRC,英国税务海关总署,customs,pending
-Customs Unit Filing,报关单位备案,customs,pending
-Enterprise Credit Rating,企业信用等级,customs,pending
-Two-step Declaration,两步申报,customs,pending
-Examination Ratio,查验率,customs,pending
-Double Random,双随机查验,customs,pending
-Intelligent Image Review,智能审图,customs,pending
-Risk Targeting,风险布控,customs,pending
-Entity List,美国实体清单,customs,pending
-UVL,未经验证清单,customs,pending
-Military End User,军事最终用户,customs,pending
-BIS,美国工业与安全局,customs,pending
-OFAC,美国海外资产控制办公室,customs,pending
-ECCN,出口管制分类编号,customs,pending
-License Exception,出口许可例外,customs,pending
-Re-export Control,再出口管制,customs,pending
-Secondary Sanctions,二级制裁,customs,pending
-Red Flags,合规预警信号,customs,pending
-Trade Compliance,贸易合规,customs,pending
-Compliance Program,合规管理体系,customs,pending
-T1 Document,欧盟T1转关单,customs,pending
-NCTS,欧盟转关计算机系统,customs,pending
-Release for Free Circulation,自由流通放行,customs,pending
-End-use Authorization,特定用途放行,customs,pending
-Returned Goods Relief,退运货物减免,customs,pending
-Inward Processing,欧盟进料加工,customs,pending
-Outward Processing,欧盟出料加工,customs,pending
-Authorised Consignee,欧盟授权收货人,customs,pending
-Authorised Consignor,欧盟授权发货人,customs,pending
-Cabotage,沿海运输权,customs,pending
-Supplier's Declaration,供应商原产地声明,customs,pending
-Long-term Supplier Declaration,长期供应商声明,customs,pending
-Origin Self-certification,原产地自我声明,customs,pending
-Fake Origin,伪造原产地,customs,pending
-Transshipment Fraud,转口贸易欺诈,customs,pending
-Gray Clearance,灰关清关,customs,pending
-Baggage Declaration,行李物品申报,customs,pending
-WTO Valuation Agreement,WTO海关估价协定,customs,pending
-Royalty Assessment,特许权使用费估价,customs,pending
-Assists,无偿协助货物估价,customs,pending
-Post-entry Amendment,进口后申报修改,customs,pending
-Formal Entry,正式报关,customs,pending
-Informal Entry,非正式报关,customs,pending
-Low Value Shipment,低值货物申报,customs,pending
-Consolidated Clearance,合并清关,customs,pending
-Blast Freezing,速冻处理,warehousing,pending
-Chilled Zone,冷藏温区,warehousing,pending
-Frozen Zone,冷冻温区,warehousing,pending
-Ambient Zone,常温区,warehousing,pending
-Temperature Mapping,温度分布验证,warehousing,pending
-Clear Height,仓库净高,warehousing,pending
+9810 Model,跨境电商9810模式,customs,published
+1210 Model,跨境电商1210模式,customs,published
+Positive List,跨境电商进口正面清单,customs,published
+Verification Write-off,加工贸易核销,customs,published
+Processing Manual,加工贸易手册,customs,published
+Electronic Manual,电子化手册,customs,published
+Bonded Processing,保税加工,customs,published
+Outsourced Processing,外发加工,customs,published
+Bonded Goods Domestic Sales,保税货物内销,customs,published
+Supplementary Duty,补缴税款,customs,published
+Margin Account,保证金台账,customs,published
+Animal and Plant Quarantine,动植物检疫,customs,published
+Food Import Registration,进口食品收货人备案,customs,published
+Cosmetics Filing,进口化妆品备案,customs,published
+Medical Device Registration,医疗器械注册,customs,published
+Drug Import Permit,药品进口许可,customs,published
+Energy Label,能效标识,customs,published
+SRRC Type Approval,无线电型号核准,customs,published
+Tax Invoice,增值税专用发票,customs,published
+Export Rebate Rate,出口退税率,customs,published
+General Trade,一般贸易,customs,published
+Border Trade,边境贸易,customs,published
+Market Procurement Trade,市场采购贸易,customs,published
+Offshore Trade,离岸贸易,customs,published
+Section 301,美国301条款,customs,published
+Section 232,美国232条款,customs,published
+Administrative Review,行政复审,customs,published
+Scope Ruling,反倾销范围裁定,customs,published
+Entry (US),美国进口申报,customs,published
+CPSC,美国消费品安全委员会,customs,published
+Lacey Act,美国野生动植物保护法,customs,published
+FDA Prior Notice,FDA预先申报,customs,published
+USMCA,美墨加协定,customs,published
+Union Customs Code,欧盟海关法典,customs,published
+VAT Registration,欧盟VAT税号注册,customs,published
+IOSS,欧盟进口一站式申报,customs,published
+VAT Deferral,欧盟关税递延,customs,published
+Fiscal Representation,欧盟财税代表,customs,published
+EU Deforestation Regulation,欧盟零毁林法案,customs,published
+CBAM,欧盟碳边境调节机制,customs,published
+REACH Regulation,欧盟REACH化学品法规,customs,published
+RoHS,欧盟RoHS指令,customs,published
+WEEE,欧盟废弃电子设备指令,customs,published
+GPSR,欧盟通用产品安全法规,customs,published
+EU Responsible Person,欧盟授权代表,customs,published
+UKCA,英国合格认证标志,customs,published
+HMRC,英国税务海关总署,customs,published
+Customs Unit Filing,报关单位备案,customs,published
+Enterprise Credit Rating,企业信用等级,customs,published
+Two-step Declaration,两步申报,customs,published
+Examination Ratio,查验率,customs,published
+Double Random,双随机查验,customs,published
+Intelligent Image Review,智能审图,customs,published
+Risk Targeting,风险布控,customs,published
+Entity List,美国实体清单,customs,published
+UVL,未经验证清单,customs,published
+Military End User,军事最终用户,customs,published
+BIS,美国工业与安全局,customs,published
+OFAC,美国海外资产控制办公室,customs,published
+ECCN,出口管制分类编号,customs,published
+License Exception,出口许可例外,customs,published
+Re-export Control,再出口管制,customs,published
+Secondary Sanctions,二级制裁,customs,published
+Red Flags,合规预警信号,customs,published
+Trade Compliance,贸易合规,customs,published
+Compliance Program,合规管理体系,customs,published
+T1 Document,欧盟T1转关单,customs,published
+NCTS,欧盟转关计算机系统,customs,published
+Release for Free Circulation,自由流通放行,customs,published
+End-use Authorization,特定用途放行,customs,published
+Returned Goods Relief,退运货物减免,customs,published
+Inward Processing,欧盟进料加工,customs,published
+Outward Processing,欧盟出料加工,customs,published
+Authorised Consignee,欧盟授权收货人,customs,published
+Authorised Consignor,欧盟授权发货人,customs,published
+Cabotage,沿海运输权,customs,published
+Supplier's Declaration,供应商原产地声明,customs,published
+Long-term Supplier Declaration,长期供应商声明,customs,published
+Origin Self-certification,原产地自我声明,customs,published
+Fake Origin,伪造原产地,customs,published
+Transshipment Fraud,转口贸易欺诈,customs,published
+Gray Clearance,灰关清关,customs,published
+Baggage Declaration,行李物品申报,customs,published
+WTO Valuation Agreement,WTO海关估价协定,customs,published
+Royalty Assessment,特许权使用费估价,customs,published
+Assists,无偿协助货物估价,customs,published
+Post-entry Amendment,进口后申报修改,customs,published
+Formal Entry,正式报关,customs,published
+Informal Entry,非正式报关,customs,published
+Low Value Shipment,低值货物申报,customs,published
+Consolidated Clearance,合并清关,customs,published
+Blast Freezing,速冻处理,warehousing,published
+Chilled Zone,冷藏温区,warehousing,published
+Frozen Zone,冷冻温区,warehousing,published
+Ambient Zone,常温区,warehousing,published
+Temperature Mapping,温度分布验证,warehousing,published
+Clear Height,仓库净高,warehousing,published
 Floor Loading,地面承重,warehousing,pending
 Fire Sprinkler,消防喷淋系统,warehousing,pending
 MHE,物料搬运设备,warehousing,pending
