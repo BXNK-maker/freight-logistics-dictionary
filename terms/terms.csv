@@ -1095,106 +1095,106 @@ Excepted Quantities,豁免数量危险品,special-cargo,published
 DG Training,危险品从业培训,special-cargo,published
 Cargo Aircraft Only,仅限货机运输,special-cargo,published
 Passenger Aircraft Limit,客机限量危险品,special-cargo,published
-Authority Approval,主管当局批准,special-cargo,pending
-UN Performance Test,联合国包装性能测试,special-cargo,pending
-Drop Test,包装跌落测试,special-cargo,pending
-Overpack,危险品外包装,special-cargo,pending
-Salvage Packaging,救助包装,special-cargo,pending
-Reconditioned Packaging,修复包装,special-cargo,pending
-Cold Room,冷藏间,special-cargo,pending
-Cold Treatment,冷处理除虫,special-cargo,pending
-Pre-cooling,采后预冷,special-cargo,pending
-Live Seafood,活鲜水产品运输,special-cargo,pending
-Cut Flowers,鲜切花运输,special-cargo,pending
-Clinical Trial Logistics,临床试验物流,special-cargo,pending
-Reefer Breakdown,冷藏箱故障,special-cargo,pending
-Gel Pack,蓄冷剂冰袋,special-cargo,pending
-Insulated Liner,隔热内衬袋,special-cargo,pending
-Thermal Blanket,保温毯,special-cargo,pending
-GHS,全球化学品统一分类标准,special-cargo,pending
-EMS Guide,船载危险品应急措施表,special-cargo,pending
-MFAG,危险品医疗急救指南,special-cargo,pending
-MARPOL,国际防止船舶污染公约,special-cargo,pending
-Permit to Transport,大件运输许可,special-cargo,pending
-Night Move,大件夜间运输,special-cargo,pending
-Counter Sample,回样,trade-terms,pending
-Original Sample,原样,trade-terms,pending
-Sealed Sample,封样,trade-terms,pending
-Duplicate Sample,复样,trade-terms,pending
-Sale by Sample,凭样成交,trade-terms,pending
-Sale by Description,凭说明成交,trade-terms,pending
-Sale by Grade,凭等级成交,trade-terms,pending
-Sale by Specification,凭规格成交,trade-terms,pending
-Indicative Mark,指示性包装标志,trade-terms,pending
-Warning Mark,警告性包装标志,trade-terms,pending
-Rebate,佣金回扣,trade-terms,pending
-Seasonal Pricing,季节性定价,trade-terms,pending
-Volume Discount,数量折扣,trade-terms,pending
-Price List,价目表,trade-terms,pending
-Floor Price,最低限价,trade-terms,pending
-Ceiling Price,最高限价,trade-terms,pending
-Reference Price,参考价格,trade-terms,pending
-Base Price,基准价格,trade-terms,pending
-Formula Price,公式定价,trade-terms,pending
-Fixed Price,固定价格,trade-terms,pending
-Floating Price,浮动价格,trade-terms,pending
-Sailing Schedule,船期表,trade-terms,pending
-Sailing Date,开航日期,trade-terms,pending
-Bunker Clause,租船燃油条款,transport,pending
-NYPE Form,纽约土产交易所定期租约格式,transport,pending
-GENCON,标准航次租船合同,transport,pending
-World Scale,世界油轮运价表,transport,pending
-Ship Agent,船舶代理,transport,pending
-Flag of Convenience,方便旗,transport,pending
-Wharfage,码头费,transport,pending
-Draft Survey,水尺计重,transport,pending
-Ullage,液货舱空距测量,transport,pending
-Cargo Readiness,货物备妥,transport,pending
-Mooring,系泊作业,transport,pending
-Drydocking,船舶进坞检修,transport,pending
-Freight Futures,运费期货,transport,pending
-Chassis Split,底盘车分离费,transport,pending
-Pre-pull,预提箱作业,transport,pending
-Factory Relocation,工厂搬迁物流,transport,pending
-Exhibition Logistics,展会物流,transport,pending
-Land Bridge,大陆桥运输,transport,pending
-Mini-land Bridge,小陆桥运输,transport,pending
-Piggyback,驮背运输,transport,pending
-Double-stack Train,双层集装箱列车,transport,pending
-Platform Container,平台集装箱,transport,pending
-Garment on Hanger,挂衣箱运输,transport,pending
-Overland Common Point,内陆公共点运价,transport,pending
-Pre-alert,到货预告单,documents,pending
-Outturn Report,卸货溢短残损报告,documents,pending
-Statement of Facts,装卸时间事实记录,documents,pending
-Charter Party B/L,租约提单,documents,pending
-Proof of Export,出口证明文件,documents,pending
-Trust Receipt,信托收据,documents,pending
-Import Loan,进口押汇,documents,pending
-Export Bill Purchase,出口押汇,documents,pending
-Clean Collection,光票托收,documents,pending
-Documentary Collection,跟单托收,documents,pending
-House Manifest,分舱单,documents,pending
-CN22/CN23 Declaration,邮政报关单,documents,pending
-Release,海关放行,customs,pending
-Port of Entry,入境口岸,customs,pending
-Land Port,陆路口岸,customs,pending
-Free Port,自由港,customs,pending
-Origin Verification,原产地核查,customs,pending
-Transfer Pricing,转让定价海关审查,customs,pending
-Related Party Transaction,关联交易估价,customs,pending
-Interest on Duty,关税滞纳金,customs,pending
-Provisional Duty,临时关税,customs,pending
-Mutual Recognition Agreement,国际互认协定,customs,pending
-Import Ban,进口禁令,customs,pending
-Export Ban,出口禁令,customs,pending
-Quantitative Restriction,数量限制措施,customs,pending
-Automatic Licensing,自动进口许可,customs,pending
-Conformity Assessment,合格评定程序,customs,pending
-Biosecurity,生物安全检疫,customs,pending
-Traceability,食品可追溯性,customs,pending
-Country of Dispatch,发货国,customs,pending
-Third Country,第三国,customs,pending
+Authority Approval,主管当局批准,special-cargo,published
+UN Performance Test,联合国包装性能测试,special-cargo,published
+Drop Test,包装跌落测试,special-cargo,published
+Overpack,危险品外包装,special-cargo,published
+Salvage Packaging,救助包装,special-cargo,published
+Reconditioned Packaging,修复包装,special-cargo,published
+Cold Room,冷藏间,special-cargo,published
+Cold Treatment,冷处理除虫,special-cargo,published
+Pre-cooling,采后预冷,special-cargo,published
+Live Seafood,活鲜水产品运输,special-cargo,published
+Cut Flowers,鲜切花运输,special-cargo,published
+Clinical Trial Logistics,临床试验物流,special-cargo,published
+Reefer Breakdown,冷藏箱故障,special-cargo,published
+Gel Pack,蓄冷剂冰袋,special-cargo,published
+Insulated Liner,隔热内衬袋,special-cargo,published
+Thermal Blanket,保温毯,special-cargo,published
+GHS,全球化学品统一分类标准,special-cargo,published
+EMS Guide,船载危险品应急措施表,special-cargo,published
+MFAG,危险品医疗急救指南,special-cargo,published
+MARPOL,国际防止船舶污染公约,special-cargo,published
+Permit to Transport,大件运输许可,special-cargo,published
+Night Move,大件夜间运输,special-cargo,published
+Counter Sample,回样,trade-terms,published
+Original Sample,原样,trade-terms,published
+Sealed Sample,封样,trade-terms,published
+Duplicate Sample,复样,trade-terms,published
+Sale by Sample,凭样成交,trade-terms,published
+Sale by Description,凭说明成交,trade-terms,published
+Sale by Grade,凭等级成交,trade-terms,published
+Sale by Specification,凭规格成交,trade-terms,published
+Indicative Mark,指示性包装标志,trade-terms,published
+Warning Mark,警告性包装标志,trade-terms,published
+Rebate,佣金回扣,trade-terms,published
+Seasonal Pricing,季节性定价,trade-terms,published
+Volume Discount,数量折扣,trade-terms,published
+Price List,价目表,trade-terms,published
+Floor Price,最低限价,trade-terms,published
+Ceiling Price,最高限价,trade-terms,published
+Reference Price,参考价格,trade-terms,published
+Base Price,基准价格,trade-terms,published
+Formula Price,公式定价,trade-terms,published
+Fixed Price,固定价格,trade-terms,published
+Floating Price,浮动价格,trade-terms,published
+Sailing Schedule,船期表,trade-terms,published
+Sailing Date,开航日期,trade-terms,published
+Bunker Clause,租船燃油条款,transport,published
+NYPE Form,纽约土产交易所定期租约格式,transport,published
+GENCON,标准航次租船合同,transport,published
+World Scale,世界油轮运价表,transport,published
+Ship Agent,船舶代理,transport,published
+Flag of Convenience,方便旗,transport,published
+Wharfage,码头费,transport,published
+Draft Survey,水尺计重,transport,published
+Ullage,液货舱空距测量,transport,published
+Cargo Readiness,货物备妥,transport,published
+Mooring,系泊作业,transport,published
+Drydocking,船舶进坞检修,transport,published
+Freight Futures,运费期货,transport,published
+Chassis Split,底盘车分离费,transport,published
+Pre-pull,预提箱作业,transport,published
+Factory Relocation,工厂搬迁物流,transport,published
+Exhibition Logistics,展会物流,transport,published
+Land Bridge,大陆桥运输,transport,published
+Mini-land Bridge,小陆桥运输,transport,published
+Piggyback,驮背运输,transport,published
+Double-stack Train,双层集装箱列车,transport,published
+Platform Container,平台集装箱,transport,published
+Garment on Hanger,挂衣箱运输,transport,published
+Overland Common Point,内陆公共点运价,transport,published
+Pre-alert,到货预告单,documents,published
+Outturn Report,卸货溢短残损报告,documents,published
+Statement of Facts,装卸时间事实记录,documents,published
+Charter Party B/L,租约提单,documents,published
+Proof of Export,出口证明文件,documents,published
+Trust Receipt,信托收据,documents,published
+Import Loan,进口押汇,documents,published
+Export Bill Purchase,出口押汇,documents,published
+Clean Collection,光票托收,documents,published
+Documentary Collection,跟单托收,documents,published
+House Manifest,分舱单,documents,published
+CN22/CN23 Declaration,邮政报关单,documents,published
+Release,海关放行,customs,published
+Port of Entry,入境口岸,customs,published
+Land Port,陆路口岸,customs,published
+Free Port,自由港,customs,published
+Origin Verification,原产地核查,customs,published
+Transfer Pricing,转让定价海关审查,customs,published
+Related Party Transaction,关联交易估价,customs,published
+Interest on Duty,关税滞纳金,customs,published
+Provisional Duty,临时关税,customs,published
+Mutual Recognition Agreement,国际互认协定,customs,published
+Import Ban,进口禁令,customs,published
+Export Ban,出口禁令,customs,published
+Quantitative Restriction,数量限制措施,customs,published
+Automatic Licensing,自动进口许可,customs,published
+Conformity Assessment,合格评定程序,customs,published
+Biosecurity,生物安全检疫,customs,published
+Traceability,食品可追溯性,customs,published
+Country of Dispatch,发货国,customs,published
+Third Country,第三国,customs,published
 Express Consignment Operator,快件运营人资质,customs,pending
 Postal Clearance,邮政渠道清关,customs,pending
 Pre-clearance,预清关,customs,pending
