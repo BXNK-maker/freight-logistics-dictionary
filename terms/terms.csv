@@ -898,9 +898,9 @@ Tally Sheet,理货单,documents,published
 Loading List,装货清单,documents,published
 Gate Pass,出门证,documents,published
 Weighbridge Slip,地磅单,documents,published
-Comprehensive Bonded Zone,综合保税区,customs,pending
-9610 Model,跨境电商9610模式,customs,pending
-9710 Model,跨境电商9710模式,customs,pending
+Comprehensive Bonded Zone,综合保税区,customs,published
+9610 Model,跨境电商9610模式,customs,published
+9710 Model,跨境电商9710模式,customs,published
 9810 Model,跨境电商9810模式,customs,published
 1210 Model,跨境电商1210模式,customs,published
 Positive List,跨境电商进口正面清单,customs,published
@@ -998,103 +998,103 @@ Frozen Zone,冷冻温区,warehousing,published
 Ambient Zone,常温区,warehousing,published
 Temperature Mapping,温度分布验证,warehousing,published
 Clear Height,仓库净高,warehousing,published
-Floor Loading,地面承重,warehousing,pending
-Fire Sprinkler,消防喷淋系统,warehousing,pending
-MHE,物料搬运设备,warehousing,pending
-VNA (Very Narrow Aisle),窄巷道货架,warehousing,pending
-Shuttle System,穿梭车系统,warehousing,pending
-Goods-to-Person,货到人拣选,warehousing,pending
-Person-to-Goods,人到货拣选,warehousing,pending
-Drone Inventory Counting,无人机盘点,warehousing,pending
-ERP,企业资源计划系统,warehousing,pending
-IoT,物联网,warehousing,pending
-Sensor Monitoring,仓库环境监控,warehousing,pending
-Digital Twin,数字孪生仓库,warehousing,pending
-Predictive Maintenance,预测性维护,warehousing,pending
-Labor Management System,劳动力管理系统,warehousing,pending
-Labor Productivity,仓库人效,warehousing,pending
-Orders per Hour,每小时订单处理量,warehousing,pending
-Cost per Order,单均履约成本,warehousing,pending
-Handling Cost,库内操作成本,warehousing,pending
-Freight Cost,运输成本,warehousing,pending
-Logistics Cost,物流总成本,warehousing,pending
-Landed Cost,到岸总成本,warehousing,pending
-Seasonality,季节性波动,warehousing,pending
-Pick Path,拣货路径,warehousing,pending
-Golden Zone,黄金拣货区,warehousing,pending
-Forward Pick,前置拣货区,warehousing,pending
-Reserve Storage,储备存储区,warehousing,pending
-Staging Area,发货暂存区,warehousing,pending
-QA Hold,质检扣留区,warehousing,pending
-Refurbishment,翻新处理,warehousing,pending
-Disposal,销毁处理,warehousing,pending
-Recycling,回收处理,warehousing,pending
-Carton,纸箱,warehousing,pending
-Master Carton,外包装箱,warehousing,pending
-Inner Box,内盒,warehousing,pending
-Bubble Wrap,气泡膜,warehousing,pending
-Foam Fill,泡沫填充物,warehousing,pending
-Void Fill,空隙填充,warehousing,pending
-Stretch Film,缠绕膜,warehousing,pending
-Strapping,打包带,warehousing,pending
-Edge Protector,护角,warehousing,pending
-Desiccant,干燥剂,warehousing,pending
-Vacuum Packing,真空包装,warehousing,pending
-Crating,木箱包装,warehousing,pending
-Sustainable Packaging,环保包装,warehousing,pending
-Right-sizing,包装适型优化,warehousing,pending
-Dock-to-Stock,入库上架时长,warehousing,pending
-Lead Time,交货周期,warehousing,pending
-Order Lead Time,订单履约周期,warehousing,pending
-Transit Time,运输时效,warehousing,pending
-Cycle Time,作业周转时间,warehousing,pending
-On-time Rate,准时交付率,warehousing,pending
-Damage Rate,货损率,warehousing,pending
-Perfect Order Rate,订单完美履行率,warehousing,pending
-Service Level,服务水平,warehousing,pending
-SLA,服务水平协议,warehousing,pending
-Multi-order Picking,复合订单拣货,warehousing,pending
-Put-wall,播种墙,warehousing,pending
-Packing Station,打包工位,warehousing,pending
-Shipping Label,物流面单,warehousing,pending
-Thermal Printing,热敏打印,warehousing,pending
-Picking Cart,拣货车,warehousing,pending
-Ripening Room,果蔬催熟间,warehousing,pending
-Rack Label,货架标签,warehousing,pending
-Stock Transfer,库存调拨,warehousing,pending
-Full Pallet,整托作业,warehousing,pending
-Case Pick,拆箱拣货,warehousing,pending
-Each Pick,单件拣货,warehousing,pending
-Layer Picking,整层拣货,warehousing,pending
-Pallet Flow Rack,重力式托盘货架,warehousing,pending
-Carton Flow Rack,箱式流利货架,warehousing,pending
-Cantilever Racking,悬臂式货架,warehousing,pending
-Mezzanine,阁楼式货架,warehousing,pending
-Dock Seal,装卸门封,warehousing,pending
-Dedicated Warehouse,专属仓库,warehousing,pending
-Multi-client Warehouse,多客户共仓,warehousing,pending
-Flex Space,弹性仓容,warehousing,pending
-Overflow Warehouse,溢出备用仓,warehousing,pending
-Temp Labor,旺季临时用工,warehousing,pending
-Load Building,装车配载,warehousing,pending
-Route Sequence,配送顺序编排,warehousing,pending
-Cartonization,智能装箱算法,warehousing,pending
-Cube Utilization,装载空间利用率,warehousing,pending
-Trailer Load,拖车装载,warehousing,pending
-Multi-stop Route,多点配送线路,warehousing,pending
-DG Segregation Table,危险品隔离表,special-cargo,pending
-Class 1 Explosives,第1类爆炸品,special-cargo,pending
-Class 2 Gases,第2类气体,special-cargo,pending
-Class 3 Flammable Liquids,第3类易燃液体,special-cargo,pending
-Class 4 Flammable Solids,第4类易燃固体,special-cargo,pending
-Class 5 Oxidizers,第5类氧化性物质,special-cargo,pending
-Class 6 Toxic Substances,第6类毒性物质,special-cargo,pending
-Class 8 Corrosives,第8类腐蚀性物质,special-cargo,pending
-Class 9 Miscellaneous,第9类杂项危险品,special-cargo,pending
-Excepted Quantities,豁免数量危险品,special-cargo,pending
-DG Training,危险品从业培训,special-cargo,pending
-Cargo Aircraft Only,仅限货机运输,special-cargo,pending
-Passenger Aircraft Limit,客机限量危险品,special-cargo,pending
+Floor Loading,地面承重,warehousing,published
+Fire Sprinkler,消防喷淋系统,warehousing,published
+MHE,物料搬运设备,warehousing,published
+VNA (Very Narrow Aisle),窄巷道货架,warehousing,published
+Shuttle System,穿梭车系统,warehousing,published
+Goods-to-Person,货到人拣选,warehousing,published
+Person-to-Goods,人到货拣选,warehousing,published
+Drone Inventory Counting,无人机盘点,warehousing,published
+ERP,企业资源计划系统,warehousing,published
+IoT,物联网,warehousing,published
+Sensor Monitoring,仓库环境监控,warehousing,published
+Digital Twin,数字孪生仓库,warehousing,published
+Predictive Maintenance,预测性维护,warehousing,published
+Labor Management System,劳动力管理系统,warehousing,published
+Labor Productivity,仓库人效,warehousing,published
+Orders per Hour,每小时订单处理量,warehousing,published
+Cost per Order,单均履约成本,warehousing,published
+Handling Cost,库内操作成本,warehousing,published
+Freight Cost,运输成本,warehousing,published
+Logistics Cost,物流总成本,warehousing,published
+Landed Cost,到岸总成本,warehousing,published
+Seasonality,季节性波动,warehousing,published
+Pick Path,拣货路径,warehousing,published
+Golden Zone,黄金拣货区,warehousing,published
+Forward Pick,前置拣货区,warehousing,published
+Reserve Storage,储备存储区,warehousing,published
+Staging Area,发货暂存区,warehousing,published
+QA Hold,质检扣留区,warehousing,published
+Refurbishment,翻新处理,warehousing,published
+Disposal,销毁处理,warehousing,published
+Recycling,回收处理,warehousing,published
+Carton,纸箱,warehousing,published
+Master Carton,外包装箱,warehousing,published
+Inner Box,内盒,warehousing,published
+Bubble Wrap,气泡膜,warehousing,published
+Foam Fill,泡沫填充物,warehousing,published
+Void Fill,空隙填充,warehousing,published
+Stretch Film,缠绕膜,warehousing,published
+Strapping,打包带,warehousing,published
+Edge Protector,护角,warehousing,published
+Desiccant,干燥剂,warehousing,published
+Vacuum Packing,真空包装,warehousing,published
+Crating,木箱包装,warehousing,published
+Sustainable Packaging,环保包装,warehousing,published
+Right-sizing,包装适型优化,warehousing,published
+Dock-to-Stock,入库上架时长,warehousing,published
+Lead Time,交货周期,warehousing,published
+Order Lead Time,订单履约周期,warehousing,published
+Transit Time,运输时效,warehousing,published
+Cycle Time,作业周转时间,warehousing,published
+On-time Rate,准时交付率,warehousing,published
+Damage Rate,货损率,warehousing,published
+Perfect Order Rate,订单完美履行率,warehousing,published
+Service Level,服务水平,warehousing,published
+SLA,服务水平协议,warehousing,published
+Multi-order Picking,复合订单拣货,warehousing,published
+Put-wall,播种墙,warehousing,published
+Packing Station,打包工位,warehousing,published
+Shipping Label,物流面单,warehousing,published
+Thermal Printing,热敏打印,warehousing,published
+Picking Cart,拣货车,warehousing,published
+Ripening Room,果蔬催熟间,warehousing,published
+Rack Label,货架标签,warehousing,published
+Stock Transfer,库存调拨,warehousing,published
+Full Pallet,整托作业,warehousing,published
+Case Pick,拆箱拣货,warehousing,published
+Each Pick,单件拣货,warehousing,published
+Layer Picking,整层拣货,warehousing,published
+Pallet Flow Rack,重力式托盘货架,warehousing,published
+Carton Flow Rack,箱式流利货架,warehousing,published
+Cantilever Racking,悬臂式货架,warehousing,published
+Mezzanine,阁楼式货架,warehousing,published
+Dock Seal,装卸门封,warehousing,published
+Dedicated Warehouse,专属仓库,warehousing,published
+Multi-client Warehouse,多客户共仓,warehousing,published
+Flex Space,弹性仓容,warehousing,published
+Overflow Warehouse,溢出备用仓,warehousing,published
+Temp Labor,旺季临时用工,warehousing,published
+Load Building,装车配载,warehousing,published
+Route Sequence,配送顺序编排,warehousing,published
+Cartonization,智能装箱算法,warehousing,published
+Cube Utilization,装载空间利用率,warehousing,published
+Trailer Load,拖车装载,warehousing,published
+Multi-stop Route,多点配送线路,warehousing,published
+DG Segregation Table,危险品隔离表,special-cargo,published
+Class 1 Explosives,第1类爆炸品,special-cargo,published
+Class 2 Gases,第2类气体,special-cargo,published
+Class 3 Flammable Liquids,第3类易燃液体,special-cargo,published
+Class 4 Flammable Solids,第4类易燃固体,special-cargo,published
+Class 5 Oxidizers,第5类氧化性物质,special-cargo,published
+Class 6 Toxic Substances,第6类毒性物质,special-cargo,published
+Class 8 Corrosives,第8类腐蚀性物质,special-cargo,published
+Class 9 Miscellaneous,第9类杂项危险品,special-cargo,published
+Excepted Quantities,豁免数量危险品,special-cargo,published
+DG Training,危险品从业培训,special-cargo,published
+Cargo Aircraft Only,仅限货机运输,special-cargo,published
+Passenger Aircraft Limit,客机限量危险品,special-cargo,published
 Authority Approval,主管当局批准,special-cargo,pending
 UN Performance Test,联合国包装性能测试,special-cargo,pending
 Drop Test,包装跌落测试,special-cargo,pending
