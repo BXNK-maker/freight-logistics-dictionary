@@ -1,0 +1,67 @@
+{
+  "_comment": "词典分类体系 v2.0 —— 12 个一级分类，目标总量 15000 条。generate_entries.py / validate_terms.py / merge_seeds.py 共用。",
+  "categories": {
+    "trade-terms": {
+      "zh": "贸易术语",
+      "target": 1700,
+      "subcategories": ["价格条款", "支付方式", "贸易合同", "代理关系"]
+    },
+    "transport": {
+      "zh": "运输",
+      "target": 3200,
+      "subcategories": ["海运", "空运", "铁路", "公路", "多式联运", "港口码头", "船舶与设备", "集装箱"]
+    },
+    "documents": {
+      "zh": "单证",
+      "target": 2200,
+      "subcategories": ["提单家族", "官方证书", "报关单证", "保险单证", "运输单据"]
+    },
+    "customs": {
+      "zh": "关务合规",
+      "target": 2000,
+      "subcategories": ["清关流程", "HS编码", "税费", "AEO与认证", "商检", "贸易管制"]
+    },
+    "warehousing": {
+      "zh": "仓储",
+      "target": 1600,
+      "subcategories": ["仓库作业", "库房设施", "库存管理", "拣选包装", "保税仓"]
+    },
+    "special-cargo": {
+      "zh": "特殊货物",
+      "target": 1000,
+      "subcategories": ["危险品", "冷链", "超大超重", "贵重品", "活体动物"]
+    },
+    "insurance-claims": {
+      "zh": "保险理赔",
+      "target": 800,
+      "subcategories": ["货运险种", "理赔流程", "共同海损", "责任划分"]
+    },
+    "freight-finance": {
+      "zh": "物流金融",
+      "target": 700,
+      "subcategories": ["运费构成", "附加费", "汇率结算", "供应链金融"]
+    },
+    "digital-logistics": {
+      "zh": "物流数字化",
+      "target": 600,
+      "subcategories": ["EDI与API", "电子提单", "物流平台", "物联网追踪"]
+    },
+    "supply-chain": {
+      "zh": "供应链管理",
+      "target": 500,
+      "subcategories": ["供应链计划", "采购管理", "库存策略", "可持续供应链"]
+    },
+    "organizations": {
+      "zh": "组织与标准",
+      "target": 400,
+      "subcategories": ["国际组织", "行业联盟", "认证体系", "法规公约"]
+    },
+    "roles": {
+      "zh": "企业与角色",
+      "target": 300,
+      "subcategories": ["货代角色", "承运人类型", "口岸机构", "职业岗位"]
+    }
+  },
+  "total_target": 15000,
+  "valid_status": ["pending", "published"]
+}
