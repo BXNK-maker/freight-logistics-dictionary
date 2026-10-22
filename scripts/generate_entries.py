@@ -37,15 +37,23 @@ model_idx = 0
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY", "")
 MAX_ENTRIES = int(os.environ.get("MAX_ENTRIES", "20"))
 
-# 分类文件夹 -> 页面展示名（新增分类时在这里补一行即可）
+# 分类文件夹 -> 页面展示名（分类体系 v2.0，与 configs/categories.json 保持一致）
 CATEGORY_NAMES = {
     "trade-terms": "贸易术语",
     "transport": "运输",
     "documents": "单证",
-    "customs": "清关",
-    "warehousing": "仓储与配送",
-    "special-cargo": "特种货运",
+    "customs": "关务合规",
+    "warehousing": "仓储",
+    "special-cargo": "特殊货物",
+    "insurance-claims": "保险理赔",
+    "freight-finance": "物流金融",
+    "digital-logistics": "物流数字化",
+    "supply-chain": "供应链管理",
+    "organizations": "组织与标准",
+    "roles": "企业与角色",
 }
+
+CSV_FIELDNAMES = ["term_en", "term_zh", "category", "subcategory", "status"]
 
 PROMPT_TEMPLATE = """你是一名资深的国际货运与物流专家，正在为一本中英对照的货运物流术语词典撰写词条。
 
@@ -55,11 +63,12 @@ PROMPT_TEMPLATE = """你是一名资深的国际货运与物流专家，正在�
 2. 全部使用简体中文撰写（专有名词和缩写保留英文）。
 3. 输出为纯 Markdown 正文（不要 YAML frontmatter，不要代码块包裹）。
 4. 使用以下小节结构（用 ## 二级标题）：
-   - ## 定义（2-3 句话，说清这个术语是什么）
+   - ## 定义（2-3 句话，说清这个术语是什么；若是缩写需给出英文全称）
    - ## 详细说明（要点用 - 列表，覆盖：使用场景、关键规则或数字、实务注意事项）
    - ## 中英对照（一个 Markdown 表格，3-5 行，列出与本术语相关的常用中英对照表达）
+   - ## 相关术语（3-5 个与本术语紧密相关的词条，格式：`英文名（中文名）`，用 - 列表；必须真实存在于货运物流领域，不要编造）
    - ## 常见误区（1-3 条，用 - 列表）
-5. 总长度控制在 400-700 字之间，不要输出开场白和结束语。"""
+5. 总长度控制在 450-750 字之间，不要输出开场白和结束语。"""
 
 
 def slugify(text: str) -> str:
@@ -133,19 +142,25 @@ def call_gemini(prompt: str, retries: int = 6) -> str:
     raise RuntimeError(f"Gemini API 调用失败: {last_err}")
 
 
-def build_markdown(term_en: str, term_zh: str, category_key: str, body: str) -> str:
+def build_markdown(term_en: str, term_zh: str, category_key: str, body: str,
+                   subcategory: str = "") -> str:
     category_name = CATEGORY_NAMES.get(category_key, category_key)
     # 去掉模型可能额外包的 ```markdown 围栏
     body = re.sub(r"^```(?:markdown)?\s*\n?", "", body)
     body = re.sub(r"\n?```\s*$", "", body).strip()
+    meta_line = f"> 📖 分类：**{category_name}**"
+    if subcategory:
+        meta_line += f" / {subcategory}"
+    meta_line += f"　｜　{term_en} = {term_zh}"
     frontmatter = (
         "---\n"
         f'title: "{term_en}"\n'
         f'linkTitle: "{term_zh}"\n'
         f"date: {date.today().isoformat()}\n"
-        f'type: docs\n'
-        "---\n\n"
-        f"> 📖 分类：**{category_name}**　｜　{term_en} = {term_zh}\n\n"
+        f"type: docs\n"
+        + (f'subcategory: "{subcategory}"\n' if subcategory else "")
+        + "---\n\n"
+        f"{meta_line}\n\n"
         f"{body}\n\n"
         "---\n\n"
         "*本词条由 AI 生成初稿、经人工审核后发布，仅供学习参考，不构成法律或商务建议。*\n"
@@ -173,10 +188,25 @@ def main() -> int:
 
     with TERMS_FILE.open("r", encoding="utf-8-sig", newline="") as f:
         rows = list(csv.DictReader(f))
+    # 兼容旧版 4 列 CSV：补默认子分类为空
+    for r in rows:
+        r.setdefault("subcategory", "")
 
     pending = [r for r in rows if r.get("status", "").strip() == "pending"]
     if not pending:
         print("没有待生成的词条（status=pending），本次运行结束。")
+        return 0
+
+    # 分类白名单校验（读取 configs/categories.json，与站点分类一致）
+    valid_categories = set(CATEGORY_NAMES)
+    bad = [r for r in pending if r.get("category", "").strip() not in valid_categories]
+    if bad:
+        print(f"⚠️ 有 {len(bad)} 条 pending 词条分类不在白名单内，已跳过：", flush=True)
+        for r in bad[:10]:
+            print(f"  - {r['term_en']} -> {r['category']}", flush=True)
+    pending = [r for r in pending if r.get("category", "").strip() in valid_categories]
+    if not pending:
+        print("过滤后没有可生成的词条，本次运行结束。")
         return 0
 
     todo = pending[:MAX_ENTRIES]
@@ -188,6 +218,7 @@ def main() -> int:
         term_en = row["term_en"].strip()
         term_zh = row["term_zh"].strip()
         category = row["category"].strip()
+        subcategory = row.get("subcategory", "").strip()
         print(f"→ 生成 {term_en} ({term_zh}) ...", flush=True)
 
         try:
@@ -205,18 +236,18 @@ def main() -> int:
         ensure_category_index(category)
         out_file = DOCS_DIR / category / f"{slugify(term_en)}.md"
         out_file.write_text(
-            build_markdown(term_en, term_zh, category, body), encoding="utf-8"
+            build_markdown(term_en, term_zh, category, body, subcategory),
+            encoding="utf-8",
         )
         row["status"] = "published"
         generated += 1
         print(f"  ✓ 已写入 {out_file.relative_to(ROOT)}", flush=True)
         time.sleep(2)  # 简单限速，避免触发 API 配额
 
-    # 回写 CSV 状态
+    # 回写 CSV 状态（v2：含 subcategory 列，旧条目自动补空值）
     if generated:
-        fieldnames = ["term_en", "term_zh", "category", "status"]
         with TERMS_FILE.open("w", encoding="utf-8", newline="") as f:
-            writer = csv.DictWriter(f, fieldnames=fieldnames)
+            writer = csv.DictWriter(f, fieldnames=CSV_FIELDNAMES, extrasaction="ignore")
             writer.writeheader()
             writer.writerows(rows)
 
