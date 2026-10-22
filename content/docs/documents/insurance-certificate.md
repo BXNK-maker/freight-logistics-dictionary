@@ -1,6 +1,6 @@
 ---
 title: "Insurance Certificate"
-linkTitle: "保险单"
+linkTitle: "保险凭证"
 date: 2026-10-15
 type: docs
 ---
