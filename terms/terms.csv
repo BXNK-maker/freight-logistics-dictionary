@@ -1,1241 +1,1476 @@
-term_en,term_zh,category,status
-Incoterms,国际贸易术语,trade-terms,published
-FOB,离岸价,trade-terms,published
-CIF,到岸价,trade-terms,published
-EXW,工厂交货价,trade-terms,published
-DDP,完税后交货,trade-terms,published
-DAP,目的地交货,trade-terms,published
-FCA,货交承运人,trade-terms,published
-CFR,成本加运费,trade-terms,published
-Freight Forwarding,货运代理,transport,published
-Bill of Lading,海运提单,transport,published
-Sea Waybill,海运单,transport,published
-Air Waybill,空运提单,transport,published
-TEU,标准箱,transport,published
-FCL,整箱货,transport,published
-LCL,拼箱货,transport,published
-Multimodal Transport,多式联运,transport,published
-Demurrage,滞期费,transport,published
-Detention,滞箱费,transport,published
-NVOCC,无船承运人,transport,published
-Chartering,租船运输,transport,published
-Commercial Invoice,商业发票,documents,published
-Packing List,装箱单,documents,published
-Certificate of Origin,原产地证书,documents,published
-Letter of Credit,信用证,documents,published
-Shipping Mark,唛头,documents,published
-Insurance Certificate,保险凭证,documents,published
-Customs Clearance,清关,customs,published
-HS Code,海关编码,customs,published
-Tariff,关税,customs,published
-Customs Declaration,报关,customs,published
-Duty Drawback,出口退税,customs,published
-Bonded Warehouse,保税仓库,customs,published
-AEO,经认证的经营者,customs,published
-Warehousing,仓储,warehousing,published
-3PL,第三方物流,warehousing,published
-4PL,第四方物流,warehousing,published
-Cross-docking,越库作业,warehousing,published
-Last-mile Delivery,最后一公里配送,warehousing,published
-Fulfillment Center,履约中心,warehousing,published
-Inventory Management,库存管理,warehousing,published
-Dangerous Goods,危险品,special-cargo,published
-Cold Chain,冷链运输,special-cargo,published
-Reefer Container,冷藏集装箱,special-cargo,published
-Project Cargo,项目物流,special-cargo,published
-Out of Gauge Cargo,超限货物,special-cargo,published
-CIP,运费保险费付至,trade-terms,published
-CPT,运费付至,trade-terms,published
-DPU,卸货地交货,trade-terms,published
-FAS,船边交货,trade-terms,published
-DDU,未完税交货,trade-terms,published
-Consignee,收货人,trade-terms,published
-Shipper,发货人,trade-terms,published
-Notify Party,被通知人,trade-terms,published
-Freight Prepaid,运费预付,trade-terms,published
-Freight Collect,运费到付,trade-terms,published
-Container Yard,集装箱堆场,transport,published
-Container Freight Station,集装箱货运站,transport,published
-VGM,集装箱称重验证,transport,published
-Cut-off Time,截关时间,transport,published
-ETA and ETD,预计到港与离港时间,transport,published
-Transshipment,转运,transport,published
-THC,码头操作费,transport,published
-BAF,燃油附加费,transport,published
-Ocean Freight,海运费,transport,published
-Dead Freight,亏舱费,transport,published
-Laycan,受载期,transport,published
-Stevedoring,装卸作业,transport,published
-Feeder Service,支线运输,transport,published
-RORO,滚装运输,transport,published
-Breakbulk,件杂货运输,transport,published
-Dimensional Weight,体积重量,transport,published
-Chargeable Weight,计费重量,transport,published
-GRI,综合费率上调,transport,published
-Shipping Order,托运单,documents,published
-House Bill of Lading,House 提单,documents,published
-Master Bill of Lading,Master 提单,documents,published
-Delivery Order,提货单,documents,published
-Arrival Notice,到货通知,documents,published
-Cargo Manifest,舱单,documents,published
-Bill of Exchange,汇票,documents,published
-Export License,出口许可证,documents,published
-Import License,进口许可证,documents,published
-Inspection Certificate,检验证书,documents,published
-Fumigation Certificate,熏蒸证书,documents,published
-ATA Carnet,ATA 单证册,documents,published
-Phytosanitary Certificate,植物检疫证书,documents,published
-ISF 10+2,进口安全申报,documents,published
-Anti-dumping Duty,反倾销税,customs,published
-Countervailing Duty,反补贴税,customs,published
-FTA,自由贸易协定,customs,published
-GSP,普惠制,customs,published
-EORI,欧盟经营者注册识别号,customs,published
-Temporary Admission,暂准进口,customs,published
-Customs Valuation,海关估价,customs,published
-Transit Procedure,转关运输,customs,published
-Advance Ruling,预裁定,customs,published
-Free Trade Zone,自由贸易区,customs,published
-Excise Duty,消费税,customs,published
-Customs Examination,海关查验,customs,published
-De Minimis,小额免税,customs,published
-WMS,仓库管理系统,warehousing,published
-Distribution Center,配送中心,warehousing,published
-SKU,最小库存单位,warehousing,published
-ASN,预先发货通知,warehousing,published
-Pick and Pack,拣货包装,warehousing,published
-Cycle Count,循环盘点,warehousing,published
-Safety Stock,安全库存,warehousing,published
-FIFO,先进先出,warehousing,published
-FEFO,先到期先出,warehousing,published
-EOQ,经济订货批量,warehousing,published
-Just-in-Time,准时制,warehousing,published
-Reverse Logistics,逆向物流,warehousing,published
-Pallet,托盘,warehousing,published
-UN Number,联合国危险品编号,special-cargo,published
-MSDS,化学品安全技术说明书,special-cargo,published
-Packing Group,危险品包装类别,special-cargo,published
-IATA DGR,国际航协危险品规则,special-cargo,published
-IMDG Code,国际海运危险货物规则,special-cargo,published
-Lithium Battery Shipping,锂电池运输,special-cargo,published
-ADR,欧洲危险品公路运输协定,special-cargo,published
-Perishable Cargo,易腐货物,special-cargo,published
-Pharmaceutical Logistics,医药物流,special-cargo,published
-Livestock Transport,活体动物运输,special-cargo,published
-Valuable Cargo,贵重货物,special-cargo,published
-ISO Tank,罐式集装箱,special-cargo,published
-Flat Rack Container,框架集装箱,special-cargo,published
-Open Top Container,开顶集装箱,special-cargo,published
-Heavy Lift Cargo,超重货物,special-cargo,published
-FOB Stowed,离岸价含装舱费,trade-terms,published
-FOB Trimmed,离岸价含平舱费,trade-terms,published
-FOB Under Tackle,船钩下交货价,trade-terms,published
-Ex Ship,目的港船上交货,trade-terms,published
-Ex Quay,目的港码头交货,trade-terms,published
-Ex Bonded Warehouse,保税仓库交货价,trade-terms,published
-DAF (Delivered at Frontier),边境交货（旧术语）,trade-terms,published
-DES (Delivered Ex Ship),目的港船上交货（旧术语）,trade-terms,published
-DEQ (Delivered Ex Quay),目的港码头交货（旧术语）,trade-terms,published
-Net Weight,净重,trade-terms,published
-Gross Weight,毛重,trade-terms,published
-Tare Weight,皮重,trade-terms,published
-Gross for Net,以毛作净,trade-terms,published
-Conditioned Weight,公量,trade-terms,published
-More or Less Clause,溢短装条款,trade-terms,published
-MOQ (Minimum Order Quantity),最小起订量,trade-terms,published
-Unit Price,单价,trade-terms,published
-Partial Shipment,分批装运,trade-terms,published
-Latest Shipment Date,最迟装运期,trade-terms,published
-Shipment Period,装运期,trade-terms,published
-Port of Loading,装货港,trade-terms,published
-Port of Discharge,卸货港,trade-terms,published
-Place of Delivery,交货地点,trade-terms,published
-Final Destination,最终目的地,trade-terms,published
-Base Port,基本港,trade-terms,published
-Non-Base Port,非基本港,trade-terms,published
-ICD (Inland Container Depot),内陆集装箱堆场,trade-terms,published
-Inland Point,内陆点,trade-terms,published
-Title Transfer,所有权转移,trade-terms,published
-Risk Transfer,风险转移,trade-terms,published
-Sales Contract,销售合同,trade-terms,published
-Purchase Order,采购订单,trade-terms,published
-Sales Confirmation,销售确认书,trade-terms,published
-Proforma Invoice,形式发票,trade-terms,published
-Counter Trade,对销贸易,trade-terms,published
-Barter Trade,易货贸易,trade-terms,published
-Entrepot Trade,转口贸易,trade-terms,published
-Processing Trade,加工贸易,trade-terms,published
-Compensation Trade,补偿贸易,trade-terms,published
-Agency Agreement,代理协议,trade-terms,published
-Exclusive Agency,独家代理,trade-terms,published
-Distributor,经销商,trade-terms,published
-Consignment,寄售,trade-terms,published
-Invitation to Tender,招标,trade-terms,published
-Bid,投标,trade-terms,published
-Liner Terms,班轮条款,transport,published
-Berth Terms,泊位条款,transport,published
-FIO (Free In and Out),船方不负担装卸费,transport,published
-FIOS,船方不负担装卸堆垛费,transport,published
-FIOST,船方不负担装卸堆垛平舱费,transport,published
-Laytime,装卸时间,transport,published
-Laytime Statement,装卸时间计算表,transport,published
-Despatch Money,速遣费,transport,published
-NOR (Notice of Readiness),装卸准备就绪通知书,transport,published
-Time Charter,定期租船,transport,published
-Voyage Charter,航次租船,transport,published
-Bareboat Charter,光船租赁,transport,published
-Charter Party,租船合同,transport,published
-Freight Ton,运费吨,transport,published
-W/M (Weight or Measurement),重量或体积计费,transport,published
-CAF (Currency Adjustment Factor),货币贬值附加费,transport,published
-EBS (Emergency Bunker Surcharge),紧急燃油附加费,transport,published
-PCS (Port Congestion Surcharge),港口拥挤附加费,transport,published
-PSS (Peak Season Surcharge),旺季附加费,transport,published
-LSS (Low Sulphur Surcharge),低硫附加费,transport,published
-CIC (Container Imbalance Charge),集装箱不平衡附加费,transport,published
-DDC (Destination Delivery Charge),目的港交货费,transport,published
-ORC (Origin Receiving Charge),起运港收货费,transport,published
-ISPS Surcharge,港口安全附加费,transport,published
-All-in Rate,全包运价,transport,published
-Spot Rate,即期运价,transport,published
-Contract Rate,协议运价,transport,published
-Service Contract,运价服务协议,transport,published
-BCO (Beneficial Cargo Owner),直客货主,transport,published
-Co-load,同业拼箱,transport,published
-Buyer's Consolidation,买家指定货,transport,published
-Empty Container Depot,空箱堆场,transport,published
-EIR (Equipment Interchange Receipt),设备交接单,transport,published
-Gate-in,进场,transport,published
-Gate-out,提箱出场,transport,published
-Free Time,免费堆存期,transport,published
-Storage Charge,堆存费,transport,published
-Container Deposit,押箱费,transport,published
-Seal,铅封,transport,published
-Seal Number,铅封号,transport,published
-Tally,理货,transport,published
-Gantry Crane,桥吊,transport,published
-RTG (Rubber-Tyred Gantry Crane),轮胎式龙门吊,transport,published
-RMG (Rail-Mounted Gantry Crane),轨道式龙门吊,transport,published
-Straddle Carrier,跨运车,transport,published
-Reach Stacker,正面吊,transport,published
-TOS (Terminal Operating System),码头操作系统,transport,published
-Berth Window,泊位窗口,transport,published
-Anchorage,锚地,transport,published
-Pilotage,引航费,transport,published
-Towage,拖轮费,transport,published
-Canal Transit Fee,运河通行费,transport,published
-Suez Canal Transit,苏伊士运河通行,transport,published
-Cape of Good Hope Route,好望角航线,transport,published
-Bunkering,船舶加油,transport,published
-VLSFO,超低硫燃油,transport,published
-IMO 2020,国际海事组织限硫令,transport,published
-Ballast Water,压载水,transport,published
-Flag State,船旗国,transport,published
-Classification Society,船级社,transport,published
-PSC (Port State Control),港口国监督,transport,published
-General Average,共同海损,transport,published
-Particular Average,单独海损,transport,published
-GA Deposit,共同海损保证金,transport,published
-Salvage,海难救助,transport,published
-Shipping Alliance,航运联盟,transport,published
-Freight Index,运价指数,transport,published
-SCFI,上海出口集装箱运价指数,transport,published
-Transpacific Route,跨太平洋航线,transport,published
-Asia-Europe Route,亚欧航线,transport,published
-Inland Waterway Transport,内河运输,transport,published
-Barge,驳船运输,transport,published
-Rail Freight,铁路运输,transport,published
-China-Europe Railway Express,中欧班列,transport,published
-Block Train,整列直达列车,transport,published
-Rail Waybill,铁路运单,transport,published
-SMGS Convention,国际铁路货物联运协定,transport,published
-Road Freight,公路运输,transport,published
-FTL (Full Truckload),整车运输,transport,published
-LTL (Less than Truckload),零担运输,transport,published
-Cross-border Trucking,跨境卡车运输,transport,published
-TIR (Transports Internationaux Routiers),国际公路运输系统,transport,published
-CMR Convention,国际公路货物运输合同公约,transport,published
-Air Freight,航空货运,transport,published
-Fuel Surcharge (Air),空运燃油附加费,transport,published
-Security Surcharge (Air),空运安全附加费,transport,published
-ULD (Unit Load Device),航空集装器,transport,published
-Charter Flight,包机运输,transport,published
-Freighter,全货机,transport,published
-Belly Cargo,腹舱货,transport,published
-e-AWB,电子航空运单,transport,published
-Sea-Air Transport,海空联运,transport,published
-Express,国际快递,transport,published
-Parcel,包裹,transport,published
-COD (Cash on Delivery),货到付款,transport,published
-E-commerce Logistics,电商物流,transport,published
-Cross-border E-commerce,跨境电商,transport,published
-Dropshipping,一件代发,transport,published
-POD (Proof of Delivery),签收证明,transport,published
-Delivery Exception,派送异常,transport,published
-Pickup,揽收,transport,published
-Drayage,港区短驳,transport,published
-Cartage,短途搬运,transport,published
-Transloading,换装转载,transport,published
-Chassis,集装箱底盘车,transport,published
-Overweight Container,超重集装箱,transport,published
-Axle Load,轴重,transport,published
-Weight Limit,公路限重,transport,published
-Schedule Reliability,船期可靠性,transport,published
-Blank Sailing,跳港停航,transport,published
-Rolled Cargo,甩柜,transport,published
-Port Congestion,港口拥堵,transport,published
-Dry Bulk,干散货,transport,published
-Liquid Bulk,液体散货,transport,published
-Bulk Cargo,散装货物,transport,published
-Tanker,油轮运输,transport,published
-Flexitank,液袋运输,transport,published
-Neo-bulk,准散货,transport,published
-Containerization,集装箱化,transport,published
-Slot Exchange,舱位互换,transport,published
-Slot Charter,舱位租赁,transport,published
-Space Booking,订舱,transport,published
-Booking Confirmation,订舱确认,transport,published
-Shipping Instruction,托运指示,transport,published
-SI Cut-off,截托书时间,transport,published
-Amendment,改单,transport,published
-Telex Release,电报放货,transport,published
-Original B/L,正本提单,transport,published
-B/L Endorsement,提单背书,transport,published
-Negotiable B/L,可转让提单,transport,published
-Order B/L,指示提单,transport,published
-Straight B/L,记名提单,transport,published
-Clean B/L,清洁提单,transport,published
-Claused B/L,不清洁提单,transport,published
-Stale B/L,过期提单,transport,published
-Switch B/L,换提单,transport,published
-Onboard Notation,已装船批注,transport,published
-Shipped on Board,已装船,transport,published
-Received for Shipment,收妥待运,transport,published
-Port-to-Port,港到港运输,transport,published
-Door-to-Door,门到门运输,transport,published
-CY-to-CY,堆场到堆场,transport,published
-CFS-to-CFS,货运站到货运站,transport,published
-Through B/L,联运提单,transport,published
-Combined Transport,联合运输,transport,published
-Carrier's Liability,承运人责任,transport,published
-Package Limitation,单位赔偿限额,transport,published
-Hague Rules,海牙规则,transport,published
-Hague-Visby Rules,海牙-维斯比规则,transport,published
-Hamburg Rules,汉堡规则,transport,published
-Rotterdam Rules,鹿特丹规则,transport,published
-Montreal Convention,蒙特利尔公约,transport,published
-Warsaw Convention,华沙公约,transport,published
-Off-hire,停租,transport,published
-Ship Broker,船舶经纪人,transport,published
-Debit Note,借记通知单,documents,published
-Credit Note,贷记通知单,documents,published
-Sight Draft,即期汇票,documents,published
-Usance Draft,远期汇票,documents,published
-Irrevocable L/C,不可撤销信用证,documents,published
-Confirmed L/C,保兑信用证,documents,published
-Standby L/C,备用信用证,documents,published
-Revolving L/C,循环信用证,documents,published
-Back-to-back L/C,背对背信用证,documents,published
-Transferable L/C,可转让信用证,documents,published
-Red Clause L/C,红条款信用证,documents,published
-L/C Amendment,信用证修改,documents,published
-Discrepancy,不符点,documents,published
-UCP 600,跟单信用证统一惯例,documents,published
-D/P (Documents against Payment),付款交单,documents,published
-D/A (Documents against Acceptance),承兑交单,documents,published
-Collection,托收,documents,published
-Open Account (O/A),赊销,documents,published
-T/T (Telegraphic Transfer),电汇,documents,published
-Advance Payment,预付货款,documents,published
-Bank Guarantee,银行保函,documents,published
-Performance Bond,履约保函,documents,published
-Bid Bond,投标保函,documents,published
-Advance Payment Guarantee,预付款保函,documents,published
-Open Cover,预约保险,documents,published
-Marine Cargo Insurance,海运货物保险,documents,published
-Institute Cargo Clauses,协会货物条款,documents,published
-All Risks,一切险,documents,published
-WPA (With Particular Average),水渍险,documents,published
-FPA (Free from Particular Average),平安险,documents,published
-General Additional Risks,一般附加险,documents,published
-Special Additional Risks,特殊附加险,documents,published
-War Risk,战争险,documents,published
-Strikes Risk,罢工险,documents,published
-Insurable Interest,可保利益,documents,published
-Insured Value,保险价值,documents,published
-Insurance Premium,保险费,documents,published
-Insurance Claim,保险索赔,documents,published
-Survey Report,检验报告,documents,published
-Deductible,免赔额,documents,published
-Subrogation,代位追偿,documents,published
-Weight Memo,重量单,documents,published
-Measurement List,尺码单,documents,published
-Neutral Invoice,中性发票,documents,published
-FCR (Forwarder's Certificate of Receipt),货运代理收据凭证,documents,published
-Shipping Advice,装运通知,documents,published
-Form A Certificate,普惠制原产地证,documents,published
-Form E Certificate,中国-东盟原产地证,documents,published
-RCEP Certificate,RCEP原产地证书,documents,published
-Certificate of Analysis,分析证书,documents,published
-Quality Certificate,质量证书,documents,published
-ISPM 15,国际木质包装检疫标准,documents,published
-Wood Packaging Declaration,木质包装声明,documents,published
-DGD (Dangerous Goods Declaration),危险品申报单,documents,published
-SLI (Shipper's Letter of Instruction),托运指示书,documents,published
-End-user Certificate,最终用户证明,documents,published
-Consular Invoice,领事发票,documents,published
-Legalisation,领事认证,documents,published
-E-invoice,电子发票,documents,published
-E-B/L,电子提单,documents,published
-Payment Receipt,收款收据,documents,published
-Remittance Advice,汇款通知,documents,published
-Statement of Account,对账单,documents,published
-Packing Declaration,包装声明,documents,published
-Insurance Policy,保险单,documents,published
-Cover Note,承保通知书,documents,published
-Dock Receipt,场站收据,documents,published
-Mate's Receipt,大副收据,documents,published
-Post Receipt,邮包收据,documents,published
-Courier Receipt,快递收据,documents,published
-Delivery Note,送货单,documents,published
-GRN (Goods Received Note),收货单,documents,published
-Export Declaration Form,出口报关单,documents,published
-Import Declaration Form,进口报关单,documents,published
-Customs Invoice,海关发票,documents,published
-Certificate of Free Sale,自由销售证书,documents,published
-Certificate of Conformity,符合性证书,documents,published
-SGS Inspection Certificate,SGS检验证书,documents,published
-Radiation Certificate,辐射检测证书,documents,published
-Certificate of Weight,重量证书,documents,published
-House Air Waybill,空运分运单,documents,published
-Master Air Waybill,空运主运单,documents,published
-DG Label,危险品标签,documents,published
-Handling Label,操作标签,documents,published
-Fragile Label,易碎标签,documents,published
-This Side Up Label,向上标签,documents,published
-Beneficiary,受益人,documents,published
-Applicant,开证申请人,documents,published
-Issuing Bank,开证行,documents,published
-Advising Bank,通知行,documents,published
-Negotiating Bank,议付行,documents,published
-Confirming Bank,保兑行,documents,published
-Reimbursing Bank,偿付行,documents,published
-MFN (Most Favoured Nation),最惠国待遇,customs,published
-Bound Rate,约束税率,customs,published
-Applied Tariff Rate,实施税率,customs,published
-Preferential Tariff,特惠关税,customs,published
-Tariff Rate Quota,关税配额,customs,published
-Safeguard Measures,保障措施,customs,published
-Trade Remedy,贸易救济措施,customs,published
-Import Duty,进口关税,customs,published
-Export Duty,出口关税,customs,published
-Rules of Origin,原产地规则,customs,published
-Country of Origin,原产国,customs,published
-Substantial Transformation,实质性改变标准,customs,published
-Origin Marking,原产地标记,customs,published
-Pre-shipment Inspection,装运前检验,customs,published
-Commodity Inspection,商品检验,customs,published
-CIQ,出入境检验检疫,customs,published
-SPS Agreement,卫生与植物卫生措施协定,customs,published
-TBT (Technical Barriers to Trade),技术性贸易壁垒,customs,published
-CE Marking,CE认证,customs,published
-CCC Certification,中国强制性产品认证,customs,published
-FDA Registration,FDA注册,customs,published
-Halal Certification,清真认证,customs,published
-Sanitary Certificate,卫生证书,customs,published
-Veterinary Certificate,兽医卫生证书,customs,published
-Import Quota,进口配额,customs,published
-Export Quota,出口配额,customs,published
-Dual-use Goods,两用物项,customs,published
-Export Control,出口管制,customs,published
-Embargo,禁运,customs,published
-Sanctions Screening,制裁名单筛查,customs,published
-Denied Party Screening,禁运对象筛查,customs,published
-Re-export,再出口,customs,published
-Bonded Logistics Zone,保税物流中心,customs,published
-Bonded Factory,保税工厂,customs,published
-Customs Supervision Zone,海关监管区,customs,published
-Customs Broker,报关行,customs,published
-Declarant,报关申报人,customs,published
-Importer of Record,进口记录商,customs,published
-Exporter of Record,出口记录商,customs,published
-Dutiable Value,完税价格,customs,published
-Transaction Value Method,成交价格法,customs,published
-Import VAT,进口环节增值税,customs,published
-Tariff Heading,税则号列,customs,published
-Classification Ruling,商品归类裁定,customs,published
-BTI (Binding Tariff Information),约束性税率信息,customs,published
-WCO,世界海关组织,customs,published
-Kyoto Convention,京都公约,customs,published
-Single Window,国际贸易单一窗口,customs,published
-Paperless Clearance,无纸化通关,customs,published
-Pre-arrival Declaration,抵达前申报,customs,published
-Green Lane,绿色通道,customs,published
-Red Lane,红色通道,customs,published
-X-ray Scanning,机检查验,customs,published
-Smuggling,走私,customs,published
-Under-declaration,低报价格,customs,published
-Misdeclaration,申报不实,customs,published
-Customs Penalty,海关处罚,customs,published
-Seizure,海关扣押,customs,published
-Confiscation,没收,customs,published
-Duty Evasion,逃税,customs,published
-Voluntary Disclosure,主动披露,customs,published
-Post-clearance Audit,海关稽查,customs,published
-Customs Guarantee,海关保证金,customs,published
-Duty Deferral,关税递延,customs,published
-Duty Exemption,关税豁免,customs,published
-Returned Goods,退运货物,customs,published
-Re-import,复进口,customs,published
-Second-hand Machinery Import,旧机电进口,customs,published
-Customs Seal,海关关锁,customs,published
-E-manifest,电子舱单,customs,published
-AMS (Automated Manifest System),美国自动舱单系统,customs,published
-ENS (Entry Summary Declaration),欧盟入境摘要申报,customs,published
-ICS2,欧盟新版舱单系统,customs,published
-CBP (Customs and Border Protection),美国海关及边境保卫局,customs,published
-IPR Protection,知识产权海关保护,customs,published
-Waste Import Restriction,固废进口限制,customs,published
-Tariff Engineering,关税筹划,customs,published
-First Sale Rule,首次销售规则,customs,published
-Duty Repayment,关税退还,customs,published
-Harmonized Tariff Schedule,协调关税表,customs,published
-Export Subsidy,出口补贴,customs,published
-Anti-circumvention,反规避,customs,published
-Sunset Review,日落复审,customs,published
-WTO,世界贸易组织,customs,published
-Direct Shipment Rule,直运规则,customs,published
-Public Warehouse,公共仓库,warehousing,published
-Private Warehouse,自营仓库,warehousing,published
-Cold Storage,冷库,warehousing,published
-Temperature-controlled Warehouse,恒温仓库,warehousing,published
-Hazmat Warehouse,危险品仓库,warehousing,published
-Micro-fulfillment,微型履约中心,warehousing,published
-Hub-and-Spoke,轴辐式网络,warehousing,published
-Racking,货架,warehousing,published
-ASRS,自动化立体仓库,warehousing,published
-AGV,自动导引车,warehousing,published
-AMR,自主移动机器人,warehousing,published
-Conveyor System,输送系统,warehousing,published
-Sortation,分拣作业,warehousing,published
-Sorter,分拣机,warehousing,published
-Pick List,拣货单,warehousing,published
-Wave Picking,波次拣货,warehousing,published
-Batch Picking,批量拣货,warehousing,published
-Zone Picking,分区拣货,warehousing,published
-Pick-to-Light,电子标签拣货,warehousing,published
-Voice Picking,语音拣货,warehousing,published
-Putaway,上架,warehousing,published
-Replenishment,补货,warehousing,published
-Slotting,储位优化,warehousing,published
-Bin Location,库位,warehousing,published
-Lot Number,批号,warehousing,published
-Serial Number Tracking,序列号管理,warehousing,published
-Expiry Date Management,效期管理,warehousing,published
-Barcode,条形码,warehousing,published
-QR Code,二维码,warehousing,published
-RFID,射频识别,warehousing,published
-Inbound,入库作业,warehousing,published
-Outbound,出库作业,warehousing,published
-Receiving,收货,warehousing,published
-OMS (Order Management System),订单管理系统,warehousing,published
-TMS (Transportation Management System),运输管理系统,warehousing,published
-YMS (Yard Management System),场院管理系统,warehousing,published
-Dock Door,装卸门,warehousing,published
-Dock Leveler,登车桥,warehousing,published
-Drop Trailer,甩挂运输,warehousing,published
-OTIF (On Time In Full),准时足量交付率,warehousing,published
-Fill Rate,订单满足率,warehousing,published
-Inventory Accuracy,库存准确率,warehousing,published
-Inventory Turnover,库存周转率,warehousing,published
-Days of Inventory,库存周转天数,warehousing,published
-Stockout,缺货,warehousing,published
-Overstock,超储,warehousing,published
-Dead Stock,呆滞库存,warehousing,published
-Min-Max Inventory,最高最低库存法,warehousing,published
-Reorder Point,再订货点,warehousing,published
-Demand Planning,需求计划,warehousing,published
-S&OP,销售与运营计划,warehousing,published
-Demand Forecasting,需求预测,warehousing,published
-VMI (Vendor Managed Inventory),供应商管理库存,warehousing,published
-Consignment Stock,寄售库存,warehousing,published
-Lean Logistics,精益物流,warehousing,published
-Shrinkage,库存损耗,warehousing,published
-Kitting,组套作业,warehousing,published
-Value-added Services (VAS),仓储增值服务,warehousing,published
-Labeling,贴标服务,warehousing,published
-Repackaging,改包装服务,warehousing,published
-Same-day Delivery,当日达,warehousing,published
-Next-day Delivery,次日达,warehousing,published
-Time Slot Booking,配送时段预约,warehousing,published
-Peak Season,物流旺季,warehousing,published
-Milk Run,循环取货,warehousing,published
-Overseas Warehouse,海外仓,warehousing,published
-Returns Center,退货处理中心,warehousing,published
-Returns Management,退货管理,warehousing,published
-Quality Control (QC),出货质检,warehousing,published
-Cubing,货件体积测量,warehousing,published
-Container Stuffing,装柜,warehousing,published
-Container Destuffing,拆柜,warehousing,published
-Pallet Exchange,托盘互换,warehousing,published
-Slip Sheet,滑托板,warehousing,published
-Pallet Inverter,托盘翻转机,warehousing,published
-DG Classification,危险品分类,special-cargo,published
-Radioactive Material,放射性物质,special-cargo,published
-DG Surcharge,危险品附加费,special-cargo,published
-UN-approved Packaging,联合国认证包装,special-cargo,published
-Limited Quantity (LQ),限量危险品,special-cargo,published
-Segregation,危险品隔离,special-cargo,published
-Flash Point,闪点,special-cargo,published
-Proper Shipping Name,运输名称,special-cargo,published
-GDP (Good Distribution Practice),药品良好分销规范,special-cargo,published
-Dry Ice,干冰运输,special-cargo,published
-Temperature Data Logger,温度记录仪,special-cargo,published
-Reefer Settings,冷藏箱温度设定,special-cargo,published
-Humidity Control,湿度控制,special-cargo,published
-Controlled Atmosphere,气调储运,special-cargo,published
-Live Animals,活动物运输,special-cargo,published
-Pet Relocation,宠物托运,special-cargo,published
-Art Logistics,艺术品物流,special-cargo,published
-Vehicle Shipping,商品车运输,special-cargo,published
-Lowbed Trailer,低平板车运输,special-cargo,published
-Escort Vehicle,超限护送车,special-cargo,published
-Route Survey,超限运输路勘,special-cargo,published
-Wind Turbine Blade,风电叶片运输,special-cargo,published
-Transformer Transport,变压器运输,special-cargo,published
-Cryogenic Cargo,低温货物,special-cargo,published
-Gas Cylinder,气瓶运输,special-cargo,published
-Swap Tank,交换罐箱,special-cargo,published
-Insulated Container,保温集装箱,special-cargo,published
-Ventilated Container,通风集装箱,special-cargo,published
-Bulk Container,散货集装箱,special-cargo,published
-Half Height Container,半高集装箱,special-cargo,published
-Tank Cleaning,罐箱清洗,special-cargo,published
-Vaccine Transport,疫苗运输,special-cargo,published
-Temperature Excursion,温度偏移,special-cargo,published
-Cold Chain Packaging,冷链包装,special-cargo,published
-Phase Change Material,相变蓄冷材料,special-cargo,published
-Fragile Cargo,易碎品运输,special-cargo,published
-Lashing,货物绑扎,special-cargo,published
-Dunnage,垫料,special-cargo,published
-Cargo Securing,货物系固,special-cargo,published
-Firm Offer,实盘,trade-terms,published
-Non-firm Offer,虚盘,trade-terms,published
-Offer,发盘,trade-terms,published
-Counter-offer,还盘,trade-terms,published
-Acceptance,承诺接受,trade-terms,published
-Inquiry,询盘,trade-terms,published
-Quotation,报价,trade-terms,published
-Offer Validity,报价有效期,trade-terms,published
-Triangular Trade,三角贸易,trade-terms,published
-Middleman,中间商,trade-terms,published
-Trading Company,贸易公司,trade-terms,published
-OEM,代工生产,trade-terms,published
-ODM,原始设计制造,trade-terms,published
-OBM,自有品牌制造,trade-terms,published
-Private Label,贴牌生产,trade-terms,published
-Sourcing,采购寻源,trade-terms,published
-Procurement,采购,trade-terms,published
-Supplier,供应商,trade-terms,published
-Sub-supplier,二级供应商,trade-terms,published
-Settlement Currency,结算货币,trade-terms,published
-Exchange Rate,汇率,trade-terms,published
-Exchange Risk,汇率风险,trade-terms,published
-Hedging,套期保值,trade-terms,published
-Letter of Intent,意向书,trade-terms,published
-MOU,谅解备忘录,trade-terms,published
-Breach of Contract,违约,trade-terms,published
-Liquidated Damages,违约金,trade-terms,published
-Warranty Period,质保期,trade-terms,published
-Retention Money,质保金,trade-terms,published
-Down Payment,首付款,trade-terms,published
-Balance Payment,尾款,trade-terms,published
-Net 30,30天付款账期,trade-terms,published
-Credit Limit,信用额度,trade-terms,published
-Market Price,市场价,trade-terms,published
-Spot Price,现货价,trade-terms,published
-Spot Goods,现货,trade-terms,published
-Futures,期货,trade-terms,published
-Forward Contract,远期合约,trade-terms,published
-Long-term Agreement,长期协议,trade-terms,published
-Price Adjustment Clause,价格调整条款,trade-terms,published
-Hard Currency,硬通货,trade-terms,published
-Buyback Trade,回购贸易,trade-terms,published
-Governing Law,适用法律,trade-terms,published
-Inspection Clause,检验条款,trade-terms,published
-Packing Clause,包装条款,trade-terms,published
-Berth Allocation,泊位分配,transport,published
-Quay Wall,码头岸壁,transport,published
-Container Terminal,集装箱码头,transport,published
-Terminal Yard,码头堆场,transport,published
-Quay Crane,岸桥,transport,published
-Truck Appointment System,卡车预约系统,transport,published
-Reefer Plug,冷藏箱插座,transport,published
-Genset,发电机组,transport,published
-Container Wash,集装箱清洗,transport,published
-Container Repair,集装箱维修,transport,published
-Damage Survey,货损检验,transport,published
-On-hire Survey,起租验箱,transport,published
-Off-hire Survey,退租验箱,transport,published
-Container Leasing,集装箱租赁,transport,published
-Leasing Company,租箱公司,transport,published
-Overbooking,超售订舱,transport,published
-Priority Booking,优先订舱,transport,published
-Premium Freight,加急运费,transport,published
-Expedited Shipping,加急运输,transport,published
-Backhaul,回程运输,transport,published
-Headhaul,去程运输,transport,published
-Empty Repositioning,空箱调运,transport,published
-Repositioning Charge,空箱调运费,transport,published
-Bonded Transport,保税运输,transport,published
-In Transit,在途运输,transport,published
-Stowage,配载,transport,published
-Stowage Plan,配载图,transport,published
-Lashing Points,绑扎点,transport,published
-Twist Lock,扭锁,transport,published
-Cell Guide,导轨架,transport,published
-Ship Stability,船舶稳性,transport,published
-Deadweight Tonnage,载重吨,transport,published
-Gross Tonnage,总吨,transport,published
-Net Tonnage,净吨,transport,published
-FEU,40英尺标准箱,transport,published
-Standard Container,标准集装箱,transport,published
-High Cube Container,超高集装箱,transport,published
-45ft Container,45英尺集装箱,transport,published
-Pallet Wide Container,加宽托盘箱,transport,published
-Swap Body,交换箱体,transport,published
-Palletized Cargo,托盘化货物,transport,published
-Unitization,成组化运输,transport,published
-Material Handling,物料搬运,transport,published
-Forklift,叉车,transport,published
-Container Per Diem,集装箱按日计费,transport,published
-Intermodal Operator,多式联运经营人,transport,published
-Freight Village,物流园区,transport,published
-Dry Port,内陆港,transport,published
-Transshipment Hub,转运枢纽,transport,published
-Hub Port,枢纽港,transport,published
-Feeder Port,支线港,transport,published
-Load Center,航线挂靠中心,transport,published
-Port Call,挂靠港口,transport,published
-Rotation,挂靠顺序,transport,published
-Voyage Number,航次号,transport,published
-Vessel Name,船名,transport,published
-IMO Number,IMO编号,transport,published
-AIS,船舶自动识别系统,transport,published
-Vessel Tracking,船舶动态跟踪,transport,published
-War Risk Surcharge,战争险附加费,transport,published
-Piracy Risk,海盗风险,transport,published
-Bulk Carrier,散货船,transport,published
-Container Ship,集装箱船,transport,published
-VLCC,超大型油轮,transport,published
-ULCV,超大型集装箱船,transport,published
-Panamax,巴拿马型船,transport,published
-Post-Panamax,超巴拿马型船,transport,published
-Ice Class,冰级船舶,transport,published
-Shore Power,岸电,transport,published
-Decarbonization,航运脱碳,transport,published
-EEXI,现有船能效指数,transport,published
-CII,碳强度指标,transport,published
-EU ETS,欧盟碳排放交易体系,transport,published
-Green Corridor,绿色航运走廊,transport,published
-Slow Steaming,减速航行,transport,published
-Weather Routing,气象导航,transport,published
-Charter Market,租船市场,transport,published
-BDI,波罗的海干散货指数,transport,published
-Ship Registration,船舶登记,transport,published
-Maritime Arbitration,海事仲裁,transport,published
-Collision,碰撞事故,transport,published
-Grounding,搁浅事故,transport,published
-Jettison,海上抛货,transport,published
-Theft and Pilferage,偷盗短缺,transport,published
-GA Adjustment,共同海损理算,transport,published
-Average Adjuster,海损理算师,transport,published
-Marine Surveyor,海事检验师,transport,published
-Cargo Surveyor,货物检验师,transport,published
-AOG (Aircraft on Ground),航空器材紧急运输,transport,published
-Next Flight Out,下一航班出运,transport,published
-Hand Carry,手提急件,transport,published
-Fleet,车队,transport,published
-Owner-operator,个体司机,transport,published
-Route Optimization,路径优化,transport,published
-Consolidation Center,集货中心,transport,published
-Delivery Attempt,派送尝试,transport,published
-Address Correction,地址更正费,transport,published
-Accessorial Charge,附加服务费,transport,published
-Residential Surcharge,住宅派送附加费,transport,published
-Remote Area Surcharge,偏远地区附加费,transport,published
-Oversize Surcharge,超大件附加费,transport,published
-Additional Handling,额外操作费,transport,published
-Port Dues,港务费,transport,published
-Cargo Hold,货舱,transport,published
-Sweat Damage,舱内汗湿,transport,published
-Lift-on Lift-off,吊上吊下作业,transport,published
-P&I Club,保赔协会,transport,published
-Hull Insurance,船壳险,transport,published
-Liner Shipping,班轮运输,transport,published
-Tramp Shipping,不定期船运输,transport,published
-Tailgate Delivery,尾板派送,transport,published
-Liftgate,升降尾板车,transport,published
-Inside Delivery,入室派送,transport,published
-White Glove Service,白手套服务,transport,published
-Job Site Delivery,工地交付,transport,published
-Drone Delivery,无人机配送,transport,published
-Autonomous Trucking,自动驾驶卡车,transport,published
-EV Fleet,新能源车队,transport,published
-City Logistics,城市物流,transport,published
-Micro-hub,微型配送枢纽,transport,published
-Cargo Bike,货运自行车,transport,published
-Night Delivery,夜间配送,transport,published
-Off-peak Delivery,错峰配送,transport,published
-Parcel Locker,智能快递柜,transport,published
-Pickup Point,自提点,transport,published
-Middle Mile,中间公里运输,transport,published
-Line Haul,干线运输,transport,published
-Shuttle Service,往返接驳,transport,published
-Dedicated Contract,运力专包,transport,published
-Freight Marketplace,运力交易平台,transport,published
-Digital Freight,数字货运,transport,published
-Warehouse-to-Warehouse Clause,仓至仓条款,documents,published
-Insurance Broker,保险经纪人,documents,published
-Loss Adjuster,理赔公估师,documents,published
-Notice of Loss,出险通知,documents,published
-Abandonment,委付,documents,published
-Constructive Total Loss,推定全损,documents,published
-Actual Total Loss,实际全损,documents,published
-Partial Loss,部分损失,documents,published
-Sue and Labour Clause,施救条款,documents,published
-Himalaya Clause,喜马拉雅条款,documents,published
-Paramount Clause,首要条款,documents,published
-Jurisdiction Clause,管辖权条款,documents,published
-Arbitration Clause,仲裁条款,documents,published
-Excepted Perils,免责事由,documents,published
-Force Majeure,不可抗力,documents,published
-Beneficiary's Certificate,受益人证明,documents,published
-Shipping Company Certificate,船公司证明,documents,published
-Packing Specification,包装明细单,documents,published
-Origin Declaration,原产地声明,documents,published
-Approved Exporter,认证出口商,documents,published
-REX System,注册出口商制度,documents,published
-EUR.1 Movement Certificate,欧盟优惠原产地流转证书,documents,published
-FX Settlement,结汇,documents,published
-Negotiation,议付,documents,published
-Discounting,票据贴现,documents,published
-Forfaiting,福费廷,documents,published
-Factoring,保理,documents,published
-Export Credit Insurance,出口信用保险,documents,published
-Sinosure,中国出口信用保险,documents,published
-Trade Finance,贸易融资,documents,published
-Packing Credit,打包贷款,documents,published
-Payment Terms,付款条件,documents,published
-Installment Payment,分期付款,documents,published
-Letter of Indemnity,提单保函,documents,published
-Indemnity,赔偿保证,documents,published
-Acceptance of Draft,汇票承兑,documents,published
-Blank Endorsement,空白背书,documents,published
-Restrictive Endorsement,记名背书,documents,published
-Holder in Due Course,正当持票人,documents,published
-Presentation,交单,documents,published
-Document Examination,审单,documents,published
-Waiver of Discrepancy,不符点放弃,documents,published
-Refusal Notice,拒付通知,documents,published
-Swift MT700,SWIFT信用证电文,documents,published
-Amicable Settlement,友好和解,documents,published
-Force Majeure Certificate,不可抗力证明,documents,published
-CCPIT Certification,贸促会认证,documents,published
-Chamber of Commerce,商会,documents,published
-Notarization,公证,documents,published
-Business License,营业执照,documents,published
-E-CO,电子原产地证,documents,published
-Digital Trade Document,数字贸易单证,documents,published
-EDI,电子数据交换,documents,published
-UN/EDIFACT,联合国EDI标准,documents,published
-Track and Trace,货物轨迹追踪,documents,published
-Milestone Notification,物流节点通知,documents,published
-Exception Notification,异常事件通知,documents,published
-Freight Invoice,运费发票,documents,published
-Freight Audit,运费审计,documents,published
-Distribution Agreement,经销协议,documents,published
-Supply Agreement,供货协议,documents,published
-Framework Agreement,框架协议,documents,published
-NDA,保密协议,documents,published
-Warranty Certificate,质保书,documents,published
-Customs Power of Attorney,报关委托书,documents,published
-Booking Form,订舱委托书,documents,published
-Short Shipment,短装,documents,published
-Claim Letter,索赔函,documents,published
-Settlement Agreement,和解协议,documents,published
-Third-party Inspection,第三方检验机构,documents,published
-CAD (Cash against Documents),凭单付款,documents,published
-Bank Draft,银行汇票,documents,published
-Promissory Note,本票,documents,published
-Check,支票,documents,published
-Wire Confirmation,汇款水单,documents,published
-Payment Voucher,付款凭证,documents,published
-Commission Invoice,佣金发票,documents,published
-Sample Invoice,样品发票,documents,published
-Final Invoice,最终发票,documents,published
-Interim Invoice,期中发票,documents,published
-EEI (Electronic Export Information),美国电子出口信息申报,documents,published
-AES,美国出口申报系统,documents,published
-ITN,美国内部交易编号,documents,published
-Destination Control Statement,目的地管制声明,documents,published
-Importer Number,美国进口商编号,documents,published
-Insurance Declaration,保险申报单,documents,published
-Loss Payee,保险赔付受益人,documents,published
-Co-insurance,共同保险,documents,published
-Franchise,免赔率,documents,published
-P&I Certificate,保赔保险证书,documents,published
-Digital Signature,数字签名,documents,published
-Document Retention,单证保存,documents,published
-Remittance,汇款,documents,published
-Bank Charges,银行手续费,documents,published
-Confirmation Fee,保兑费,documents,published
-Discrepancy Fee,不符点费,documents,published
-Documentation Fee,单证费,documents,published
-Amendment Fee,改单费,documents,published
-Courier Fee,快递费,documents,published
-Tally Sheet,理货单,documents,published
-Loading List,装货清单,documents,published
-Gate Pass,出门证,documents,published
-Weighbridge Slip,地磅单,documents,published
-Comprehensive Bonded Zone,综合保税区,customs,published
-9610 Model,跨境电商9610模式,customs,published
-9710 Model,跨境电商9710模式,customs,published
-9810 Model,跨境电商9810模式,customs,published
-1210 Model,跨境电商1210模式,customs,published
-Positive List,跨境电商进口正面清单,customs,published
-Verification Write-off,加工贸易核销,customs,published
-Processing Manual,加工贸易手册,customs,published
-Electronic Manual,电子化手册,customs,published
-Bonded Processing,保税加工,customs,published
-Outsourced Processing,外发加工,customs,published
-Bonded Goods Domestic Sales,保税货物内销,customs,published
-Supplementary Duty,补缴税款,customs,published
-Margin Account,保证金台账,customs,published
-Animal and Plant Quarantine,动植物检疫,customs,published
-Food Import Registration,进口食品收货人备案,customs,published
-Cosmetics Filing,进口化妆品备案,customs,published
-Medical Device Registration,医疗器械注册,customs,published
-Drug Import Permit,药品进口许可,customs,published
-Energy Label,能效标识,customs,published
-SRRC Type Approval,无线电型号核准,customs,published
-Tax Invoice,增值税专用发票,customs,published
-Export Rebate Rate,出口退税率,customs,published
-General Trade,一般贸易,customs,published
-Border Trade,边境贸易,customs,published
-Market Procurement Trade,市场采购贸易,customs,published
-Offshore Trade,离岸贸易,customs,published
-Section 301,美国301条款,customs,published
-Section 232,美国232条款,customs,published
-Administrative Review,行政复审,customs,published
-Scope Ruling,反倾销范围裁定,customs,published
-Entry (US),美国进口申报,customs,published
-CPSC,美国消费品安全委员会,customs,published
-Lacey Act,美国野生动植物保护法,customs,published
-FDA Prior Notice,FDA预先申报,customs,published
-USMCA,美墨加协定,customs,published
-Union Customs Code,欧盟海关法典,customs,published
-VAT Registration,欧盟VAT税号注册,customs,published
-IOSS,欧盟进口一站式申报,customs,published
-VAT Deferral,欧盟关税递延,customs,published
-Fiscal Representation,欧盟财税代表,customs,published
-EU Deforestation Regulation,欧盟零毁林法案,customs,published
-CBAM,欧盟碳边境调节机制,customs,published
-REACH Regulation,欧盟REACH化学品法规,customs,published
-RoHS,欧盟RoHS指令,customs,published
-WEEE,欧盟废弃电子设备指令,customs,published
-GPSR,欧盟通用产品安全法规,customs,published
-EU Responsible Person,欧盟授权代表,customs,published
-UKCA,英国合格认证标志,customs,published
-HMRC,英国税务海关总署,customs,published
-Customs Unit Filing,报关单位备案,customs,published
-Enterprise Credit Rating,企业信用等级,customs,published
-Two-step Declaration,两步申报,customs,published
-Examination Ratio,查验率,customs,published
-Double Random,双随机查验,customs,published
-Intelligent Image Review,智能审图,customs,published
-Risk Targeting,风险布控,customs,published
-Entity List,美国实体清单,customs,published
-UVL,未经验证清单,customs,published
-Military End User,军事最终用户,customs,published
-BIS,美国工业与安全局,customs,published
-OFAC,美国海外资产控制办公室,customs,published
-ECCN,出口管制分类编号,customs,published
-License Exception,出口许可例外,customs,published
-Re-export Control,再出口管制,customs,published
-Secondary Sanctions,二级制裁,customs,published
-Red Flags,合规预警信号,customs,published
-Trade Compliance,贸易合规,customs,published
-Compliance Program,合规管理体系,customs,published
-T1 Document,欧盟T1转关单,customs,published
-NCTS,欧盟转关计算机系统,customs,published
-Release for Free Circulation,自由流通放行,customs,published
-End-use Authorization,特定用途放行,customs,published
-Returned Goods Relief,退运货物减免,customs,published
-Inward Processing,欧盟进料加工,customs,published
-Outward Processing,欧盟出料加工,customs,published
-Authorised Consignee,欧盟授权收货人,customs,published
-Authorised Consignor,欧盟授权发货人,customs,published
-Cabotage,沿海运输权,customs,published
-Supplier's Declaration,供应商原产地声明,customs,published
-Long-term Supplier Declaration,长期供应商声明,customs,published
-Origin Self-certification,原产地自我声明,customs,published
-Fake Origin,伪造原产地,customs,published
-Transshipment Fraud,转口贸易欺诈,customs,published
-Gray Clearance,灰关清关,customs,published
-Baggage Declaration,行李物品申报,customs,published
-WTO Valuation Agreement,WTO海关估价协定,customs,published
-Royalty Assessment,特许权使用费估价,customs,published
-Assists,无偿协助货物估价,customs,published
-Post-entry Amendment,进口后申报修改,customs,published
-Formal Entry,正式报关,customs,published
-Informal Entry,非正式报关,customs,published
-Low Value Shipment,低值货物申报,customs,published
-Consolidated Clearance,合并清关,customs,published
-Blast Freezing,速冻处理,warehousing,published
-Chilled Zone,冷藏温区,warehousing,published
-Frozen Zone,冷冻温区,warehousing,published
-Ambient Zone,常温区,warehousing,published
-Temperature Mapping,温度分布验证,warehousing,published
-Clear Height,仓库净高,warehousing,published
-Floor Loading,地面承重,warehousing,published
-Fire Sprinkler,消防喷淋系统,warehousing,published
-MHE,物料搬运设备,warehousing,published
-VNA (Very Narrow Aisle),窄巷道货架,warehousing,published
-Shuttle System,穿梭车系统,warehousing,published
-Goods-to-Person,货到人拣选,warehousing,published
-Person-to-Goods,人到货拣选,warehousing,published
-Drone Inventory Counting,无人机盘点,warehousing,published
-ERP,企业资源计划系统,warehousing,published
-IoT,物联网,warehousing,published
-Sensor Monitoring,仓库环境监控,warehousing,published
-Digital Twin,数字孪生仓库,warehousing,published
-Predictive Maintenance,预测性维护,warehousing,published
-Labor Management System,劳动力管理系统,warehousing,published
-Labor Productivity,仓库人效,warehousing,published
-Orders per Hour,每小时订单处理量,warehousing,published
-Cost per Order,单均履约成本,warehousing,published
-Handling Cost,库内操作成本,warehousing,published
-Freight Cost,运输成本,warehousing,published
-Logistics Cost,物流总成本,warehousing,published
-Landed Cost,到岸总成本,warehousing,published
-Seasonality,季节性波动,warehousing,published
-Pick Path,拣货路径,warehousing,published
-Golden Zone,黄金拣货区,warehousing,published
-Forward Pick,前置拣货区,warehousing,published
-Reserve Storage,储备存储区,warehousing,published
-Staging Area,发货暂存区,warehousing,published
-QA Hold,质检扣留区,warehousing,published
-Refurbishment,翻新处理,warehousing,published
-Disposal,销毁处理,warehousing,published
-Recycling,回收处理,warehousing,published
-Carton,纸箱,warehousing,published
-Master Carton,外包装箱,warehousing,published
-Inner Box,内盒,warehousing,published
-Bubble Wrap,气泡膜,warehousing,published
-Foam Fill,泡沫填充物,warehousing,published
-Void Fill,空隙填充,warehousing,published
-Stretch Film,缠绕膜,warehousing,published
-Strapping,打包带,warehousing,published
-Edge Protector,护角,warehousing,published
-Desiccant,干燥剂,warehousing,published
-Vacuum Packing,真空包装,warehousing,published
-Crating,木箱包装,warehousing,published
-Sustainable Packaging,环保包装,warehousing,published
-Right-sizing,包装适型优化,warehousing,published
-Dock-to-Stock,入库上架时长,warehousing,published
-Lead Time,交货周期,warehousing,published
-Order Lead Time,订单履约周期,warehousing,published
-Transit Time,运输时效,warehousing,published
-Cycle Time,作业周转时间,warehousing,published
-On-time Rate,准时交付率,warehousing,published
-Damage Rate,货损率,warehousing,published
-Perfect Order Rate,订单完美履行率,warehousing,published
-Service Level,服务水平,warehousing,published
-SLA,服务水平协议,warehousing,published
-Multi-order Picking,复合订单拣货,warehousing,published
-Put-wall,播种墙,warehousing,published
-Packing Station,打包工位,warehousing,published
-Shipping Label,物流面单,warehousing,published
-Thermal Printing,热敏打印,warehousing,published
-Picking Cart,拣货车,warehousing,published
-Ripening Room,果蔬催熟间,warehousing,published
-Rack Label,货架标签,warehousing,published
-Stock Transfer,库存调拨,warehousing,published
-Full Pallet,整托作业,warehousing,published
-Case Pick,拆箱拣货,warehousing,published
-Each Pick,单件拣货,warehousing,published
-Layer Picking,整层拣货,warehousing,published
-Pallet Flow Rack,重力式托盘货架,warehousing,published
-Carton Flow Rack,箱式流利货架,warehousing,published
-Cantilever Racking,悬臂式货架,warehousing,published
-Mezzanine,阁楼式货架,warehousing,published
-Dock Seal,装卸门封,warehousing,published
-Dedicated Warehouse,专属仓库,warehousing,published
-Multi-client Warehouse,多客户共仓,warehousing,published
-Flex Space,弹性仓容,warehousing,published
-Overflow Warehouse,溢出备用仓,warehousing,published
-Temp Labor,旺季临时用工,warehousing,published
-Load Building,装车配载,warehousing,published
-Route Sequence,配送顺序编排,warehousing,published
-Cartonization,智能装箱算法,warehousing,published
-Cube Utilization,装载空间利用率,warehousing,published
-Trailer Load,拖车装载,warehousing,published
-Multi-stop Route,多点配送线路,warehousing,published
-DG Segregation Table,危险品隔离表,special-cargo,published
-Class 1 Explosives,第1类爆炸品,special-cargo,published
-Class 2 Gases,第2类气体,special-cargo,published
-Class 3 Flammable Liquids,第3类易燃液体,special-cargo,published
-Class 4 Flammable Solids,第4类易燃固体,special-cargo,published
-Class 5 Oxidizers,第5类氧化性物质,special-cargo,published
-Class 6 Toxic Substances,第6类毒性物质,special-cargo,published
-Class 8 Corrosives,第8类腐蚀性物质,special-cargo,published
-Class 9 Miscellaneous,第9类杂项危险品,special-cargo,published
-Excepted Quantities,豁免数量危险品,special-cargo,published
-DG Training,危险品从业培训,special-cargo,published
-Cargo Aircraft Only,仅限货机运输,special-cargo,published
-Passenger Aircraft Limit,客机限量危险品,special-cargo,published
-Authority Approval,主管当局批准,special-cargo,published
-UN Performance Test,联合国包装性能测试,special-cargo,published
-Drop Test,包装跌落测试,special-cargo,published
-Overpack,危险品外包装,special-cargo,published
-Salvage Packaging,救助包装,special-cargo,published
-Reconditioned Packaging,修复包装,special-cargo,published
-Cold Room,冷藏间,special-cargo,published
-Cold Treatment,冷处理除虫,special-cargo,published
-Pre-cooling,采后预冷,special-cargo,published
-Live Seafood,活鲜水产品运输,special-cargo,published
-Cut Flowers,鲜切花运输,special-cargo,published
-Clinical Trial Logistics,临床试验物流,special-cargo,published
-Reefer Breakdown,冷藏箱故障,special-cargo,published
-Gel Pack,蓄冷剂冰袋,special-cargo,published
-Insulated Liner,隔热内衬袋,special-cargo,published
-Thermal Blanket,保温毯,special-cargo,published
-GHS,全球化学品统一分类标准,special-cargo,published
-EMS Guide,船载危险品应急措施表,special-cargo,published
-MFAG,危险品医疗急救指南,special-cargo,published
-MARPOL,国际防止船舶污染公约,special-cargo,published
-Permit to Transport,大件运输许可,special-cargo,published
-Night Move,大件夜间运输,special-cargo,published
-Counter Sample,回样,trade-terms,published
-Original Sample,原样,trade-terms,published
-Sealed Sample,封样,trade-terms,published
-Duplicate Sample,复样,trade-terms,published
-Sale by Sample,凭样成交,trade-terms,published
-Sale by Description,凭说明成交,trade-terms,published
-Sale by Grade,凭等级成交,trade-terms,published
-Sale by Specification,凭规格成交,trade-terms,published
-Indicative Mark,指示性包装标志,trade-terms,published
-Warning Mark,警告性包装标志,trade-terms,published
-Rebate,佣金回扣,trade-terms,published
-Seasonal Pricing,季节性定价,trade-terms,published
-Volume Discount,数量折扣,trade-terms,published
-Price List,价目表,trade-terms,published
-Floor Price,最低限价,trade-terms,published
-Ceiling Price,最高限价,trade-terms,published
-Reference Price,参考价格,trade-terms,published
-Base Price,基准价格,trade-terms,published
-Formula Price,公式定价,trade-terms,published
-Fixed Price,固定价格,trade-terms,published
-Floating Price,浮动价格,trade-terms,published
-Sailing Schedule,船期表,trade-terms,published
-Sailing Date,开航日期,trade-terms,published
-Bunker Clause,租船燃油条款,transport,published
-NYPE Form,纽约土产交易所定期租约格式,transport,published
-GENCON,标准航次租船合同,transport,published
-World Scale,世界油轮运价表,transport,published
-Ship Agent,船舶代理,transport,published
-Flag of Convenience,方便旗,transport,published
-Wharfage,码头费,transport,published
-Draft Survey,水尺计重,transport,published
-Ullage,液货舱空距测量,transport,published
-Cargo Readiness,货物备妥,transport,published
-Mooring,系泊作业,transport,published
-Drydocking,船舶进坞检修,transport,published
-Freight Futures,运费期货,transport,published
-Chassis Split,底盘车分离费,transport,published
-Pre-pull,预提箱作业,transport,published
-Factory Relocation,工厂搬迁物流,transport,published
-Exhibition Logistics,展会物流,transport,published
-Land Bridge,大陆桥运输,transport,published
-Mini-land Bridge,小陆桥运输,transport,published
-Piggyback,驮背运输,transport,published
-Double-stack Train,双层集装箱列车,transport,published
-Platform Container,平台集装箱,transport,published
-Garment on Hanger,挂衣箱运输,transport,published
-Overland Common Point,内陆公共点运价,transport,published
-Pre-alert,到货预告单,documents,published
-Outturn Report,卸货溢短残损报告,documents,published
-Statement of Facts,装卸时间事实记录,documents,published
-Charter Party B/L,租约提单,documents,published
-Proof of Export,出口证明文件,documents,published
-Trust Receipt,信托收据,documents,published
-Import Loan,进口押汇,documents,published
-Export Bill Purchase,出口押汇,documents,published
-Clean Collection,光票托收,documents,published
-Documentary Collection,跟单托收,documents,published
-House Manifest,分舱单,documents,published
-CN22/CN23 Declaration,邮政报关单,documents,published
-Release,海关放行,customs,published
-Port of Entry,入境口岸,customs,published
-Land Port,陆路口岸,customs,published
-Free Port,自由港,customs,published
-Origin Verification,原产地核查,customs,published
-Transfer Pricing,转让定价海关审查,customs,published
-Related Party Transaction,关联交易估价,customs,published
-Interest on Duty,关税滞纳金,customs,published
-Provisional Duty,临时关税,customs,published
-Mutual Recognition Agreement,国际互认协定,customs,published
-Import Ban,进口禁令,customs,published
-Export Ban,出口禁令,customs,published
-Quantitative Restriction,数量限制措施,customs,published
-Automatic Licensing,自动进口许可,customs,published
-Conformity Assessment,合格评定程序,customs,published
-Biosecurity,生物安全检疫,customs,published
-Traceability,食品可追溯性,customs,published
-Country of Dispatch,发货国,customs,published
-Third Country,第三国,customs,published
-Express Consignment Operator,快件运营人资质,customs,published
-Postal Clearance,邮政渠道清关,customs,published
-Pre-clearance,预清关,customs,published
-Carrier Selection,承运商选择,warehousing,published
-Rate Shopping,运价比价,warehousing,published
-Carrier Scorecard,承运商绩效考核,warehousing,published
-Inbound Scheduling,入库预约排程,warehousing,published
-Sequencing,顺序供料配送,warehousing,published
-Returns Grading,退货分级处理,warehousing,published
-Restock,退货重新上架,warehousing,published
-Take-back Obligation,生产者回收责任,warehousing,published
-Circular Logistics,循环物流,warehousing,published
-Green Warehouse,绿色仓库,warehousing,published
-Solar Roof,仓库屋顶光伏,warehousing,published
-Carbon Accounting,物流碳核算,warehousing,published
-Emissions Reporting,碳排放报告,warehousing,published
-GMP Warehouse,GMP药品仓库,warehousing,published
-Zoning,库区分区管理,warehousing,published
-Variance Report,库存差异报告,warehousing,published
-Loss Prevention,仓库防损,warehousing,published
-CCTV,仓库视频监控,warehousing,published
-Access Control,仓库门禁管理,warehousing,published
-State of Charge,锂电池荷电状态限制,special-cargo,published
-Cold Box,冷链保温箱,special-cargo,published
-Passive Packaging,被动保温包装,special-cargo,published
-Active Reefer,主动制冷集装箱,special-cargo,published
-Ethylene Scavenger,乙烯清除剂,special-cargo,published
-Hatching Eggs,种蛋运输,special-cargo,published
-Research Samples,科研样本运输,special-cargo,published
-Infectious Substances,感染性物质运输,special-cargo,published
-GMO Transport,转基因生物运输,special-cargo,published
-Precursor Chemicals,易制毒化学品运输,special-cargo,published
-Fireworks,烟花爆竹运输,special-cargo,published
-Airbag Transport,汽车安全气囊运输,special-cargo,published
-Ice Cream Transport,冰淇淋冷链运输,special-cargo,published
-Chocolate Transport,巧克力温控运输,special-cargo,published
-Wine Transport,葡萄酒运输,special-cargo,published
-Odor Contamination,货物串味污染,special-cargo,published
-Shortage,货物短缺,special-cargo,published
-Breakage,货物破损,special-cargo,published
-Contamination,货物污染,special-cargo,published
-Leakage,货物渗漏,special-cargo,published
-Return Merchandise Authorization,退货授权RMA,warehousing,published
-Customs Brokerage Fee,清关代理服务费,customs,published
+term_en,term_zh,category,subcategory,status
+Incoterms,国际贸易术语,trade-terms,,published
+FOB,离岸价,trade-terms,,published
+CIF,到岸价,trade-terms,,published
+EXW,工厂交货价,trade-terms,,published
+DDP,完税后交货,trade-terms,,published
+DAP,目的地交货,trade-terms,,published
+FCA,货交承运人,trade-terms,,published
+CFR,成本加运费,trade-terms,,published
+Freight Forwarding,货运代理,transport,,published
+Bill of Lading,海运提单,transport,,published
+Sea Waybill,海运单,transport,,published
+Air Waybill,空运提单,transport,,published
+TEU,标准箱,transport,,published
+FCL,整箱货,transport,,published
+LCL,拼箱货,transport,,published
+Multimodal Transport,多式联运,transport,,published
+Demurrage,滞期费,transport,,published
+Detention,滞箱费,transport,,published
+NVOCC,无船承运人,transport,,published
+Chartering,租船运输,transport,,published
+Commercial Invoice,商业发票,documents,,published
+Packing List,装箱单,documents,,published
+Certificate of Origin,原产地证书,documents,,published
+Letter of Credit,信用证,documents,,published
+Shipping Mark,唛头,documents,,published
+Insurance Certificate,保险凭证,documents,,published
+Customs Clearance,清关,customs,,published
+HS Code,海关编码,customs,,published
+Tariff,关税,customs,,published
+Customs Declaration,报关,customs,,published
+Duty Drawback,出口退税,customs,,published
+Bonded Warehouse,保税仓库,customs,,published
+AEO,经认证的经营者,customs,,published
+Warehousing,仓储,warehousing,,published
+3PL,第三方物流,warehousing,,published
+4PL,第四方物流,warehousing,,published
+Cross-docking,越库作业,warehousing,,published
+Last-mile Delivery,最后一公里配送,warehousing,,published
+Fulfillment Center,履约中心,warehousing,,published
+Inventory Management,库存管理,warehousing,,published
+Dangerous Goods,危险品,special-cargo,,published
+Cold Chain,冷链运输,special-cargo,,published
+Reefer Container,冷藏集装箱,special-cargo,,published
+Project Cargo,项目物流,special-cargo,,published
+Out of Gauge Cargo,超限货物,special-cargo,,published
+CIP,运费保险费付至,trade-terms,,published
+CPT,运费付至,trade-terms,,published
+DPU,卸货地交货,trade-terms,,published
+FAS,船边交货,trade-terms,,published
+DDU,未完税交货,trade-terms,,published
+Consignee,收货人,trade-terms,,published
+Shipper,发货人,trade-terms,,published
+Notify Party,被通知人,trade-terms,,published
+Freight Prepaid,运费预付,trade-terms,,published
+Freight Collect,运费到付,trade-terms,,published
+Container Yard,集装箱堆场,transport,,published
+Container Freight Station,集装箱货运站,transport,,published
+VGM,集装箱称重验证,transport,,published
+Cut-off Time,截关时间,transport,,published
+ETA and ETD,预计到港与离港时间,transport,,published
+Transshipment,转运,transport,,published
+THC,码头操作费,transport,,published
+BAF,燃油附加费,transport,,published
+Ocean Freight,海运费,transport,,published
+Dead Freight,亏舱费,transport,,published
+Laycan,受载期,transport,,published
+Stevedoring,装卸作业,transport,,published
+Feeder Service,支线运输,transport,,published
+RORO,滚装运输,transport,,published
+Breakbulk,件杂货运输,transport,,published
+Dimensional Weight,体积重量,transport,,published
+Chargeable Weight,计费重量,transport,,published
+GRI,综合费率上调,transport,,published
+Shipping Order,托运单,documents,,published
+House Bill of Lading,House 提单,documents,,published
+Master Bill of Lading,Master 提单,documents,,published
+Delivery Order,提货单,documents,,published
+Arrival Notice,到货通知,documents,,published
+Cargo Manifest,舱单,documents,,published
+Bill of Exchange,汇票,documents,,published
+Export License,出口许可证,documents,,published
+Import License,进口许可证,documents,,published
+Inspection Certificate,检验证书,documents,,published
+Fumigation Certificate,熏蒸证书,documents,,published
+ATA Carnet,ATA 单证册,documents,,published
+Phytosanitary Certificate,植物检疫证书,documents,,published
+ISF 10+2,进口安全申报,documents,,published
+Anti-dumping Duty,反倾销税,customs,,published
+Countervailing Duty,反补贴税,customs,,published
+FTA,自由贸易协定,customs,,published
+GSP,普惠制,customs,,published
+EORI,欧盟经营者注册识别号,customs,,published
+Temporary Admission,暂准进口,customs,,published
+Customs Valuation,海关估价,customs,,published
+Transit Procedure,转关运输,customs,,published
+Advance Ruling,预裁定,customs,,published
+Free Trade Zone,自由贸易区,customs,,published
+Excise Duty,消费税,customs,,published
+Customs Examination,海关查验,customs,,published
+De Minimis,小额免税,customs,,published
+WMS,仓库管理系统,warehousing,,published
+Distribution Center,配送中心,warehousing,,published
+SKU,最小库存单位,warehousing,,published
+ASN,预先发货通知,warehousing,,published
+Pick and Pack,拣货包装,warehousing,,published
+Cycle Count,循环盘点,warehousing,,published
+Safety Stock,安全库存,warehousing,,published
+FIFO,先进先出,warehousing,,published
+FEFO,先到期先出,warehousing,,published
+EOQ,经济订货批量,warehousing,,published
+Just-in-Time,准时制,warehousing,,published
+Reverse Logistics,逆向物流,warehousing,,published
+Pallet,托盘,warehousing,,published
+UN Number,联合国危险品编号,special-cargo,,published
+MSDS,化学品安全技术说明书,special-cargo,,published
+Packing Group,危险品包装类别,special-cargo,,published
+IATA DGR,国际航协危险品规则,special-cargo,,published
+IMDG Code,国际海运危险货物规则,special-cargo,,published
+Lithium Battery Shipping,锂电池运输,special-cargo,,published
+ADR,欧洲危险品公路运输协定,special-cargo,,published
+Perishable Cargo,易腐货物,special-cargo,,published
+Pharmaceutical Logistics,医药物流,special-cargo,,published
+Livestock Transport,活体动物运输,special-cargo,,published
+Valuable Cargo,贵重货物,special-cargo,,published
+ISO Tank,罐式集装箱,special-cargo,,published
+Flat Rack Container,框架集装箱,special-cargo,,published
+Open Top Container,开顶集装箱,special-cargo,,published
+Heavy Lift Cargo,超重货物,special-cargo,,published
+FOB Stowed,离岸价含装舱费,trade-terms,,published
+FOB Trimmed,离岸价含平舱费,trade-terms,,published
+FOB Under Tackle,船钩下交货价,trade-terms,,published
+Ex Ship,目的港船上交货,trade-terms,,published
+Ex Quay,目的港码头交货,trade-terms,,published
+Ex Bonded Warehouse,保税仓库交货价,trade-terms,,published
+DAF (Delivered at Frontier),边境交货（旧术语）,trade-terms,,published
+DES (Delivered Ex Ship),目的港船上交货（旧术语）,trade-terms,,published
+DEQ (Delivered Ex Quay),目的港码头交货（旧术语）,trade-terms,,published
+Net Weight,净重,trade-terms,,published
+Gross Weight,毛重,trade-terms,,published
+Tare Weight,皮重,trade-terms,,published
+Gross for Net,以毛作净,trade-terms,,published
+Conditioned Weight,公量,trade-terms,,published
+More or Less Clause,溢短装条款,trade-terms,,published
+MOQ (Minimum Order Quantity),最小起订量,trade-terms,,published
+Unit Price,单价,trade-terms,,published
+Partial Shipment,分批装运,trade-terms,,published
+Latest Shipment Date,最迟装运期,trade-terms,,published
+Shipment Period,装运期,trade-terms,,published
+Port of Loading,装货港,trade-terms,,published
+Port of Discharge,卸货港,trade-terms,,published
+Place of Delivery,交货地点,trade-terms,,published
+Final Destination,最终目的地,trade-terms,,published
+Base Port,基本港,trade-terms,,published
+Non-Base Port,非基本港,trade-terms,,published
+ICD (Inland Container Depot),内陆集装箱堆场,trade-terms,,published
+Inland Point,内陆点,trade-terms,,published
+Title Transfer,所有权转移,trade-terms,,published
+Risk Transfer,风险转移,trade-terms,,published
+Sales Contract,销售合同,trade-terms,,published
+Purchase Order,采购订单,trade-terms,,published
+Sales Confirmation,销售确认书,trade-terms,,published
+Proforma Invoice,形式发票,trade-terms,,published
+Counter Trade,对销贸易,trade-terms,,published
+Barter Trade,易货贸易,trade-terms,,published
+Entrepot Trade,转口贸易,trade-terms,,published
+Processing Trade,加工贸易,trade-terms,,published
+Compensation Trade,补偿贸易,trade-terms,,published
+Agency Agreement,代理协议,trade-terms,,published
+Exclusive Agency,独家代理,trade-terms,,published
+Distributor,经销商,trade-terms,,published
+Consignment,寄售,trade-terms,,published
+Invitation to Tender,招标,trade-terms,,published
+Bid,投标,trade-terms,,published
+Liner Terms,班轮条款,transport,,published
+Berth Terms,泊位条款,transport,,published
+FIO (Free In and Out),船方不负担装卸费,transport,,published
+FIOS,船方不负担装卸堆垛费,transport,,published
+FIOST,船方不负担装卸堆垛平舱费,transport,,published
+Laytime,装卸时间,transport,,published
+Laytime Statement,装卸时间计算表,transport,,published
+Despatch Money,速遣费,transport,,published
+NOR (Notice of Readiness),装卸准备就绪通知书,transport,,published
+Time Charter,定期租船,transport,,published
+Voyage Charter,航次租船,transport,,published
+Bareboat Charter,光船租赁,transport,,published
+Charter Party,租船合同,transport,,published
+Freight Ton,运费吨,transport,,published
+W/M (Weight or Measurement),重量或体积计费,transport,,published
+CAF (Currency Adjustment Factor),货币贬值附加费,transport,,published
+EBS (Emergency Bunker Surcharge),紧急燃油附加费,transport,,published
+PCS (Port Congestion Surcharge),港口拥挤附加费,transport,,published
+PSS (Peak Season Surcharge),旺季附加费,transport,,published
+LSS (Low Sulphur Surcharge),低硫附加费,transport,,published
+CIC (Container Imbalance Charge),集装箱不平衡附加费,transport,,published
+DDC (Destination Delivery Charge),目的港交货费,transport,,published
+ORC (Origin Receiving Charge),起运港收货费,transport,,published
+ISPS Surcharge,港口安全附加费,transport,,published
+All-in Rate,全包运价,transport,,published
+Spot Rate,即期运价,transport,,published
+Contract Rate,协议运价,transport,,published
+Service Contract,运价服务协议,transport,,published
+BCO (Beneficial Cargo Owner),直客货主,transport,,published
+Co-load,同业拼箱,transport,,published
+Buyer's Consolidation,买家指定货,transport,,published
+Empty Container Depot,空箱堆场,transport,,published
+EIR (Equipment Interchange Receipt),设备交接单,transport,,published
+Gate-in,进场,transport,,published
+Gate-out,提箱出场,transport,,published
+Free Time,免费堆存期,transport,,published
+Storage Charge,堆存费,transport,,published
+Container Deposit,押箱费,transport,,published
+Seal,铅封,transport,,published
+Seal Number,铅封号,transport,,published
+Tally,理货,transport,,published
+Gantry Crane,桥吊,transport,,published
+RTG (Rubber-Tyred Gantry Crane),轮胎式龙门吊,transport,,published
+RMG (Rail-Mounted Gantry Crane),轨道式龙门吊,transport,,published
+Straddle Carrier,跨运车,transport,,published
+Reach Stacker,正面吊,transport,,published
+TOS (Terminal Operating System),码头操作系统,transport,,published
+Berth Window,泊位窗口,transport,,published
+Anchorage,锚地,transport,,published
+Pilotage,引航费,transport,,published
+Towage,拖轮费,transport,,published
+Canal Transit Fee,运河通行费,transport,,published
+Suez Canal Transit,苏伊士运河通行,transport,,published
+Cape of Good Hope Route,好望角航线,transport,,published
+Bunkering,船舶加油,transport,,published
+VLSFO,超低硫燃油,transport,,published
+IMO 2020,国际海事组织限硫令,transport,,published
+Ballast Water,压载水,transport,,published
+Flag State,船旗国,transport,,published
+Classification Society,船级社,transport,,published
+PSC (Port State Control),港口国监督,transport,,published
+General Average,共同海损,transport,,published
+Particular Average,单独海损,transport,,published
+GA Deposit,共同海损保证金,transport,,published
+Salvage,海难救助,transport,,published
+Shipping Alliance,航运联盟,transport,,published
+Freight Index,运价指数,transport,,published
+SCFI,上海出口集装箱运价指数,transport,,published
+Transpacific Route,跨太平洋航线,transport,,published
+Asia-Europe Route,亚欧航线,transport,,published
+Inland Waterway Transport,内河运输,transport,,published
+Barge,驳船运输,transport,,published
+Rail Freight,铁路运输,transport,,published
+China-Europe Railway Express,中欧班列,transport,,published
+Block Train,整列直达列车,transport,,published
+Rail Waybill,铁路运单,transport,,published
+SMGS Convention,国际铁路货物联运协定,transport,,published
+Road Freight,公路运输,transport,,published
+FTL (Full Truckload),整车运输,transport,,published
+LTL (Less than Truckload),零担运输,transport,,published
+Cross-border Trucking,跨境卡车运输,transport,,published
+TIR (Transports Internationaux Routiers),国际公路运输系统,transport,,published
+CMR Convention,国际公路货物运输合同公约,transport,,published
+Air Freight,航空货运,transport,,published
+Fuel Surcharge (Air),空运燃油附加费,transport,,published
+Security Surcharge (Air),空运安全附加费,transport,,published
+ULD (Unit Load Device),航空集装器,transport,,published
+Charter Flight,包机运输,transport,,published
+Freighter,全货机,transport,,published
+Belly Cargo,腹舱货,transport,,published
+e-AWB,电子航空运单,transport,,published
+Sea-Air Transport,海空联运,transport,,published
+Express,国际快递,transport,,published
+Parcel,包裹,transport,,published
+COD (Cash on Delivery),货到付款,transport,,published
+E-commerce Logistics,电商物流,transport,,published
+Cross-border E-commerce,跨境电商,transport,,published
+Dropshipping,一件代发,transport,,published
+POD (Proof of Delivery),签收证明,transport,,published
+Delivery Exception,派送异常,transport,,published
+Pickup,揽收,transport,,published
+Drayage,港区短驳,transport,,published
+Cartage,短途搬运,transport,,published
+Transloading,换装转载,transport,,published
+Chassis,集装箱底盘车,transport,,published
+Overweight Container,超重集装箱,transport,,published
+Axle Load,轴重,transport,,published
+Weight Limit,公路限重,transport,,published
+Schedule Reliability,船期可靠性,transport,,published
+Blank Sailing,跳港停航,transport,,published
+Rolled Cargo,甩柜,transport,,published
+Port Congestion,港口拥堵,transport,,published
+Dry Bulk,干散货,transport,,published
+Liquid Bulk,液体散货,transport,,published
+Bulk Cargo,散装货物,transport,,published
+Tanker,油轮运输,transport,,published
+Flexitank,液袋运输,transport,,published
+Neo-bulk,准散货,transport,,published
+Containerization,集装箱化,transport,,published
+Slot Exchange,舱位互换,transport,,published
+Slot Charter,舱位租赁,transport,,published
+Space Booking,订舱,transport,,published
+Booking Confirmation,订舱确认,transport,,published
+Shipping Instruction,托运指示,transport,,published
+SI Cut-off,截托书时间,transport,,published
+Amendment,改单,transport,,published
+Telex Release,电报放货,transport,,published
+Original B/L,正本提单,transport,,published
+B/L Endorsement,提单背书,transport,,published
+Negotiable B/L,可转让提单,transport,,published
+Order B/L,指示提单,transport,,published
+Straight B/L,记名提单,transport,,published
+Clean B/L,清洁提单,transport,,published
+Claused B/L,不清洁提单,transport,,published
+Stale B/L,过期提单,transport,,published
+Switch B/L,换提单,transport,,published
+Onboard Notation,已装船批注,transport,,published
+Shipped on Board,已装船,transport,,published
+Received for Shipment,收妥待运,transport,,published
+Port-to-Port,港到港运输,transport,,published
+Door-to-Door,门到门运输,transport,,published
+CY-to-CY,堆场到堆场,transport,,published
+CFS-to-CFS,货运站到货运站,transport,,published
+Through B/L,联运提单,transport,,published
+Combined Transport,联合运输,transport,,published
+Carrier's Liability,承运人责任,transport,,published
+Package Limitation,单位赔偿限额,transport,,published
+Hague Rules,海牙规则,transport,,published
+Hague-Visby Rules,海牙-维斯比规则,transport,,published
+Hamburg Rules,汉堡规则,transport,,published
+Rotterdam Rules,鹿特丹规则,transport,,published
+Montreal Convention,蒙特利尔公约,transport,,published
+Warsaw Convention,华沙公约,transport,,published
+Off-hire,停租,transport,,published
+Ship Broker,船舶经纪人,transport,,published
+Debit Note,借记通知单,documents,,published
+Credit Note,贷记通知单,documents,,published
+Sight Draft,即期汇票,documents,,published
+Usance Draft,远期汇票,documents,,published
+Irrevocable L/C,不可撤销信用证,documents,,published
+Confirmed L/C,保兑信用证,documents,,published
+Standby L/C,备用信用证,documents,,published
+Revolving L/C,循环信用证,documents,,published
+Back-to-back L/C,背对背信用证,documents,,published
+Transferable L/C,可转让信用证,documents,,published
+Red Clause L/C,红条款信用证,documents,,published
+L/C Amendment,信用证修改,documents,,published
+Discrepancy,不符点,documents,,published
+UCP 600,跟单信用证统一惯例,documents,,published
+D/P (Documents against Payment),付款交单,documents,,published
+D/A (Documents against Acceptance),承兑交单,documents,,published
+Collection,托收,documents,,published
+Open Account (O/A),赊销,documents,,published
+T/T (Telegraphic Transfer),电汇,documents,,published
+Advance Payment,预付货款,documents,,published
+Bank Guarantee,银行保函,documents,,published
+Performance Bond,履约保函,documents,,published
+Bid Bond,投标保函,documents,,published
+Advance Payment Guarantee,预付款保函,documents,,published
+Open Cover,预约保险,documents,,published
+Marine Cargo Insurance,海运货物保险,documents,,published
+Institute Cargo Clauses,协会货物条款,documents,,published
+All Risks,一切险,documents,,published
+WPA (With Particular Average),水渍险,documents,,published
+FPA (Free from Particular Average),平安险,documents,,published
+General Additional Risks,一般附加险,documents,,published
+Special Additional Risks,特殊附加险,documents,,published
+War Risk,战争险,documents,,published
+Strikes Risk,罢工险,documents,,published
+Insurable Interest,可保利益,documents,,published
+Insured Value,保险价值,documents,,published
+Insurance Premium,保险费,documents,,published
+Insurance Claim,保险索赔,documents,,published
+Survey Report,检验报告,documents,,published
+Deductible,免赔额,documents,,published
+Subrogation,代位追偿,documents,,published
+Weight Memo,重量单,documents,,published
+Measurement List,尺码单,documents,,published
+Neutral Invoice,中性发票,documents,,published
+FCR (Forwarder's Certificate of Receipt),货运代理收据凭证,documents,,published
+Shipping Advice,装运通知,documents,,published
+Form A Certificate,普惠制原产地证,documents,,published
+Form E Certificate,中国-东盟原产地证,documents,,published
+RCEP Certificate,RCEP原产地证书,documents,,published
+Certificate of Analysis,分析证书,documents,,published
+Quality Certificate,质量证书,documents,,published
+ISPM 15,国际木质包装检疫标准,documents,,published
+Wood Packaging Declaration,木质包装声明,documents,,published
+DGD (Dangerous Goods Declaration),危险品申报单,documents,,published
+SLI (Shipper's Letter of Instruction),托运指示书,documents,,published
+End-user Certificate,最终用户证明,documents,,published
+Consular Invoice,领事发票,documents,,published
+Legalisation,领事认证,documents,,published
+E-invoice,电子发票,documents,,published
+E-B/L,电子提单,documents,,published
+Payment Receipt,收款收据,documents,,published
+Remittance Advice,汇款通知,documents,,published
+Statement of Account,对账单,documents,,published
+Packing Declaration,包装声明,documents,,published
+Insurance Policy,保险单,documents,,published
+Cover Note,承保通知书,documents,,published
+Dock Receipt,场站收据,documents,,published
+Mate's Receipt,大副收据,documents,,published
+Post Receipt,邮包收据,documents,,published
+Courier Receipt,快递收据,documents,,published
+Delivery Note,送货单,documents,,published
+GRN (Goods Received Note),收货单,documents,,published
+Export Declaration Form,出口报关单,documents,,published
+Import Declaration Form,进口报关单,documents,,published
+Customs Invoice,海关发票,documents,,published
+Certificate of Free Sale,自由销售证书,documents,,published
+Certificate of Conformity,符合性证书,documents,,published
+SGS Inspection Certificate,SGS检验证书,documents,,published
+Radiation Certificate,辐射检测证书,documents,,published
+Certificate of Weight,重量证书,documents,,published
+House Air Waybill,空运分运单,documents,,published
+Master Air Waybill,空运主运单,documents,,published
+DG Label,危险品标签,documents,,published
+Handling Label,操作标签,documents,,published
+Fragile Label,易碎标签,documents,,published
+This Side Up Label,向上标签,documents,,published
+Beneficiary,受益人,documents,,published
+Applicant,开证申请人,documents,,published
+Issuing Bank,开证行,documents,,published
+Advising Bank,通知行,documents,,published
+Negotiating Bank,议付行,documents,,published
+Confirming Bank,保兑行,documents,,published
+Reimbursing Bank,偿付行,documents,,published
+MFN (Most Favoured Nation),最惠国待遇,customs,,published
+Bound Rate,约束税率,customs,,published
+Applied Tariff Rate,实施税率,customs,,published
+Preferential Tariff,特惠关税,customs,,published
+Tariff Rate Quota,关税配额,customs,,published
+Safeguard Measures,保障措施,customs,,published
+Trade Remedy,贸易救济措施,customs,,published
+Import Duty,进口关税,customs,,published
+Export Duty,出口关税,customs,,published
+Rules of Origin,原产地规则,customs,,published
+Country of Origin,原产国,customs,,published
+Substantial Transformation,实质性改变标准,customs,,published
+Origin Marking,原产地标记,customs,,published
+Pre-shipment Inspection,装运前检验,customs,,published
+Commodity Inspection,商品检验,customs,,published
+CIQ,出入境检验检疫,customs,,published
+SPS Agreement,卫生与植物卫生措施协定,customs,,published
+TBT (Technical Barriers to Trade),技术性贸易壁垒,customs,,published
+CE Marking,CE认证,customs,,published
+CCC Certification,中国强制性产品认证,customs,,published
+FDA Registration,FDA注册,customs,,published
+Halal Certification,清真认证,customs,,published
+Sanitary Certificate,卫生证书,customs,,published
+Veterinary Certificate,兽医卫生证书,customs,,published
+Import Quota,进口配额,customs,,published
+Export Quota,出口配额,customs,,published
+Dual-use Goods,两用物项,customs,,published
+Export Control,出口管制,customs,,published
+Embargo,禁运,customs,,published
+Sanctions Screening,制裁名单筛查,customs,,published
+Denied Party Screening,禁运对象筛查,customs,,published
+Re-export,再出口,customs,,published
+Bonded Logistics Zone,保税物流中心,customs,,published
+Bonded Factory,保税工厂,customs,,published
+Customs Supervision Zone,海关监管区,customs,,published
+Customs Broker,报关行,customs,,published
+Declarant,报关申报人,customs,,published
+Importer of Record,进口记录商,customs,,published
+Exporter of Record,出口记录商,customs,,published
+Dutiable Value,完税价格,customs,,published
+Transaction Value Method,成交价格法,customs,,published
+Import VAT,进口环节增值税,customs,,published
+Tariff Heading,税则号列,customs,,published
+Classification Ruling,商品归类裁定,customs,,published
+BTI (Binding Tariff Information),约束性税率信息,customs,,published
+WCO,世界海关组织,customs,,published
+Kyoto Convention,京都公约,customs,,published
+Single Window,国际贸易单一窗口,customs,,published
+Paperless Clearance,无纸化通关,customs,,published
+Pre-arrival Declaration,抵达前申报,customs,,published
+Green Lane,绿色通道,customs,,published
+Red Lane,红色通道,customs,,published
+X-ray Scanning,机检查验,customs,,published
+Smuggling,走私,customs,,published
+Under-declaration,低报价格,customs,,published
+Misdeclaration,申报不实,customs,,published
+Customs Penalty,海关处罚,customs,,published
+Seizure,海关扣押,customs,,published
+Confiscation,没收,customs,,published
+Duty Evasion,逃税,customs,,published
+Voluntary Disclosure,主动披露,customs,,published
+Post-clearance Audit,海关稽查,customs,,published
+Customs Guarantee,海关保证金,customs,,published
+Duty Deferral,关税递延,customs,,published
+Duty Exemption,关税豁免,customs,,published
+Returned Goods,退运货物,customs,,published
+Re-import,复进口,customs,,published
+Second-hand Machinery Import,旧机电进口,customs,,published
+Customs Seal,海关关锁,customs,,published
+E-manifest,电子舱单,customs,,published
+AMS (Automated Manifest System),美国自动舱单系统,customs,,published
+ENS (Entry Summary Declaration),欧盟入境摘要申报,customs,,published
+ICS2,欧盟新版舱单系统,customs,,published
+CBP (Customs and Border Protection),美国海关及边境保卫局,customs,,published
+IPR Protection,知识产权海关保护,customs,,published
+Waste Import Restriction,固废进口限制,customs,,published
+Tariff Engineering,关税筹划,customs,,published
+First Sale Rule,首次销售规则,customs,,published
+Duty Repayment,关税退还,customs,,published
+Harmonized Tariff Schedule,协调关税表,customs,,published
+Export Subsidy,出口补贴,customs,,published
+Anti-circumvention,反规避,customs,,published
+Sunset Review,日落复审,customs,,published
+WTO,世界贸易组织,customs,,published
+Direct Shipment Rule,直运规则,customs,,published
+Public Warehouse,公共仓库,warehousing,,published
+Private Warehouse,自营仓库,warehousing,,published
+Cold Storage,冷库,warehousing,,published
+Temperature-controlled Warehouse,恒温仓库,warehousing,,published
+Hazmat Warehouse,危险品仓库,warehousing,,published
+Micro-fulfillment,微型履约中心,warehousing,,published
+Hub-and-Spoke,轴辐式网络,warehousing,,published
+Racking,货架,warehousing,,published
+ASRS,自动化立体仓库,warehousing,,published
+AGV,自动导引车,warehousing,,published
+AMR,自主移动机器人,warehousing,,published
+Conveyor System,输送系统,warehousing,,published
+Sortation,分拣作业,warehousing,,published
+Sorter,分拣机,warehousing,,published
+Pick List,拣货单,warehousing,,published
+Wave Picking,波次拣货,warehousing,,published
+Batch Picking,批量拣货,warehousing,,published
+Zone Picking,分区拣货,warehousing,,published
+Pick-to-Light,电子标签拣货,warehousing,,published
+Voice Picking,语音拣货,warehousing,,published
+Putaway,上架,warehousing,,published
+Replenishment,补货,warehousing,,published
+Slotting,储位优化,warehousing,,published
+Bin Location,库位,warehousing,,published
+Lot Number,批号,warehousing,,published
+Serial Number Tracking,序列号管理,warehousing,,published
+Expiry Date Management,效期管理,warehousing,,published
+Barcode,条形码,warehousing,,published
+QR Code,二维码,warehousing,,published
+RFID,射频识别,warehousing,,published
+Inbound,入库作业,warehousing,,published
+Outbound,出库作业,warehousing,,published
+Receiving,收货,warehousing,,published
+OMS (Order Management System),订单管理系统,warehousing,,published
+TMS (Transportation Management System),运输管理系统,warehousing,,published
+YMS (Yard Management System),场院管理系统,warehousing,,published
+Dock Door,装卸门,warehousing,,published
+Dock Leveler,登车桥,warehousing,,published
+Drop Trailer,甩挂运输,warehousing,,published
+OTIF (On Time In Full),准时足量交付率,warehousing,,published
+Fill Rate,订单满足率,warehousing,,published
+Inventory Accuracy,库存准确率,warehousing,,published
+Inventory Turnover,库存周转率,warehousing,,published
+Days of Inventory,库存周转天数,warehousing,,published
+Stockout,缺货,warehousing,,published
+Overstock,超储,warehousing,,published
+Dead Stock,呆滞库存,warehousing,,published
+Min-Max Inventory,最高最低库存法,warehousing,,published
+Reorder Point,再订货点,warehousing,,published
+Demand Planning,需求计划,warehousing,,published
+S&OP,销售与运营计划,warehousing,,published
+Demand Forecasting,需求预测,warehousing,,published
+VMI (Vendor Managed Inventory),供应商管理库存,warehousing,,published
+Consignment Stock,寄售库存,warehousing,,published
+Lean Logistics,精益物流,warehousing,,published
+Shrinkage,库存损耗,warehousing,,published
+Kitting,组套作业,warehousing,,published
+Value-added Services (VAS),仓储增值服务,warehousing,,published
+Labeling,贴标服务,warehousing,,published
+Repackaging,改包装服务,warehousing,,published
+Same-day Delivery,当日达,warehousing,,published
+Next-day Delivery,次日达,warehousing,,published
+Time Slot Booking,配送时段预约,warehousing,,published
+Peak Season,物流旺季,warehousing,,published
+Milk Run,循环取货,warehousing,,published
+Overseas Warehouse,海外仓,warehousing,,published
+Returns Center,退货处理中心,warehousing,,published
+Returns Management,退货管理,warehousing,,published
+Quality Control (QC),出货质检,warehousing,,published
+Cubing,货件体积测量,warehousing,,published
+Container Stuffing,装柜,warehousing,,published
+Container Destuffing,拆柜,warehousing,,published
+Pallet Exchange,托盘互换,warehousing,,published
+Slip Sheet,滑托板,warehousing,,published
+Pallet Inverter,托盘翻转机,warehousing,,published
+DG Classification,危险品分类,special-cargo,,published
+Radioactive Material,放射性物质,special-cargo,,published
+DG Surcharge,危险品附加费,special-cargo,,published
+UN-approved Packaging,联合国认证包装,special-cargo,,published
+Limited Quantity (LQ),限量危险品,special-cargo,,published
+Segregation,危险品隔离,special-cargo,,published
+Flash Point,闪点,special-cargo,,published
+Proper Shipping Name,运输名称,special-cargo,,published
+GDP (Good Distribution Practice),药品良好分销规范,special-cargo,,published
+Dry Ice,干冰运输,special-cargo,,published
+Temperature Data Logger,温度记录仪,special-cargo,,published
+Reefer Settings,冷藏箱温度设定,special-cargo,,published
+Humidity Control,湿度控制,special-cargo,,published
+Controlled Atmosphere,气调储运,special-cargo,,published
+Live Animals,活动物运输,special-cargo,,published
+Pet Relocation,宠物托运,special-cargo,,published
+Art Logistics,艺术品物流,special-cargo,,published
+Vehicle Shipping,商品车运输,special-cargo,,published
+Lowbed Trailer,低平板车运输,special-cargo,,published
+Escort Vehicle,超限护送车,special-cargo,,published
+Route Survey,超限运输路勘,special-cargo,,published
+Wind Turbine Blade,风电叶片运输,special-cargo,,published
+Transformer Transport,变压器运输,special-cargo,,published
+Cryogenic Cargo,低温货物,special-cargo,,published
+Gas Cylinder,气瓶运输,special-cargo,,published
+Swap Tank,交换罐箱,special-cargo,,published
+Insulated Container,保温集装箱,special-cargo,,published
+Ventilated Container,通风集装箱,special-cargo,,published
+Bulk Container,散货集装箱,special-cargo,,published
+Half Height Container,半高集装箱,special-cargo,,published
+Tank Cleaning,罐箱清洗,special-cargo,,published
+Vaccine Transport,疫苗运输,special-cargo,,published
+Temperature Excursion,温度偏移,special-cargo,,published
+Cold Chain Packaging,冷链包装,special-cargo,,published
+Phase Change Material,相变蓄冷材料,special-cargo,,published
+Fragile Cargo,易碎品运输,special-cargo,,published
+Lashing,货物绑扎,special-cargo,,published
+Dunnage,垫料,special-cargo,,published
+Cargo Securing,货物系固,special-cargo,,published
+Firm Offer,实盘,trade-terms,,published
+Non-firm Offer,虚盘,trade-terms,,published
+Offer,发盘,trade-terms,,published
+Counter-offer,还盘,trade-terms,,published
+Acceptance,承诺接受,trade-terms,,published
+Inquiry,询盘,trade-terms,,published
+Quotation,报价,trade-terms,,published
+Offer Validity,报价有效期,trade-terms,,published
+Triangular Trade,三角贸易,trade-terms,,published
+Middleman,中间商,trade-terms,,published
+Trading Company,贸易公司,trade-terms,,published
+OEM,代工生产,trade-terms,,published
+ODM,原始设计制造,trade-terms,,published
+OBM,自有品牌制造,trade-terms,,published
+Private Label,贴牌生产,trade-terms,,published
+Sourcing,采购寻源,trade-terms,,published
+Procurement,采购,trade-terms,,published
+Supplier,供应商,trade-terms,,published
+Sub-supplier,二级供应商,trade-terms,,published
+Settlement Currency,结算货币,trade-terms,,published
+Exchange Rate,汇率,trade-terms,,published
+Exchange Risk,汇率风险,trade-terms,,published
+Hedging,套期保值,trade-terms,,published
+Letter of Intent,意向书,trade-terms,,published
+MOU,谅解备忘录,trade-terms,,published
+Breach of Contract,违约,trade-terms,,published
+Liquidated Damages,违约金,trade-terms,,published
+Warranty Period,质保期,trade-terms,,published
+Retention Money,质保金,trade-terms,,published
+Down Payment,首付款,trade-terms,,published
+Balance Payment,尾款,trade-terms,,published
+Net 30,30天付款账期,trade-terms,,published
+Credit Limit,信用额度,trade-terms,,published
+Market Price,市场价,trade-terms,,published
+Spot Price,现货价,trade-terms,,published
+Spot Goods,现货,trade-terms,,published
+Futures,期货,trade-terms,,published
+Forward Contract,远期合约,trade-terms,,published
+Long-term Agreement,长期协议,trade-terms,,published
+Price Adjustment Clause,价格调整条款,trade-terms,,published
+Hard Currency,硬通货,trade-terms,,published
+Buyback Trade,回购贸易,trade-terms,,published
+Governing Law,适用法律,trade-terms,,published
+Inspection Clause,检验条款,trade-terms,,published
+Packing Clause,包装条款,trade-terms,,published
+Berth Allocation,泊位分配,transport,,published
+Quay Wall,码头岸壁,transport,,published
+Container Terminal,集装箱码头,transport,,published
+Terminal Yard,码头堆场,transport,,published
+Quay Crane,岸桥,transport,,published
+Truck Appointment System,卡车预约系统,transport,,published
+Reefer Plug,冷藏箱插座,transport,,published
+Genset,发电机组,transport,,published
+Container Wash,集装箱清洗,transport,,published
+Container Repair,集装箱维修,transport,,published
+Damage Survey,货损检验,transport,,published
+On-hire Survey,起租验箱,transport,,published
+Off-hire Survey,退租验箱,transport,,published
+Container Leasing,集装箱租赁,transport,,published
+Leasing Company,租箱公司,transport,,published
+Overbooking,超售订舱,transport,,published
+Priority Booking,优先订舱,transport,,published
+Premium Freight,加急运费,transport,,published
+Expedited Shipping,加急运输,transport,,published
+Backhaul,回程运输,transport,,published
+Headhaul,去程运输,transport,,published
+Empty Repositioning,空箱调运,transport,,published
+Repositioning Charge,空箱调运费,transport,,published
+Bonded Transport,保税运输,transport,,published
+In Transit,在途运输,transport,,published
+Stowage,配载,transport,,published
+Stowage Plan,配载图,transport,,published
+Lashing Points,绑扎点,transport,,published
+Twist Lock,扭锁,transport,,published
+Cell Guide,导轨架,transport,,published
+Ship Stability,船舶稳性,transport,,published
+Deadweight Tonnage,载重吨,transport,,published
+Gross Tonnage,总吨,transport,,published
+Net Tonnage,净吨,transport,,published
+FEU,40英尺标准箱,transport,,published
+Standard Container,标准集装箱,transport,,published
+High Cube Container,超高集装箱,transport,,published
+45ft Container,45英尺集装箱,transport,,published
+Pallet Wide Container,加宽托盘箱,transport,,published
+Swap Body,交换箱体,transport,,published
+Palletized Cargo,托盘化货物,transport,,published
+Unitization,成组化运输,transport,,published
+Material Handling,物料搬运,transport,,published
+Forklift,叉车,transport,,published
+Container Per Diem,集装箱按日计费,transport,,published
+Intermodal Operator,多式联运经营人,transport,,published
+Freight Village,物流园区,transport,,published
+Dry Port,内陆港,transport,,published
+Transshipment Hub,转运枢纽,transport,,published
+Hub Port,枢纽港,transport,,published
+Feeder Port,支线港,transport,,published
+Load Center,航线挂靠中心,transport,,published
+Port Call,挂靠港口,transport,,published
+Rotation,挂靠顺序,transport,,published
+Voyage Number,航次号,transport,,published
+Vessel Name,船名,transport,,published
+IMO Number,IMO编号,transport,,published
+AIS,船舶自动识别系统,transport,,published
+Vessel Tracking,船舶动态跟踪,transport,,published
+War Risk Surcharge,战争险附加费,transport,,published
+Piracy Risk,海盗风险,transport,,published
+Bulk Carrier,散货船,transport,,published
+Container Ship,集装箱船,transport,,published
+VLCC,超大型油轮,transport,,published
+ULCV,超大型集装箱船,transport,,published
+Panamax,巴拿马型船,transport,,published
+Post-Panamax,超巴拿马型船,transport,,published
+Ice Class,冰级船舶,transport,,published
+Shore Power,岸电,transport,,published
+Decarbonization,航运脱碳,transport,,published
+EEXI,现有船能效指数,transport,,published
+CII,碳强度指标,transport,,published
+EU ETS,欧盟碳排放交易体系,transport,,published
+Green Corridor,绿色航运走廊,transport,,published
+Slow Steaming,减速航行,transport,,published
+Weather Routing,气象导航,transport,,published
+Charter Market,租船市场,transport,,published
+BDI,波罗的海干散货指数,transport,,published
+Ship Registration,船舶登记,transport,,published
+Maritime Arbitration,海事仲裁,transport,,published
+Collision,碰撞事故,transport,,published
+Grounding,搁浅事故,transport,,published
+Jettison,海上抛货,transport,,published
+Theft and Pilferage,偷盗短缺,transport,,published
+GA Adjustment,共同海损理算,transport,,published
+Average Adjuster,海损理算师,transport,,published
+Marine Surveyor,海事检验师,transport,,published
+Cargo Surveyor,货物检验师,transport,,published
+AOG (Aircraft on Ground),航空器材紧急运输,transport,,published
+Next Flight Out,下一航班出运,transport,,published
+Hand Carry,手提急件,transport,,published
+Fleet,车队,transport,,published
+Owner-operator,个体司机,transport,,published
+Route Optimization,路径优化,transport,,published
+Consolidation Center,集货中心,transport,,published
+Delivery Attempt,派送尝试,transport,,published
+Address Correction,地址更正费,transport,,published
+Accessorial Charge,附加服务费,transport,,published
+Residential Surcharge,住宅派送附加费,transport,,published
+Remote Area Surcharge,偏远地区附加费,transport,,published
+Oversize Surcharge,超大件附加费,transport,,published
+Additional Handling,额外操作费,transport,,published
+Port Dues,港务费,transport,,published
+Cargo Hold,货舱,transport,,published
+Sweat Damage,舱内汗湿,transport,,published
+Lift-on Lift-off,吊上吊下作业,transport,,published
+P&I Club,保赔协会,transport,,published
+Hull Insurance,船壳险,transport,,published
+Liner Shipping,班轮运输,transport,,published
+Tramp Shipping,不定期船运输,transport,,published
+Tailgate Delivery,尾板派送,transport,,published
+Liftgate,升降尾板车,transport,,published
+Inside Delivery,入室派送,transport,,published
+White Glove Service,白手套服务,transport,,published
+Job Site Delivery,工地交付,transport,,published
+Drone Delivery,无人机配送,transport,,published
+Autonomous Trucking,自动驾驶卡车,transport,,published
+EV Fleet,新能源车队,transport,,published
+City Logistics,城市物流,transport,,published
+Micro-hub,微型配送枢纽,transport,,published
+Cargo Bike,货运自行车,transport,,published
+Night Delivery,夜间配送,transport,,published
+Off-peak Delivery,错峰配送,transport,,published
+Parcel Locker,智能快递柜,transport,,published
+Pickup Point,自提点,transport,,published
+Middle Mile,中间公里运输,transport,,published
+Line Haul,干线运输,transport,,published
+Shuttle Service,往返接驳,transport,,published
+Dedicated Contract,运力专包,transport,,published
+Freight Marketplace,运力交易平台,transport,,published
+Digital Freight,数字货运,transport,,published
+Warehouse-to-Warehouse Clause,仓至仓条款,documents,,published
+Insurance Broker,保险经纪人,documents,,published
+Loss Adjuster,理赔公估师,documents,,published
+Notice of Loss,出险通知,documents,,published
+Abandonment,委付,documents,,published
+Constructive Total Loss,推定全损,documents,,published
+Actual Total Loss,实际全损,documents,,published
+Partial Loss,部分损失,documents,,published
+Sue and Labour Clause,施救条款,documents,,published
+Himalaya Clause,喜马拉雅条款,documents,,published
+Paramount Clause,首要条款,documents,,published
+Jurisdiction Clause,管辖权条款,documents,,published
+Arbitration Clause,仲裁条款,documents,,published
+Excepted Perils,免责事由,documents,,published
+Force Majeure,不可抗力,documents,,published
+Beneficiary's Certificate,受益人证明,documents,,published
+Shipping Company Certificate,船公司证明,documents,,published
+Packing Specification,包装明细单,documents,,published
+Origin Declaration,原产地声明,documents,,published
+Approved Exporter,认证出口商,documents,,published
+REX System,注册出口商制度,documents,,published
+EUR.1 Movement Certificate,欧盟优惠原产地流转证书,documents,,published
+FX Settlement,结汇,documents,,published
+Negotiation,议付,documents,,published
+Discounting,票据贴现,documents,,published
+Forfaiting,福费廷,documents,,published
+Factoring,保理,documents,,published
+Export Credit Insurance,出口信用保险,documents,,published
+Sinosure,中国出口信用保险,documents,,published
+Trade Finance,贸易融资,documents,,published
+Packing Credit,打包贷款,documents,,published
+Payment Terms,付款条件,documents,,published
+Installment Payment,分期付款,documents,,published
+Letter of Indemnity,提单保函,documents,,published
+Indemnity,赔偿保证,documents,,published
+Acceptance of Draft,汇票承兑,documents,,published
+Blank Endorsement,空白背书,documents,,published
+Restrictive Endorsement,记名背书,documents,,published
+Holder in Due Course,正当持票人,documents,,published
+Presentation,交单,documents,,published
+Document Examination,审单,documents,,published
+Waiver of Discrepancy,不符点放弃,documents,,published
+Refusal Notice,拒付通知,documents,,published
+Swift MT700,SWIFT信用证电文,documents,,published
+Amicable Settlement,友好和解,documents,,published
+Force Majeure Certificate,不可抗力证明,documents,,published
+CCPIT Certification,贸促会认证,documents,,published
+Chamber of Commerce,商会,documents,,published
+Notarization,公证,documents,,published
+Business License,营业执照,documents,,published
+E-CO,电子原产地证,documents,,published
+Digital Trade Document,数字贸易单证,documents,,published
+EDI,电子数据交换,documents,,published
+UN/EDIFACT,联合国EDI标准,documents,,published
+Track and Trace,货物轨迹追踪,documents,,published
+Milestone Notification,物流节点通知,documents,,published
+Exception Notification,异常事件通知,documents,,published
+Freight Invoice,运费发票,documents,,published
+Freight Audit,运费审计,documents,,published
+Distribution Agreement,经销协议,documents,,published
+Supply Agreement,供货协议,documents,,published
+Framework Agreement,框架协议,documents,,published
+NDA,保密协议,documents,,published
+Warranty Certificate,质保书,documents,,published
+Customs Power of Attorney,报关委托书,documents,,published
+Booking Form,订舱委托书,documents,,published
+Short Shipment,短装,documents,,published
+Claim Letter,索赔函,documents,,published
+Settlement Agreement,和解协议,documents,,published
+Third-party Inspection,第三方检验机构,documents,,published
+CAD (Cash against Documents),凭单付款,documents,,published
+Bank Draft,银行汇票,documents,,published
+Promissory Note,本票,documents,,published
+Check,支票,documents,,published
+Wire Confirmation,汇款水单,documents,,published
+Payment Voucher,付款凭证,documents,,published
+Commission Invoice,佣金发票,documents,,published
+Sample Invoice,样品发票,documents,,published
+Final Invoice,最终发票,documents,,published
+Interim Invoice,期中发票,documents,,published
+EEI (Electronic Export Information),美国电子出口信息申报,documents,,published
+AES,美国出口申报系统,documents,,published
+ITN,美国内部交易编号,documents,,published
+Destination Control Statement,目的地管制声明,documents,,published
+Importer Number,美国进口商编号,documents,,published
+Insurance Declaration,保险申报单,documents,,published
+Loss Payee,保险赔付受益人,documents,,published
+Co-insurance,共同保险,documents,,published
+Franchise,免赔率,documents,,published
+P&I Certificate,保赔保险证书,documents,,published
+Digital Signature,数字签名,documents,,published
+Document Retention,单证保存,documents,,published
+Remittance,汇款,documents,,published
+Bank Charges,银行手续费,documents,,published
+Confirmation Fee,保兑费,documents,,published
+Discrepancy Fee,不符点费,documents,,published
+Documentation Fee,单证费,documents,,published
+Amendment Fee,改单费,documents,,published
+Courier Fee,快递费,documents,,published
+Tally Sheet,理货单,documents,,published
+Loading List,装货清单,documents,,published
+Gate Pass,出门证,documents,,published
+Weighbridge Slip,地磅单,documents,,published
+Comprehensive Bonded Zone,综合保税区,customs,,published
+9610 Model,跨境电商9610模式,customs,,published
+9710 Model,跨境电商9710模式,customs,,published
+9810 Model,跨境电商9810模式,customs,,published
+1210 Model,跨境电商1210模式,customs,,published
+Positive List,跨境电商进口正面清单,customs,,published
+Verification Write-off,加工贸易核销,customs,,published
+Processing Manual,加工贸易手册,customs,,published
+Electronic Manual,电子化手册,customs,,published
+Bonded Processing,保税加工,customs,,published
+Outsourced Processing,外发加工,customs,,published
+Bonded Goods Domestic Sales,保税货物内销,customs,,published
+Supplementary Duty,补缴税款,customs,,published
+Margin Account,保证金台账,customs,,published
+Animal and Plant Quarantine,动植物检疫,customs,,published
+Food Import Registration,进口食品收货人备案,customs,,published
+Cosmetics Filing,进口化妆品备案,customs,,published
+Medical Device Registration,医疗器械注册,customs,,published
+Drug Import Permit,药品进口许可,customs,,published
+Energy Label,能效标识,customs,,published
+SRRC Type Approval,无线电型号核准,customs,,published
+Tax Invoice,增值税专用发票,customs,,published
+Export Rebate Rate,出口退税率,customs,,published
+General Trade,一般贸易,customs,,published
+Border Trade,边境贸易,customs,,published
+Market Procurement Trade,市场采购贸易,customs,,published
+Offshore Trade,离岸贸易,customs,,published
+Section 301,美国301条款,customs,,published
+Section 232,美国232条款,customs,,published
+Administrative Review,行政复审,customs,,published
+Scope Ruling,反倾销范围裁定,customs,,published
+Entry (US),美国进口申报,customs,,published
+CPSC,美国消费品安全委员会,customs,,published
+Lacey Act,美国野生动植物保护法,customs,,published
+FDA Prior Notice,FDA预先申报,customs,,published
+USMCA,美墨加协定,customs,,published
+Union Customs Code,欧盟海关法典,customs,,published
+VAT Registration,欧盟VAT税号注册,customs,,published
+IOSS,欧盟进口一站式申报,customs,,published
+VAT Deferral,欧盟关税递延,customs,,published
+Fiscal Representation,欧盟财税代表,customs,,published
+EU Deforestation Regulation,欧盟零毁林法案,customs,,published
+CBAM,欧盟碳边境调节机制,customs,,published
+REACH Regulation,欧盟REACH化学品法规,customs,,published
+RoHS,欧盟RoHS指令,customs,,published
+WEEE,欧盟废弃电子设备指令,customs,,published
+GPSR,欧盟通用产品安全法规,customs,,published
+EU Responsible Person,欧盟授权代表,customs,,published
+UKCA,英国合格认证标志,customs,,published
+HMRC,英国税务海关总署,customs,,published
+Customs Unit Filing,报关单位备案,customs,,published
+Enterprise Credit Rating,企业信用等级,customs,,published
+Two-step Declaration,两步申报,customs,,published
+Examination Ratio,查验率,customs,,published
+Double Random,双随机查验,customs,,published
+Intelligent Image Review,智能审图,customs,,published
+Risk Targeting,风险布控,customs,,published
+Entity List,美国实体清单,customs,,published
+UVL,未经验证清单,customs,,published
+Military End User,军事最终用户,customs,,published
+BIS,美国工业与安全局,customs,,published
+OFAC,美国海外资产控制办公室,customs,,published
+ECCN,出口管制分类编号,customs,,published
+License Exception,出口许可例外,customs,,published
+Re-export Control,再出口管制,customs,,published
+Secondary Sanctions,二级制裁,customs,,published
+Red Flags,合规预警信号,customs,,published
+Trade Compliance,贸易合规,customs,,published
+Compliance Program,合规管理体系,customs,,published
+T1 Document,欧盟T1转关单,customs,,published
+NCTS,欧盟转关计算机系统,customs,,published
+Release for Free Circulation,自由流通放行,customs,,published
+End-use Authorization,特定用途放行,customs,,published
+Returned Goods Relief,退运货物减免,customs,,published
+Inward Processing,欧盟进料加工,customs,,published
+Outward Processing,欧盟出料加工,customs,,published
+Authorised Consignee,欧盟授权收货人,customs,,published
+Authorised Consignor,欧盟授权发货人,customs,,published
+Cabotage,沿海运输权,customs,,published
+Supplier's Declaration,供应商原产地声明,customs,,published
+Long-term Supplier Declaration,长期供应商声明,customs,,published
+Origin Self-certification,原产地自我声明,customs,,published
+Fake Origin,伪造原产地,customs,,published
+Transshipment Fraud,转口贸易欺诈,customs,,published
+Gray Clearance,灰关清关,customs,,published
+Baggage Declaration,行李物品申报,customs,,published
+WTO Valuation Agreement,WTO海关估价协定,customs,,published
+Royalty Assessment,特许权使用费估价,customs,,published
+Assists,无偿协助货物估价,customs,,published
+Post-entry Amendment,进口后申报修改,customs,,published
+Formal Entry,正式报关,customs,,published
+Informal Entry,非正式报关,customs,,published
+Low Value Shipment,低值货物申报,customs,,published
+Consolidated Clearance,合并清关,customs,,published
+Blast Freezing,速冻处理,warehousing,,published
+Chilled Zone,冷藏温区,warehousing,,published
+Frozen Zone,冷冻温区,warehousing,,published
+Ambient Zone,常温区,warehousing,,published
+Temperature Mapping,温度分布验证,warehousing,,published
+Clear Height,仓库净高,warehousing,,published
+Floor Loading,地面承重,warehousing,,published
+Fire Sprinkler,消防喷淋系统,warehousing,,published
+MHE,物料搬运设备,warehousing,,published
+VNA (Very Narrow Aisle),窄巷道货架,warehousing,,published
+Shuttle System,穿梭车系统,warehousing,,published
+Goods-to-Person,货到人拣选,warehousing,,published
+Person-to-Goods,人到货拣选,warehousing,,published
+Drone Inventory Counting,无人机盘点,warehousing,,published
+ERP,企业资源计划系统,warehousing,,published
+IoT,物联网,warehousing,,published
+Sensor Monitoring,仓库环境监控,warehousing,,published
+Digital Twin,数字孪生仓库,warehousing,,published
+Predictive Maintenance,预测性维护,warehousing,,published
+Labor Management System,劳动力管理系统,warehousing,,published
+Labor Productivity,仓库人效,warehousing,,published
+Orders per Hour,每小时订单处理量,warehousing,,published
+Cost per Order,单均履约成本,warehousing,,published
+Handling Cost,库内操作成本,warehousing,,published
+Freight Cost,运输成本,warehousing,,published
+Logistics Cost,物流总成本,warehousing,,published
+Landed Cost,到岸总成本,warehousing,,published
+Seasonality,季节性波动,warehousing,,published
+Pick Path,拣货路径,warehousing,,published
+Golden Zone,黄金拣货区,warehousing,,published
+Forward Pick,前置拣货区,warehousing,,published
+Reserve Storage,储备存储区,warehousing,,published
+Staging Area,发货暂存区,warehousing,,published
+QA Hold,质检扣留区,warehousing,,published
+Refurbishment,翻新处理,warehousing,,published
+Disposal,销毁处理,warehousing,,published
+Recycling,回收处理,warehousing,,published
+Carton,纸箱,warehousing,,published
+Master Carton,外包装箱,warehousing,,published
+Inner Box,内盒,warehousing,,published
+Bubble Wrap,气泡膜,warehousing,,published
+Foam Fill,泡沫填充物,warehousing,,published
+Void Fill,空隙填充,warehousing,,published
+Stretch Film,缠绕膜,warehousing,,published
+Strapping,打包带,warehousing,,published
+Edge Protector,护角,warehousing,,published
+Desiccant,干燥剂,warehousing,,published
+Vacuum Packing,真空包装,warehousing,,published
+Crating,木箱包装,warehousing,,published
+Sustainable Packaging,环保包装,warehousing,,published
+Right-sizing,包装适型优化,warehousing,,published
+Dock-to-Stock,入库上架时长,warehousing,,published
+Lead Time,交货周期,warehousing,,published
+Order Lead Time,订单履约周期,warehousing,,published
+Transit Time,运输时效,warehousing,,published
+Cycle Time,作业周转时间,warehousing,,published
+On-time Rate,准时交付率,warehousing,,published
+Damage Rate,货损率,warehousing,,published
+Perfect Order Rate,订单完美履行率,warehousing,,published
+Service Level,服务水平,warehousing,,published
+SLA,服务水平协议,warehousing,,published
+Multi-order Picking,复合订单拣货,warehousing,,published
+Put-wall,播种墙,warehousing,,published
+Packing Station,打包工位,warehousing,,published
+Shipping Label,物流面单,warehousing,,published
+Thermal Printing,热敏打印,warehousing,,published
+Picking Cart,拣货车,warehousing,,published
+Ripening Room,果蔬催熟间,warehousing,,published
+Rack Label,货架标签,warehousing,,published
+Stock Transfer,库存调拨,warehousing,,published
+Full Pallet,整托作业,warehousing,,published
+Case Pick,拆箱拣货,warehousing,,published
+Each Pick,单件拣货,warehousing,,published
+Layer Picking,整层拣货,warehousing,,published
+Pallet Flow Rack,重力式托盘货架,warehousing,,published
+Carton Flow Rack,箱式流利货架,warehousing,,published
+Cantilever Racking,悬臂式货架,warehousing,,published
+Mezzanine,阁楼式货架,warehousing,,published
+Dock Seal,装卸门封,warehousing,,published
+Dedicated Warehouse,专属仓库,warehousing,,published
+Multi-client Warehouse,多客户共仓,warehousing,,published
+Flex Space,弹性仓容,warehousing,,published
+Overflow Warehouse,溢出备用仓,warehousing,,published
+Temp Labor,旺季临时用工,warehousing,,published
+Load Building,装车配载,warehousing,,published
+Route Sequence,配送顺序编排,warehousing,,published
+Cartonization,智能装箱算法,warehousing,,published
+Cube Utilization,装载空间利用率,warehousing,,published
+Trailer Load,拖车装载,warehousing,,published
+Multi-stop Route,多点配送线路,warehousing,,published
+DG Segregation Table,危险品隔离表,special-cargo,,published
+Class 1 Explosives,第1类爆炸品,special-cargo,,published
+Class 2 Gases,第2类气体,special-cargo,,published
+Class 3 Flammable Liquids,第3类易燃液体,special-cargo,,published
+Class 4 Flammable Solids,第4类易燃固体,special-cargo,,published
+Class 5 Oxidizers,第5类氧化性物质,special-cargo,,published
+Class 6 Toxic Substances,第6类毒性物质,special-cargo,,published
+Class 8 Corrosives,第8类腐蚀性物质,special-cargo,,published
+Class 9 Miscellaneous,第9类杂项危险品,special-cargo,,published
+Excepted Quantities,豁免数量危险品,special-cargo,,published
+DG Training,危险品从业培训,special-cargo,,published
+Cargo Aircraft Only,仅限货机运输,special-cargo,,published
+Passenger Aircraft Limit,客机限量危险品,special-cargo,,published
+Authority Approval,主管当局批准,special-cargo,,published
+UN Performance Test,联合国包装性能测试,special-cargo,,published
+Drop Test,包装跌落测试,special-cargo,,published
+Overpack,危险品外包装,special-cargo,,published
+Salvage Packaging,救助包装,special-cargo,,published
+Reconditioned Packaging,修复包装,special-cargo,,published
+Cold Room,冷藏间,special-cargo,,published
+Cold Treatment,冷处理除虫,special-cargo,,published
+Pre-cooling,采后预冷,special-cargo,,published
+Live Seafood,活鲜水产品运输,special-cargo,,published
+Cut Flowers,鲜切花运输,special-cargo,,published
+Clinical Trial Logistics,临床试验物流,special-cargo,,published
+Reefer Breakdown,冷藏箱故障,special-cargo,,published
+Gel Pack,蓄冷剂冰袋,special-cargo,,published
+Insulated Liner,隔热内衬袋,special-cargo,,published
+Thermal Blanket,保温毯,special-cargo,,published
+GHS,全球化学品统一分类标准,special-cargo,,published
+EMS Guide,船载危险品应急措施表,special-cargo,,published
+MFAG,危险品医疗急救指南,special-cargo,,published
+MARPOL,国际防止船舶污染公约,special-cargo,,published
+Permit to Transport,大件运输许可,special-cargo,,published
+Night Move,大件夜间运输,special-cargo,,published
+Counter Sample,回样,trade-terms,,published
+Original Sample,原样,trade-terms,,published
+Sealed Sample,封样,trade-terms,,published
+Duplicate Sample,复样,trade-terms,,published
+Sale by Sample,凭样成交,trade-terms,,published
+Sale by Description,凭说明成交,trade-terms,,published
+Sale by Grade,凭等级成交,trade-terms,,published
+Sale by Specification,凭规格成交,trade-terms,,published
+Indicative Mark,指示性包装标志,trade-terms,,published
+Warning Mark,警告性包装标志,trade-terms,,published
+Rebate,佣金回扣,trade-terms,,published
+Seasonal Pricing,季节性定价,trade-terms,,published
+Volume Discount,数量折扣,trade-terms,,published
+Price List,价目表,trade-terms,,published
+Floor Price,最低限价,trade-terms,,published
+Ceiling Price,最高限价,trade-terms,,published
+Reference Price,参考价格,trade-terms,,published
+Base Price,基准价格,trade-terms,,published
+Formula Price,公式定价,trade-terms,,published
+Fixed Price,固定价格,trade-terms,,published
+Floating Price,浮动价格,trade-terms,,published
+Sailing Schedule,船期表,trade-terms,,published
+Sailing Date,开航日期,trade-terms,,published
+Bunker Clause,租船燃油条款,transport,,published
+NYPE Form,纽约土产交易所定期租约格式,transport,,published
+GENCON,标准航次租船合同,transport,,published
+World Scale,世界油轮运价表,transport,,published
+Ship Agent,船舶代理,transport,,published
+Flag of Convenience,方便旗,transport,,published
+Wharfage,码头费,transport,,published
+Draft Survey,水尺计重,transport,,published
+Ullage,液货舱空距测量,transport,,published
+Cargo Readiness,货物备妥,transport,,published
+Mooring,系泊作业,transport,,published
+Drydocking,船舶进坞检修,transport,,published
+Freight Futures,运费期货,transport,,published
+Chassis Split,底盘车分离费,transport,,published
+Pre-pull,预提箱作业,transport,,published
+Factory Relocation,工厂搬迁物流,transport,,published
+Exhibition Logistics,展会物流,transport,,published
+Land Bridge,大陆桥运输,transport,,published
+Mini-land Bridge,小陆桥运输,transport,,published
+Piggyback,驮背运输,transport,,published
+Double-stack Train,双层集装箱列车,transport,,published
+Platform Container,平台集装箱,transport,,published
+Garment on Hanger,挂衣箱运输,transport,,published
+Overland Common Point,内陆公共点运价,transport,,published
+Pre-alert,到货预告单,documents,,published
+Outturn Report,卸货溢短残损报告,documents,,published
+Statement of Facts,装卸时间事实记录,documents,,published
+Charter Party B/L,租约提单,documents,,published
+Proof of Export,出口证明文件,documents,,published
+Trust Receipt,信托收据,documents,,published
+Import Loan,进口押汇,documents,,published
+Export Bill Purchase,出口押汇,documents,,published
+Clean Collection,光票托收,documents,,published
+Documentary Collection,跟单托收,documents,,published
+House Manifest,分舱单,documents,,published
+CN22/CN23 Declaration,邮政报关单,documents,,published
+Release,海关放行,customs,,published
+Port of Entry,入境口岸,customs,,published
+Land Port,陆路口岸,customs,,published
+Free Port,自由港,customs,,published
+Origin Verification,原产地核查,customs,,published
+Transfer Pricing,转让定价海关审查,customs,,published
+Related Party Transaction,关联交易估价,customs,,published
+Interest on Duty,关税滞纳金,customs,,published
+Provisional Duty,临时关税,customs,,published
+Mutual Recognition Agreement,国际互认协定,customs,,published
+Import Ban,进口禁令,customs,,published
+Export Ban,出口禁令,customs,,published
+Quantitative Restriction,数量限制措施,customs,,published
+Automatic Licensing,自动进口许可,customs,,published
+Conformity Assessment,合格评定程序,customs,,published
+Biosecurity,生物安全检疫,customs,,published
+Traceability,食品可追溯性,customs,,published
+Country of Dispatch,发货国,customs,,published
+Third Country,第三国,customs,,published
+Express Consignment Operator,快件运营人资质,customs,,published
+Postal Clearance,邮政渠道清关,customs,,published
+Pre-clearance,预清关,customs,,published
+Carrier Selection,承运商选择,warehousing,,published
+Rate Shopping,运价比价,warehousing,,published
+Carrier Scorecard,承运商绩效考核,warehousing,,published
+Inbound Scheduling,入库预约排程,warehousing,,published
+Sequencing,顺序供料配送,warehousing,,published
+Returns Grading,退货分级处理,warehousing,,published
+Restock,退货重新上架,warehousing,,published
+Take-back Obligation,生产者回收责任,warehousing,,published
+Circular Logistics,循环物流,warehousing,,published
+Green Warehouse,绿色仓库,warehousing,,published
+Solar Roof,仓库屋顶光伏,warehousing,,published
+Carbon Accounting,物流碳核算,warehousing,,published
+Emissions Reporting,碳排放报告,warehousing,,published
+GMP Warehouse,GMP药品仓库,warehousing,,published
+Zoning,库区分区管理,warehousing,,published
+Variance Report,库存差异报告,warehousing,,published
+Loss Prevention,仓库防损,warehousing,,published
+CCTV,仓库视频监控,warehousing,,published
+Access Control,仓库门禁管理,warehousing,,published
+State of Charge,锂电池荷电状态限制,special-cargo,,published
+Cold Box,冷链保温箱,special-cargo,,published
+Passive Packaging,被动保温包装,special-cargo,,published
+Active Reefer,主动制冷集装箱,special-cargo,,published
+Ethylene Scavenger,乙烯清除剂,special-cargo,,published
+Hatching Eggs,种蛋运输,special-cargo,,published
+Research Samples,科研样本运输,special-cargo,,published
+Infectious Substances,感染性物质运输,special-cargo,,published
+GMO Transport,转基因生物运输,special-cargo,,published
+Precursor Chemicals,易制毒化学品运输,special-cargo,,published
+Fireworks,烟花爆竹运输,special-cargo,,published
+Airbag Transport,汽车安全气囊运输,special-cargo,,published
+Ice Cream Transport,冰淇淋冷链运输,special-cargo,,published
+Chocolate Transport,巧克力温控运输,special-cargo,,published
+Wine Transport,葡萄酒运输,special-cargo,,published
+Odor Contamination,货物串味污染,special-cargo,,published
+Shortage,货物短缺,special-cargo,,published
+Breakage,货物破损,special-cargo,,published
+Contamination,货物污染,special-cargo,,published
+Leakage,货物渗漏,special-cargo,,published
+Return Merchandise Authorization,退货授权RMA,warehousing,,published
+Customs Brokerage Fee,清关代理服务费,customs,,published
+Beijing Capital International Airport,北京首都国际机场,transport,空运,pending
+Shanghai Pudong International Airport,上海浦东国际机场,transport,空运,pending
+Guangzhou Baiyun International Airport,广州白云国际机场,transport,空运,pending
+Shenzhen Baoan International Airport,深圳宝安国际机场,transport,空运,pending
+Chengdu Tianfu International Airport,成都天府国际机场,transport,空运,pending
+Hangzhou Xiaoshan International Airport,杭州萧山国际机场,transport,空运,pending
+Xiamen Gaoqi International Airport,厦门高崎国际机场,transport,空运,pending
+Chongqing Jiangbei International Airport,重庆江北国际机场,transport,空运,pending
+Zhengzhou Xinzheng International Airport,郑州新郑国际机场,transport,空运,pending
+Wuhan Tianhe International Airport,武汉天河国际机场,transport,空运,pending
+Nanjing Lukou International Airport,南京禄口国际机场,transport,空运,pending
+Qingdao Jiaodong International Airport,青岛胶东国际机场,transport,空运,pending
+Tianjin Binhai International Airport,天津滨海国际机场,transport,空运,pending
+Kunming Changshui International Airport,昆明长水国际机场,transport,空运,pending
+Hong Kong International Airport,中国香港国际机场,transport,空运,pending
+Taiwan Taoyuan International Airport,中国台湾桃园国际机场,transport,空运,pending
+Incheon International Airport,仁川国际机场,transport,空运,pending
+Narita International Airport,东京成田国际机场,transport,空运,pending
+Haneda Airport,东京羽田机场,transport,空运,pending
+Kansai International Airport,大阪关西国际机场,transport,空运,pending
+Centrair Nagoya Airport,名古屋中部国际机场,transport,空运,pending
+Singapore Changi Airport,新加坡樟宜机场,transport,空运,pending
+Suvarnabhumi Airport,曼谷素万那普机场,transport,空运,pending
+Kuala Lumpur International Airport,吉隆坡国际机场,transport,空运,pending
+Ninoy Aquino International Airport,马尼拉尼诺·阿基诺国际机场,transport,空运,pending
+Soekarno-Hatta International Airport,雅加达苏加诺-哈达国际机场,transport,空运,pending
+Tan Son Nhat International Airport,胡志明市新山一国际机场,transport,空运,pending
+Noi Bai International Airport,河内内排国际机场,transport,空运,pending
+Indira Gandhi International Airport,德里英迪拉·甘地国际机场,transport,空运,pending
+Chhatrapati Shivaji Airport,孟买贾特拉帕蒂·希瓦吉国际机场,transport,空运,pending
+Dubai International Airport,迪拜国际机场,transport,空运,pending
+Doha Hamad International Airport,多哈哈马德国际机场,transport,空运,pending
+Abu Dhabi International Airport,阿布扎比国际机场,transport,空运,pending
+Istanbul Airport,伊斯坦布尔机场,transport,空运,pending
+Tel Aviv Ben Gurion Airport,特拉维夫本·古里安机场,transport,空运,pending
+Frankfurt Airport,法兰克福机场,transport,空运,pending
+Leipzig Halle Airport,莱比锡哈勒机场,transport,空运,pending
+Cologne Bonn Airport,科隆波恩机场,transport,空运,pending
+Amsterdam Schiphol Airport,阿姆斯特丹史基浦机场,transport,空运,pending
+Luxembourg Airport,卢森堡机场,transport,空运,pending
+Brussels Airport,布鲁塞尔机场,transport,空运,pending
+Paris Charles de Gaulle Airport,巴黎戴高乐机场,transport,空运,pending
+London Heathrow Airport,伦敦希思罗机场,transport,空运,pending
+London Gatwick Airport,伦敦盖特威克机场,transport,空运,pending
+East Midlands Airport,东米德兰兹机场,transport,空运,pending
+Madrid Barajas Airport,马德里巴拉哈斯机场,transport,空运,pending
+Munich Airport,慕尼黑机场,transport,空运,pending
+Zurich Airport,苏黎世机场,transport,空运,pending
+Vienna International Airport,维也纳国际机场,transport,空运,pending
+Copenhagen Airport,哥本哈根机场,transport,空运,pending
+Warsaw Chopin Airport,华沙肖邦机场,transport,空运,pending
+Moscow Sheremetyevo Airport,莫斯科谢列梅捷沃机场,transport,空运,pending
+Milan Malpensa Airport,米兰马尔彭萨机场,transport,空运,pending
+Rome Fiumicino Airport,罗马菲乌米奇诺机场,transport,空运,pending
+John F. Kennedy International Airport,纽约肯尼迪国际机场,transport,空运,pending
+Newark Liberty International Airport,纽瓦克自由国际机场,transport,空运,pending
+Chicago O'Hare International Airport,芝加哥奥黑尔国际机场,transport,空运,pending
+Los Angeles International Airport,洛杉矶国际机场,transport,空运,pending
+San Francisco International Airport,旧金山国际机场,transport,空运,pending
+Seattle-Tacoma International Airport,西雅图塔科马国际机场,transport,空运,pending
+Hartsfield-Jackson Atlanta Airport,亚特兰大哈兹菲尔德-杰克逊国际机场,transport,空运,pending
+Dallas Fort Worth International Airport,达拉斯沃斯堡国际机场,transport,空运,pending
+Miami International Airport,迈阿密国际机场,transport,空运,pending
+Houston George Bush Airport,休斯敦乔治·布什洲际机场,transport,空运,pending
+Toronto Pearson International Airport,多伦多皮尔逊国际机场,transport,空运,pending
+Mexico City International Airport,墨西哥城国际机场,transport,空运,pending
+Sao Paulo Guarulhos Airport,圣保罗瓜鲁柳斯国际机场,transport,空运,pending
+Bogota El Dorado Airport,波哥大埃尔多拉多国际机场,transport,空运,pending
+Santiago Arturo Merino Benitez Airport,圣地亚哥阿图罗·梅里诺·贝尼特斯国际机场,transport,空运,pending
+Cairo International Airport,开罗国际机场,transport,空运,pending
+Johannesburg O.R. Tambo Airport,约翰内斯堡奥利弗·坦博国际机场,transport,空运,pending
+Nairobi Jomo Kenyatta Airport,内罗毕乔莫·肯雅塔国际机场,transport,空运,pending
+Addis Ababa Bole Airport,亚的斯亚贝巴博莱国际机场,transport,空运,pending
+Sydney Kingsford Smith Airport,悉尼金斯福德·史密斯机场,transport,空运,pending
+Melbourne Airport,墨尔本机场,transport,空运,pending
+Auckland Airport,奥克兰机场,transport,空运,pending
+20GP Standard Container,20英尺普通干货集装箱,transport,集装箱,pending
+40GP Standard Container,40英尺普通干货集装箱,transport,集装箱,pending
+40HC High Cube Container,40英尺高柜集装箱,transport,集装箱,pending
+45HC 45-foot High Cube Container,45英尺高柜集装箱,transport,集装箱,pending
+20RF Reefer Container,20英尺冷藏集装箱,transport,集装箱,pending
+40RF Reefer Container,40英尺冷藏集装箱,transport,集装箱,pending
+20OT Open Top Container,20英尺开顶集装箱,transport,集装箱,pending
+40OT Open Top Container,40英尺开顶集装箱,transport,集装箱,pending
+20FR Flat Rack Container,20英尺框架集装箱,transport,集装箱,pending
+40FR Flat Rack Container,40英尺框架集装箱,transport,集装箱,pending
+ISO Tank Container,ISO罐式集装箱,transport,集装箱,pending
+Container Number,集装箱箱号,transport,集装箱,pending
+ISO 6346,ISO 6346集装箱代码标准,transport,集装箱,pending
+Container Seal,集装箱铅封,transport,集装箱,pending
+CSC Plate,CSC安全合格牌照,transport,集装箱,pending
+Container Demurrage,集装箱滞期费,transport,集装箱,pending
+Container Detention,集装箱超期使用费,transport,集装箱,pending
+Container Cleaning,集装箱洗箱,transport,集装箱,pending
+Soc Container,自有箱（SOC箱）,transport,集装箱,pending
+Noc Container,承运人自有箱与租箱（NOC）,transport,集装箱,pending
+Class 2.1 Flammable Gas,第2.1类易燃气体,special-cargo,危险品,pending
+Class 2.2 Non-flammable Gas,第2.2类非易燃无毒气体,special-cargo,危险品,pending
+Class 2.3 Toxic Gas,第2.3类毒性气体,special-cargo,危险品,pending
+Class 4.2 Spontaneously Combustible,第4.2类易自燃物质,special-cargo,危险品,pending
+Class 4.3 Dangerous When Wet,第4.3类遇水放出易燃气体物质,special-cargo,危险品,pending
+Class 5.1 Oxidizing Substances,第5.1类氧化性物质,special-cargo,危险品,pending
+Class 5.2 Organic Peroxides,第5.2类有机过氧化物,special-cargo,危险品,pending
+Class 6.2 Infectious Substances,第6.2类感染性物质,special-cargo,危险品,pending
+Class 7 Radioactive Material,第7类放射性物质,special-cargo,危险品,pending
+Class 9 Miscellaneous Dangerous Goods,第9类杂项危险物质,special-cargo,危险品,pending
+Dangerous Goods Declaration,危险品申报单（DGD）,special-cargo,危险品,pending
+EMS Number,危险品应急措施表编号,special-cargo,危险品,pending
+DG Container Label,危险品集装箱标牌,special-cargo,危险品,pending
+Excepted Quantity,豁免量危险品,special-cargo,危险品,pending
+DGR Certified Forwarder,危险品资质货代,special-cargo,危险品,pending
+UN Certified Packaging,UN认证危险品包装,special-cargo,危险品,pending
+Shanghai Port,上海港,transport,港口码头,pending
+Ningbo-Zhoushan Port,宁波舟山港,transport,港口码头,pending
+Shenzhen Port,深圳港,transport,港口码头,pending
+Qingdao Port,青岛港,transport,港口码头,pending
+Guangzhou Port,广州港,transport,港口码头,pending
+Tianjin Port,天津港,transport,港口码头,pending
+Xiamen Port,厦门港,transport,港口码头,pending
+Dalian Port,大连港,transport,港口码头,pending
+Yingkou Port,营口港,transport,港口码头,pending
+Rizhao Port,日照港,transport,港口码头,pending
+Lianyungang Port,连云港港,transport,港口码头,pending
+Fuzhou Port,福州港,transport,港口码头,pending
+Hong Kong Port,中国香港港,transport,港口码头,pending
+Kaohsiung Port,中国台湾高雄港,transport,港口码头,pending
+Busan Port,釜山港,transport,港口码头,pending
+Incheon Port,仁川港,transport,港口码头,pending
+Yokohama Port,横滨港,transport,港口码头,pending
+Tokyo Port,东京港,transport,港口码头,pending
+Nagoya Port,名古屋港,transport,港口码头,pending
+Osaka Port,大阪港,transport,港口码头,pending
+Kobe Port,神户港,transport,港口码头,pending
+Singapore Port,新加坡港,transport,港口码头,pending
+Port Klang,巴生港,transport,港口码头,pending
+Tanjung Pelepas Port,丹戎帕拉帕斯港,transport,港口码头,pending
+Penang Port,槟城港,transport,港口码头,pending
+Laem Chabang Port,林查班港,transport,港口码头,pending
+Bangkok Port,曼谷港,transport,港口码头,pending
+Ho Chi Minh City Port,胡志明港,transport,港口码头,pending
+Haiphong Port,海防港,transport,港口码头,pending
+Manila Port,马尼拉港,transport,港口码头,pending
+Jakarta Port,雅加达港,transport,港口码头,pending
+Surabaya Port,泗水港,transport,港口码头,pending
+Colombo Port,科伦坡港,transport,港口码头,pending
+Chittagong Port,吉大港,transport,港口码头,pending
+Nhava Sheva Port,那瓦西瓦港,transport,港口码头,pending
+Mundra Port,蒙德拉港,transport,港口码头,pending
+Chennai Port,金奈港,transport,港口码头,pending
+Kolkata Port,加尔各答港,transport,港口码头,pending
+Karachi Port,卡拉奇港,transport,港口码头,pending
+Jebel Ali Port,杰贝阿里港,transport,港口码头,pending
+Hamad Port,哈马德港,transport,港口码头,pending
+Jeddah Port,吉达港,transport,港口码头,pending
+Dammam Port,达曼港,transport,港口码头,pending
+Kuwait Port,科威特港,transport,港口码头,pending
+Muscat Port,马斯喀特港,transport,港口码头,pending
+Rotterdam Port,鹿特丹港,transport,港口码头,pending
+Antwerp Port,安特卫普港,transport,港口码头,pending
+Hamburg Port,汉堡港,transport,港口码头,pending
+Bremerhaven Port,不来梅哈芬港,transport,港口码头,pending
+Felixstowe Port,费利克斯托港,transport,港口码头,pending
+London Gateway Port,伦敦门户港,transport,港口码头,pending
+Southampton Port,南安普顿港,transport,港口码头,pending
+Le Havre Port,勒阿弗尔港,transport,港口码头,pending
+Marseille Port,马赛港,transport,港口码头,pending
+Valencia Port,瓦伦西亚港,transport,港口码头,pending
+Algeciras Port,阿尔赫西拉斯港,transport,港口码头,pending
+Barcelona Port,巴塞罗那港,transport,港口码头,pending
+Bilbao Port,毕尔巴鄂港,transport,港口码头,pending
+Genoa Port,热那亚港,transport,港口码头,pending
+La Spezia Port,拉斯佩齐亚港,transport,港口码头,pending
+Naples Port,那不勒斯港,transport,港口码头,pending
+Piraeus Port,比雷埃夫斯港,transport,港口码头,pending
+Thessaloniki Port,塞萨洛尼基港,transport,港口码头,pending
+Istanbul Port,伊斯坦布尔港,transport,港口码头,pending
+Mersin Port,梅尔辛港,transport,港口码头,pending
+Constanta Port,康斯坦察港,transport,港口码头,pending
+Gdansk Port,格但斯克港,transport,港口码头,pending
+Gdynia Port,格丁尼亚港,transport,港口码头,pending
+Gothenburg Port,哥德堡港,transport,港口码头,pending
+Aarhus Port,奥胡斯港,transport,港口码头,pending
+Helsinki Port,赫尔辛基港,transport,港口码头,pending
+Riga Port,里加港,transport,港口码头,pending
+Klaipeda Port,克莱佩达港,transport,港口码头,pending
+Los Angeles Port,洛杉矶港,transport,港口码头,pending
+Long Beach Port,长滩港,transport,港口码头,pending
+Oakland Port,奥克兰港,transport,港口码头,pending
+Seattle Port,西雅图港,transport,港口码头,pending
+Tacoma Port,塔科马港,transport,港口码头,pending
+Portland Port,波特兰港,transport,港口码头,pending
+Vancouver Port,温哥华港,transport,港口码头,pending
+Prince Rupert Port,鲁珀特王子港,transport,港口码头,pending
+New York New Jersey Port,纽约新泽西港,transport,港口码头,pending
+Savannah Port,萨凡纳港,transport,港口码头,pending
+Charleston Port,查尔斯顿港,transport,港口码头,pending
+Houston Port,休斯敦港,transport,港口码头,pending
+Norfolk Port,诺福克港,transport,港口码头,pending
+Miami Port,迈阿密港,transport,港口码头,pending
+New Orleans Port,新奥尔良港,transport,港口码头,pending
+Baltimore Port,巴尔的摩港,transport,港口码头,pending
+Boston Port,波士顿港,transport,港口码头,pending
+Manzanillo Port,曼萨尼约港,transport,港口码头,pending
+Lazaro Cardenas Port,拉萨罗卡德纳斯港,transport,港口码头,pending
+Veracruz Port,韦拉克鲁斯港,transport,港口码头,pending
+Cartagena Port,卡塔赫纳港,transport,港口码头,pending
+Buenaventura Port,布埃纳文图拉港,transport,港口码头,pending
+Callao Port,卡亚俄港,transport,港口码头,pending
+Guayaquil Port,瓜亚基尔港,transport,港口码头,pending
+Valparaiso Port,瓦尔帕莱索港,transport,港口码头,pending
+Santos Port,桑托斯港,transport,港口码头,pending
+Paranagua Port,帕拉纳瓜港,transport,港口码头,pending
+Rio de Janeiro Port,里约热内卢港,transport,港口码头,pending
+Buenos Aires Port,布宜诺斯艾利斯港,transport,港口码头,pending
+Montevideo Port,蒙得维的亚港,transport,港口码头,pending
+Durban Port,德班港,transport,港口码头,pending
+Cape Town Port,开普敦港,transport,港口码头,pending
+Lagos Port,拉各斯港,transport,港口码头,pending
+Tema Port,特马港,transport,港口码头,pending
+Abidjan Port,阿比让港,transport,港口码头,pending
+Dakar Port,达喀尔港,transport,港口码头,pending
+Mombasa Port,蒙巴萨港,transport,港口码头,pending
+Dar es Salaam Port,达累斯萨拉姆港,transport,港口码头,pending
+Alexandria Port,亚历山大港,transport,港口码头,pending
+Port Said Port,塞得港,transport,港口码头,pending
+Casablanca Port,卡萨布兰卡港,transport,港口码头,pending
+Tunis Port,突尼斯港,transport,港口码头,pending
+Algiers Port,阿尔及尔港,transport,港口码头,pending
+Sydney Port,悉尼港,transport,港口码头,pending
+Melbourne Port,墨尔本港,transport,港口码头,pending
+Brisbane Port,布里斯班港,transport,港口码头,pending
+Fremantle Port,弗里曼特尔港,transport,港口码头,pending
+Adelaide Port,阿德莱德港,transport,港口码头,pending
+Lytelton Port,利特尔顿港,transport,港口码头,pending
+Suva Port,苏瓦港,transport,港口码头,pending
