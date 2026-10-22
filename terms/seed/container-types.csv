@@ -1,0 +1,27 @@
+﻿term_en,term_zh,category,subcategory
+20GP Standard Container,20英尺普通干货集装箱,transport,集装箱
+40GP Standard Container,40英尺普通干货集装箱,transport,集装箱
+40HC High Cube Container,40英尺高柜集装箱,transport,集装箱
+45HC 45-foot High Cube Container,45英尺高柜集装箱,transport,集装箱
+20RF Reefer Container,20英尺冷藏集装箱,transport,集装箱
+40RF Reefer Container,40英尺冷藏集装箱,transport,集装箱
+20OT Open Top Container,20英尺开顶集装箱,transport,集装箱
+40OT Open Top Container,40英尺开顶集装箱,transport,集装箱
+20FR Flat Rack Container,20英尺框架集装箱,transport,集装箱
+40FR Flat Rack Container,40英尺框架集装箱,transport,集装箱
+ISO Tank Container,ISO罐式集装箱,transport,集装箱
+Bulk Container,散装货集装箱,transport,集装箱
+Ventilated Container,通风集装箱,transport,集装箱
+Half Height Container,半高集装箱,transport,集装箱
+Insulated Container,保温集装箱,transport,集装箱
+Container Number,集装箱箱号,transport,集装箱
+ISO 6346,ISO 6346集装箱代码标准,transport,集装箱
+Container Seal,集装箱铅封,transport,集装箱
+CSC Plate,CSC安全合格牌照,transport,集装箱
+TEU,标准箱单位,transport,集装箱
+FEU,40英尺标准箱单位,transport,集装箱
+Container Demurrage,集装箱滞期费,transport,集装箱
+Container Detention,集装箱超期使用费,transport,集装箱
+Container Cleaning,集装箱洗箱,transport,集装箱
+Soc Container,自有箱（SOC箱）,transport,集装箱
+Noc Container,承运人自有箱与租箱（NOC）,transport,集装箱
