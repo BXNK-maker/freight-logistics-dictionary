@@ -1,0 +1,31 @@
+﻿term_en,term_zh,category,subcategory
+Class 1 Explosives,第1类爆炸品,special-cargo,危险品
+Class 2.1 Flammable Gas,第2.1类易燃气体,special-cargo,危险品
+Class 2.2 Non-flammable Gas,第2.2类非易燃无毒气体,special-cargo,危险品
+Class 2.3 Toxic Gas,第2.3类毒性气体,special-cargo,危险品
+Class 3 Flammable Liquids,第3类易燃液体,special-cargo,危险品
+Class 4.1 Flammable Solids,第4.1类易燃固体,special-cargo,危险品
+Class 4.2 Spontaneously Combustible,第4.2类易自燃物质,special-cargo,危险品
+Class 4.3 Dangerous When Wet,第4.3类遇水放出易燃气体物质,special-cargo,危险品
+Class 5.1 Oxidizing Substances,第5.1类氧化性物质,special-cargo,危险品
+Class 5.2 Organic Peroxides,第5.2类有机过氧化物,special-cargo,危险品
+Class 6.1 Toxic Substances,第6.1类毒性物质,special-cargo,危险品
+Class 6.2 Infectious Substances,第6.2类感染性物质,special-cargo,危险品
+Class 7 Radioactive Material,第7类放射性物质,special-cargo,危险品
+Class 8 Corrosive Substances,第8类腐蚀性物质,special-cargo,危险品
+Class 9 Miscellaneous Dangerous Goods,第9类杂项危险物质,special-cargo,危险品
+UN Number,联合国编号（UN号）,special-cargo,危险品
+MSDS Safety Data Sheet,化学品安全技术说明书,special-cargo,危险品
+Dangerous Goods Declaration,危险品申报单（DGD）,special-cargo,危险品
+IMDG Code,国际海运危险货物规则,special-cargo,危险品
+IATA DGR,国际航空运输协会危险品规则,special-cargo,危险品
+Packing Group,危险品包装组别,special-cargo,危险品
+Segregation Table,危险品隔离表,special-cargo,危险品
+EMS Number,危险品应急措施表编号,special-cargo,危险品
+MFAG,危险品医疗急救指南,special-cargo,危险品
+DG Container Label,危险品集装箱标牌,special-cargo,危险品
+Limited Quantity,限量危险品包装,special-cargo,危险品
+Excepted Quantity,豁免量危险品,special-cargo,危险品
+Dangerous Goods Surcharge,危险品附加费,special-cargo,危险品
+DGR Certified Forwarder,危险品资质货代,special-cargo,危险品
+UN Certified Packaging,UN认证危险品包装,special-cargo,危险品
