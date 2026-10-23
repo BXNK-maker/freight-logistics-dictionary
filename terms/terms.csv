@@ -1239,12 +1239,12 @@ Contamination,货物污染,special-cargo,,published
 Leakage,货物渗漏,special-cargo,,published
 Return Merchandise Authorization,退货授权RMA,warehousing,,published
 Customs Brokerage Fee,清关代理服务费,customs,,published
-Beijing Capital International Airport,北京首都国际机场,transport,空运,pending
+Beijing Capital International Airport,北京首都国际机场,transport,空运,published
 Shanghai Pudong International Airport,上海浦东国际机场,transport,空运,published
 Guangzhou Baiyun International Airport,广州白云国际机场,transport,空运,published
 Shenzhen Baoan International Airport,深圳宝安国际机场,transport,空运,published
 Chengdu Tianfu International Airport,成都天府国际机场,transport,空运,published
-Hangzhou Xiaoshan International Airport,杭州萧山国际机场,transport,空运,pending
+Hangzhou Xiaoshan International Airport,杭州萧山国际机场,transport,空运,published
 Xiamen Gaoqi International Airport,厦门高崎国际机场,transport,空运,published
 Chongqing Jiangbei International Airport,重庆江北国际机场,transport,空运,published
 Zhengzhou Xinzheng International Airport,郑州新郑国际机场,transport,空运,published
@@ -1339,104 +1339,104 @@ Class 2.1 Flammable Gas,第2.1类易燃气体,special-cargo,危险品,published
 Class 2.2 Non-flammable Gas,第2.2类非易燃无毒气体,special-cargo,危险品,published
 Class 2.3 Toxic Gas,第2.3类毒性气体,special-cargo,危险品,published
 Class 4.2 Spontaneously Combustible,第4.2类易自燃物质,special-cargo,危险品,published
-Class 4.3 Dangerous When Wet,第4.3类遇水放出易燃气体物质,special-cargo,危险品,pending
-Class 5.1 Oxidizing Substances,第5.1类氧化性物质,special-cargo,危险品,pending
-Class 5.2 Organic Peroxides,第5.2类有机过氧化物,special-cargo,危险品,pending
-Class 6.2 Infectious Substances,第6.2类感染性物质,special-cargo,危险品,pending
-Class 7 Radioactive Material,第7类放射性物质,special-cargo,危险品,pending
-Class 9 Miscellaneous Dangerous Goods,第9类杂项危险物质,special-cargo,危险品,pending
-Dangerous Goods Declaration,危险品申报单（DGD）,special-cargo,危险品,pending
-EMS Number,危险品应急措施表编号,special-cargo,危险品,pending
-DG Container Label,危险品集装箱标牌,special-cargo,危险品,pending
-Excepted Quantity,豁免量危险品,special-cargo,危险品,pending
-DGR Certified Forwarder,危险品资质货代,special-cargo,危险品,pending
-UN Certified Packaging,UN认证危险品包装,special-cargo,危险品,pending
-Shanghai Port,上海港,transport,港口码头,pending
-Ningbo-Zhoushan Port,宁波舟山港,transport,港口码头,pending
-Shenzhen Port,深圳港,transport,港口码头,pending
-Qingdao Port,青岛港,transport,港口码头,pending
-Guangzhou Port,广州港,transport,港口码头,pending
-Tianjin Port,天津港,transport,港口码头,pending
-Xiamen Port,厦门港,transport,港口码头,pending
-Dalian Port,大连港,transport,港口码头,pending
-Yingkou Port,营口港,transport,港口码头,pending
-Rizhao Port,日照港,transport,港口码头,pending
-Lianyungang Port,连云港港,transport,港口码头,pending
-Fuzhou Port,福州港,transport,港口码头,pending
-Hong Kong Port,中国香港港,transport,港口码头,pending
-Kaohsiung Port,中国台湾高雄港,transport,港口码头,pending
-Busan Port,釜山港,transport,港口码头,pending
-Incheon Port,仁川港,transport,港口码头,pending
-Yokohama Port,横滨港,transport,港口码头,pending
-Tokyo Port,东京港,transport,港口码头,pending
-Nagoya Port,名古屋港,transport,港口码头,pending
-Osaka Port,大阪港,transport,港口码头,pending
-Kobe Port,神户港,transport,港口码头,pending
-Singapore Port,新加坡港,transport,港口码头,pending
-Port Klang,巴生港,transport,港口码头,pending
-Tanjung Pelepas Port,丹戎帕拉帕斯港,transport,港口码头,pending
-Penang Port,槟城港,transport,港口码头,pending
-Laem Chabang Port,林查班港,transport,港口码头,pending
-Bangkok Port,曼谷港,transport,港口码头,pending
-Ho Chi Minh City Port,胡志明港,transport,港口码头,pending
-Haiphong Port,海防港,transport,港口码头,pending
-Manila Port,马尼拉港,transport,港口码头,pending
-Jakarta Port,雅加达港,transport,港口码头,pending
-Surabaya Port,泗水港,transport,港口码头,pending
-Colombo Port,科伦坡港,transport,港口码头,pending
-Chittagong Port,吉大港,transport,港口码头,pending
-Nhava Sheva Port,那瓦西瓦港,transport,港口码头,pending
-Mundra Port,蒙德拉港,transport,港口码头,pending
-Chennai Port,金奈港,transport,港口码头,pending
-Kolkata Port,加尔各答港,transport,港口码头,pending
-Karachi Port,卡拉奇港,transport,港口码头,pending
-Jebel Ali Port,杰贝阿里港,transport,港口码头,pending
-Hamad Port,哈马德港,transport,港口码头,pending
-Jeddah Port,吉达港,transport,港口码头,pending
-Dammam Port,达曼港,transport,港口码头,pending
-Kuwait Port,科威特港,transport,港口码头,pending
-Muscat Port,马斯喀特港,transport,港口码头,pending
-Rotterdam Port,鹿特丹港,transport,港口码头,pending
-Antwerp Port,安特卫普港,transport,港口码头,pending
-Hamburg Port,汉堡港,transport,港口码头,pending
-Bremerhaven Port,不来梅哈芬港,transport,港口码头,pending
-Felixstowe Port,费利克斯托港,transport,港口码头,pending
-London Gateway Port,伦敦门户港,transport,港口码头,pending
-Southampton Port,南安普顿港,transport,港口码头,pending
-Le Havre Port,勒阿弗尔港,transport,港口码头,pending
-Marseille Port,马赛港,transport,港口码头,pending
-Valencia Port,瓦伦西亚港,transport,港口码头,pending
-Algeciras Port,阿尔赫西拉斯港,transport,港口码头,pending
-Barcelona Port,巴塞罗那港,transport,港口码头,pending
-Bilbao Port,毕尔巴鄂港,transport,港口码头,pending
-Genoa Port,热那亚港,transport,港口码头,pending
-La Spezia Port,拉斯佩齐亚港,transport,港口码头,pending
-Naples Port,那不勒斯港,transport,港口码头,pending
-Piraeus Port,比雷埃夫斯港,transport,港口码头,pending
-Thessaloniki Port,塞萨洛尼基港,transport,港口码头,pending
-Istanbul Port,伊斯坦布尔港,transport,港口码头,pending
-Mersin Port,梅尔辛港,transport,港口码头,pending
-Constanta Port,康斯坦察港,transport,港口码头,pending
-Gdansk Port,格但斯克港,transport,港口码头,pending
-Gdynia Port,格丁尼亚港,transport,港口码头,pending
-Gothenburg Port,哥德堡港,transport,港口码头,pending
-Aarhus Port,奥胡斯港,transport,港口码头,pending
-Helsinki Port,赫尔辛基港,transport,港口码头,pending
-Riga Port,里加港,transport,港口码头,pending
-Klaipeda Port,克莱佩达港,transport,港口码头,pending
-Los Angeles Port,洛杉矶港,transport,港口码头,pending
-Long Beach Port,长滩港,transport,港口码头,pending
-Oakland Port,奥克兰港,transport,港口码头,pending
-Seattle Port,西雅图港,transport,港口码头,pending
-Tacoma Port,塔科马港,transport,港口码头,pending
-Portland Port,波特兰港,transport,港口码头,pending
-Vancouver Port,温哥华港,transport,港口码头,pending
-Prince Rupert Port,鲁珀特王子港,transport,港口码头,pending
-New York New Jersey Port,纽约新泽西港,transport,港口码头,pending
-Savannah Port,萨凡纳港,transport,港口码头,pending
-Charleston Port,查尔斯顿港,transport,港口码头,pending
-Houston Port,休斯敦港,transport,港口码头,pending
-Norfolk Port,诺福克港,transport,港口码头,pending
+Class 4.3 Dangerous When Wet,第4.3类遇水放出易燃气体物质,special-cargo,危险品,published
+Class 5.1 Oxidizing Substances,第5.1类氧化性物质,special-cargo,危险品,published
+Class 5.2 Organic Peroxides,第5.2类有机过氧化物,special-cargo,危险品,published
+Class 6.2 Infectious Substances,第6.2类感染性物质,special-cargo,危险品,published
+Class 7 Radioactive Material,第7类放射性物质,special-cargo,危险品,published
+Class 9 Miscellaneous Dangerous Goods,第9类杂项危险物质,special-cargo,危险品,published
+Dangerous Goods Declaration,危险品申报单（DGD）,special-cargo,危险品,published
+EMS Number,危险品应急措施表编号,special-cargo,危险品,published
+DG Container Label,危险品集装箱标牌,special-cargo,危险品,published
+Excepted Quantity,豁免量危险品,special-cargo,危险品,published
+DGR Certified Forwarder,危险品资质货代,special-cargo,危险品,published
+UN Certified Packaging,UN认证危险品包装,special-cargo,危险品,published
+Shanghai Port,上海港,transport,港口码头,published
+Ningbo-Zhoushan Port,宁波舟山港,transport,港口码头,published
+Shenzhen Port,深圳港,transport,港口码头,published
+Qingdao Port,青岛港,transport,港口码头,published
+Guangzhou Port,广州港,transport,港口码头,published
+Tianjin Port,天津港,transport,港口码头,published
+Xiamen Port,厦门港,transport,港口码头,published
+Dalian Port,大连港,transport,港口码头,published
+Yingkou Port,营口港,transport,港口码头,published
+Rizhao Port,日照港,transport,港口码头,published
+Lianyungang Port,连云港港,transport,港口码头,published
+Fuzhou Port,福州港,transport,港口码头,published
+Hong Kong Port,中国香港港,transport,港口码头,published
+Kaohsiung Port,中国台湾高雄港,transport,港口码头,published
+Busan Port,釜山港,transport,港口码头,published
+Incheon Port,仁川港,transport,港口码头,published
+Yokohama Port,横滨港,transport,港口码头,published
+Tokyo Port,东京港,transport,港口码头,published
+Nagoya Port,名古屋港,transport,港口码头,published
+Osaka Port,大阪港,transport,港口码头,published
+Kobe Port,神户港,transport,港口码头,published
+Singapore Port,新加坡港,transport,港口码头,published
+Port Klang,巴生港,transport,港口码头,published
+Tanjung Pelepas Port,丹戎帕拉帕斯港,transport,港口码头,published
+Penang Port,槟城港,transport,港口码头,published
+Laem Chabang Port,林查班港,transport,港口码头,published
+Bangkok Port,曼谷港,transport,港口码头,published
+Ho Chi Minh City Port,胡志明港,transport,港口码头,published
+Haiphong Port,海防港,transport,港口码头,published
+Manila Port,马尼拉港,transport,港口码头,published
+Jakarta Port,雅加达港,transport,港口码头,published
+Surabaya Port,泗水港,transport,港口码头,published
+Colombo Port,科伦坡港,transport,港口码头,published
+Chittagong Port,吉大港,transport,港口码头,published
+Nhava Sheva Port,那瓦西瓦港,transport,港口码头,published
+Mundra Port,蒙德拉港,transport,港口码头,published
+Chennai Port,金奈港,transport,港口码头,published
+Kolkata Port,加尔各答港,transport,港口码头,published
+Karachi Port,卡拉奇港,transport,港口码头,published
+Jebel Ali Port,杰贝阿里港,transport,港口码头,published
+Hamad Port,哈马德港,transport,港口码头,published
+Jeddah Port,吉达港,transport,港口码头,published
+Dammam Port,达曼港,transport,港口码头,published
+Kuwait Port,科威特港,transport,港口码头,published
+Muscat Port,马斯喀特港,transport,港口码头,published
+Rotterdam Port,鹿特丹港,transport,港口码头,published
+Antwerp Port,安特卫普港,transport,港口码头,published
+Hamburg Port,汉堡港,transport,港口码头,published
+Bremerhaven Port,不来梅哈芬港,transport,港口码头,published
+Felixstowe Port,费利克斯托港,transport,港口码头,published
+London Gateway Port,伦敦门户港,transport,港口码头,published
+Southampton Port,南安普顿港,transport,港口码头,published
+Le Havre Port,勒阿弗尔港,transport,港口码头,published
+Marseille Port,马赛港,transport,港口码头,published
+Valencia Port,瓦伦西亚港,transport,港口码头,published
+Algeciras Port,阿尔赫西拉斯港,transport,港口码头,published
+Barcelona Port,巴塞罗那港,transport,港口码头,published
+Bilbao Port,毕尔巴鄂港,transport,港口码头,published
+Genoa Port,热那亚港,transport,港口码头,published
+La Spezia Port,拉斯佩齐亚港,transport,港口码头,published
+Naples Port,那不勒斯港,transport,港口码头,published
+Piraeus Port,比雷埃夫斯港,transport,港口码头,published
+Thessaloniki Port,塞萨洛尼基港,transport,港口码头,published
+Istanbul Port,伊斯坦布尔港,transport,港口码头,published
+Mersin Port,梅尔辛港,transport,港口码头,published
+Constanta Port,康斯坦察港,transport,港口码头,published
+Gdansk Port,格但斯克港,transport,港口码头,published
+Gdynia Port,格丁尼亚港,transport,港口码头,published
+Gothenburg Port,哥德堡港,transport,港口码头,published
+Aarhus Port,奥胡斯港,transport,港口码头,published
+Helsinki Port,赫尔辛基港,transport,港口码头,published
+Riga Port,里加港,transport,港口码头,published
+Klaipeda Port,克莱佩达港,transport,港口码头,published
+Los Angeles Port,洛杉矶港,transport,港口码头,published
+Long Beach Port,长滩港,transport,港口码头,published
+Oakland Port,奥克兰港,transport,港口码头,published
+Seattle Port,西雅图港,transport,港口码头,published
+Tacoma Port,塔科马港,transport,港口码头,published
+Portland Port,波特兰港,transport,港口码头,published
+Vancouver Port,温哥华港,transport,港口码头,published
+Prince Rupert Port,鲁珀特王子港,transport,港口码头,published
+New York New Jersey Port,纽约新泽西港,transport,港口码头,published
+Savannah Port,萨凡纳港,transport,港口码头,published
+Charleston Port,查尔斯顿港,transport,港口码头,published
+Houston Port,休斯敦港,transport,港口码头,published
+Norfolk Port,诺福克港,transport,港口码头,published
 Miami Port,迈阿密港,transport,港口码头,pending
 New Orleans Port,新奥尔良港,transport,港口码头,pending
 Baltimore Port,巴尔的摩港,transport,港口码头,pending
