@@ -1774,106 +1774,106 @@ Bonded Import Mode,保税进口模式,customs,保税监管,published
 Direct Purchase Import,直购进口模式,customs,保税监管,published
 Centralized Procurement,集中采购,trade-terms,采购管理,published
 Buy Rate,采购运价,trade-terms,货代实务,published
-Sell Rate,对外报价,trade-terms,货代实务,pending
-Profit Share,利润分成,trade-terms,货代实务,pending
-Nominated Cargo,指定货,trade-terms,货代实务,pending
-Freehand Cargo,自揽货,trade-terms,货代实务,pending
-Routing Order,路由指令单,trade-terms,货代实务,pending
-Job File,业务档案夹,trade-terms,货代实务,pending
-Outlay,代垫费用,trade-terms,货代实务,pending
-Disbursement Fee,代垫手续费,trade-terms,货代实务,pending
-Agent Commission,代理佣金,trade-terms,货代实务,pending
-Inter-branch Shipment,分公司间调拨,trade-terms,货代实务,pending
-Correspondent Agent,海外互为代理,trade-terms,货代实务,pending
-Agent Cooperation Agreement,代理合作协议,trade-terms,货代实务,pending
-Credit Application,信用开户申请,trade-terms,货代实务,pending
-Invoice Approval,运费账单审批,trade-terms,货代实务,pending
-Short Payment,少付账款,trade-terms,货代实务,pending
-Disputed Charge,费用争议,trade-terms,货代实务,pending
-Refund Request,退费申请,trade-terms,货代实务,pending
-Missing Document,单证缺失,trade-terms,货代实务,pending
-Status Update Request,节点更新请求,trade-terms,货代实务,pending
-Pre-alert Distribution,到货预告分发,trade-terms,货代实务,pending
-Local Charges Quote,目的港费用预估,trade-terms,货代实务,pending
-Warehouse Handling Charge,仓内操作费,trade-terms,货代实务,pending
-Consolidation Booking,集货订舱,trade-terms,货代实务,pending
-Split Booking,拆单订舱,trade-terms,货代实务,pending
-Rollover Booking,舱位顺延,trade-terms,货代实务,pending
-Space Release,放舱,trade-terms,货代实务,pending
-Booking Cancellation,取消订舱,trade-terms,货代实务,pending
-Cancellation Fee,取消订舱费,trade-terms,货代实务,pending
-No-show Fee,缺货违约金,trade-terms,货代实务,pending
-Rollover Fee,舱位顺延费,trade-terms,货代实务,pending
-Back-to-back Booking,背对背订舱,trade-terms,货代实务,pending
-Volume Commitment Review,货量承诺复盘,trade-terms,货代实务,pending
-Sales Pipeline,销售商机管理,trade-terms,货代实务,pending
-Lead Qualification,商机评估,trade-terms,货代实务,pending
-RFP Response,投标响应,trade-terms,货代实务,pending
-Onboarding Process,新客户开户流程,trade-terms,货代实务,pending
-KYC (Know Your Customer),客户尽职调查,trade-terms,货代实务,pending
-Sanctions Check (Customer),客户制裁筛查,trade-terms,货代实务,pending
-Service Level Review,服务水平复盘,trade-terms,货代实务,pending
-Account Review Meeting,客户季度复盘会,trade-terms,货代实务,pending
-Claims Escalation,索赔升级处理,trade-terms,货代实务,pending
-Recovery from Carrier,向承运人追偿,trade-terms,货代实务,pending
-Customer Satisfaction Survey,客户满意度调查,trade-terms,货代实务,pending
-Net Promoter Score,净推荐值,trade-terms,货代实务,pending
-Operational KPI Report,运营 KPI 报告,trade-terms,货代实务,pending
-Shipment Profitability,单票利润分析,trade-terms,货代实务,pending
-Branch Profit Center,分公司利润中心,trade-terms,货代实务,pending
-Cost per Shipment,单票操作成本,trade-terms,货代实务,pending
-Headcount Productivity,人均操作效率,trade-terms,货代实务,pending
-Training and Certification,员工资质培训,trade-terms,货代实务,pending
-Global Account Coordination,全球客户协同,trade-terms,货代实务,pending
-Regional Pricing Strategy,区域定价策略,trade-terms,货代实务,pending
-Market Intelligence,市场行情情报,trade-terms,货代实务,pending
-Freight Market Report,运价市场周报,trade-terms,货代实务,pending
-Peak Season Strategy,旺季运力策略,trade-terms,货代实务,pending
-Contract Renewal,合约续签,trade-terms,货代实务,pending
-Rate Filing Deadline,运价备案截止,trade-terms,货代实务,pending
-Supply Chain Finance,供应链金融,freight-finance,供应链金融,pending
-Reverse Factoring,反向保理,freight-finance,供应链金融,pending
-Dynamic Discounting,动态贴现,freight-finance,供应链金融,pending
-Confirmed Accounts Receivable Financing,确权应收账款融资,freight-finance,供应链金融,pending
-Inventory Financing,存货融资,freight-finance,存货融资,pending
-Warehouse Receipt Financing,仓单质押融资,freight-finance,存货融资,pending
-Stock Pledge Financing,存货质押融资,freight-finance,存货融资,pending
-Spot Pledge Supervision,现货质押监管,freight-finance,存货融资,pending
-Third-party Supervision (Pledge),第三方质押监管,freight-finance,存货融资,pending
-Prepayment Financing,预付款融资,freight-finance,订单融资,pending
-Order Financing,订单融资,freight-finance,订单融资,pending
-Purchase Order Financing,采购订单融资,freight-finance,订单融资,pending
-Accounts Receivable Management,应收账款管理,freight-finance,应收账款,pending
-Receivables Pledge,应收账款质押,freight-finance,应收账款,pending
-Bill Discounting,票据贴现融资,freight-finance,票据业务,pending
-Acceptance Bill,银行承兑汇票,freight-finance,票据业务,pending
-Commercial Acceptance Bill,商业承兑汇票,freight-finance,票据业务,pending
-Export Credit Agency,出口信用机构,freight-finance,出口信贷,pending
-ECA Financing,ECA 出口信贷,freight-finance,出口信贷,pending
-Buyer's Credit,买方信贷,freight-finance,出口信贷,pending
-Supplier's Credit,卖方信贷,freight-finance,出口信贷,pending
-Structured Trade Finance,结构性贸易融资,freight-finance,贸易融资,pending
-Commodity Trade Finance,大宗商品贸易融资,freight-finance,贸易融资,pending
-Commodity Hedging,大宗商品套期保值,freight-finance,大宗商品,pending
-Forward Freight Agreement (FFA),远期运费协议,freight-finance,运价衍生品,pending
-Freight Derivatives Market,运费衍生品市场,freight-finance,运价衍生品,pending
-Bunker Hedging,燃油套期保值,freight-finance,成本对冲,pending
-Foreign Exchange Forward,远期外汇合约,freight-finance,汇率对冲,pending
-Cross-border RMB Settlement,跨境人民币结算,freight-finance,跨境结算,pending
-CIPS,人民币跨境支付系统,freight-finance,跨境结算,pending
-Escrow Account,第三方托管账户,freight-finance,支付保障,pending
-Milestone Payment (Project),项目节点付款,freight-finance,支付方式,pending
-Documentary Credit Financing,信用证融资,freight-finance,贸易融资,pending
-L/C Discounting,信用证贴现,freight-finance,贸易融资,pending
-Silent Confirmation,沉默保兑,freight-finance,贸易融资,pending
-Invoice Financing,发票融资,freight-finance,应收账款,pending
-Aging Report,账龄分析表,freight-finance,应收账款,pending
-Days Sales Outstanding,应收账款周转天数,freight-finance,应收账款,pending
-Bad Debt Provision,坏账准备,freight-finance,应收账款,pending
-Collection Agency,商账追收机构,freight-finance,应收账款,pending
-Export Credit Insurance Limit,信用保险限额,freight-finance,信用保险,pending
-Buyer Credit Limit Application,买方限额申请,freight-finance,信用保险,pending
-Claim under Credit Insurance,信用保险索赔,freight-finance,信用保险,pending
+Sell Rate,对外报价,trade-terms,货代实务,published
+Profit Share,利润分成,trade-terms,货代实务,published
+Nominated Cargo,指定货,trade-terms,货代实务,published
+Freehand Cargo,自揽货,trade-terms,货代实务,published
+Routing Order,路由指令单,trade-terms,货代实务,published
+Job File,业务档案夹,trade-terms,货代实务,published
+Outlay,代垫费用,trade-terms,货代实务,published
+Disbursement Fee,代垫手续费,trade-terms,货代实务,published
+Agent Commission,代理佣金,trade-terms,货代实务,published
+Inter-branch Shipment,分公司间调拨,trade-terms,货代实务,published
+Correspondent Agent,海外互为代理,trade-terms,货代实务,published
+Agent Cooperation Agreement,代理合作协议,trade-terms,货代实务,published
+Credit Application,信用开户申请,trade-terms,货代实务,published
+Invoice Approval,运费账单审批,trade-terms,货代实务,published
+Short Payment,少付账款,trade-terms,货代实务,published
+Disputed Charge,费用争议,trade-terms,货代实务,published
+Refund Request,退费申请,trade-terms,货代实务,published
+Missing Document,单证缺失,trade-terms,货代实务,published
+Status Update Request,节点更新请求,trade-terms,货代实务,published
+Pre-alert Distribution,到货预告分发,trade-terms,货代实务,published
+Local Charges Quote,目的港费用预估,trade-terms,货代实务,published
+Warehouse Handling Charge,仓内操作费,trade-terms,货代实务,published
+Consolidation Booking,集货订舱,trade-terms,货代实务,published
+Split Booking,拆单订舱,trade-terms,货代实务,published
+Rollover Booking,舱位顺延,trade-terms,货代实务,published
+Space Release,放舱,trade-terms,货代实务,published
+Booking Cancellation,取消订舱,trade-terms,货代实务,published
+Cancellation Fee,取消订舱费,trade-terms,货代实务,published
+No-show Fee,缺货违约金,trade-terms,货代实务,published
+Rollover Fee,舱位顺延费,trade-terms,货代实务,published
+Back-to-back Booking,背对背订舱,trade-terms,货代实务,published
+Volume Commitment Review,货量承诺复盘,trade-terms,货代实务,published
+Sales Pipeline,销售商机管理,trade-terms,货代实务,published
+Lead Qualification,商机评估,trade-terms,货代实务,published
+RFP Response,投标响应,trade-terms,货代实务,published
+Onboarding Process,新客户开户流程,trade-terms,货代实务,published
+KYC (Know Your Customer),客户尽职调查,trade-terms,货代实务,published
+Sanctions Check (Customer),客户制裁筛查,trade-terms,货代实务,published
+Service Level Review,服务水平复盘,trade-terms,货代实务,published
+Account Review Meeting,客户季度复盘会,trade-terms,货代实务,published
+Claims Escalation,索赔升级处理,trade-terms,货代实务,published
+Recovery from Carrier,向承运人追偿,trade-terms,货代实务,published
+Customer Satisfaction Survey,客户满意度调查,trade-terms,货代实务,published
+Net Promoter Score,净推荐值,trade-terms,货代实务,published
+Operational KPI Report,运营 KPI 报告,trade-terms,货代实务,published
+Shipment Profitability,单票利润分析,trade-terms,货代实务,published
+Branch Profit Center,分公司利润中心,trade-terms,货代实务,published
+Cost per Shipment,单票操作成本,trade-terms,货代实务,published
+Headcount Productivity,人均操作效率,trade-terms,货代实务,published
+Training and Certification,员工资质培训,trade-terms,货代实务,published
+Global Account Coordination,全球客户协同,trade-terms,货代实务,published
+Regional Pricing Strategy,区域定价策略,trade-terms,货代实务,published
+Market Intelligence,市场行情情报,trade-terms,货代实务,published
+Freight Market Report,运价市场周报,trade-terms,货代实务,published
+Peak Season Strategy,旺季运力策略,trade-terms,货代实务,published
+Contract Renewal,合约续签,trade-terms,货代实务,published
+Rate Filing Deadline,运价备案截止,trade-terms,货代实务,published
+Supply Chain Finance,供应链金融,freight-finance,供应链金融,published
+Reverse Factoring,反向保理,freight-finance,供应链金融,published
+Dynamic Discounting,动态贴现,freight-finance,供应链金融,published
+Confirmed Accounts Receivable Financing,确权应收账款融资,freight-finance,供应链金融,published
+Inventory Financing,存货融资,freight-finance,存货融资,published
+Warehouse Receipt Financing,仓单质押融资,freight-finance,存货融资,published
+Stock Pledge Financing,存货质押融资,freight-finance,存货融资,published
+Spot Pledge Supervision,现货质押监管,freight-finance,存货融资,published
+Third-party Supervision (Pledge),第三方质押监管,freight-finance,存货融资,published
+Prepayment Financing,预付款融资,freight-finance,订单融资,published
+Order Financing,订单融资,freight-finance,订单融资,published
+Purchase Order Financing,采购订单融资,freight-finance,订单融资,published
+Accounts Receivable Management,应收账款管理,freight-finance,应收账款,published
+Receivables Pledge,应收账款质押,freight-finance,应收账款,published
+Bill Discounting,票据贴现融资,freight-finance,票据业务,published
+Acceptance Bill,银行承兑汇票,freight-finance,票据业务,published
+Commercial Acceptance Bill,商业承兑汇票,freight-finance,票据业务,published
+Export Credit Agency,出口信用机构,freight-finance,出口信贷,published
+ECA Financing,ECA 出口信贷,freight-finance,出口信贷,published
+Buyer's Credit,买方信贷,freight-finance,出口信贷,published
+Supplier's Credit,卖方信贷,freight-finance,出口信贷,published
+Structured Trade Finance,结构性贸易融资,freight-finance,贸易融资,published
+Commodity Trade Finance,大宗商品贸易融资,freight-finance,贸易融资,published
+Commodity Hedging,大宗商品套期保值,freight-finance,大宗商品,published
+Forward Freight Agreement (FFA),远期运费协议,freight-finance,运价衍生品,published
+Freight Derivatives Market,运费衍生品市场,freight-finance,运价衍生品,published
+Bunker Hedging,燃油套期保值,freight-finance,成本对冲,published
+Foreign Exchange Forward,远期外汇合约,freight-finance,汇率对冲,published
+Cross-border RMB Settlement,跨境人民币结算,freight-finance,跨境结算,published
+CIPS,人民币跨境支付系统,freight-finance,跨境结算,published
+Escrow Account,第三方托管账户,freight-finance,支付保障,published
+Milestone Payment (Project),项目节点付款,freight-finance,支付方式,published
+Documentary Credit Financing,信用证融资,freight-finance,贸易融资,published
+L/C Discounting,信用证贴现,freight-finance,贸易融资,published
+Silent Confirmation,沉默保兑,freight-finance,贸易融资,published
+Invoice Financing,发票融资,freight-finance,应收账款,published
+Aging Report,账龄分析表,freight-finance,应收账款,published
+Days Sales Outstanding,应收账款周转天数,freight-finance,应收账款,published
+Bad Debt Provision,坏账准备,freight-finance,应收账款,published
+Collection Agency,商账追收机构,freight-finance,应收账款,published
+Export Credit Insurance Limit,信用保险限额,freight-finance,信用保险,published
+Buyer Credit Limit Application,买方限额申请,freight-finance,信用保险,published
+Claim under Credit Insurance,信用保险索赔,freight-finance,信用保险,published
 Ship Mortgage,船舶抵押贷款,freight-finance,航运金融,pending
 Ship Finance,船舶融资,freight-finance,航运金融,pending
 Sale and Leaseback (Vessel),船舶售后回租,freight-finance,航运金融,pending
