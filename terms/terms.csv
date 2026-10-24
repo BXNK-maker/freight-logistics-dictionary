@@ -1674,106 +1674,106 @@ Carbon Tracking Software,碳排放追踪软件,digital-logistics,绿色数字化
 Digital CO2 Dashboard,碳排数据看板,digital-logistics,绿色数字化,published
 Container Load Plan,集装箱装箱单,documents,运输单证,published
 Bay Plan,船舶箱位图,documents,运输单证,published
-Dangerous Goods Manifest,危险品舱单,documents,运输单证,pending
-Reefer Temperature Record,冷箱温度记录单,documents,运输单证,pending
-Vent Setting Record,通风设定记录,documents,运输单证,pending
-OOG Loading Sketch,超限货物装载图,documents,运输单证,pending
-Lashing Certificate,绑扎检验证书,documents,运输单证,pending
-ATR Movement Certificate,欧土 ATR 流转证书,documents,原产地证书,pending
-EUR-MED Statement,欧洲地中海原产地声明,documents,原产地证书,pending
-UK Origin Declaration,英国原产地声明,documents,原产地证书,pending
-Kosher Certificate,犹太洁食认证,documents,资质认证,pending
-Organic Certification,有机产品认证,documents,资质认证,pending
-FSC Certification,森林管理委员会认证,documents,资质认证,pending
-CNAS Test Report,CNAS 检测报告,documents,资质认证,pending
-ISO Certificate Copy,ISO 体系证书副本,documents,资质认证,pending
-Factory Audit Report,验厂报告,documents,资质认证,pending
-SASO Certificate,沙特 SASO 认证,documents,资质认证,pending
-SABER Certificate,沙特 SABER 认证,documents,资质认证,pending
-INMETRO Certification,巴西 INMETRO 认证,documents,资质认证,pending
-BIS Certification (India),印度 BIS 认证,documents,资质认证,pending
-SONCAP Certification,尼日利亚 SONCAP 认证,documents,资质认证,pending
-Non-wood Packaging Declaration,非木质包装声明,documents,检疫单证,pending
-Heat Treatment Certificate,木质包装热处理证书,documents,检疫单证,pending
-CN38 Dispatch Note,邮政大宗交寄路单,documents,邮政单证,pending
-Manifest Amendment Request,舱单修改申请,documents,运输单证,pending
-Import Cargo Release Letter,进口提货介绍信,documents,运输单证,pending
-Customs Inspection Record,海关查验记录单,documents,报关单证,pending
-Inspection Result Notification,查验结果通知,documents,报关单证,pending
-Tax Payment Certificate,海关税款缴款书,documents,报关单证,pending
-Duty Receipt,关税缴款回执,documents,报关单证,pending
-Entry Summary (US 7501),美国 7501 报关摘要单,documents,报关单证,pending
-Carrier Release Letter,船公司放货函,documents,运输单证,pending
-Mutual Release,双方互免声明,documents,理赔单证,pending
-Damage Report,货损报告,documents,理赔单证,pending
-Loss Statement,损失清单,documents,理赔单证,pending
-Claim Settlement Letter,赔付结案函,documents,理赔单证,pending
-Salvage Disposal Report,残值处理报告,documents,理赔单证,pending
-Warehouse Storage Receipt,仓储存货凭证,documents,金融单证,pending
-Electronic Pledge Notice,电子质押通知单,documents,金融单证,pending
-Supervision Report (Pledge),质押监管报告,documents,金融单证,pending
-Vessel Sharing Agreement,舱位共享协议,transport,航运联盟,pending
-Cross Trade,第三国三角航运,trade-terms,货代实务,pending
-Tonnage Tax,船舶吨税制,transport,航运规则,pending
-Ship Agency Network,船代服务网络,transport,船舶代理,pending
-Protective Agent,保护代理,transport,船舶代理,pending
-Port Captain,港口船长,transport,船舶代理,pending
-Tide Window,潮汐作业窗口,transport,港口作业,pending
-Ventilation Management,货舱通风管理,transport,货物照管,pending
-Container Train Slot Booking,班列车板预订,transport,中欧班列,pending
-Platform Wagon,铁路平车,transport,铁路运输,pending
-Known Consignor,已知托运人资质,customs,航空安保,pending
-Regulated Agent,航空安保校验代理,customs,航空安保,pending
-Air Cargo Screening,航空货物安检,customs,航空安保,pending
-Explosive Trace Detection,爆炸物痕量检测,customs,航空安保,pending
-Physical Screening,人工安检作业,customs,航空安保,pending
-Air Cargo Security Regime,航空货运安保体系,customs,航空安保,pending
-Crowdsourced Delivery,众包配送,transport,快递电商,pending
-Gig Delivery Rider,众包配送骑手,transport,快递电商,pending
-Currency Swap,货币互换,freight-finance,汇率对冲,pending
-Import Duty Financing,进口关税融资,freight-finance,贸易融资,pending
-Import VAT Financing,进口环节税融资,freight-finance,贸易融资,pending
-Freight Financing,运费融资,freight-finance,贸易融资,pending
-Dumping Margin,倾销幅度,customs,贸易救济,pending
-Injury Determination,产业损害认定,customs,贸易救济,pending
-Petition (Trade Remedy),产业申诉,customs,贸易救济,pending
-Judicial Review of Customs,海关司法审查,customs,法律救济,pending
-Shipping Bill,印度出口报关单,documents,报关单证,pending
-Bill of Entry (India),印度进口报关单,documents,报关单证,pending
-GSP+ Status,特别普惠制待遇,customs,关税优惠,pending
-Everything But Arms,最不发达国免关税待遇,customs,关税优惠,pending
-FIATA FBL,FIATA 联运提单,documents,运输单证,pending
-Digital Freight Matching,数字运力撮合,transport,数字货运,pending
-Load Board,运力信息交易板,transport,数字货运,pending
-Real-time Rate Benchmarking,运价实时对标,transport,数字货运,pending
-Dynamic Routing,动态路由调整,transport,数字货运,pending
-Delivery Heatmap,配送热力分析,transport,数字货运,pending
-On-time Performance Dashboard,准时率实时看板,transport,数字货运,pending
-Vendor Compliance Manual,供应商合规手册,supply-chain,合规可持续,pending
-Routing Guide,运输操作指南,supply-chain,渠道管理,pending
-Retail Chargeback,零售商物流扣款,supply-chain,渠道管理,pending
-ASN Compliance,ASN 合规要求,supply-chain,渠道管理,pending
-Label Compliance,标签合规要求,supply-chain,渠道管理,pending
-MABD (Must Arrive By Date),最迟到达日期,supply-chain,渠道管理,pending
-Loss of Profit Insurance,利润损失险,insurance-claims,专项保险,pending
-Contingent Business Interruption,供应链中断营业险,insurance-claims,专项保险,pending
-Trade Disruption Insurance,贸易中断保险,insurance-claims,专项保险,pending
-Political Risk Insurance,政治风险保险,insurance-claims,专项保险,pending
-Cyber Insurance,网络安全保险,insurance-claims,责任保险,pending
-Product Liability Insurance,产品责任险,insurance-claims,责任保险,pending
-General Liability Insurance,综合责任险,insurance-claims,责任保险,pending
-Grocery Distribution Center,生鲜配送中心,warehousing,行业仓储,pending
-FMCG Distribution,快消品配送,warehousing,行业仓储,pending
-Apparel Distribution Center,服装配送中心,warehousing,行业仓储,pending
-Hanging Garment System,挂装输送系统,warehousing,行业仓储,pending
-Spare Parts Logistics,备件物流,warehousing,行业仓储,pending
-Aftermarket Logistics,售后配件物流,warehousing,行业仓储,pending
-Automotive Parts Distribution,汽车配件配送,warehousing,行业仓储,pending
-E-commerce Bonded Warehouse,跨境电商保税仓,customs,保税监管,pending
-Bonded Import Mode,保税进口模式,customs,保税监管,pending
-Direct Purchase Import,直购进口模式,customs,保税监管,pending
-Centralized Procurement,集中采购,trade-terms,采购管理,pending
-Buy Rate,采购运价,trade-terms,货代实务,pending
+Dangerous Goods Manifest,危险品舱单,documents,运输单证,published
+Reefer Temperature Record,冷箱温度记录单,documents,运输单证,published
+Vent Setting Record,通风设定记录,documents,运输单证,published
+OOG Loading Sketch,超限货物装载图,documents,运输单证,published
+Lashing Certificate,绑扎检验证书,documents,运输单证,published
+ATR Movement Certificate,欧土 ATR 流转证书,documents,原产地证书,published
+EUR-MED Statement,欧洲地中海原产地声明,documents,原产地证书,published
+UK Origin Declaration,英国原产地声明,documents,原产地证书,published
+Kosher Certificate,犹太洁食认证,documents,资质认证,published
+Organic Certification,有机产品认证,documents,资质认证,published
+FSC Certification,森林管理委员会认证,documents,资质认证,published
+CNAS Test Report,CNAS 检测报告,documents,资质认证,published
+ISO Certificate Copy,ISO 体系证书副本,documents,资质认证,published
+Factory Audit Report,验厂报告,documents,资质认证,published
+SASO Certificate,沙特 SASO 认证,documents,资质认证,published
+SABER Certificate,沙特 SABER 认证,documents,资质认证,published
+INMETRO Certification,巴西 INMETRO 认证,documents,资质认证,published
+BIS Certification (India),印度 BIS 认证,documents,资质认证,published
+SONCAP Certification,尼日利亚 SONCAP 认证,documents,资质认证,published
+Non-wood Packaging Declaration,非木质包装声明,documents,检疫单证,published
+Heat Treatment Certificate,木质包装热处理证书,documents,检疫单证,published
+CN38 Dispatch Note,邮政大宗交寄路单,documents,邮政单证,published
+Manifest Amendment Request,舱单修改申请,documents,运输单证,published
+Import Cargo Release Letter,进口提货介绍信,documents,运输单证,published
+Customs Inspection Record,海关查验记录单,documents,报关单证,published
+Inspection Result Notification,查验结果通知,documents,报关单证,published
+Tax Payment Certificate,海关税款缴款书,documents,报关单证,published
+Duty Receipt,关税缴款回执,documents,报关单证,published
+Entry Summary (US 7501),美国 7501 报关摘要单,documents,报关单证,published
+Carrier Release Letter,船公司放货函,documents,运输单证,published
+Mutual Release,双方互免声明,documents,理赔单证,published
+Damage Report,货损报告,documents,理赔单证,published
+Loss Statement,损失清单,documents,理赔单证,published
+Claim Settlement Letter,赔付结案函,documents,理赔单证,published
+Salvage Disposal Report,残值处理报告,documents,理赔单证,published
+Warehouse Storage Receipt,仓储存货凭证,documents,金融单证,published
+Electronic Pledge Notice,电子质押通知单,documents,金融单证,published
+Supervision Report (Pledge),质押监管报告,documents,金融单证,published
+Vessel Sharing Agreement,舱位共享协议,transport,航运联盟,published
+Cross Trade,第三国三角航运,trade-terms,货代实务,published
+Tonnage Tax,船舶吨税制,transport,航运规则,published
+Ship Agency Network,船代服务网络,transport,船舶代理,published
+Protective Agent,保护代理,transport,船舶代理,published
+Port Captain,港口船长,transport,船舶代理,published
+Tide Window,潮汐作业窗口,transport,港口作业,published
+Ventilation Management,货舱通风管理,transport,货物照管,published
+Container Train Slot Booking,班列车板预订,transport,中欧班列,published
+Platform Wagon,铁路平车,transport,铁路运输,published
+Known Consignor,已知托运人资质,customs,航空安保,published
+Regulated Agent,航空安保校验代理,customs,航空安保,published
+Air Cargo Screening,航空货物安检,customs,航空安保,published
+Explosive Trace Detection,爆炸物痕量检测,customs,航空安保,published
+Physical Screening,人工安检作业,customs,航空安保,published
+Air Cargo Security Regime,航空货运安保体系,customs,航空安保,published
+Crowdsourced Delivery,众包配送,transport,快递电商,published
+Gig Delivery Rider,众包配送骑手,transport,快递电商,published
+Currency Swap,货币互换,freight-finance,汇率对冲,published
+Import Duty Financing,进口关税融资,freight-finance,贸易融资,published
+Import VAT Financing,进口环节税融资,freight-finance,贸易融资,published
+Freight Financing,运费融资,freight-finance,贸易融资,published
+Dumping Margin,倾销幅度,customs,贸易救济,published
+Injury Determination,产业损害认定,customs,贸易救济,published
+Petition (Trade Remedy),产业申诉,customs,贸易救济,published
+Judicial Review of Customs,海关司法审查,customs,法律救济,published
+Shipping Bill,印度出口报关单,documents,报关单证,published
+Bill of Entry (India),印度进口报关单,documents,报关单证,published
+GSP+ Status,特别普惠制待遇,customs,关税优惠,published
+Everything But Arms,最不发达国免关税待遇,customs,关税优惠,published
+FIATA FBL,FIATA 联运提单,documents,运输单证,published
+Digital Freight Matching,数字运力撮合,transport,数字货运,published
+Load Board,运力信息交易板,transport,数字货运,published
+Real-time Rate Benchmarking,运价实时对标,transport,数字货运,published
+Dynamic Routing,动态路由调整,transport,数字货运,published
+Delivery Heatmap,配送热力分析,transport,数字货运,published
+On-time Performance Dashboard,准时率实时看板,transport,数字货运,published
+Vendor Compliance Manual,供应商合规手册,supply-chain,合规可持续,published
+Routing Guide,运输操作指南,supply-chain,渠道管理,published
+Retail Chargeback,零售商物流扣款,supply-chain,渠道管理,published
+ASN Compliance,ASN 合规要求,supply-chain,渠道管理,published
+Label Compliance,标签合规要求,supply-chain,渠道管理,published
+MABD (Must Arrive By Date),最迟到达日期,supply-chain,渠道管理,published
+Loss of Profit Insurance,利润损失险,insurance-claims,专项保险,published
+Contingent Business Interruption,供应链中断营业险,insurance-claims,专项保险,published
+Trade Disruption Insurance,贸易中断保险,insurance-claims,专项保险,published
+Political Risk Insurance,政治风险保险,insurance-claims,专项保险,published
+Cyber Insurance,网络安全保险,insurance-claims,责任保险,published
+Product Liability Insurance,产品责任险,insurance-claims,责任保险,published
+General Liability Insurance,综合责任险,insurance-claims,责任保险,published
+Grocery Distribution Center,生鲜配送中心,warehousing,行业仓储,published
+FMCG Distribution,快消品配送,warehousing,行业仓储,published
+Apparel Distribution Center,服装配送中心,warehousing,行业仓储,published
+Hanging Garment System,挂装输送系统,warehousing,行业仓储,published
+Spare Parts Logistics,备件物流,warehousing,行业仓储,published
+Aftermarket Logistics,售后配件物流,warehousing,行业仓储,published
+Automotive Parts Distribution,汽车配件配送,warehousing,行业仓储,published
+E-commerce Bonded Warehouse,跨境电商保税仓,customs,保税监管,published
+Bonded Import Mode,保税进口模式,customs,保税监管,published
+Direct Purchase Import,直购进口模式,customs,保税监管,published
+Centralized Procurement,集中采购,trade-terms,采购管理,published
+Buy Rate,采购运价,trade-terms,货代实务,published
 Sell Rate,对外报价,trade-terms,货代实务,pending
 Profit Share,利润分成,trade-terms,货代实务,pending
 Nominated Cargo,指定货,trade-terms,货代实务,pending
