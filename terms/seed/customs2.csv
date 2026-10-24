@@ -1,0 +1,78 @@
+﻿term_en,term_zh,category,subcategory
+Export Supervision Warehouse,出口监管仓库,customs,保税监管
+Bonded Logistics Park (Type B),保税物流中心（B型）,customs,保税监管
+Bonded Repair,保税维修,customs,保税监管
+Bonded R&D,保税研发,customs,保税监管
+Bonded Exhibition,保税展示交易,customs,保税监管
+Consolidated Tax Payment,汇总征税,customs,税款征管
+Direct Discharge at Berth,船边直提,customs,通关便利化
+Direct Loading on Arrival,抵港直装,customs,通关便利化
+Advance Declaration,提前申报,customs,通关便利化
+Integrated Clearance,全国通关一体化,customs,通关便利化
+Local Declaration Port Release,属地申报口岸验放,customs,通关便利化
+Self-declared Self-paid,自报自缴,customs,通关便利化
+Duty Recovery,关税追征,customs,税款征管
+Recovery Period,追征期限,customs,税款征管
+Supplementary Payment Decision,补税决定,customs,税款征管
+Administrative Reconsideration,海关行政复议,customs,法律救济
+Customs Administrative Litigation,海关行政诉讼,customs,法律救济
+HS 2022 Version,HS 目录 2022 版,customs,商品归类
+WCO HS Committee,WCO 协调制度委员会,customs,商品归类
+ACAS (Air Cargo Advance Screening),美国空运货物预审,customs,舱单预审
+PLACI (Pre-loading Advance Cargo Information),欧盟装货前货物信息预审,customs,舱单预审
+CDS (Customs Declaration Service),英国海关申报服务,customs,申报系统
+Tariff Quota Allocation,关税配额分配,customs,配额管理
+Exclusion Request (US 301),美国301排除申请,customs,贸易救济
+Exclusion List,关税排除清单,customs,贸易救济
+Single Consumption Standard,加工贸易单耗标准,customs,加工贸易
+Deep Processing Carry-over,深加工结转,customs,加工贸易
+Bonded Goods Transfer,保税货物结转,customs,加工贸易
+Immediate Transportation (US IT),美国保税立即运输,customs,美国制度
+In-bond Shipment,保税转运,customs,美国制度
+Foreign Trade Zone Status,美国对外贸易区状态,customs,美国制度
+Weekly Entry,每周合并申报,customs,美国制度
+Continuous Bond,美国年度关税保函,customs,美国制度
+Single Transaction Bond,美国单次交易保函,customs,美国制度
+Surety Company,担保公司,customs,美国制度
+Section 321,美国321条小额免税,customs,美国制度
+Import Permit (Automatic),自动进口许可证,customs,许可证管理
+Ozone Depleting Substances,消耗臭氧层物质管理,customs,环保合规
+F-gas Regulation,欧盟含氟气体法规,customs,环保合规
+POPs Regulation,持久性有机污染物法规,customs,环保合规
+Duty Suspension,关税中止,customs,税款征管
+Temporary Export,暂准出口,customs,暂准通关
+Repair and Return Declaration,维修物品报关,customs,暂准通关
+Warranty Replacement Import,保修件免税进口,customs,暂准通关
+Sample Import (NCV),无商业价值样品进口,customs,暂准通关
+Deemed Export Rule,视同出口规则,customs,出口管制
+Export Administration Regulations,美国出口管制条例,customs,出口管制
+ITAR,美国国际武器贸易条例,customs,出口管制
+Wassenaar Arrangement,瓦森纳安排,customs,出口管制
+Economic Sanctions,经济制裁,customs,制裁合规
+Sectoral Sanctions,行业制裁,customs,制裁合规
+SDN List,特别指定国民清单,customs,制裁合规
+Sanctions Exemption License,制裁豁免许可,customs,制裁合规
+Trade-based Money Laundering,贸易洗钱,customs,金融合规
+Over-invoicing,高报价格,customs,金融合规
+Split Shipment Clearance,分批报关,customs,申报方式
+Consolidated Declaration,归并申报,customs,申报方式
+Import Rights Record,进口收货人备案,customs,企业资质
+Customs Registration Renewal,报关单位续期,customs,企业资质
+China Customs Credit Rating Levels,中国海关信用等级（高级认证）,customs,企业信用
+Duty Payment Direct Debit,关税三方协议扣款,customs,税款征管
+Electronic Tax Payment Voucher,电子缴款凭证,customs,税款征管
+Origin Marking Requirement,原产地标记要求,customs,原产地
+Quota Certificate,配额证明文件,customs,配额管理
+Tariff-rate Quota Import License,关税配额进口许可证,customs,配额管理
+RCEP Accumulation Rule,RCEP 累积规则,customs,原产地
+Back-to-back Origin Certificate,背对背原产地证明,customs,原产地
+Certified Origin Data Exchange,原产地电子信息交换,customs,原产地
+Sensitive Goods List,敏感商品清单,customs,监管证件
+Regulatory License,监管证件管理,customs,监管证件
+Two-stage Permit Check,两用物项双向核查,customs,出口管制
+Free Trade Agreement Utilization,自贸协定利用率,customs,原产地
+Transit Bond Guarantee,转关担保,customs,转关运输
+Customs Escort Supervision,海关押运监管,customs,转关运输
+Bonded Balance Period,保税核销周期,customs,保税监管
+Verification Deadline Extension,手册延期,customs,保税监管
+Goods Under Supervision Loss,监管货物灭失处理,customs,保税监管

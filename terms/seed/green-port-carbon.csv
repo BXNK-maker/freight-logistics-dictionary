@@ -1,0 +1,48 @@
+﻿term_en,term_zh,category,subcategory
+Twin Lift,双箱并吊,transport,码头作业
+Dual Move Operation,双循环吊装作业,transport,码头作业
+Port AGV,港区自动导引车,transport,码头作业
+OCR Gate System,智能闸口识别系统,transport,码头作业
+Pre-gate,预闸口申报,transport,码头作业
+Truck Turn Time,卡车周转时间,transport,码头作业
+Container Dwell Time,集装箱堆存时间,transport,码头作业
+Yard Density,堆场密度,transport,码头作业
+Re-handle,翻倒作业,transport,码头作业
+Berth Productivity,泊位作业效率,transport,码头作业
+Moves per Hour,每小时作业箱量,transport,码头作业
+Crane Productivity,桥吊作业效率,transport,码头作业
+Vessel Productivity,船舶在泊效率,transport,码头作业
+Night Shift Operation,码头夜班作业,transport,码头作业
+Hatch Cover,货舱舱盖,transport,船舶结构
+Cargo Gear,船舶起重设备,transport,船舶结构
+Cell Guide System,箱格导轨系统,transport,船舶结构
+Lashing Bridge,绑扎桥,transport,船舶结构
+Gangway,舷梯,transport,船舶结构
+Mooring Winch,系泊绞车,transport,船舶结构
+Ship-to-shore Power Connection,船舶岸电连接,transport,绿色港口
+Onshore Power Supply,岸基供电,transport,绿色港口
+Green Port Certification,绿色港口认证,transport,绿色港口
+Biofuel B24,B24 生物燃料,transport,绿色燃料
+Biofuel B30,B30 生物燃料,transport,绿色燃料
+Green Methanol,绿色甲醇燃料,transport,绿色燃料
+Ammonia Fuel,氨燃料,transport,绿色燃料
+LNG Dual Fuel,LNG 双燃料动力,transport,绿色燃料
+Wind-assisted Propulsion,风帆助推系统,transport,绿色燃料
+Rotor Sail,旋筒风帆,transport,绿色燃料
+FuelEU Maritime,欧盟航运燃料法规,transport,绿色法规
+EU Taxonomy Shipping,欧盟分类法航运标准,transport,绿色法规
+Carbon Insetting,运输链内碳减排,transport,碳管理
+Carbon Offset (Freight),货运碳抵消,transport,碳管理
+Carbon Neutral Shipping,碳中和运输服务,transport,碳管理
+ISO 14083,运输链温室气体量化标准,transport,碳管理
+GLEC Framework,全球物流排放核算框架,transport,碳管理
+Smart Freight Centre,智能货运中心,transport,碳管理
+Emission Factor,排放因子,transport,碳管理
+Well-to-wheel Emission,全生命周期排放,transport,碳管理
+Modal Shift Carbon Saving,运输结构调整减碳,transport,碳管理
+Route Optimization Carbon Saving,路径优化降碳,transport,碳管理
+Load Factor Improvement,装载率提升减碳,transport,碳管理
+Packaging Reduction,包装减量化,warehousing,绿色仓储
+Recyclable Packaging,可回收包装,warehousing,绿色仓储
+Reusable Container System,循环周转箱体系,warehousing,绿色仓储
+Deposit and Return Scheme,押金返还制度,warehousing,绿色仓储

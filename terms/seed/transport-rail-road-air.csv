@@ -1,0 +1,73 @@
+﻿term_en,term_zh,category,subcategory
+Standard Gauge,标准轨距,transport,铁路运输
+Broad Gauge,宽轨,transport,铁路运输
+Gauge Transshipment,轨距换装,transport,铁路运输
+Bogie Exchange,转向架更换,transport,铁路运输
+Alashankou Port,阿拉山口口岸,transport,铁路口岸
+Khorgos Port,霍尔果斯口岸,transport,铁路口岸
+Erenhot Port,二连浩特口岸,transport,铁路口岸
+Manzhouli Port,满洲里口岸,transport,铁路口岸
+Suifenhe Port,绥芬河口岸,transport,铁路口岸
+Pingxiang Port,凭祥口岸,transport,铁路口岸
+Dostyk Station,多斯特克换装站,transport,铁路口岸
+Altynkol Station,阿腾科里换装站,transport,铁路口岸
+Malaszewicze Terminal,马拉舍维奇场站,transport,铁路枢纽
+Brest Station,布列斯特换装站,transport,铁路枢纽
+Middle Corridor,跨里海中间走廊,transport,国际走廊
+Trans-Caspian Route,跨里海国际运输路线,transport,国际走廊
+Trans-Siberian Railway,西伯利亚大铁路,transport,国际走廊
+Eastern Land-Sea Corridor,西部陆海新通道,transport,国际走廊
+Chongqing-Xinjiang-Europe Express,渝新欧班列,transport,中欧班列
+Xi'an-Europe Express (Chang'an),长安号班列,transport,中欧班列
+Yiwu-Europe Express,义新欧班列,transport,中欧班列
+CIM Convention,国际铁路货物运输公约,transport,铁路规则
+CIM/SMGS Consignment Note,国际铁路统一运单,transport,铁路单证
+Rail Tariff,铁路运价,transport,铁路规则
+Rail Container Center,铁路集装箱中心站,transport,铁路枢纽
+Rail Ramp,驮背装卸站,transport,铁路运输
+Pocket Wagon,袋式驮背车,transport,铁路运输
+Modal Shift,运输方式转移,transport,多式联运
+Combined Transport Directive,欧盟多式联运指令,transport,多式联运
+Sea-rail Intermodal,海铁联运,transport,多式联运
+Rail Ferry,火车轮渡,transport,铁路运输
+e-CMR,电子公路运单,transport,公路运输
+TIR Carnet,TIR 运输证,transport,公路运输
+TIR Guarantee Chain,TIR 国际担保链,transport,公路运输
+Driver Hours Rules,欧盟驾驶时间规则,transport,公路运输
+Tachograph,数字行车记录仪,transport,公路运输
+Bonded Air Trucking,航空卡班（空陆联运）,transport,多式联运
+GSA (General Sales Agent),货运销售总代理,transport,空运代理
+GSSA (General Sales and Service Agent),全球销售服务总代理,transport,空运代理
+Ground Handling Agent,机场地面服务代理,transport,空运操作
+Ramp Handling,机坪装卸操作,transport,空运操作
+Cargo Terminal Operator,航空货站运营人,transport,空运操作
+Cargo Build-up,集装板组装,transport,空运操作
+Breakdown (Air Cargo),集装板拆卸,transport,空运操作
+Cargo Acceptance,航空货物收运检查,transport,空运操作
+DGR Acceptance,危险品收运审核,transport,空运操作
+NOTOC,危险品机长通知单,transport,空运单证
+Load Sheet,载重平衡表,transport,空运操作
+Weight and Balance,飞机载重配平,transport,空运操作
+FWB Message,FWB 主运单电子报文,transport,空运报文
+FHL Message,FHL 分运单电子报文,transport,空运报文
+Scale Weight,实际过磅重量,transport,空运操作
+Air Cargo Transfer,空运转运,transport,空运操作
+ULD Pallet Net,集装板网套,transport,空运集装器
+PMC Pallet,PMC 标准集装板,transport,空运集装器
+AKE Container,AKE 航空集装箱,transport,空运集装器
+AMA Container,AMA 大型航空集装箱,transport,空运集装器
+Envirotainer,Envirotainer 主动温控集装器,transport,空运集装器
+Active Temperature Container,主动制冷航空集装器,transport,空运集装器
+Cold Dolly,温控拖车,transport,空运集装器
+ULD Repair,集装器维修,transport,空运集装器
+ULD Storage Fee,集装器滞留费,transport,空运集装器
+Air Cargo Terminal Handling Charge,航空货站操作费,transport,空运费用
+Courier Terminal Handling,快件中心操作,transport,空运操作
+Multi-axle Trailer,多轴线液压板车,transport,公路运输
+Pilot Car,超限引导车,transport,公路运输
+Road Permit (Overweight),公路超限运输许可,transport,公路运输
+Bridge Weight Check,桥梁承重核验,transport,公路运输
+Border Crossing Queue,口岸跨境排队,transport,公路运输
+Container Road Haulage,集装箱公路拖运,transport,公路运输
+Dedicated Fleet,专车运力,transport,公路运输
+Shared Truckload,共享整车运输,transport,公路运输

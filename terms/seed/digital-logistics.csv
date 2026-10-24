@@ -1,0 +1,89 @@
+﻿term_en,term_zh,category,subcategory
+API Integration,物流系统 API 对接,digital-logistics,系统集成
+Webhook Notification,Webhook 事件推送,digital-logistics,系统集成
+SaaS TMS,云端运输管理系统,digital-logistics,物流软件
+CargoWise,CargoWise 货代操作系统,digital-logistics,物流软件
+EDI VAN,EDI 增值网络,digital-logistics,EDI 电子数据交换
+AS2 Protocol,AS2 传输协议,digital-logistics,EDI 电子数据交换
+EDI 856 Message,EDI 856 发货通知报文,digital-logistics,EDI 电子数据交换
+EDIFACT COPRAR,EDIFACT 装载指令报文,digital-logistics,EDI 电子数据交换
+EDIFACT COPARN,EDIFACT 集装箱通报报文,digital-logistics,EDI 电子数据交换
+EDIFACT VERMAS,EDIFACT VGM 申报报文,digital-logistics,EDI 电子数据交换
+CargoIMP,航空货运信息交换标准,digital-logistics,航空信息化
+Instant Quotation,在线即时报价,digital-logistics,线上订舱
+e-Booking,电子订舱,digital-logistics,线上订舱
+Rate Management System,运价管理系统,digital-logistics,运价管理
+Tender Platform,运价招标平台,digital-logistics,运价管理
+Freight Rate Index API,运价指数数据接口,digital-logistics,运价管理
+Control Tower (Logistics),物流控制塔,digital-logistics,可视化
+Real-time Visibility Platform,实时可视化平台,digital-logistics,可视化
+Predictive ETA,预测到达时间,digital-logistics,可视化
+Machine Learning ETA,机器学习到货预测,digital-logistics,可视化
+Exception Management System,异常事件管理系统,digital-logistics,可视化
+GPS Tracking,GPS 定位追踪,digital-logistics,在途监控
+Geofencing,电子围栏,digital-logistics,在途监控
+Telematics,车载远程信息处理,digital-logistics,在途监控
+Fleet Management System,车队管理系统,digital-logistics,在途监控
+Electronic Logging Device,电子行车记录仪,digital-logistics,在途监控
+Temperature Monitoring Platform,温度在线监控平台,digital-logistics,在途监控
+Shock and Tilt Sensor,震动倾角传感器,digital-logistics,在途监控
+Door Sensor Monitoring,开关门监测,digital-logistics,在途监控
+OCR (Optical Character Recognition),光学字符识别,digital-logistics,智能技术
+RPA (Robotic Process Automation),机器人流程自动化,digital-logistics,智能技术
+AI Document Processing,AI 单证识别处理,digital-logistics,智能技术
+Intelligent Customer Service,智能客服,digital-logistics,智能技术
+Predictive Analytics in Logistics,物流预测性分析,digital-logistics,智能技术
+Big Data in Logistics,物流大数据,digital-logistics,智能技术
+Blockchain in Logistics,区块链物流应用,digital-logistics,智能技术
+Smart Contract (Logistics),智能合约,digital-logistics,智能技术
+Blockchain B/L Platform,区块链提单平台,digital-logistics,电子提单
+Bolero,Bolero 电子提单平台,digital-logistics,电子提单
+essDOCS,essDOCS 电子单证平台,digital-logistics,电子提单
+CargoX,CargoX 区块链提单,digital-logistics,电子提单
+MLETR,电子可转让记录示范法,digital-logistics,法律框架
+Electronic Trade Documents Act,英国电子贸易文件法,digital-logistics,法律框架
+e-DO (Electronic Delivery Order),电子提货单,digital-logistics,电子单证
+e-Release,电子放货,digital-logistics,电子单证
+Digital Handover,数字交单,digital-logistics,电子单证
+Port Community System,港口社区系统,digital-logistics,口岸数字化
+Digital Customs Declaration Platform,数字化报关平台,digital-logistics,口岸数字化
+e-POD,电子签收凭证,digital-logistics,电子单证
+Mobile Proof of Delivery App,移动端签收应用,digital-logistics,电子单证
+SSCC (Serial Shipping Container Code),系列货运包装箱代码,digital-logistics,编码标准
+GTIN,全球贸易项目代码,digital-logistics,编码标准
+GLN,全球位置码,digital-logistics,编码标准
+EPCIS,产品电子代码信息服务标准,digital-logistics,编码标准
+EDI 214 Message,EDI 214 运输状态报文,digital-logistics,EDI 电子数据交换
+EDI 210 Message,EDI 210 运费发票报文,digital-logistics,EDI 电子数据交换
+INTTRA,INTTRA 订舱平台,digital-logistics,平台生态
+Cargo Community System,货运社区系统,digital-logistics,平台生态
+Online Track and Trace Portal,在线轨迹查询门户,digital-logistics,可视化
+Customer Portal,客户自助门户,digital-logistics,线上订舱
+Freight Audit Software,运费审计软件,digital-logistics,运价管理
+Freight Payment Platform,运费支付平台,digital-logistics,运价管理
+Digital Logistics Startup,数字货运初创企业,digital-logistics,行业趋势
+Platform Economy in Logistics,物流平台经济,digital-logistics,行业趋势
+Data Standardization in Logistics,物流数据标准化,digital-logistics,标准组织
+Master Data Management,主数据管理,digital-logistics,数据治理
+Data Quality in Logistics,物流数据质量,digital-logistics,数据治理
+Cybersecurity in Supply Chain,供应链网络安全,digital-logistics,数据安全
+GDPR Compliance in Logistics,物流场景 GDPR 合规,digital-logistics,数据安全
+Cloud-based WMS,云端仓库管理系统,digital-logistics,物流软件
+Warehouse Execution System,仓库执行系统,digital-logistics,物流软件
+Robotics Process in Warehouse,仓库机器人流程,digital-logistics,智能技术
+Drone Surveillance in Yard,场院无人机巡检,digital-logistics,智能技术
+5G in Ports,港口 5G 应用,digital-logistics,智慧港口
+Smart Port,智慧港口,digital-logistics,智慧港口
+Automated Terminal,自动化码头,digital-logistics,智慧港口
+Remote Crane Operation,桥吊远程操控,digital-logistics,智慧港口
+Digital Yard Management,数字化场院管理,digital-logistics,智慧港口
+e-VGM,电子 VGM 申报,digital-logistics,电子单证
+e-Manifest,电子舱单申报,digital-logistics,电子单证
+Single Submission,一次申报多方共享,digital-logistics,口岸数字化
+Trade Data Pipeline,贸易数据管道,digital-logistics,数据治理
+Logistics Data Monetization,物流数据资产化,digital-logistics,行业趋势
+Digital Twin Port,港口数字孪生,digital-logistics,智慧港口
+AI Route Planning,智能路径规划,digital-logistics,智能技术
+Dynamic Pricing (Logistics),物流动态定价,digital-logistics,行业趋势
+Carbon Tracking Software,碳排放追踪软件,digital-logistics,绿色数字化
+Digital CO2 Dashboard,碳排数据看板,digital-logistics,绿色数字化

@@ -1,0 +1,63 @@
+﻿term_en,term_zh,category,subcategory
+AQL 2.5 Level,AQL 2.5 抽检水平,trade-terms,质量检验
+Critical Defect,致命缺陷,trade-terms,质量检验
+Major Defect,主要缺陷,trade-terms,质量检验
+Minor Defect,次要缺陷,trade-terms,质量检验
+IQC (Incoming Quality Control),来料质量检验,trade-terms,质量检验
+IPQC (In-process Quality Control),制程质量检验,trade-terms,质量检验
+FQC (Final Quality Control),成品质量检验,trade-terms,质量检验
+OQC (Outgoing Quality Control),出货质量检验,trade-terms,质量检验
+ISO 2859 Sampling Standard,ISO 2859 抽样标准,trade-terms,质量检验
+GB/T 2828 Sampling,GB/T 2828 抽样标准,trade-terms,质量检验
+Inspection Plan,检验计划,trade-terms,质量检验
+Random Sampling,随机抽样,trade-terms,质量检验
+Defect Rate Analysis,缺陷率分析,trade-terms,质量检验
+8D Report,8D 问题解决报告,trade-terms,质量检验
+Root Cause Analysis,根本原因分析,trade-terms,质量检验
+Corrective and Preventive Action,纠正与预防措施,trade-terms,质量检验
+Retest and Re-inspection,复检与重新检验,trade-terms,质量检验
+SVHC Testing,高关注度物质检测,trade-terms,产品合规
+Prop 65 Testing,加州 65 号提案检测,trade-terms,产品合规
+Physical Performance Test,物理性能测试,trade-terms,质量检验
+Color Difference Check,色差检验,trade-terms,质量检验
+Functional Test,功能测试,trade-terms,质量检验
+Safety Test,安全测试,trade-terms,质量检验
+Ageing Test,老化测试,trade-terms,质量检验
+Salt Spray Test,盐雾测试,trade-terms,质量检验
+Compliance Screening Software,合规筛查软件,customs,合规管理
+Voluntary Self-disclosure (US),美国主动披露制度,customs,合规管理
+Prior Disclosure,事先披露,customs,合规管理
+Penalty Mitigation,处罚减轻情节,customs,合规管理
+Reasonable Care Standard,合理注意原则,customs,合规管理
+Informed Compliance,知情合规理念,customs,合规管理
+Recordkeeping Requirement,记录保存要求,customs,合规管理
+Five-year Record Retention,五年记录保存期,customs,合规管理
+Trade Preference Verification,优惠贸易待遇核查,customs,合规管理
+Restricted Party List,受限方名单,customs,合规管理
+Compliance Training,贸易合规培训,customs,合规管理
+Internal Audit (Compliance),合规内审,customs,合规管理
+Supplier Development,供应商培育,trade-terms,采购管理
+Supplier Onboarding,供应商准入,trade-terms,采购管理
+Approved Supplier List,合格供应商名录,trade-terms,采购管理
+Supplier Portal,供应商协同门户,trade-terms,采购管理
+e-Sourcing,电子化寻源,trade-terms,采购管理
+Reverse Auction,反向拍卖,trade-terms,采购管理
+Cost Breakdown,成本分解表,trade-terms,采购管理
+Should-cost Analysis,应然成本分析,trade-terms,采购管理
+Capacity Reservation,产能预订,trade-terms,采购管理
+Early Payment Discount,早付折扣,trade-terms,采购管理
+Late Payment Interest,逾期付款利息,trade-terms,采购管理
+Low-cost Country Sourcing,低成本国家采购,trade-terms,采购管理
+Supplier Risk Score,供应商风险评分,trade-terms,采购管理
+Financial Health Check,供应商财务健康核查,trade-terms,采购管理
+Raw Material Index Linkage,原材料价格指数联动,trade-terms,采购管理
+Spot Buy,现货采购,trade-terms,采购管理
+Vendor Hub,供应商集货仓,trade-terms,采购管理
+Payment Cycle,付款周期,trade-terms,采购管理
+Category Management,品类管理,trade-terms,采购管理
+Spend Analysis,支出分析,trade-terms,采购管理
+e-Procurement System,电子采购系统,trade-terms,采购管理
+Blanket Order,一揽子订单,trade-terms,采购管理
+Call-off Order,按需呼叫订单,trade-terms,采购管理
+Scheduling Agreement,计划协议,trade-terms,采购管理
+Consumption-based Billing,按耗用开票,trade-terms,采购管理

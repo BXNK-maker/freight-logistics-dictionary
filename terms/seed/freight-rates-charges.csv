@@ -1,0 +1,60 @@
+﻿term_en,term_zh,category,subcategory
+FAK (Freight All Kinds),均一运价,transport,海运费率
+Rate Restoration Charge,运价恢复费,transport,海运费率
+ODF (Origin Documentation Fee),起运港单证费,transport,海运费率
+OTHC,起运港码头操作费,transport,海运费率
+DTHC,目的港码头操作费,transport,海运费率
+Destination Documentation Fee,目的港单证费,transport,海运费率
+ISF Filing Fee,ISF 申报费,transport,海运费率
+AMS Filing Fee,AMS 申报费,transport,海运费率
+ENS Filing Fee,ENS 申报费,transport,海运费率
+ACAS Filing Fee,ACAS 申报费,transport,海运费率
+Late VGM Fee,补报 VGM 费用,transport,海运费率
+Late SI Fee,补交托书费用,transport,海运费率
+MQC (Minimum Quantity Commitment),最低货量承诺,transport,海运费率
+NRA (Negotiated Rate Agreement),美国协议运价备案,transport,海运费率
+FMC Bond,美国联邦海事委员会保证金,transport,海运费率
+OTI License,美国海运中介营业执照,transport,海运费率
+PierPass Fee,美西 PierPASS 费用,transport,海运费率
+Chassis Usage Fee,底盘车使用费,transport,海运费率
+Drop and Pick,甩箱再提作业费,transport,海运费率
+Tri-axle Surcharge,三轴车附加费,transport,海运费率
+Overweight Permit Fee,超重许可办理费,transport,海运费率
+EMF (Equipment Management Fee),设备管理费,transport,海运费率
+Long Stay Fee,超期停箱费,transport,海运费率
+Reefer Surcharge,冷藏箱附加费,transport,海运费率
+Plug-in Fee,冷箱插电费,transport,海运费率
+Reefer Monitoring Fee,冷箱温度监控费,transport,海运费率
+DGD Handling Fee,危险品申报操作费,transport,海运费率
+DG Screening Fee,危险品审核费,transport,海运费率
+Gas Measurement Fee,罐箱测气费,transport,海运费率
+Tank Cleaning Fee,罐箱清洗费,transport,海运费率
+Damage Survey Fee,验箱估价费,transport,海运费率
+OOG Survey Fee,超限货物勘验费,transport,海运费率
+Lashing Fee,绑扎加固费,transport,海运费率
+Heavy Lift Surcharge,超重附加费,transport,海运费率
+Long Length Surcharge,超长附加费,transport,海运费率
+OOG Handling Fee,超限操作费,transport,海运费率
+Container Inspection Fee,集装箱检验费,transport,海运费率
+Customs Inspection Fee (Ocean),海运查验代理费,transport,海运费率
+Demurrage Waiver,滞期费减免,transport,海运费率
+Detention Waiver,滞箱费减免,transport,海运费率
+Free Time Extension,免堆期延长,transport,海运费率
+Rate Validity,运价有效期,transport,海运费率
+Quote Expiry,报价到期,transport,海运费率
+Surcharge Cap,附加费封顶条款,transport,海运费率
+All-in Quotation,全包一口价,transport,海运费率
+Base Rate,基础运价,transport,海运费率
+Bunker Adjustment Review,燃油附加费调整机制,transport,海运费率
+Fuel Index Linked Clause,燃油指数联动条款,transport,海运费率
+Currency Surcharge Clause,汇率附加费条款,transport,海运费率
+Terminal Handling Rate,码头操作费率,transport,海运费率
+Local Charges Estimate,目的港费用预估单,transport,海运费率
+Disbursement Account,代垫账单,transport,海运费率
+Invoicing Currency,开票货币,transport,海运费率
+Tax Invoice (Freight),运费增值税发票,transport,海运费率
+E-banking Payment (Freight),运费网银支付,transport,海运费率
+Credit Period (Freight),运费账期,transport,海运费率
+Freight Receivable,运费应收账款,transport,海运费率
+Undercharge Claim,运费少收追补,transport,海运费率
+Dead Freight Refund,亏舱费退还,transport,海运费率

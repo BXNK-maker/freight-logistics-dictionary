@@ -1,0 +1,77 @@
+﻿term_en,term_zh,category,subcategory
+Maersk,马士基,roles,航运公司
+MSC (Mediterranean Shipping Company),地中海航运,roles,航运公司
+CMA CGM,达飞轮船,roles,航运公司
+COSCO Shipping Lines,中远海运集运,roles,航运公司
+OOCL (Orient Overseas Container Line),东方海外,roles,航运公司
+Hapag-Lloyd,赫伯罗特,roles,航运公司
+ONE (Ocean Network Express),海洋网联船务,roles,航运公司
+Evergreen Marine,长荣海运,roles,航运公司
+Yang Ming Marine Transport,阳明海运,roles,航运公司
+HMM,韩新海运,roles,航运公司
+ZIM Integrated Shipping Services,以星航运,roles,航运公司
+PIL (Pacific International Lines),太平船务,roles,航运公司
+SITC Container Lines,海丰国际,roles,航运公司
+Wan Hai Lines,万海航运,roles,航运公司
+TS Lines,德翔海运,roles,航运公司
+KMTC Line,高丽海运,roles,航运公司
+Heung-A Shipping,兴亚海运,roles,航运公司
+Sinokor Merchant Marine,长锦商船,roles,航运公司
+RCL (Regional Container Lines),宏海箱运,roles,航运公司
+X-Press Feeders Group,X-Press 支线船东,roles,航运公司
+Unifeeder,Unifeeder 支线航运,roles,航运公司
+China United Lines,中联航运,roles,航运公司
+Hamburg Süd,汉堡南美,roles,航运公司
+ANL,澳国航运,roles,航运公司
+APL,美国总统轮船,roles,航运公司
+IRISL Group,伊朗国航（IRISL）,roles,航运公司
+Grimaldi Group,格里马尔迪集团,roles,航运公司
+Wallenius Wilhelmsen,华轮-威尔森,roles,航运公司
+K Line,川崎汽船,roles,航运公司
+MOL (Mitsui O.S.K. Lines),商船三井,roles,航运公司
+NYK Line,日本邮船,roles,航运公司
+DHL Global Forwarding,敦豪全球货运,roles,货代物流
+Kuehne+Nagel,德迅集团,roles,货代物流
+DB Schenker,德铁信可,roles,货代物流
+DSV,得斯威（DSV）,roles,货代物流
+Expeditors International,康捷国际物流,roles,货代物流
+C.H. Robinson,罗宾逊全球物流,roles,货代物流
+Nippon Express,日本通运,roles,货代物流
+Yusen Logistics,邮船物流,roles,货代物流
+Geodis,乔达国际物流,roles,货代物流
+Bolloré Logistics,波洛莱物流,roles,货代物流
+CEVA Logistics,基华物流,roles,货代物流
+Kerry Logistics,嘉里物流,roles,货代物流
+Sinotrans,中国外运,roles,货代物流
+Cainiao Network,菜鸟集团,roles,货代物流
+JD Logistics,京东物流,roles,货代物流
+SF Express,顺丰速运,roles,快递物流
+SF Airlines,顺丰航空,roles,航空货运
+China Eastern Air Logistics,东航物流,roles,航空货运
+China Cargo Airlines,中国货运航空,roles,航空货运
+Lufthansa Cargo,汉莎货运航空,roles,航空货运
+Emirates SkyCargo,阿联酋航空货运,roles,航空货运
+Cargolux,卢森堡货运航空,roles,航空货运
+Atlas Air,亚特拉斯航空,roles,航空货运
+Cathay Cargo,国泰货运,roles,航空货运
+Korean Air Cargo,大韩航空货运,roles,航空货运
+China Airlines Cargo,中华航空货运,roles,航空货运
+EVA Air Cargo,长荣航空货运,roles,航空货运
+Singapore Airlines Cargo,新加坡航空货运,roles,航空货运
+Qatar Airways Cargo,卡塔尔航空货运,roles,航空货运
+Turkish Cargo,土耳其航空货运,roles,航空货运
+FedEx,联邦快递,roles,快递物流
+UPS,联合包裹,roles,快递物流
+DHL Express,敦豪快递,roles,快递物流
+Aramex,阿拉美斯快递,roles,快递物流
+GXO Logistics,GXO 物流,roles,仓储物流
+XPO Logistics,XPO 物流,roles,仓储物流
+Ryder System,莱德物流,roles,仓储物流
+Penske Logistics,潘世奇物流,roles,仓储物流
+Rhenus Logistics,雷诺斯物流,roles,仓储物流
+Dachser,德莎物流,roles,货代物流
+Toll Group,拓领集团,roles,货代物流
+Flexport,Flexport 数字货代,roles,货代物流
+CJ Logistics,CJ 希杰物流,roles,快递物流
+Sagawa Express,佐川急便,roles,快递物流
+Yamato Transport,雅玛多运输,roles,快递物流

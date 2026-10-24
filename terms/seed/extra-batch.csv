@@ -1,0 +1,62 @@
+﻿term_en,term_zh,category,subcategory
+Vessel Sharing Agreement,舱位共享协议,transport,航运联盟
+Cross Trade,第三国三角航运,trade-terms,货代实务
+Tonnage Tax,船舶吨税制,transport,航运规则
+Ship Agency Network,船代服务网络,transport,船舶代理
+Protective Agent,保护代理,transport,船舶代理
+Port Captain,港口船长,transport,船舶代理
+Tide Window,潮汐作业窗口,transport,港口作业
+Ventilation Management,货舱通风管理,transport,货物照管
+Container Train Slot Booking,班列车板预订,transport,中欧班列
+Platform Wagon,铁路平车,transport,铁路运输
+Known Consignor,已知托运人资质,customs,航空安保
+Regulated Agent,航空安保校验代理,customs,航空安保
+Air Cargo Screening,航空货物安检,customs,航空安保
+Explosive Trace Detection,爆炸物痕量检测,customs,航空安保
+Physical Screening,人工安检作业,customs,航空安保
+Air Cargo Security Regime,航空货运安保体系,customs,航空安保
+Crowdsourced Delivery,众包配送,transport,快递电商
+Gig Delivery Rider,众包配送骑手,transport,快递电商
+Currency Swap,货币互换,freight-finance,汇率对冲
+Import Duty Financing,进口关税融资,freight-finance,贸易融资
+Import VAT Financing,进口环节税融资,freight-finance,贸易融资
+Freight Financing,运费融资,freight-finance,贸易融资
+Dumping Margin,倾销幅度,customs,贸易救济
+Injury Determination,产业损害认定,customs,贸易救济
+Petition (Trade Remedy),产业申诉,customs,贸易救济
+Judicial Review of Customs,海关司法审查,customs,法律救济
+Shipping Bill,印度出口报关单,documents,报关单证
+Bill of Entry (India),印度进口报关单,documents,报关单证
+GSP+ Status,特别普惠制待遇,customs,关税优惠
+Everything But Arms,最不发达国免关税待遇,customs,关税优惠
+FIATA FBL,FIATA 联运提单,documents,运输单证
+Digital Freight Matching,数字运力撮合,transport,数字货运
+Load Board,运力信息交易板,transport,数字货运
+Real-time Rate Benchmarking,运价实时对标,transport,数字货运
+Dynamic Routing,动态路由调整,transport,数字货运
+Delivery Heatmap,配送热力分析,transport,数字货运
+On-time Performance Dashboard,准时率实时看板,transport,数字货运
+Vendor Compliance Manual,供应商合规手册,supply-chain,合规可持续
+Routing Guide,运输操作指南,supply-chain,渠道管理
+Retail Chargeback,零售商物流扣款,supply-chain,渠道管理
+ASN Compliance,ASN 合规要求,supply-chain,渠道管理
+Label Compliance,标签合规要求,supply-chain,渠道管理
+MABD (Must Arrive By Date),最迟到达日期,supply-chain,渠道管理
+Loss of Profit Insurance,利润损失险,insurance-claims,专项保险
+Contingent Business Interruption,供应链中断营业险,insurance-claims,专项保险
+Trade Disruption Insurance,贸易中断保险,insurance-claims,专项保险
+Political Risk Insurance,政治风险保险,insurance-claims,专项保险
+Cyber Insurance,网络安全保险,insurance-claims,责任保险
+Product Liability Insurance,产品责任险,insurance-claims,责任保险
+General Liability Insurance,综合责任险,insurance-claims,责任保险
+Grocery Distribution Center,生鲜配送中心,warehousing,行业仓储
+FMCG Distribution,快消品配送,warehousing,行业仓储
+Apparel Distribution Center,服装配送中心,warehousing,行业仓储
+Hanging Garment System,挂装输送系统,warehousing,行业仓储
+Spare Parts Logistics,备件物流,warehousing,行业仓储
+Aftermarket Logistics,售后配件物流,warehousing,行业仓储
+Automotive Parts Distribution,汽车配件配送,warehousing,行业仓储
+E-commerce Bonded Warehouse,跨境电商保税仓,customs,保税监管
+Bonded Import Mode,保税进口模式,customs,保税监管
+Direct Purchase Import,直购进口模式,customs,保税监管
+Centralized Procurement,集中采购,trade-terms,采购管理

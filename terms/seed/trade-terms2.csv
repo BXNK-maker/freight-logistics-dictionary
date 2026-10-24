@@ -1,0 +1,76 @@
+﻿term_en,term_zh,category,subcategory
+RFQ (Request for Quotation),询价单,trade-terms,采购流程
+RFP (Request for Proposal),征求建议书,trade-terms,采购流程
+Buying Agent,买方代理,trade-terms,代理关系
+Sourcing Agent,采购代理,trade-terms,代理关系
+Buying Office,采购办事处,trade-terms,代理关系
+Trading House,综合商社,trade-terms,代理关系
+Confirming House,保付商行,trade-terms,代理关系
+Export Management Company,出口管理公司,trade-terms,代理关系
+Commission Agent,佣金代理,trade-terms,代理关系
+Ex-factory Price,出厂价,trade-terms,价格条款
+FOB Value,离岸价值,trade-terms,价格条款
+CIF Value,到岸价值,trade-terms,价格条款
+Contract Price,合同价格,trade-terms,价格条款
+Sight L/C,即期信用证,trade-terms,信用证
+Usance L/C,远期信用证,trade-terms,信用证
+Deferred Payment L/C,延迟付款信用证,trade-terms,信用证
+Acceptance Credit,承兑信用证,trade-terms,信用证
+Freely Negotiable L/C,自由议付信用证,trade-terms,信用证
+Escalation Clause,价格递增条款,trade-terms,合同条款
+Hardship Clause,情势变更条款,trade-terms,合同条款
+Price Review Clause,价格复审条款,trade-terms,合同条款
+Currency of Contract,合同货币,trade-terms,合同条款
+Payment Milestone,付款节点,trade-terms,合同条款
+Late Delivery Penalty,逾期交货违约金,trade-terms,合同条款
+Quality Claim,质量索赔,trade-terms,合同条款
+Acceptance Test,验收测试,trade-terms,合同条款
+Pre-production Sample,产前样,trade-terms,样品管理
+Bulk Sample,大货样,trade-terms,样品管理
+Shipping Sample,装船样,trade-terms,样品管理
+CIETAC,中国国际经济贸易仲裁委员会,trade-terms,争议解决
+ICC International Court of Arbitration,国际商会仲裁院,trade-terms,争议解决
+SIAC,新加坡国际仲裁中心,trade-terms,争议解决
+HKIAC,中国香港国际仲裁中心,trade-terms,争议解决
+LCIA,伦敦国际仲裁院,trade-terms,争议解决
+UNCITRAL Arbitration Rules,联合国仲裁规则,trade-terms,争议解决
+Arbitration Award,仲裁裁决,trade-terms,争议解决
+Litigation,诉讼,trade-terms,争议解决
+Interim Measures,临时措施,trade-terms,争议解决
+Evidence Preservation,证据保全,trade-terms,争议解决
+Contract Assignment,合同转让,trade-terms,合同条款
+Third-party Beneficiary,第三方受益人,trade-terms,合同条款
+B2B (Business to Business),企业对企业,trade-terms,电商模式
+B2C (Business to Consumer),企业对消费者,trade-terms,电商模式
+B2B2C,企业对企业对消费者,trade-terms,电商模式
+D2C (Direct to Consumer),品牌直营模式,trade-terms,电商模式
+C2C (Consumer to Consumer),个人对个人交易,trade-terms,电商模式
+O2O (Online to Offline),线上线下融合,trade-terms,电商模式
+GMV (Gross Merchandise Volume),商品交易总额,trade-terms,电商模式
+Cross-border E-commerce Platform,跨境电商平台,trade-terms,电商模式
+Trade Assurance,交易保障服务,trade-terms,电商模式
+Joint Venture,合资企业,trade-terms,合作模式
+Cooperative Joint Venture,中外合作经营企业,trade-terms,合作模式
+Turnkey Project,交钥匙工程,trade-terms,合作模式
+Technology Transfer,技术转让,trade-terms,合作模式
+License Trade,许可贸易,trade-terms,合作模式
+Franchise,特许经营,trade-terms,合作模式
+Outsourcing,服务外包,trade-terms,合作模式
+Offshore Outsourcing,离岸外包,trade-terms,合作模式
+BOT (Build-Operate-Transfer),建设-运营-移交,trade-terms,合作模式
+EPC Contract,工程总承包合同,trade-terms,合作模式
+Tender Deposit,投标保证金,trade-terms,招投标
+Winning Bidder,中标人,trade-terms,招投标
+Performance Guarantee Line,履约保证额度,trade-terms,担保
+Advance Payment Ratio,预付款比例,trade-terms,支付
+Retainage,留存金,trade-terms,支付
+Escrow Payment,托管付款,trade-terms,支付
+Progress Payment,进度款,trade-terms,支付
+Final Acceptance,最终验收,trade-terms,支付
+Defect Liability Period,缺陷责任期,trade-terms,质保
+Export Agent Scheme,出口代理制,trade-terms,外贸制度
+Import Agent Scheme,进口代理制,trade-terms,外贸制度
+Foreign Trade Operator,对外贸易经营者备案,trade-terms,外贸制度
+Pilot Free Trade Zone,自由贸易试验区,trade-terms,外贸制度
+Cross-border Trade in Services,服务跨境贸易,trade-terms,外贸制度
+Online Customs Declaration Agent,线上报关代理,trade-terms,外贸制度

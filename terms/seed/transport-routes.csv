@@ -1,0 +1,53 @@
+﻿term_en,term_zh,category,subcategory
+Strait of Malacca,马六甲海峡,transport,海上要道
+Strait of Hormuz,霍尔木兹海峡,transport,海上要道
+Bab el-Mandeb Strait,曼德海峡,transport,海上要道
+Bosphorus Strait,博斯普鲁斯海峡,transport,海上要道
+Strait of Gibraltar,直布罗陀海峡,transport,海上要道
+Danish Straits,丹麦海峡,transport,海上要道
+Panama Canal,巴拿马运河,transport,海上要道
+Kiel Canal,基尔运河,transport,海上要道
+Cape Horn Route,合恩角航线,transport,海上要道
+Northern Sea Route,北极东北航道,transport,海上要道
+Arctic Shipping,极地航运,transport,海上要道
+Red Sea Route,红海航线,transport,航线
+Intra-Asia Route,亚洲区域内航线,transport,航线
+Transatlantic Route,跨大西洋航线,transport,航线
+Mediterranean Route,地中海航线,transport,航线
+Middle East Route,中东航线,transport,航线
+South America Route,南美航线,transport,航线
+Africa Route,非洲航线,transport,航线
+Oceania Route,澳新航线,transport,航线
+Coastal Feeder Service,沿海内贸支线,transport,航线
+Yangtze River Service,长江内支线,transport,航线
+Pearl River Delta Barge,珠江驳船支线,transport,航线
+Gulf of Aden Transit,亚丁湾护航航段,transport,海上要道
+War Risk Zone (Insurance),战争险区域,transport,海上要道
+Highest Risk Zone,高危水域,transport,海上要道
+Armed Guard on Board,随船武装护航,transport,海上要道
+Re-routing Cost,绕航改线成本,transport,海上要道
+Cape Routing,好望角绕航,transport,海上要道
+Canal Booking System,运河预约过闸,transport,海上要道
+Canal Auction Slot,运河竞价船位,transport,海上要道
+Panamax Lock,巴拿马旧船闸,transport,海上要道
+Neopanamax Lock,巴拿马新船闸,transport,海上要道
+Canal Water Shortage,运河枯水限航,transport,海上要道
+Draft Restriction,吃水限制,transport,海上要道
+Air Draft Restriction,水线上高度限制,transport,海上要道
+Strait Transit Insurance,海峡通行保险,transport,海上要道
+Piracy High Risk Area,海盗高危区域,transport,海上要道
+BMP Best Management Practices,船舶防海盗最佳管理实践,transport,海上要道
+Citadel Safe Room,避难舱室,transport,海上要道
+Naval Escort Convoy,军舰护航编队,transport,海上要道
+IRTC (Internationally Recommended Transit Corridor),国际推荐通行走廊,transport,海上要道
+Ocean Alliance,海洋联盟,transport,航运联盟
+2M Alliance,2M 联盟,transport,航运联盟
+THE Alliance,THE 联盟,transport,航运联盟
+Premier Alliance,Premier 联盟,transport,航运联盟
+Gemini Cooperation,双子星合作,transport,航运联盟
+Hub-and-spoke (Ocean),轴辐式航线网络,transport,航线
+East-west Trade Lane,东西干线,transport,航线
+North-south Trade Lane,南北航线,transport,航线
+Emerging Trade Corridor,新兴贸易走廊,transport,航线
+Trade Lane Imbalance,航线货量不平衡,transport,航线
+Route Diversification,航线多元化,transport,航线

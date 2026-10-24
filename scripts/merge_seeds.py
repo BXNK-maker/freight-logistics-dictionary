@@ -47,6 +47,7 @@ def main() -> int:
     existing_en = {normalize(r["term_en"]) for r in rows}
     existing_zh = {r["term_zh"].strip() for r in rows if r.get("term_zh")}
     all_en_norm = [normalize(r["term_en"]) for r in rows]
+    all_rows = list(rows)  # 与 all_en_norm 平行增长，避免相似度回查越界
 
     added, skipped = [], []
     for seed_file in sorted(SEED_DIR.glob("*.csv")):
@@ -74,7 +75,7 @@ def main() -> int:
                     if other[:3] != prefix or abs(len(other) - len(n_en)) > 6:
                         continue
                     if difflib.SequenceMatcher(None, n_en, other).ratio() >= 0.92:
-                        hit = rows[idx]["term_en"]
+                        hit = all_rows[idx]["term_en"]
                         break
                 if hit:
                     skipped.append((en, zh, f"与「{hit}」高相似"))
@@ -82,6 +83,7 @@ def main() -> int:
                 existing_en.add(n_en)
                 existing_zh.add(zh)
                 all_en_norm.append(n_en)
+                all_rows.append({"term_en": en})
                 added.append({"term_en": en, "term_zh": zh, "category": cat,
                               "subcategory": sub, "status": "pending"})
 

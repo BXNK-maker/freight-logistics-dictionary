@@ -1,0 +1,89 @@
+﻿term_en,term_zh,category,subcategory
+ICC (A) Clause,协会货物条款A险,insurance-claims,条款险别
+ICC (B) Clause,协会货物条款B险,insurance-claims,条款险别
+ICC (C) Clause,协会货物条款C险,insurance-claims,条款险别
+Institute War Clauses,协会战争险条款,insurance-claims,条款险别
+Institute Strikes Clauses,协会罢工险条款,insurance-claims,条款险别
+Institute Classification Clause,协会船级条款,insurance-claims,条款险别
+Institute Replacement Clause,协会重置条款,insurance-claims,条款险别
+Termination of Transit Clause,运输终止条款,insurance-claims,条款险别
+Change of Voyage Clause,航程变更条款,insurance-claims,条款险别
+SRCC Risk (Strikes Riots Civil Commotions),罢工暴动民变险,insurance-claims,附加险别
+Theft Pilferage and Non-delivery Risk,偷窃提货不着险,insurance-claims,附加险别
+Fresh Water and Rain Damage Risk,淡水雨淋险,insurance-claims,附加险别
+Hook Damage Risk,钩损险,insurance-claims,附加险别
+Sweating and Heating Risk,受潮受热险,insurance-claims,附加险别
+Breakage Risk,破损破碎险,insurance-claims,附加险别
+Taint of Odour Risk,串味险,insurance-claims,附加险别
+Rust Risk,锈损险,insurance-claims,附加险别
+Shortage Risk,短量险,insurance-claims,附加险别
+Intermixture and Contamination Risk,混杂玷污险,insurance-claims,附加险别
+Leakage Risk,渗漏险,insurance-claims,附加险别
+Rejection Risk,拒收险,insurance-claims,附加险别
+Import Duty Risk,关税险,insurance-claims,附加险别
+Delay in Delivery Risk,延误险,insurance-claims,附加险别
+On Deck Risk,舱面险,insurance-claims,附加险别
+Seller's Interest Insurance,卖方利益险,insurance-claims,特殊险别
+Buyer's Interest Insurance,买方利益险,insurance-claims,特殊险别
+CIF Value Plus Ten Percent,加一成投保,insurance-claims,投保规则
+Over Insurance,超额保险,insurance-claims,投保规则
+Under Insurance,不足额保险,insurance-claims,投保规则
+Double Insurance,重复保险,insurance-claims,投保规则
+Reinsurance,再保险,insurance-claims,保险业务
+Underwriter,保险承保人,insurance-claims,保险主体
+Policyholder,投保人,insurance-claims,保险主体
+Proposal Form,投保单,insurance-claims,保险单证
+Endorsement (Insurance),保险批单,insurance-claims,保险单证
+Time Bar for Claims,索赔时效,insurance-claims,理赔规则
+Notice of Abandonment,委付通知,insurance-claims,理赔规则
+Average Bond,海损协议书,insurance-claims,理赔规则
+Salvage Agreement (LOF),劳氏救助合同,insurance-claims,救助规则
+SCOPIC Clause,SCOPIC 特别补偿条款,insurance-claims,救助规则
+Salvage Award,救助报酬,insurance-claims,救助规则
+Wreck Removal,沉船打捞,insurance-claims,救助规则
+Recovery Claim,追偿索赔,insurance-claims,理赔规则
+Third-party Claim,第三方索赔,insurance-claims,理赔规则
+Claims Co-operation Clause,理赔合作条款,insurance-claims,理赔规则
+Loss Ratio,赔付率,insurance-claims,保险经营
+Underwriting,承保,insurance-claims,保险经营
+Risk Assessment (Insurance),风险评估,insurance-claims,保险经营
+Marine Fraud,海运欺诈,insurance-claims,风险防范
+Cargo Theft,货物盗窃,insurance-claims,风险防范
+Theft from Sealed Container,整箱铅封完好被盗,insurance-claims,风险防范
+Warehouse Theft,仓储失窃,insurance-claims,风险防范
+High Value Cargo Insurance,高价值货物保险,insurance-claims,专项保险
+Stock Throughput Insurance,仓至仓一体物流保险,insurance-claims,专项保险
+Freight Forwarder's Liability Insurance,货运代理责任险,insurance-claims,责任保险
+Carrier's Liability Insurance,承运人责任险,insurance-claims,责任保险
+Logistics Operator Liability Insurance,物流经营人责任险,insurance-claims,责任保险
+Warehouse Legal Liability Insurance,仓储法律责任险,insurance-claims,责任保险
+Errors and Omissions Insurance,职业责任险,insurance-claims,责任保险
+Cyber Risk in Logistics,物流网络安全风险,insurance-claims,新型风险
+CLC Convention,国际油污损害民事责任公约,insurance-claims,公约规则
+Bunkers Convention,国际船舶燃油污染损害公约,insurance-claims,公约规则
+Nairobi Wreck Removal Convention,内罗毕沉船打捞公约,insurance-claims,公约规则
+Annual Declaration (Insurance),年度保险申报,insurance-claims,投保规则
+Open Policy Number,预约保险单号,insurance-claims,保险单证
+Insurance Broker Fee,保险经纪佣金,insurance-claims,保险费用
+Survey Agent,检验代理,insurance-claims,理赔主体
+Total Loss Only (TLO),只保全损险,insurance-claims,专项保险
+FPA Damage Exclusion,平安险单独海损免赔,insurance-claims,条款规则
+Particular Average Warranty,单独海损免赔约定,insurance-claims,条款规则
+Both-to-Blame Collision Clause,互有过失碰撞条款,insurance-claims,海上法规
+New Jason Clause,新杰森条款,insurance-claims,海上法规
+York-Antwerp Rules,约克-安特卫普规则,insurance-claims,海上法规
+Deviation (Insurance),绕航对保险的影响,insurance-claims,条款规则
+Perils of the Sea,海上风险,insurance-claims,承保风险
+Act of God,天灾,insurance-claims,承保风险
+Inherent Vice,货物固有瑕疵,insurance-claims,除外责任
+Ordinary Leakage and Wastage,自然损耗除外,insurance-claims,除外责任
+Insufficiency of Packing Exclusion,包装不足除外责任,insurance-claims,除外责任
+Delay Exclusion,延迟除外责任,insurance-claims,除外责任
+Willful Misconduct Exclusion,被保险人故意行为除外,insurance-claims,除外责任
+Unseaworthiness Exclusion,船舶不适航除外责任,insurance-claims,除外责任
+Nuclear Exclusion,核风险除外,insurance-claims,除外责任
+Loss of Market Exclusion,市价损失除外,insurance-claims,除外责任
+Claim Settlement Currency,理赔结算货币,insurance-claims,理赔规则
+Depreciation Settlement,折旧赔付,insurance-claims,理赔规则
+Repair Estimate,维修估价,insurance-claims,理赔流程
+Salvage Value,残值,insurance-claims,理赔规则

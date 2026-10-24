@@ -1,0 +1,41 @@
+﻿term_en,term_zh,category,subcategory
+Container Load Plan,集装箱装箱单,documents,运输单证
+Bay Plan,船舶箱位图,documents,运输单证
+Dangerous Goods Manifest,危险品舱单,documents,运输单证
+Reefer Temperature Record,冷箱温度记录单,documents,运输单证
+Vent Setting Record,通风设定记录,documents,运输单证
+OOG Loading Sketch,超限货物装载图,documents,运输单证
+Lashing Certificate,绑扎检验证书,documents,运输单证
+ATR Movement Certificate,欧土 ATR 流转证书,documents,原产地证书
+EUR-MED Statement,欧洲地中海原产地声明,documents,原产地证书
+UK Origin Declaration,英国原产地声明,documents,原产地证书
+Kosher Certificate,犹太洁食认证,documents,资质认证
+Organic Certification,有机产品认证,documents,资质认证
+FSC Certification,森林管理委员会认证,documents,资质认证
+CNAS Test Report,CNAS 检测报告,documents,资质认证
+ISO Certificate Copy,ISO 体系证书副本,documents,资质认证
+Factory Audit Report,验厂报告,documents,资质认证
+SASO Certificate,沙特 SASO 认证,documents,资质认证
+SABER Certificate,沙特 SABER 认证,documents,资质认证
+INMETRO Certification,巴西 INMETRO 认证,documents,资质认证
+BIS Certification (India),印度 BIS 认证,documents,资质认证
+SONCAP Certification,尼日利亚 SONCAP 认证,documents,资质认证
+Non-wood Packaging Declaration,非木质包装声明,documents,检疫单证
+Heat Treatment Certificate,木质包装热处理证书,documents,检疫单证
+CN38 Dispatch Note,邮政大宗交寄路单,documents,邮政单证
+Manifest Amendment Request,舱单修改申请,documents,运输单证
+Import Cargo Release Letter,进口提货介绍信,documents,运输单证
+Customs Inspection Record,海关查验记录单,documents,报关单证
+Inspection Result Notification,查验结果通知,documents,报关单证
+Tax Payment Certificate,海关税款缴款书,documents,报关单证
+Duty Receipt,关税缴款回执,documents,报关单证
+Entry Summary (US 7501),美国 7501 报关摘要单,documents,报关单证
+Carrier Release Letter,船公司放货函,documents,运输单证
+Mutual Release,双方互免声明,documents,理赔单证
+Damage Report,货损报告,documents,理赔单证
+Loss Statement,损失清单,documents,理赔单证
+Claim Settlement Letter,赔付结案函,documents,理赔单证
+Salvage Disposal Report,残值处理报告,documents,理赔单证
+Warehouse Storage Receipt,仓储存货凭证,documents,金融单证
+Electronic Pledge Notice,电子质押通知单,documents,金融单证
+Supervision Report (Pledge),质押监管报告,documents,金融单证

@@ -1,0 +1,87 @@
+﻿term_en,term_zh,category,subcategory
+Supply Chain Management,供应链管理,supply-chain,供应链基础
+SCOR Model,供应链运作参考模型,supply-chain,供应链基础
+Bullwhip Effect,牛鞭效应,supply-chain,供应链基础
+Postponement Strategy,延迟策略,supply-chain,供应链基础
+Late Configuration,延迟配置,supply-chain,供应链基础
+Mass Customization,大规模定制,supply-chain,供应链基础
+Push-Pull Strategy,推拉结合策略,supply-chain,供应链基础
+Decoupling Point,解耦点,supply-chain,供应链基础
+Make-to-Stock,备货型生产,supply-chain,生产模式
+Make-to-Order,订货型生产,supply-chain,生产模式
+Assemble-to-Order,按订单装配,supply-chain,生产模式
+Engineer-to-Order,按订单设计,supply-chain,生产模式
+Bill of Materials,物料清单,supply-chain,生产模式
+Material Requirements Planning,物料需求计划,supply-chain,计划体系
+Distribution Requirements Planning,配送需求计划,supply-chain,计划体系
+CPFR,协同计划预测与补货,supply-chain,计划体系
+S&OE,销售与运营执行,supply-chain,计划体系
+Demand-driven MRP,需求驱动物料计划,supply-chain,计划体系
+DDMRP,需求驱动 MRP 模型,supply-chain,计划体系
+Multi-echelon Inventory Optimization,多级库存优化,supply-chain,库存策略
+Inventory Segmentation,库存分层管理,supply-chain,库存策略
+SKU Rationalization,SKU 精简优化,supply-chain,库存策略
+Network Design (Supply Chain),供应链网络设计,supply-chain,网络规划
+Facility Location Analysis,设施选址分析,supply-chain,网络规划
+Center of Gravity Method,重心法选址,supply-chain,网络规划
+Nearshoring,近岸外包,supply-chain,全球布局
+Reshoring,制造业回流,supply-chain,全球布局
+Friend-shoring,友岸外包,supply-chain,全球布局
+China Plus One Strategy,中国+1 战略,supply-chain,全球布局
+Production Diversification,产能多元化布局,supply-chain,全球布局
+Dual Sourcing,双源采购,supply-chain,采购策略
+Multi-sourcing,多源采购,supply-chain,采购策略
+Single Source Risk,单一来源风险,supply-chain,采购策略
+Supplier Relationship Management,供应商关系管理,supply-chain,采购策略
+Supplier Audit,供应商审核,supply-chain,采购策略
+Vendor Rating,供应商评级,supply-chain,采购策略
+Supplier Code of Conduct,供应商行为准则,supply-chain,合规可持续
+Social Compliance Audit,社会责任验厂,supply-chain,合规可持续
+BSCI Audit,BSCI 社会责任审核,supply-chain,合规可持续
+SA8000 Standard,SA8000 社会责任标准,supply-chain,合规可持续
+Sedex Platform,Sedex 责任商业平台,supply-chain,合规可持续
+SMETA Audit,SMETA 审核方法,supply-chain,合规可持续
+Supply Chain Due Diligence,供应链尽职调查,supply-chain,合规可持续
+German Supply Chain Act (LkSG),德国供应链尽调法,supply-chain,合规可持续
+CSDDD,欧盟企业可持续发展尽职调查指令,supply-chain,合规可持续
+UFLPA,美国维吾尔强迫劳动预防法,supply-chain,合规可持续
+Forced Labor Regulation,强迫劳动合规要求,supply-chain,合规可持续
+Conflict Minerals,冲突矿产,supply-chain,合规可持续
+Supply Chain Transparency,供应链透明度,supply-chain,合规可持续
+N-tier Visibility,多层供应商可见性,supply-chain,合规可持续
+Supply Chain Mapping,供应链图谱绘制,supply-chain,合规可持续
+Scope 3 Emissions,范围三排放,supply-chain,绿色供应链
+GHG Protocol,温室气体核算体系,supply-chain,绿色供应链
+ESG in Supply Chain,供应链 ESG 管理,supply-chain,绿色供应链
+Science Based Targets,科学碳目标,supply-chain,绿色供应链
+Circular Economy,循环经济,supply-chain,绿色供应链
+Sustainable Procurement,可持续采购,supply-chain,绿色供应链
+Green Logistics,绿色物流,supply-chain,绿色供应链
+Supply Chain Resilience,供应链韧性,supply-chain,风险管理
+Supply Chain Risk Management,供应链风险管理,supply-chain,风险管理
+Business Continuity Plan,业务连续性计划,supply-chain,风险管理
+Contingency Planning,应急预案,supply-chain,风险管理
+Supplier Failure Risk,供应商中断风险,supply-chain,风险管理
+Port Strike Contingency,港口罢工应急预案,supply-chain,风险管理
+Geopolitical Risk in Trade,贸易地缘政治风险,supply-chain,风险管理
+Tariff Impact Analysis,关税影响分析,supply-chain,风险管理
+Scenario Planning,情景规划,supply-chain,风险管理
+Supply Chain Simulation,供应链仿真,supply-chain,风险管理
+Order Fulfillment Cycle,订单履约全周期,supply-chain,绩效指标
+DIFOT (Delivery In Full On Time),足量准时交付率,supply-chain,绩效指标
+Cash-to-Cash Cycle,现金周转周期,supply-chain,绩效指标
+Supplier OTD (On Time Delivery),供应商准时交付率,supply-chain,绩效指标
+PPM (Defective Parts per Million),百万分之缺陷率,supply-chain,绩效指标
+Cost of Quality,质量成本,supply-chain,绩效指标
+Total Cost of Ownership,总拥有成本,supply-chain,绩效指标
+Demand Sensing,需求感知,supply-chain,需求管理
+Demand Shaping,需求引导,supply-chain,需求管理
+Collaborative Forecasting,协同预测,supply-chain,需求管理
+Forecast Accuracy (MAPE),预测准确率 MAPE,supply-chain,需求管理
+Forecast Bias,预测偏差,supply-chain,需求管理
+Product Lifecycle Planning,产品生命周期计划,supply-chain,需求管理
+End-of-life Planning,产品退市计划,supply-chain,需求管理
+Channel Inventory,渠道库存,supply-chain,渠道管理
+Distribution Network,分销网络,supply-chain,渠道管理
+Regional Distribution Strategy,区域分仓策略,supply-chain,渠道管理
+Direct-to-Consumer Logistics,直面消费者物流,supply-chain,渠道管理

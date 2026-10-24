@@ -1,0 +1,51 @@
+﻿term_en,term_zh,category,subcategory
+First Mile,揽收首公里,transport,快递电商
+EMS (Express Mail Service),邮政特快专递,transport,快递电商
+Postal Parcel,邮政包裹,transport,快递电商
+Small Packet,邮政小包,transport,快递电商
+Registered Mail,挂号邮件,transport,快递电商
+Tracking Number,物流追踪单号,transport,快递电商
+Failed Delivery,投递失败,transport,快递电商
+Return to Sender,退回寄件人,transport,快递电商
+Undeliverable as Addressed,地址不详无法投递,transport,快递电商
+Redelivery,二次投递,transport,快递电商
+Delivery Window,配送时间窗,transport,快递电商
+Amazon FBA,亚马逊FBA配送,transport,快递电商
+FBM (Fulfillment by Merchant),卖家自发货,transport,快递电商
+FBA Preparation Service,FBA 入仓预处理,transport,快递电商
+FBA Removal Order,FBA 移除订单,transport,快递电商
+Marketplace Fulfillment,平台代发货,transport,快递电商
+Third-party Fulfillment,第三方仓储代发,transport,快递电商
+Zone Skipping,跳区直发,transport,快递电商
+Parcel Consolidation,包裹集运,transport,快递电商
+Postal Induction,邮件批量交寄,transport,快递电商
+Duty Prepaid Express,关税预付快递,transport,快递电商
+DDP Dedicated Line,包税专线,transport,快递电商
+Dedicated Line Service,专线小包,transport,快递电商
+Sea Freight Parcel,海运小包,transport,快递电商
+Air Freight Parcel,空运专线小包,transport,快递电商
+Saver Service,经济型快递服务,transport,快递电商
+Express Service,特快快递服务,transport,快递电商
+Same-city Instant Delivery,即时配送,transport,快递电商
+Consolidated Returns,退货集运,transport,快递电商
+Out for Delivery,派送途中,transport,快递电商
+Attempted Delivery Notice,派送未果通知,transport,快递电商
+Signature Required,签名签收要求,transport,快递电商
+Adult Signature,成人签收,transport,快递电商
+Direct Signature,本人直接签收,transport,快递电商
+Package Interception,包裹拦截,transport,快递电商
+Delivery Instruction,投递指令,transport,快递电商
+Safe Drop,安全放置投递,transport,快递电商
+Parcel Locker Pickup Code,快递柜取件码,transport,快递电商
+Cross-border Returns Center,跨境退货中心,transport,快递电商
+Returnless Refund,仅退款不退货,transport,快递电商
+Disposal of Returns,退货就地销毁,transport,快递电商
+Refurbished Resale Channel,翻新二次销售渠道,transport,快递电商
+Parcel Dimension Fraud,包裹体积作弊,transport,快递电商
+Address Normalization,地址标准化清洗,transport,快递电商
+Delivery Density,投递密度,transport,快递电商
+Route Density Optimization,配送路线密度优化,transport,快递电商
+Courier Micro-depot,快递微型驿站,transport,快递电商
+Peak Surcharge (Express),快递旺季附加费,transport,快递电商
+Demand Surcharge,需求附加费,transport,快递电商
+Courier Contract Negotiation,快递协议价谈判,transport,快递电商

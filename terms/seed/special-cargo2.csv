@@ -1,0 +1,35 @@
+﻿term_en,term_zh,category,subcategory
+SPMT (Self-propelled Modular Transporter),自行式模块运输车,special-cargo,大件运输
+Modular Trailer,液压模块板车,special-cargo,大件运输
+Hydraulic Gantry System,液压顶升龙门系统,special-cargo,大件运输
+Jack and Slide,顶推滑移作业,special-cargo,大件运输
+Heavy Lift Crane,大型履带起重机,special-cargo,大件运输
+Floating Crane,浮式起重机,special-cargo,大件运输
+Tandem Lift,双机联合抬吊,special-cargo,大件运输
+Load Out,码头出运装载,special-cargo,大件运输
+Sea Fastening,海上运输固定,special-cargo,大件运输
+Grillage Support,钢支墩支撑架,special-cargo,大件运输
+Rigging Study,吊装受力分析,special-cargo,大件运输
+Lift Plan,吊装作业计划,special-cargo,大件运输
+Wind Turbine Nacelle,风机机舱运输,special-cargo,大件运输
+Tower Section Transport,风机塔筒运输,special-cargo,大件运输
+Monopile Transport,海上风电单桩运输,special-cargo,大件运输
+UN 3480 (Lithium-ion Batteries Standalone),锂离子电池单独运输,special-cargo,锂电池
+UN 3481 (Batteries Packed with Equipment),锂电池随设备包装运输,special-cargo,锂电池
+UN 3090/3091 (Lithium Metal Batteries),锂金属电池运输,special-cargo,锂电池
+Sodium-ion Battery Transport,钠离子电池运输,special-cargo,锂电池
+ESS Transport,储能系统运输,special-cargo,锂电池
+E-bike Transport,电动自行车运输,special-cargo,锂电池
+E-scooter Transport,电动滑板车运输,special-cargo,锂电池
+Battery Fire Suppression Plan,电池火灾应急预案,special-cargo,锂电池
+Thermal Runaway Risk,热失控风险,special-cargo,锂电池
+IATA LAR,国际航协活体动物运输规则,special-cargo,活体运输
+AVI Code,活体动物运输代码,special-cargo,活体运输
+Equine Transport,马匹运输,special-cargo,活体运输
+Day-old Chicks,初生雏鸡运输,special-cargo,活体运输
+Ornamental Fish Transport,观赏鱼运输,special-cargo,活体运输
+Human Remains Logistics,遗体国际运输,special-cargo,特殊运输
+Diplomatic Cargo,外交物资运输,special-cargo,特殊运输
+Museum Exhibition Logistics,博物馆展品物流,special-cargo,特殊运输
+Qualified Person Release,质量受权人放行,special-cargo,医药物流
+Batch Certificate,药品批签发证明,special-cargo,医药物流

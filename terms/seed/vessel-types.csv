@@ -1,0 +1,56 @@
+﻿term_en,term_zh,category,subcategory
+MPP (Multi-purpose Vessel),多用途船,transport,船舶类型
+Heavy Lift Vessel,重吊船,transport,船舶类型
+Semi-submersible Vessel,半潜船,transport,船舶类型
+DP2 Vessel,二级动力定位船,transport,船舶类型
+Cable-laying Vessel,海缆敷设船,transport,船舶类型
+LNG Carrier,液化天然气运输船,transport,船舶类型
+LPG Carrier,液化石油气运输船,transport,船舶类型
+Chemical Tanker,化学品运输船,transport,船舶类型
+Product Tanker,成品油轮,transport,船舶类型
+Aframax,阿芙拉型油轮,transport,船舶类型
+Suezmax,苏伊士型油轮,transport,船舶类型
+Capesize,好望角型散货船,transport,船舶类型
+Handysize,灵便型散货船,transport,船舶类型
+Supramax,超灵便型散货船,transport,船舶类型
+Ultramax,极灵便型散货船,transport,船舶类型
+Kamsarmax,卡姆萨尔型散货船,transport,船舶类型
+Feeder Vessel,支线集装箱船,transport,船舶类型
+Gearless Vessel,无起重设备船,transport,船舶类型
+Geared Vessel,带起重设备船,transport,船舶类型
+Reefer Vessel,冷藏船,transport,船舶类型
+RoRo Vessel,滚装船,transport,船舶类型
+PCTC (Pure Car and Truck Carrier),汽车滚装船,transport,船舶类型
+Livestock Carrier,牲畜运输船,transport,船舶类型
+Cement Carrier,水泥运输船,transport,船舶类型
+Barge Carrier,载驳船,transport,船舶类型
+Pusher Tug,推轮,transport,船舶类型
+Tugboat,拖轮,transport,船舶类型
+Dredger,挖泥船,transport,船舶类型
+FPSO,浮式生产储卸油装置,transport,船舶类型
+FSO,浮式储油卸油装置,transport,船舶类型
+Drillship,钻井船,transport,船舶类型
+Crane Barge,起重驳船,transport,船舶类型
+Deck Barge,甲板驳船,transport,船舶类型
+Hopper Barge,开底驳船,transport,船舶类型
+Bunker Barge,加油驳船,transport,船舶类型
+Ship Chandler,船舶物料供应商,transport,船舶供应
+Bunker Survey,燃油数量检验,transport,船舶供应
+Bunker Delivery Note,燃油交付单,transport,船舶供应
+Ship's Stores,船用物料补给,transport,船舶供应
+Crew Change,船员换班,transport,船舶运营
+Hull Cleaning,船体海生物清理,transport,船舶运营
+Propeller Polishing,螺旋桨抛光,transport,船舶运营
+Class Survey,船级检验,transport,船舶检验
+Annual Survey (Class),船级年度检验,transport,船舶检验
+Intermediate Survey,船级中间检验,transport,船舶检验
+Special Survey,船级特别检验,transport,船舶检验
+PSC Detention,港口国监督滞留,transport,船舶检验
+PSC Deficiency,港口国监督缺陷项,transport,船舶检验
+Condition Survey,船况检验,transport,船舶检验
+Vessel Valuation,船舶估值,transport,船舶运营
+Sister Ship,姊妹船,transport,船舶类型
+Vessel Renaming,船舶改名,transport,船舶运营
+Ship Recycling,船舶拆解回收,transport,船舶运营
+Hong Kong Convention,香港船舶拆解公约,transport,船舶运营
+IHM (Inventory of Hazardous Materials),有害材料清单,transport,船舶运营

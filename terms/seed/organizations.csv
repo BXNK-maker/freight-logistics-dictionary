@@ -1,0 +1,67 @@
+﻿term_en,term_zh,category,subcategory
+IATA,国际航空运输协会,organizations,国际组织
+ICAO,国际民用航空组织,organizations,国际组织
+IMO,国际海事组织,organizations,国际组织
+FIATA,国际货运代理协会联合会,organizations,行业组织
+WCA (World Cargo Alliance),世界货运联盟,organizations,行业组织
+CIFA,中国国际货运代理协会,organizations,行业组织
+CFLP,中国物流与采购联合会,organizations,行业组织
+Shanghai Shipping Exchange,上海航运交易所,organizations,行业组织
+ICS (International Chamber of Shipping),国际航运公会,organizations,行业组织
+BIMCO,波罗的海国际航运公会,organizations,行业组织
+Baltic Exchange,波罗的海交易所,organizations,行业机构
+ITF (International Transport Workers' Federation),国际运输工人联合会,organizations,国际组织
+UNCTAD,联合国贸易和发展会议,organizations,国际组织
+UNCITRAL,联合国国际贸易法委员会,organizations,国际组织
+ICC (International Chamber of Commerce),国际商会,organizations,国际组织
+OTIF,国际铁路运输政府间组织,organizations,国际组织
+OSJD,铁路合作组织,organizations,国际组织
+UPU (Universal Postal Union),万国邮政联盟,organizations,国际组织
+GS1,GS1 国际物品编码组织,organizations,标准组织
+DCSA (Digital Container Shipping Association),数字集装箱航运协会,organizations,标准组织
+FIT Alliance,国际电子提单联盟,organizations,标准组织
+SWIFT,环球银行金融电信协会,organizations,金融机构
+FMC (Federal Maritime Commission),美国联邦海事委员会,organizations,政府机构
+European Commission DG MOVE,欧盟委员会运输总司,organizations,政府机构
+DG TAXUD,欧盟委员会税务与海关同盟总司,organizations,政府机构
+OLAF,欧盟反欺诈办公室,organizations,政府机构
+EMSA,欧洲海事安全局,organizations,政府机构
+GACC,中国海关总署,organizations,政府机构
+MOFCOM,中国商务部,organizations,政府机构
+CAAC,中国民用航空局,organizations,政府机构
+SAMR,中国国家市场监督管理总局,organizations,政府机构
+MOT,中国交通运输部,organizations,政府机构
+Bureau Veritas,必维国际检验集团,organizations,检验认证
+SGS Group,瑞士通用公证行,organizations,检验认证
+Intertek,天祥集团,organizations,检验认证
+TUV Rheinland,德国莱茵TUV集团,organizations,检验认证
+Lloyd's Register,劳氏船级社,organizations,船级社
+DNV,挪威船级社,organizations,船级社
+ABS (American Bureau of Shipping),美国船级社,organizations,船级社
+CCS,中国船级社,organizations,船级社
+KR (Korean Register),韩国船级社,organizations,船级社
+ClassNK,日本船级社,organizations,船级社
+RINA,意大利船级社,organizations,船级社
+International Group of P&I Clubs,国际保赔协会集团,organizations,保险组织
+Lloyd's of London,伦敦劳合社,organizations,保险机构
+GAFTA,谷物与饲料贸易协会,organizations,行业组织
+FOSFA,国际油类油籽和油脂协会,organizations,行业组织
+FONASBA,国际船代和船舶经纪人协会联合会,organizations,行业组织
+INTERCARGO,国际干散货船东协会,organizations,行业组织
+INTERTANKO,国际独立油轮船东协会,organizations,行业组织
+World Shipping Council,世界航运理事会,organizations,行业组织
+Global Shippers Forum,国际货主论坛,organizations,行业组织
+TAPA,国际资产保护协会,organizations,行业组织
+C-TPAT,海关-商贸反恐联盟,organizations,安全认证
+IAPH,国际港口协会,organizations,行业组织
+IATA CASS,航空货运账目结算系统,organizations,结算机制
+IATA BSP,开账与结算计划,organizations,结算机制
+IATA e-freight,IATA 电子货运,organizations,标准项目
+SOLAS Convention,国际海上人命安全公约,organizations,公约规则
+ISM Code,国际安全管理规则,organizations,公约规则
+ISPS Code,国际船舶和港口设施保安规则,organizations,公约规则
+ISO 9001,质量管理体系认证,organizations,管理体系
+ISO 14001,环境管理体系认证,organizations,管理体系
+ISO 45001,职业健康安全管理体系认证,organizations,管理体系
+ISO 28000,供应链安全管理体系认证,organizations,管理体系
+ISO 17712,高安全货物铅封标准,organizations,技术标准

@@ -1,0 +1,73 @@
+﻿term_en,term_zh,category,subcategory
+Supply Chain Finance,供应链金融,freight-finance,供应链金融
+Reverse Factoring,反向保理,freight-finance,供应链金融
+Dynamic Discounting,动态贴现,freight-finance,供应链金融
+Confirmed Accounts Receivable Financing,确权应收账款融资,freight-finance,供应链金融
+Inventory Financing,存货融资,freight-finance,存货融资
+Warehouse Receipt Financing,仓单质押融资,freight-finance,存货融资
+Stock Pledge Financing,存货质押融资,freight-finance,存货融资
+Spot Pledge Supervision,现货质押监管,freight-finance,存货融资
+Third-party Supervision (Pledge),第三方质押监管,freight-finance,存货融资
+Prepayment Financing,预付款融资,freight-finance,订单融资
+Order Financing,订单融资,freight-finance,订单融资
+Purchase Order Financing,采购订单融资,freight-finance,订单融资
+Accounts Receivable Management,应收账款管理,freight-finance,应收账款
+Receivables Pledge,应收账款质押,freight-finance,应收账款
+Bill Discounting,票据贴现融资,freight-finance,票据业务
+Acceptance Bill,银行承兑汇票,freight-finance,票据业务
+Commercial Acceptance Bill,商业承兑汇票,freight-finance,票据业务
+Export Credit Agency,出口信用机构,freight-finance,出口信贷
+ECA Financing,ECA 出口信贷,freight-finance,出口信贷
+Buyer's Credit,买方信贷,freight-finance,出口信贷
+Supplier's Credit,卖方信贷,freight-finance,出口信贷
+Structured Trade Finance,结构性贸易融资,freight-finance,贸易融资
+Commodity Trade Finance,大宗商品贸易融资,freight-finance,贸易融资
+Commodity Hedging,大宗商品套期保值,freight-finance,大宗商品
+Forward Freight Agreement (FFA),远期运费协议,freight-finance,运价衍生品
+Freight Derivatives Market,运费衍生品市场,freight-finance,运价衍生品
+Bunker Hedging,燃油套期保值,freight-finance,成本对冲
+Foreign Exchange Forward,远期外汇合约,freight-finance,汇率对冲
+Cross-border RMB Settlement,跨境人民币结算,freight-finance,跨境结算
+CIPS,人民币跨境支付系统,freight-finance,跨境结算
+Escrow Account,第三方托管账户,freight-finance,支付保障
+Milestone Payment (Project),项目节点付款,freight-finance,支付方式
+Documentary Credit Financing,信用证融资,freight-finance,贸易融资
+L/C Discounting,信用证贴现,freight-finance,贸易融资
+Silent Confirmation,沉默保兑,freight-finance,贸易融资
+Invoice Financing,发票融资,freight-finance,应收账款
+Aging Report,账龄分析表,freight-finance,应收账款
+Days Sales Outstanding,应收账款周转天数,freight-finance,应收账款
+Bad Debt Provision,坏账准备,freight-finance,应收账款
+Collection Agency,商账追收机构,freight-finance,应收账款
+Export Credit Insurance Limit,信用保险限额,freight-finance,信用保险
+Buyer Credit Limit Application,买方限额申请,freight-finance,信用保险
+Claim under Credit Insurance,信用保险索赔,freight-finance,信用保险
+Ship Mortgage,船舶抵押贷款,freight-finance,航运金融
+Ship Finance,船舶融资,freight-finance,航运金融
+Sale and Leaseback (Vessel),船舶售后回租,freight-finance,航运金融
+Container Leasing Finance,集装箱租赁融资,freight-finance,租赁金融
+Operating Lease,经营性租赁,freight-finance,租赁金融
+Finance Lease,融资租赁,freight-finance,租赁金融
+Cross-border Factoring,国际保理,freight-finance,保理业务
+Two-factor Factoring,双保理模式,freight-finance,保理业务
+Credit Report,资信调查报告,freight-finance,信用管理
+Letter of Credit Insurance,信用证保险,freight-finance,信用保险
+Banker's Guarantee Line,银行保函额度,freight-finance,担保业务
+Customs Duty Guarantee Insurance,关税保证保险,freight-finance,担保业务
+Working Capital,营运资金,freight-finance,财务管理
+Cash Conversion Cycle,现金转换周期,freight-finance,财务管理
+Freight Cost Allocation,运费分摊,freight-finance,成本管理
+Incoterms Cost Split,贸易条款费用划分,freight-finance,成本管理
+Logistics Budget,物流预算,freight-finance,成本管理
+Rate Negotiation,运价谈判,freight-finance,成本管理
+Fuel Cost Pass-through,燃油成本传导条款,freight-finance,成本管理
+Currency Clause (Contract),货币条款,freight-finance,财务管理
+Multi-currency Invoicing,多币种开票,freight-finance,财务管理
+Withholding Tax (Cross-border Service),跨境服务预提税,freight-finance,税务处理
+Export Tax Rebate Financing,出口退税账户质押融资,freight-finance,税务金融
+Factoring Fee,保理费,freight-finance,保理业务
+Discount Rate (Finance),贴现率,freight-finance,票据业务
+Usance Interest,远期利息,freight-finance,票据业务
+Refinance under L/C,信用证议付融资,freight-finance,贸易融资
+Trust Receipt Financing,信托收据融资,freight-finance,贸易融资
+Import Usance Financing,进口押汇融资,freight-finance,贸易融资
