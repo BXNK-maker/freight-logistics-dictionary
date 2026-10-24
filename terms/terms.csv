@@ -1474,106 +1474,106 @@ Fremantle Port,弗里曼特尔港,transport,港口码头,published
 Adelaide Port,阿德莱德港,transport,港口码头,published
 Lytelton Port,利特尔顿港,transport,港口码头,published
 Suva Port,苏瓦港,transport,港口码头,published
-Beijing Daxing International Airport,北京大兴国际机场,transport,空运,pending
-Shanghai Hongqiao International Airport,上海虹桥国际机场,transport,空运,pending
-Ezhou Huahu Airport,鄂州花湖国际机场,transport,空运,pending
-Changsha Huanghua International Airport,长沙黄花国际机场,transport,空运,pending
-Hefei Xinqiao International Airport,合肥新桥国际机场,transport,空运,pending
-Nanning Wuxu International Airport,南宁吴圩国际机场,transport,空运,pending
-Guiyang Longdongbao Airport,贵阳龙洞堡机场,transport,空运,pending
-Lanzhou Zhongchuan Airport,兰州中川国际机场,transport,空运,pending
-Urumqi Diwopu International Airport,乌鲁木齐地窝堡国际机场,transport,空运,pending
-Oslo Gardermoen Airport,奥斯陆加勒穆恩机场,transport,空运,pending
-Stockholm Arlanda Airport,斯德哥尔摩阿兰达机场,transport,空运,pending
-Liege Airport,列日机场,transport,空运,pending
-Maastricht Aachen Airport,马斯特里赫特机场,transport,空运,pending
-Prestwick Airport,普雷斯蒂克机场,transport,空运,pending
-Zaragoza Airport,萨拉戈萨机场,transport,空运,pending
-Budapest Airport,布达佩斯机场,transport,空运,pending
-Prague Airport,布拉格机场,transport,空运,pending
-Lyon Airport,里昂机场,transport,空运,pending
-Athens Airport,雅典国际机场,transport,空运,pending
-Lisbon Airport,里斯本机场,transport,空运,pending
-Sharjah Airport,沙迦机场,transport,空运,pending
-Riyadh King Khalid Airport,利雅得国王哈立德国际机场,transport,空运,pending
-Jeddah King Abdulaziz Airport,吉达阿卜杜勒阿齐兹国际机场,transport,空运,pending
-Louisville Muhammad Ali Airport,路易斯维尔国际机场,transport,空运,pending
-Memphis International Airport,孟菲斯国际机场,transport,空运,pending
-Cincinnati Northern Kentucky Airport,辛辛那提北肯塔基国际机场,transport,空运,pending
-Anchorage Ted Stevens Airport,安克雷奇国际机场,transport,空运,pending
-Huntsville International Airport,亨茨维尔国际机场,transport,空运,pending
-Indianapolis International Airport,印第安纳波利斯国际机场,transport,空运,pending
-Ontario Airport (California),安大略国际机场,transport,空运,pending
-Lima Jorge Chavez Airport,利马豪尔赫·查韦斯机场,transport,空运,pending
-Quito Mariscal Sucre Airport,基多苏克雷元帅机场,transport,空运,pending
-Panama Tocumen Airport,巴拿马托库门机场,transport,空运,pending
-Lagos Murtala Muhammed Airport,拉各斯穆尔塔拉·穆罕默德机场,transport,空运,pending
-Perth Airport,珀斯机场,transport,空运,pending
-Brisbane Airport,布里斯班机场,transport,空运,pending
-Export Supervision Warehouse,出口监管仓库,customs,保税监管,pending
-Bonded Logistics Park (Type B),保税物流中心（B型）,customs,保税监管,pending
-Bonded Repair,保税维修,customs,保税监管,pending
-Bonded R&D,保税研发,customs,保税监管,pending
-Bonded Exhibition,保税展示交易,customs,保税监管,pending
-Consolidated Tax Payment,汇总征税,customs,税款征管,pending
-Direct Discharge at Berth,船边直提,customs,通关便利化,pending
-Direct Loading on Arrival,抵港直装,customs,通关便利化,pending
-Advance Declaration,提前申报,customs,通关便利化,pending
-Integrated Clearance,全国通关一体化,customs,通关便利化,pending
-Local Declaration Port Release,属地申报口岸验放,customs,通关便利化,pending
-Self-declared Self-paid,自报自缴,customs,通关便利化,pending
-Duty Recovery,关税追征,customs,税款征管,pending
-Recovery Period,追征期限,customs,税款征管,pending
-Supplementary Payment Decision,补税决定,customs,税款征管,pending
-Administrative Reconsideration,海关行政复议,customs,法律救济,pending
-Customs Administrative Litigation,海关行政诉讼,customs,法律救济,pending
-HS 2022 Version,HS 目录 2022 版,customs,商品归类,pending
-WCO HS Committee,WCO 协调制度委员会,customs,商品归类,pending
-ACAS (Air Cargo Advance Screening),美国空运货物预审,customs,舱单预审,pending
-PLACI (Pre-loading Advance Cargo Information),欧盟装货前货物信息预审,customs,舱单预审,pending
-CDS (Customs Declaration Service),英国海关申报服务,customs,申报系统,pending
-Tariff Quota Allocation,关税配额分配,customs,配额管理,pending
-Exclusion Request (US 301),美国301排除申请,customs,贸易救济,pending
-Exclusion List,关税排除清单,customs,贸易救济,pending
-Single Consumption Standard,加工贸易单耗标准,customs,加工贸易,pending
-Deep Processing Carry-over,深加工结转,customs,加工贸易,pending
-Bonded Goods Transfer,保税货物结转,customs,加工贸易,pending
-Immediate Transportation (US IT),美国保税立即运输,customs,美国制度,pending
-In-bond Shipment,保税转运,customs,美国制度,pending
-Foreign Trade Zone Status,美国对外贸易区状态,customs,美国制度,pending
-Weekly Entry,每周合并申报,customs,美国制度,pending
-Continuous Bond,美国年度关税保函,customs,美国制度,pending
-Single Transaction Bond,美国单次交易保函,customs,美国制度,pending
-Surety Company,担保公司,customs,美国制度,pending
-Section 321,美国321条小额免税,customs,美国制度,pending
-Import Permit (Automatic),自动进口许可证,customs,许可证管理,pending
-Ozone Depleting Substances,消耗臭氧层物质管理,customs,环保合规,pending
-F-gas Regulation,欧盟含氟气体法规,customs,环保合规,pending
-POPs Regulation,持久性有机污染物法规,customs,环保合规,pending
-Duty Suspension,关税中止,customs,税款征管,pending
-Temporary Export,暂准出口,customs,暂准通关,pending
-Repair and Return Declaration,维修物品报关,customs,暂准通关,pending
-Warranty Replacement Import,保修件免税进口,customs,暂准通关,pending
-Sample Import (NCV),无商业价值样品进口,customs,暂准通关,pending
-Deemed Export Rule,视同出口规则,customs,出口管制,pending
-Export Administration Regulations,美国出口管制条例,customs,出口管制,pending
-ITAR,美国国际武器贸易条例,customs,出口管制,pending
-Wassenaar Arrangement,瓦森纳安排,customs,出口管制,pending
-Economic Sanctions,经济制裁,customs,制裁合规,pending
-Sectoral Sanctions,行业制裁,customs,制裁合规,pending
-SDN List,特别指定国民清单,customs,制裁合规,pending
-Sanctions Exemption License,制裁豁免许可,customs,制裁合规,pending
-Trade-based Money Laundering,贸易洗钱,customs,金融合规,pending
-Over-invoicing,高报价格,customs,金融合规,pending
-Split Shipment Clearance,分批报关,customs,申报方式,pending
-Consolidated Declaration,归并申报,customs,申报方式,pending
-Import Rights Record,进口收货人备案,customs,企业资质,pending
-Customs Registration Renewal,报关单位续期,customs,企业资质,pending
-China Customs Credit Rating Levels,中国海关信用等级（高级认证）,customs,企业信用,pending
-Duty Payment Direct Debit,关税三方协议扣款,customs,税款征管,pending
-Electronic Tax Payment Voucher,电子缴款凭证,customs,税款征管,pending
-Origin Marking Requirement,原产地标记要求,customs,原产地,pending
-Quota Certificate,配额证明文件,customs,配额管理,pending
+Beijing Daxing International Airport,北京大兴国际机场,transport,空运,published
+Shanghai Hongqiao International Airport,上海虹桥国际机场,transport,空运,published
+Ezhou Huahu Airport,鄂州花湖国际机场,transport,空运,published
+Changsha Huanghua International Airport,长沙黄花国际机场,transport,空运,published
+Hefei Xinqiao International Airport,合肥新桥国际机场,transport,空运,published
+Nanning Wuxu International Airport,南宁吴圩国际机场,transport,空运,published
+Guiyang Longdongbao Airport,贵阳龙洞堡机场,transport,空运,published
+Lanzhou Zhongchuan Airport,兰州中川国际机场,transport,空运,published
+Urumqi Diwopu International Airport,乌鲁木齐地窝堡国际机场,transport,空运,published
+Oslo Gardermoen Airport,奥斯陆加勒穆恩机场,transport,空运,published
+Stockholm Arlanda Airport,斯德哥尔摩阿兰达机场,transport,空运,published
+Liege Airport,列日机场,transport,空运,published
+Maastricht Aachen Airport,马斯特里赫特机场,transport,空运,published
+Prestwick Airport,普雷斯蒂克机场,transport,空运,published
+Zaragoza Airport,萨拉戈萨机场,transport,空运,published
+Budapest Airport,布达佩斯机场,transport,空运,published
+Prague Airport,布拉格机场,transport,空运,published
+Lyon Airport,里昂机场,transport,空运,published
+Athens Airport,雅典国际机场,transport,空运,published
+Lisbon Airport,里斯本机场,transport,空运,published
+Sharjah Airport,沙迦机场,transport,空运,published
+Riyadh King Khalid Airport,利雅得国王哈立德国际机场,transport,空运,published
+Jeddah King Abdulaziz Airport,吉达阿卜杜勒阿齐兹国际机场,transport,空运,published
+Louisville Muhammad Ali Airport,路易斯维尔国际机场,transport,空运,published
+Memphis International Airport,孟菲斯国际机场,transport,空运,published
+Cincinnati Northern Kentucky Airport,辛辛那提北肯塔基国际机场,transport,空运,published
+Anchorage Ted Stevens Airport,安克雷奇国际机场,transport,空运,published
+Huntsville International Airport,亨茨维尔国际机场,transport,空运,published
+Indianapolis International Airport,印第安纳波利斯国际机场,transport,空运,published
+Ontario Airport (California),安大略国际机场,transport,空运,published
+Lima Jorge Chavez Airport,利马豪尔赫·查韦斯机场,transport,空运,published
+Quito Mariscal Sucre Airport,基多苏克雷元帅机场,transport,空运,published
+Panama Tocumen Airport,巴拿马托库门机场,transport,空运,published
+Lagos Murtala Muhammed Airport,拉各斯穆尔塔拉·穆罕默德机场,transport,空运,published
+Perth Airport,珀斯机场,transport,空运,published
+Brisbane Airport,布里斯班机场,transport,空运,published
+Export Supervision Warehouse,出口监管仓库,customs,保税监管,published
+Bonded Logistics Park (Type B),保税物流中心（B型）,customs,保税监管,published
+Bonded Repair,保税维修,customs,保税监管,published
+Bonded R&D,保税研发,customs,保税监管,published
+Bonded Exhibition,保税展示交易,customs,保税监管,published
+Consolidated Tax Payment,汇总征税,customs,税款征管,published
+Direct Discharge at Berth,船边直提,customs,通关便利化,published
+Direct Loading on Arrival,抵港直装,customs,通关便利化,published
+Advance Declaration,提前申报,customs,通关便利化,published
+Integrated Clearance,全国通关一体化,customs,通关便利化,published
+Local Declaration Port Release,属地申报口岸验放,customs,通关便利化,published
+Self-declared Self-paid,自报自缴,customs,通关便利化,published
+Duty Recovery,关税追征,customs,税款征管,published
+Recovery Period,追征期限,customs,税款征管,published
+Supplementary Payment Decision,补税决定,customs,税款征管,published
+Administrative Reconsideration,海关行政复议,customs,法律救济,published
+Customs Administrative Litigation,海关行政诉讼,customs,法律救济,published
+HS 2022 Version,HS 目录 2022 版,customs,商品归类,published
+WCO HS Committee,WCO 协调制度委员会,customs,商品归类,published
+ACAS (Air Cargo Advance Screening),美国空运货物预审,customs,舱单预审,published
+PLACI (Pre-loading Advance Cargo Information),欧盟装货前货物信息预审,customs,舱单预审,published
+CDS (Customs Declaration Service),英国海关申报服务,customs,申报系统,published
+Tariff Quota Allocation,关税配额分配,customs,配额管理,published
+Exclusion Request (US 301),美国301排除申请,customs,贸易救济,published
+Exclusion List,关税排除清单,customs,贸易救济,published
+Single Consumption Standard,加工贸易单耗标准,customs,加工贸易,published
+Deep Processing Carry-over,深加工结转,customs,加工贸易,published
+Bonded Goods Transfer,保税货物结转,customs,加工贸易,published
+Immediate Transportation (US IT),美国保税立即运输,customs,美国制度,published
+In-bond Shipment,保税转运,customs,美国制度,published
+Foreign Trade Zone Status,美国对外贸易区状态,customs,美国制度,published
+Weekly Entry,每周合并申报,customs,美国制度,published
+Continuous Bond,美国年度关税保函,customs,美国制度,published
+Single Transaction Bond,美国单次交易保函,customs,美国制度,published
+Surety Company,担保公司,customs,美国制度,published
+Section 321,美国321条小额免税,customs,美国制度,published
+Import Permit (Automatic),自动进口许可证,customs,许可证管理,published
+Ozone Depleting Substances,消耗臭氧层物质管理,customs,环保合规,published
+F-gas Regulation,欧盟含氟气体法规,customs,环保合规,published
+POPs Regulation,持久性有机污染物法规,customs,环保合规,published
+Duty Suspension,关税中止,customs,税款征管,published
+Temporary Export,暂准出口,customs,暂准通关,published
+Repair and Return Declaration,维修物品报关,customs,暂准通关,published
+Warranty Replacement Import,保修件免税进口,customs,暂准通关,published
+Sample Import (NCV),无商业价值样品进口,customs,暂准通关,published
+Deemed Export Rule,视同出口规则,customs,出口管制,published
+Export Administration Regulations,美国出口管制条例,customs,出口管制,published
+ITAR,美国国际武器贸易条例,customs,出口管制,published
+Wassenaar Arrangement,瓦森纳安排,customs,出口管制,published
+Economic Sanctions,经济制裁,customs,制裁合规,published
+Sectoral Sanctions,行业制裁,customs,制裁合规,published
+SDN List,特别指定国民清单,customs,制裁合规,published
+Sanctions Exemption License,制裁豁免许可,customs,制裁合规,published
+Trade-based Money Laundering,贸易洗钱,customs,金融合规,published
+Over-invoicing,高报价格,customs,金融合规,published
+Split Shipment Clearance,分批报关,customs,申报方式,published
+Consolidated Declaration,归并申报,customs,申报方式,published
+Import Rights Record,进口收货人备案,customs,企业资质,published
+Customs Registration Renewal,报关单位续期,customs,企业资质,published
+China Customs Credit Rating Levels,中国海关信用等级（高级认证）,customs,企业信用,published
+Duty Payment Direct Debit,关税三方协议扣款,customs,税款征管,published
+Electronic Tax Payment Voucher,电子缴款凭证,customs,税款征管,published
+Origin Marking Requirement,原产地标记要求,customs,原产地,published
+Quota Certificate,配额证明文件,customs,配额管理,published
 Tariff-rate Quota Import License,关税配额进口许可证,customs,配额管理,pending
 RCEP Accumulation Rule,RCEP 累积规则,customs,原产地,pending
 Back-to-back Origin Certificate,背对背原产地证明,customs,原产地,pending
