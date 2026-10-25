@@ -2073,106 +2073,106 @@ CLC Convention,国际油污损害民事责任公约,insurance-claims,公约规�
 Bunkers Convention,国际船舶燃油污染损害公约,insurance-claims,公约规则,published
 Nairobi Wreck Removal Convention,内罗毕沉船打捞公约,insurance-claims,公约规则,published
 Annual Declaration (Insurance),年度保险申报,insurance-claims,投保规则,published
-Open Policy Number,预约保险单号,insurance-claims,保险单证,pending
-Insurance Broker Fee,保险经纪佣金,insurance-claims,保险费用,pending
-Survey Agent,检验代理,insurance-claims,理赔主体,pending
-Total Loss Only (TLO),只保全损险,insurance-claims,专项保险,pending
-FPA Damage Exclusion,平安险单独海损免赔,insurance-claims,条款规则,pending
-Particular Average Warranty,单独海损免赔约定,insurance-claims,条款规则,pending
-Both-to-Blame Collision Clause,互有过失碰撞条款,insurance-claims,海上法规,pending
-New Jason Clause,新杰森条款,insurance-claims,海上法规,pending
-York-Antwerp Rules,约克-安特卫普规则,insurance-claims,海上法规,pending
-Deviation (Insurance),绕航对保险的影响,insurance-claims,条款规则,pending
-Perils of the Sea,海上风险,insurance-claims,承保风险,pending
-Act of God,天灾,insurance-claims,承保风险,pending
-Inherent Vice,货物固有瑕疵,insurance-claims,除外责任,pending
-Ordinary Leakage and Wastage,自然损耗除外,insurance-claims,除外责任,pending
-Insufficiency of Packing Exclusion,包装不足除外责任,insurance-claims,除外责任,pending
-Delay Exclusion,延迟除外责任,insurance-claims,除外责任,pending
-Willful Misconduct Exclusion,被保险人故意行为除外,insurance-claims,除外责任,pending
-Unseaworthiness Exclusion,船舶不适航除外责任,insurance-claims,除外责任,pending
-Nuclear Exclusion,核风险除外,insurance-claims,除外责任,pending
-Loss of Market Exclusion,市价损失除外,insurance-claims,除外责任,pending
-Claim Settlement Currency,理赔结算货币,insurance-claims,理赔规则,pending
-Depreciation Settlement,折旧赔付,insurance-claims,理赔规则,pending
-Repair Estimate,维修估价,insurance-claims,理赔流程,pending
-Salvage Value,残值,insurance-claims,理赔规则,pending
-Safe Port Warranty,安全港口保证,transport,海事法律,pending
-Deviation Clause (Charter),绕航条款,transport,海事法律,pending
-Liberty Clause,自由绕航条款,transport,海事法律,pending
-Deck Cargo Clause,舱面货条款,transport,海事法律,pending
-Seaworthiness,船舶适航性,transport,海事法律,pending
-Due Diligence to Make Ship Seaworthy,谨慎处理使船舶适航,transport,海事法律,pending
-Nautical Fault,航行过失免责,transport,海事法律,pending
-Fire Exception,火灾免责,transport,海事法律,pending
-Latent Defect,潜在缺陷免责,transport,海事法律,pending
-Ship Arrest,船舶扣押,transport,海事法律,pending
-Maritime Lien,海事优先权,transport,海事法律,pending
-Cargo Attachment,货物司法保全,transport,海事法律,pending
-Misdelivery,错误交付,transport,海事法律,pending
-Delivery Without Original B/L,无正本提单放货,transport,海事法律,pending
-Limitation Fund for Maritime Claims,海事赔偿责任限制基金,transport,海事法律,pending
-LLMC Convention,海事赔偿责任限制公约,transport,海事法律,pending
-Inter-Club Agreement,NYPE 期租四分体协议,transport,海事法律,pending
-Safe Berth Warranty,安全泊位保证,transport,海事法律,pending
-Ice Clause (Charter),冰区条款,transport,海事法律,pending
-War Risks Clause (Charter),租约战争险条款,transport,海事法律,pending
-Cargo Claims Time Bar,货损索赔一年时效,transport,海事法律,pending
-Suit Jurisdiction,诉讼管辖约定,transport,海事法律,pending
-Arrest Release Security,扣船解除担保,transport,海事法律,pending
-Joint Survey,联合检验,transport,海事法律,pending
-Evidence of Damage,货损证据固定,transport,海事法律,pending
-Fixture Note,租船成交备忘录,transport,海事法律,pending
-Recap Sheet,租船确认摘要,transport,海事法律,pending
-Address Commission,回扣佣金,transport,海事法律,pending
-Brokerage Commission,租船经纪佣金,transport,海事法律,pending
-NVOCC Bond,无船承运人保证金,transport,海事法律,pending
-Arbitration Seat,仲裁地,transport,海事法律,pending
-Admiralty Court,海事法院,transport,海事法律,pending
-Protest (Sea Protest),海事声明,transport,海事法律,pending
-Extension of Time (Claim),索赔时效展期,transport,海事法律,pending
-Freight Earned Discount,运费赚得折扣,transport,海事法律,pending
-Measurement Cargo,轻泡货,transport,海事法律,pending
-IATA,国际航空运输协会,organizations,国际组织,pending
-ICAO,国际民用航空组织,organizations,国际组织,pending
-IMO,国际海事组织,organizations,国际组织,pending
-FIATA,国际货运代理协会联合会,organizations,行业组织,pending
-WCA (World Cargo Alliance),世界货运联盟,organizations,行业组织,pending
-CIFA,中国国际货运代理协会,organizations,行业组织,pending
-CFLP,中国物流与采购联合会,organizations,行业组织,pending
-Shanghai Shipping Exchange,上海航运交易所,organizations,行业组织,pending
-ICS (International Chamber of Shipping),国际航运公会,organizations,行业组织,pending
-BIMCO,波罗的海国际航运公会,organizations,行业组织,pending
-Baltic Exchange,波罗的海交易所,organizations,行业机构,pending
-ITF (International Transport Workers' Federation),国际运输工人联合会,organizations,国际组织,pending
-UNCTAD,联合国贸易和发展会议,organizations,国际组织,pending
-UNCITRAL,联合国国际贸易法委员会,organizations,国际组织,pending
-ICC (International Chamber of Commerce),国际商会,organizations,国际组织,pending
-OTIF,国际铁路运输政府间组织,organizations,国际组织,pending
-OSJD,铁路合作组织,organizations,国际组织,pending
-UPU (Universal Postal Union),万国邮政联盟,organizations,国际组织,pending
-GS1,GS1 国际物品编码组织,organizations,标准组织,pending
-DCSA (Digital Container Shipping Association),数字集装箱航运协会,organizations,标准组织,pending
-FIT Alliance,国际电子提单联盟,organizations,标准组织,pending
-SWIFT,环球银行金融电信协会,organizations,金融机构,pending
-FMC (Federal Maritime Commission),美国联邦海事委员会,organizations,政府机构,pending
-European Commission DG MOVE,欧盟委员会运输总司,organizations,政府机构,pending
-DG TAXUD,欧盟委员会税务与海关同盟总司,organizations,政府机构,pending
-OLAF,欧盟反欺诈办公室,organizations,政府机构,pending
-EMSA,欧洲海事安全局,organizations,政府机构,pending
-GACC,中国海关总署,organizations,政府机构,pending
-MOFCOM,中国商务部,organizations,政府机构,pending
-CAAC,中国民用航空局,organizations,政府机构,pending
-SAMR,中国国家市场监督管理总局,organizations,政府机构,pending
-MOT,中国交通运输部,organizations,政府机构,pending
-Bureau Veritas,必维国际检验集团,organizations,检验认证,pending
-SGS Group,瑞士通用公证行,organizations,检验认证,pending
-Intertek,天祥集团,organizations,检验认证,pending
-TUV Rheinland,德国莱茵TUV集团,organizations,检验认证,pending
-Lloyd's Register,劳氏船级社,organizations,船级社,pending
-DNV,挪威船级社,organizations,船级社,pending
-ABS (American Bureau of Shipping),美国船级社,organizations,船级社,pending
-CCS,中国船级社,organizations,船级社,pending
+Open Policy Number,预约保险单号,insurance-claims,保险单证,published
+Insurance Broker Fee,保险经纪佣金,insurance-claims,保险费用,published
+Survey Agent,检验代理,insurance-claims,理赔主体,published
+Total Loss Only (TLO),只保全损险,insurance-claims,专项保险,published
+FPA Damage Exclusion,平安险单独海损免赔,insurance-claims,条款规则,published
+Particular Average Warranty,单独海损免赔约定,insurance-claims,条款规则,published
+Both-to-Blame Collision Clause,互有过失碰撞条款,insurance-claims,海上法规,published
+New Jason Clause,新杰森条款,insurance-claims,海上法规,published
+York-Antwerp Rules,约克-安特卫普规则,insurance-claims,海上法规,published
+Deviation (Insurance),绕航对保险的影响,insurance-claims,条款规则,published
+Perils of the Sea,海上风险,insurance-claims,承保风险,published
+Act of God,天灾,insurance-claims,承保风险,published
+Inherent Vice,货物固有瑕疵,insurance-claims,除外责任,published
+Ordinary Leakage and Wastage,自然损耗除外,insurance-claims,除外责任,published
+Insufficiency of Packing Exclusion,包装不足除外责任,insurance-claims,除外责任,published
+Delay Exclusion,延迟除外责任,insurance-claims,除外责任,published
+Willful Misconduct Exclusion,被保险人故意行为除外,insurance-claims,除外责任,published
+Unseaworthiness Exclusion,船舶不适航除外责任,insurance-claims,除外责任,published
+Nuclear Exclusion,核风险除外,insurance-claims,除外责任,published
+Loss of Market Exclusion,市价损失除外,insurance-claims,除外责任,published
+Claim Settlement Currency,理赔结算货币,insurance-claims,理赔规则,published
+Depreciation Settlement,折旧赔付,insurance-claims,理赔规则,published
+Repair Estimate,维修估价,insurance-claims,理赔流程,published
+Salvage Value,残值,insurance-claims,理赔规则,published
+Safe Port Warranty,安全港口保证,transport,海事法律,published
+Deviation Clause (Charter),绕航条款,transport,海事法律,published
+Liberty Clause,自由绕航条款,transport,海事法律,published
+Deck Cargo Clause,舱面货条款,transport,海事法律,published
+Seaworthiness,船舶适航性,transport,海事法律,published
+Due Diligence to Make Ship Seaworthy,谨慎处理使船舶适航,transport,海事法律,published
+Nautical Fault,航行过失免责,transport,海事法律,published
+Fire Exception,火灾免责,transport,海事法律,published
+Latent Defect,潜在缺陷免责,transport,海事法律,published
+Ship Arrest,船舶扣押,transport,海事法律,published
+Maritime Lien,海事优先权,transport,海事法律,published
+Cargo Attachment,货物司法保全,transport,海事法律,published
+Misdelivery,错误交付,transport,海事法律,published
+Delivery Without Original B/L,无正本提单放货,transport,海事法律,published
+Limitation Fund for Maritime Claims,海事赔偿责任限制基金,transport,海事法律,published
+LLMC Convention,海事赔偿责任限制公约,transport,海事法律,published
+Inter-Club Agreement,NYPE 期租四分体协议,transport,海事法律,published
+Safe Berth Warranty,安全泊位保证,transport,海事法律,published
+Ice Clause (Charter),冰区条款,transport,海事法律,published
+War Risks Clause (Charter),租约战争险条款,transport,海事法律,published
+Cargo Claims Time Bar,货损索赔一年时效,transport,海事法律,published
+Suit Jurisdiction,诉讼管辖约定,transport,海事法律,published
+Arrest Release Security,扣船解除担保,transport,海事法律,published
+Joint Survey,联合检验,transport,海事法律,published
+Evidence of Damage,货损证据固定,transport,海事法律,published
+Fixture Note,租船成交备忘录,transport,海事法律,published
+Recap Sheet,租船确认摘要,transport,海事法律,published
+Address Commission,回扣佣金,transport,海事法律,published
+Brokerage Commission,租船经纪佣金,transport,海事法律,published
+NVOCC Bond,无船承运人保证金,transport,海事法律,published
+Arbitration Seat,仲裁地,transport,海事法律,published
+Admiralty Court,海事法院,transport,海事法律,published
+Protest (Sea Protest),海事声明,transport,海事法律,published
+Extension of Time (Claim),索赔时效展期,transport,海事法律,published
+Freight Earned Discount,运费赚得折扣,transport,海事法律,published
+Measurement Cargo,轻泡货,transport,海事法律,published
+IATA,国际航空运输协会,organizations,国际组织,published
+ICAO,国际民用航空组织,organizations,国际组织,published
+IMO,国际海事组织,organizations,国际组织,published
+FIATA,国际货运代理协会联合会,organizations,行业组织,published
+WCA (World Cargo Alliance),世界货运联盟,organizations,行业组织,published
+CIFA,中国国际货运代理协会,organizations,行业组织,published
+CFLP,中国物流与采购联合会,organizations,行业组织,published
+Shanghai Shipping Exchange,上海航运交易所,organizations,行业组织,published
+ICS (International Chamber of Shipping),国际航运公会,organizations,行业组织,published
+BIMCO,波罗的海国际航运公会,organizations,行业组织,published
+Baltic Exchange,波罗的海交易所,organizations,行业机构,published
+ITF (International Transport Workers' Federation),国际运输工人联合会,organizations,国际组织,published
+UNCTAD,联合国贸易和发展会议,organizations,国际组织,published
+UNCITRAL,联合国国际贸易法委员会,organizations,国际组织,published
+ICC (International Chamber of Commerce),国际商会,organizations,国际组织,published
+OTIF,国际铁路运输政府间组织,organizations,国际组织,published
+OSJD,铁路合作组织,organizations,国际组织,published
+UPU (Universal Postal Union),万国邮政联盟,organizations,国际组织,published
+GS1,GS1 国际物品编码组织,organizations,标准组织,published
+DCSA (Digital Container Shipping Association),数字集装箱航运协会,organizations,标准组织,published
+FIT Alliance,国际电子提单联盟,organizations,标准组织,published
+SWIFT,环球银行金融电信协会,organizations,金融机构,published
+FMC (Federal Maritime Commission),美国联邦海事委员会,organizations,政府机构,published
+European Commission DG MOVE,欧盟委员会运输总司,organizations,政府机构,published
+DG TAXUD,欧盟委员会税务与海关同盟总司,organizations,政府机构,published
+OLAF,欧盟反欺诈办公室,organizations,政府机构,published
+EMSA,欧洲海事安全局,organizations,政府机构,published
+GACC,中国海关总署,organizations,政府机构,published
+MOFCOM,中国商务部,organizations,政府机构,published
+CAAC,中国民用航空局,organizations,政府机构,published
+SAMR,中国国家市场监督管理总局,organizations,政府机构,published
+MOT,中国交通运输部,organizations,政府机构,published
+Bureau Veritas,必维国际检验集团,organizations,检验认证,published
+SGS Group,瑞士通用公证行,organizations,检验认证,published
+Intertek,天祥集团,organizations,检验认证,published
+TUV Rheinland,德国莱茵TUV集团,organizations,检验认证,published
+Lloyd's Register,劳氏船级社,organizations,船级社,published
+DNV,挪威船级社,organizations,船级社,published
+ABS (American Bureau of Shipping),美国船级社,organizations,船级社,published
+CCS,中国船级社,organizations,船级社,published
 KR (Korean Register),韩国船级社,organizations,船级社,pending
 ClassNK,日本船级社,organizations,船级社,pending
 RINA,意大利船级社,organizations,船级社,pending
