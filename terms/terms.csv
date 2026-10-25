@@ -1874,7 +1874,7 @@ Collection Agency,商账追收机构,freight-finance,应收账款,published
 Export Credit Insurance Limit,信用保险限额,freight-finance,信用保险,published
 Buyer Credit Limit Application,买方限额申请,freight-finance,信用保险,published
 Claim under Credit Insurance,信用保险索赔,freight-finance,信用保险,published
-Ship Mortgage,船舶抵押贷款,freight-finance,航运金融,pending
+Ship Mortgage,船舶抵押贷款,freight-finance,航运金融,published
 Ship Finance,船舶融资,freight-finance,航运金融,published
 Sale and Leaseback (Vessel),船舶售后回租,freight-finance,航运金融,published
 Container Leasing Finance,集装箱租赁融资,freight-finance,租赁金融,published
@@ -1974,105 +1974,105 @@ Re-handle,翻倒作业,transport,码头作业,published
 Berth Productivity,泊位作业效率,transport,码头作业,published
 Moves per Hour,每小时作业箱量,transport,码头作业,published
 Crane Productivity,桥吊作业效率,transport,码头作业,published
-Vessel Productivity,船舶在泊效率,transport,码头作业,pending
-Night Shift Operation,码头夜班作业,transport,码头作业,pending
-Hatch Cover,货舱舱盖,transport,船舶结构,pending
-Cargo Gear,船舶起重设备,transport,船舶结构,pending
-Cell Guide System,箱格导轨系统,transport,船舶结构,pending
-Lashing Bridge,绑扎桥,transport,船舶结构,pending
-Gangway,舷梯,transport,船舶结构,pending
-Mooring Winch,系泊绞车,transport,船舶结构,pending
-Ship-to-shore Power Connection,船舶岸电连接,transport,绿色港口,pending
-Onshore Power Supply,岸基供电,transport,绿色港口,pending
-Green Port Certification,绿色港口认证,transport,绿色港口,pending
-Biofuel B24,B24 生物燃料,transport,绿色燃料,pending
-Biofuel B30,B30 生物燃料,transport,绿色燃料,pending
-Green Methanol,绿色甲醇燃料,transport,绿色燃料,pending
-Ammonia Fuel,氨燃料,transport,绿色燃料,pending
-LNG Dual Fuel,LNG 双燃料动力,transport,绿色燃料,pending
-Wind-assisted Propulsion,风帆助推系统,transport,绿色燃料,pending
-Rotor Sail,旋筒风帆,transport,绿色燃料,pending
-FuelEU Maritime,欧盟航运燃料法规,transport,绿色法规,pending
-EU Taxonomy Shipping,欧盟分类法航运标准,transport,绿色法规,pending
-Carbon Insetting,运输链内碳减排,transport,碳管理,pending
-Carbon Offset (Freight),货运碳抵消,transport,碳管理,pending
-Carbon Neutral Shipping,碳中和运输服务,transport,碳管理,pending
-ISO 14083,运输链温室气体量化标准,transport,碳管理,pending
-GLEC Framework,全球物流排放核算框架,transport,碳管理,pending
-Smart Freight Centre,智能货运中心,transport,碳管理,pending
-Emission Factor,排放因子,transport,碳管理,pending
-Well-to-wheel Emission,全生命周期排放,transport,碳管理,pending
-Modal Shift Carbon Saving,运输结构调整减碳,transport,碳管理,pending
-Route Optimization Carbon Saving,路径优化降碳,transport,碳管理,pending
-Load Factor Improvement,装载率提升减碳,transport,碳管理,pending
-Packaging Reduction,包装减量化,warehousing,绿色仓储,pending
-Recyclable Packaging,可回收包装,warehousing,绿色仓储,pending
-Reusable Container System,循环周转箱体系,warehousing,绿色仓储,pending
-Deposit and Return Scheme,押金返还制度,warehousing,绿色仓储,pending
-ICC (A) Clause,协会货物条款A险,insurance-claims,条款险别,pending
-ICC (B) Clause,协会货物条款B险,insurance-claims,条款险别,pending
-ICC (C) Clause,协会货物条款C险,insurance-claims,条款险别,pending
-Institute War Clauses,协会战争险条款,insurance-claims,条款险别,pending
-Institute Strikes Clauses,协会罢工险条款,insurance-claims,条款险别,pending
-Institute Classification Clause,协会船级条款,insurance-claims,条款险别,pending
-Institute Replacement Clause,协会重置条款,insurance-claims,条款险别,pending
-Termination of Transit Clause,运输终止条款,insurance-claims,条款险别,pending
-Change of Voyage Clause,航程变更条款,insurance-claims,条款险别,pending
-SRCC Risk (Strikes Riots Civil Commotions),罢工暴动民变险,insurance-claims,附加险别,pending
-Theft Pilferage and Non-delivery Risk,偷窃提货不着险,insurance-claims,附加险别,pending
-Fresh Water and Rain Damage Risk,淡水雨淋险,insurance-claims,附加险别,pending
-Hook Damage Risk,钩损险,insurance-claims,附加险别,pending
-Sweating and Heating Risk,受潮受热险,insurance-claims,附加险别,pending
-Breakage Risk,破损破碎险,insurance-claims,附加险别,pending
-Taint of Odour Risk,串味险,insurance-claims,附加险别,pending
-Rust Risk,锈损险,insurance-claims,附加险别,pending
-Shortage Risk,短量险,insurance-claims,附加险别,pending
-Intermixture and Contamination Risk,混杂玷污险,insurance-claims,附加险别,pending
-Leakage Risk,渗漏险,insurance-claims,附加险别,pending
-Rejection Risk,拒收险,insurance-claims,附加险别,pending
-Import Duty Risk,关税险,insurance-claims,附加险别,pending
-Delay in Delivery Risk,延误险,insurance-claims,附加险别,pending
-On Deck Risk,舱面险,insurance-claims,附加险别,pending
-Seller's Interest Insurance,卖方利益险,insurance-claims,特殊险别,pending
-Buyer's Interest Insurance,买方利益险,insurance-claims,特殊险别,pending
-CIF Value Plus Ten Percent,加一成投保,insurance-claims,投保规则,pending
-Over Insurance,超额保险,insurance-claims,投保规则,pending
-Under Insurance,不足额保险,insurance-claims,投保规则,pending
-Double Insurance,重复保险,insurance-claims,投保规则,pending
-Reinsurance,再保险,insurance-claims,保险业务,pending
-Underwriter,保险承保人,insurance-claims,保险主体,pending
-Policyholder,投保人,insurance-claims,保险主体,pending
-Proposal Form,投保单,insurance-claims,保险单证,pending
-Endorsement (Insurance),保险批单,insurance-claims,保险单证,pending
-Time Bar for Claims,索赔时效,insurance-claims,理赔规则,pending
-Notice of Abandonment,委付通知,insurance-claims,理赔规则,pending
-Average Bond,海损协议书,insurance-claims,理赔规则,pending
-Salvage Agreement (LOF),劳氏救助合同,insurance-claims,救助规则,pending
-SCOPIC Clause,SCOPIC 特别补偿条款,insurance-claims,救助规则,pending
-Salvage Award,救助报酬,insurance-claims,救助规则,pending
-Wreck Removal,沉船打捞,insurance-claims,救助规则,pending
-Recovery Claim,追偿索赔,insurance-claims,理赔规则,pending
-Third-party Claim,第三方索赔,insurance-claims,理赔规则,pending
-Claims Co-operation Clause,理赔合作条款,insurance-claims,理赔规则,pending
-Loss Ratio,赔付率,insurance-claims,保险经营,pending
-Underwriting,承保,insurance-claims,保险经营,pending
-Risk Assessment (Insurance),风险评估,insurance-claims,保险经营,pending
-Marine Fraud,海运欺诈,insurance-claims,风险防范,pending
-Cargo Theft,货物盗窃,insurance-claims,风险防范,pending
-Theft from Sealed Container,整箱铅封完好被盗,insurance-claims,风险防范,pending
-Warehouse Theft,仓储失窃,insurance-claims,风险防范,pending
-High Value Cargo Insurance,高价值货物保险,insurance-claims,专项保险,pending
-Stock Throughput Insurance,仓至仓一体物流保险,insurance-claims,专项保险,pending
-Freight Forwarder's Liability Insurance,货运代理责任险,insurance-claims,责任保险,pending
-Carrier's Liability Insurance,承运人责任险,insurance-claims,责任保险,pending
-Logistics Operator Liability Insurance,物流经营人责任险,insurance-claims,责任保险,pending
-Warehouse Legal Liability Insurance,仓储法律责任险,insurance-claims,责任保险,pending
-Errors and Omissions Insurance,职业责任险,insurance-claims,责任保险,pending
-Cyber Risk in Logistics,物流网络安全风险,insurance-claims,新型风险,pending
-CLC Convention,国际油污损害民事责任公约,insurance-claims,公约规则,pending
-Bunkers Convention,国际船舶燃油污染损害公约,insurance-claims,公约规则,pending
-Nairobi Wreck Removal Convention,内罗毕沉船打捞公约,insurance-claims,公约规则,pending
-Annual Declaration (Insurance),年度保险申报,insurance-claims,投保规则,pending
+Vessel Productivity,船舶在泊效率,transport,码头作业,published
+Night Shift Operation,码头夜班作业,transport,码头作业,published
+Hatch Cover,货舱舱盖,transport,船舶结构,published
+Cargo Gear,船舶起重设备,transport,船舶结构,published
+Cell Guide System,箱格导轨系统,transport,船舶结构,published
+Lashing Bridge,绑扎桥,transport,船舶结构,published
+Gangway,舷梯,transport,船舶结构,published
+Mooring Winch,系泊绞车,transport,船舶结构,published
+Ship-to-shore Power Connection,船舶岸电连接,transport,绿色港口,published
+Onshore Power Supply,岸基供电,transport,绿色港口,published
+Green Port Certification,绿色港口认证,transport,绿色港口,published
+Biofuel B24,B24 生物燃料,transport,绿色燃料,published
+Biofuel B30,B30 生物燃料,transport,绿色燃料,published
+Green Methanol,绿色甲醇燃料,transport,绿色燃料,published
+Ammonia Fuel,氨燃料,transport,绿色燃料,published
+LNG Dual Fuel,LNG 双燃料动力,transport,绿色燃料,published
+Wind-assisted Propulsion,风帆助推系统,transport,绿色燃料,published
+Rotor Sail,旋筒风帆,transport,绿色燃料,published
+FuelEU Maritime,欧盟航运燃料法规,transport,绿色法规,published
+EU Taxonomy Shipping,欧盟分类法航运标准,transport,绿色法规,published
+Carbon Insetting,运输链内碳减排,transport,碳管理,published
+Carbon Offset (Freight),货运碳抵消,transport,碳管理,published
+Carbon Neutral Shipping,碳中和运输服务,transport,碳管理,published
+ISO 14083,运输链温室气体量化标准,transport,碳管理,published
+GLEC Framework,全球物流排放核算框架,transport,碳管理,published
+Smart Freight Centre,智能货运中心,transport,碳管理,published
+Emission Factor,排放因子,transport,碳管理,published
+Well-to-wheel Emission,全生命周期排放,transport,碳管理,published
+Modal Shift Carbon Saving,运输结构调整减碳,transport,碳管理,published
+Route Optimization Carbon Saving,路径优化降碳,transport,碳管理,published
+Load Factor Improvement,装载率提升减碳,transport,碳管理,published
+Packaging Reduction,包装减量化,warehousing,绿色仓储,published
+Recyclable Packaging,可回收包装,warehousing,绿色仓储,published
+Reusable Container System,循环周转箱体系,warehousing,绿色仓储,published
+Deposit and Return Scheme,押金返还制度,warehousing,绿色仓储,published
+ICC (A) Clause,协会货物条款A险,insurance-claims,条款险别,published
+ICC (B) Clause,协会货物条款B险,insurance-claims,条款险别,published
+ICC (C) Clause,协会货物条款C险,insurance-claims,条款险别,published
+Institute War Clauses,协会战争险条款,insurance-claims,条款险别,published
+Institute Strikes Clauses,协会罢工险条款,insurance-claims,条款险别,published
+Institute Classification Clause,协会船级条款,insurance-claims,条款险别,published
+Institute Replacement Clause,协会重置条款,insurance-claims,条款险别,published
+Termination of Transit Clause,运输终止条款,insurance-claims,条款险别,published
+Change of Voyage Clause,航程变更条款,insurance-claims,条款险别,published
+SRCC Risk (Strikes Riots Civil Commotions),罢工暴动民变险,insurance-claims,附加险别,published
+Theft Pilferage and Non-delivery Risk,偷窃提货不着险,insurance-claims,附加险别,published
+Fresh Water and Rain Damage Risk,淡水雨淋险,insurance-claims,附加险别,published
+Hook Damage Risk,钩损险,insurance-claims,附加险别,published
+Sweating and Heating Risk,受潮受热险,insurance-claims,附加险别,published
+Breakage Risk,破损破碎险,insurance-claims,附加险别,published
+Taint of Odour Risk,串味险,insurance-claims,附加险别,published
+Rust Risk,锈损险,insurance-claims,附加险别,published
+Shortage Risk,短量险,insurance-claims,附加险别,published
+Intermixture and Contamination Risk,混杂玷污险,insurance-claims,附加险别,published
+Leakage Risk,渗漏险,insurance-claims,附加险别,published
+Rejection Risk,拒收险,insurance-claims,附加险别,published
+Import Duty Risk,关税险,insurance-claims,附加险别,published
+Delay in Delivery Risk,延误险,insurance-claims,附加险别,published
+On Deck Risk,舱面险,insurance-claims,附加险别,published
+Seller's Interest Insurance,卖方利益险,insurance-claims,特殊险别,published
+Buyer's Interest Insurance,买方利益险,insurance-claims,特殊险别,published
+CIF Value Plus Ten Percent,加一成投保,insurance-claims,投保规则,published
+Over Insurance,超额保险,insurance-claims,投保规则,published
+Under Insurance,不足额保险,insurance-claims,投保规则,published
+Double Insurance,重复保险,insurance-claims,投保规则,published
+Reinsurance,再保险,insurance-claims,保险业务,published
+Underwriter,保险承保人,insurance-claims,保险主体,published
+Policyholder,投保人,insurance-claims,保险主体,published
+Proposal Form,投保单,insurance-claims,保险单证,published
+Endorsement (Insurance),保险批单,insurance-claims,保险单证,published
+Time Bar for Claims,索赔时效,insurance-claims,理赔规则,published
+Notice of Abandonment,委付通知,insurance-claims,理赔规则,published
+Average Bond,海损协议书,insurance-claims,理赔规则,published
+Salvage Agreement (LOF),劳氏救助合同,insurance-claims,救助规则,published
+SCOPIC Clause,SCOPIC 特别补偿条款,insurance-claims,救助规则,published
+Salvage Award,救助报酬,insurance-claims,救助规则,published
+Wreck Removal,沉船打捞,insurance-claims,救助规则,published
+Recovery Claim,追偿索赔,insurance-claims,理赔规则,published
+Third-party Claim,第三方索赔,insurance-claims,理赔规则,published
+Claims Co-operation Clause,理赔合作条款,insurance-claims,理赔规则,published
+Loss Ratio,赔付率,insurance-claims,保险经营,published
+Underwriting,承保,insurance-claims,保险经营,published
+Risk Assessment (Insurance),风险评估,insurance-claims,保险经营,published
+Marine Fraud,海运欺诈,insurance-claims,风险防范,published
+Cargo Theft,货物盗窃,insurance-claims,风险防范,published
+Theft from Sealed Container,整箱铅封完好被盗,insurance-claims,风险防范,published
+Warehouse Theft,仓储失窃,insurance-claims,风险防范,published
+High Value Cargo Insurance,高价值货物保险,insurance-claims,专项保险,published
+Stock Throughput Insurance,仓至仓一体物流保险,insurance-claims,专项保险,published
+Freight Forwarder's Liability Insurance,货运代理责任险,insurance-claims,责任保险,published
+Carrier's Liability Insurance,承运人责任险,insurance-claims,责任保险,published
+Logistics Operator Liability Insurance,物流经营人责任险,insurance-claims,责任保险,published
+Warehouse Legal Liability Insurance,仓储法律责任险,insurance-claims,责任保险,published
+Errors and Omissions Insurance,职业责任险,insurance-claims,责任保险,published
+Cyber Risk in Logistics,物流网络安全风险,insurance-claims,新型风险,published
+CLC Convention,国际油污损害民事责任公约,insurance-claims,公约规则,published
+Bunkers Convention,国际船舶燃油污染损害公约,insurance-claims,公约规则,published
+Nairobi Wreck Removal Convention,内罗毕沉船打捞公约,insurance-claims,公约规则,published
+Annual Declaration (Insurance),年度保险申报,insurance-claims,投保规则,published
 Open Policy Number,预约保险单号,insurance-claims,保险单证,pending
 Insurance Broker Fee,保险经纪佣金,insurance-claims,保险费用,pending
 Survey Agent,检验代理,insurance-claims,理赔主体,pending
