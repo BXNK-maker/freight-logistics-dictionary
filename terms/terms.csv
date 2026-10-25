@@ -2173,106 +2173,106 @@ Lloyd's Register,劳氏船级社,organizations,船级社,published
 DNV,挪威船级社,organizations,船级社,published
 ABS (American Bureau of Shipping),美国船级社,organizations,船级社,published
 CCS,中国船级社,organizations,船级社,published
-KR (Korean Register),韩国船级社,organizations,船级社,pending
-ClassNK,日本船级社,organizations,船级社,pending
-RINA,意大利船级社,organizations,船级社,pending
-International Group of P&I Clubs,国际保赔协会集团,organizations,保险组织,pending
-Lloyd's of London,伦敦劳合社,organizations,保险机构,pending
-GAFTA,谷物与饲料贸易协会,organizations,行业组织,pending
-FOSFA,国际油类油籽和油脂协会,organizations,行业组织,pending
-FONASBA,国际船代和船舶经纪人协会联合会,organizations,行业组织,pending
-INTERCARGO,国际干散货船东协会,organizations,行业组织,pending
-INTERTANKO,国际独立油轮船东协会,organizations,行业组织,pending
-World Shipping Council,世界航运理事会,organizations,行业组织,pending
-Global Shippers Forum,国际货主论坛,organizations,行业组织,pending
-TAPA,国际资产保护协会,organizations,行业组织,pending
-C-TPAT,海关-商贸反恐联盟,organizations,安全认证,pending
-IAPH,国际港口协会,organizations,行业组织,pending
-IATA CASS,航空货运账目结算系统,organizations,结算机制,pending
-IATA BSP,开账与结算计划,organizations,结算机制,pending
-IATA e-freight,IATA 电子货运,organizations,标准项目,pending
-SOLAS Convention,国际海上人命安全公约,organizations,公约规则,pending
-ISM Code,国际安全管理规则,organizations,公约规则,pending
-ISPS Code,国际船舶和港口设施保安规则,organizations,公约规则,pending
-ISO 9001,质量管理体系认证,organizations,管理体系,pending
-ISO 14001,环境管理体系认证,organizations,管理体系,pending
-ISO 45001,职业健康安全管理体系认证,organizations,管理体系,pending
-ISO 28000,供应链安全管理体系认证,organizations,管理体系,pending
-ISO 17712,高安全货物铅封标准,organizations,技术标准,pending
-First Mile,揽收首公里,transport,快递电商,pending
-EMS (Express Mail Service),邮政特快专递,transport,快递电商,pending
-Postal Parcel,邮政包裹,transport,快递电商,pending
-Small Packet,邮政小包,transport,快递电商,pending
-Registered Mail,挂号邮件,transport,快递电商,pending
-Tracking Number,物流追踪单号,transport,快递电商,pending
-Failed Delivery,投递失败,transport,快递电商,pending
-Return to Sender,退回寄件人,transport,快递电商,pending
-Undeliverable as Addressed,地址不详无法投递,transport,快递电商,pending
-Redelivery,二次投递,transport,快递电商,pending
-Delivery Window,配送时间窗,transport,快递电商,pending
-Amazon FBA,亚马逊FBA配送,transport,快递电商,pending
-FBM (Fulfillment by Merchant),卖家自发货,transport,快递电商,pending
-FBA Preparation Service,FBA 入仓预处理,transport,快递电商,pending
-FBA Removal Order,FBA 移除订单,transport,快递电商,pending
-Marketplace Fulfillment,平台代发货,transport,快递电商,pending
-Third-party Fulfillment,第三方仓储代发,transport,快递电商,pending
-Zone Skipping,跳区直发,transport,快递电商,pending
-Parcel Consolidation,包裹集运,transport,快递电商,pending
-Postal Induction,邮件批量交寄,transport,快递电商,pending
-Duty Prepaid Express,关税预付快递,transport,快递电商,pending
-DDP Dedicated Line,包税专线,transport,快递电商,pending
-Dedicated Line Service,专线小包,transport,快递电商,pending
-Sea Freight Parcel,海运小包,transport,快递电商,pending
-Air Freight Parcel,空运专线小包,transport,快递电商,pending
-Saver Service,经济型快递服务,transport,快递电商,pending
-Express Service,特快快递服务,transport,快递电商,pending
-Same-city Instant Delivery,即时配送,transport,快递电商,pending
-Consolidated Returns,退货集运,transport,快递电商,pending
-Out for Delivery,派送途中,transport,快递电商,pending
-Attempted Delivery Notice,派送未果通知,transport,快递电商,pending
-Signature Required,签名签收要求,transport,快递电商,pending
-Adult Signature,成人签收,transport,快递电商,pending
-Direct Signature,本人直接签收,transport,快递电商,pending
-Package Interception,包裹拦截,transport,快递电商,pending
-Delivery Instruction,投递指令,transport,快递电商,pending
-Safe Drop,安全放置投递,transport,快递电商,pending
-Parcel Locker Pickup Code,快递柜取件码,transport,快递电商,pending
-Cross-border Returns Center,跨境退货中心,transport,快递电商,pending
-Returnless Refund,仅退款不退货,transport,快递电商,pending
-Disposal of Returns,退货就地销毁,transport,快递电商,pending
-Refurbished Resale Channel,翻新二次销售渠道,transport,快递电商,pending
-Parcel Dimension Fraud,包裹体积作弊,transport,快递电商,pending
-Address Normalization,地址标准化清洗,transport,快递电商,pending
-Delivery Density,投递密度,transport,快递电商,pending
-Route Density Optimization,配送路线密度优化,transport,快递电商,pending
-Courier Micro-depot,快递微型驿站,transport,快递电商,pending
-Peak Surcharge (Express),快递旺季附加费,transport,快递电商,pending
-Demand Surcharge,需求附加费,transport,快递电商,pending
-Courier Contract Negotiation,快递协议价谈判,transport,快递电商,pending
-Cai Mep Port,蔡梅港,transport,港口,pending
-Sihanoukville Port,西哈努克港,transport,港口,pending
-Yangon Port,仰光港,transport,港口,pending
-Bandar Abbas Port,阿巴斯港,transport,港口,pending
-Cochin Port,科钦港,transport,港口,pending
-Visakhapatnam Port,维沙卡帕特南港,transport,港口,pending
-Haldia Port,哈尔迪亚港,transport,港口,pending
-Hazira Port,哈兹拉港,transport,港口,pending
-Sohar Port,苏哈尔港,transport,港口,pending
-Salalah Port,塞拉莱港,transport,港口,pending
-Khalifa Port,哈利法港,transport,港口,pending
-Jubail Port,朱拜勒港,transport,港口,pending
-Aqaba Port,亚喀巴港,transport,港口,pending
-Beirut Port,贝鲁特港,transport,港口,pending
-Zeebrugge Port,泽布鲁日港,transport,港口,pending
-Leixoes Port,莱克索斯港,transport,港口,pending
-Sines Port,锡尼什港,transport,港口,pending
-Gioia Tauro Port,焦亚陶罗港,transport,港口,pending
-Taranto Port,塔兰托港,transport,港口,pending
-Marsaxlokk Port,马尔萨什洛克港,transport,港口,pending
-Odessa Port,敖德萨港,transport,港口,pending
-Novorossiysk Port,新罗西斯克港,transport,港口,pending
-Saint Petersburg Port,圣彼得堡港,transport,港口,pending
-Ust-Luga Port,乌斯季卢加港,transport,港口,pending
+KR (Korean Register),韩国船级社,organizations,船级社,published
+ClassNK,日本船级社,organizations,船级社,published
+RINA,意大利船级社,organizations,船级社,published
+International Group of P&I Clubs,国际保赔协会集团,organizations,保险组织,published
+Lloyd's of London,伦敦劳合社,organizations,保险机构,published
+GAFTA,谷物与饲料贸易协会,organizations,行业组织,published
+FOSFA,国际油类油籽和油脂协会,organizations,行业组织,published
+FONASBA,国际船代和船舶经纪人协会联合会,organizations,行业组织,published
+INTERCARGO,国际干散货船东协会,organizations,行业组织,published
+INTERTANKO,国际独立油轮船东协会,organizations,行业组织,published
+World Shipping Council,世界航运理事会,organizations,行业组织,published
+Global Shippers Forum,国际货主论坛,organizations,行业组织,published
+TAPA,国际资产保护协会,organizations,行业组织,published
+C-TPAT,海关-商贸反恐联盟,organizations,安全认证,published
+IAPH,国际港口协会,organizations,行业组织,published
+IATA CASS,航空货运账目结算系统,organizations,结算机制,published
+IATA BSP,开账与结算计划,organizations,结算机制,published
+IATA e-freight,IATA 电子货运,organizations,标准项目,published
+SOLAS Convention,国际海上人命安全公约,organizations,公约规则,published
+ISM Code,国际安全管理规则,organizations,公约规则,published
+ISPS Code,国际船舶和港口设施保安规则,organizations,公约规则,published
+ISO 9001,质量管理体系认证,organizations,管理体系,published
+ISO 14001,环境管理体系认证,organizations,管理体系,published
+ISO 45001,职业健康安全管理体系认证,organizations,管理体系,published
+ISO 28000,供应链安全管理体系认证,organizations,管理体系,published
+ISO 17712,高安全货物铅封标准,organizations,技术标准,published
+First Mile,揽收首公里,transport,快递电商,published
+EMS (Express Mail Service),邮政特快专递,transport,快递电商,published
+Postal Parcel,邮政包裹,transport,快递电商,published
+Small Packet,邮政小包,transport,快递电商,published
+Registered Mail,挂号邮件,transport,快递电商,published
+Tracking Number,物流追踪单号,transport,快递电商,published
+Failed Delivery,投递失败,transport,快递电商,published
+Return to Sender,退回寄件人,transport,快递电商,published
+Undeliverable as Addressed,地址不详无法投递,transport,快递电商,published
+Redelivery,二次投递,transport,快递电商,published
+Delivery Window,配送时间窗,transport,快递电商,published
+Amazon FBA,亚马逊FBA配送,transport,快递电商,published
+FBM (Fulfillment by Merchant),卖家自发货,transport,快递电商,published
+FBA Preparation Service,FBA 入仓预处理,transport,快递电商,published
+FBA Removal Order,FBA 移除订单,transport,快递电商,published
+Marketplace Fulfillment,平台代发货,transport,快递电商,published
+Third-party Fulfillment,第三方仓储代发,transport,快递电商,published
+Zone Skipping,跳区直发,transport,快递电商,published
+Parcel Consolidation,包裹集运,transport,快递电商,published
+Postal Induction,邮件批量交寄,transport,快递电商,published
+Duty Prepaid Express,关税预付快递,transport,快递电商,published
+DDP Dedicated Line,包税专线,transport,快递电商,published
+Dedicated Line Service,专线小包,transport,快递电商,published
+Sea Freight Parcel,海运小包,transport,快递电商,published
+Air Freight Parcel,空运专线小包,transport,快递电商,published
+Saver Service,经济型快递服务,transport,快递电商,published
+Express Service,特快快递服务,transport,快递电商,published
+Same-city Instant Delivery,即时配送,transport,快递电商,published
+Consolidated Returns,退货集运,transport,快递电商,published
+Out for Delivery,派送途中,transport,快递电商,published
+Attempted Delivery Notice,派送未果通知,transport,快递电商,published
+Signature Required,签名签收要求,transport,快递电商,published
+Adult Signature,成人签收,transport,快递电商,published
+Direct Signature,本人直接签收,transport,快递电商,published
+Package Interception,包裹拦截,transport,快递电商,published
+Delivery Instruction,投递指令,transport,快递电商,published
+Safe Drop,安全放置投递,transport,快递电商,published
+Parcel Locker Pickup Code,快递柜取件码,transport,快递电商,published
+Cross-border Returns Center,跨境退货中心,transport,快递电商,published
+Returnless Refund,仅退款不退货,transport,快递电商,published
+Disposal of Returns,退货就地销毁,transport,快递电商,published
+Refurbished Resale Channel,翻新二次销售渠道,transport,快递电商,published
+Parcel Dimension Fraud,包裹体积作弊,transport,快递电商,published
+Address Normalization,地址标准化清洗,transport,快递电商,published
+Delivery Density,投递密度,transport,快递电商,published
+Route Density Optimization,配送路线密度优化,transport,快递电商,published
+Courier Micro-depot,快递微型驿站,transport,快递电商,published
+Peak Surcharge (Express),快递旺季附加费,transport,快递电商,published
+Demand Surcharge,需求附加费,transport,快递电商,published
+Courier Contract Negotiation,快递协议价谈判,transport,快递电商,published
+Cai Mep Port,蔡梅港,transport,港口,published
+Sihanoukville Port,西哈努克港,transport,港口,published
+Yangon Port,仰光港,transport,港口,published
+Bandar Abbas Port,阿巴斯港,transport,港口,published
+Cochin Port,科钦港,transport,港口,published
+Visakhapatnam Port,维沙卡帕特南港,transport,港口,published
+Haldia Port,哈尔迪亚港,transport,港口,published
+Hazira Port,哈兹拉港,transport,港口,published
+Sohar Port,苏哈尔港,transport,港口,published
+Salalah Port,塞拉莱港,transport,港口,published
+Khalifa Port,哈利法港,transport,港口,published
+Jubail Port,朱拜勒港,transport,港口,published
+Aqaba Port,亚喀巴港,transport,港口,published
+Beirut Port,贝鲁特港,transport,港口,published
+Zeebrugge Port,泽布鲁日港,transport,港口,published
+Leixoes Port,莱克索斯港,transport,港口,published
+Sines Port,锡尼什港,transport,港口,published
+Gioia Tauro Port,焦亚陶罗港,transport,港口,published
+Taranto Port,塔兰托港,transport,港口,published
+Marsaxlokk Port,马尔萨什洛克港,transport,港口,published
+Odessa Port,敖德萨港,transport,港口,published
+Novorossiysk Port,新罗西斯克港,transport,港口,published
+Saint Petersburg Port,圣彼得堡港,transport,港口,published
+Ust-Luga Port,乌斯季卢加港,transport,港口,published
 Ventspils Port,文茨皮尔斯港,transport,港口,pending
 Liverpool Port,利物浦港,transport,港口,pending
 Immingham Port,伊明厄姆港,transport,港口,pending
