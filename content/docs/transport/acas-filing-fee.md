@@ -1,7 +1,7 @@
 ---
 title: "ACAS Filing Fee"
 linkTitle: "ACAS 申报费"
-date: 2026-10-24
+date: 2026-10-25
 type: docs
 subcategory: "海运费率"
 ---
@@ -10,34 +10,34 @@ subcategory: "海运费率"
 
 ## 定义
 
-ACAS 申报费（英文全称：Air Cargo Advance Screening Filing Fee）是指航空公司或代理人在向美国海关申报航空货运预先筛选数据时，向货主或发货人收取的服务费用。该费用旨在涵盖因满足美国国土安全及航空安保预检要求而产生的行政与技术成本。
+ACAS Filing Fee（中文：ACAS 申报费）是指航空公司或货运代理在向美国海关与边境保护局（CBP）发送航空货物预申报（Air Cargo Advance Screening）时所产生的电子数据传输及处理费用。该费用的全称为 Air Cargo Advance Screening Filing Fee，主要用于合规满足美国针对进境空运货物的反恐安全预申报要求。
 
 ## 详细说明
 
-- 使用场景：主要适用于所有出口至美国或经美国中转的空运货物，在航班起飞前的规定时间内必须完成电子数据传输。
-- 关键规则或数字：ACAS 机制要求在货物实际装机前（通常在国外机场起飞前4小时，或根据航程长短调整），必须向美国海关与边境保护局（CBP）提交包含详细货描的票据信息。
-- 实务注意事项：该费用通常由起运港的货运代理人在出具账单时单独列明，若因发货人提供的资料不全或错误导致申报延误或被拒，可能还会产生额外的改单费或罚金。
+- 使用场景：适用于所有出口至美国或经美国中转的航空货运业务，必须在航班起飞前的规定时间内完成数据传输并产生此项费用。
+- 关键规则与数字：ACAS 规定要求在航班起飞前（通常为装载前或起飞前至少4小时，具体取决于航程）向美国 CBP 提交最低限度的票据信息；该费用通常由航司代收或由专业报关行/货代按票收取，每票收费标准因服务商而异，一般在几美元到几十美元不等。
+- 实务注意事项：货代在接受美国线空运委托时，应提前与客户确认谁来承担此费用，并在报价中明确是否包含在运费或杂费中；若因资料不全导致申报延误或被拒，可能不仅产生重复申报费，还会面临美国海关的罚款及货物滞留风险。
 
 ## 中英对照
 
-| 英文表达 | 中文翻译 |
+| 中文表达 | 英文表达 |
 | :--- | :--- |
-| ACAS Filing Fee | ACAS 申报费 |
-| Air Cargo Advance Screening | 航空货运预先筛选 |
-| U.S. Customs and Border Protection (CBP) | 美国海关与边境保护局 |
-| Security Surcharge | 安保附加费 |
+| ACAS 申报费 | ACAS Filing Fee |
+| 航空货物预申报 | Air Cargo Advance Screening (ACAS) |
+| 美国海关与边境保护局 | U.S. Customs and Border Protection (CBP) |
+| 预申报系统 | Advance Manifest System (AMS) |
 
 ## 相关术语
 
 - AMS Fee（AMS 申报费）
-- ISF Filing（ISF 申报/十加二申报）
-- Pre-loading Advance Cargo Information（预装货运提前申报信息）
-- Air Waybill (AWB)（航空货运单）
+- Pre-load Advance Cargo Information（预装载货物预申报信息）
+- ENS Filing（入境货邮摘要申报）
+- Master Air Waybill (MAWB)（主运单）
 
 ## 常见误区
 
-- 误区一：认为 ACAS 申报费是美国海关直接收取的税费，实际上它是航空公司或代理机构收取的服务补偿费。
-- 误区二：认为所有国际空运都需要交纳此费，该费用仅针对目的地或中转地包含美国的航空货物。
+- 误区一：认为 ACAS 申报费只是一项内部杂费，可以随意忽略或漏报。实际上它是美国强制性的航空安保合规要求，漏报会直接影响货物登机。
+- 误区二：将 ACAS 混淆为普通的目的地清关费。它属于起运港或航空运输过程中的合规前置申报成本，通常在运费账单中单列。
 
 ---
 

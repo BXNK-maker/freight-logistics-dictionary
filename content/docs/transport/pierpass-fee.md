@@ -1,7 +1,7 @@
 ---
 title: "PierPass Fee"
 linkTitle: "美西 PierPASS 费用"
-date: 2026-10-24
+date: 2026-10-25
 type: docs
 subcategory: "海运费率"
 ---
@@ -10,34 +10,34 @@ subcategory: "海运费率"
 
 ## 定义
 
-PierPass Fee（美西 PierPASS 费用）是指在美國西海岸洛杉磯港和長灘港（Los Angeles and Long Beach）提貨或還櫃時，針對平日白晝高峰時段（OffPeak 計劃之外的時間）進出碼頭的貨櫃所收取的港口附加費。該機制的設立旨在緩解港口周邊交通擁堵並鼓勵夜間作業。
+PierPass Fee（中文通常译为美西 PierPASS 费用）是指在美國西海岸洛杉磯港和長灘港提取或交付集裝箱時，為支持夜間及周末開港（OffPeak 計劃）而收取的交通緩解費（Traffic Mitigation Fee, TMF）。該費用旨在鼓勵貨主在非高峰時段提貨，以緩解碼頭周邊道路的交通擁堵並提高物流效率。
 
 ## 詳細說明
 
-- 使用場景：適用於所有進出口美國洛杉磯港和長灘港、並在平日日間高峰時段（通常為週一至週五上午 08:00 至下午 17:00 之間）通過卡車進出碼頭的貨櫃。
-- 關鍵規則與費用：該費用由碼頭運營商統一收取，按貨櫃尺寸計費（通常 20 呎櫃與 40 呎櫃標準不同）。若安排在晚間或週末（OffPeak 時段）提櫃，則可免收此項費用。
-- 實務注意事項：貨代在安排美西線操作時，應提前與車隊溝通，盡量安排在夜間或週末提櫃以節省成本；若必須在日間作業，務必將此費用提前報價給客戶，避免產生額外費用糾紛。
+- 使用場景：適用於所有在洛杉磯港（LA）和小長灘港（LB）進出口並在周一至周五白天高峰時段（通常為 03:00 至 17:00 之間）進出碼頭的重箱。
+- 關鍵規則：該費用按集裝箱尺寸收取，通常區分 20 尺櫃和 40/45 尺櫃。若貨主安排在夜間或周末的 OffPeak 時段提櫃，則可免交或減免此項費用，具體費率會根據碼頭協議定期調整。
+- 實務注意事項：在計算美西航線的全程物流成本時，貨代必須將 PierPass Fee 納入預估報價中。操作人員應盡量引導車隊在夜間或周末安排拖車作業，從而有效幫客戶節省這筆額外開支。
 
-## 中英对照
+## 中英對照
 
 | 中文表達 | 英文表達 |
 | :--- | :--- |
-| 美西 PierPASS 費用 | PierPass Fee |
-| 港口交通緩解費 | Traffic Mitigation Fee (TMF) |
-| 離峰作業計劃 | OffPeak Program |
-| 碼頭運營商 | Terminal Operator |
+| 美西 PierPASS 費用 | PierPass Fee / Traffic Mitigation Fee (TMF) |
+| 非高峰時段運行計劃 | OffPeak Program |
+| 交通緩解費 | Traffic Mitigation Fee |
+| 港口擁堵費 | Port Congestion Surcharge |
 
 ## 相关术语
 
-- `TMF (Traffic Mitigation Fee)`
-- `OffPeak Program (離峰作業計劃)`
-- `Demurrage (滯港費)`
-- `Detention (滯箱費)`
+- `TMF（交通緩解費）`
+- `OffPeak Program（非高峰作業計劃）`
+- `D&D（滯箱費與滯期費）`
+- ` Chassis Fee（底盤車使用費）`
 
 ## 常见误区
 
-- 誤以為所有進出洛杉磯和長灘港的貨櫃都要強制繳納此費，實際上只要選擇在 OffPeak（夜間/週末）時段提櫃即可豁免。
-- 誤將 PierPass Fee 與船公司收取的海運費（Ocean Freight）混淆，它實際上是碼頭針對卡車運輸環節徵收的地面服務附加費。
+- 誤區一：認為所有美西港口都會產生 PierPass Fee。實際上，該費用僅適用於洛杉磯港和長灘港，其他美西港口（如奧克蘭或西雅圖）不收取此費用。
+- 誤區二：認為夜間提櫃也要支付 PierPass Fee。事實上，設立此費用的初衷就是為了分流，只要在 OffPeak 夜間或周末時段進出碼頭，即可享受免收優惠。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "AMS Filing Fee"
 linkTitle: "AMS 申报费"
-date: 2026-10-24
+date: 2026-10-25
 type: docs
 subcategory: "海运费率"
 ---
@@ -9,35 +9,30 @@ subcategory: "海运费率"
 > 📖 分类：**运输** / 海运费率　｜　AMS Filing Fee = AMS 申报费
 
 ## 定义
-
-AMS 申报费（英文全称：Automated Manifest System Filing Fee）是指将出口到美国的货物舱单信息通过美国海关的自动化舱单系统进行电子申报时，由船公司或货代向托运人收取的服务费用。该费用用于承担向美国海关传输海运进出口货物详细数据的系统处理成本。
+AMS Filing Fee 中文通常称为 AMS 申报费，全称为 Automated Manifest System Filing Fee。它是指将出口至美国（或经美国中转）的货物舱单信息通过美国海关的自动化舱单系统进行电子申报时，由船公司或无船承运人向货主收取的服务规费。
 
 ## 详细说明
-
-- 使用场景：适用于所有出口至美国港口或经美国中转至其他国家的海洋货运。
-- 关键规则或数字：费用通常按票收取，一般标准在每票 25 美元至 40 美元之间，具体金额因船公司或代理收费标准而异。
-- 实务注意事项：AMS 数据必须在船开前至少 24 小时准确发送给美国海关，因此托运人必须在此之前提供准确无误的舱单信息（如品名、毛重、件数、收发货人等），否则极易导致货物被美国海关拒绝卸货或产生高昂的罚款。
+- 使用场景：凡是出口目的地为美国港口，或经美国港口卸货转运至美加墨等内陆点的海运出口货舱，都必须产生此项费用。
+- 关键规则与数字：该费用按票（Per Bill of Lading）收取，常规市场标准一般在每票 25 美元至 35 美元之间，若产生改单则会加收 AMS Amendment Fee。
+- 实务注意事项：申报必须在船开前至少 24 小时完成（即 24-Hour Rule），因此 AMS 截单时间（AMS Cut-off）通常早于普通舱位截单时间，资料务必准确，以免导致货物被美国海关扣留或产生高额罚款。
 
 ## 中英对照
-
-| 中文表达 | 英文表达 |
+| 英文表达 | 中文翻译 |
 | :--- | :--- |
-| AMS 申报费 | AMS Filing Fee / AMS Fee |
-| 自动舱单系统 | Automated Manifest System (AMS) |
-| 舱单数据 | Manifest Data |
-| 截单时间 | AMS Cut-off / SI Cut-off |
+| AMS Filing Fee | AMS 申报费 |
+| Automated Manifest System | 自动化舱单系统 |
+| AMS Cut-off Time | AMS 截单时间 |
+| AMS Amendment | AMS 改单 |
 
 ## 相关术语
-
-- ISF Filing（进口安全申报）
-- ENS Filing（入境摘要申报）
+- ENS Filing Fee（ENS 申报费）
+- ISF Filing Fee（ISF 申报费）
 - Bill of Lading（提单）
 - Manifest（舱单）
 
 ## 常见误区
-
-- 误认为 AMS 申报费可以由收货人在目的港自行缴纳，实际上该费用通常由起运港的托运人在出货时随海运费一并支付。
-- 误以为 AMS 申报内容可以随意修改，舱单一旦在截单后发送海关，若需更改会产生高额的更改费（Amendment Fee）。
+- 认为 AMS 申报费是海关直接征收的税金：实际上这是承运人或代理代收的数据传输和合规服务费，并非美国海关的关税。
+- 认为只要船没开就能免费修改：AMS 一旦向海关发送并接受，后续任何舱单数据的更改都会产生额外的改单费。
 
 ---
 

@@ -1875,105 +1875,105 @@ Export Credit Insurance Limit,信用保险限额,freight-finance,信用保险,pu
 Buyer Credit Limit Application,买方限额申请,freight-finance,信用保险,published
 Claim under Credit Insurance,信用保险索赔,freight-finance,信用保险,published
 Ship Mortgage,船舶抵押贷款,freight-finance,航运金融,pending
-Ship Finance,船舶融资,freight-finance,航运金融,pending
-Sale and Leaseback (Vessel),船舶售后回租,freight-finance,航运金融,pending
-Container Leasing Finance,集装箱租赁融资,freight-finance,租赁金融,pending
-Operating Lease,经营性租赁,freight-finance,租赁金融,pending
-Finance Lease,融资租赁,freight-finance,租赁金融,pending
-Cross-border Factoring,国际保理,freight-finance,保理业务,pending
-Two-factor Factoring,双保理模式,freight-finance,保理业务,pending
-Credit Report,资信调查报告,freight-finance,信用管理,pending
-Letter of Credit Insurance,信用证保险,freight-finance,信用保险,pending
-Banker's Guarantee Line,银行保函额度,freight-finance,担保业务,pending
-Customs Duty Guarantee Insurance,关税保证保险,freight-finance,担保业务,pending
-Working Capital,营运资金,freight-finance,财务管理,pending
-Cash Conversion Cycle,现金转换周期,freight-finance,财务管理,pending
-Freight Cost Allocation,运费分摊,freight-finance,成本管理,pending
-Incoterms Cost Split,贸易条款费用划分,freight-finance,成本管理,pending
-Logistics Budget,物流预算,freight-finance,成本管理,pending
-Rate Negotiation,运价谈判,freight-finance,成本管理,pending
-Fuel Cost Pass-through,燃油成本传导条款,freight-finance,成本管理,pending
-Currency Clause (Contract),货币条款,freight-finance,财务管理,pending
-Multi-currency Invoicing,多币种开票,freight-finance,财务管理,pending
-Withholding Tax (Cross-border Service),跨境服务预提税,freight-finance,税务处理,pending
-Export Tax Rebate Financing,出口退税账户质押融资,freight-finance,税务金融,pending
-Factoring Fee,保理费,freight-finance,保理业务,pending
-Discount Rate (Finance),贴现率,freight-finance,票据业务,pending
-Usance Interest,远期利息,freight-finance,票据业务,pending
-Refinance under L/C,信用证议付融资,freight-finance,贸易融资,pending
-Trust Receipt Financing,信托收据融资,freight-finance,贸易融资,pending
-Import Usance Financing,进口押汇融资,freight-finance,贸易融资,pending
-FAK (Freight All Kinds),均一运价,transport,海运费率,pending
-Rate Restoration Charge,运价恢复费,transport,海运费率,pending
-ODF (Origin Documentation Fee),起运港单证费,transport,海运费率,pending
-OTHC,起运港码头操作费,transport,海运费率,pending
-DTHC,目的港码头操作费,transport,海运费率,pending
-Destination Documentation Fee,目的港单证费,transport,海运费率,pending
-ISF Filing Fee,ISF 申报费,transport,海运费率,pending
-AMS Filing Fee,AMS 申报费,transport,海运费率,pending
-ENS Filing Fee,ENS 申报费,transport,海运费率,pending
-ACAS Filing Fee,ACAS 申报费,transport,海运费率,pending
-Late VGM Fee,补报 VGM 费用,transport,海运费率,pending
-Late SI Fee,补交托书费用,transport,海运费率,pending
-MQC (Minimum Quantity Commitment),最低货量承诺,transport,海运费率,pending
-NRA (Negotiated Rate Agreement),美国协议运价备案,transport,海运费率,pending
-FMC Bond,美国联邦海事委员会保证金,transport,海运费率,pending
-OTI License,美国海运中介营业执照,transport,海运费率,pending
-PierPass Fee,美西 PierPASS 费用,transport,海运费率,pending
-Chassis Usage Fee,底盘车使用费,transport,海运费率,pending
-Drop and Pick,甩箱再提作业费,transport,海运费率,pending
-Tri-axle Surcharge,三轴车附加费,transport,海运费率,pending
-Overweight Permit Fee,超重许可办理费,transport,海运费率,pending
-EMF (Equipment Management Fee),设备管理费,transport,海运费率,pending
-Long Stay Fee,超期停箱费,transport,海运费率,pending
-Reefer Surcharge,冷藏箱附加费,transport,海运费率,pending
-Plug-in Fee,冷箱插电费,transport,海运费率,pending
-Reefer Monitoring Fee,冷箱温度监控费,transport,海运费率,pending
-DGD Handling Fee,危险品申报操作费,transport,海运费率,pending
-DG Screening Fee,危险品审核费,transport,海运费率,pending
-Gas Measurement Fee,罐箱测气费,transport,海运费率,pending
-Tank Cleaning Fee,罐箱清洗费,transport,海运费率,pending
-Damage Survey Fee,验箱估价费,transport,海运费率,pending
-OOG Survey Fee,超限货物勘验费,transport,海运费率,pending
-Lashing Fee,绑扎加固费,transport,海运费率,pending
-Heavy Lift Surcharge,超重附加费,transport,海运费率,pending
-Long Length Surcharge,超长附加费,transport,海运费率,pending
-OOG Handling Fee,超限操作费,transport,海运费率,pending
-Container Inspection Fee,集装箱检验费,transport,海运费率,pending
-Customs Inspection Fee (Ocean),海运查验代理费,transport,海运费率,pending
-Demurrage Waiver,滞期费减免,transport,海运费率,pending
-Detention Waiver,滞箱费减免,transport,海运费率,pending
-Free Time Extension,免堆期延长,transport,海运费率,pending
-Rate Validity,运价有效期,transport,海运费率,pending
-Quote Expiry,报价到期,transport,海运费率,pending
-Surcharge Cap,附加费封顶条款,transport,海运费率,pending
-All-in Quotation,全包一口价,transport,海运费率,pending
-Base Rate,基础运价,transport,海运费率,pending
-Bunker Adjustment Review,燃油附加费调整机制,transport,海运费率,pending
-Fuel Index Linked Clause,燃油指数联动条款,transport,海运费率,pending
-Currency Surcharge Clause,汇率附加费条款,transport,海运费率,pending
-Terminal Handling Rate,码头操作费率,transport,海运费率,pending
-Local Charges Estimate,目的港费用预估单,transport,海运费率,pending
-Disbursement Account,代垫账单,transport,海运费率,pending
-Invoicing Currency,开票货币,transport,海运费率,pending
-Tax Invoice (Freight),运费增值税发票,transport,海运费率,pending
-E-banking Payment (Freight),运费网银支付,transport,海运费率,pending
-Credit Period (Freight),运费账期,transport,海运费率,pending
-Freight Receivable,运费应收账款,transport,海运费率,pending
-Undercharge Claim,运费少收追补,transport,海运费率,pending
-Dead Freight Refund,亏舱费退还,transport,海运费率,pending
-Twin Lift,双箱并吊,transport,码头作业,pending
-Dual Move Operation,双循环吊装作业,transport,码头作业,pending
-Port AGV,港区自动导引车,transport,码头作业,pending
-OCR Gate System,智能闸口识别系统,transport,码头作业,pending
-Pre-gate,预闸口申报,transport,码头作业,pending
-Truck Turn Time,卡车周转时间,transport,码头作业,pending
-Container Dwell Time,集装箱堆存时间,transport,码头作业,pending
-Yard Density,堆场密度,transport,码头作业,pending
-Re-handle,翻倒作业,transport,码头作业,pending
-Berth Productivity,泊位作业效率,transport,码头作业,pending
-Moves per Hour,每小时作业箱量,transport,码头作业,pending
-Crane Productivity,桥吊作业效率,transport,码头作业,pending
+Ship Finance,船舶融资,freight-finance,航运金融,published
+Sale and Leaseback (Vessel),船舶售后回租,freight-finance,航运金融,published
+Container Leasing Finance,集装箱租赁融资,freight-finance,租赁金融,published
+Operating Lease,经营性租赁,freight-finance,租赁金融,published
+Finance Lease,融资租赁,freight-finance,租赁金融,published
+Cross-border Factoring,国际保理,freight-finance,保理业务,published
+Two-factor Factoring,双保理模式,freight-finance,保理业务,published
+Credit Report,资信调查报告,freight-finance,信用管理,published
+Letter of Credit Insurance,信用证保险,freight-finance,信用保险,published
+Banker's Guarantee Line,银行保函额度,freight-finance,担保业务,published
+Customs Duty Guarantee Insurance,关税保证保险,freight-finance,担保业务,published
+Working Capital,营运资金,freight-finance,财务管理,published
+Cash Conversion Cycle,现金转换周期,freight-finance,财务管理,published
+Freight Cost Allocation,运费分摊,freight-finance,成本管理,published
+Incoterms Cost Split,贸易条款费用划分,freight-finance,成本管理,published
+Logistics Budget,物流预算,freight-finance,成本管理,published
+Rate Negotiation,运价谈判,freight-finance,成本管理,published
+Fuel Cost Pass-through,燃油成本传导条款,freight-finance,成本管理,published
+Currency Clause (Contract),货币条款,freight-finance,财务管理,published
+Multi-currency Invoicing,多币种开票,freight-finance,财务管理,published
+Withholding Tax (Cross-border Service),跨境服务预提税,freight-finance,税务处理,published
+Export Tax Rebate Financing,出口退税账户质押融资,freight-finance,税务金融,published
+Factoring Fee,保理费,freight-finance,保理业务,published
+Discount Rate (Finance),贴现率,freight-finance,票据业务,published
+Usance Interest,远期利息,freight-finance,票据业务,published
+Refinance under L/C,信用证议付融资,freight-finance,贸易融资,published
+Trust Receipt Financing,信托收据融资,freight-finance,贸易融资,published
+Import Usance Financing,进口押汇融资,freight-finance,贸易融资,published
+FAK (Freight All Kinds),均一运价,transport,海运费率,published
+Rate Restoration Charge,运价恢复费,transport,海运费率,published
+ODF (Origin Documentation Fee),起运港单证费,transport,海运费率,published
+OTHC,起运港码头操作费,transport,海运费率,published
+DTHC,目的港码头操作费,transport,海运费率,published
+Destination Documentation Fee,目的港单证费,transport,海运费率,published
+ISF Filing Fee,ISF 申报费,transport,海运费率,published
+AMS Filing Fee,AMS 申报费,transport,海运费率,published
+ENS Filing Fee,ENS 申报费,transport,海运费率,published
+ACAS Filing Fee,ACAS 申报费,transport,海运费率,published
+Late VGM Fee,补报 VGM 费用,transport,海运费率,published
+Late SI Fee,补交托书费用,transport,海运费率,published
+MQC (Minimum Quantity Commitment),最低货量承诺,transport,海运费率,published
+NRA (Negotiated Rate Agreement),美国协议运价备案,transport,海运费率,published
+FMC Bond,美国联邦海事委员会保证金,transport,海运费率,published
+OTI License,美国海运中介营业执照,transport,海运费率,published
+PierPass Fee,美西 PierPASS 费用,transport,海运费率,published
+Chassis Usage Fee,底盘车使用费,transport,海运费率,published
+Drop and Pick,甩箱再提作业费,transport,海运费率,published
+Tri-axle Surcharge,三轴车附加费,transport,海运费率,published
+Overweight Permit Fee,超重许可办理费,transport,海运费率,published
+EMF (Equipment Management Fee),设备管理费,transport,海运费率,published
+Long Stay Fee,超期停箱费,transport,海运费率,published
+Reefer Surcharge,冷藏箱附加费,transport,海运费率,published
+Plug-in Fee,冷箱插电费,transport,海运费率,published
+Reefer Monitoring Fee,冷箱温度监控费,transport,海运费率,published
+DGD Handling Fee,危险品申报操作费,transport,海运费率,published
+DG Screening Fee,危险品审核费,transport,海运费率,published
+Gas Measurement Fee,罐箱测气费,transport,海运费率,published
+Tank Cleaning Fee,罐箱清洗费,transport,海运费率,published
+Damage Survey Fee,验箱估价费,transport,海运费率,published
+OOG Survey Fee,超限货物勘验费,transport,海运费率,published
+Lashing Fee,绑扎加固费,transport,海运费率,published
+Heavy Lift Surcharge,超重附加费,transport,海运费率,published
+Long Length Surcharge,超长附加费,transport,海运费率,published
+OOG Handling Fee,超限操作费,transport,海运费率,published
+Container Inspection Fee,集装箱检验费,transport,海运费率,published
+Customs Inspection Fee (Ocean),海运查验代理费,transport,海运费率,published
+Demurrage Waiver,滞期费减免,transport,海运费率,published
+Detention Waiver,滞箱费减免,transport,海运费率,published
+Free Time Extension,免堆期延长,transport,海运费率,published
+Rate Validity,运价有效期,transport,海运费率,published
+Quote Expiry,报价到期,transport,海运费率,published
+Surcharge Cap,附加费封顶条款,transport,海运费率,published
+All-in Quotation,全包一口价,transport,海运费率,published
+Base Rate,基础运价,transport,海运费率,published
+Bunker Adjustment Review,燃油附加费调整机制,transport,海运费率,published
+Fuel Index Linked Clause,燃油指数联动条款,transport,海运费率,published
+Currency Surcharge Clause,汇率附加费条款,transport,海运费率,published
+Terminal Handling Rate,码头操作费率,transport,海运费率,published
+Local Charges Estimate,目的港费用预估单,transport,海运费率,published
+Disbursement Account,代垫账单,transport,海运费率,published
+Invoicing Currency,开票货币,transport,海运费率,published
+Tax Invoice (Freight),运费增值税发票,transport,海运费率,published
+E-banking Payment (Freight),运费网银支付,transport,海运费率,published
+Credit Period (Freight),运费账期,transport,海运费率,published
+Freight Receivable,运费应收账款,transport,海运费率,published
+Undercharge Claim,运费少收追补,transport,海运费率,published
+Dead Freight Refund,亏舱费退还,transport,海运费率,published
+Twin Lift,双箱并吊,transport,码头作业,published
+Dual Move Operation,双循环吊装作业,transport,码头作业,published
+Port AGV,港区自动导引车,transport,码头作业,published
+OCR Gate System,智能闸口识别系统,transport,码头作业,published
+Pre-gate,预闸口申报,transport,码头作业,published
+Truck Turn Time,卡车周转时间,transport,码头作业,published
+Container Dwell Time,集装箱堆存时间,transport,码头作业,published
+Yard Density,堆场密度,transport,码头作业,published
+Re-handle,翻倒作业,transport,码头作业,published
+Berth Productivity,泊位作业效率,transport,码头作业,published
+Moves per Hour,每小时作业箱量,transport,码头作业,published
+Crane Productivity,桥吊作业效率,transport,码头作业,published
 Vessel Productivity,船舶在泊效率,transport,码头作业,pending
 Night Shift Operation,码头夜班作业,transport,码头作业,pending
 Hatch Cover,货舱舱盖,transport,船舶结构,pending
