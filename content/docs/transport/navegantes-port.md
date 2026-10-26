@@ -1,7 +1,7 @@
 ---
 title: "Navegantes Port"
 linkTitle: "纳维甘特斯港"
-date: 2026-10-25
+date: 2026-10-26
 type: docs
 subcategory: "港口"
 ---
@@ -9,32 +9,31 @@ subcategory: "港口"
 > 📖 分类：**运输** / 港口　｜　Navegantes Port = 纳维甘特斯港
 
 ## 定义
-纳维甘特斯港（Navegantes Port）是巴西重要的现代化海港之一，位于圣卡塔琳娜州（Santa Catarina）的纳维甘特斯市，地处伊塔雅伊河口附近。该港是巴西进出口冷冻食品、汽车及集装箱货物的主要物流枢纽之一，在南美东海岸航线中占有重要地位。
+纳维甘特斯港（Navegantes Port）是位于巴西圣卡塔琳娜州的重要现代化海港，也是该国南大区处理集装箱货物的主要枢纽港之一。该港口凭借高效的装卸设备和优越的地理位置，在巴西对外贸易及南美东航线中发挥着关键作用。
 
 ## 详细说明
-- 使用场景：主要用于发往或来自巴西南部及内陆地区的集装箱海运货物的装卸、转运和清关，常与邻近的伊塔雅伊港（Port of Itajaí）形成协同航运区域。
-- 关键规则或数字：该港拥有深度较好的现代化码头，能够停靠大型集装箱船；其专业冷藏集装箱（Reefer）处理能力在巴西名列前茅，腹地交通可通过主要高速公路直达南里奥格兰德州和圣保罗州。
-- 实务注意事项：南美东航线船期易受天气及当地港口拥堵影响，操作冷藏柜时务必提前确认港区插头资源与免费堆存期（Demurrage & Detention）；巴西海关（Receita Federal）查验率较高，单证和原产地信息必须准确无误。
+- 使用场景：主要用于中国至巴西东海岸航线的整箱（FCL）与拼箱（LCL）货物出口，特别适合服务圣卡塔琳娜州及周边工业内陆地区的进出口企业。
+- 关键规则或数字：该港口拥有现代化的大型集装箱泊位，能够常态化接纳超巴拿马型（Post-Panamax）集装箱船靠泊，其年集装箱吞吐量在巴西名列前茅。
+- 实务注意事项：由于南美东航线航程较长，且当地海关查验率较高，操作时务必提前准备准确的舱单和清关文件；同时需关注目的港码头拥堵情况，合理规划船期以避免产生滞箱费（Demurrage）和滞期费（Detention）。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 纳维甘特斯港 | Navegantes Port / Port of Navegantes |
-| 圣卡塔琳娜州 | Santa Catarina State |
-| 冷藏集装箱 | Reefer Container |
-| 巴西海关 | Brazilian Customs (Receita Federal) |
+| 纳维甘特斯港 | Navegantes Port |
+| 巴西东海岸航线 | East Coast South America Service (ECSA) |
+| 船公司代码 | Carrier Code |
+| 集装箱码头 | Container Terminal |
 
 ## 相关术语
-- Port of Itajaí（伊塔雅伊港）
-- Port of Paranaguá（巴拉那瓜港）
-- Port of Santos（桑托斯港）
-- Reefer Container（冷藏集装箱）
-- Demurrage and Detention（滞期费与超期费）
+- Port of Itajai（伊塔贾伊港）
+- Paranagua Port（巴拉那瓜港）
+- Santos Port（桑托斯港）
+- ECSA（南美东航线）
 
 ## 常见误区
-- 误认为纳维甘特斯港是一个仅能处理内河小型驳船的港口，实际上它是能够接待远洋干线大型集装箱船的深水海港。
-- 将该港与圣保罗港口混淆，忽略了其位于巴西南部圣卡塔琳娜州的独立地理区位及特定的内陆运输成本。
+- 误以为纳维甘特斯港是内河小港，实际上它是巴西吞吐量领先、设施高度现代化的深水海港。
+- 混淆纳维甘特斯港（Porto de Navegantes）与相邻的伊塔贾伊港（Port of Itajai），虽然两港地理位置极近且共享部分腹地，但属于独立的港口运营实体和海关监管区。
 
 ---
 

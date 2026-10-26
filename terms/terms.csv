@@ -2275,104 +2275,104 @@ Saint Petersburg Port,圣彼得堡港,transport,港口,published
 Ust-Luga Port,乌斯季卢加港,transport,港口,published
 Ventspils Port,文茨皮尔斯港,transport,港口,pending
 Liverpool Port,利物浦港,transport,港口,pending
-Immingham Port,伊明厄姆港,transport,港口,pending
+Immingham Port,伊明厄姆港,transport,港口,published
 Teesport Port,提兹港,transport,港口,pending
-Dover Ferry Port,多佛轮渡港,transport,港口,pending
-Dublin Port,都柏林港,transport,港口,pending
-Cork Port,科克港,transport,港口,pending
-Mobile Port,莫比尔港,transport,港口,pending
-Jacksonville Port,杰克逊维尔港,transport,港口,pending
-Tampa Port,坦帕港,transport,港口,pending
-Wilmington Port,威尔明顿港,transport,港口,pending
-Port Everglades,埃弗格雷兹港,transport,港口,pending
-Freeport Bahamas,弗里波特港,transport,港口,pending
-Kingston Port,金斯敦港,transport,港口,pending
-Caucedo Port,考塞多港,transport,港口,pending
-Balboa Port,巴尔博亚港,transport,港口,pending
-Cristobal Port,克里斯托瓦尔港,transport,港口,pending
-Puerto Quetzal Port,夸特萨尔港,transport,港口,pending
-Caldera Port,卡尔德拉港,transport,港口,pending
-San Antonio Port,圣安东尼奥港,transport,港口,pending
-Iquique Port,伊基克港,transport,港口,pending
-Itajai Port,伊塔雅伊港,transport,港口,pending
-Navegantes Port,纳维甘特斯港,transport,港口,pending
-Rio Grande Port,里奥格兰德港,transport,港口,pending
-Ngqura Port,恩古库拉港,transport,港口,pending
-Walvis Bay Port,鲸湾港,transport,港口,pending
-Luanda Port,罗安达港,transport,港口,pending
-Pointe-Noire Port,黑角港,transport,港口,pending
-Douala Port,杜阿拉港,transport,港口,pending
-Lome Port,洛美港,transport,港口,pending
-Cotonou Port,科托努港,transport,港口,pending
-Kribi Port,克里比港,transport,港口,pending
-Djibouti Port,吉布提港,transport,港口,pending
-Tauranga Port,陶朗加港,transport,港口,pending
-Davao Port,达沃港,transport,港口,pending
-Cebu Port,宿务港,transport,港口,pending
-Khor Fakkan Port,豪尔费坎港,transport,港口,pending
-Fujairah Port,富查伊拉港,transport,港口,pending
-Taicang Port,太仓港,transport,港口,pending
-Nantong Port,南通港,transport,港口,pending
-Zhangjiagang Port,张家港港,transport,港口,pending
-Yantai Port,烟台港,transport,港口,pending
-Jingtang Port,京唐港,transport,港口,pending
-Huanghua Port,黄骅港,transport,港口,pending
-Qinzhou Port,钦州港,transport,港口,pending
-Fangchenggang Port,防城港,transport,港口,pending
-Beihai Port,北海港,transport,港口,pending
-Haikou Port,海口港,transport,港口,pending
-Yangpu Port,洋浦港,transport,港口,pending
-Zhuhai Port,珠海港,transport,港口,pending
-Shantou Port,汕头港,transport,港口,pending
-Quanzhou Port,泉州港,transport,港口,pending
-Belawan Port,勿拉湾港,transport,港口,pending
-Pyeongtaek Port,平泽港,transport,港口,pending
-Gwangyang Port,光阳港,transport,港口,pending
-Moji Port,门司港,transport,港口,pending
-Hakata Port,博多港,transport,港口,pending
-Beira Port,贝拉港,transport,港口,pending
-Nacala Port,纳卡拉港,transport,港口,pending
-Toamasina Port,图阿马西纳港,transport,港口,pending
-Maputo Port,马普托港,transport,港口,pending
-Port Louis,路易港,transport,港口,pending
-Rouen Port,鲁昂港,transport,港口,pending
-Nantes Saint-Nazaire Port,南特圣纳泽尔港,transport,港口,pending
-Bordeaux Port,波尔多港,transport,港口,pending
-Ghent Port,根特港,transport,港口,pending
-Amsterdam Port,阿姆斯特丹港,transport,港口,pending
-Belfast Port,贝尔法斯特港,transport,港口,pending
-Hull Port,赫尔港,transport,港口,pending
-Montreal Port,蒙特利尔港,transport,港口,pending
-Halifax Port,哈利法克斯港,transport,港口,pending
-Corpus Christi Port,科珀斯克里斯蒂港,transport,港口,pending
-Lake Charles Port,莱克查尔斯港,transport,港口,pending
-Barranquilla Port,巴兰基亚港,transport,港口,pending
-Santa Marta Port,圣玛尔塔港,transport,港口,pending
-AQL 2.5 Level,AQL 2.5 抽检水平,trade-terms,质量检验,pending
-Critical Defect,致命缺陷,trade-terms,质量检验,pending
-Major Defect,主要缺陷,trade-terms,质量检验,pending
-Minor Defect,次要缺陷,trade-terms,质量检验,pending
-IQC (Incoming Quality Control),来料质量检验,trade-terms,质量检验,pending
-IPQC (In-process Quality Control),制程质量检验,trade-terms,质量检验,pending
-FQC (Final Quality Control),成品质量检验,trade-terms,质量检验,pending
-OQC (Outgoing Quality Control),出货质量检验,trade-terms,质量检验,pending
-ISO 2859 Sampling Standard,ISO 2859 抽样标准,trade-terms,质量检验,pending
-GB/T 2828 Sampling,GB/T 2828 抽样标准,trade-terms,质量检验,pending
-Inspection Plan,检验计划,trade-terms,质量检验,pending
-Random Sampling,随机抽样,trade-terms,质量检验,pending
-Defect Rate Analysis,缺陷率分析,trade-terms,质量检验,pending
-8D Report,8D 问题解决报告,trade-terms,质量检验,pending
-Root Cause Analysis,根本原因分析,trade-terms,质量检验,pending
-Corrective and Preventive Action,纠正与预防措施,trade-terms,质量检验,pending
-Retest and Re-inspection,复检与重新检验,trade-terms,质量检验,pending
-SVHC Testing,高关注度物质检测,trade-terms,产品合规,pending
-Prop 65 Testing,加州 65 号提案检测,trade-terms,产品合规,pending
-Physical Performance Test,物理性能测试,trade-terms,质量检验,pending
-Color Difference Check,色差检验,trade-terms,质量检验,pending
-Functional Test,功能测试,trade-terms,质量检验,pending
-Safety Test,安全测试,trade-terms,质量检验,pending
-Ageing Test,老化测试,trade-terms,质量检验,pending
-Salt Spray Test,盐雾测试,trade-terms,质量检验,pending
+Dover Ferry Port,多佛轮渡港,transport,港口,published
+Dublin Port,都柏林港,transport,港口,published
+Cork Port,科克港,transport,港口,published
+Mobile Port,莫比尔港,transport,港口,published
+Jacksonville Port,杰克逊维尔港,transport,港口,published
+Tampa Port,坦帕港,transport,港口,published
+Wilmington Port,威尔明顿港,transport,港口,published
+Port Everglades,埃弗格雷兹港,transport,港口,published
+Freeport Bahamas,弗里波特港,transport,港口,published
+Kingston Port,金斯敦港,transport,港口,published
+Caucedo Port,考塞多港,transport,港口,published
+Balboa Port,巴尔博亚港,transport,港口,published
+Cristobal Port,克里斯托瓦尔港,transport,港口,published
+Puerto Quetzal Port,夸特萨尔港,transport,港口,published
+Caldera Port,卡尔德拉港,transport,港口,published
+San Antonio Port,圣安东尼奥港,transport,港口,published
+Iquique Port,伊基克港,transport,港口,published
+Itajai Port,伊塔雅伊港,transport,港口,published
+Navegantes Port,纳维甘特斯港,transport,港口,published
+Rio Grande Port,里奥格兰德港,transport,港口,published
+Ngqura Port,恩古库拉港,transport,港口,published
+Walvis Bay Port,鲸湾港,transport,港口,published
+Luanda Port,罗安达港,transport,港口,published
+Pointe-Noire Port,黑角港,transport,港口,published
+Douala Port,杜阿拉港,transport,港口,published
+Lome Port,洛美港,transport,港口,published
+Cotonou Port,科托努港,transport,港口,published
+Kribi Port,克里比港,transport,港口,published
+Djibouti Port,吉布提港,transport,港口,published
+Tauranga Port,陶朗加港,transport,港口,published
+Davao Port,达沃港,transport,港口,published
+Cebu Port,宿务港,transport,港口,published
+Khor Fakkan Port,豪尔费坎港,transport,港口,published
+Fujairah Port,富查伊拉港,transport,港口,published
+Taicang Port,太仓港,transport,港口,published
+Nantong Port,南通港,transport,港口,published
+Zhangjiagang Port,张家港港,transport,港口,published
+Yantai Port,烟台港,transport,港口,published
+Jingtang Port,京唐港,transport,港口,published
+Huanghua Port,黄骅港,transport,港口,published
+Qinzhou Port,钦州港,transport,港口,published
+Fangchenggang Port,防城港,transport,港口,published
+Beihai Port,北海港,transport,港口,published
+Haikou Port,海口港,transport,港口,published
+Yangpu Port,洋浦港,transport,港口,published
+Zhuhai Port,珠海港,transport,港口,published
+Shantou Port,汕头港,transport,港口,published
+Quanzhou Port,泉州港,transport,港口,published
+Belawan Port,勿拉湾港,transport,港口,published
+Pyeongtaek Port,平泽港,transport,港口,published
+Gwangyang Port,光阳港,transport,港口,published
+Moji Port,门司港,transport,港口,published
+Hakata Port,博多港,transport,港口,published
+Beira Port,贝拉港,transport,港口,published
+Nacala Port,纳卡拉港,transport,港口,published
+Toamasina Port,图阿马西纳港,transport,港口,published
+Maputo Port,马普托港,transport,港口,published
+Port Louis,路易港,transport,港口,published
+Rouen Port,鲁昂港,transport,港口,published
+Nantes Saint-Nazaire Port,南特圣纳泽尔港,transport,港口,published
+Bordeaux Port,波尔多港,transport,港口,published
+Ghent Port,根特港,transport,港口,published
+Amsterdam Port,阿姆斯特丹港,transport,港口,published
+Belfast Port,贝尔法斯特港,transport,港口,published
+Hull Port,赫尔港,transport,港口,published
+Montreal Port,蒙特利尔港,transport,港口,published
+Halifax Port,哈利法克斯港,transport,港口,published
+Corpus Christi Port,科珀斯克里斯蒂港,transport,港口,published
+Lake Charles Port,莱克查尔斯港,transport,港口,published
+Barranquilla Port,巴兰基亚港,transport,港口,published
+Santa Marta Port,圣玛尔塔港,transport,港口,published
+AQL 2.5 Level,AQL 2.5 抽检水平,trade-terms,质量检验,published
+Critical Defect,致命缺陷,trade-terms,质量检验,published
+Major Defect,主要缺陷,trade-terms,质量检验,published
+Minor Defect,次要缺陷,trade-terms,质量检验,published
+IQC (Incoming Quality Control),来料质量检验,trade-terms,质量检验,published
+IPQC (In-process Quality Control),制程质量检验,trade-terms,质量检验,published
+FQC (Final Quality Control),成品质量检验,trade-terms,质量检验,published
+OQC (Outgoing Quality Control),出货质量检验,trade-terms,质量检验,published
+ISO 2859 Sampling Standard,ISO 2859 抽样标准,trade-terms,质量检验,published
+GB/T 2828 Sampling,GB/T 2828 抽样标准,trade-terms,质量检验,published
+Inspection Plan,检验计划,trade-terms,质量检验,published
+Random Sampling,随机抽样,trade-terms,质量检验,published
+Defect Rate Analysis,缺陷率分析,trade-terms,质量检验,published
+8D Report,8D 问题解决报告,trade-terms,质量检验,published
+Root Cause Analysis,根本原因分析,trade-terms,质量检验,published
+Corrective and Preventive Action,纠正与预防措施,trade-terms,质量检验,published
+Retest and Re-inspection,复检与重新检验,trade-terms,质量检验,published
+SVHC Testing,高关注度物质检测,trade-terms,产品合规,published
+Prop 65 Testing,加州 65 号提案检测,trade-terms,产品合规,published
+Physical Performance Test,物理性能测试,trade-terms,质量检验,published
+Color Difference Check,色差检验,trade-terms,质量检验,published
+Functional Test,功能测试,trade-terms,质量检验,published
+Safety Test,安全测试,trade-terms,质量检验,published
+Ageing Test,老化测试,trade-terms,质量检验,published
+Salt Spray Test,盐雾测试,trade-terms,质量检验,published
 Compliance Screening Software,合规筛查软件,customs,合规管理,pending
 Voluntary Self-disclosure (US),美国主动披露制度,customs,合规管理,pending
 Prior Disclosure,事先披露,customs,合规管理,pending
