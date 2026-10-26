@@ -2273,10 +2273,10 @@ Odessa Port,敖德萨港,transport,港口,published
 Novorossiysk Port,新罗西斯克港,transport,港口,published
 Saint Petersburg Port,圣彼得堡港,transport,港口,published
 Ust-Luga Port,乌斯季卢加港,transport,港口,published
-Ventspils Port,文茨皮尔斯港,transport,港口,pending
-Liverpool Port,利物浦港,transport,港口,pending
+Ventspils Port,文茨皮尔斯港,transport,港口,published
+Liverpool Port,利物浦港,transport,港口,published
 Immingham Port,伊明厄姆港,transport,港口,published
-Teesport Port,提兹港,transport,港口,pending
+Teesport Port,提兹港,transport,港口,published
 Dover Ferry Port,多佛轮渡港,transport,港口,published
 Dublin Port,都柏林港,transport,港口,published
 Cork Port,科克港,transport,港口,published
@@ -2373,103 +2373,103 @@ Functional Test,功能测试,trade-terms,质量检验,published
 Safety Test,安全测试,trade-terms,质量检验,published
 Ageing Test,老化测试,trade-terms,质量检验,published
 Salt Spray Test,盐雾测试,trade-terms,质量检验,published
-Compliance Screening Software,合规筛查软件,customs,合规管理,pending
-Voluntary Self-disclosure (US),美国主动披露制度,customs,合规管理,pending
-Prior Disclosure,事先披露,customs,合规管理,pending
-Penalty Mitigation,处罚减轻情节,customs,合规管理,pending
-Reasonable Care Standard,合理注意原则,customs,合规管理,pending
-Informed Compliance,知情合规理念,customs,合规管理,pending
-Recordkeeping Requirement,记录保存要求,customs,合规管理,pending
-Five-year Record Retention,五年记录保存期,customs,合规管理,pending
-Trade Preference Verification,优惠贸易待遇核查,customs,合规管理,pending
-Restricted Party List,受限方名单,customs,合规管理,pending
-Compliance Training,贸易合规培训,customs,合规管理,pending
-Internal Audit (Compliance),合规内审,customs,合规管理,pending
-Supplier Development,供应商培育,trade-terms,采购管理,pending
-Supplier Onboarding,供应商准入,trade-terms,采购管理,pending
-Approved Supplier List,合格供应商名录,trade-terms,采购管理,pending
-Supplier Portal,供应商协同门户,trade-terms,采购管理,pending
-e-Sourcing,电子化寻源,trade-terms,采购管理,pending
-Reverse Auction,反向拍卖,trade-terms,采购管理,pending
-Cost Breakdown,成本分解表,trade-terms,采购管理,pending
-Should-cost Analysis,应然成本分析,trade-terms,采购管理,pending
-Capacity Reservation,产能预订,trade-terms,采购管理,pending
-Early Payment Discount,早付折扣,trade-terms,采购管理,pending
-Late Payment Interest,逾期付款利息,trade-terms,采购管理,pending
-Low-cost Country Sourcing,低成本国家采购,trade-terms,采购管理,pending
-Supplier Risk Score,供应商风险评分,trade-terms,采购管理,pending
-Financial Health Check,供应商财务健康核查,trade-terms,采购管理,pending
-Raw Material Index Linkage,原材料价格指数联动,trade-terms,采购管理,pending
-Spot Buy,现货采购,trade-terms,采购管理,pending
-Vendor Hub,供应商集货仓,trade-terms,采购管理,pending
-Payment Cycle,付款周期,trade-terms,采购管理,pending
-Category Management,品类管理,trade-terms,采购管理,pending
-Spend Analysis,支出分析,trade-terms,采购管理,pending
-e-Procurement System,电子采购系统,trade-terms,采购管理,pending
-Blanket Order,一揽子订单,trade-terms,采购管理,pending
-Call-off Order,按需呼叫订单,trade-terms,采购管理,pending
-Scheduling Agreement,计划协议,trade-terms,采购管理,pending
-Consumption-based Billing,按耗用开票,trade-terms,采购管理,pending
-Maersk,马士基,roles,航运公司,pending
-MSC (Mediterranean Shipping Company),地中海航运,roles,航运公司,pending
-CMA CGM,达飞轮船,roles,航运公司,pending
-COSCO Shipping Lines,中远海运集运,roles,航运公司,pending
-OOCL (Orient Overseas Container Line),东方海外,roles,航运公司,pending
-Hapag-Lloyd,赫伯罗特,roles,航运公司,pending
-ONE (Ocean Network Express),海洋网联船务,roles,航运公司,pending
-Evergreen Marine,长荣海运,roles,航运公司,pending
-Yang Ming Marine Transport,阳明海运,roles,航运公司,pending
-HMM,韩新海运,roles,航运公司,pending
-ZIM Integrated Shipping Services,以星航运,roles,航运公司,pending
-PIL (Pacific International Lines),太平船务,roles,航运公司,pending
-SITC Container Lines,海丰国际,roles,航运公司,pending
-Wan Hai Lines,万海航运,roles,航运公司,pending
-TS Lines,德翔海运,roles,航运公司,pending
-KMTC Line,高丽海运,roles,航运公司,pending
-Heung-A Shipping,兴亚海运,roles,航运公司,pending
-Sinokor Merchant Marine,长锦商船,roles,航运公司,pending
-RCL (Regional Container Lines),宏海箱运,roles,航运公司,pending
-X-Press Feeders Group,X-Press 支线船东,roles,航运公司,pending
-Unifeeder,Unifeeder 支线航运,roles,航运公司,pending
-China United Lines,中联航运,roles,航运公司,pending
-Hamburg Süd,汉堡南美,roles,航运公司,pending
-ANL,澳国航运,roles,航运公司,pending
-APL,美国总统轮船,roles,航运公司,pending
-IRISL Group,伊朗国航（IRISL）,roles,航运公司,pending
-Grimaldi Group,格里马尔迪集团,roles,航运公司,pending
-Wallenius Wilhelmsen,华轮-威尔森,roles,航运公司,pending
-K Line,川崎汽船,roles,航运公司,pending
-MOL (Mitsui O.S.K. Lines),商船三井,roles,航运公司,pending
-NYK Line,日本邮船,roles,航运公司,pending
-DHL Global Forwarding,敦豪全球货运,roles,货代物流,pending
-Kuehne+Nagel,德迅集团,roles,货代物流,pending
-DB Schenker,德铁信可,roles,货代物流,pending
-DSV,得斯威（DSV）,roles,货代物流,pending
-Expeditors International,康捷国际物流,roles,货代物流,pending
-C.H. Robinson,罗宾逊全球物流,roles,货代物流,pending
-Nippon Express,日本通运,roles,货代物流,pending
-Yusen Logistics,邮船物流,roles,货代物流,pending
-Geodis,乔达国际物流,roles,货代物流,pending
-Bolloré Logistics,波洛莱物流,roles,货代物流,pending
-CEVA Logistics,基华物流,roles,货代物流,pending
-Kerry Logistics,嘉里物流,roles,货代物流,pending
-Sinotrans,中国外运,roles,货代物流,pending
-Cainiao Network,菜鸟集团,roles,货代物流,pending
-JD Logistics,京东物流,roles,货代物流,pending
-SF Express,顺丰速运,roles,快递物流,pending
-SF Airlines,顺丰航空,roles,航空货运,pending
-China Eastern Air Logistics,东航物流,roles,航空货运,pending
-China Cargo Airlines,中国货运航空,roles,航空货运,pending
-Lufthansa Cargo,汉莎货运航空,roles,航空货运,pending
-Emirates SkyCargo,阿联酋航空货运,roles,航空货运,pending
-Cargolux,卢森堡货运航空,roles,航空货运,pending
-Atlas Air,亚特拉斯航空,roles,航空货运,pending
-Cathay Cargo,国泰货运,roles,航空货运,pending
-Korean Air Cargo,大韩航空货运,roles,航空货运,pending
-China Airlines Cargo,中华航空货运,roles,航空货运,pending
-EVA Air Cargo,长荣航空货运,roles,航空货运,pending
-Singapore Airlines Cargo,新加坡航空货运,roles,航空货运,pending
-Qatar Airways Cargo,卡塔尔航空货运,roles,航空货运,pending
+Compliance Screening Software,合规筛查软件,customs,合规管理,published
+Voluntary Self-disclosure (US),美国主动披露制度,customs,合规管理,published
+Prior Disclosure,事先披露,customs,合规管理,published
+Penalty Mitigation,处罚减轻情节,customs,合规管理,published
+Reasonable Care Standard,合理注意原则,customs,合规管理,published
+Informed Compliance,知情合规理念,customs,合规管理,published
+Recordkeeping Requirement,记录保存要求,customs,合规管理,published
+Five-year Record Retention,五年记录保存期,customs,合规管理,published
+Trade Preference Verification,优惠贸易待遇核查,customs,合规管理,published
+Restricted Party List,受限方名单,customs,合规管理,published
+Compliance Training,贸易合规培训,customs,合规管理,published
+Internal Audit (Compliance),合规内审,customs,合规管理,published
+Supplier Development,供应商培育,trade-terms,采购管理,published
+Supplier Onboarding,供应商准入,trade-terms,采购管理,published
+Approved Supplier List,合格供应商名录,trade-terms,采购管理,published
+Supplier Portal,供应商协同门户,trade-terms,采购管理,published
+e-Sourcing,电子化寻源,trade-terms,采购管理,published
+Reverse Auction,反向拍卖,trade-terms,采购管理,published
+Cost Breakdown,成本分解表,trade-terms,采购管理,published
+Should-cost Analysis,应然成本分析,trade-terms,采购管理,published
+Capacity Reservation,产能预订,trade-terms,采购管理,published
+Early Payment Discount,早付折扣,trade-terms,采购管理,published
+Late Payment Interest,逾期付款利息,trade-terms,采购管理,published
+Low-cost Country Sourcing,低成本国家采购,trade-terms,采购管理,published
+Supplier Risk Score,供应商风险评分,trade-terms,采购管理,published
+Financial Health Check,供应商财务健康核查,trade-terms,采购管理,published
+Raw Material Index Linkage,原材料价格指数联动,trade-terms,采购管理,published
+Spot Buy,现货采购,trade-terms,采购管理,published
+Vendor Hub,供应商集货仓,trade-terms,采购管理,published
+Payment Cycle,付款周期,trade-terms,采购管理,published
+Category Management,品类管理,trade-terms,采购管理,published
+Spend Analysis,支出分析,trade-terms,采购管理,published
+e-Procurement System,电子采购系统,trade-terms,采购管理,published
+Blanket Order,一揽子订单,trade-terms,采购管理,published
+Call-off Order,按需呼叫订单,trade-terms,采购管理,published
+Scheduling Agreement,计划协议,trade-terms,采购管理,published
+Consumption-based Billing,按耗用开票,trade-terms,采购管理,published
+Maersk,马士基,roles,航运公司,published
+MSC (Mediterranean Shipping Company),地中海航运,roles,航运公司,published
+CMA CGM,达飞轮船,roles,航运公司,published
+COSCO Shipping Lines,中远海运集运,roles,航运公司,published
+OOCL (Orient Overseas Container Line),东方海外,roles,航运公司,published
+Hapag-Lloyd,赫伯罗特,roles,航运公司,published
+ONE (Ocean Network Express),海洋网联船务,roles,航运公司,published
+Evergreen Marine,长荣海运,roles,航运公司,published
+Yang Ming Marine Transport,阳明海运,roles,航运公司,published
+HMM,韩新海运,roles,航运公司,published
+ZIM Integrated Shipping Services,以星航运,roles,航运公司,published
+PIL (Pacific International Lines),太平船务,roles,航运公司,published
+SITC Container Lines,海丰国际,roles,航运公司,published
+Wan Hai Lines,万海航运,roles,航运公司,published
+TS Lines,德翔海运,roles,航运公司,published
+KMTC Line,高丽海运,roles,航运公司,published
+Heung-A Shipping,兴亚海运,roles,航运公司,published
+Sinokor Merchant Marine,长锦商船,roles,航运公司,published
+RCL (Regional Container Lines),宏海箱运,roles,航运公司,published
+X-Press Feeders Group,X-Press 支线船东,roles,航运公司,published
+Unifeeder,Unifeeder 支线航运,roles,航运公司,published
+China United Lines,中联航运,roles,航运公司,published
+Hamburg Süd,汉堡南美,roles,航运公司,published
+ANL,澳国航运,roles,航运公司,published
+APL,美国总统轮船,roles,航运公司,published
+IRISL Group,伊朗国航（IRISL）,roles,航运公司,published
+Grimaldi Group,格里马尔迪集团,roles,航运公司,published
+Wallenius Wilhelmsen,华轮-威尔森,roles,航运公司,published
+K Line,川崎汽船,roles,航运公司,published
+MOL (Mitsui O.S.K. Lines),商船三井,roles,航运公司,published
+NYK Line,日本邮船,roles,航运公司,published
+DHL Global Forwarding,敦豪全球货运,roles,货代物流,published
+Kuehne+Nagel,德迅集团,roles,货代物流,published
+DB Schenker,德铁信可,roles,货代物流,published
+DSV,得斯威（DSV）,roles,货代物流,published
+Expeditors International,康捷国际物流,roles,货代物流,published
+C.H. Robinson,罗宾逊全球物流,roles,货代物流,published
+Nippon Express,日本通运,roles,货代物流,published
+Yusen Logistics,邮船物流,roles,货代物流,published
+Geodis,乔达国际物流,roles,货代物流,published
+Bolloré Logistics,波洛莱物流,roles,货代物流,published
+CEVA Logistics,基华物流,roles,货代物流,published
+Kerry Logistics,嘉里物流,roles,货代物流,published
+Sinotrans,中国外运,roles,货代物流,published
+Cainiao Network,菜鸟集团,roles,货代物流,published
+JD Logistics,京东物流,roles,货代物流,published
+SF Express,顺丰速运,roles,快递物流,published
+SF Airlines,顺丰航空,roles,航空货运,published
+China Eastern Air Logistics,东航物流,roles,航空货运,published
+China Cargo Airlines,中国货运航空,roles,航空货运,published
+Lufthansa Cargo,汉莎货运航空,roles,航空货运,published
+Emirates SkyCargo,阿联酋航空货运,roles,航空货运,published
+Cargolux,卢森堡货运航空,roles,航空货运,published
+Atlas Air,亚特拉斯航空,roles,航空货运,published
+Cathay Cargo,国泰货运,roles,航空货运,published
+Korean Air Cargo,大韩航空货运,roles,航空货运,published
+China Airlines Cargo,中华航空货运,roles,航空货运,published
+EVA Air Cargo,长荣航空货运,roles,航空货运,published
+Singapore Airlines Cargo,新加坡航空货运,roles,航空货运,published
+Qatar Airways Cargo,卡塔尔航空货运,roles,航空货运,published
 Turkish Cargo,土耳其航空货运,roles,航空货运,pending
 FedEx,联邦快递,roles,快递物流,pending
 UPS,联合包裹,roles,快递物流,pending
