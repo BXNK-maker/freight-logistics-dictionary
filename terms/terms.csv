@@ -2470,106 +2470,106 @@ China Airlines Cargo,中华航空货运,roles,航空货运,published
 EVA Air Cargo,长荣航空货运,roles,航空货运,published
 Singapore Airlines Cargo,新加坡航空货运,roles,航空货运,published
 Qatar Airways Cargo,卡塔尔航空货运,roles,航空货运,published
-Turkish Cargo,土耳其航空货运,roles,航空货运,pending
-FedEx,联邦快递,roles,快递物流,pending
-UPS,联合包裹,roles,快递物流,pending
-DHL Express,敦豪快递,roles,快递物流,pending
-Aramex,阿拉美斯快递,roles,快递物流,pending
-GXO Logistics,GXO 物流,roles,仓储物流,pending
-XPO Logistics,XPO 物流,roles,仓储物流,pending
-Ryder System,莱德物流,roles,仓储物流,pending
-Penske Logistics,潘世奇物流,roles,仓储物流,pending
-Rhenus Logistics,雷诺斯物流,roles,仓储物流,pending
-Dachser,德莎物流,roles,货代物流,pending
-Toll Group,拓领集团,roles,货代物流,pending
-Flexport,Flexport 数字货代,roles,货代物流,pending
-CJ Logistics,CJ 希杰物流,roles,快递物流,pending
-Sagawa Express,佐川急便,roles,快递物流,pending
-Yamato Transport,雅玛多运输,roles,快递物流,pending
-SPMT (Self-propelled Modular Transporter),自行式模块运输车,special-cargo,大件运输,pending
-Modular Trailer,液压模块板车,special-cargo,大件运输,pending
-Hydraulic Gantry System,液压顶升龙门系统,special-cargo,大件运输,pending
-Jack and Slide,顶推滑移作业,special-cargo,大件运输,pending
-Heavy Lift Crane,大型履带起重机,special-cargo,大件运输,pending
-Floating Crane,浮式起重机,special-cargo,大件运输,pending
-Tandem Lift,双机联合抬吊,special-cargo,大件运输,pending
-Load Out,码头出运装载,special-cargo,大件运输,pending
-Sea Fastening,海上运输固定,special-cargo,大件运输,pending
-Grillage Support,钢支墩支撑架,special-cargo,大件运输,pending
-Rigging Study,吊装受力分析,special-cargo,大件运输,pending
-Lift Plan,吊装作业计划,special-cargo,大件运输,pending
-Wind Turbine Nacelle,风机机舱运输,special-cargo,大件运输,pending
-Tower Section Transport,风机塔筒运输,special-cargo,大件运输,pending
-Monopile Transport,海上风电单桩运输,special-cargo,大件运输,pending
-UN 3480 (Lithium-ion Batteries Standalone),锂离子电池单独运输,special-cargo,锂电池,pending
-UN 3481 (Batteries Packed with Equipment),锂电池随设备包装运输,special-cargo,锂电池,pending
-UN 3090/3091 (Lithium Metal Batteries),锂金属电池运输,special-cargo,锂电池,pending
-Sodium-ion Battery Transport,钠离子电池运输,special-cargo,锂电池,pending
-ESS Transport,储能系统运输,special-cargo,锂电池,pending
-E-bike Transport,电动自行车运输,special-cargo,锂电池,pending
-E-scooter Transport,电动滑板车运输,special-cargo,锂电池,pending
-Battery Fire Suppression Plan,电池火灾应急预案,special-cargo,锂电池,pending
-Thermal Runaway Risk,热失控风险,special-cargo,锂电池,pending
-IATA LAR,国际航协活体动物运输规则,special-cargo,活体运输,pending
-AVI Code,活体动物运输代码,special-cargo,活体运输,pending
-Equine Transport,马匹运输,special-cargo,活体运输,pending
-Day-old Chicks,初生雏鸡运输,special-cargo,活体运输,pending
-Ornamental Fish Transport,观赏鱼运输,special-cargo,活体运输,pending
-Human Remains Logistics,遗体国际运输,special-cargo,特殊运输,pending
-Diplomatic Cargo,外交物资运输,special-cargo,特殊运输,pending
-Museum Exhibition Logistics,博物馆展品物流,special-cargo,特殊运输,pending
-Qualified Person Release,质量受权人放行,special-cargo,医药物流,pending
-Batch Certificate,药品批签发证明,special-cargo,医药物流,pending
-Supply Chain Management,供应链管理,supply-chain,供应链基础,pending
-SCOR Model,供应链运作参考模型,supply-chain,供应链基础,pending
-Bullwhip Effect,牛鞭效应,supply-chain,供应链基础,pending
-Postponement Strategy,延迟策略,supply-chain,供应链基础,pending
-Late Configuration,延迟配置,supply-chain,供应链基础,pending
-Mass Customization,大规模定制,supply-chain,供应链基础,pending
-Push-Pull Strategy,推拉结合策略,supply-chain,供应链基础,pending
-Decoupling Point,解耦点,supply-chain,供应链基础,pending
-Make-to-Stock,备货型生产,supply-chain,生产模式,pending
-Make-to-Order,订货型生产,supply-chain,生产模式,pending
-Assemble-to-Order,按订单装配,supply-chain,生产模式,pending
-Engineer-to-Order,按订单设计,supply-chain,生产模式,pending
-Bill of Materials,物料清单,supply-chain,生产模式,pending
-Material Requirements Planning,物料需求计划,supply-chain,计划体系,pending
-Distribution Requirements Planning,配送需求计划,supply-chain,计划体系,pending
-CPFR,协同计划预测与补货,supply-chain,计划体系,pending
-S&OE,销售与运营执行,supply-chain,计划体系,pending
-Demand-driven MRP,需求驱动物料计划,supply-chain,计划体系,pending
-DDMRP,需求驱动 MRP 模型,supply-chain,计划体系,pending
-Multi-echelon Inventory Optimization,多级库存优化,supply-chain,库存策略,pending
-Inventory Segmentation,库存分层管理,supply-chain,库存策略,pending
-SKU Rationalization,SKU 精简优化,supply-chain,库存策略,pending
-Network Design (Supply Chain),供应链网络设计,supply-chain,网络规划,pending
-Facility Location Analysis,设施选址分析,supply-chain,网络规划,pending
-Center of Gravity Method,重心法选址,supply-chain,网络规划,pending
-Nearshoring,近岸外包,supply-chain,全球布局,pending
-Reshoring,制造业回流,supply-chain,全球布局,pending
-Friend-shoring,友岸外包,supply-chain,全球布局,pending
-China Plus One Strategy,中国+1 战略,supply-chain,全球布局,pending
-Production Diversification,产能多元化布局,supply-chain,全球布局,pending
-Dual Sourcing,双源采购,supply-chain,采购策略,pending
-Multi-sourcing,多源采购,supply-chain,采购策略,pending
-Single Source Risk,单一来源风险,supply-chain,采购策略,pending
-Supplier Relationship Management,供应商关系管理,supply-chain,采购策略,pending
-Supplier Audit,供应商审核,supply-chain,采购策略,pending
-Vendor Rating,供应商评级,supply-chain,采购策略,pending
-Supplier Code of Conduct,供应商行为准则,supply-chain,合规可持续,pending
-Social Compliance Audit,社会责任验厂,supply-chain,合规可持续,pending
-BSCI Audit,BSCI 社会责任审核,supply-chain,合规可持续,pending
-SA8000 Standard,SA8000 社会责任标准,supply-chain,合规可持续,pending
-Sedex Platform,Sedex 责任商业平台,supply-chain,合规可持续,pending
-SMETA Audit,SMETA 审核方法,supply-chain,合规可持续,pending
-Supply Chain Due Diligence,供应链尽职调查,supply-chain,合规可持续,pending
-German Supply Chain Act (LkSG),德国供应链尽调法,supply-chain,合规可持续,pending
-CSDDD,欧盟企业可持续发展尽职调查指令,supply-chain,合规可持续,pending
-UFLPA,美国维吾尔强迫劳动预防法,supply-chain,合规可持续,pending
-Forced Labor Regulation,强迫劳动合规要求,supply-chain,合规可持续,pending
-Conflict Minerals,冲突矿产,supply-chain,合规可持续,pending
-Supply Chain Transparency,供应链透明度,supply-chain,合规可持续,pending
-N-tier Visibility,多层供应商可见性,supply-chain,合规可持续,pending
+Turkish Cargo,土耳其航空货运,roles,航空货运,published
+FedEx,联邦快递,roles,快递物流,published
+UPS,联合包裹,roles,快递物流,published
+DHL Express,敦豪快递,roles,快递物流,published
+Aramex,阿拉美斯快递,roles,快递物流,published
+GXO Logistics,GXO 物流,roles,仓储物流,published
+XPO Logistics,XPO 物流,roles,仓储物流,published
+Ryder System,莱德物流,roles,仓储物流,published
+Penske Logistics,潘世奇物流,roles,仓储物流,published
+Rhenus Logistics,雷诺斯物流,roles,仓储物流,published
+Dachser,德莎物流,roles,货代物流,published
+Toll Group,拓领集团,roles,货代物流,published
+Flexport,Flexport 数字货代,roles,货代物流,published
+CJ Logistics,CJ 希杰物流,roles,快递物流,published
+Sagawa Express,佐川急便,roles,快递物流,published
+Yamato Transport,雅玛多运输,roles,快递物流,published
+SPMT (Self-propelled Modular Transporter),自行式模块运输车,special-cargo,大件运输,published
+Modular Trailer,液压模块板车,special-cargo,大件运输,published
+Hydraulic Gantry System,液压顶升龙门系统,special-cargo,大件运输,published
+Jack and Slide,顶推滑移作业,special-cargo,大件运输,published
+Heavy Lift Crane,大型履带起重机,special-cargo,大件运输,published
+Floating Crane,浮式起重机,special-cargo,大件运输,published
+Tandem Lift,双机联合抬吊,special-cargo,大件运输,published
+Load Out,码头出运装载,special-cargo,大件运输,published
+Sea Fastening,海上运输固定,special-cargo,大件运输,published
+Grillage Support,钢支墩支撑架,special-cargo,大件运输,published
+Rigging Study,吊装受力分析,special-cargo,大件运输,published
+Lift Plan,吊装作业计划,special-cargo,大件运输,published
+Wind Turbine Nacelle,风机机舱运输,special-cargo,大件运输,published
+Tower Section Transport,风机塔筒运输,special-cargo,大件运输,published
+Monopile Transport,海上风电单桩运输,special-cargo,大件运输,published
+UN 3480 (Lithium-ion Batteries Standalone),锂离子电池单独运输,special-cargo,锂电池,published
+UN 3481 (Batteries Packed with Equipment),锂电池随设备包装运输,special-cargo,锂电池,published
+UN 3090/3091 (Lithium Metal Batteries),锂金属电池运输,special-cargo,锂电池,published
+Sodium-ion Battery Transport,钠离子电池运输,special-cargo,锂电池,published
+ESS Transport,储能系统运输,special-cargo,锂电池,published
+E-bike Transport,电动自行车运输,special-cargo,锂电池,published
+E-scooter Transport,电动滑板车运输,special-cargo,锂电池,published
+Battery Fire Suppression Plan,电池火灾应急预案,special-cargo,锂电池,published
+Thermal Runaway Risk,热失控风险,special-cargo,锂电池,published
+IATA LAR,国际航协活体动物运输规则,special-cargo,活体运输,published
+AVI Code,活体动物运输代码,special-cargo,活体运输,published
+Equine Transport,马匹运输,special-cargo,活体运输,published
+Day-old Chicks,初生雏鸡运输,special-cargo,活体运输,published
+Ornamental Fish Transport,观赏鱼运输,special-cargo,活体运输,published
+Human Remains Logistics,遗体国际运输,special-cargo,特殊运输,published
+Diplomatic Cargo,外交物资运输,special-cargo,特殊运输,published
+Museum Exhibition Logistics,博物馆展品物流,special-cargo,特殊运输,published
+Qualified Person Release,质量受权人放行,special-cargo,医药物流,published
+Batch Certificate,药品批签发证明,special-cargo,医药物流,published
+Supply Chain Management,供应链管理,supply-chain,供应链基础,published
+SCOR Model,供应链运作参考模型,supply-chain,供应链基础,published
+Bullwhip Effect,牛鞭效应,supply-chain,供应链基础,published
+Postponement Strategy,延迟策略,supply-chain,供应链基础,published
+Late Configuration,延迟配置,supply-chain,供应链基础,published
+Mass Customization,大规模定制,supply-chain,供应链基础,published
+Push-Pull Strategy,推拉结合策略,supply-chain,供应链基础,published
+Decoupling Point,解耦点,supply-chain,供应链基础,published
+Make-to-Stock,备货型生产,supply-chain,生产模式,published
+Make-to-Order,订货型生产,supply-chain,生产模式,published
+Assemble-to-Order,按订单装配,supply-chain,生产模式,published
+Engineer-to-Order,按订单设计,supply-chain,生产模式,published
+Bill of Materials,物料清单,supply-chain,生产模式,published
+Material Requirements Planning,物料需求计划,supply-chain,计划体系,published
+Distribution Requirements Planning,配送需求计划,supply-chain,计划体系,published
+CPFR,协同计划预测与补货,supply-chain,计划体系,published
+S&OE,销售与运营执行,supply-chain,计划体系,published
+Demand-driven MRP,需求驱动物料计划,supply-chain,计划体系,published
+DDMRP,需求驱动 MRP 模型,supply-chain,计划体系,published
+Multi-echelon Inventory Optimization,多级库存优化,supply-chain,库存策略,published
+Inventory Segmentation,库存分层管理,supply-chain,库存策略,published
+SKU Rationalization,SKU 精简优化,supply-chain,库存策略,published
+Network Design (Supply Chain),供应链网络设计,supply-chain,网络规划,published
+Facility Location Analysis,设施选址分析,supply-chain,网络规划,published
+Center of Gravity Method,重心法选址,supply-chain,网络规划,published
+Nearshoring,近岸外包,supply-chain,全球布局,published
+Reshoring,制造业回流,supply-chain,全球布局,published
+Friend-shoring,友岸外包,supply-chain,全球布局,published
+China Plus One Strategy,中国+1 战略,supply-chain,全球布局,published
+Production Diversification,产能多元化布局,supply-chain,全球布局,published
+Dual Sourcing,双源采购,supply-chain,采购策略,published
+Multi-sourcing,多源采购,supply-chain,采购策略,published
+Single Source Risk,单一来源风险,supply-chain,采购策略,published
+Supplier Relationship Management,供应商关系管理,supply-chain,采购策略,published
+Supplier Audit,供应商审核,supply-chain,采购策略,published
+Vendor Rating,供应商评级,supply-chain,采购策略,published
+Supplier Code of Conduct,供应商行为准则,supply-chain,合规可持续,published
+Social Compliance Audit,社会责任验厂,supply-chain,合规可持续,published
+BSCI Audit,BSCI 社会责任审核,supply-chain,合规可持续,published
+SA8000 Standard,SA8000 社会责任标准,supply-chain,合规可持续,published
+Sedex Platform,Sedex 责任商业平台,supply-chain,合规可持续,published
+SMETA Audit,SMETA 审核方法,supply-chain,合规可持续,published
+Supply Chain Due Diligence,供应链尽职调查,supply-chain,合规可持续,published
+German Supply Chain Act (LkSG),德国供应链尽调法,supply-chain,合规可持续,published
+CSDDD,欧盟企业可持续发展尽职调查指令,supply-chain,合规可持续,published
+UFLPA,美国维吾尔强迫劳动预防法,supply-chain,合规可持续,published
+Forced Labor Regulation,强迫劳动合规要求,supply-chain,合规可持续,published
+Conflict Minerals,冲突矿产,supply-chain,合规可持续,published
+Supply Chain Transparency,供应链透明度,supply-chain,合规可持续,published
+N-tier Visibility,多层供应商可见性,supply-chain,合规可持续,published
 Supply Chain Mapping,供应链图谱绘制,supply-chain,合规可持续,pending
 Scope 3 Emissions,范围三排放,supply-chain,绿色供应链,pending
 GHG Protocol,温室气体核算体系,supply-chain,绿色供应链,pending
