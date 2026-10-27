@@ -2867,89 +2867,89 @@ Push-back Racking,后推式货架,warehousing,货架系统,published
 Mobile Racking,移动式货架,warehousing,货架系统,published
 Vertical Lift Module,垂直回转货柜,warehousing,货架系统,published
 Horizontal Carousel,水平旋转货架,warehousing,货架系统,published
-AutoStore System,AutoStore 密集存储系统,warehousing,货架系统,pending
-Cube Storage,密集存储,warehousing,货架系统,pending
-Robotic Picking Arm,机械臂拣选,warehousing,自动化设备,pending
-Belt Conveyor,带式输送机,warehousing,自动化设备,pending
-Roller Conveyor,滚筒输送机,warehousing,自动化设备,pending
-Chain Conveyor,链条输送机,warehousing,自动化设备,pending
-Spiral Conveyor,螺旋输送机,warehousing,自动化设备,pending
-Vertical Conveyor,垂直输送机,warehousing,自动化设备,pending
-Telescopic Conveyor,伸缩输送机,warehousing,自动化设备,pending
-Cross-belt Sorter,交叉带分拣机,warehousing,自动化设备,pending
-Tilt-tray Sorter,翻盘分拣机,warehousing,自动化设备,pending
-Shoe Sorter,滑块分拣机,warehousing,自动化设备,pending
-Narrow Belt Sorter,窄带分拣机,warehousing,自动化设备,pending
-DWS System,体积称重扫码一体机,warehousing,自动化设备,pending
-Checkweigher,自动检重秤,warehousing,自动化设备,pending
-Dimensioner,体积测量设备,warehousing,自动化设备,pending
-Euro Pallet,欧标托盘,warehousing,包装单元,pending
-GMA Pallet,美标托盘,warehousing,包装单元,pending
-Half Pallet,半托盘,warehousing,包装单元,pending
-Display Pallet,展示托盘,warehousing,包装单元,pending
-Pallet Wrapping Machine,缠膜机,warehousing,包装设备,pending
-Heat Shrink Wrapping,热缩膜包装,warehousing,包装设备,pending
-Pick Module,拣选模块,warehousing,仓库布局,pending
-In-plant Warehouse,厂内仓库,warehousing,仓库布局,pending
-Line-side Storage,线边仓,warehousing,仓库布局,pending
-Supermarket Area,线边超市,warehousing,仓库布局,pending
-Kanban System,看板系统,warehousing,精益管理,pending
-E-kanban,电子看板,warehousing,精益管理,pending
-Space Utilization,仓库空间利用率,warehousing,绩效指标,pending
-Dock Door Utilization,月台利用率,warehousing,绩效指标,pending
-Warehouse Throughput,仓库吞吐量,warehousing,绩效指标,pending
-Storage Rate,仓储费率,warehousing,商务合同,pending
-Pallet Position,托盘位,warehousing,商务合同,pending
-Minimum Monthly Storage,最低月仓储费,warehousing,商务合同,pending
-Activity-based Costing,作业成本法计费,warehousing,商务合同,pending
-Handling In and Out Fee,进出仓操作费,warehousing,商务合同,pending
-Split Shipment,拆单发货,warehousing,订单处理,pending
-Backorder,缺货订单,warehousing,订单处理,pending
-Pre-order,预售订单,warehousing,订单处理,pending
-Multi-channel Fulfillment,多渠道履约,warehousing,订单处理,pending
-Omnichannel Retail Logistics,全渠道零售物流,warehousing,订单处理,pending
-Click and Collect,到店自提,warehousing,订单处理,pending
-BOPIS,线上购买门店提货,warehousing,订单处理,pending
-Curbside Pickup,路边自提,warehousing,订单处理,pending
-Ship-from-Store,门店发货,warehousing,订单处理,pending
-In-store Fulfillment,门店履约,warehousing,订单处理,pending
-Dark Store,前置暗仓,warehousing,订单处理,pending
-Anteroom,缓冲间,warehousing,冷链仓储,pending
-Fire Compartment,防火分区,warehousing,安全合规,pending
-Emergency Exit,应急通道,warehousing,安全合规,pending
-PPE (Personal Protective Equipment),劳保用品,warehousing,安全合规,pending
-SDS on Site,现场化学品安全说明书,warehousing,安全合规,pending
-Spill Kit,泄漏应急包,warehousing,安全合规,pending
-Forklift Certification,叉车操作证,warehousing,安全合规,pending
-Pedestrian Segregation,人车分流,warehousing,安全合规,pending
-Racking Inspection,货架安全检测,warehousing,安全合规,pending
-Inventory Adjustment,库存调整,warehousing,库存操作,pending
-Physical Inventory,全面盘点,warehousing,库存操作,pending
-Inter-warehouse Transfer,跨仓调拨,warehousing,库存操作,pending
-Inventory Visibility Platform,库存可视化平台,warehousing,库存操作,pending
-Stockout Cost,缺货成本,warehousing,库存操作,pending
-Replenishment Lead Time,补货周期,warehousing,库存操作,pending
-QC Sampling,质检抽检,warehousing,质检,pending
-AQL Sampling,AQL 抽样检验,warehousing,质检,pending
-Corrective Action,纠正措施,warehousing,质检,pending
-Lab Testing,实验室检测,warehousing,质检,pending
-Palletizing Service,打托服务,warehousing,增值服务,pending
-Rework Operation,返工作业,warehousing,增值服务,pending
-Quality Hold Area,质量扣留区,warehousing,仓库布局,pending
-Returns Zone,退货暂存区,warehousing,仓库布局,pending
-Bulk Storage Area,散货存储区,warehousing,仓库布局,pending
-Rentable Area,计租面积,warehousing,商务合同,pending
-Warehouse Lease Term,仓库租期条款,warehousing,商务合同,pending
-Occupancy Rate,出租率,warehousing,绩效指标,pending
-Cost per Pallet Position,单托位成本,warehousing,绩效指标,pending
-Fire Suppression System,消防灭火系统,warehousing,安全合规,pending
-Lightning Protection,防雷接地,warehousing,安全合规,pending
-Pest Control,虫害防治,warehousing,安全合规,pending
-Humidity Control (Warehouse),仓库湿度控制,warehousing,安全合规,pending
-Dust Control,粉尘控制,warehousing,安全合规,pending
-Voice and Vision System,声光引导系统,warehousing,自动化设备,pending
-Industrial IoT Gateway,工业物联网网关,warehousing,自动化设备,pending
-Energy Management (Warehouse),仓库能耗管理,warehousing,绿色仓储,pending
-Warehouse Carbon Footprint,仓库碳足迹,warehousing,绿色仓储,pending
-Rainwater Recycling,雨水回收利用,warehousing,绿色仓储,pending
-LED Lighting Retrofit,LED 照明改造,warehousing,绿色仓储,pending
+AutoStore System,AutoStore 密集存储系统,warehousing,货架系统,published
+Cube Storage,密集存储,warehousing,货架系统,published
+Robotic Picking Arm,机械臂拣选,warehousing,自动化设备,published
+Belt Conveyor,带式输送机,warehousing,自动化设备,published
+Roller Conveyor,滚筒输送机,warehousing,自动化设备,published
+Chain Conveyor,链条输送机,warehousing,自动化设备,published
+Spiral Conveyor,螺旋输送机,warehousing,自动化设备,published
+Vertical Conveyor,垂直输送机,warehousing,自动化设备,published
+Telescopic Conveyor,伸缩输送机,warehousing,自动化设备,published
+Cross-belt Sorter,交叉带分拣机,warehousing,自动化设备,published
+Tilt-tray Sorter,翻盘分拣机,warehousing,自动化设备,published
+Shoe Sorter,滑块分拣机,warehousing,自动化设备,published
+Narrow Belt Sorter,窄带分拣机,warehousing,自动化设备,published
+DWS System,体积称重扫码一体机,warehousing,自动化设备,published
+Checkweigher,自动检重秤,warehousing,自动化设备,published
+Dimensioner,体积测量设备,warehousing,自动化设备,published
+Euro Pallet,欧标托盘,warehousing,包装单元,published
+GMA Pallet,美标托盘,warehousing,包装单元,published
+Half Pallet,半托盘,warehousing,包装单元,published
+Display Pallet,展示托盘,warehousing,包装单元,published
+Pallet Wrapping Machine,缠膜机,warehousing,包装设备,published
+Heat Shrink Wrapping,热缩膜包装,warehousing,包装设备,published
+Pick Module,拣选模块,warehousing,仓库布局,published
+In-plant Warehouse,厂内仓库,warehousing,仓库布局,published
+Line-side Storage,线边仓,warehousing,仓库布局,published
+Supermarket Area,线边超市,warehousing,仓库布局,published
+Kanban System,看板系统,warehousing,精益管理,published
+E-kanban,电子看板,warehousing,精益管理,published
+Space Utilization,仓库空间利用率,warehousing,绩效指标,published
+Dock Door Utilization,月台利用率,warehousing,绩效指标,published
+Warehouse Throughput,仓库吞吐量,warehousing,绩效指标,published
+Storage Rate,仓储费率,warehousing,商务合同,published
+Pallet Position,托盘位,warehousing,商务合同,published
+Minimum Monthly Storage,最低月仓储费,warehousing,商务合同,published
+Activity-based Costing,作业成本法计费,warehousing,商务合同,published
+Handling In and Out Fee,进出仓操作费,warehousing,商务合同,published
+Split Shipment,拆单发货,warehousing,订单处理,published
+Backorder,缺货订单,warehousing,订单处理,published
+Pre-order,预售订单,warehousing,订单处理,published
+Multi-channel Fulfillment,多渠道履约,warehousing,订单处理,published
+Omnichannel Retail Logistics,全渠道零售物流,warehousing,订单处理,published
+Click and Collect,到店自提,warehousing,订单处理,published
+BOPIS,线上购买门店提货,warehousing,订单处理,published
+Curbside Pickup,路边自提,warehousing,订单处理,published
+Ship-from-Store,门店发货,warehousing,订单处理,published
+In-store Fulfillment,门店履约,warehousing,订单处理,published
+Dark Store,前置暗仓,warehousing,订单处理,published
+Anteroom,缓冲间,warehousing,冷链仓储,published
+Fire Compartment,防火分区,warehousing,安全合规,published
+Emergency Exit,应急通道,warehousing,安全合规,published
+PPE (Personal Protective Equipment),劳保用品,warehousing,安全合规,published
+SDS on Site,现场化学品安全说明书,warehousing,安全合规,published
+Spill Kit,泄漏应急包,warehousing,安全合规,published
+Forklift Certification,叉车操作证,warehousing,安全合规,published
+Pedestrian Segregation,人车分流,warehousing,安全合规,published
+Racking Inspection,货架安全检测,warehousing,安全合规,published
+Inventory Adjustment,库存调整,warehousing,库存操作,published
+Physical Inventory,全面盘点,warehousing,库存操作,published
+Inter-warehouse Transfer,跨仓调拨,warehousing,库存操作,published
+Inventory Visibility Platform,库存可视化平台,warehousing,库存操作,published
+Stockout Cost,缺货成本,warehousing,库存操作,published
+Replenishment Lead Time,补货周期,warehousing,库存操作,published
+QC Sampling,质检抽检,warehousing,质检,published
+AQL Sampling,AQL 抽样检验,warehousing,质检,published
+Corrective Action,纠正措施,warehousing,质检,published
+Lab Testing,实验室检测,warehousing,质检,published
+Palletizing Service,打托服务,warehousing,增值服务,published
+Rework Operation,返工作业,warehousing,增值服务,published
+Quality Hold Area,质量扣留区,warehousing,仓库布局,published
+Returns Zone,退货暂存区,warehousing,仓库布局,published
+Bulk Storage Area,散货存储区,warehousing,仓库布局,published
+Rentable Area,计租面积,warehousing,商务合同,published
+Warehouse Lease Term,仓库租期条款,warehousing,商务合同,published
+Occupancy Rate,出租率,warehousing,绩效指标,published
+Cost per Pallet Position,单托位成本,warehousing,绩效指标,published
+Fire Suppression System,消防灭火系统,warehousing,安全合规,published
+Lightning Protection,防雷接地,warehousing,安全合规,published
+Pest Control,虫害防治,warehousing,安全合规,published
+Humidity Control (Warehouse),仓库湿度控制,warehousing,安全合规,published
+Dust Control,粉尘控制,warehousing,安全合规,published
+Voice and Vision System,声光引导系统,warehousing,自动化设备,published
+Industrial IoT Gateway,工业物联网网关,warehousing,自动化设备,published
+Energy Management (Warehouse),仓库能耗管理,warehousing,绿色仓储,published
+Warehouse Carbon Footprint,仓库碳足迹,warehousing,绿色仓储,published
+Rainwater Recycling,雨水回收利用,warehousing,绿色仓储,published
+LED Lighting Retrofit,LED 照明改造,warehousing,绿色仓储,published
