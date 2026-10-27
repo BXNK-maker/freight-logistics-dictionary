@@ -1,7 +1,7 @@
 ---
 title: "Erenhot Port"
 linkTitle: "二连浩特口岸"
-date: 2026-10-26
+date: 2026-10-27
 type: docs
 subcategory: "铁路口岸"
 ---
@@ -14,30 +14,30 @@ subcategory: "铁路口岸"
 
 ## 详细说明
 
-- 使用场景：主要用于中蒙双边贸易的进出口货物运输，以及经蒙古国往返中国与俄罗斯、欧洲之间的中欧班列转关与换装运输。
-- 关键规则或数字：国际铁路联运在此处需要进行“换装”作业（因为中国采用1435毫米的标准轨，而蒙古国及俄罗斯采用1520毫米的宽轨），通常采用吊装换箱或换轮方式完成。
-- 实务注意事项：由于地处北方边境，冬季常遇大风、暴雪等极端天气，口岸通关效率可能受到季节性影响；同时需密切关注蒙古国铁路及海关政策的变化，提前做好换装计划和单证预审。
+- 使用场景：主要用于中蒙双边贸易的进出口货物运输，以及经蒙古国往返中国与俄罗斯、欧洲之间的中欧班列集装箱运输。
+- 关键规则或数字：国际铁路联运在此处需要进行换装作业（Break-of-gauge），因为中国采用标准轨（1435毫米），而蒙古国和俄罗斯采用宽轨（1520毫米），列车或集装箱必须在此吊装转运。
+- 实务注意事项：由于地处北方边境，冬季气候极端寒冷且多大风，口岸通关可能受天气影响；此外，需严格遵守中蒙两国海关的过境申报、检验检疫及换装调度规则，提前做好舱单核对和车板计划。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 二连浩特口岸 | Erenhot Port |
-| 国际铁路联运 | International Through Railway Transport |
-| 换装作业 | Transshipment / Gauge Change Operation |
-| 中欧班列中通道 | Central Corridor of China-Europe Railway Express |
+| 中欧班列中通道 | Central Corridor of China Railway Express |
+| 轨距换装 | Break-of-gauge / Transshipment |
+| 国际铁路联运 | International Railway Through Transport |
 
 ## 相关术语
 
-- `Port of Entry（进境口岸）`
-- `International Through Bill of Lading（国际铁路联运运单）`
-- `Customs Declaration（报关）`
-- `Railway Gauge（铁路轨距）`
+- `Zamin Uud`（扎门乌德）
+- `Break-of-gauge`（换装/轨距不一致）
+- `International Railway Through Transport`（国际铁路联运）
+- `China-Europe Railway Express`（中欧班列）
 
 ## 常见误区
 
-- 认为二连浩特口岸的铁路无需换轨即可直通欧洲：实际上必须在口岸进行换装或换轮作业，因为中蒙俄三国铁路轨距不同。
-- 忽略季节性天气对陆运的影响：冬季极端天气常导致口岸拥堵，若不预留充足时间易产生滞箱费。
+- 误区一：认为二连浩特口岸只有公路运输。实际上其铁路口岸承担了绝大部分的中欧班列中通道重载运输任务。
+- 误区二：认为集装箱在口岸过境时不需要落地换装。由于中蒙两国铁路轨距不同，所有过境货物或集装箱必须在口岸进行吊装换装至对方车板上。
 
 ---
 

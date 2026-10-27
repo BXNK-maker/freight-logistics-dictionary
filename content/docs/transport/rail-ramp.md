@@ -1,7 +1,7 @@
 ---
 title: "Rail Ramp"
 linkTitle: "驮背装卸站"
-date: 2026-10-26
+date: 2026-10-27
 type: docs
 subcategory: "铁路运输"
 ---
@@ -9,32 +9,31 @@ subcategory: "铁路运输"
 > 📖 分类：**运输** / 铁路运输　｜　Rail Ramp = 驮背装卸站
 
 ## 定义
-Rail Ramp（铁路货运坡道/驮背装卸站）是指铁路与公路集疏运的交汇枢纽，专为将公路半挂车、集装箱或底盘车吊装上铁路平车（或从车上卸下）而设计。它是多式联运（Intermodal Transport）体系中的关键节点，实现了长距离铁路干线运输与短距离公路配送的高效衔接。
+Rail Ramp（铁路货运坡道/驮背装卸站）是指铁路与公路集疏运的交汇枢纽，专为将公路半挂车、集装箱或底盘车吊装到铁路平车上（或从平车上卸下）而设计。它是多式联运体系中的核心节点，实现了铁路长距离干线运输与公路短途配送的高效衔接。
 
 ## 详细说明
-- 使用场景：广泛应用于跨国或跨大陆的国际货运代理中，特别是在北美和欧亚大陆桥等铁路网发达的区域，用于处理“公铁联运”货物。
-- 关键规则或数字：装卸作业需严格遵守铁路安全限界与轴重限制。标准作业通常要求在指定截关时间（Cut-off Time）前将货物送达，且超重箱或特种箱需提前向铁路运营商申报特殊装载方案。
-- 实务注意事项：货代在安排Rail Ramp交货时，必须仔细核对装卸站（Ramp）的收货代码、营业时间和设备处理能力。同时需注意车架（Chassis）的管理，避免产生超期滞箱费（Demurrage & Detention）。
+- 使用场景：主要应用于跨国或跨洲的大陆桥运输（如北美跨大陆铁路货运），在公路转铁路（TOFC）或集装箱铁水/铁公联运中必不可少。
+- 关键规则与数字：现代 Rail Ramp 通常配备大型龙门吊（Gantry Crane）或正面吊（Reach Stacker），可在几分钟内完成一个重载集装箱或半挂车的装卸，大幅压缩了中转时间。
+- 实务注意事项：货代和发货人必须关注场站的截单时间（Cut-off Time）和免费堆存期（Demurrage & Detention），同时要确保货物重量符合铁路轴重限制及公路限重标准，避免在转运环节被罚款。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 驮背装卸站 / 铁路坡道 | Rail Ramp |
-| 公铁联运 | Piggyback / Intermodal Transport |
-| 铁路平车 | Flatcar |
-| 装卸点截关时间 | Ramp Cut-off |
+| 驮背运输 | Trailer on Flatcar (TOFC) |
+| 集装箱平车 | Container on Flatcar (COFC) |
+| 多式联运 | Intermodal Transport |
+| 铁路集装箱场 | Rail Container Yard |
 
 ## 相关术语
-- Intermodal Container（多式联运集装箱）
-- Piggyback（驮背运输）
+- Intermodal Transport（多式联运）
+- Container on Flatcar (COFC)（平车装载集装箱）
+- Trailer on Flatcar (TOFC)（平车装载半挂车）
 - Drayage（短途驳运）
-- Rail Terminal（铁路货运枢纽）
-- Flatcar（铁路平车）
 
 ## 常见误区
-- 误认为Rail Ramp只是普通的火车站货场：实际上它是专门配备了龙门吊（Gantry Crane）或正面吊（Reach Stacker）等重型设备、用于处理集装箱及半挂车转换的专业多式联运节点。
-- 混淆了港口码头（Container Yard）与铁路装卸站的操作规则，导致因忽略铁路特殊的截关时间和车架交还要求而产生额外费用。
+- 误认为 Rail Ramp 只是普通的火车站货场：实际上它是具备特殊起重设备和海关监管功能的专业多式联运枢纽。
+- 混淆 COFC 与 TOFC：COFC 专指吊装集装箱上车，而 TOFC（即传统的“驮背运输”）是将整个公路半挂车连同底盘车一起上铁路平车。
 
 ---
 

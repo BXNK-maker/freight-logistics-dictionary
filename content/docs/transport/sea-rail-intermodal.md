@@ -1,7 +1,7 @@
 ---
 title: "Sea-rail Intermodal"
 linkTitle: "海铁联运"
-date: 2026-10-26
+date: 2026-10-27
 type: docs
 subcategory: "多式联运"
 ---
@@ -10,34 +10,34 @@ subcategory: "多式联运"
 
 ## 定义
 
-海铁联运（英文全称：Sea-rail Intermodal Transportation）是指货物先通过海洋运输到达港口，再直接换装铁路运往内陆目的地，或逆向操作的全程物流运输方式。该模式将海运的高运量与铁路的长距离、准时化优势相结合，实现了水陆运输的无缝衔接。
+Sea-rail Intermodal（海铁联运）是指货物先通过海洋运输到达港口，再直接换装铁路运往内陆目的地，或逆向操作的全程物流运输模式。这种方式将船舶的大运量与铁路的长距离、准时化优势相结合，实现了海陆运输的无缝衔接。
 
 ## 详细说明
 
-- 使用场景：主要适用于内陆腹地深处、距出海口较远的外贸企业，特别是重工业产品、大宗散货以及对运输时效要求较高的集装箱货物。
-- 关键规则或数字：通常采用“一单制”或“一次委托”模式，即一份提单涵盖全程；在港口需在规定堆存期内完成海运箱与铁路箱的集港或疏港，通常免费堆存期较短，需紧密衔接船期与班列。
-- 实务注意事项：报关与查验环节需协调海关与铁路部门，确保数据互通；装箱时须符合铁路运输的安全标准与限重规定，避免因超重或偏载导致二次倒装。
+- 使用场景：主要适用于内陆腹地深远、进出口货量大且对运输时效或成本有特定要求的国际贸易。常见于中国内陆城市（如西安、成都）通过沿海港口（如宁波舟山港、青岛港）连接欧美等国际市场的供应链。
+- 关键规则或数字：在单证流转上通常采用“一单制”，即一次托运、一次计费、一箱到底；铁路与港口需进行EDI（电子数据交换）数据对接，以确保装卸船与班列时刻表紧密匹配。
+- 实务注意事项：必须严格核对铁路箱与海运箱的适用标准；关注内陆场站的免费堆存期（Demurrage & Detention）规则；提前了解铁路线路的限高限重及海关属地报关与转关监管要求。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 海铁联运提单 | Sea-rail Through Bill of Lading |
-| 铁路装车单 | Rail Consignment Note |
-| 港口铁路集疏港 | Port Rail Drayage / Rail Shunting |
-| 换装作业 | Transshipment / Intermodal Transfer |
+| 海铁联运 | Sea-rail Intermodal / Sea-rail Intermodal Transportation |
+| 一单制 | Single Transport Document / One-Stop Bill |
+| 拆箱/拼箱 | Stuffing / Unstuffing (Vanning / Devaning) |
+| 场站收据 | D/R (Dock Receipt) |
 
 ## 相关术语
 
-- `Through Bill of Lading（全程提单）`
-- `Intermodal Freight Transport（多式联运）`
-- `Container Yard（集装箱堆场）`
-- `Customs Transit（海关转关）`
+- Multi-modal Transport（多式联运）
+- Inland Container Depot, ICD（内陆无水港/内陆集装箱货运站）
+- Through Bill of Lading（全程提单）
+- Container Yard, CY（集装箱堆场）
 
 ## 常见误区
 
-- 误区一：认为海铁联运只是简单的海运和铁路运输拼凑，忽视了两者在交接时间、责任划分和单证流转上的严格协同要求。
-- 误区二：混淆“海铁联运”与“铁海联运”，虽然都是水陆结合，但两者的起运方向、责任主体和操作流程侧重点有所不同。
+- 误区一：认为海铁联运只是简单地把货柜从船上搬到火车上，忽略了铁路与港口之间复杂的箱管交接、设备交接单（EIR）流转及海关转关申报手续。
+- 误区二：混淆“海铁联运”与“公铁联运”，未注意到海铁联运全程多依托集装箱班列（Unit Train）进行干线运输，对班期衔接和箱源调度有更高要求。
 
 ---
 

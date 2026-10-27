@@ -2673,103 +2673,103 @@ Retainage,留存金,trade-terms,支付,published
 Escrow Payment,托管付款,trade-terms,支付,pending
 Progress Payment,进度款,trade-terms,支付,pending
 Final Acceptance,最终验收,trade-terms,支付,pending
-Defect Liability Period,缺陷责任期,trade-terms,质保,pending
-Export Agent Scheme,出口代理制,trade-terms,外贸制度,pending
-Import Agent Scheme,进口代理制,trade-terms,外贸制度,pending
-Foreign Trade Operator,对外贸易经营者备案,trade-terms,外贸制度,pending
-Pilot Free Trade Zone,自由贸易试验区,trade-terms,外贸制度,pending
-Cross-border Trade in Services,服务跨境贸易,trade-terms,外贸制度,pending
-Online Customs Declaration Agent,线上报关代理,trade-terms,外贸制度,pending
-Standard Gauge,标准轨距,transport,铁路运输,pending
-Broad Gauge,宽轨,transport,铁路运输,pending
-Gauge Transshipment,轨距换装,transport,铁路运输,pending
-Bogie Exchange,转向架更换,transport,铁路运输,pending
-Alashankou Port,阿拉山口口岸,transport,铁路口岸,pending
-Khorgos Port,霍尔果斯口岸,transport,铁路口岸,pending
-Erenhot Port,二连浩特口岸,transport,铁路口岸,pending
-Manzhouli Port,满洲里口岸,transport,铁路口岸,pending
-Suifenhe Port,绥芬河口岸,transport,铁路口岸,pending
-Pingxiang Port,凭祥口岸,transport,铁路口岸,pending
-Dostyk Station,多斯特克换装站,transport,铁路口岸,pending
-Altynkol Station,阿腾科里换装站,transport,铁路口岸,pending
-Malaszewicze Terminal,马拉舍维奇场站,transport,铁路枢纽,pending
-Brest Station,布列斯特换装站,transport,铁路枢纽,pending
-Middle Corridor,跨里海中间走廊,transport,国际走廊,pending
-Trans-Caspian Route,跨里海国际运输路线,transport,国际走廊,pending
-Trans-Siberian Railway,西伯利亚大铁路,transport,国际走廊,pending
-Eastern Land-Sea Corridor,西部陆海新通道,transport,国际走廊,pending
-Chongqing-Xinjiang-Europe Express,渝新欧班列,transport,中欧班列,pending
-Xi'an-Europe Express (Chang'an),长安号班列,transport,中欧班列,pending
-Yiwu-Europe Express,义新欧班列,transport,中欧班列,pending
-CIM Convention,国际铁路货物运输公约,transport,铁路规则,pending
-CIM/SMGS Consignment Note,国际铁路统一运单,transport,铁路单证,pending
-Rail Tariff,铁路运价,transport,铁路规则,pending
-Rail Container Center,铁路集装箱中心站,transport,铁路枢纽,pending
-Rail Ramp,驮背装卸站,transport,铁路运输,pending
-Pocket Wagon,袋式驮背车,transport,铁路运输,pending
-Modal Shift,运输方式转移,transport,多式联运,pending
-Combined Transport Directive,欧盟多式联运指令,transport,多式联运,pending
-Sea-rail Intermodal,海铁联运,transport,多式联运,pending
-Rail Ferry,火车轮渡,transport,铁路运输,pending
-e-CMR,电子公路运单,transport,公路运输,pending
-TIR Carnet,TIR 运输证,transport,公路运输,pending
-TIR Guarantee Chain,TIR 国际担保链,transport,公路运输,pending
-Driver Hours Rules,欧盟驾驶时间规则,transport,公路运输,pending
-Tachograph,数字行车记录仪,transport,公路运输,pending
-Bonded Air Trucking,航空卡班（空陆联运）,transport,多式联运,pending
-GSA (General Sales Agent),货运销售总代理,transport,空运代理,pending
-GSSA (General Sales and Service Agent),全球销售服务总代理,transport,空运代理,pending
-Ground Handling Agent,机场地面服务代理,transport,空运操作,pending
-Ramp Handling,机坪装卸操作,transport,空运操作,pending
-Cargo Terminal Operator,航空货站运营人,transport,空运操作,pending
-Cargo Build-up,集装板组装,transport,空运操作,pending
-Breakdown (Air Cargo),集装板拆卸,transport,空运操作,pending
-Cargo Acceptance,航空货物收运检查,transport,空运操作,pending
-DGR Acceptance,危险品收运审核,transport,空运操作,pending
-NOTOC,危险品机长通知单,transport,空运单证,pending
-Load Sheet,载重平衡表,transport,空运操作,pending
-Weight and Balance,飞机载重配平,transport,空运操作,pending
-FWB Message,FWB 主运单电子报文,transport,空运报文,pending
-FHL Message,FHL 分运单电子报文,transport,空运报文,pending
-Scale Weight,实际过磅重量,transport,空运操作,pending
-Air Cargo Transfer,空运转运,transport,空运操作,pending
-ULD Pallet Net,集装板网套,transport,空运集装器,pending
-PMC Pallet,PMC 标准集装板,transport,空运集装器,pending
-AKE Container,AKE 航空集装箱,transport,空运集装器,pending
-AMA Container,AMA 大型航空集装箱,transport,空运集装器,pending
-Envirotainer,Envirotainer 主动温控集装器,transport,空运集装器,pending
-Active Temperature Container,主动制冷航空集装器,transport,空运集装器,pending
-Cold Dolly,温控拖车,transport,空运集装器,pending
-ULD Repair,集装器维修,transport,空运集装器,pending
-ULD Storage Fee,集装器滞留费,transport,空运集装器,pending
-Air Cargo Terminal Handling Charge,航空货站操作费,transport,空运费用,pending
-Courier Terminal Handling,快件中心操作,transport,空运操作,pending
-Multi-axle Trailer,多轴线液压板车,transport,公路运输,pending
-Pilot Car,超限引导车,transport,公路运输,pending
-Road Permit (Overweight),公路超限运输许可,transport,公路运输,pending
-Bridge Weight Check,桥梁承重核验,transport,公路运输,pending
-Border Crossing Queue,口岸跨境排队,transport,公路运输,pending
-Container Road Haulage,集装箱公路拖运,transport,公路运输,pending
-Dedicated Fleet,专车运力,transport,公路运输,pending
-Shared Truckload,共享整车运输,transport,公路运输,pending
-Strait of Malacca,马六甲海峡,transport,海上要道,pending
-Strait of Hormuz,霍尔木兹海峡,transport,海上要道,pending
-Bab el-Mandeb Strait,曼德海峡,transport,海上要道,pending
-Bosphorus Strait,博斯普鲁斯海峡,transport,海上要道,pending
-Strait of Gibraltar,直布罗陀海峡,transport,海上要道,pending
-Danish Straits,丹麦海峡,transport,海上要道,pending
-Panama Canal,巴拿马运河,transport,海上要道,pending
-Kiel Canal,基尔运河,transport,海上要道,pending
-Cape Horn Route,合恩角航线,transport,海上要道,pending
-Northern Sea Route,北极东北航道,transport,海上要道,pending
-Arctic Shipping,极地航运,transport,海上要道,pending
-Red Sea Route,红海航线,transport,航线,pending
-Intra-Asia Route,亚洲区域内航线,transport,航线,pending
-Transatlantic Route,跨大西洋航线,transport,航线,pending
-Mediterranean Route,地中海航线,transport,航线,pending
-Middle East Route,中东航线,transport,航线,pending
-South America Route,南美航线,transport,航线,pending
-Africa Route,非洲航线,transport,航线,pending
+Defect Liability Period,缺陷责任期,trade-terms,质保,published
+Export Agent Scheme,出口代理制,trade-terms,外贸制度,published
+Import Agent Scheme,进口代理制,trade-terms,外贸制度,published
+Foreign Trade Operator,对外贸易经营者备案,trade-terms,外贸制度,published
+Pilot Free Trade Zone,自由贸易试验区,trade-terms,外贸制度,published
+Cross-border Trade in Services,服务跨境贸易,trade-terms,外贸制度,published
+Online Customs Declaration Agent,线上报关代理,trade-terms,外贸制度,published
+Standard Gauge,标准轨距,transport,铁路运输,published
+Broad Gauge,宽轨,transport,铁路运输,published
+Gauge Transshipment,轨距换装,transport,铁路运输,published
+Bogie Exchange,转向架更换,transport,铁路运输,published
+Alashankou Port,阿拉山口口岸,transport,铁路口岸,published
+Khorgos Port,霍尔果斯口岸,transport,铁路口岸,published
+Erenhot Port,二连浩特口岸,transport,铁路口岸,published
+Manzhouli Port,满洲里口岸,transport,铁路口岸,published
+Suifenhe Port,绥芬河口岸,transport,铁路口岸,published
+Pingxiang Port,凭祥口岸,transport,铁路口岸,published
+Dostyk Station,多斯特克换装站,transport,铁路口岸,published
+Altynkol Station,阿腾科里换装站,transport,铁路口岸,published
+Malaszewicze Terminal,马拉舍维奇场站,transport,铁路枢纽,published
+Brest Station,布列斯特换装站,transport,铁路枢纽,published
+Middle Corridor,跨里海中间走廊,transport,国际走廊,published
+Trans-Caspian Route,跨里海国际运输路线,transport,国际走廊,published
+Trans-Siberian Railway,西伯利亚大铁路,transport,国际走廊,published
+Eastern Land-Sea Corridor,西部陆海新通道,transport,国际走廊,published
+Chongqing-Xinjiang-Europe Express,渝新欧班列,transport,中欧班列,published
+Xi'an-Europe Express (Chang'an),长安号班列,transport,中欧班列,published
+Yiwu-Europe Express,义新欧班列,transport,中欧班列,published
+CIM Convention,国际铁路货物运输公约,transport,铁路规则,published
+CIM/SMGS Consignment Note,国际铁路统一运单,transport,铁路单证,published
+Rail Tariff,铁路运价,transport,铁路规则,published
+Rail Container Center,铁路集装箱中心站,transport,铁路枢纽,published
+Rail Ramp,驮背装卸站,transport,铁路运输,published
+Pocket Wagon,袋式驮背车,transport,铁路运输,published
+Modal Shift,运输方式转移,transport,多式联运,published
+Combined Transport Directive,欧盟多式联运指令,transport,多式联运,published
+Sea-rail Intermodal,海铁联运,transport,多式联运,published
+Rail Ferry,火车轮渡,transport,铁路运输,published
+e-CMR,电子公路运单,transport,公路运输,published
+TIR Carnet,TIR 运输证,transport,公路运输,published
+TIR Guarantee Chain,TIR 国际担保链,transport,公路运输,published
+Driver Hours Rules,欧盟驾驶时间规则,transport,公路运输,published
+Tachograph,数字行车记录仪,transport,公路运输,published
+Bonded Air Trucking,航空卡班（空陆联运）,transport,多式联运,published
+GSA (General Sales Agent),货运销售总代理,transport,空运代理,published
+GSSA (General Sales and Service Agent),全球销售服务总代理,transport,空运代理,published
+Ground Handling Agent,机场地面服务代理,transport,空运操作,published
+Ramp Handling,机坪装卸操作,transport,空运操作,published
+Cargo Terminal Operator,航空货站运营人,transport,空运操作,published
+Cargo Build-up,集装板组装,transport,空运操作,published
+Breakdown (Air Cargo),集装板拆卸,transport,空运操作,published
+Cargo Acceptance,航空货物收运检查,transport,空运操作,published
+DGR Acceptance,危险品收运审核,transport,空运操作,published
+NOTOC,危险品机长通知单,transport,空运单证,published
+Load Sheet,载重平衡表,transport,空运操作,published
+Weight and Balance,飞机载重配平,transport,空运操作,published
+FWB Message,FWB 主运单电子报文,transport,空运报文,published
+FHL Message,FHL 分运单电子报文,transport,空运报文,published
+Scale Weight,实际过磅重量,transport,空运操作,published
+Air Cargo Transfer,空运转运,transport,空运操作,published
+ULD Pallet Net,集装板网套,transport,空运集装器,published
+PMC Pallet,PMC 标准集装板,transport,空运集装器,published
+AKE Container,AKE 航空集装箱,transport,空运集装器,published
+AMA Container,AMA 大型航空集装箱,transport,空运集装器,published
+Envirotainer,Envirotainer 主动温控集装器,transport,空运集装器,published
+Active Temperature Container,主动制冷航空集装器,transport,空运集装器,published
+Cold Dolly,温控拖车,transport,空运集装器,published
+ULD Repair,集装器维修,transport,空运集装器,published
+ULD Storage Fee,集装器滞留费,transport,空运集装器,published
+Air Cargo Terminal Handling Charge,航空货站操作费,transport,空运费用,published
+Courier Terminal Handling,快件中心操作,transport,空运操作,published
+Multi-axle Trailer,多轴线液压板车,transport,公路运输,published
+Pilot Car,超限引导车,transport,公路运输,published
+Road Permit (Overweight),公路超限运输许可,transport,公路运输,published
+Bridge Weight Check,桥梁承重核验,transport,公路运输,published
+Border Crossing Queue,口岸跨境排队,transport,公路运输,published
+Container Road Haulage,集装箱公路拖运,transport,公路运输,published
+Dedicated Fleet,专车运力,transport,公路运输,published
+Shared Truckload,共享整车运输,transport,公路运输,published
+Strait of Malacca,马六甲海峡,transport,海上要道,published
+Strait of Hormuz,霍尔木兹海峡,transport,海上要道,published
+Bab el-Mandeb Strait,曼德海峡,transport,海上要道,published
+Bosphorus Strait,博斯普鲁斯海峡,transport,海上要道,published
+Strait of Gibraltar,直布罗陀海峡,transport,海上要道,published
+Danish Straits,丹麦海峡,transport,海上要道,published
+Panama Canal,巴拿马运河,transport,海上要道,published
+Kiel Canal,基尔运河,transport,海上要道,published
+Cape Horn Route,合恩角航线,transport,海上要道,published
+Northern Sea Route,北极东北航道,transport,海上要道,published
+Arctic Shipping,极地航运,transport,海上要道,published
+Red Sea Route,红海航线,transport,航线,published
+Intra-Asia Route,亚洲区域内航线,transport,航线,published
+Transatlantic Route,跨大西洋航线,transport,航线,published
+Mediterranean Route,地中海航线,transport,航线,published
+Middle East Route,中东航线,transport,航线,published
+South America Route,南美航线,transport,航线,published
+Africa Route,非洲航线,transport,航线,published
 Oceania Route,澳新航线,transport,航线,pending
 Coastal Feeder Service,沿海内贸支线,transport,航线,pending
 Yangtze River Service,长江内支线,transport,航线,pending
