@@ -2958,8 +2958,8 @@ Master Air Waybill (MAWB),航空主运单,transport,空运单证,published
 House Air Waybill (HAWB),航空分运单,transport,空运单证,published
 Neutral Air Waybill,中性航空运单,transport,空运单证,published
 AWB Number,运单号码,transport,空运单证,published
-AWB Prefix,运单前缀,transport,空运单证,pending
-AWB Check Digit,运单校验位,transport,空运单证,pending
+AWB Prefix,运单前缀,transport,空运单证,published
+AWB Check Digit,运单校验位,transport,空运单证,published
 Air Waybill Serial Number,运单序号,transport,空运单证,published
 Air Waybill Copy,运单副本,transport,空运单证,published
 Shipper's Letter of Instruction,托运委托书,transport,空运单证,published
@@ -3053,104 +3053,104 @@ Multilateral e-AWB Agreement,多边电子运单协议,transport,结算规则,pub
 Interline Agreement,联运协议,transport,结算规则,published
 Interline e-AWB,联运电子运单,transport,结算规则,published
 Airline Designator Code,航空公司二字码,transport,结算规则,published
-Airport Code,机场三字码,transport,结算规则,pending
-Flight Number,航班号,transport,结算规则,pending
-Charge Code,费用代码,transport,结算规则,pending
-Surcharge,附加费,transport,结算规则,pending
-Rate of Exchange,运费折算汇率,transport,结算规则,pending
-Currency Conversion,货币换算,transport,结算规则,pending
-Montreal Convention 1999,1999年蒙特利尔公约,transport,货运法规,pending
-SDR Liability Limit,特别提款权赔偿限额,transport,货运法规,pending
-Liability Limit,赔偿限额,transport,货运法规,pending
-Liability Notice,责任声明条款,transport,货运法规,pending
-Cargo Liability Insurance,货运责任保险,transport,货运法规,pending
-Cargo Insurance,货物运输保险,transport,货运保险,pending
-Shipper's Interest Insurance,托运人利益险,transport,货运保险,pending
-Insurance Rate,保险费率,transport,货运保险,pending
-TACT,IATA航空货运运价手册,transport,空运费率,pending
-TACT Rules,TACT规则手册,transport,空运费率,pending
-TACT Rates,TACT运价分册,transport,空运费率,pending
-IATA Area,IATA航区,transport,空运费率,pending
-Traffic Conference Area,IATA运协分区,transport,空运费率,pending
-Published Rate,公布运价,transport,空运费率,pending
-Flat Rate,一口价运价,transport,空运费率,pending
-General Rate Increase,综合运价上调,transport,空运费率,pending
-Rate Quotation,运价报价,transport,空运费率,pending
-Rate Construction,运价构成,transport,空运费率,pending
-Air Cargo Tariff,航空货运价目,transport,空运费率,pending
-General Cargo Rate,普通货物运价,transport,空运费率,pending
-Normal Rate,普通运价,transport,空运费率,pending
-Minimum Charge,最低运费,transport,空运费率,pending
-Quantity Rate,数量运价,transport,空运费率,pending
-45KG Rate,45公斤级运价,transport,空运费率,pending
-100KG Rate,100公斤级运价,transport,空运费率,pending
-300KG Rate,300公斤级运价,transport,空运费率,pending
-500KG Rate,500公斤级运价,transport,空运费率,pending
-Weight Break,重量分界点,transport,空运费率,pending
-Specific Commodity Rate,指定商品运价,transport,空运费率,pending
-Class Rate,等级货物运价,transport,空运费率,pending
-Class Rate Reduction,等级运价减价,transport,空运费率,pending
-Class Rate Surcharge,等级运价加价,transport,空运费率,pending
-Live Animal Rate,活体动物运价,transport,空运费率,pending
-Human Remains Rate,遗体运价,transport,空运费率,pending
-Valuable Cargo Rate,贵重货物运价,transport,空运费率,pending
-Newspaper Rate,报刊运价,transport,空运费率,pending
-ULD Rate,集装器运价,transport,空运费率,pending
-Pivot Weight,集装器基准重量,transport,空运费率,pending
-Over Pivot Rate,超基准重量运价,transport,空运费率,pending
-Security Surcharge,安全附加费,transport,空运费率,pending
-Weight Charge,重量运费,transport,空运费率,pending
-Air Waybill Fee,运单费,transport,空运费率,pending
-ULD Service Charge,集装器服务费,transport,空运费率,pending
-Dangerous Goods Fee,危险品处理费,transport,空运费率,pending
-Live Animal Fee,活体动物处理费,transport,空运费率,pending
-Clearance and Handling Fee,清关处理费,transport,空运费率,pending
-Packing Charge,包装费,transport,空运费率,pending
-Pickup Charge,上门取货费,transport,空运费率,pending
-Delivery Charge,末端派送费,transport,空运费率,pending
-Handling Charge,操作处理费,transport,空运费率,pending
-Customs Clearance Fee,清关代理费,transport,空运费率,pending
-Free Storage Time,免费仓储期,transport,空运费率,pending
-Minimum Weight,最低计费重量,transport,空运费率,pending
-Volumetric Ratio,体积换算比,transport,空运费率,pending
-Heavy Cargo,重货,transport,空运费率,pending
-Cargo Density,货物密度,transport,空运费率,pending
-Through Rate,联程直达运价,transport,空运费率,pending
-Proportional Rate,比例运价,transport,空运费率,pending
-Combination Rate,组合运价,transport,空运费率,pending
-Group Rate,集体运价,transport,空运费率,pending
-Domestic Rate,国内运价,transport,空运费率,pending
-International Rate,国际运价,transport,空运费率,pending
-Import Rate,进口运价,transport,空运费率,pending
-Export Rate,出口运价,transport,空运费率,pending
-Fuel Index,燃油指数,transport,空运费率,pending
-War Risk Zone,战险区域,transport,空运费率,pending
-Cargo Yield,货运收益率,transport,空运费率,pending
-Revenue Tonne Kilometre,收入吨公里,transport,空运费率,pending
-Available Tonne Kilometre,可用吨公里,transport,空运费率,pending
-Freight Tonne Kilometre,货运吨公里,transport,空运费率,pending
-Cargo Load Factor,货运载运率,transport,空运费率,pending
-Yield Management,收益管理,transport,空运费率,pending
-Commodity Classification,商品分类,transport,空运费率,pending
-Interline Rate,联运运价,transport,空运费率,pending
-Assembly Charge,集货组装费,transport,空运费率,pending
-Pallet Charge,打板费,transport,空运费率,pending
-Out-of-hour Service Fee,非工作时间服务费,transport,空运费率,pending
-Market Rate,市场运价,transport,空运费率,pending
-Benchmark Rate,基准运价,transport,空运费率,pending
-Cargo Terminal,货运站,transport,货站设施,pending
-Air Cargo Terminal Operator,机场货站经营人,transport,货站设施,pending
-Cargo Terminal Building,货站大楼,transport,货站设施,pending
-Export Warehouse,出口仓库,transport,货站设施,pending
-Import Warehouse,进口仓库,transport,货站设施,pending
-Transit Shed,中转仓,transport,货站设施,pending
-Dangerous Goods Store,危险品库,transport,货站设施,pending
-Valuable Cargo Vault,贵重物品库,transport,货站设施,pending
-Animal Holding Room,活体动物暂养室,transport,货站设施,pending
-Quarantine Area,检疫隔离区,transport,货站设施,pending
-Airside,空侧,transport,货站设施,pending
-Landside,陆侧,transport,货站设施,pending
-Cargo Apron,货机坪,transport,货站设施,pending
+Airport Code,机场三字码,transport,结算规则,published
+Flight Number,航班号,transport,结算规则,published
+Charge Code,费用代码,transport,结算规则,published
+Surcharge,附加费,transport,结算规则,published
+Rate of Exchange,运费折算汇率,transport,结算规则,published
+Currency Conversion,货币换算,transport,结算规则,published
+Montreal Convention 1999,1999年蒙特利尔公约,transport,货运法规,published
+SDR Liability Limit,特别提款权赔偿限额,transport,货运法规,published
+Liability Limit,赔偿限额,transport,货运法规,published
+Liability Notice,责任声明条款,transport,货运法规,published
+Cargo Liability Insurance,货运责任保险,transport,货运法规,published
+Cargo Insurance,货物运输保险,transport,货运保险,published
+Shipper's Interest Insurance,托运人利益险,transport,货运保险,published
+Insurance Rate,保险费率,transport,货运保险,published
+TACT,IATA航空货运运价手册,transport,空运费率,published
+TACT Rules,TACT规则手册,transport,空运费率,published
+TACT Rates,TACT运价分册,transport,空运费率,published
+IATA Area,IATA航区,transport,空运费率,published
+Traffic Conference Area,IATA运协分区,transport,空运费率,published
+Published Rate,公布运价,transport,空运费率,published
+Flat Rate,一口价运价,transport,空运费率,published
+General Rate Increase,综合运价上调,transport,空运费率,published
+Rate Quotation,运价报价,transport,空运费率,published
+Rate Construction,运价构成,transport,空运费率,published
+Air Cargo Tariff,航空货运价目,transport,空运费率,published
+General Cargo Rate,普通货物运价,transport,空运费率,published
+Normal Rate,普通运价,transport,空运费率,published
+Minimum Charge,最低运费,transport,空运费率,published
+Quantity Rate,数量运价,transport,空运费率,published
+45KG Rate,45公斤级运价,transport,空运费率,published
+100KG Rate,100公斤级运价,transport,空运费率,published
+300KG Rate,300公斤级运价,transport,空运费率,published
+500KG Rate,500公斤级运价,transport,空运费率,published
+Weight Break,重量分界点,transport,空运费率,published
+Specific Commodity Rate,指定商品运价,transport,空运费率,published
+Class Rate,等级货物运价,transport,空运费率,published
+Class Rate Reduction,等级运价减价,transport,空运费率,published
+Class Rate Surcharge,等级运价加价,transport,空运费率,published
+Live Animal Rate,活体动物运价,transport,空运费率,published
+Human Remains Rate,遗体运价,transport,空运费率,published
+Valuable Cargo Rate,贵重货物运价,transport,空运费率,published
+Newspaper Rate,报刊运价,transport,空运费率,published
+ULD Rate,集装器运价,transport,空运费率,published
+Pivot Weight,集装器基准重量,transport,空运费率,published
+Over Pivot Rate,超基准重量运价,transport,空运费率,published
+Security Surcharge,安全附加费,transport,空运费率,published
+Weight Charge,重量运费,transport,空运费率,published
+Air Waybill Fee,运单费,transport,空运费率,published
+ULD Service Charge,集装器服务费,transport,空运费率,published
+Dangerous Goods Fee,危险品处理费,transport,空运费率,published
+Live Animal Fee,活体动物处理费,transport,空运费率,published
+Clearance and Handling Fee,清关处理费,transport,空运费率,published
+Packing Charge,包装费,transport,空运费率,published
+Pickup Charge,上门取货费,transport,空运费率,published
+Delivery Charge,末端派送费,transport,空运费率,published
+Handling Charge,操作处理费,transport,空运费率,published
+Customs Clearance Fee,清关代理费,transport,空运费率,published
+Free Storage Time,免费仓储期,transport,空运费率,published
+Minimum Weight,最低计费重量,transport,空运费率,published
+Volumetric Ratio,体积换算比,transport,空运费率,published
+Heavy Cargo,重货,transport,空运费率,published
+Cargo Density,货物密度,transport,空运费率,published
+Through Rate,联程直达运价,transport,空运费率,published
+Proportional Rate,比例运价,transport,空运费率,published
+Combination Rate,组合运价,transport,空运费率,published
+Group Rate,集体运价,transport,空运费率,published
+Domestic Rate,国内运价,transport,空运费率,published
+International Rate,国际运价,transport,空运费率,published
+Import Rate,进口运价,transport,空运费率,published
+Export Rate,出口运价,transport,空运费率,published
+Fuel Index,燃油指数,transport,空运费率,published
+War Risk Zone,战险区域,transport,空运费率,published
+Cargo Yield,货运收益率,transport,空运费率,published
+Revenue Tonne Kilometre,收入吨公里,transport,空运费率,published
+Available Tonne Kilometre,可用吨公里,transport,空运费率,published
+Freight Tonne Kilometre,货运吨公里,transport,空运费率,published
+Cargo Load Factor,货运载运率,transport,空运费率,published
+Yield Management,收益管理,transport,空运费率,published
+Commodity Classification,商品分类,transport,空运费率,published
+Interline Rate,联运运价,transport,空运费率,published
+Assembly Charge,集货组装费,transport,空运费率,published
+Pallet Charge,打板费,transport,空运费率,published
+Out-of-hour Service Fee,非工作时间服务费,transport,空运费率,published
+Market Rate,市场运价,transport,空运费率,published
+Benchmark Rate,基准运价,transport,空运费率,published
+Cargo Terminal,货运站,transport,货站设施,published
+Air Cargo Terminal Operator,机场货站经营人,transport,货站设施,published
+Cargo Terminal Building,货站大楼,transport,货站设施,published
+Export Warehouse,出口仓库,transport,货站设施,published
+Import Warehouse,进口仓库,transport,货站设施,published
+Transit Shed,中转仓,transport,货站设施,published
+Dangerous Goods Store,危险品库,transport,货站设施,published
+Valuable Cargo Vault,贵重物品库,transport,货站设施,published
+Animal Holding Room,活体动物暂养室,transport,货站设施,published
+Quarantine Area,检疫隔离区,transport,货站设施,published
+Airside,空侧,transport,货站设施,published
+Landside,陆侧,transport,货站设施,published
+Cargo Apron,货机坪,transport,货站设施,published
 Apron,停机坪,transport,货站设施,pending
 Aircraft Stand,机位,transport,货站设施,pending
 Parking Stand,停机位,transport,货站设施,pending
