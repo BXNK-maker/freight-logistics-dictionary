@@ -3251,106 +3251,106 @@ Pallet Dolly,集装板拖车,transport,机坪设备,published
 Tow Tractor,拖车头,transport,机坪设备,published
 Aircraft Tractor,飞机牵引车,transport,机坪设备,published
 Towbar,牵引杆,transport,机坪设备,published
-Pushback Tractor,飞机推出车,transport,机坪设备,pending
-Follow-me Vehicle,引导车,transport,机坪设备,pending
-De-icing Truck,除冰车,transport,机坪设备,pending
-Ground Power Unit,地面电源车,transport,机坪设备,pending
-Air Start Unit,气源车,transport,机坪设备,pending
-Ramp Agent,机坪操作员,transport,机坪操作,pending
-Ramp Supervisor,机坪主管,transport,机坪操作,pending
-Cargo Loading,装机作业,transport,机坪操作,pending
-Loading Supervision,装卸监督,transport,机坪操作,pending
-Pushback,推出,transport,机坪操作,pending
-Towing,牵引作业,transport,机坪操作,pending
-Marshalling,飞机引导,transport,机坪操作,pending
-Aircraft Turnaround,航班过站,transport,机坪操作,pending
-Ground Time,地面停留时间,transport,机坪操作,pending
-Turnaround Time,过站时间,transport,机坪操作,pending
-Block Time,轮挡时间,transport,机坪操作,pending
-De-icing,除冰作业,transport,机坪操作,pending
-FOD,外来物碎片,transport,机坪操作,pending
-Ramp Safety,机坪安全,transport,机坪操作,pending
-Night Operation,夜间作业,transport,机坪操作,pending
-Shift Handover,交接班,transport,机坪操作,pending
-Stand Allocation,机位分配,transport,机坪操作,pending
-Turnaround Checklist,过站检查单,transport,机坪操作,pending
-Pre-flight Check,航前检查,transport,机坪操作,pending
-Post-flight Check,航后检查,transport,机坪操作,pending
-Load Verification,装载核对,transport,机坪操作,pending
-Flight Schedule,航班时刻表,transport,航班与时刻,pending
-Scheduled Service,定期航班,transport,航班与时刻,pending
-Belly Capacity,腹舱运力,transport,航班与时刻,pending
-Freighter Service,全货机航班,transport,航班与时刻,pending
-Extra Flight,加班航班,transport,航班与时刻,pending
-Frequency,班次密度,transport,航班与时刻,pending
-Aircraft Rotation,飞机轮换,transport,航班与时刻,pending
-Slot,起降时刻,transport,航班与时刻,pending
-Slot Coordination,时刻协调,transport,航班与时刻,pending
-Grandfather Rights,时刻历史权利,transport,航班与时刻,pending
-Night Flight,夜航,transport,航班与时刻,pending
-Curfew,机场宵禁,transport,航班与时刻,pending
-Noise Restriction,噪声限制,transport,航班与时刻,pending
-Summer Season,夏秋航季,transport,航班与时刻,pending
-Winter Season,冬春航季,transport,航班与时刻,pending
-ETD,预计起飞时间,transport,航班与时刻,pending
-ETA,预计到达时间,transport,航班与时刻,pending
-ATD,实际起飞时间,transport,航班与时刻,pending
-ATA,实际到达时间,transport,航班与时刻,pending
-STD,计划起飞时间,transport,航班与时刻,pending
-STA,计划到达时间,transport,航班与时刻,pending
-Schedule Delay,航班延误,transport,航班与时刻,pending
-Weather Delay,天气延误,transport,航班与时刻,pending
-Technical Delay,机械故障延误,transport,航班与时刻,pending
-Delay Code,延误代码,transport,航班与时刻,pending
-Cancellation,航班取消,transport,航班与时刻,pending
-Rerouting,改航,transport,航班与时刻,pending
-Diversion,备降,transport,航班与时刻,pending
-Alternate Airport,备降机场,transport,航班与时刻,pending
-On-time Performance,航班准点率,transport,航班与时刻,pending
-Sector,航段,transport,航班与时刻,pending
-Hub Airport,枢纽机场,transport,航班与时刻,pending
-Gateway Airport,门户口岸,transport,航班与时刻,pending
-Payload,商载,transport,航班与时刻,pending
-Range,航程,transport,航班与时刻,pending
-Codeshare Flight,代码共享航班,transport,航班与时刻,pending
-Interline Transfer,联运中转,transport,航班与时刻,pending
-Missed Connection,漏接中转,transport,航班与时刻,pending
-Minimum Connect Time,最短中转时间,transport,航班与时刻,pending
-Peak Season Capacity,旺季运力,transport,航班与时刻,pending
-Capacity Shortage,运力短缺,transport,航班与时刻,pending
-Water Damage,水湿,transport,不正常运输,pending
-Pilferage,偷盗短少,transport,不正常运输,pending
-OS&D Report,溢短残损报告,transport,不正常运输,pending
-Leaking Package,渗漏包装,transport,不正常运输,pending
-Lost Cargo,货物丢失,transport,不正常运输,pending
-Mis-routed Cargo,错运货物,transport,不正常运输,pending
-Mishandling,操作差错,transport,不正常运输,pending
-Reforwarding,改运,transport,不正常运输,pending
-Return to Shipper,退回托运人,transport,不正常运输,pending
-Held Cargo,扣留货物,transport,不正常运输,pending
-Claim Settlement,理赔处理,transport,不正常运输,pending
-Barcode Scanner,条码扫描枪,transport,信息与追踪,pending
-Terminal Operating System,货站操作系统,transport,信息与追踪,pending
-AOG Cargo,航材紧急件,transport,信息与追踪,pending
-Flight Delay Notice,延误通知,transport,信息与追踪,pending
-Cargo Status Update,货物状态更新,transport,信息与追踪,pending
-Handover Scan,交接扫描,transport,信息与追踪,pending
-Web Tracking,在线追踪,transport,信息与追踪,pending
-Cargo Pickup,货物提取,transport,提取配送,pending
-Warehouse Release,仓库放行,transport,提取配送,pending
-Delivery Route,派送路线,transport,提取配送,pending
-Bonded Transfer,保税转关,transport,提取配送,pending
-Cargo Consolidation Point,集货点,transport,提取配送,pending
-Interim Storage,临时存放,transport,提取配送,pending
-Pallet Return,托盘回收,transport,提取配送,pending
-Ramp Control,机坪控制中心,transport,机坪操作,pending
-Acceptance Area,收运区,transport,订舱收运,pending
-Customs Supervised Warehouse,海关监管仓,transport,货站设施,pending
-Pallet Truck,托盘车,transport,仓储作业,pending
-Cargo Cage,周转笼,transport,仓储作业,pending
-E-seal,电子关锁,transport,提取配送,pending
-Truck Dock Scheduling,卡车装卸预约,transport,货站设施,pending
-Automated Storage Retrieval System,自动存取系统,transport,仓储作业,pending
+Pushback Tractor,飞机推出车,transport,机坪设备,published
+Follow-me Vehicle,引导车,transport,机坪设备,published
+De-icing Truck,除冰车,transport,机坪设备,published
+Ground Power Unit,地面电源车,transport,机坪设备,published
+Air Start Unit,气源车,transport,机坪设备,published
+Ramp Agent,机坪操作员,transport,机坪操作,published
+Ramp Supervisor,机坪主管,transport,机坪操作,published
+Cargo Loading,装机作业,transport,机坪操作,published
+Loading Supervision,装卸监督,transport,机坪操作,published
+Pushback,推出,transport,机坪操作,published
+Towing,牵引作业,transport,机坪操作,published
+Marshalling,飞机引导,transport,机坪操作,published
+Aircraft Turnaround,航班过站,transport,机坪操作,published
+Ground Time,地面停留时间,transport,机坪操作,published
+Turnaround Time,过站时间,transport,机坪操作,published
+Block Time,轮挡时间,transport,机坪操作,published
+De-icing,除冰作业,transport,机坪操作,published
+FOD,外来物碎片,transport,机坪操作,published
+Ramp Safety,机坪安全,transport,机坪操作,published
+Night Operation,夜间作业,transport,机坪操作,published
+Shift Handover,交接班,transport,机坪操作,published
+Stand Allocation,机位分配,transport,机坪操作,published
+Turnaround Checklist,过站检查单,transport,机坪操作,published
+Pre-flight Check,航前检查,transport,机坪操作,published
+Post-flight Check,航后检查,transport,机坪操作,published
+Load Verification,装载核对,transport,机坪操作,published
+Flight Schedule,航班时刻表,transport,航班与时刻,published
+Scheduled Service,定期航班,transport,航班与时刻,published
+Belly Capacity,腹舱运力,transport,航班与时刻,published
+Freighter Service,全货机航班,transport,航班与时刻,published
+Extra Flight,加班航班,transport,航班与时刻,published
+Frequency,班次密度,transport,航班与时刻,published
+Aircraft Rotation,飞机轮换,transport,航班与时刻,published
+Slot,起降时刻,transport,航班与时刻,published
+Slot Coordination,时刻协调,transport,航班与时刻,published
+Grandfather Rights,时刻历史权利,transport,航班与时刻,published
+Night Flight,夜航,transport,航班与时刻,published
+Curfew,机场宵禁,transport,航班与时刻,published
+Noise Restriction,噪声限制,transport,航班与时刻,published
+Summer Season,夏秋航季,transport,航班与时刻,published
+Winter Season,冬春航季,transport,航班与时刻,published
+ETD,预计起飞时间,transport,航班与时刻,published
+ETA,预计到达时间,transport,航班与时刻,published
+ATD,实际起飞时间,transport,航班与时刻,published
+ATA,实际到达时间,transport,航班与时刻,published
+STD,计划起飞时间,transport,航班与时刻,published
+STA,计划到达时间,transport,航班与时刻,published
+Schedule Delay,航班延误,transport,航班与时刻,published
+Weather Delay,天气延误,transport,航班与时刻,published
+Technical Delay,机械故障延误,transport,航班与时刻,published
+Delay Code,延误代码,transport,航班与时刻,published
+Cancellation,航班取消,transport,航班与时刻,published
+Rerouting,改航,transport,航班与时刻,published
+Diversion,备降,transport,航班与时刻,published
+Alternate Airport,备降机场,transport,航班与时刻,published
+On-time Performance,航班准点率,transport,航班与时刻,published
+Sector,航段,transport,航班与时刻,published
+Hub Airport,枢纽机场,transport,航班与时刻,published
+Gateway Airport,门户口岸,transport,航班与时刻,published
+Payload,商载,transport,航班与时刻,published
+Range,航程,transport,航班与时刻,published
+Codeshare Flight,代码共享航班,transport,航班与时刻,published
+Interline Transfer,联运中转,transport,航班与时刻,published
+Missed Connection,漏接中转,transport,航班与时刻,published
+Minimum Connect Time,最短中转时间,transport,航班与时刻,published
+Peak Season Capacity,旺季运力,transport,航班与时刻,published
+Capacity Shortage,运力短缺,transport,航班与时刻,published
+Water Damage,水湿,transport,不正常运输,published
+Pilferage,偷盗短少,transport,不正常运输,published
+OS&D Report,溢短残损报告,transport,不正常运输,published
+Leaking Package,渗漏包装,transport,不正常运输,published
+Lost Cargo,货物丢失,transport,不正常运输,published
+Mis-routed Cargo,错运货物,transport,不正常运输,published
+Mishandling,操作差错,transport,不正常运输,published
+Reforwarding,改运,transport,不正常运输,published
+Return to Shipper,退回托运人,transport,不正常运输,published
+Held Cargo,扣留货物,transport,不正常运输,published
+Claim Settlement,理赔处理,transport,不正常运输,published
+Barcode Scanner,条码扫描枪,transport,信息与追踪,published
+Terminal Operating System,货站操作系统,transport,信息与追踪,published
+AOG Cargo,航材紧急件,transport,信息与追踪,published
+Flight Delay Notice,延误通知,transport,信息与追踪,published
+Cargo Status Update,货物状态更新,transport,信息与追踪,published
+Handover Scan,交接扫描,transport,信息与追踪,published
+Web Tracking,在线追踪,transport,信息与追踪,published
+Cargo Pickup,货物提取,transport,提取配送,published
+Warehouse Release,仓库放行,transport,提取配送,published
+Delivery Route,派送路线,transport,提取配送,published
+Bonded Transfer,保税转关,transport,提取配送,published
+Cargo Consolidation Point,集货点,transport,提取配送,published
+Interim Storage,临时存放,transport,提取配送,published
+Pallet Return,托盘回收,transport,提取配送,published
+Ramp Control,机坪控制中心,transport,机坪操作,published
+Acceptance Area,收运区,transport,订舱收运,published
+Customs Supervised Warehouse,海关监管仓,transport,货站设施,published
+Pallet Truck,托盘车,transport,仓储作业,published
+Cargo Cage,周转笼,transport,仓储作业,published
+E-seal,电子关锁,transport,提取配送,published
+Truck Dock Scheduling,卡车装卸预约,transport,货站设施,published
+Automated Storage Retrieval System,自动存取系统,transport,仓储作业,published
 Unit Load Device,集装器,transport,集装器类型,pending
 ULD Code,集装器代码,transport,集装器类型,pending
 Aircraft Container,航空集装箱,transport,集装器类型,pending
