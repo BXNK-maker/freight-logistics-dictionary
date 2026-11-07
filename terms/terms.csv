@@ -2953,106 +2953,106 @@ Energy Management (Warehouse),仓库能耗管理,warehousing,绿色仓储,publis
 Warehouse Carbon Footprint,仓库碳足迹,warehousing,绿色仓储,published
 Rainwater Recycling,雨水回收利用,warehousing,绿色仓储,published
 LED Lighting Retrofit,LED 照明改造,warehousing,绿色仓储,published
-Air Waybill (AWB),航空运单,transport,空运单证,pending
-Master Air Waybill (MAWB),航空主运单,transport,空运单证,pending
-House Air Waybill (HAWB),航空分运单,transport,空运单证,pending
-Neutral Air Waybill,中性航空运单,transport,空运单证,pending
-AWB Number,运单号码,transport,空运单证,pending
+Air Waybill (AWB),航空运单,transport,空运单证,published
+Master Air Waybill (MAWB),航空主运单,transport,空运单证,published
+House Air Waybill (HAWB),航空分运单,transport,空运单证,published
+Neutral Air Waybill,中性航空运单,transport,空运单证,published
+AWB Number,运单号码,transport,空运单证,published
 AWB Prefix,运单前缀,transport,空运单证,pending
 AWB Check Digit,运单校验位,transport,空运单证,pending
-Air Waybill Serial Number,运单序号,transport,空运单证,pending
-Air Waybill Copy,运单副本,transport,空运单证,pending
-Shipper's Letter of Instruction,托运委托书,transport,空运单证,pending
-Consignor,托运人,transport,空运单证,pending
-Cargo Sales Agent,货运销售代理,transport,空运单证,pending
-IATA Accredited Cargo Agent,IATA认可货运代理,transport,空运单证,pending
-General Sales Agent,货运总代理,transport,空运单证,pending
-Break Bulk Agent,拆单代理,transport,空运单证,pending
-Issuing Carrier,出票承运人,transport,空运单证,pending
-First Carrier,第一承运人,transport,空运单证,pending
-Successive Carrier,连续承运人,transport,空运单证,pending
-Contracting Carrier,缔约承运人,transport,空运单证,pending
-Actual Carrier,实际承运人,transport,空运单证,pending
-Non-negotiable Waybill,不可转让运单,transport,空运单证,pending
-IATA Resolution 600,IATA第600号决议,transport,空运单证,pending
-Conditions of Contract,运输合同条款,transport,空运单证,pending
-Shipper's Name and Address,托运人名称及地址,transport,空运单证,pending
-Consignee's Name and Address,收货人名称及地址,transport,空运单证,pending
-Agent Name and City,代理名称及城市,transport,空运单证,pending
-Accounting Information,结算信息栏,transport,空运单证,pending
-Handling Information,操作信息栏,transport,空运单证,pending
-Amount of Insurance,保险金额栏,transport,空运单证,pending
-Number of Pieces,件数,transport,空运单证,pending
-Rate Class,运价等级,transport,空运单证,pending
-Commodity Item Number,商品品目编号,transport,空运单证,pending
-Rate/Charge,运价栏,transport,空运单证,pending
-Nature and Quantity of Goods,货物品名及数量,transport,空运单证,pending
-Dimensions,货物尺寸,transport,空运单证,pending
-Shipper's Signature,托运人签章,transport,空运单证,pending
-Carrier's Signature,承运人签章,transport,空运单证,pending
-Place of Issue,签单地点,transport,空运单证,pending
-Date of Issue,签单日期,transport,空运单证,pending
-WT/VAL,运费及声明价值费,transport,空运单证,pending
-Total Prepaid,预付总额,transport,空运单证,pending
-Total Collect,到付总额,transport,空运单证,pending
-Charges Due Carrier,承运人应收费用,transport,空运单证,pending
-Charges Due Agent,代理人应收费用,transport,空运单证,pending
-Other Charges,其他费用,transport,空运单证,pending
-Declared Value for Carriage,运输声明价值,transport,空运单证,pending
-Declared Value for Customs,报关声明价值,transport,空运单证,pending
-Valuation Charge,声明价值附加费,transport,空运单证,pending
-Flight and Date,航班日期栏,transport,空运单证,pending
-Airport of Departure,始发机场,transport,空运单证,pending
-Airport of Destination,目的机场,transport,空运单证,pending
-Routing,航路安排,transport,空运单证,pending
-Via Point,经停点,transport,空运单证,pending
-Transit Airport,经停机场,transport,空运单证,pending
-Flight Manifest,航班舱单,transport,空运单证,pending
-Transfer Manifest,中转舱单,transport,空运单证,pending
-Freight Status Report,货运状态报告,transport,空运单证,pending
-Cargo Tracer,货物查询单,transport,空运单证,pending
-Cargo Tracing,货物追踪,transport,空运单证,pending
-Cargo Claim,货物索赔,transport,空运单证,pending
-Claim Notice,索赔通知,transport,空运单证,pending
-Loss and Damage Report,货损货差报告,transport,空运单证,pending
-Irregularity Report,不正常运输报告,transport,空运单证,pending
-Overcarried Cargo,过站未卸货物,transport,空运单证,pending
-Cargo Charges Correction Advice,运费更正单,transport,空运单证,pending
-Weight Note,磅码单,transport,空运单证,pending
-Dimension Sheet,丈量单,transport,空运单证,pending
-Freight Bill,运费账单,transport,空运单证,pending
-Free of Charge Shipment,免费货,transport,空运单证,pending
-Personal Effects,个人物品,transport,空运单证,pending
-Unaccompanied Baggage,非随身行李,transport,空运单证,pending
-Consolidation,集中托运,transport,空运单证,pending
-Consolidated Consignment,集中托运货物,transport,空运单证,pending
-Co-loading,转委托拼载,transport,空运单证,pending
-Back to Back AWB,背对背运单,transport,空运单证,pending
-Air Cargo,空运货物,transport,空运单证,pending
-Airport-to-Airport Service,机场到机场运输,transport,空运单证,pending
-Cargo-XML,货运XML报文标准,transport,电子货运,pending
-e-Freight,电子货运,transport,电子货运,pending
-FBL,货运订舱报文,transport,电子货运,pending
-FWB,主运单报文,transport,电子货运,pending
-FHL,分运单舱单报文,transport,电子货运,pending
-FFM,航班舱单报文,transport,电子货运,pending
-FSU,货运状态更新报文,transport,电子货运,pending
-FNA,未载运通知报文,transport,电子货运,pending
-FUM,集装器舱单报文,transport,电子货运,pending
-BKD,订舱状态代码,transport,电子货运,pending
-RCF,收货状态代码,transport,电子货运,pending
-MAN,舱单状态代码,transport,电子货运,pending
-DEP,离港状态代码,transport,电子货运,pending
-ARR,到港状态代码,transport,电子货运,pending
-NFD,未找到货物状态,transport,电子货运,pending
-OFLD,货物拉卸状态,transport,电子货运,pending
-TFD,转运状态代码,transport,电子货运,pending
-DEL,交付状态代码,transport,电子货运,pending
-CASS Invoice,CASS结算账单,transport,结算规则,pending
-Multilateral e-AWB Agreement,多边电子运单协议,transport,结算规则,pending
-Interline Agreement,联运协议,transport,结算规则,pending
-Interline e-AWB,联运电子运单,transport,结算规则,pending
-Airline Designator Code,航空公司二字码,transport,结算规则,pending
+Air Waybill Serial Number,运单序号,transport,空运单证,published
+Air Waybill Copy,运单副本,transport,空运单证,published
+Shipper's Letter of Instruction,托运委托书,transport,空运单证,published
+Consignor,托运人,transport,空运单证,published
+Cargo Sales Agent,货运销售代理,transport,空运单证,published
+IATA Accredited Cargo Agent,IATA认可货运代理,transport,空运单证,published
+General Sales Agent,货运总代理,transport,空运单证,published
+Break Bulk Agent,拆单代理,transport,空运单证,published
+Issuing Carrier,出票承运人,transport,空运单证,published
+First Carrier,第一承运人,transport,空运单证,published
+Successive Carrier,连续承运人,transport,空运单证,published
+Contracting Carrier,缔约承运人,transport,空运单证,published
+Actual Carrier,实际承运人,transport,空运单证,published
+Non-negotiable Waybill,不可转让运单,transport,空运单证,published
+IATA Resolution 600,IATA第600号决议,transport,空运单证,published
+Conditions of Contract,运输合同条款,transport,空运单证,published
+Shipper's Name and Address,托运人名称及地址,transport,空运单证,published
+Consignee's Name and Address,收货人名称及地址,transport,空运单证,published
+Agent Name and City,代理名称及城市,transport,空运单证,published
+Accounting Information,结算信息栏,transport,空运单证,published
+Handling Information,操作信息栏,transport,空运单证,published
+Amount of Insurance,保险金额栏,transport,空运单证,published
+Number of Pieces,件数,transport,空运单证,published
+Rate Class,运价等级,transport,空运单证,published
+Commodity Item Number,商品品目编号,transport,空运单证,published
+Rate/Charge,运价栏,transport,空运单证,published
+Nature and Quantity of Goods,货物品名及数量,transport,空运单证,published
+Dimensions,货物尺寸,transport,空运单证,published
+Shipper's Signature,托运人签章,transport,空运单证,published
+Carrier's Signature,承运人签章,transport,空运单证,published
+Place of Issue,签单地点,transport,空运单证,published
+Date of Issue,签单日期,transport,空运单证,published
+WT/VAL,运费及声明价值费,transport,空运单证,published
+Total Prepaid,预付总额,transport,空运单证,published
+Total Collect,到付总额,transport,空运单证,published
+Charges Due Carrier,承运人应收费用,transport,空运单证,published
+Charges Due Agent,代理人应收费用,transport,空运单证,published
+Other Charges,其他费用,transport,空运单证,published
+Declared Value for Carriage,运输声明价值,transport,空运单证,published
+Declared Value for Customs,报关声明价值,transport,空运单证,published
+Valuation Charge,声明价值附加费,transport,空运单证,published
+Flight and Date,航班日期栏,transport,空运单证,published
+Airport of Departure,始发机场,transport,空运单证,published
+Airport of Destination,目的机场,transport,空运单证,published
+Routing,航路安排,transport,空运单证,published
+Via Point,经停点,transport,空运单证,published
+Transit Airport,经停机场,transport,空运单证,published
+Flight Manifest,航班舱单,transport,空运单证,published
+Transfer Manifest,中转舱单,transport,空运单证,published
+Freight Status Report,货运状态报告,transport,空运单证,published
+Cargo Tracer,货物查询单,transport,空运单证,published
+Cargo Tracing,货物追踪,transport,空运单证,published
+Cargo Claim,货物索赔,transport,空运单证,published
+Claim Notice,索赔通知,transport,空运单证,published
+Loss and Damage Report,货损货差报告,transport,空运单证,published
+Irregularity Report,不正常运输报告,transport,空运单证,published
+Overcarried Cargo,过站未卸货物,transport,空运单证,published
+Cargo Charges Correction Advice,运费更正单,transport,空运单证,published
+Weight Note,磅码单,transport,空运单证,published
+Dimension Sheet,丈量单,transport,空运单证,published
+Freight Bill,运费账单,transport,空运单证,published
+Free of Charge Shipment,免费货,transport,空运单证,published
+Personal Effects,个人物品,transport,空运单证,published
+Unaccompanied Baggage,非随身行李,transport,空运单证,published
+Consolidation,集中托运,transport,空运单证,published
+Consolidated Consignment,集中托运货物,transport,空运单证,published
+Co-loading,转委托拼载,transport,空运单证,published
+Back to Back AWB,背对背运单,transport,空运单证,published
+Air Cargo,空运货物,transport,空运单证,published
+Airport-to-Airport Service,机场到机场运输,transport,空运单证,published
+Cargo-XML,货运XML报文标准,transport,电子货运,published
+e-Freight,电子货运,transport,电子货运,published
+FBL,货运订舱报文,transport,电子货运,published
+FWB,主运单报文,transport,电子货运,published
+FHL,分运单舱单报文,transport,电子货运,published
+FFM,航班舱单报文,transport,电子货运,published
+FSU,货运状态更新报文,transport,电子货运,published
+FNA,未载运通知报文,transport,电子货运,published
+FUM,集装器舱单报文,transport,电子货运,published
+BKD,订舱状态代码,transport,电子货运,published
+RCF,收货状态代码,transport,电子货运,published
+MAN,舱单状态代码,transport,电子货运,published
+DEP,离港状态代码,transport,电子货运,published
+ARR,到港状态代码,transport,电子货运,published
+NFD,未找到货物状态,transport,电子货运,published
+OFLD,货物拉卸状态,transport,电子货运,published
+TFD,转运状态代码,transport,电子货运,published
+DEL,交付状态代码,transport,电子货运,published
+CASS Invoice,CASS结算账单,transport,结算规则,published
+Multilateral e-AWB Agreement,多边电子运单协议,transport,结算规则,published
+Interline Agreement,联运协议,transport,结算规则,published
+Interline e-AWB,联运电子运单,transport,结算规则,published
+Airline Designator Code,航空公司二字码,transport,结算规则,published
 Airport Code,机场三字码,transport,结算规则,pending
 Flight Number,航班号,transport,结算规则,pending
 Charge Code,费用代码,transport,结算规则,pending
