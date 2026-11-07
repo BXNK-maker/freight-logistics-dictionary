@@ -3151,106 +3151,106 @@ Quarantine Area,检疫隔离区,transport,货站设施,published
 Airside,空侧,transport,货站设施,published
 Landside,陆侧,transport,货站设施,published
 Cargo Apron,货机坪,transport,货站设施,published
-Apron,停机坪,transport,货站设施,pending
-Aircraft Stand,机位,transport,货站设施,pending
-Parking Stand,停机位,transport,货站设施,pending
-Remote Stand,远机位,transport,货站设施,pending
-Loading Dock,装卸口,transport,货站设施,pending
-Truck Dock,卡车装卸位,transport,货站设施,pending
-Stacking,堆码作业,transport,货站设施,pending
-Weighing Station,称重台,transport,货站设施,pending
-Dimensioning Station,体积测量台,transport,货站设施,pending
-Weighbridge,地磅,transport,货站设施,pending
-Cargo Handover Area,货物交接区,transport,货站设施,pending
-Surveillance System,监控系统,transport,货站设施,pending
-Cargo Booking,货运订舱,transport,订舱收运,pending
-Space Confirmation,舱位确认,transport,订舱收运,pending
-Capacity Allocation,舱位分配,transport,订舱收运,pending
-Waitlist,候补订舱,transport,订舱收运,pending
-Cargo Cut-off Time,货物截载时间,transport,订舱收运,pending
-Document Cut-off Time,文件截单时间,transport,订舱收运,pending
-Rebooking,改订舱,transport,订舱收运,pending
-Space Request,舱位申请,transport,订舱收运,pending
-Acceptance Checklist,收运检查单,transport,订舱收运,pending
-Cargo Check-in,货物交运,transport,订舱收运,pending
-Shipper Drop-off,托运人自送,transport,订舱收运,pending
-Pickup Request,揽收申请,transport,订舱收运,pending
-Cargo Handover,货物交接,transport,订舱收运,pending
-Acceptance Stamp,收运章,transport,订舱收运,pending
-Visual Inspection,外观查验,transport,订舱收运,pending
-Marking,货物标记,transport,订舱收运,pending
-Cargo Label,货物标签,transport,订舱收运,pending
-Weighing,称重作业,transport,订舱收运,pending
-Weight Verification,重量复核,transport,订舱收运,pending
-Dimension Verification,尺寸复核,transport,订舱收运,pending
-Automated Dimensioner,自动体积测量设备,transport,订舱收运,pending
-Rush Shipment,加急货物,transport,订舱收运,pending
-Time-critical Cargo,时效性货物,transport,订舱收运,pending
-Priority Handling,优先处理,transport,订舱收运,pending
-Special Handling,特殊处理,transport,订舱收运,pending
-Standby Cargo,候补货物,transport,订舱收运,pending
-Rolled Shipment,甩货,transport,订舱收运,pending
-On-carriage,二程运输,transport,订舱收运,pending
-Transfer Cargo,中转货物,transport,订舱收运,pending
-Transshipment Cargo,转运货物,transport,订舱收运,pending
-Transit Cargo,过境货物,transport,订舱收运,pending
-Export Cargo,出口货物,transport,订舱收运,pending
-Import Cargo,进口货物,transport,订舱收运,pending
-Domestic Cargo,国内货物,transport,订舱收运,pending
-Through Cargo,联程货物,transport,订舱收运,pending
-Build-up,组板,transport,组板作业,pending
-Breakdown,拆板,transport,组板作业,pending
-Palletizing,打板,transport,组板作业,pending
-Assembly Service,集货组装服务,transport,组板作业,pending
-Deconsolidation,拆分集拼货,transport,组板作业,pending
-Pre-assembly,预组板,transport,组板作业,pending
-Tie-down,系留固定,transport,组板作业,pending
-Shoring,垫板加固,transport,组板作业,pending
-Netting,挂网作业,transport,组板作业,pending
-Stretch Wrapping,缠绕膜包装,transport,组板作业,pending
-Repacking,重新包装,transport,组板作业,pending
-Sorting,分拣,transport,组板作业,pending
-Sortation System,自动分拣系统,transport,组板作业,pending
-Build-up Area,组板区,transport,组板作业,pending
-Breakdown Area,拆板区,transport,组板作业,pending
-Heavy Piece Loading,重件装载,transport,组板作业,pending
-Single Piece Cargo,单件货物,transport,组板作业,pending
-Stack Height Limit,堆码限高,transport,组板作业,pending
-Manual Handling,人工搬运,transport,组板作业,pending
-Cargo Inspection,货物查验,transport,组板作业,pending
-Inventory Count,库存盘点,transport,仓储作业,pending
-Discrepancy Report,差异报告,transport,仓储作业,pending
-Cargo Dwell Time,货物滞留时间,transport,仓储作业,pending
-Stackable Cargo,可堆码货物,transport,仓储作业,pending
-Non-stackable Cargo,不可堆压货物,transport,仓储作业,pending
-Safety Inspection,安全巡检,transport,仓储作业,pending
-Fire Prevention,消防安全,transport,仓储作业,pending
-Smoke Detector,烟感探测器,transport,仓储作业,pending
-Pallet Stacker,堆高车,transport,仓储作业,pending
-Reach Truck,前移式叉车,transport,仓储作业,pending
-Hand Truck,手推车,transport,仓储作业,pending
-Battery Pallet Truck,电动搬运车,transport,仓储作业,pending
-Strapping Machine,捆扎机,transport,仓储作业,pending
-Stretch Pallet Wrapper,缠绕包装机,transport,仓储作业,pending
-Cargo Lift,货梯,transport,仓储作业,pending
-Electronic Scale,电子磅秤,transport,仓储作业,pending
-Label Printer,标签打印机,transport,仓储作业,pending
-Handheld Terminal,手持终端,transport,仓储作业,pending
-Handling Manual,操作手册,transport,仓储作业,pending
-Ground Support Equipment,地面保障设备,transport,机坪设备,pending
-Cargo Loader,装载平台车,transport,机坪设备,pending
-High Loader,高位装载车,transport,机坪设备,pending
-Main Deck Loader,主货舱装载机,transport,机坪设备,pending
-Lower Deck Loader,下货舱装载机,transport,机坪设备,pending
-Upper Deck Loader,上舱装载机,transport,机坪设备,pending
-Conveyor Belt Loader,传送带装载机,transport,机坪设备,pending
-Roller Bed,滚床车,transport,机坪设备,pending
-Cargo Transporter,货物转运车,transport,机坪设备,pending
-Scissor Lift,升降平台车,transport,机坪设备,pending
-Pallet Dolly,集装板拖车,transport,机坪设备,pending
-Tow Tractor,拖车头,transport,机坪设备,pending
-Aircraft Tractor,飞机牵引车,transport,机坪设备,pending
-Towbar,牵引杆,transport,机坪设备,pending
+Apron,停机坪,transport,货站设施,published
+Aircraft Stand,机位,transport,货站设施,published
+Parking Stand,停机位,transport,货站设施,published
+Remote Stand,远机位,transport,货站设施,published
+Loading Dock,装卸口,transport,货站设施,published
+Truck Dock,卡车装卸位,transport,货站设施,published
+Stacking,堆码作业,transport,货站设施,published
+Weighing Station,称重台,transport,货站设施,published
+Dimensioning Station,体积测量台,transport,货站设施,published
+Weighbridge,地磅,transport,货站设施,published
+Cargo Handover Area,货物交接区,transport,货站设施,published
+Surveillance System,监控系统,transport,货站设施,published
+Cargo Booking,货运订舱,transport,订舱收运,published
+Space Confirmation,舱位确认,transport,订舱收运,published
+Capacity Allocation,舱位分配,transport,订舱收运,published
+Waitlist,候补订舱,transport,订舱收运,published
+Cargo Cut-off Time,货物截载时间,transport,订舱收运,published
+Document Cut-off Time,文件截单时间,transport,订舱收运,published
+Rebooking,改订舱,transport,订舱收运,published
+Space Request,舱位申请,transport,订舱收运,published
+Acceptance Checklist,收运检查单,transport,订舱收运,published
+Cargo Check-in,货物交运,transport,订舱收运,published
+Shipper Drop-off,托运人自送,transport,订舱收运,published
+Pickup Request,揽收申请,transport,订舱收运,published
+Cargo Handover,货物交接,transport,订舱收运,published
+Acceptance Stamp,收运章,transport,订舱收运,published
+Visual Inspection,外观查验,transport,订舱收运,published
+Marking,货物标记,transport,订舱收运,published
+Cargo Label,货物标签,transport,订舱收运,published
+Weighing,称重作业,transport,订舱收运,published
+Weight Verification,重量复核,transport,订舱收运,published
+Dimension Verification,尺寸复核,transport,订舱收运,published
+Automated Dimensioner,自动体积测量设备,transport,订舱收运,published
+Rush Shipment,加急货物,transport,订舱收运,published
+Time-critical Cargo,时效性货物,transport,订舱收运,published
+Priority Handling,优先处理,transport,订舱收运,published
+Special Handling,特殊处理,transport,订舱收运,published
+Standby Cargo,候补货物,transport,订舱收运,published
+Rolled Shipment,甩货,transport,订舱收运,published
+On-carriage,二程运输,transport,订舱收运,published
+Transfer Cargo,中转货物,transport,订舱收运,published
+Transshipment Cargo,转运货物,transport,订舱收运,published
+Transit Cargo,过境货物,transport,订舱收运,published
+Export Cargo,出口货物,transport,订舱收运,published
+Import Cargo,进口货物,transport,订舱收运,published
+Domestic Cargo,国内货物,transport,订舱收运,published
+Through Cargo,联程货物,transport,订舱收运,published
+Build-up,组板,transport,组板作业,published
+Breakdown,拆板,transport,组板作业,published
+Palletizing,打板,transport,组板作业,published
+Assembly Service,集货组装服务,transport,组板作业,published
+Deconsolidation,拆分集拼货,transport,组板作业,published
+Pre-assembly,预组板,transport,组板作业,published
+Tie-down,系留固定,transport,组板作业,published
+Shoring,垫板加固,transport,组板作业,published
+Netting,挂网作业,transport,组板作业,published
+Stretch Wrapping,缠绕膜包装,transport,组板作业,published
+Repacking,重新包装,transport,组板作业,published
+Sorting,分拣,transport,组板作业,published
+Sortation System,自动分拣系统,transport,组板作业,published
+Build-up Area,组板区,transport,组板作业,published
+Breakdown Area,拆板区,transport,组板作业,published
+Heavy Piece Loading,重件装载,transport,组板作业,published
+Single Piece Cargo,单件货物,transport,组板作业,published
+Stack Height Limit,堆码限高,transport,组板作业,published
+Manual Handling,人工搬运,transport,组板作业,published
+Cargo Inspection,货物查验,transport,组板作业,published
+Inventory Count,库存盘点,transport,仓储作业,published
+Discrepancy Report,差异报告,transport,仓储作业,published
+Cargo Dwell Time,货物滞留时间,transport,仓储作业,published
+Stackable Cargo,可堆码货物,transport,仓储作业,published
+Non-stackable Cargo,不可堆压货物,transport,仓储作业,published
+Safety Inspection,安全巡检,transport,仓储作业,published
+Fire Prevention,消防安全,transport,仓储作业,published
+Smoke Detector,烟感探测器,transport,仓储作业,published
+Pallet Stacker,堆高车,transport,仓储作业,published
+Reach Truck,前移式叉车,transport,仓储作业,published
+Hand Truck,手推车,transport,仓储作业,published
+Battery Pallet Truck,电动搬运车,transport,仓储作业,published
+Strapping Machine,捆扎机,transport,仓储作业,published
+Stretch Pallet Wrapper,缠绕包装机,transport,仓储作业,published
+Cargo Lift,货梯,transport,仓储作业,published
+Electronic Scale,电子磅秤,transport,仓储作业,published
+Label Printer,标签打印机,transport,仓储作业,published
+Handheld Terminal,手持终端,transport,仓储作业,published
+Handling Manual,操作手册,transport,仓储作业,published
+Ground Support Equipment,地面保障设备,transport,机坪设备,published
+Cargo Loader,装载平台车,transport,机坪设备,published
+High Loader,高位装载车,transport,机坪设备,published
+Main Deck Loader,主货舱装载机,transport,机坪设备,published
+Lower Deck Loader,下货舱装载机,transport,机坪设备,published
+Upper Deck Loader,上舱装载机,transport,机坪设备,published
+Conveyor Belt Loader,传送带装载机,transport,机坪设备,published
+Roller Bed,滚床车,transport,机坪设备,published
+Cargo Transporter,货物转运车,transport,机坪设备,published
+Scissor Lift,升降平台车,transport,机坪设备,published
+Pallet Dolly,集装板拖车,transport,机坪设备,published
+Tow Tractor,拖车头,transport,机坪设备,published
+Aircraft Tractor,飞机牵引车,transport,机坪设备,published
+Towbar,牵引杆,transport,机坪设备,published
 Pushback Tractor,飞机推出车,transport,机坪设备,pending
 Follow-me Vehicle,引导车,transport,机坪设备,pending
 De-icing Truck,除冰车,transport,机坪设备,pending
