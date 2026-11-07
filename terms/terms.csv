@@ -3351,106 +3351,106 @@ Cargo Cage,周转笼,transport,仓储作业,published
 E-seal,电子关锁,transport,提取配送,published
 Truck Dock Scheduling,卡车装卸预约,transport,货站设施,published
 Automated Storage Retrieval System,自动存取系统,transport,仓储作业,published
-Unit Load Device,集装器,transport,集装器类型,pending
-ULD Code,集装器代码,transport,集装器类型,pending
-Aircraft Container,航空集装箱,transport,集装器类型,pending
-Aircraft Pallet,航空集装板,transport,集装器类型,pending
-Aircraft Pallet Net,集装板网,transport,集装器类型,pending
-Standard Pallet,标准集装板,transport,集装器类型,pending
-Rigid Container,硬质集装箱,transport,集装器类型,pending
-Full Height Container,全高集装箱,transport,集装器类型,pending
-Lower Deck Container,下舱集装箱,transport,集装器类型,pending
-Main Deck Container,主货舱集装箱,transport,集装器类型,pending
-Upper Deck Container,上舱集装箱,transport,集装器类型,pending
-AKE,LD3型集装箱,transport,集装器类型,pending
-AKA,LD1型集装箱,transport,集装器类型,pending
-DPE,LD2型集装箱,transport,集装器类型,pending
-PMC (P6P),96英寸标准集装板,transport,集装器类型,pending
-PAG (P1P),88英寸集装板,transport,集装器类型,pending
-AMA,主货舱集装板,transport,集装器类型,pending
-AMJ,主货舱集装箱代码,transport,集装器类型,pending
-PAJ,主货舱20英尺集装板,transport,集装器类型,pending
-Lower Deck Pallet,下舱集装板,transport,集装器类型,pending
-Temperature-controlled ULD,温控集装器,transport,集装器类型,pending
-Horse Stall,马匹装载栏,transport,集装器类型,pending
-Mail Container,邮件集装箱,transport,集装器类型,pending
-Contour,外形轮廓,transport,集装器类型,pending
-Maximum Contour,最大轮廓线,transport,集装器类型,pending
-Contour Check,轮廓检查,transport,集装器类型,pending
-Contour Diagram,轮廓图,transport,集装器类型,pending
-Pallet Size,集装板尺寸,transport,集装器类型,pending
-Pallet Height,集装板高度,transport,集装器类型,pending
-Container Volume,集装箱容积,transport,集装器类型,pending
-Certified ULD,适航认证集装器,transport,集装器类型,pending
-Restraint Net,约束网,transport,集装器类型,pending
-Side Net,侧网,transport,集装器类型,pending
-Tie-down Strap,系留带,transport,集装器类型,pending
-Tie-down Ring,系留环,transport,集装器类型,pending
-Spreader Board,分载垫板,transport,集装器类型,pending
-Edge Rail,集装板边轨,transport,集装器类型,pending
-Rain Cover,防雨罩布,transport,集装器类型,pending
-Webbing,织带,transport,集装器类型,pending
-Pallet Stop,集装板挡块,transport,集装器类型,pending
-Floor Track,地板轨道,transport,集装器类型,pending
-Bulk Loading,散装装载,transport,集装器类型,pending
-Loose Load,散件装载,transport,集装器类型,pending
-Air Bag,充气袋,transport,集装器类型,pending
-Bracing,支撑加固,transport,集装器类型,pending
-Wooden Pallet,木托盘,transport,集装器类型,pending
-Plastic Pallet,塑料托盘,transport,集装器类型,pending
-Crates,木箱,transport,集装器类型,pending
-Drums,桶装容器,transport,集装器类型,pending
-ULD Identification,集装器编号,transport,集装器管理,pending
-ULD Serial Number,集装器序号,transport,集装器管理,pending
-ULD Owner Code,集装器属主代码,transport,集装器管理,pending
-ULD Check Digit,集装器校验位,transport,集装器管理,pending
-ULD Tag,集装器挂牌,transport,集装器管理,pending
-ULD Control,集装器管控,transport,集装器管理,pending
-ULD Pooling,集装器共享租赁,transport,集装器管理,pending
-ULD Leasing,集装器租赁,transport,集装器管理,pending
-Long-term Lease,长期租赁,transport,集装器管理,pending
-Short-term Lease,短期租赁,transport,集装器管理,pending
-ULD Damage Report,集装器破损报告,transport,集装器管理,pending
-ULD Demurrage,集装器滞期费,transport,集装器管理,pending
-ULD Tare Weight,集装器皮重,transport,集装器管理,pending
-ULD Weight Limit,集装器限重,transport,集装器管理,pending
-Maximum Gross Weight,集装器最大总重,transport,集装器管理,pending
-Empty ULD Return,空集装器返还,transport,集装器管理,pending
-ULD Handover,集装器交接,transport,集装器管理,pending
-ULD Stock,集装器库存,transport,集装器管理,pending
-Interline ULD,联运集装器,transport,集装器管理,pending
-Container Disinfection,集装箱消毒,transport,集装器管理,pending
-Serviceability Label,可用状态标签,transport,集装器管理,pending
-Unserviceable Tag,不可用标签,transport,集装器管理,pending
-Container Type Code,集装箱类型代码,transport,集装器管理,pending
-Pallet Type Code,集装板类型代码,transport,集装器管理,pending
-Container Frame,集装箱框架,transport,集装器管理,pending
-Empty Container,空箱,transport,集装器管理,pending
-Empty Pallet,空板,transport,集装器管理,pending
-Converted Freighter,客改货飞机,transport,机舱与机型,pending
-Passenger-to-Freighter Conversion,客改货改装,transport,机舱与机型,pending
-Combi Aircraft,客货混装机,transport,机舱与机型,pending
-Quick Change Aircraft,快速转换机型,transport,机舱与机型,pending
-Boeing Converted Freighter,波音改装货机,transport,机舱与机型,pending
-Wide-body Aircraft,宽体机,transport,机舱与机型,pending
-Narrow-body Aircraft,窄体机,transport,机舱与机型,pending
-Wide-body Freighter,宽体货机,transport,机舱与机型,pending
-Narrow-body Freighter,窄体货机,transport,机舱与机型,pending
-Regional Freighter,支线货机,transport,机舱与机型,pending
-Turboprop Freighter,涡桨货机,transport,机舱与机型,pending
-Aircraft Type,机型,transport,机舱与机型,pending
-Aircraft Registration,飞机注册号,transport,机舱与机型,pending
-Cargo Airline,货运航空公司,transport,机舱与机型,pending
-All-cargo Airline,全货运航空公司,transport,机舱与机型,pending
-Combination Carrier,客货兼营运力,transport,机舱与机型,pending
-Boeing 747-8F,波音747-8全货机,transport,机舱与机型,pending
-Boeing 747-400F,波音747-400全货机,transport,机舱与机型,pending
-Boeing 777F,波音777全货机,transport,机舱与机型,pending
-Boeing 767-300F,波音767-300全货机,transport,机舱与机型,pending
-Boeing 757-200F,波音757-200全货机,transport,机舱与机型,pending
-Boeing 737-800BCF,波音737-800改装货机,transport,机舱与机型,pending
-Boeing 737-800SF,波音737-800特殊货机,transport,机舱与机型,pending
-Boeing 747-400BDSF,波音747-400特种改装货机,transport,机舱与机型,pending
+Unit Load Device,集装器,transport,集装器类型,published
+ULD Code,集装器代码,transport,集装器类型,published
+Aircraft Container,航空集装箱,transport,集装器类型,published
+Aircraft Pallet,航空集装板,transport,集装器类型,published
+Aircraft Pallet Net,集装板网,transport,集装器类型,published
+Standard Pallet,标准集装板,transport,集装器类型,published
+Rigid Container,硬质集装箱,transport,集装器类型,published
+Full Height Container,全高集装箱,transport,集装器类型,published
+Lower Deck Container,下舱集装箱,transport,集装器类型,published
+Main Deck Container,主货舱集装箱,transport,集装器类型,published
+Upper Deck Container,上舱集装箱,transport,集装器类型,published
+AKE,LD3型集装箱,transport,集装器类型,published
+AKA,LD1型集装箱,transport,集装器类型,published
+DPE,LD2型集装箱,transport,集装器类型,published
+PMC (P6P),96英寸标准集装板,transport,集装器类型,published
+PAG (P1P),88英寸集装板,transport,集装器类型,published
+AMA,主货舱集装板,transport,集装器类型,published
+AMJ,主货舱集装箱代码,transport,集装器类型,published
+PAJ,主货舱20英尺集装板,transport,集装器类型,published
+Lower Deck Pallet,下舱集装板,transport,集装器类型,published
+Temperature-controlled ULD,温控集装器,transport,集装器类型,published
+Horse Stall,马匹装载栏,transport,集装器类型,published
+Mail Container,邮件集装箱,transport,集装器类型,published
+Contour,外形轮廓,transport,集装器类型,published
+Maximum Contour,最大轮廓线,transport,集装器类型,published
+Contour Check,轮廓检查,transport,集装器类型,published
+Contour Diagram,轮廓图,transport,集装器类型,published
+Pallet Size,集装板尺寸,transport,集装器类型,published
+Pallet Height,集装板高度,transport,集装器类型,published
+Container Volume,集装箱容积,transport,集装器类型,published
+Certified ULD,适航认证集装器,transport,集装器类型,published
+Restraint Net,约束网,transport,集装器类型,published
+Side Net,侧网,transport,集装器类型,published
+Tie-down Strap,系留带,transport,集装器类型,published
+Tie-down Ring,系留环,transport,集装器类型,published
+Spreader Board,分载垫板,transport,集装器类型,published
+Edge Rail,集装板边轨,transport,集装器类型,published
+Rain Cover,防雨罩布,transport,集装器类型,published
+Webbing,织带,transport,集装器类型,published
+Pallet Stop,集装板挡块,transport,集装器类型,published
+Floor Track,地板轨道,transport,集装器类型,published
+Bulk Loading,散装装载,transport,集装器类型,published
+Loose Load,散件装载,transport,集装器类型,published
+Air Bag,充气袋,transport,集装器类型,published
+Bracing,支撑加固,transport,集装器类型,published
+Wooden Pallet,木托盘,transport,集装器类型,published
+Plastic Pallet,塑料托盘,transport,集装器类型,published
+Crates,木箱,transport,集装器类型,published
+Drums,桶装容器,transport,集装器类型,published
+ULD Identification,集装器编号,transport,集装器管理,published
+ULD Serial Number,集装器序号,transport,集装器管理,published
+ULD Owner Code,集装器属主代码,transport,集装器管理,published
+ULD Check Digit,集装器校验位,transport,集装器管理,published
+ULD Tag,集装器挂牌,transport,集装器管理,published
+ULD Control,集装器管控,transport,集装器管理,published
+ULD Pooling,集装器共享租赁,transport,集装器管理,published
+ULD Leasing,集装器租赁,transport,集装器管理,published
+Long-term Lease,长期租赁,transport,集装器管理,published
+Short-term Lease,短期租赁,transport,集装器管理,published
+ULD Damage Report,集装器破损报告,transport,集装器管理,published
+ULD Demurrage,集装器滞期费,transport,集装器管理,published
+ULD Tare Weight,集装器皮重,transport,集装器管理,published
+ULD Weight Limit,集装器限重,transport,集装器管理,published
+Maximum Gross Weight,集装器最大总重,transport,集装器管理,published
+Empty ULD Return,空集装器返还,transport,集装器管理,published
+ULD Handover,集装器交接,transport,集装器管理,published
+ULD Stock,集装器库存,transport,集装器管理,published
+Interline ULD,联运集装器,transport,集装器管理,published
+Container Disinfection,集装箱消毒,transport,集装器管理,published
+Serviceability Label,可用状态标签,transport,集装器管理,published
+Unserviceable Tag,不可用标签,transport,集装器管理,published
+Container Type Code,集装箱类型代码,transport,集装器管理,published
+Pallet Type Code,集装板类型代码,transport,集装器管理,published
+Container Frame,集装箱框架,transport,集装器管理,published
+Empty Container,空箱,transport,集装器管理,published
+Empty Pallet,空板,transport,集装器管理,published
+Converted Freighter,客改货飞机,transport,机舱与机型,published
+Passenger-to-Freighter Conversion,客改货改装,transport,机舱与机型,published
+Combi Aircraft,客货混装机,transport,机舱与机型,published
+Quick Change Aircraft,快速转换机型,transport,机舱与机型,published
+Boeing Converted Freighter,波音改装货机,transport,机舱与机型,published
+Wide-body Aircraft,宽体机,transport,机舱与机型,published
+Narrow-body Aircraft,窄体机,transport,机舱与机型,published
+Wide-body Freighter,宽体货机,transport,机舱与机型,published
+Narrow-body Freighter,窄体货机,transport,机舱与机型,published
+Regional Freighter,支线货机,transport,机舱与机型,published
+Turboprop Freighter,涡桨货机,transport,机舱与机型,published
+Aircraft Type,机型,transport,机舱与机型,published
+Aircraft Registration,飞机注册号,transport,机舱与机型,published
+Cargo Airline,货运航空公司,transport,机舱与机型,published
+All-cargo Airline,全货运航空公司,transport,机舱与机型,published
+Combination Carrier,客货兼营运力,transport,机舱与机型,published
+Boeing 747-8F,波音747-8全货机,transport,机舱与机型,published
+Boeing 747-400F,波音747-400全货机,transport,机舱与机型,published
+Boeing 777F,波音777全货机,transport,机舱与机型,published
+Boeing 767-300F,波音767-300全货机,transport,机舱与机型,published
+Boeing 757-200F,波音757-200全货机,transport,机舱与机型,published
+Boeing 737-800BCF,波音737-800改装货机,transport,机舱与机型,published
+Boeing 737-800SF,波音737-800特殊货机,transport,机舱与机型,published
+Boeing 747-400BDSF,波音747-400特种改装货机,transport,机舱与机型,published
 McDonnell Douglas MD-11F,麦道MD-11货机,transport,机舱与机型,pending
 Airbus A330-200F,空客A330-200货机,transport,机舱与机型,pending
 Airbus A330P2F,空客A330客改货,transport,机舱与机型,pending
