@@ -1,0 +1,901 @@
+﻿term_en,term_zh,category,subcategory
+Class 1 Explosives,第1类 爆炸品,special-cargo,危险品分类
+Class 1.1 Mass Explosion Hazard,第1.1类 整体爆炸危险,special-cargo,危险品分类
+Class 1.2 Projection Hazard,第1.2类 抛射危险,special-cargo,危险品分类
+Class 1.3 Fire Hazard with Minor Blast,第1.3类 燃烧并轻微爆炸危险,special-cargo,危险品分类
+Class 1.4 Minor Explosion Hazard,第1.4类 轻微爆炸危险,special-cargo,危险品分类
+Class 1.5 Very Insensitive Explosive,第1.5类 极不敏感爆炸品,special-cargo,危险品分类
+Class 1.6 Extremely Insensitive Article,第1.6类 极端不敏感物品,special-cargo,危险品分类
+Class 2 Gases,第2类 气体,special-cargo,危险品分类
+Class 2.1 Flammable Gas,第2.1类 易燃气体,special-cargo,危险品分类
+Class 2.2 Non-Flammable Non-Toxic Gas,第2.2类 非易燃无毒气体,special-cargo,危险品分类
+Class 2.3 Toxic Gas,第2.3类 有毒气体,special-cargo,危险品分类
+Class 3 Flammable Liquids,第3类 易燃液体,special-cargo,危险品分类
+Class 4.1 Flammable Solids,第4.1类 易燃固体,special-cargo,危险品分类
+Class 4.2 Substances Liable to Spontaneous Combustion,第4.2类 易自燃物质,special-cargo,危险品分类
+Class 4.3 Substances Emitting Flammable Gas in Contact with Water,第4.3类 遇水放出易燃气体物质,special-cargo,危险品分类
+Class 5.1 Oxidizing Substances,第5.1类 氧化性物质,special-cargo,危险品分类
+Class 5.2 Organic Peroxides,第5.2类 有机过氧化物,special-cargo,危险品分类
+Class 6.1 Toxic Substances,第6.1类 有毒物质,special-cargo,危险品分类
+Class 6.2 Infectious Substances,第6.2类 感染性物质,special-cargo,危险品分类
+Class 7 Radioactive Material,第7类 放射性物质,special-cargo,危险品分类
+Class 8 Corrosive Substances,第8类 腐蚀性物质,special-cargo,危险品分类
+Class 9 Miscellaneous Dangerous Substances,第9类 杂项危险物质,special-cargo,危险品分类
+Class 9 Lithium Batteries,第9类 锂电池,special-cargo,危险品分类
+Class 9 Environmentally Hazardous Substance,第9类 危害环境物质,special-cargo,危险品分类
+Packing Group I,Ⅰ类包装,special-cargo,危险品分类
+Packing Group II,Ⅱ类包装,special-cargo,危险品分类
+Packing Group III,Ⅲ类包装,special-cargo,危险品分类
+UN Number,联合国编号,special-cargo,危险品分类
+Flash Point,闪点,special-cargo,危险品分类
+Autoignition Temperature,自燃温度,special-cargo,危险品分类
+Explosive Limits,爆炸极限,special-cargo,危险品分类
+Boiling Point,沸点,special-cargo,危险品分类
+Toxicity Classification,毒性分级,special-cargo,危险品分类
+Self-Accelerating Decomposition Temperature,自加速分解温度,special-cargo,危险品分类
+Control Temperature,控制温度,special-cargo,危险品分类
+Emergency Temperature,应急温度,special-cargo,危险品分类
+Marine Pollutant,海洋污染物,special-cargo,危险品分类
+Limited Quantity,限量运输,special-cargo,危险品分类
+Excepted Quantity,豁免量运输,special-cargo,危险品分类
+Consumer Commodity,消费性商品,special-cargo,危险品分类
+ID Number,临时识别编号,special-cargo,危险品分类
+Generic Proper Shipping Name,通用正确运输名称,special-cargo,危险品分类
+Not Otherwise Specified,未另作规定的,special-cargo,危险品分类
+Technical Name,技术名称,special-cargo,危险品分类
+Tunnel Restriction Code,隧道限制代码,special-cargo,危险品分类
+Transport Category,运输类别,special-cargo,危险品分类
+Segregation Group,隔离组,special-cargo,危险品分类
+Incompatible Goods,配装禁忌货物,special-cargo,危险品分类
+Compatibility Group,相容性组别,special-cargo,危险品分类
+Division,项别,special-cargo,危险品分类
+Subsidiary Risk,次要危险性,special-cargo,危险品分类
+Flashpoint Group,闪点组别,special-cargo,危险品分类
+Corrosivity,腐蚀性分级,special-cargo,危险品分类
+Radioactive Material Category,放射性物质类别,special-cargo,危险品分类
+Transport Index,运输指数,special-cargo,危险品分类
+Criticality Safety Index,临界安全指数,special-cargo,危险品分类
+Surface Contaminated Object,表面污染物体,special-cargo,危险品分类
+Pyrophoric Substance,自燃性物质,special-cargo,危险品分类
+Oxidizer,氧化剂,special-cargo,危险品分类
+Desensitized Explosive,钝感爆炸品,special-cargo,危险品分类
+Aerosols,气雾剂,special-cargo,危险品分类
+Ammonium Nitrate,硝酸铵,special-cargo,危险品分类
+Lithium Battery State of Charge,锂电池荷电状态,special-cargo,危险品分类
+Battery-Powered Equipment,电池供电设备,special-cargo,危险品分类
+Fuel-Powered Equipment,燃油动力设备,special-cargo,危险品分类
+Forbidden for Air Transport,空运禁运货物,special-cargo,危险品分类
+Cargo Aircraft Only,仅限货机运输,special-cargo,危险品分类
+Passenger Aircraft Limitation,客机运输限量,special-cargo,危险品分类
+Hazard Classification Code,危险性分类代码,special-cargo,危险品分类
+Low Specific Activity Material,低比活度放射性物质,special-cargo,危险品分类
+UN Certified Packaging,联合国认证包装,special-cargo,危险品包装
+UN Packaging Mark,联合国包装标记,special-cargo,危险品包装
+Packaging Specification Code,包装规格代码,special-cargo,危险品包装
+Packing Instruction,空运包装操作规范,special-cargo,危险品包装
+Packing Instruction 650,空运PI650包装规范,special-cargo,危险品包装
+Packing Instruction 965,空运PI965包装规范,special-cargo,危险品包装
+Packing Instruction 966,空运PI966包装规范,special-cargo,危险品包装
+Packing Instruction 967,空运PI967包装规范,special-cargo,危险品包装
+Combination Packaging,组合包装,special-cargo,危险品包装
+Single Packaging,单一包装,special-cargo,危险品包装
+Composite Packaging,复合包装,special-cargo,危险品包装
+Inner Packaging,内包装,special-cargo,危险品包装
+Outer Packaging,外包装,special-cargo,危险品包装
+Intermediate Packaging,中层包装,special-cargo,危险品包装
+Salvage Packaging,救助包装,special-cargo,危险品包装
+Portable Tank,可移动罐柜,special-cargo,危险品包装
+Intermediate Bulk Container,中型散装容器,special-cargo,危险品包装
+Drum,桶装容器,special-cargo,危险品包装
+Jerrican,方罐容器,special-cargo,危险品包装
+Box,箱装容器,special-cargo,危险品包装
+Bag,袋装容器,special-cargo,危险品包装
+Pressure Vessel,压力容器,special-cargo,危险品包装
+Overpack,合成包装件,special-cargo,危险品包装
+Performance Test,包装性能试验,special-cargo,危险品包装
+Drop Test,跌落试验,special-cargo,危险品包装
+Stack Test,堆码试验,special-cargo,危险品包装
+Leakproofness Test,渗漏试验,special-cargo,危险品包装
+Hydrostatic Test,水压试验,special-cargo,危险品包装
+Internal Pressure Test,内压试验,special-cargo,危险品包装
+Vibration Test,振动试验,special-cargo,危险品包装
+Maximum Net Weight,最大净重,special-cargo,危险品包装
+Maximum Gross Mass,最大毛重,special-cargo,危险品包装
+Net Quantity Per Package,单件净量,special-cargo,危险品包装
+Hazard Label,危险性标签,special-cargo,危险品包装
+Class Label,类别标签,special-cargo,危险品包装
+Handling Label,操作标签,special-cargo,危险品包装
+Orientation Arrows,方向箭头标识,special-cargo,危险品包装
+Cargo Aircraft Only Label,仅限货机标签,special-cargo,危险品包装
+Lithium Battery Mark,锂电池标记,special-cargo,危险品包装
+Magnetic Field Warning Label,磁场警示标签,special-cargo,危险品包装
+Radioactive Package Label,放射性包装标签,special-cargo,危险品包装
+Package Reference Number,包装件参考编号,special-cargo,危险品包装
+Package Test Report,包装试验报告,special-cargo,危险品包装
+Packaging Certificate,包装检验证书,special-cargo,危险品包装
+Container Packing Certificate,集装箱装箱证明书,special-cargo,危险品包装
+Dangerous Goods Packing Certificate,危险品包装证明,special-cargo,危险品包装
+Empty Uncleaned Packaging,未清洁空包装,special-cargo,危险品包装
+Insulated Packaging,隔热包装,special-cargo,危险品包装
+Shockproof Packaging,防震包装,special-cargo,危险品包装
+Cushioning Material,缓冲材料,special-cargo,危险品包装
+Absorbent Material,吸附材料,special-cargo,危险品包装
+Sealing Gasket,密封垫圈,special-cargo,危险品包装
+Vent Closure,通风闭口装置,special-cargo,危险品包装
+Pressure Relief Device,泄压装置,special-cargo,危险品包装
+Receptacle,包装容器,special-cargo,危险品包装
+DG Declaration,危险品申报单,special-cargo,危险品单证
+Multimodal DG Form,多式联运危险品申报表,special-cargo,危险品单证
+Shipper's Declaration for Dangerous Goods,托运人危险品声明,special-cargo,危险品单证
+Dangerous Goods Note,危险品货运单,special-cargo,危险品单证
+IMDG Code Declaration,国际海运危规申报,special-cargo,危险品单证
+IATA DGR Declaration,空运危规申报,special-cargo,危险品单证
+ADR Transport Document,陆运危规运输单证,special-cargo,危险品单证
+Safety Data Sheet,化学品安全技术说明书,special-cargo,危险品单证
+Certificate of Analysis,成分分析证书,special-cargo,危险品单证
+Emergency Contact Sheet,应急联系单,special-cargo,危险品单证
+Dangerous Goods Acceptance Check,危险品收运检查,special-cargo,危险品单证
+Dangerous Goods Acceptance Checklist,危险品收运检查单,special-cargo,危险品单证
+DG Training Certificate,危险品培训证书,special-cargo,危险品单证
+Carrier Acceptance Statement,承运人接收声明,special-cargo,危险品单证
+Certificate of Conformity,符合性证书,special-cargo,危险品单证
+Explosives Transport License,爆炸品运输许可证,special-cargo,危险品单证
+Radioactive Transport Permit,放射性运输许可证,special-cargo,危险品单证
+Toxic Substance Transport Permit,毒害品运输许可,special-cargo,危险品单证
+Pressure Vessel Inspection Certificate,压力容器检验证书,special-cargo,危险品单证
+Container DG Declaration,集装箱危险品申报,special-cargo,危险品单证
+Port Authority Notification,港口主管机关通报,special-cargo,危险品单证
+Emergency Response Plan,应急预案,special-cargo,危险品单证
+Emergency Response Guidebook,应急响应指南,special-cargo,危险品单证
+Spill Response Procedure,泄漏应急处理程序,special-cargo,危险品单证
+Segregation Plan,隔离配载计划,special-cargo,危险品单证
+DG Stowage Plan,危险品配载图,special-cargo,危险品单证
+Emergency Schedule,应急措施表,special-cargo,危险品单证
+Medical First Aid Guide,医疗急救指南,special-cargo,危险品单证
+Classification Certificate,危险性分类鉴定证书,special-cargo,危险品单证
+Third-Party Test Report,第三方检测报告,special-cargo,危险品单证
+Transport Approval Document,运输批准文件,special-cargo,危险品单证
+Competent Authority Approval,主管机关批准书,special-cargo,危险品单证
+Special Permit,特别许可,special-cargo,危险品单证
+Exemption Certificate,豁免证书,special-cargo,危险品单证
+DG Booking Note,危险品订舱单,special-cargo,危险品单证
+DG Booking Acceptance,危险品订舱确认,special-cargo,危险品单证
+Dangerous Goods Manifest,危险品舱单,special-cargo,危险品单证
+Dangerous Goods Stowage Notice,危险品积载通知,special-cargo,危险品单证
+Port Clearance for Dangerous Goods,危险品出港许可,special-cargo,危险品单证
+DG Handling Instruction,危险品操作指引,special-cargo,危险品单证
+Refrigerated Container,冷藏集装箱,special-cargo,冷链设备
+Reefer Container,冷柜,special-cargo,冷链设备
+Insulated Container,保温集装箱,special-cargo,冷链设备
+Controlled Atmosphere Container,气调集装箱,special-cargo,冷链设备
+Ventilated Container,通风集装箱,special-cargo,冷链设备
+Pre-Trip Inspection,开机前检测,special-cargo,冷链设备
+Set Point Temperature,设定温度,special-cargo,冷链设备
+Temperature Probe,温度探头,special-cargo,冷链设备
+Return Air Temperature,回风温度,special-cargo,冷链设备
+Supply Air Temperature,送风温度,special-cargo,冷链设备
+Ventilation Rate,通风率,special-cargo,冷链设备
+Fresh Air Exchange,新风换气,special-cargo,冷链设备
+Humidity Control,湿度控制,special-cargo,冷链设备
+Relative Humidity Setting,相对湿度设定,special-cargo,冷链设备
+Dehumidification Mode,除湿模式,special-cargo,冷链设备
+Refrigeration Unit,制冷机组,special-cargo,冷链设备
+Compressor,压缩机,special-cargo,冷链设备
+Condenser,冷凝器,special-cargo,冷链设备
+Evaporator,蒸发器,special-cargo,冷链设备
+Expansion Valve,膨胀阀,special-cargo,冷链设备
+Refrigerant,制冷剂,special-cargo,冷链设备
+Refrigerant Leak,制冷剂泄漏,special-cargo,冷链设备
+Defrost Cycle,除霜循环,special-cargo,冷链设备
+Generator Set,发电机组,special-cargo,冷链设备
+Clip-On Generator,挂装式发电机,special-cargo,冷链设备
+Fuel Tank Capacity,油箱容量,special-cargo,冷链设备
+Power Plug Change,电源插头转换,special-cargo,冷链设备
+Shore Power,岸电接驳,special-cargo,冷链设备
+Data Logger,温度记录仪,special-cargo,冷链设备
+USB Temperature Download,温度数据下载,special-cargo,冷链设备
+Temperature Recording Chart,温度记录纸,special-cargo,冷链设备
+Real-Time Temperature Monitoring,实时温度监控,special-cargo,冷链设备
+Remote Reefer Monitoring,冷柜远程监控,special-cargo,冷链设备
+Temperature Alarm,温度报警,special-cargo,冷链设备
+Alarm Code List,报警代码表,special-cargo,冷链设备
+Cold Treatment,冷处理,special-cargo,冷链设备
+Chill Mode,冷藏模式,special-cargo,冷链设备
+Frozen Mode,冷冻模式,special-cargo,冷链设备
+Deep Frozen Mode,深冷模式,special-cargo,冷链设备
+Super Frozen Mode,超低温冷冻,special-cargo,冷链设备
+Perishable Cargo,易腐货物,special-cargo,冷链设备
+Perishable Cargo Regulations,易腐货物操作规程,special-cargo,冷链设备
+Pre-Cooling,预冷,special-cargo,冷链设备
+Container Pre-Cooling,集装箱预冷,special-cargo,冷链设备
+Air Circulation,空气循环,special-cargo,冷链设备
+Airflow Spacer,气流垫板,special-cargo,冷链设备
+Bulking Factor,装载膨胀系数,special-cargo,冷链设备
+Cooling Capacity,制冷量,special-cargo,冷链设备
+Pull-Down Time,降温时间,special-cargo,冷链设备
+Thermostat,恒温器,special-cargo,冷链设备
+Temperature Fluctuation Tolerance,温度波动容差,special-cargo,冷链设备
+Cold Room,冷库,special-cargo,冷链设备
+Blast Freezer,速冻库,special-cargo,冷链设备
+Bonded Cold Storage,保税冷库,special-cargo,冷链设备
+Reefer Plug,冷箱插座,special-cargo,冷链设备
+Good Distribution Practice,药品经营质量管理规范,special-cargo,医药冷链
+Good Manufacturing Practice,药品生产质量管理规范,special-cargo,医药冷链
+Temperature Mapping,温度分布测绘,special-cargo,医药冷链
+Cold Chain Validation,冷链验证,special-cargo,医药冷链
+Thermal Mapping,热性能测试,special-cargo,医药冷链
+Qualification Protocol,确认方案,special-cargo,医药冷链
+Installation Qualification,安装确认,special-cargo,医药冷链
+Operational Qualification,运行确认,special-cargo,医药冷链
+Performance Qualification,性能确认,special-cargo,医药冷链
+Validation Report,验证报告,special-cargo,医药冷链
+Temperature Profile,温度曲线,special-cargo,医药冷链
+Summer Profile,夏季工况验证,special-cargo,医药冷链
+Winter Profile,冬季工况验证,special-cargo,医药冷链
+Active Cooling Container,主动式冷链箱,special-cargo,医药冷链
+Passive Cooling Container,被动式冷链箱,special-cargo,医药冷链
+Phase Change Material,相变蓄冷材料,special-cargo,医药冷链
+Gel Pack,凝胶冰袋,special-cargo,医药冷链
+Dry Ice,干冰,special-cargo,医药冷链
+Dry Ice Sublimation Rate,干冰升华率,special-cargo,医药冷链
+Coolant Conditioning,蓄冷剂预调温,special-cargo,医药冷链
+Conditioned Shipper,预调温保温箱,special-cargo,医药冷链
+Insulated Shipper,保温箱,special-cargo,医药冷链
+Thermal Blanket,保温毯,special-cargo,医药冷链
+Pallet Shipper,托盘保温箱,special-cargo,医药冷链
+Qualified Temperature Envelope,合格温度区间,special-cargo,医药冷链
+Stability Data,稳定性数据,special-cargo,医药冷链
+Excursion Management,温度偏差管理,special-cargo,医药冷链
+Temperature Excursion,温度偏移,special-cargo,医药冷链
+Deviation Report,偏差报告,special-cargo,医药冷链
+Quality Release,质量放行,special-cargo,医药冷链
+Qualified Person,质量受权人,special-cargo,医药冷链
+Responsible Person,责任人,special-cargo,医药冷链
+Batch Record,批记录,special-cargo,医药冷链
+Cold Chain SOP,冷链标准操作规程,special-cargo,医药冷链
+Time and Temperature Sensitive Product,时间温度敏感药品,special-cargo,医药冷链
+2-8 Degrees Cold Chain,2至8度冷链,special-cargo,医药冷链
+Frozen Pharmaceutical,冷冻药品,special-cargo,医药冷链
+Cryogenic Shipping,深冷运输,special-cargo,医药冷链
+Cell and Gene Therapy Logistics,细胞与基因治疗物流,special-cargo,医药冷链
+Clinical Trial Supplies Logistics,临床试验用药物流,special-cargo,医药冷链
+Investigational Medicinal Product,试验用药品,special-cargo,医药冷链
+Biological Sample Shipping,生物样本运输,special-cargo,医药冷链
+Infectious Substance Category A,A类感染性物质,special-cargo,医药冷链
+Biological Substance Category B,B类生物物质,special-cargo,医药冷链
+Patient Sample,人体样本,special-cargo,医药冷链
+Blood Product Transport,血液制品运输,special-cargo,医药冷链
+Vaccine Distribution,疫苗配送,special-cargo,医药冷链
+Cold Chain Monitoring Device,冷链监测设备,special-cargo,医药冷链
+Disposable Data Logger,一次性温度记录仪,special-cargo,医药冷链
+Pharma Track and Trace,药品追溯,special-cargo,医药冷链
+Project Cargo,项目货物,special-cargo,项目物流
+Project Logistics,项目物流,special-cargo,项目物流
+Heavy Lift Cargo,重大件货物,special-cargo,项目物流
+Out of Gauge Cargo,超限货物,special-cargo,项目物流
+Break Bulk Cargo,散杂件货物,special-cargo,项目物流
+Oversize Cargo,超尺寸货物,special-cargo,项目物流
+Overweight Cargo,超重货物,special-cargo,项目物流
+Flat Rack Container,框架箱,special-cargo,项目物流
+Open Top Container,开顶箱,special-cargo,项目物流
+Platform Container,平台箱,special-cargo,项目物流
+Mafi Trailer,滚装板车,special-cargo,项目物流
+Low Bed Trailer,低平板车,special-cargo,项目物流
+Modular Trailer,模块化板车,special-cargo,项目物流
+Self-Propelled Modular Transporter,自行式模块运输车,special-cargo,项目物流
+Schnabel Trailer,凹形桥式板车,special-cargo,项目物流
+Multi-Axle Trailer,多轴线板车,special-cargo,项目物流
+Axle Line,轴线,special-cargo,项目物流
+Hydraulic Suspension,液压悬挂,special-cargo,项目物流
+Turntable,回转盘,special-cargo,项目物流
+Skidding System,滑移系统,special-cargo,项目物流
+Hydraulic Gantry,液压龙门吊,special-cargo,项目物流
+Strand Jack,钢绞线千斤顶,special-cargo,项目物流
+Tower Crane,塔式起重机,special-cargo,项目物流
+Crawler Crane,履带吊,special-cargo,项目物流
+Mobile Crane,汽车吊,special-cargo,项目物流
+Floating Crane,浮吊,special-cargo,项目物流
+Crane Barge,起重驳船,special-cargo,项目物流
+Heavy Lift Vessel,重吊船,special-cargo,项目物流
+Semi-Submersible Vessel,半潜船,special-cargo,项目物流
+Deck Cargo,甲板货,special-cargo,项目物流
+Deck Strength Check,甲板强度校核,special-cargo,项目物流
+Lashing Calculation,绑扎计算,special-cargo,项目物流
+Securing Plan,系固方案,special-cargo,项目物流
+Lashing and Securing,绑扎系固,special-cargo,项目物流
+Welded Sea Fastening,焊接式海运固定,special-cargo,项目物流
+Sea Fastening,海运固定,special-cargo,项目物流
+Shackle,卸扣,special-cargo,项目物流
+Wire Rope Sling,钢丝绳吊索,special-cargo,项目物流
+Synthetic Sling,合成纤维吊带,special-cargo,项目物流
+Spreader Beam,吊梁,special-cargo,项目物流
+Lifting Frame,吊架,special-cargo,项目物流
+Lifting Plan,吊装方案,special-cargo,项目物流
+Load Test,载荷试验,special-cargo,项目物流
+Proof Load Test,验证载荷试验,special-cargo,项目物流
+Crane Capacity Chart,吊机性能表,special-cargo,项目物流
+Load Moment Indicator,力矩限制器,special-cargo,项目物流
+Rigging Engineer,索具工程师,special-cargo,项目物流
+Lifting Supervisor,吊装指挥,special-cargo,项目物流
+Roll-On Roll-Off Shipping,滚装运输,special-cargo,项目物流
+Ro-Ro Ramp,滚装跳板,special-cargo,项目物流
+Towing Operation,拖航作业,special-cargo,项目物流
+Barge Transportation,驳船运输,special-cargo,项目物流
+Load-Out,滑移装船,special-cargo,项目物流
+Load-In,上岸作业,special-cargo,项目物流
+Cargo Weight Verification,货物称重核验,special-cargo,项目物流
+Weighbridge,地磅,special-cargo,项目物流
+Load Cell,称重传感器,special-cargo,项目物流
+Center of Gravity Calculation,重心计算,special-cargo,项目物流
+Transport Route Survey,运输路线勘察,special-cargo,项目物流
+Bridge Load Assessment,桥梁承载评估,special-cargo,项目物流
+ATA Carnet,ATA单证册,special-cargo,展品物流
+ATA Carnet Holder,ATA单证册持证人,special-cargo,展品物流
+ATA Carnet Guarantee Chain,ATA单证册担保链,special-cargo,展品物流
+Temporary Admission,暂准进口,special-cargo,展品物流
+Temporary Import Bond,临时进口担保,special-cargo,展品物流
+Exhibition Goods,展会货物,special-cargo,展品物流
+Trade Show Logistics,商展物流,special-cargo,展品物流
+Event Logistics,活动物流,special-cargo,展品物流
+Exhibition Stand Material,展台搭建材料,special-cargo,展品物流
+Demonstration Goods,演示用展品,special-cargo,展品物流
+Exhibition Consumables,展会消耗品,special-cargo,展品物流
+Giveaway Items,赠送礼品,special-cargo,展品物流
+Re-Export Declaration,复出口申报,special-cargo,展品物流
+Re-Import Declaration,复进口申报,special-cargo,展品物流
+Final Disposition,展品最终处置,special-cargo,展品物流
+Sale of Exhibits,展品现场销售,special-cargo,展品物流
+Abandonment of Exhibits,展品放弃处理,special-cargo,展品物流
+Duty-Free Temporary Entry,免税暂准入境,special-cargo,展品物流
+Personal Effects,私人物品,special-cargo,展品物流
+Household Goods Moving,家居搬迁运输,special-cargo,展品物流
+Relocation Shipping,移民搬迁海运,special-cargo,展品物流
+Diplomatic Cargo,外交物资,special-cargo,展品物流
+Bonded Storage for Exhibits,展品保税仓储,special-cargo,展品物流
+On-Site Handling,现场操作,special-cargo,展品物流
+Venue Delivery,场馆交付,special-cargo,展品物流
+Pre-Show Delivery,开展前进场,special-cargo,展品物流
+Post-Show Removal,撤展外运,special-cargo,展品物流
+Empty Packaging Return,空包装回运,special-cargo,展品物流
+Carnet Validation,单证册核验,special-cargo,展品物流
+Carnet Loss Penalty,单证册遗失罚金,special-cargo,展品物流
+ATA General List,ATA总清单,special-cargo,展品物流
+Sample Goods,样品货物,special-cargo,展品物流
+Commercial Sample,贸易样品,special-cargo,展品物流
+Returning Exhibits,回运展品,special-cargo,展品物流
+Art Exhibition Logistics,艺术展物流,special-cargo,展品物流
+Ro-Ro Vessel,滚装船,special-cargo,汽车物流
+Pure Car Carrier,纯汽车运输船,special-cargo,汽车物流
+Pure Car and Truck Carrier,汽车及卡车运输船,special-cargo,汽车物流
+Deck Lashing,甲板绑扎,special-cargo,汽车物流
+Car Ramp,车辆坡道,special-cargo,汽车物流
+Wheel-Driven Loading,自行驶上船,special-cargo,汽车物流
+Yard Planning,堆场计划,special-cargo,汽车物流
+Vehicle Yard,车辆堆场,special-cargo,汽车物流
+Car Key Management,车钥匙管理,special-cargo,汽车物流
+Pre-Delivery Inspection,交付前检验,special-cargo,汽车物流
+Vehicle Condition Report,车辆状况报告,special-cargo,汽车物流
+Damage Report at Loading,装车破损报告,special-cargo,汽车物流
+Fuel Level Check,油量检查,special-cargo,汽车物流
+Battery Disconnection,电瓶断电,special-cargo,汽车物流
+New Energy Vehicle Shipping,新能源汽车运输,special-cargo,汽车物流
+EV Fire Safety,电动汽车消防安全,special-cargo,汽车物流
+Lithium Battery Transport for Vehicles,整车锂电池运输,special-cargo,汽车物流
+Knock-Down Parts,散件组装件,special-cargo,汽车物流
+Complete Knock-Down,全散件组装,special-cargo,汽车物流
+Semi Knock-Down,半散件组装,special-cargo,汽车物流
+Rack Packing,支架包装,special-cargo,汽车物流
+Returnable Rack,周转料架,special-cargo,汽车物流
+Steel Rack,钢制料架,special-cargo,汽车物流
+Wooden Crate for KD Parts,散件木箱包装,special-cargo,汽车物流
+Kitted Parts,成套件,special-cargo,汽车物流
+Glass Rack,玻璃料架,special-cargo,汽车物流
+Body Panel Packaging,车身覆盖件包装,special-cargo,汽车物流
+Complete Vehicle,整车,special-cargo,汽车物流
+Finished Vehicle Logistics,整车物流,special-cargo,汽车物流
+Car Transporter Truck,轿运车,special-cargo,汽车物流
+Containerized Vehicle Shipping,集装箱整车运输,special-cargo,汽车物流
+Vehicle Loading Plan,车辆配载图,special-cargo,汽车物流
+Loading Sequence Plan,装船顺序表,special-cargo,汽车物流
+Vehicle Tracking,车辆追踪,special-cargo,汽车物流
+Vehicle Processing Center,车辆整备中心,special-cargo,汽车物流
+Vehicle Pre-Shipment Inspection,车辆出运前检验,special-cargo,汽车物流
+Homologation,车型认证,special-cargo,汽车物流
+Vehicle VIN Verification,车辆VIN核验,special-cargo,汽车物流
+Chassis Number,底盘号,special-cargo,汽车物流
+Trailer and Truck Transport,挂车与卡车运输,special-cargo,汽车物流
+Machinery Cargo,工程机械运输,special-cargo,汽车物流
+Agricultural Machinery Export,农业机械出口,special-cargo,汽车物流
+Motorcycle Shipping,摩托车运输,special-cargo,汽车物流
+Power Battery Export,动力电池出口,special-cargo,汽车物流
+UN38.3 Test Summary,电池UN38.3测试摘要,special-cargo,汽车物流
+Battery Temperature Control,电池温度管控,special-cargo,汽车物流
+Prototype Vehicle Export,试制车出口,special-cargo,汽车物流
+Race Car Transport,赛车运输,special-cargo,汽车物流
+Classic Car Shipping,老爷车运输,special-cargo,汽车物流
+Vehicle Auction Logistics,拍卖车物流,special-cargo,汽车物流
+Valuable Cargo,贵重货物,special-cargo,贵重物品
+High-Value Cargo,高价值货物,special-cargo,贵重物品
+Precious Metal Transport,贵金属运输,special-cargo,贵重物品
+Bullion Shipping,金条运输,special-cargo,贵重物品
+Banknote Logistics,钞票物流,special-cargo,贵重物品
+Armed Escort,武装押运,special-cargo,贵重物品
+Secure Warehouse,安保仓库,special-cargo,贵重物品
+Vault Storage,金库仓储,special-cargo,贵重物品
+Sealed Container,铅封箱,special-cargo,贵重物品
+Tamper-Evident Seal,防开启封条,special-cargo,贵重物品
+Security Seal Number,封条编号,special-cargo,贵重物品
+Chain of Custody,监管链,special-cargo,贵重物品
+Jewelry Shipping,珠宝运输,special-cargo,贵重物品
+Diamond Parcel,钻石包裹,special-cargo,贵重物品
+Watch Shipment,名表运输,special-cargo,贵重物品
+Fine Art Transport,艺术品运输,special-cargo,贵重物品
+Artwork Handling,艺术品搬运,special-cargo,贵重物品
+Museum Standard Packing,博物馆级包装,special-cargo,贵重物品
+Museum-Quality Crate,博物馆级木箱,special-cargo,贵重物品
+Double Crate,双层木箱,special-cargo,贵重物品
+Climate-Controlled Art Case,恒温艺术箱,special-cargo,贵重物品
+Shock and Tilt Indicator,震动倾斜记录仪,special-cargo,贵重物品
+Artwork Condition Report,艺术品状况报告,special-cargo,贵重物品
+Pre-Export Condition Check,出运前状态检查,special-cargo,贵重物品
+White Glove Service,白手套服务,special-cargo,贵重物品
+Art Courier,艺术品随行押运,special-cargo,贵重物品
+Accompanied Cargo,随身押运货物,special-cargo,贵重物品
+Custom Crating,定制木箱,special-cargo,贵重物品
+Cultural Relics Export License,文物出境许可,special-cargo,贵重物品
+Antiquities Transport,古董运输,special-cargo,贵重物品
+Sculpture Handling,雕塑搬运,special-cargo,贵重物品
+Painting Crating,画作装箱,special-cargo,贵重物品
+Acid-Free Wrapping,无酸纸包装,special-cargo,贵重物品
+Museum Loan Agreement,博物馆借展协议,special-cargo,贵重物品
+Discreet Packaging,低调包装,special-cargo,贵重物品
+Armed Convoy,武装车队护送,special-cargo,贵重物品
+GPS Tracking for Valuables,贵重货物GPS追踪,special-cargo,贵重物品
+Secure Corridor Transport,安全通道运输,special-cargo,贵重物品
+Cash in Transit,在途现金,special-cargo,贵重物品
+Confidential Shipment,保密货运,special-cargo,贵重物品
+Proof of Delivery for Valuables,贵重品签收凭证,special-cargo,贵重物品
+Two-Person Rule,双人操作规则,special-cargo,贵重物品
+Background-Checked Crew,背景审查操作人员,special-cargo,贵重物品
+Secure Van,安保专用车,special-cargo,贵重物品
+High-Value Storage Safe,贵重品保险柜,special-cargo,贵重物品
+Institute Cargo Clauses (B),协会货物条款(B险),insurance-claims,承保险别
+Institute Cargo Clauses (C),协会货物条款(C险),insurance-claims,承保险别
+Free of Particular Average,平安险,insurance-claims,承保险别
+With Particular Average,水渍险,insurance-claims,承保险别
+All Risks,一切险,insurance-claims,承保险别
+Total Loss Only,全损险,insurance-claims,承保险别
+Institute War Clauses (Cargo),协会战争险条款(货物),insurance-claims,承保险别
+Institute Strikes Clauses (Cargo),协会罢工险条款(货物),insurance-claims,承保险别
+Institute Commodity Clauses,协会大宗商品条款,insurance-claims,承保险别
+Institute Frozen Food Clauses,协会冷冻食品条款,insurance-claims,承保险别
+Institute Frozen Meat Clauses,协会冻肉条款,insurance-claims,承保险别
+Institute Bulk Oil Clauses,协会散装油类条款,insurance-claims,承保险别
+Institute Coal Clauses,协会煤炭条款,insurance-claims,承保险别
+Institute Radioactive Contamination Exclusion Clause,协会放射性污染除外条款,insurance-claims,承保险别
+Institute Classification Clause,协会船级条款,insurance-claims,承保险别
+Institute Warranty Limits,协会保证航区条款,insurance-claims,承保险别
+Institute Replacement Clause,协会修复更换条款,insurance-claims,承保险别
+Institute Cargo Clauses (Air),协会货物空运条款,insurance-claims,承保险别
+Land Transit Insurance,陆运险,insurance-claims,承保险别
+Land Transit All Risks,陆运一切险,insurance-claims,承保险别
+Air Cargo Insurance,航空货运险,insurance-claims,承保险别
+Air Cargo All Risks,航空货运一切险,insurance-claims,承保险别
+Parcel Post Insurance,邮包险,insurance-claims,承保险别
+Parcel Post All Risks,邮包一切险,insurance-claims,承保险别
+Warehouse to Warehouse Clause,仓至仓条款,insurance-claims,承保险别
+Port to Port Coverage,港至港承保,insurance-claims,承保险别
+Multimodal Transport Coverage,多式联运承保,insurance-claims,承保险别
+Pre-Shipment Insurance,出运前保险,insurance-claims,承保险别
+Seller's Interest Insurance,卖方利益险,insurance-claims,承保险别
+Buyer's Interest Insurance,买方利益险,insurance-claims,承保险别
+Contingency Insurance,或有利益保险,insurance-claims,承保险别
+Increased Value Insurance,增值险,insurance-claims,承保险别
+Customs Duty Insurance,关税保险,insurance-claims,承保险别
+Delay in Start-Up Insurance,延期开工保险,insurance-claims,承保险别
+Consequential Loss Insurance,间接损失保险,insurance-claims,承保险别
+Extra Expense Coverage,额外费用保障,insurance-claims,承保险别
+Reconditioning Cost Coverage,整理修复费用保障,insurance-claims,承保险别
+Lost or Not Lost Clause,灭失与否条款,insurance-claims,承保险别
+Held Covered Clause,视同承保条款,insurance-claims,承保险别
+Change of Voyage Clause,航程变更条款,insurance-claims,承保险别
+Deviation Clause,绕航条款,insurance-claims,承保险别
+Sue and Labour Clause,施救费用条款,insurance-claims,承保险别
+Free of Capture and Seizure Clause,捕获扣押除外条款,insurance-claims,承保险别
+Notice of Loss Clause,损失通知条款,insurance-claims,承保险别
+Fraudulent Claims Exclusion,欺诈索赔除外条款,insurance-claims,承保险别
+Malicious Damage Clause,恶意损坏条款,insurance-claims,承保险别
+Inherent Vice Exclusion,固有缺陷除外条款,insurance-claims,承保险别
+Insufficiency of Packing Exclusion,包装不当除外条款,insurance-claims,承保险别
+Delay Exclusion,延误除外条款,insurance-claims,承保险别
+Unseaworthiness Exclusion,不适航除外条款,insurance-claims,承保险别
+Ordinary Leakage and Shrinkage Exclusion,自然渗漏短量除外条款,insurance-claims,承保险别
+Carrier Insolvency Exclusion,承运人破产除外条款,insurance-claims,承保险别
+Nuclear Exclusion,核除外条款,insurance-claims,承保险别
+Cyber Exclusion Clause,网络除外条款,insurance-claims,承保险别
+Sanctions Limitation Clause,制裁限制条款,insurance-claims,承保险别
+Pollution Exclusion Clause,污染除外条款,insurance-claims,承保险别
+Strike Exclusion,罢工除外条款,insurance-claims,承保险别
+Ice Clause,冰冻条款,insurance-claims,承保险别
+Container Clause,集装箱条款,insurance-claims,承保险别
+Termination of Risk Clause,责任终止条款,insurance-claims,承保险别
+Duty of Assured Clause,被保险人义务条款,insurance-claims,承保险别
+Both to Blame Collision Clause,互有过失碰撞条款,insurance-claims,承保险别
+Running Down Clause,碰撞责任条款,insurance-claims,承保险别
+Inland Leg Extension,内陆段扩展承保,insurance-claims,承保险别
+Transit Extension Clause,卸货后扩展期条款,insurance-claims,承保险别
+Deductible Clause,免赔额条款,insurance-claims,承保险别
+Excess Clause,绝对免赔条款,insurance-claims,承保险别
+Special Cargo Coverage,特种货物保险,insurance-claims,承保险别
+Live Animals Cover,活动物运输保险,insurance-claims,承保险别
+Charterers' Interest Insurance,租船人利益险,insurance-claims,承保险别
+Assignment Clause,保险权益转让条款,insurance-claims,承保险别
+Reefer Machinery Damage Exclusion,冷藏机损除外条款,insurance-claims,承保险别
+Pro Rata Condition,比例分摊条款,insurance-claims,承保险别
+Concealed Damage,隐藏性损坏,insurance-claims,承保险别
+Temporary Storage Clause,临时仓储条款,insurance-claims,承保险别
+War Exclusion,战争除外条款,insurance-claims,承保险别
+Odour Contamination Exclusion,串味除外条款,insurance-claims,承保险别
+Fumigation Damage Exclusion,熏蒸损坏除外条款,insurance-claims,承保险别
+Rejection Exclusion,拒收除外条款,insurance-claims,承保险别
+Loss of Market Exclusion,市价损失除外条款,insurance-claims,承保险别
+Perils of the Sea,海上风险,insurance-claims,海上风险
+Natural Calamity,自然灾害,insurance-claims,海上风险
+Fortuitous Accident,意外事故,insurance-claims,海上风险
+Heavy Weather,恶劣天气,insurance-claims,海上风险
+Stranding,搁浅,insurance-claims,海上风险
+Grounding,触礁,insurance-claims,海上风险
+Sinking,沉没,insurance-claims,海上风险
+Collision,碰撞,insurance-claims,海上风险
+Capsizing,倾覆,insurance-claims,海上风险
+Fire on Board,船上火灾,insurance-claims,海上风险
+Explosion on Board,船上爆炸,insurance-claims,海上风险
+Jettison,抛弃货物,insurance-claims,海上风险
+Washing Overboard,浪击落海,insurance-claims,海上风险
+Seawater Damage,海水浸损,insurance-claims,海上风险
+Fresh Water Damage,淡水浸损,insurance-claims,海上风险
+Sweating,汗湿,insurance-claims,海上风险
+Heating Damage,受热损失,insurance-claims,海上风险
+Freezing Damage,冻损,insurance-claims,海上风险
+Spontaneous Combustion Loss,自燃损失,insurance-claims,海上风险
+Evaporation Loss,蒸发损耗,insurance-claims,海上风险
+Leakage,渗漏,insurance-claims,海上风险
+Crushing Damage,挤压损坏,insurance-claims,海上风险
+Hatch Leakage,舱口漏水,insurance-claims,海上风险
+Bilge Water Damage,舱底水浸损,insurance-claims,海上风险
+Salt Water Corrosion,盐水锈蚀,insurance-claims,海上风险
+Mould in Transit,运输霉变,insurance-claims,海上风险
+Odour Contamination,气味污染,insurance-claims,海上风险
+Warlike Operations,战争行为,insurance-claims,海上风险
+Civil War,内战,insurance-claims,海上风险
+Hostilities,敌对行为,insurance-claims,海上风险
+Capture and Seizure,捕获扣押,insurance-claims,海上风险
+Vessel Detention,船舶被扣,insurance-claims,海上风险
+Embargo,禁运,insurance-claims,海上风险
+Blockade,封锁,insurance-claims,海上风险
+Riot,暴乱,insurance-claims,海上风险
+Civil Commotion,民变,insurance-claims,海上风险
+Terrorist Act,恐怖主义行为,insurance-claims,海上风险
+Vandalism,恶意破坏,insurance-claims,海上风险
+Malicious Act,恶意行为,insurance-claims,海上风险
+Latent Defect,潜在缺陷,insurance-claims,海上风险
+Inherent Vice,固有缺陷,insurance-claims,海上风险
+Ordinary Wear and Tear,自然磨损,insurance-claims,海上风险
+Delay in Transit,运输延误,insurance-claims,海上风险
+Market Loss,市价跌落损失,insurance-claims,海上风险
+Rejection by Import Authority,进口国拒收,insurance-claims,海上风险
+Negligence of Crew,船员疏忽,insurance-claims,海上风险
+Error in Navigation,航行过失,insurance-claims,海上风险
+Barratry,船员恶意行为,insurance-claims,海上风险
+Piracy,海盗行为,insurance-claims,海上风险
+Armed Robbery at Sea,海上武装抢劫,insurance-claims,海上风险
+Pilferage,偷窃,insurance-claims,海上风险
+Non-Delivery,提货不着,insurance-claims,海上风险
+Loss of Package,整件灭失,insurance-claims,海上风险
+Contact Damage,触碰损失,insurance-claims,海上风险
+Contamination by Seawater,海水污染,insurance-claims,海上风险
+General Additional Risk,一般附加险,insurance-claims,附加险
+Special Additional Risk,特别附加险,insurance-claims,附加险
+Theft Pilferage and Non-Delivery Risk,偷窃提货不着险,insurance-claims,附加险
+Fresh Water and/or Rain Damage Risk,淡水雨淋险,insurance-claims,附加险
+Risk of Shortage,短量险,insurance-claims,附加险
+Risk of Intermixture,混杂险,insurance-claims,附加险
+Risk of Leakage,渗漏险,insurance-claims,附加险
+Risk of Taint of Odour,串味险,insurance-claims,附加险
+Risk of Sweat and Heating,受潮受热险,insurance-claims,附加险
+Risk of Hook Damage,钩损险,insurance-claims,附加险
+Risk of Rust,锈损险,insurance-claims,附加险
+Risk of Breakage,破碎险,insurance-claims,附加险
+Risk of Mould,霉损险,insurance-claims,附加险
+Risk of Chill Damage,冷藏冻损险,insurance-claims,附加险
+Import Duty Risk,进口关税险,insurance-claims,附加险
+Aflatoxin Risk,黄曲霉素险,insurance-claims,附加险
+Rejection Risk,拒收险,insurance-claims,附加险
+Failure to Deliver Risk,提货不着险,insurance-claims,附加险
+On Deck Risk,舱面险,insurance-claims,附加险
+War Risk,战争险,insurance-claims,附加险
+Strikes Risk,罢工险,insurance-claims,附加险
+Fire Risk Extension Clause,存仓火险扩展条款,insurance-claims,附加险
+War on Deck Risk,舱面战争险,insurance-claims,附加险
+Inland Transit Extension,内陆运输扩展,insurance-claims,附加险
+Storage Extension,仓储责任扩展,insurance-claims,附加险
+Reefer Machinery Breakdown Cover,冷藏机损扩展条款,insurance-claims,附加险
+Temperature Control Endorsement,温控货物附加条款,insurance-claims,附加险
+Fumigation Cost Coverage,熏蒸费用保障,insurance-claims,附加险
+Survey Cost Coverage,检验费用保障,insurance-claims,附加险
+Mitigation Expenses Cover,减损费用保障,insurance-claims,附加险
+Diversion Expenses Cover,绕航改道费用保障,insurance-claims,附加险
+Pair and Set Clause,成对成套条款,insurance-claims,附加险
+Franchise,相对免赔额,insurance-claims,附加险
+Irrespective of Percentage Clause,不计免赔率条款,insurance-claims,附加险
+Salvage Clause,救助条款,insurance-claims,附加险
+Service of Suit Clause,诉讼管辖条款,insurance-claims,附加险
+Governing Law Clause,适用法律条款,insurance-claims,附加险
+Arbitration Clause,仲裁条款,insurance-claims,附加险
+Lashing Warranty,绑扎保证条款,insurance-claims,附加险
+Pre-Cooling Warranty,预冷保证条款,insurance-claims,附加险
+Best Industry Practice Warranty,最佳行业操作保证条款,insurance-claims,附加险
+Charterparty Deviation Warranty,租船绕航保证条款,insurance-claims,附加险
+Coinsurance Clause,共同保险条款,insurance-claims,附加险
+Automatic Reinstatement Clause,自动恢复保额条款,insurance-claims,附加险
+Loss Payee Clause,赔款受益人条款,insurance-claims,附加险
+Additional Insured Endorsement,附加被保险人批单,insurance-claims,附加险
+Currency Clause,赔付货币条款,insurance-claims,附加险
+Interest Clause,利息条款,insurance-claims,附加险
+Escalation Clause,保额递增条款,insurance-claims,附加险
+Door to Door Cover,门到门承保,insurance-claims,附加险
+York-Antwerp Rules,约克-安特卫普规则,insurance-claims,共同海损
+York-Antwerp Rules 2016,约克-安特卫普规则2016,insurance-claims,共同海损
+General Average Act,共同海损行为,insurance-claims,共同海损
+General Average Sacrifice,共同海损牺牲,insurance-claims,共同海损
+General Average Expenditure,共同海损费用,insurance-claims,共同海损
+General Average Contribution,共同海损分摊,insurance-claims,共同海损
+General Average Adjustment,共同海损理算,insurance-claims,共同海损
+General Average Statement,共同海损理算书,insurance-claims,共同海损
+General Average Guarantee,共同海损担保函,insurance-claims,共同海损
+General Average Bond,共同海损协议书,insurance-claims,共同海损
+General Average Security,共同海损担保,insurance-claims,共同海损
+General Average Deposit,共同海损保证金,insurance-claims,共同海损
+Average Adjuster,海损理算师,insurance-claims,共同海损
+Adjustment Fee,理算费用,insurance-claims,共同海损
+Jettison for Common Safety,为共同安全抛货,insurance-claims,共同海损
+Voluntary Stranding,有意搁浅,insurance-claims,共同海损
+Refloating Expenses,脱浅费用,insurance-claims,共同海损
+Port of Refuge,避难港,insurance-claims,共同海损
+Deviation to Port of Refuge,驶往避难港绕航,insurance-claims,共同海损
+Port of Refuge Expenses,避难港费用,insurance-claims,共同海损
+Discharge at Port of Refuge,避难港卸货,insurance-claims,共同海损
+Reloading Expenses,重装费用,insurance-claims,共同海损
+Temporary Repairs,临时修理,insurance-claims,共同海损
+Permanent Repairs,永久修理,insurance-claims,共同海损
+Cargo Removal for Repair,移货修理费用,insurance-claims,共同海损
+Freight Sacrifice,运费牺牲,insurance-claims,共同海损
+Contributory Value,分摊价值,insurance-claims,共同海损
+Ship Contributory Value,船舶分摊价值,insurance-claims,共同海损
+Cargo Contributory Value,货物分摊价值,insurance-claims,共同海损
+Freight Contributory Value,运费分摊价值,insurance-claims,共同海损
+Common Safety,共同安全,insurance-claims,共同海损
+Common Maritime Adventure,海上共同航次,insurance-claims,共同海损
+Extraordinary Sacrifice or Expenditure,特殊牺牲或费用,insurance-claims,共同海损
+Flood Damage from Firefighting,灭火进水损失,insurance-claims,共同海损
+Firefighting Expenses,灭火费用,insurance-claims,共同海损
+Salvage Reward,救助报酬,insurance-claims,共同海损
+Salvage Expenses,救助费用,insurance-claims,共同海损
+Salvage Agreement,救助协议,insurance-claims,共同海损
+Lloyd's Open Form,劳氏救助格式,insurance-claims,共同海损
+SCOPIC Clause,SCOPIC特别补偿条款,insurance-claims,共同海损
+Sea Protest,海事声明,insurance-claims,共同海损
+Extended Sea Protest,补充海事声明,insurance-claims,共同海损
+Noting Protest,海事声明签注,insurance-claims,共同海损
+Casualty Investigation,海难事故调查,insurance-claims,共同海损
+General Average Absorption Clause,共同海损吸收条款,insurance-claims,共同海损
+Claim,索赔,insurance-claims,理赔实务
+Claimant,索赔人,insurance-claims,理赔实务
+Notice of Claim,索赔通知,insurance-claims,理赔实务
+Time Bar for Claims,索赔时效,insurance-claims,理赔实务
+Limitation Period,诉讼时效,insurance-claims,理赔实务
+Claim Documents,索赔单证,insurance-claims,理赔实务
+Claim Form,索赔申请书,insurance-claims,理赔实务
+Claim File,索赔案卷,insurance-claims,理赔实务
+Survey Report,检验报告,insurance-claims,理赔实务
+Joint Survey,联合检验,insurance-claims,理赔实务
+Cargo Surveyor,货物检验人,insurance-claims,理赔实务
+Pre-Shipment Survey,装运前检验,insurance-claims,理赔实务
+Outturn Report,卸货理货报告,insurance-claims,理赔实务
+Tally Sheet,理货单,insurance-claims,理赔实务
+Damaged Cargo List,残损清单,insurance-claims,理赔实务
+Damage Survey,残损鉴定,insurance-claims,理赔实务
+Extent of Damage,损失程度,insurance-claims,理赔实务
+Cause of Loss,损失原因,insurance-claims,理赔实务
+Loss Event,保险事故,insurance-claims,理赔实务
+Proximate Cause,近因,insurance-claims,理赔实务
+Principle of Indemnity,损失补偿原则,insurance-claims,理赔实务
+Principle of Insurable Interest,保险利益原则,insurance-claims,理赔实务
+Principle of Utmost Good Faith,最大诚信原则,insurance-claims,理赔实务
+Principle of Contribution,重复保险分摊原则,insurance-claims,理赔实务
+Subrogation,代位求偿,insurance-claims,理赔实务
+Right of Subrogation,代位求偿权,insurance-claims,理赔实务
+Subrogation Receipt,代位求偿收据,insurance-claims,理赔实务
+Abandonment,委付,insurance-claims,理赔实务
+Notice of Abandonment,委付通知,insurance-claims,理赔实务
+Acceptance of Abandonment,接受委付,insurance-claims,理赔实务
+Salvage Value,残值,insurance-claims,理赔实务
+Salvage Sale,残值处理,insurance-claims,理赔实务
+Damaged Cargo Sale,残损货物变卖,insurance-claims,理赔实务
+Underwriter,保险人,insurance-claims,理赔实务
+Claims Handler,理赔专员,insurance-claims,理赔实务
+Claims Adjuster,理赔理算师,insurance-claims,理赔实务
+Independent Adjuster,独立理算师,insurance-claims,理赔实务
+Loss Adjuster,损失理算人,insurance-claims,理赔实务
+Loss Assessor,损失评估师,insurance-claims,理赔实务
+Insurance Broker,保险经纪人,insurance-claims,理赔实务
+Insurance Agent,保险代理人,insurance-claims,理赔实务
+Assured,被保险人,insurance-claims,理赔实务
+Co-Assured,共同被保险人,insurance-claims,理赔实务
+Third Party Claim,第三方索赔,insurance-claims,理赔实务
+Evidence Preservation,证据保全,insurance-claims,理赔实务
+Photographic Evidence,照片证据,insurance-claims,理赔实务
+Cargo Sampling,货物抽样,insurance-claims,理赔实务
+Laboratory Analysis,实验室化验,insurance-claims,理赔实务
+Quantity Discrepancy,数量不符,insurance-claims,理赔实务
+Quality Discrepancy,质量不符,insurance-claims,理赔实务
+Packing Damage,包装破损,insurance-claims,理赔实务
+Wetting Damage,水湿损失,insurance-claims,理赔实务
+Investigation Report,调查报告,insurance-claims,理赔实务
+Accident Investigation,事故调查,insurance-claims,理赔实务
+Liability Investigation,责任调查,insurance-claims,理赔实务
+Carrier Liability Verification,承运人责任认定,insurance-claims,理赔实务
+Clean Bill of Lading,清洁提单,insurance-claims,理赔实务
+Claused Bill of Lading,批注提单,insurance-claims,理赔实务
+Mate's Receipt,大副收据,insurance-claims,理赔实务
+Letter of Protest,抗议函,insurance-claims,理赔实务
+Letter of Indemnity,免责保函,insurance-claims,理赔实务
+Letter of Undertaking,扣船担保函,insurance-claims,理赔实务
+Ship Arrest,扣押船舶,insurance-claims,理赔实务
+Security for Claims,索赔担保,insurance-claims,理赔实务
+Bank Guarantee,银行担保,insurance-claims,理赔实务
+Settlement,理赔结案,insurance-claims,理赔实务
+Full Settlement,全额赔付,insurance-claims,理赔实务
+Partial Settlement,部分赔付,insurance-claims,理赔实务
+Compromise Settlement,协商和解,insurance-claims,理赔实务
+Amicable Settlement,友好结算,insurance-claims,理赔实务
+Claims Paid Amount,已付赔款,insurance-claims,理赔实务
+Outstanding Claims,未决赔款,insurance-claims,理赔实务
+Claims Reserve,赔款准备金,insurance-claims,理赔实务
+Incurred but Not Reported,已发生未报告赔款,insurance-claims,理赔实务
+Loss Ratio,赔付率,insurance-claims,理赔实务
+Claims Frequency,出险频率,insurance-claims,理赔实务
+Amount Claimed,索赔金额,insurance-claims,理赔实务
+Claim Settlement Amount,赔付金额,insurance-claims,理赔实务
+Depreciation Deduction,折旧扣减,insurance-claims,理赔实务
+Replacement Cost,重置成本,insurance-claims,理赔实务
+Open Cover,预约保险合同,insurance-claims,投保实务
+Open Policy,预约保险单,insurance-claims,投保实务
+Floating Policy,流动保险单,insurance-claims,投保实务
+Voyage Policy,航程保险单,insurance-claims,投保实务
+Time Policy,定期保险单,insurance-claims,投保实务
+Valued Policy,定值保险单,insurance-claims,投保实务
+Unvalued Policy,不定值保险单,insurance-claims,投保实务
+Mixed Policy,混合保险单,insurance-claims,投保实务
+Annual Policy,年度保险单,insurance-claims,投保实务
+Blanket Policy,总括保险单,insurance-claims,投保实务
+Insurance Proposal Form,投保单,insurance-claims,投保实务
+Insurance Application,投保申请,insurance-claims,投保实务
+Insurance Policy,保险单,insurance-claims,投保实务
+Insurance Certificate,保险凭证,insurance-claims,投保实务
+Broker's Note,经纪人投保通知,insurance-claims,投保实务
+Insurance Quotation,保险报价,insurance-claims,投保实务
+Premium,保险费,insurance-claims,投保实务
+Premium Rate,保险费率,insurance-claims,投保实务
+Premium Payment,保费缴纳,insurance-claims,投保实务
+Minimum Premium,最低保费,insurance-claims,投保实务
+Adjustable Premium,可调保费,insurance-claims,投保实务
+Declaration Under Open Cover,预约保险申报,insurance-claims,投保实务
+Monthly Declaration,按月申报,insurance-claims,投保实务
+Declaration of Shipment,出运申报,insurance-claims,投保实务
+Insurable Value,保险价值,insurance-claims,投保实务
+Insured Amount,保险金额,insurance-claims,投保实务
+Over-Insurance,超额保险,insurance-claims,投保实务
+Under-Insurance,不足额保险,insurance-claims,投保实务
+Double Insurance,重复保险,insurance-claims,投保实务
+Insurable Interest,保险利益,insurance-claims,投保实务
+Duty of Disclosure,如实告知义务,insurance-claims,投保实务
+Material Fact,重要事实,insurance-claims,投保实务
+Misrepresentation,误述,insurance-claims,投保实务
+Non-Disclosure,未告知,insurance-claims,投保实务
+Insurance Warranty,保险合同保证,insurance-claims,投保实务
+Coverage Confirmation,承保确认,insurance-claims,投保实务
+Underwriting,核保,insurance-claims,投保实务
+Underwriting Decision,核保决定,insurance-claims,投保实务
+Risk Assessment,风险评估,insurance-claims,投保实务
+Risk Survey,风险勘察,insurance-claims,投保实务
+Risk Classification,风险分类,insurance-claims,投保实务
+Special Acceptance,特殊承保,insurance-claims,投保实务
+Declined Risk,拒保风险,insurance-claims,投保实务
+Subject Matter Insured,保险标的,insurance-claims,投保实务
+Insured Cargo Description,承保货物明细,insurance-claims,投保实务
+Rating Basis,定价基础,insurance-claims,投保实务
+Vessel Age Limitation,船龄限制,insurance-claims,投保实务
+Banned Vessel List,禁用船舶名单,insurance-claims,投保实务
+Banned Flag List,禁用船旗名单,insurance-claims,投保实务
+Coverage Effective Date,保险起保日,insurance-claims,投保实务
+Coverage Expiry Date,保险到期日,insurance-claims,投保实务
+Policy Number,保险单号,insurance-claims,投保实务
+Deductible,免赔额,insurance-claims,投保实务
+Insurance Renewal,保险续保,insurance-claims,投保实务
+Cancellation of Policy,保单注销,insurance-claims,投保实务
+Hague Rules,海牙规则,insurance-claims,责任限额
+Hague-Visby Rules,海牙-维斯比规则,insurance-claims,责任限额
+Rotterdam Rules,鹿特丹规则,insurance-claims,责任限额
+Hamburg Rules,汉堡规则,insurance-claims,责任限额
+Package Limitation,件数责任限额,insurance-claims,责任限额
+Weight-Based Limitation,重量责任限额,insurance-claims,责任限额
+Special Drawing Right,特别提款权,insurance-claims,责任限额
+666.67 SDR Per Package,每件666.67特别提款权,insurance-claims,责任限额
+2 SDR Per Kilogram,每公斤2特别提款权,insurance-claims,责任限额
+Higher Limitation by Declaration,申报价值提高限额,insurance-claims,责任限额
+Declared Value,申报价值,insurance-claims,责任限额
+Ad Valorem Declaration,从价申报,insurance-claims,责任限额
+Carriage of Goods by Sea Act,海上货物运输法,insurance-claims,责任限额
+COGSA 1971,英国1971年海上货物运输法,insurance-claims,责任限额
+Multimodal Limitation,多式联运责任限额,insurance-claims,责任限额
+Network Liability System,网状责任制,insurance-claims,责任限额
+Uniform Liability System,统一责任制,insurance-claims,责任限额
+Modified Uniform Liability System,修正统一责任制,insurance-claims,责任限额
+Limitation of Liability for Maritime Claims,海事赔偿责任限制,insurance-claims,责任限额
+Global Limitation,总责任限额,insurance-claims,责任限额
+LLMC Convention,海事赔偿责任限制公约,insurance-claims,责任限额
+Limitation Fund,责任限制基金,insurance-claims,责任限额
+Constitution of Limitation Fund,设立责任限制基金,insurance-claims,责任限额
+Breaking of Limitation,责任限制丧失,insurance-claims,责任限额
+Actual Fault or Privity,实际过失或知情,insurance-claims,责任限额
+Willful Misconduct,故意不当行为,insurance-claims,责任限额
+Reckless Conduct,轻率行为,insurance-claims,责任限额
+Nautical Fault Exemption,航行过失免责,insurance-claims,责任限额
+Fire Exemption,火灾免责,insurance-claims,责任限额
+Perils Exemption,危险免责,insurance-claims,责任限额
+Act of God,天灾,insurance-claims,责任限额
+Force Majeure,不可抗力,insurance-claims,责任限额
+Exemption Clause,免责条款,insurance-claims,责任限额
+Himalaya Clause,喜马拉雅条款,insurance-claims,责任限额
+Paramount Clause,首要条款,insurance-claims,责任限额
+Carrier Identification,承运人识别条款,insurance-claims,责任限额
+Actual Carrier,实际承运人,insurance-claims,责任限额
+Contractual Carrier,契约承运人,insurance-claims,责任限额
+Performing Party,履约方,insurance-claims,责任限额
+Non-Vessel Operating Common Carrier,无船公共承运人,insurance-claims,责任限额
+Freight Forwarder Liability,货运代理责任,insurance-claims,责任限额
+Bailee Liability,受托保管责任,insurance-claims,责任限额
+Warehouse Keeper Liability,仓储保管人责任,insurance-claims,责任限额
+Terminal Operator Liability,码头经营人责任,insurance-claims,责任限额
+Stevedore Liability,装卸工人责任,insurance-claims,责任限额
+Fault of Carrier,承运人过失,insurance-claims,责任限额
+Cargo Care Obligation,货物照管义务,insurance-claims,责任限额
+Reasonable Despatch,合理速遣义务,insurance-claims,责任限额
+Duty to Provide Seaworthy Vessel,适航义务,insurance-claims,责任限额
+Seaworthiness,适航性,insurance-claims,责任限额
+Cargoworthiness,适货性,insurance-claims,责任限额
+Deviation Breach,绕航违约,insurance-claims,责任限额
+Delay in Delivery Liability,迟延交付责任,insurance-claims,责任限额
+Loss of or Damage to Cargo,货物灭失或损坏,insurance-claims,责任限额
+Notice of Loss and Damage,货损通知,insurance-claims,责任限额
+One Year Time Bar,一年诉讼时效,insurance-claims,责任限额
+Two Year Time Bar,两年诉讼时效,insurance-claims,责任限额
+Claim Notice Period,索赔通知期限,insurance-claims,责任限额
+Harter Act,哈特法,insurance-claims,责任限额
+Chinese Maritime Code,中国海商法,insurance-claims,责任限额
+P&I Club,保赔协会,insurance-claims,责任限额
+P&I Insurance,保赔保险,insurance-claims,责任限额
+Protection and Indemnity Cover,保赔险承保范围,insurance-claims,责任限额
+P&I Membership,保赔协会会员资格,insurance-claims,责任限额
+P&I Rule,保赔协会规则,insurance-claims,责任限额
+P&I Cover Note,保赔承保凭证,insurance-claims,责任限额
+Mutual Insurance,互助保险,insurance-claims,责任限额
+Pooling Agreement,联营协议,insurance-claims,责任限额
+International Group of P&I Clubs,国际保赔集团,insurance-claims,责任限额
+Overspill Arrangement,溢额分保安排,insurance-claims,责任限额
+Excess of Loss Reinsurance,超赔分保,insurance-claims,责任限额
+Cargo Contingency Cover,货物或有责任险,insurance-claims,责任限额
+Improper Stowage,积载不当,insurance-claims,责任限额
+Jason Clause,杰森条款,insurance-claims,责任限额
+New Jason Clause,新杰森条款,insurance-claims,责任限额

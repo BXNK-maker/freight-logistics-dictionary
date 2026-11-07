@@ -1,0 +1,551 @@
+﻿term_en,term_zh,category,subcategory
+Advance Filing,提前申报,customs,报关流程
+Pre-arrival Declaration,进境前申报,customs,报关流程
+Preliminary Declaration,预先申报,customs,报关流程
+Summary Declaration,简要申报,customs,报关流程
+Cargo Manifest,货物舱单,customs,报关流程
+Air Waybill Manifest,空运舱单,customs,报关流程
+Sea Manifest,海运舱单,customs,报关流程
+House Manifest,分舱单,customs,报关流程
+Master Air Waybill,航空主运单,customs,报关流程
+House Air Waybill,航空分运单,customs,报关流程
+Manifest Amendment,舱单变更,customs,报关流程
+Unload Declaration,卸货申报,customs,报关流程
+Landing Declaration,落地申报,customs,报关流程
+Import Manifest,进口舱单,customs,报关流程
+Customs Declaration Form,报关单,customs,报关流程
+Export Declaration,出口报关单,customs,报关流程
+Import Declaration,进口报关单,customs,报关流程
+Amended Declaration,修改报关单,customs,报关流程
+Declaration Cancellation,报关单撤销,customs,报关流程
+Customs Broker,报关行,customs,报关流程
+Customs Broker License,报关企业注册登记,customs,报关流程
+Declarant,报关人员,customs,报关流程
+Declaration Units,申报单位,customs,报关流程
+Power of Attorney,代理报关委托书,customs,报关流程
+Customs Broker Responsibility,报关行责任,customs,报关流程
+Reasonable Care,合理注意义务,customs,报关流程
+Self-Declaration,自理报关,customs,报关流程
+Agency Declaration,代理报关,customs,报关流程
+Customs Brokerage Fee,报关服务费,customs,报关流程
+Entry Summary,进口摘要申报,customs,报关流程
+Immediate Transportation,即时运输入关,customs,报关流程
+Immediate Delivery,即时放行,customs,报关流程
+Informal Entry,非正式报关,customs,报关流程
+Formal Entry,正式报关,customs,报关流程
+Split Shipment,分批进出口货物,customs,报关流程
+Consolidated Shipment,汇总报关,customs,报关流程
+Centralized Declaration,集中申报,customs,报关流程
+Green Channel,绿色通道,customs,报关流程
+Fast Lane Clearance,快速通关,customs,报关流程
+Advance Ruling,预先裁定,customs,报关流程
+Pre-classification Ruling,预归类裁定,customs,报关流程
+Customs Inquiry,海关查验,customs,报关流程
+Documentary Check,单证审核,customs,报关流程
+Physical Inspection,开箱查验,customs,报关流程
+Risk-based Selectivity,风险布控查验,customs,报关流程
+Random Inspection,随机查验,customs,报关流程
+Release Note,放行通知书,customs,报关流程
+Customs Release,海关放行,customs,报关流程
+Provisional Release,担保放行,customs,报关流程
+Customs Sealing,海关施封,customs,报关流程
+Customs Escort,海关押运,customs,报关流程
+Customs Supervision,海关监管,customs,报关流程
+Supervision Condition,监管条件,customs,报关流程
+Certificate of Compliance,合规证书,customs,报关流程
+License Document,许可证件,customs,报关流程
+Automatic Import Licensing,自动进口许可,customs,报关流程
+Import License,进口许可证,customs,报关流程
+Export License,出口许可证,customs,报关流程
+Two-step Licensing,两用许可证管理,customs,报关流程
+Certificate of Conformity,符合性证书,customs,报关流程
+Inspection Certificate,检验证书,customs,报关流程
+Quarantine Certificate,检疫证书,customs,报关流程
+Fumigation Certificate,熏蒸证书,customs,报关流程
+Phytosanitary Certificate,植物检疫证书,customs,报关流程
+Veterinary Certificate,兽医卫生证书,customs,报关流程
+Health Certificate,卫生证书,customs,报关流程
+Packing List,装箱单,customs,报关流程
+Commercial Invoice,商业发票,customs,报关流程
+Proforma Invoice,形式发票,customs,报关流程
+Bill of Lading,提单,customs,报关流程
+Sea Waybill,海运单,customs,报关流程
+Air Waybill,航空运单,customs,报关流程
+Cargo Receipt,货物收据,customs,报关流程
+Dock Receipt,码头收据,customs,报关流程
+Empty Container Return,空箱归还申报,customs,报关流程
+Ex-bond Declaration,出仓报关,customs,报关流程
+Certificate of Origin Application,原产地证申领,customs,报关流程
+Certificate of Analysis,成分分析证书,customs,报关流程
+Price Certificate,价格证明,customs,报关流程
+Goods Under Customs Custody,海关监管货物,customs,报关流程
+Transit Goods,转运货物,customs,报关流程
+Through Transport,通运货物,customs,报关流程
+Transshipment Goods,过境货物,customs,报关流程
+Re-export Declaration,复出口申报,customs,报关流程
+Re-import Declaration,复运进境申报,customs,报关流程
+Returns Goods,退运货物,customs,报关流程
+Direct Return,直接退运,customs,报关流程
+Waiver of Inspection,免验申请,customs,报关流程
+Change of Port Declaration,改单申报,customs,报关流程
+Amendment After Release,放行后修改,customs,报关流程
+Post-clearance Audit,稽查,customs,报关流程
+Audit Period,稽查时限,customs,报关流程
+Record Retention,单证保存期限,customs,报关流程
+AEO Re-export Evidence,复出口证明,customs,报关流程
+Inward Processing Declaration,加工贸易申报,customs,报关流程
+Temporary Admission Declaration,暂准进口申报,customs,报关流程
+Carnet Processing,通关册办理,customs,报关流程
+Express Clearance,快件通关,customs,报关流程
+Postal Clearance,邮递物品通关,customs,报关流程
+De Minimis Shipment,微量免税货物,customs,报关流程
+Low-value Declaration,低值申报,customs,报关流程
+Small-value Export Declaration,小额出口申报,customs,报关流程
+Abandoned Goods,放弃货物,customs,报关流程
+Unclaimed Goods,无人认领货物,customs,报关流程
+Auction of Goods,货物变卖,customs,报关流程
+Destruction Application,销毁申请,customs,报关流程
+Entry Number,报关单编号,customs,报关流程
+Declaration Date,申报日期,customs,报关流程
+Acceptance Date,受理日期,customs,报关流程
+Tax Payment Deadline,税款缴纳期限,customs,报关流程
+Overdue Payment,逾期缴纳,customs,报关流程
+Late Fee per Day,滞纳金,customs,报关流程
+Guarantee Letter,保函,customs,报关流程
+Cash Deposit,保证金,customs,报关流程
+General Average Deposit,共同海损保证金,customs,报关流程
+Customs Bond,海关担保,customs,报关流程
+Continuous Bond,连续担保,customs,报关流程
+Single-entry Bond,单次担保,customs,报关流程
+Bond Amount,担保额度,customs,报关流程
+Consular Invoice,领事发票,customs,报关流程
+Customs Invoice,海关发票,customs,报关流程
+Invoice Requirement,发票要求,customs,报关流程
+Description of Goods,货物描述,customs,报关流程
+Quantity Declared,申报数量,customs,报关流程
+Net Weight Declaration,净重申报,customs,报关流程
+Gross Weight Declaration,毛重申报,customs,报关流程
+Measurement Declaration,体积申报,customs,报关流程
+Country of Origin Declaration,原产国申报,customs,报关流程
+Country of Dispatch,发运国,customs,报关流程
+Country of Final Destination,最终目的国,customs,报关流程
+Port of Loading,装货港,customs,报关流程
+Port of Discharge,卸货港,customs,报关流程
+Place of Delivery,交货地,customs,报关流程
+Customs Office of Entry,进境地海关,customs,报关流程
+Customs Office of Exit,出境地海关,customs,报关流程
+Customs District,关区,customs,报关流程
+Clearance Port,报关口岸,customs,报关流程
+Designated Port Declaration,指定口岸申报,customs,报关流程
+Seaport Customs,海港海关,customs,报关流程
+Airport Customs,机场海关,customs,报关流程
+Land Port Customs,陆路口岸海关,customs,报关流程
+Border Crossing Point,边境通道,customs,报关流程
+Single Window Declaration,单一窗口申报,customs,报关流程
+One-stop Clearance,一站式通关,customs,报关流程
+Paperless Clearance,无纸化通关,customs,报关流程
+Electronic Declaration,电子申报,customs,报关流程
+Electronic Data Interchange,电子数据交换,customs,报关流程
+UN/EDIFACT Message,联合国电子报文,customs,报关流程
+CUSCAR Message,舱单报文,customs,报关流程
+CUSDEC Message,报关报文,customs,报关流程
+XML Message Standard,XML报文标准,customs,报关流程
+Digital Signature Filing,数字签名申报,customs,报关流程
+Mobile Declaration,移动端申报,customs,报关流程
+Self-service Terminal,自助终端申报,customs,报关流程
+Annual Declaration,年度申报,customs,报关流程
+Periodic Summary Declaration,定期汇总申报,customs,报关流程
+Batch Filing,批量申报,customs,报关流程
+Entry Type 01,正式进口报关,customs,报关流程
+Supervision Mode Code,监管方式代码,customs,报关流程
+Compensation Trade Declaration,补偿贸易申报,customs,报关流程
+Sample Declaration,样品申报,customs,报关流程
+Advertisement Goods Declaration,广告品申报,customs,报关流程
+Personal Effects Declaration,个人物品申报,customs,报关流程
+Gift Declaration,礼品申报,customs,报关流程
+Repair Goods Declaration,修理物品申报,customs,报关流程
+Lease Goods Declaration,租赁货物申报,customs,报关流程
+Exhibition Goods Declaration,展览品申报,customs,报关流程
+Transit Documentation,过境单证,customs,报关流程
+T1 Document,T1过境单证,customs,报关流程
+T2 Document,T2过境单证,customs,报关流程
+Transit Accompanying Document,过境随附单证,customs,报关流程
+Single Administrative Document,统一行政单证,customs,报关流程
+Accompanying Document,随附单证,customs,报关流程
+Supporting Document,随附单据,customs,报关流程
+Non-preferential Certificate of Origin,非优惠原产地证,customs,报关流程
+Inspection Application,报检,customs,报关流程
+Declaration Elements,申报要素,customs,报关流程
+Standard Declaration Element,规范申报要素,customs,报关流程
+Brand Declaration,品牌申报,customs,报关流程
+Model Declaration,型号申报,customs,报关流程
+Material Declaration,材质申报,customs,报关流程
+Function Declaration,功能申报,customs,报关流程
+Usage Declaration,用途申报,customs,报关流程
+Principle of Good Faith,诚信申报原则,customs,报关流程
+Voluntary Disclosure,主动披露,customs,报关流程
+Prior Voluntary Declaration,先行纠正申报,customs,报关流程
+Corrective Declaration,补充申报,customs,报关流程
+Price Inquiry Declaration,价格质疑申报,customs,报关流程
+Administrative Penalty,行政处罚,customs,报关流程
+Smuggling Case,走私案件,customs,报关流程
+Penalty Decision,处罚决定书,customs,报关流程
+Hearing Application,听证申请,customs,报关流程
+Administrative Reconsideration,行政复议,customs,报关流程
+Administrative Litigation,行政诉讼,customs,报关流程
+HS Code,HS编码,customs,归类规则
+Harmonized System Nomenclature,协调制度目录,customs,归类规则
+HS Section,HS类,customs,归类规则
+HS Chapter,HS章,customs,归类规则
+HS Heading,HS品目,customs,归类规则
+HS Subheading,HS子目,customs,归类规则
+HS Note,HS注释,customs,归类规则
+Chapter Note,章注释,customs,归类规则
+Section Note,类注释,customs,归类规则
+Subheading Note,子目注释,customs,归类规则
+Explanatory Note,解释性注释,customs,归类规则
+HSN Code,协调制度编码,customs,归类规则
+Commodity Classification,商品归类,customs,归类规则
+Customs Tariff Schedule,海关税则目录,customs,归类规则
+Import Tariff Schedule,进口税则,customs,归类规则
+Export Tariff Schedule,出口税则,customs,归类规则
+Statistical Nomenclature,统计目录,customs,归类规则
+Combined Nomenclature,合并目录,customs,归类规则
+TARIC Code,欧盟综合税则编码,customs,归类规则
+Schedule B Number,美国出口统计编码,customs,归类规则
+HTS Number,美国协调税则编码,customs,归类规则
+Harmonized Tariff Schedule,协调税则表,customs,归类规则
+Tariff Heading,税则号列,customs,归类规则
+Tariff Line,税目,customs,归类规则
+National Subheading,本国子目,customs,归类规则
+8-digit Code,八位编码,customs,归类规则
+10-digit Code,十位编码,customs,归类规则
+13-digit Code,十三位编码,customs,归类规则
+Classification General Rule 1,归类总规则一,customs,归类规则
+Classification General Rule 2,归类总规则二,customs,归类规则
+Classification General Rule 3,归类总规则三,customs,归类规则
+Classification General Rule 4,归类总规则四,customs,归类规则
+Classification General Rule 5,归类总规则五,customs,归类规则
+Classification General Rule 6,归类总规则六,customs,归类规则
+Specific Description Priority,具体列名优先,customs,归类规则
+Essential Character,基本特征,customs,归类规则
+Gist of Product,货品实质,customs,归类规则
+Last Heading Priority,最后品目优先,customs,归类规则
+Most Specific Description,最具体描述,customs,归类规则
+Set Classification,成套货品归类,customs,归类规则
+Retail Set,零售成套货品,customs,归类规则
+Composite Goods,复合货品,customs,归类规则
+Mixture Classification,混合物归类,customs,归类规则
+Unassembled Goods,散件货物,customs,归类规则
+Disassembled Goods,拆散件归类,customs,归类规则
+Flat-pack Furniture,板式组装家具,customs,归类规则
+Knocked-down Kit,拆装组件,customs,归类规则
+Composite Packaging Classification,复合包装归类,customs,归类规则
+Packaging Material Classification,包装材料归类,customs,归类规则
+Container Classification,集装箱归类,customs,归类规则
+Reusable Container,可重复使用容器,customs,归类规则
+Spare Parts Classification,备件归类,customs,归类规则
+Parts and Accessories,零部件归类,customs,归类规则
+Machine Parts Heading,机器零件品目,customs,归类规则
+Multi-function Machine,多功能机器归类,customs,归类规则
+Principal Function,主要功能,customs,归类规则
+Functional Unit,功能机组,customs,归类规则
+By-product Classification,副产品归类,customs,归类规则
+Waste and Scrap Classification,废碎料归类,customs,归类规则
+Waste of Chapter,某章废物,customs,归类规则
+Residue Classification,残余物归类,customs,归类规则
+Similar Goods Heading,类似货品品目,customs,归类规则
+Analogous Application,类比适用,customs,归类规则
+Commercial Homogeneity,商业同一性,customs,归类规则
+Binding Tariff Information,约束性税率信息,customs,归类规则
+Binding Ruling Database,裁定数据库,customs,归类规则
+Classification Opinion,归类意见,customs,归类规则
+HS Committee,协调制度委员会,customs,归类规则
+WCO Classification Opinion,海关组织归类意见,customs,归类规则
+HS 2022 Version,HS 2022版本,customs,归类规则
+HS 2028 Version,HS 2028版本,customs,归类规则
+HS Amendment Cycle,税则修订周期,customs,归类规则
+Tariff Recodification,税则重编,customs,归类规则
+Heading Split,品目拆分,customs,归类规则
+Subheading Merge,子目合并,customs,归类规则
+Tariff Correlation Table,税则转换表,customs,归类规则
+Transition of HS Code,HS编码过渡,customs,归类规则
+Duty Rate Change Notification,税率调整公告,customs,归类规则
+Classification Error Correction,归类纠错,customs,归类规则
+Explanatory Note Update,注释更新,customs,归类规则
+Commodity Name Standardization,商品名称规范化,customs,归类规则
+Chemical Classification,化学品归类,customs,归类规则
+Mixture Ratio Classification,混合比例归类,customs,归类规则
+Active Pharmaceutical Ingredient Classification,原料药归类,customs,归类规则
+Textile Classification,纺织品归类,customs,归类规则
+Fabric Composition Classification,织物成分归类,customs,归类规则
+Wearing Apparel Classification,服装归类,customs,归类规则
+Textile Category Number,纺织品类别号,customs,归类规则
+Electronic Product Classification,电子产品归类,customs,归类规则
+Integrated Circuit Classification,集成电路归类,customs,归类规则
+Automotive Parts Classification,汽车零部件归类,customs,归类规则
+Vehicle Classification,车辆归类,customs,归类规则
+Aircraft Classification,航空器归类,customs,归类规则
+Machinery Classification,机械设备归类,customs,归类规则
+Tool Classification,工具归类,customs,归类规则
+Toy Classification,玩具归类,customs,归类规则
+Footwear Classification,鞋类归类,customs,归类规则
+Food Classification,食品归类,customs,归类规则
+Beverage Classification,饮料归类,customs,归类规则
+Tobacco Classification,烟草归类,customs,归类规则
+Mineral Classification,矿产品归类,customs,归类规则
+Plastic Classification,塑料制品归类,customs,归类规则
+Rubber Classification,橡胶制品归类,customs,归类规则
+Paper Classification,纸制品归类,customs,归类规则
+Wood Product Classification,木制品归类,customs,归类规则
+Glass Classification,玻璃制品归类,customs,归类规则
+Precious Stone Classification,宝石归类,customs,归类规则
+Musical Instrument Classification,乐器归类,customs,归类规则
+Optical Instrument Classification,光学仪器归类,customs,归类规则
+Medical Device Classification,医疗器械归类,customs,归类规则
+Chemical Precursor Classification,易制毒化学品归类,customs,归类规则
+Transaction Value Method,成交价格法,customs,估价规则
+Transaction Value,成交价格,customs,估价规则
+Deductive Value Method,扣减价格法,customs,估价规则
+Computed Value Method,计算价格法,customs,估价规则
+Fall-back Method,合理方法,customs,估价规则
+Sequential Application of Methods,估价方法依次适用,customs,估价规则
+Customs Value,完税价格,customs,估价规则
+Dutiable Value,应税价格,customs,估价规则
+FOB Value,离岸价格,customs,估价规则
+CIF Value,到岸价格,customs,估价规则
+CFR Value,成本加运费价,customs,估价规则
+Customs Valuation Agreement,海关估价协定,customs,估价规则
+Valuation Basis,估价基础,customs,估价规则
+Price Actually Paid or Payable,实付应付价格,customs,估价规则
+Payment to Third Party,支付第三方收益,customs,估价规则
+Indirect Payment,间接支付,customs,估价规则
+Direct Payment,直接支付,customs,估价规则
+Free of Charge Goods,免费提供货物,customs,估价规则
+Consignment Goods Valuation,寄售货物估价,customs,估价规则
+Price Adjustment,价格调整,customs,估价规则
+Additions to Price,价格加项,customs,估价规则
+Deductions from Price,价格减项,customs,估价规则
+Selling Commission,销售佣金,customs,估价规则
+Buying Commission,购货佣金,customs,估价规则
+Brokerage Fee,经纪费,customs,估价规则
+Packing Cost,包装费,customs,估价规则
+Assist,协助价值,customs,估价规则
+Materials Supplied Free,免费提供物料,customs,估价规则
+Tooling Charge,模具费,customs,估价规则
+Engineering Value,工程价值,customs,估价规则
+Royalty,特许权使用费,customs,估价规则
+License Fee,许可费,customs,估价规则
+Patent Royalty,专利许可费,customs,估价规则
+Trademark Royalty,商标使用费,customs,估价规则
+Copyright Royalty,著作权使用费,customs,估价规则
+Know-how Payment,技术秘密使用费,customs,估价规则
+Duty on Royalty,特许权费征税,customs,估价规则
+Freight Charge,运费,customs,估价规则
+Insurance Premium,保险费,customs,估价规则
+International Freight,国际运费,customs,估价规则
+Domestic Leg Exclusion,境内段运费扣除,customs,估价规则
+Unloading Charge,卸货费,customs,估价规则
+Loading Charge,装货费,customs,估价规则
+Port Charge,港口费,customs,估价规则
+Airport Charge,机场费,customs,估价规则
+Terminal Handling Charge,码头操作费,customs,估价规则
+Container Charge,集装箱费,customs,估价规则
+Post-arrival Transport Cost,进境后运输费,customs,估价规则
+Transfer Pricing Documentation,转让定价文档,customs,估价规则
+Arm's Length Principle,公平交易原则,customs,估价规则
+Related Party Transaction,特殊关系交易,customs,估价规则
+Test Values,测试价格,customs,估价规则
+Identical Goods,相同货物,customs,估价规则
+Similar Goods,类似货物,customs,估价规则
+Commercially Comparable Goods,商业可比货物,customs,估价规则
+Same Producer,同一生产商,customs,估价规则
+Time of Export Valuation,出口时点估价,customs,估价规则
+Valuation Date,估价日期,customs,估价规则
+Price Review Clause,价格复审条款,customs,估价规则
+Unconditional Acceptance Condition,价格无条件条件,customs,估价规则
+Resale Price Restriction,转售价格限制,customs,估价规则
+Sale in the Condition as Imported,进口状态销售,customs,估价规则
+First Sale for Export,首次销售规则,customs,估价规则
+Goods Not Sold,未售货物估价,customs,估价规则
+Goods for Own Use,自用货物估价,customs,估价规则
+Free Gift Valuation,赠品估价,customs,估价规则
+Sample Valuation,样品估价,customs,估价规则
+Repair Valuation,修理货物估价,customs,估价规则
+Temporary Import Valuation,暂准进口估价,customs,估价规则
+Lease Goods Valuation,租赁货物估价,customs,估价规则
+Cyclical Charge,周期性费用,customs,估价规则
+Software Valuation,软件估价,customs,估价规则
+Data Media Value,数据载体价值,customs,估价规则
+Carrier Medium Rule,载体介质规则,customs,估价规则
+Currency Conversion Rate,货币折算汇率,customs,估价规则
+Valuation Exchange Rate Date,估价汇率日期,customs,估价规则
+Customs Valuation Inquiry,估价质疑,customs,估价规则
+Price Information Database,价格信息库,customs,估价规则
+Reference Price Method,参考价格法,customs,估价规则
+Minimum Price,最低限价,customs,估价规则
+Import Price Monitoring,进口价格监控,customs,估价规则
+Transfer Price Adjustment,转让价格调整,customs,估价规则
+Post-entry Price Adjustment,事后价格调整,customs,估价规则
+Retroactive Duty Assessment,追溯征税,customs,估价规则
+Refund of Overpaid Duty,多征税款退还,customs,估价规则
+Interest on Underpayment,少征税款利息,customs,估价规则
+Ad Valorem Duty,从价税,customs,关税制度
+Specific Duty,从量税,customs,关税制度
+Compound Duty,复合税,customs,关税制度
+Alternative Duty,选择税,customs,关税制度
+Sliding Scale Duty,滑动税,customs,关税制度
+Seasonal Duty,季节税,customs,关税制度
+Quota Tariff,关税配额税率,customs,关税制度
+In-quota Rate,配额内税率,customs,关税制度
+Out-of-quota Rate,配额外税率,customs,关税制度
+Tariff Quota,关税配额,customs,关税制度
+Tariff Rate Quota,关税税率配额,customs,关税制度
+Proviso Rate,暂定税率,customs,关税制度
+Interim Duty,临时税率,customs,关税制度
+Statutory Rate,法定税率,customs,关税制度
+Conventional Rate,协定税率,customs,关税制度
+Preferential Rate,优惠税率,customs,关税制度
+General Rate,普通税率,customs,关税制度
+MFN Rate,最惠国税率,customs,关税制度
+GSP Rate,普惠制税率,customs,关税制度
+Most-favoured-nation Treatment,最惠国待遇,customs,关税制度
+National Treatment,国民待遇,customs,关税制度
+Tariff Binding,关税约束,customs,关税制度
+Bound Rate,约束税率,customs,关税制度
+Applied Rate,实施税率,customs,关税制度
+Tariff Escalation,关税升级,customs,关税制度
+Tariff Peak,关税高峰,customs,关税制度
+Nuisance Tariff,微量关税,customs,关税制度
+Mixed Duty,混合税,customs,关税制度
+Variable Levy,可变税,customs,关税制度
+Countervailing Duty on Subsidized Goods,补贴税,customs,关税制度
+Tariff-rate Quota Administration,关税配额管理,customs,关税制度
+Duty Computation,税款计算,customs,关税制度
+Duty Payable,应纳税款,customs,关税制度
+Customs Duty Payment,关税缴纳,customs,关税制度
+Payment Guarantee Tax,税款担保,customs,关税制度
+Deferred Payment,延期缴纳,customs,关税制度
+Installment Payment,分期纳税,customs,关税制度
+Duty Refund,退税,customs,关税制度
+Duty Drawback,出口退税,customs,关税制度
+Drawback Claim,退税申请,customs,关税制度
+Duty Exemption,免税,customs,关税制度
+Duty Reduction,减税,customs,关税制度
+Tax Exemption List,免税清单,customs,关税制度
+Duty-free Quota Free,免关税免配额,customs,关税制度
+Most-favoured-nation Clause,最惠国条款,customs,关税制度
+Tariff Commutation,税额折算,customs,关税制度
+Import Tax Payment,进口环节税,customs,关税制度
+Value Added Tax at Import,进口增值税,customs,关税制度
+Consumption Tax at Import,进口消费税,customs,关税制度
+Excise Duty,消费税,customs,关税制度
+Anti-dumping Duty,反倾销税,customs,贸易救济
+Anti-dumping Investigation,反倾销调查,customs,贸易救济
+Dumping Margin,倾销幅度,customs,贸易救济
+Dumping Determination,倾销认定,customs,贸易救济
+Normal Value,正常价值,customs,贸易救济
+Export Price,出口价格,customs,贸易救济
+Constructed Normal Value,推定正常价值,customs,贸易救济
+Injury Determination,损害认定,customs,贸易救济
+Material Injury,实质损害,customs,贸易救济
+Threat of Material Injury,实质损害威胁,customs,贸易救济
+Material Retardation,实质阻碍,customs,贸易救济
+Causal Link,因果关系,customs,贸易救济
+Domestic Industry,国内产业,customs,贸易救济
+Standing to Petition,申诉资格,customs,贸易救济
+Petition for Relief,救济申请书,customs,贸易救济
+Preliminary Determination,初裁,customs,贸易救济
+Final Determination,终裁,customs,贸易救济
+Provisional Measure,临时措施,customs,贸易救济
+Provisional Anti-dumping Duty,临时反倾销税,customs,贸易救济
+Definitive Anti-dumping Duty,最终反倾销税,customs,贸易救济
+Retroactive Collection,追溯征收,customs,贸易救济
+Lesser Duty Rule,低税规则,customs,贸易救济
+Undertaking,价格承诺,customs,贸易救济
+Retrospective Dumping Assessment,追溯倾销评估,customs,贸易救济
+New Shipper Review,新出口商复审,customs,贸易救济
+Interim Review,期中复审,customs,贸易救济
+Sunset Review,日落复审,customs,贸易救济
+Changed Circumstances Review,情势变更复审,customs,贸易救济
+Administrative Review,行政复审,customs,贸易救济
+Judicial Review of Trade Remedy,贸易救济司法审查,customs,贸易救济
+Sampling Investigation,抽样调查,customs,贸易救济
+Questionnaire Response,问卷答卷,customs,贸易救济
+On-site Verification,实地核查,customs,贸易救济
+Interested Party,利害关系方,customs,贸易救济
+Non-market Economy,非市场经济国家,customs,贸易救济
+Surrogate Country,替代国,customs,贸易救济
+Particular Market Situation,特殊市场状况,customs,贸易救济
+Countervailing Duty,反补贴税,customs,贸易救济
+Countervailing Investigation,反补贴调查,customs,贸易救济
+Subsidy Investigation,补贴调查,customs,贸易救济
+Specificity of Subsidy,补贴专项性,customs,贸易救济
+Prohibited Subsidy,禁止性补贴,customs,贸易救济
+Actionable Subsidy,可诉补贴,customs,贸易救济
+Non-actionable Subsidy,不可诉补贴,customs,贸易救济
+Export Subsidy,出口补贴,customs,贸易救济
+Local Content Subsidy,当地含量补贴,customs,贸易救济
+Adverse Effects Determination,不利影响认定,customs,贸易救济
+Safeguard Measure,保障措施,customs,贸易救济
+Safeguard Investigation,保障措施调查,customs,贸易救济
+Serious Injury,严重损害,customs,贸易救济
+Adjustment Plan,调整计划,customs,贸易救济
+Tariff-rate Quota Safeguard,保障措施关税配额,customs,贸易救济
+Global Safeguard,全球保障措施,customs,贸易救济
+Bilateral Quota Arrangement,双边配额安排,customs,贸易救济
+Monitoring Measure,监督措施,customs,贸易救济
+Anti-circumvention Investigation,反规避调查,customs,贸易救济
+Circumvention of Anti-dumping Duty,规避反倾销税,customs,贸易救济
+Minor Alteration of Product,产品轻微改变,customs,贸易救济
+Transshipment Circumvention,转口规避,customs,贸易救济
+Third Country Assembly,第三国组装,customs,贸易救济
+Retrospective Collection,追溯计征,customs,贸易救济
+Trade Remedy Compliance,贸易救济合规,customs,贸易救济
+Import Surge,进口激增,customs,贸易救济
+Market Disruption,市场扰乱,customs,贸易救济
+Cross-border E-commerce Comprehensive Service Platform,跨境电商综合服务平台,customs,跨境电商
+E-commerce Customs Clearance,跨境电商通关,customs,跨境电商
+Bonded E-commerce Import,跨境电商保税进口,customs,跨境电商
+Bonded Import Mode,网购保税进口模式,customs,跨境电商
+Direct Purchase Import Mode,直购进口模式,customs,跨境电商
+Cross-border E-commerce Pilot Zone,跨境电商综试区,customs,跨境电商
+Positive List,跨境电商正面清单,customs,跨境电商
+Personal Use Limit,个人自用限值,customs,跨境电商
+Annual Cross-border E-commerce Quota,跨境电商年度额度,customs,跨境电商
+Single Transaction Limit,单次交易限值,customs,跨境电商
+Cross-border E-commerce Retail Import Tax,跨境电商综合税,customs,跨境电商
+Comprehensive Tax Rate,综合税率,customs,跨境电商
+Electronic Waybill,电子运单,customs,跨境电商
+Order Payment Logistics Verification,三单对碰,customs,跨境电商
+Payment Information Push,支付单推送,customs,跨境电商
+Logistics Information Push,物流单推送,customs,跨境电商
+Order Information Push,订单推送,customs,跨境电商
+Cross-border Payment Declaration,跨境支付申报,customs,跨境电商
+Overseas Warehouse Export,海外仓出口,customs,跨境电商
+Return Goods Center,退货中心,customs,跨境电商
+Bonded Return Warehouse,保税退货仓,customs,跨境电商
+Pre-lodged Declaration,预申报,customs,报关流程
+Split Declaration,拆单申报,customs,报关流程
+Consolidated Invoice,合并发票,customs,报关流程
+Insurance Certificate,保险单,customs,报关流程
+Freight Forwarder,货运代理,customs,报关流程
+Notify Party,通知方,customs,报关流程
+Consignee Declaration,收货人申报,customs,报关流程
+Shipper's Export Declaration,出口申报单,customs,报关流程
+Non-vessel Operating Common Carrier,无船承运人,customs,报关流程
+Container Freight Station,集装箱货运站,customs,报关流程
+Container Yard,集装箱堆场,customs,报关流程
+Delivery Order,提货单,customs,报关流程
+Bill of Exchange,汇票,customs,报关流程
+Letter of Credit,信用证,customs,报关流程
+Customs Declaration Agency,报关代理,customs,报关流程
+Inspection Fee,查验费,customs,报关流程
+Sampling Inspection,抽样查验,customs,报关流程
+Container Inspection,箱体查验,customs,报关流程
+X-ray Inspection,机检查验,customs,报关流程
+Inspection Ratio,查验率,customs,报关流程
+Release Priority,优先放行,customs,报关流程
+Internal Compliance Program,内部合规制度,customs,报关流程
+Compliance Officer,合规负责人,customs,报关流程
+Credit Management,企业信用管理,customs,报关流程

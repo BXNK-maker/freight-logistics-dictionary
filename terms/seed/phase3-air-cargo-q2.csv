@@ -1,0 +1,251 @@
+﻿term_en,term_zh,category,subcategory
+Cargo Terminal,货运站,transport,货站设施
+Air Cargo Terminal Operator,机场货站经营人,transport,货站设施
+Cargo Terminal Building,货站大楼,transport,货站设施
+Export Warehouse,出口仓库,transport,货站设施
+Import Warehouse,进口仓库,transport,货站设施
+Bonded Warehouse,保税仓库,transport,货站设施
+Transit Shed,中转仓,transport,货站设施
+Cold Storage,冷库,transport,货站设施
+Dangerous Goods Store,危险品库,transport,货站设施
+Valuable Cargo Vault,贵重物品库,transport,货站设施
+Animal Holding Room,活体动物暂养室,transport,货站设施
+Quarantine Area,检疫隔离区,transport,货站设施
+Airside,空侧,transport,货站设施
+Landside,陆侧,transport,货站设施
+Cargo Apron,货机坪,transport,货站设施
+Apron,停机坪,transport,货站设施
+Aircraft Stand,机位,transport,货站设施
+Parking Stand,停机位,transport,货站设施
+Remote Stand,远机位,transport,货站设施
+Loading Dock,装卸口,transport,货站设施
+Truck Dock,卡车装卸位,transport,货站设施
+Racking,货架存储,transport,货站设施
+Stacking,堆码作业,transport,货站设施
+Weighing Station,称重台,transport,货站设施
+Dimensioning Station,体积测量台,transport,货站设施
+Weighbridge,地磅,transport,货站设施
+Cargo Handover Area,货物交接区,transport,货站设施
+Surveillance System,监控系统,transport,货站设施
+Cargo Booking,货运订舱,transport,订舱收运
+Space Confirmation,舱位确认,transport,订舱收运
+Capacity Allocation,舱位分配,transport,订舱收运
+Overbooking,超售,transport,订舱收运
+Waitlist,候补订舱,transport,订舱收运
+Cargo Cut-off Time,货物截载时间,transport,订舱收运
+Document Cut-off Time,文件截单时间,transport,订舱收运
+Rebooking,改订舱,transport,订舱收运
+Space Request,舱位申请,transport,订舱收运
+Cargo Acceptance,货物收运,transport,订舱收运
+Acceptance Checklist,收运检查单,transport,订舱收运
+Cargo Check-in,货物交运,transport,订舱收运
+Shipper Drop-off,托运人自送,transport,订舱收运
+Pickup Request,揽收申请,transport,订舱收运
+Cargo Handover,货物交接,transport,订舱收运
+Acceptance Stamp,收运章,transport,订舱收运
+Visual Inspection,外观查验,transport,订舱收运
+Marking,货物标记,transport,订舱收运
+Labeling,贴标作业,transport,订舱收运
+Cargo Label,货物标签,transport,订舱收运
+This Way Up Label,向上标签,transport,订舱收运
+Handling Label,操作标签,transport,订舱收运
+Fragile Label,易碎标签,transport,订舱收运
+Weighing,称重作业,transport,订舱收运
+Weight Verification,重量复核,transport,订舱收运
+Dimension Verification,尺寸复核,transport,订舱收运
+Automated Dimensioner,自动体积测量设备,transport,订舱收运
+Rush Shipment,加急货物,transport,订舱收运
+Time-critical Cargo,时效性货物,transport,订舱收运
+Priority Handling,优先处理,transport,订舱收运
+Special Handling,特殊处理,transport,订舱收运
+Pre-alert,预告通知,transport,订舱收运
+Standby Cargo,候补货物,transport,订舱收运
+Rolled Shipment,甩货,transport,订舱收运
+On-carriage,二程运输,transport,订舱收运
+Transfer Cargo,中转货物,transport,订舱收运
+Transshipment Cargo,转运货物,transport,订舱收运
+Transit Cargo,过境货物,transport,订舱收运
+Export Cargo,出口货物,transport,订舱收运
+Import Cargo,进口货物,transport,订舱收运
+Domestic Cargo,国内货物,transport,订舱收运
+Through Cargo,联程货物,transport,订舱收运
+Build-up,组板,transport,组板作业
+Breakdown,拆板,transport,组板作业
+Palletizing,打板,transport,组板作业
+Assembly Service,集货组装服务,transport,组板作业
+Deconsolidation,拆分集拼货,transport,组板作业
+Pre-assembly,预组板,transport,组板作业
+Unitization,集装化,transport,组板作业
+Strapping,捆扎作业,transport,组板作业
+Tie-down,系留固定,transport,组板作业
+Cargo Securing,货物加固,transport,组板作业
+Shoring,垫板加固,transport,组板作业
+Netting,挂网作业,transport,组板作业
+Stretch Wrapping,缠绕膜包装,transport,组板作业
+Repacking,重新包装,transport,组板作业
+Sorting,分拣,transport,组板作业
+Sortation System,自动分拣系统,transport,组板作业
+Cross Docking,越库作业,transport,组板作业
+Build-up Area,组板区,transport,组板作业
+Breakdown Area,拆板区,transport,组板作业
+Heavy Piece Loading,重件装载,transport,组板作业
+Single Piece Cargo,单件货物,transport,组板作业
+Stack Height Limit,堆码限高,transport,组板作业
+Manual Handling,人工搬运,transport,组板作业
+Cargo Inspection,货物查验,transport,组板作业
+Inventory Count,库存盘点,transport,仓储作业
+Discrepancy Report,差异报告,transport,仓储作业
+Cargo Dwell Time,货物滞留时间,transport,仓储作业
+Stackable Cargo,可堆码货物,transport,仓储作业
+Non-stackable Cargo,不可堆压货物,transport,仓储作业
+Pest Control,虫害防治,transport,仓储作业
+Safety Inspection,安全巡检,transport,仓储作业
+Fire Prevention,消防安全,transport,仓储作业
+Smoke Detector,烟感探测器,transport,仓储作业
+Sprinkler System,消防喷淋系统,transport,仓储作业
+Pallet Stacker,堆高车,transport,仓储作业
+Reach Truck,前移式叉车,transport,仓储作业
+Hand Truck,手推车,transport,仓储作业
+Battery Pallet Truck,电动搬运车,transport,仓储作业
+Strapping Machine,捆扎机,transport,仓储作业
+Stretch Pallet Wrapper,缠绕包装机,transport,仓储作业
+Cargo Lift,货梯,transport,仓储作业
+Dock Leveler,登车桥,transport,仓储作业
+Electronic Scale,电子磅秤,transport,仓储作业
+Label Printer,标签打印机,transport,仓储作业
+Handheld Terminal,手持终端,transport,仓储作业
+Handling Manual,操作手册,transport,仓储作业
+Service Level Agreement,服务水平协议,transport,仓储作业
+Ground Handling Agent,地面服务代理,transport,机坪设备
+Ground Support Equipment,地面保障设备,transport,机坪设备
+Forklift,叉车,transport,机坪设备
+Cargo Loader,装载平台车,transport,机坪设备
+High Loader,高位装载车,transport,机坪设备
+Main Deck Loader,主货舱装载机,transport,机坪设备
+Lower Deck Loader,下货舱装载机,transport,机坪设备
+Upper Deck Loader,上舱装载机,transport,机坪设备
+Conveyor Belt Loader,传送带装载机,transport,机坪设备
+Roller Bed,滚床车,transport,机坪设备
+Cargo Transporter,货物转运车,transport,机坪设备
+Scissor Lift,升降平台车,transport,机坪设备
+Pallet Dolly,集装板拖车,transport,机坪设备
+Tow Tractor,拖车头,transport,机坪设备
+Aircraft Tractor,飞机牵引车,transport,机坪设备
+Towbar,牵引杆,transport,机坪设备
+Pushback Tractor,飞机推出车,transport,机坪设备
+Follow-me Vehicle,引导车,transport,机坪设备
+De-icing Truck,除冰车,transport,机坪设备
+Ground Power Unit,地面电源车,transport,机坪设备
+Air Start Unit,气源车,transport,机坪设备
+Ramp Handling,机坪装卸,transport,机坪操作
+Ramp Agent,机坪操作员,transport,机坪操作
+Ramp Supervisor,机坪主管,transport,机坪操作
+Cargo Loading,装机作业,transport,机坪操作
+Cargo Unloading,卸机作业,transport,机坪操作
+Loading Supervision,装卸监督,transport,机坪操作
+Pushback,推出,transport,机坪操作
+Towing,牵引作业,transport,机坪操作
+Marshalling,飞机引导,transport,机坪操作
+Aircraft Turnaround,航班过站,transport,机坪操作
+Ground Time,地面停留时间,transport,机坪操作
+Turnaround Time,过站时间,transport,机坪操作
+Block Time,轮挡时间,transport,机坪操作
+De-icing,除冰作业,transport,机坪操作
+FOD,外来物碎片,transport,机坪操作
+Ramp Safety,机坪安全,transport,机坪操作
+Night Operation,夜间作业,transport,机坪操作
+Shift Handover,交接班,transport,机坪操作
+Stand Allocation,机位分配,transport,机坪操作
+Turnaround Checklist,过站检查单,transport,机坪操作
+Pre-flight Check,航前检查,transport,机坪操作
+Post-flight Check,航后检查,transport,机坪操作
+Load Verification,装载核对,transport,机坪操作
+Flight Schedule,航班时刻表,transport,航班与时刻
+Scheduled Service,定期航班,transport,航班与时刻
+Belly Cargo,腹舱货物,transport,航班与时刻
+Belly Capacity,腹舱运力,transport,航班与时刻
+Freighter Service,全货机航班,transport,航班与时刻
+Extra Flight,加班航班,transport,航班与时刻
+Frequency,班次密度,transport,航班与时刻
+Aircraft Rotation,飞机轮换,transport,航班与时刻
+Slot,起降时刻,transport,航班与时刻
+Slot Coordination,时刻协调,transport,航班与时刻
+Grandfather Rights,时刻历史权利,transport,航班与时刻
+Night Flight,夜航,transport,航班与时刻
+Curfew,机场宵禁,transport,航班与时刻
+Noise Restriction,噪声限制,transport,航班与时刻
+Summer Season,夏秋航季,transport,航班与时刻
+Winter Season,冬春航季,transport,航班与时刻
+ETD,预计起飞时间,transport,航班与时刻
+ETA,预计到达时间,transport,航班与时刻
+ATD,实际起飞时间,transport,航班与时刻
+ATA,实际到达时间,transport,航班与时刻
+STD,计划起飞时间,transport,航班与时刻
+STA,计划到达时间,transport,航班与时刻
+Schedule Delay,航班延误,transport,航班与时刻
+Weather Delay,天气延误,transport,航班与时刻
+Technical Delay,机械故障延误,transport,航班与时刻
+Delay Code,延误代码,transport,航班与时刻
+Cancellation,航班取消,transport,航班与时刻
+Rerouting,改航,transport,航班与时刻
+Diversion,备降,transport,航班与时刻
+Alternate Airport,备降机场,transport,航班与时刻
+On-time Performance,航班准点率,transport,航班与时刻
+Sector,航段,transport,航班与时刻
+Hub Airport,枢纽机场,transport,航班与时刻
+Gateway Airport,门户口岸,transport,航班与时刻
+Hub-and-Spoke,轴辐式网络,transport,航班与时刻
+Line Haul,干线运输,transport,航班与时刻
+Feeder Service,支线运输,transport,航班与时刻
+Payload,商载,transport,航班与时刻
+Range,航程,transport,航班与时刻
+Codeshare Flight,代码共享航班,transport,航班与时刻
+Interline Transfer,联运中转,transport,航班与时刻
+Missed Connection,漏接中转,transport,航班与时刻
+Minimum Connect Time,最短中转时间,transport,航班与时刻
+Peak Season Capacity,旺季运力,transport,航班与时刻
+Capacity Shortage,运力短缺,transport,航班与时刻
+Damage Report,货损报告,transport,不正常运输
+Breakage,破损,transport,不正常运输
+Water Damage,水湿,transport,不正常运输
+Pilferage,偷盗短少,transport,不正常运输
+Shortage,短少,transport,不正常运输
+OS&D Report,溢短残损报告,transport,不正常运输
+Leaking Package,渗漏包装,transport,不正常运输
+Lost Cargo,货物丢失,transport,不正常运输
+Mis-routed Cargo,错运货物,transport,不正常运输
+Mishandling,操作差错,transport,不正常运输
+Contamination,污染,transport,不正常运输
+Reforwarding,改运,transport,不正常运输
+Return to Shipper,退回托运人,transport,不正常运输
+Held Cargo,扣留货物,transport,不正常运输
+Claim Settlement,理赔处理,transport,不正常运输
+Track and Trace,全程追踪,transport,信息与追踪
+Proof of Delivery,签收证明,transport,信息与追踪
+Barcode,条形码,transport,信息与追踪
+Barcode Scanner,条码扫描枪,transport,信息与追踪
+RFID,无线射频识别,transport,信息与追踪
+Warehouse Management System,仓库管理系统,transport,信息与追踪
+Terminal Operating System,货站操作系统,transport,信息与追踪
+Cargo Community System,货运社区系统,transport,信息与追踪
+AOG Cargo,航材紧急件,transport,信息与追踪
+Flight Delay Notice,延误通知,transport,信息与追踪
+Cargo Status Update,货物状态更新,transport,信息与追踪
+Handover Scan,交接扫描,transport,信息与追踪
+Web Tracking,在线追踪,transport,信息与追踪
+Cargo Pickup,货物提取,transport,提取配送
+Warehouse Release,仓库放行,transport,提取配送
+Delivery Route,派送路线,transport,提取配送
+Bonded Transfer,保税转关,transport,提取配送
+Cargo Consolidation Point,集货点,transport,提取配送
+Distribution Center,分拨中心,transport,提取配送
+Interim Storage,临时存放,transport,提取配送
+Pallet Return,托盘回收,transport,提取配送
+Ramp Control,机坪控制中心,transport,机坪操作
+Acceptance Area,收运区,transport,订舱收运
+Customs Supervised Warehouse,海关监管仓,transport,货站设施
+Pallet Truck,托盘车,transport,仓储作业
+Cargo Cage,周转笼,transport,仓储作业
+E-seal,电子关锁,transport,提取配送
+Truck Dock Scheduling,卡车装卸预约,transport,货站设施
+Automated Storage Retrieval System,自动存取系统,transport,仓储作业

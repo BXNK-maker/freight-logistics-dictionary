@@ -1,0 +1,196 @@
+﻿term_en,term_zh,category,subcategory
+Sight Letter of Credit,即期信用证,freight-finance,信用证实务
+Usance Letter of Credit,远期信用证,freight-finance,信用证实务
+Deferred Payment Letter of Credit,延期付款信用证,freight-finance,信用证实务
+Acceptance Letter of Credit,承兑信用证,freight-finance,信用证实务
+Negotiation Letter of Credit,议付信用证,freight-finance,信用证实务
+Confirmed Letter of Credit,保兑信用证,freight-finance,信用证实务
+Unconfirmed Letter of Credit,不保兑信用证,freight-finance,信用证实务
+Revocable Letter of Credit,可撤销信用证,freight-finance,信用证实务
+Irrevocable Letter of Credit,不可撤销信用证,freight-finance,信用证实务
+Standby Letter of Credit,备用信用证,freight-finance,信用证实务
+Transferable Letter of Credit,可转让信用证,freight-finance,信用证实务
+Back-to-Back Letter of Credit,背对背信用证,freight-finance,信用证实务
+Revolving Letter of Credit,循环信用证,freight-finance,信用证实务
+Red Clause Letter of Credit,红条款信用证,freight-finance,信用证实务
+Green Clause Letter of Credit,绿条款信用证,freight-finance,信用证实务
+Packing Letter of Credit,打包信用证,freight-finance,信用证实务
+Local Letter of Credit,本地信用证,freight-finance,信用证实务
+Countervailing Credit,对开信用证,freight-finance,信用证实务
+Reciprocal Letter of Credit,对背信用证,freight-finance,信用证实务
+Anticipatory Credit,预支信用证,freight-finance,信用证实务
+Evergreen Credit,永续信用证,freight-finance,信用证实务
+Advising Bank,通知行,freight-finance,信用证实务
+Issuing Bank,开证行,freight-finance,信用证实务
+Confirming Bank,保兑行,freight-finance,信用证实务
+Nominated Bank,指定银行,freight-finance,信用证实务
+Reimbursing Bank,偿付行,freight-finance,信用证实务
+Transferring Bank,转让行,freight-finance,信用证实务
+Applicant of Credit,信用证申请人,freight-finance,信用证实务
+Beneficiary of Credit,信用证受益人,freight-finance,信用证实务
+Second Beneficiary,第二受益人,freight-finance,信用证实务
+Letter of Credit Amendment,信用证修改,freight-finance,信用证实务
+Letter of Credit Cancellation,信用证撤销,freight-finance,信用证实务
+Letter of Credit Expiry Date,信用证有效期,freight-finance,信用证实务
+Latest Shipment Date,最迟装运期,freight-finance,信用证实务
+Presentation Period,交单期,freight-finance,信用证实务
+Expiry Place,到期地点,freight-finance,信用证实务
+Credit Availability,信用证兑用方式,freight-finance,信用证实务
+Available With,兑用银行,freight-finance,信用证实务
+Available By,兑用方式,freight-finance,信用证实务
+Draft at Sight,即期汇票,freight-finance,信用证实务
+Time Draft,远期汇票,freight-finance,信用证实务
+Usance Draft,远期票据,freight-finance,信用证实务
+Documentary Credit,跟单信用证,freight-finance,信用证实务
+Clean Credit,光票信用证,freight-finance,信用证实务
+Credit Amount Tolerance,金额增减幅度,freight-finance,信用证实务
+Plus or Plus Tolerance,上下浮动允差,freight-finance,信用证实务
+Partial Shipment Allowed,允许分批装运,freight-finance,信用证实务
+Transshipment Allowed,允许转运,freight-finance,信用证实务
+Drawee,付款人,freight-finance,信用证实务
+Drawer,出票人,freight-finance,信用证实务
+Payee,收款人,freight-finance,信用证实务
+Endorser,背书人,freight-finance,信用证实务
+Endorsee,被背书人,freight-finance,信用证实务
+Acceptance of Draft,汇票承兑,freight-finance,信用证实务
+Maturity Date of Draft,汇票到期日,freight-finance,信用证实务
+Days of Usance,远期天数,freight-finance,信用证实务
+Discrepant Documents,不符点单据,freight-finance,信用证实务
+Discrepancy Notice,不符点通知,freight-finance,信用证实务
+Waiver of Discrepancy,不符点放弃,freight-finance,信用证实务
+Discrepancy Fee,不符点费用,freight-finance,信用证实务
+Document Examination Period,审单期限,freight-finance,信用证实务
+Complying Presentation,相符交单,freight-finance,信用证实务
+Soft Clause,软条款,freight-finance,信用证实务
+Inspection Certificate Clause Trap,检验证书软条款,freight-finance,信用证实务
+Applicant Inspects Goods Clause,申请人验货条款,freight-finance,信用证实务
+Letter of Credit Fraud,信用证欺诈,freight-finance,信用证实务
+Fraud Exception,欺诈例外原则,freight-finance,信用证实务
+Autonomy Principle of Credit,信用证独立抽象原则,freight-finance,信用证实务
+Documentary Compliance Standard,单据相符标准,freight-finance,信用证实务
+Letter of Credit Settlement,信用证结算,freight-finance,信用证实务
+Sight Payment Settlement,即期付款交单,freight-finance,信用证实务
+Negotiation Settlement,议付结算,freight-finance,信用证实务
+Acceptance Settlement,承兑结算,freight-finance,信用证实务
+Deferred Payment Settlement,延期付款结算,freight-finance,信用证实务
+Teletransmission of Credit,信用证电开,freight-finance,信用证实务
+SWIFT MT700,SWIFT 开证报文,freight-finance,信用证实务
+SWIFT MT707,SWIFT 信用证修改报文,freight-finance,信用证实务
+SWIFT MT710,SWIFT 通知第三方开证报文,freight-finance,信用证实务
+SWIFT MT754,SWIFT 付款通知报文,freight-finance,信用证实务
+SWIFT MT799,SWIFT 自由格式报文,freight-finance,信用证实务
+SWIFT MT760,SWIFT 保函报文,freight-finance,信用证实务
+Beneficiary Statement,受益人声明,freight-finance,信用证实务
+Bank Certificate,银行证明,freight-finance,信用证实务
+Bank Charges Clause,银行费用条款,freight-finance,信用证实务
+Issuance Fee,开证手续费,freight-finance,信用证实务
+Confirmation Fee,保兑费,freight-finance,信用证实务
+Negotiation Fee,议付费,freight-finance,信用证实务
+Amendment Fee,改证费,freight-finance,信用证实务
+Reimbursement Fee,偿付费,freight-finance,信用证实务
+Documentary Collection,跟单托收,freight-finance,托收业务
+Documents Against Payment,付款交单,freight-finance,托收业务
+Documents Against Acceptance,承兑交单,freight-finance,托收业务
+D/P at Sight,即期付款交单,freight-finance,托收业务
+D/P after Sight,远期付款交单,freight-finance,托收业务
+Clean Collection,光票托收,freight-finance,托收业务
+Direct Collection,直接托收,freight-finance,托收业务
+Collecting Bank,代收行,freight-finance,托收业务
+Remitting Bank,托收行,freight-finance,托收业务
+Presenting Bank,提示行,freight-finance,托收业务
+Principal in Collection,托收委托人,freight-finance,托收业务
+Collection Instruction,托收指示书,freight-finance,托收业务
+Protest for Non-Payment,拒付拒绝证书,freight-finance,托收业务
+Notice of Dishonor,拒付通知,freight-finance,托收业务
+Case of Need,需要时代理,freight-finance,托收业务
+Document Release Condition,放单条件,freight-finance,托收业务
+Trust Receipt,信托收据,freight-finance,托收业务
+Import Bill Advance,进口押汇,freight-finance,托收业务
+Payment Under Reserve,保留追索权付款,freight-finance,托收业务
+Telegraphic Transfer,电汇,freight-finance,结算方式
+Advance Payment,预付货款,freight-finance,结算方式
+Payment Before Shipment,装运前付款,freight-finance,结算方式
+Payment on Delivery,货到付款,freight-finance,结算方式
+Open Account,赊销账户,freight-finance,结算方式
+Open Account Terms,赊销条款,freight-finance,结算方式
+Cash in Advance,预付现金,freight-finance,结算方式
+Cash Against Documents,凭单付款,freight-finance,结算方式
+Cash Against Delivery,货到付款交单,freight-finance,结算方式
+Partial Payment Schedule,分期付款计划,freight-finance,结算方式
+Milestone Payment,里程碑付款,freight-finance,结算方式
+Progress Payment,进度款,freight-finance,结算方式
+Retention Money,质保金,freight-finance,结算方式
+Final Payment,尾款,freight-finance,结算方式
+Balance Payment,余款支付,freight-finance,结算方式
+Deposit Payment,订金支付,freight-finance,结算方式
+Down Payment,首付款,freight-finance,结算方式
+Letter of Guarantee,银行保函,freight-finance,银行保函
+Bid Bond,投标保函,freight-finance,银行保函
+Performance Bond,履约保函,freight-finance,银行保函
+Advance Payment Guarantee,预付款保函,freight-finance,银行保函
+Payment Guarantee,付款保函,freight-finance,银行保函
+Quality Guarantee,质量保函,freight-finance,银行保函
+Retention Money Guarantee,质保金保函,freight-finance,银行保函
+Customs Guarantee,海关税款保函,freight-finance,银行保函
+Shipping Guarantee,提货担保保函,freight-finance,银行保函
+Letter of Indemnity Bank Issued,银行出具赔付函,freight-finance,银行保函
+Counter Guarantee,反担保函,freight-finance,银行保函
+Counter-Indemnity,反赔偿保证,freight-finance,银行保函
+Direct Guarantee,直接保函,freight-finance,银行保函
+Indirect Guarantee,间接保函,freight-finance,银行保函
+Advising of Guarantee,保函通知,freight-finance,银行保函
+Demand Guarantee,见索即付保函,freight-finance,银行保函
+First Demand Guarantee,首次索付保函,freight-finance,银行保函
+On-Demand Payment,即索即付,freight-finance,银行保函
+Expiry of Guarantee,保函失效期,freight-finance,银行保函
+Reduction of Guarantee Amount,保函减额条款,freight-finance,银行保函
+URDG 758 Rules,见索即付保函统一规则,freight-finance,银行保函
+Guarantor Liability,担保人责任,freight-finance,银行保函
+Examination of Demand,索付要求审查,freight-finance,银行保函
+Supporting Statement of Demand,索付声明书,freight-finance,银行保函
+Beneficiary of Guarantee,保函受益人,freight-finance,银行保函
+Principal of Guarantee,保函申请人,freight-finance,银行保函
+Instructing Party,指示方,freight-finance,银行保函
+Surety Bond,担保债券,freight-finance,银行保函
+Performance Security,履约担保,freight-finance,银行保函
+Bank Draft,银行汇票,freight-finance,结算方式
+Promissory Note,本票,freight-finance,结算方式
+Cheque Payment,支票付款,freight-finance,结算方式
+Bounced Cheque,空头支票,freight-finance,结算方式
+Post-Dated Cheque,远期支票,freight-finance,结算方式
+Crossed Cheque,划线支票,freight-finance,结算方式
+Banker Payment Order,银行付款委托书,freight-finance,结算方式
+Documentary Bill,跟单汇票,freight-finance,结算方式
+Clean Bill,光票,freight-finance,结算方式
+Time Bill,远期票据,freight-finance,结算方式
+Sight Bill,即期票据,freight-finance,结算方式
+Trade Acceptance,商业承兑汇票,freight-finance,结算方式
+Banker Acceptance,银行承兑汇票,freight-finance,结算方式
+Commercial Paper,商业票据,freight-finance,结算方式
+Promissory Discounting,本票贴现,freight-finance,结算方式
+Endorsement in Blank,空白背书,freight-finance,结算方式
+Endorsement in Full,记名背书,freight-finance,结算方式
+Restrictive Endorsement,限制性背书,freight-finance,结算方式
+Conditional Endorsement,条件背书,freight-finance,结算方式
+Protest,票据拒付证书,freight-finance,结算方式
+Notice of Protest,拒付通知函,freight-finance,结算方式
+Recourse Against Drawer,对出票人追索,freight-finance,结算方式
+Without Recourse,无追索权,freight-finance,结算方式
+With Recourse,有追索权,freight-finance,结算方式
+Payment Terms Net 30,净 30 天付款条款,freight-finance,结算方式
+Payment Terms Net 60,净 60 天付款条款,freight-finance,结算方式
+Payment Terms Net 90,净 90 天付款条款,freight-finance,结算方式
+2/10 Net 30 Discount,十天二折现条款,freight-finance,结算方式
+Early Payment Discount,提前付款折扣,freight-finance,结算方式
+Late Payment Interest,逾期付款利息,freight-finance,结算方式
+Currency of Settlement,结算货币,freight-finance,结算方式
+Cross-Currency Payment,跨币种支付,freight-finance,结算方式
+Payment Instruction,付款指令,freight-finance,结算方式
+Beneficiary Bank Details,收款行信息,freight-finance,结算方式
+Correspondent Bank,代理行,freight-finance,结算方式
+Intermediary Bank Charges,中间行费用,freight-finance,结算方式
+OUR Charges Instruction,汇款费用全担指令,freight-finance,结算方式
+SHA Charges Instruction,汇款费用分摊指令,freight-finance,结算方式
+BEN Charges Instruction,汇款费用收款方担指令,freight-finance,结算方式
+Payment Reference Number,付款参考号,freight-finance,结算方式
+Remittance Advice,汇款通知单,freight-finance,结算方式

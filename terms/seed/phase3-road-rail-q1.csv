@@ -1,0 +1,268 @@
+﻿term_en,term_zh,category,subcategory
+Tractor Unit,牵引车,transport,公路车辆
+Semi-Trailer,半挂车,transport,公路车辆
+Full Trailer,全挂车,transport,公路车辆
+Box Truck,厢式货车,transport,公路车辆
+Curtainside Trailer,侧帘挂车,transport,公路车辆
+Reefer Trailer,冷藏半挂车,transport,公路车辆
+Insulated Trailer,保温挂车,transport,公路车辆
+Tank Trailer,罐式挂车,transport,公路车辆
+Flatbed Trailer,平板挂车,transport,公路车辆
+Lowboy Trailer,低平板挂车,transport,公路车辆
+Extendable Trailer,可伸缩挂车,transport,公路车辆
+Skeletal Trailer,骨架式集装箱挂车,transport,公路车辆
+Container Chassis,集装箱底盘车,transport,公路车辆
+Tipper Truck,自卸货车,transport,公路车辆
+Stake Truck,栏板货车,transport,公路车辆
+Wing Van,翼开启厢式车,transport,公路车辆
+Refrigerated Truck,冷藏货车,transport,公路车辆
+Insulated Van,保温厢车,transport,公路车辆
+Bulk Cement Truck,散装水泥运输车,transport,公路车辆
+Bulk Powder Truck,散装粉粒物料运输车,transport,公路车辆
+Fuel Tanker Truck,油罐车,transport,公路车辆
+Chemical Tank Truck,化工液体运输车,transport,公路车辆
+Livestock Truck,牲畜运输车,transport,公路车辆
+Car Carrier Trailer,轿运车,transport,公路车辆
+Car Hauler,车辆运输车,transport,公路车辆
+Automobile Transporter,汽车运输车,transport,公路车辆
+Multi-Axle Trailer,多轴线挂车,transport,公路车辆
+Modular Trailer,模块化挂车,transport,公路车辆
+Hydraulic Gooseneck Trailer,液压鹅颈挂车,transport,公路车辆
+Schnabel Trailer,钳夹式挂车,transport,公路车辆
+Semi Lowbed,半低平板挂车,transport,公路车辆
+Dropside Truck,三开栏板货车,transport,公路车辆
+Stake Bed Truck,高栏货车,transport,公路车辆
+Dry Van,干货厢式车,transport,公路车辆
+Swinglift Trailer,摆臂式挂车,transport,公路车辆
+Side Loader Truck,侧面吊运车,transport,公路车辆
+Container Side Lifter,集装箱侧面吊,transport,公路车辆
+Truck Mounted Crane,随车起重机,transport,公路车辆
+Truck Mounted Forklift,车载叉车,transport,公路车辆
+Rigid Truck,刚性卡车,transport,公路车辆
+Articulated Lorry,铰接式货车,transport,公路车辆
+Road Train,公路列车,transport,公路车辆
+B-Double,双挂式列车,transport,公路车辆
+B-Triple,三挂式列车,transport,公路车辆
+Euro Combi,欧洲组合列车,transport,公路车辆
+Tandem Axle,串联式车轴,transport,公路车辆
+Tri-Axle Trailer,三轴挂车,transport,公路车辆
+Tandem Trailer,串联挂车,transport,公路车辆
+Dolly Trailer,转向牵引架,transport,公路车辆
+Turntable Dolly,转盘式拖车架,transport,公路车辆
+Kingpin,牵引销,transport,车辆结构
+Fifth Wheel,鞍座,transport,车辆结构
+Landing Gear,支腿,transport,车辆结构
+Sliding Bogie,滑动式车桥,transport,车辆结构
+Steerable Axle,转向车桥,transport,车辆结构
+Hydraulic Ramp,液压爬梯,transport,车辆结构
+Tail Lift,尾板升降机,transport,车辆结构
+Tailgate Lift,货车尾板,transport,车辆结构
+Roller Bed,滚床,transport,车辆结构
+Load Securing Straps,货物绑扎带,transport,车辆结构
+Lashing Points,系固点,transport,车辆结构
+Side Posts,侧立柱,transport,车辆结构
+Header Board,前挡板,transport,车辆结构
+Bulkhead,隔板,transport,车辆结构
+Floor Anchors,地板固定件,transport,车辆结构
+Tarpaulin Cover,苫布,transport,车辆结构
+Curtain Rails,侧帘导轨,transport,车辆结构
+Air Suspension,空气悬架,transport,车辆结构
+Leaf Spring Suspension,钢板弹簧悬架,transport,车辆结构
+Onboard Weighing System,车载称重系统,transport,车辆结构
+Air Deflector,导流罩,transport,车辆结构
+Reefer Unit,制冷机组,transport,冷藏运输车
+Transport Refrigeration Unit,运输用制冷机组,transport,冷藏运输车
+Diesel Powered Reefer,柴油制冷机组,transport,冷藏运输车
+Electric Standby Reefer,电动备电制冷机组,transport,冷藏运输车
+Cryogenic Reefer,深冷制冷机组,transport,冷藏运输车
+Multi-Temperature Compartment,多温区车厢,transport,冷藏运输车
+Temperature Data Logger,温度记录仪,transport,冷藏运输车
+Trailer Temperature Probe,挂车温度探头,transport,冷藏运输车
+Cold Chain Truck,冷链运输车,transport,冷藏运输车
+Pharma Truck,医药运输车,transport,冷藏运输车
+Validated Trailer,验证合格挂车,transport,冷藏运输车
+Trailer Washout,挂车清洗,transport,冷藏运输车
+Food Grade Trailer,食品级挂车,transport,冷藏运输车
+Live Reefer Monitoring,实时温度监控,transport,冷藏运输车
+Setpoint Verification,温度设定校验,transport,冷藏运输车
+Precooling of Trailer,挂车预冷,transport,冷藏运输车
+Heated Trailer,加热式挂车,transport,冷藏运输车
+Vent Trailer,通风挂车,transport,冷藏运输车
+Tank Cleaning Station,罐箱清洗站,transport,罐式运输
+Food Grade Tanker,食品级罐车,transport,罐式运输
+Bitumen Tanker,沥青运输罐车,transport,罐式运输
+LPG Road Tanker,液化气公路罐车,transport,罐式运输
+Fuel Delivery Truck,燃油配送车,transport,罐式运输
+Vacuum Tanker,真空吸污罐车,transport,罐式运输
+Dry Bulk Tanker,散装干料罐车,transport,罐式运输
+Pneumatic Discharge Trailer,气力卸料挂车,transport,罐式运输
+Silo Trailer,料仓挂车,transport,罐式运输
+Bottom Discharge Trailer,底部卸料挂车,transport,罐式运输
+Rear Tipper Semi-Trailer,后卸式半挂车,transport,自卸与工程
+Three-Way Tipper,三面自卸车,transport,自卸与工程
+U-Type Dump Trailer,U 型自卸挂车,transport,自卸与工程
+End Dump Trailer,尾卸式挂车,transport,自卸与工程
+Side Dump Trailer,侧卸式挂车,transport,自卸与工程
+Bottom Dump Trailer,底卸式挂车,transport,自卸与工程
+Belly Dump Trailer,腹卸式挂车,transport,自卸与工程
+Heavy Haul Truck,重载运输卡车,transport,自卸与工程
+Mining Dump Truck,矿用自卸车,transport,自卸与工程
+Concrete Mixer Truck,混凝土搅拌运输车,transport,自卸与工程
+Water Tanker Truck,洒水车,transport,自卸与工程
+Boom Truck,直臂随车吊,transport,自卸与工程
+Knuckle Boom Crane,折臂随车吊,transport,自卸与工程
+Winch Truck,绞车运输车,transport,自卸与工程
+Pole Trailer,长杆材运输挂车,transport,自卸与工程
+Log Trailer,木材运输挂车,transport,自卸与工程
+Bale Trailer,捆包运输挂车,transport,自卸与工程
+Telescopic Pole Trailer,伸缩式杆材挂车,transport,自卸与工程
+Fleet Management,车队管理,transport,车队管理
+Fleet Utilization,车队利用率,transport,车队管理
+Vehicle Tracking System,车辆跟踪系统,transport,车队管理
+Telematics,车载远程信息处理,transport,车队管理
+Driver Behavior Monitoring,驾驶员行为监控,transport,车队管理
+Harsh Braking Alert,急刹车告警,transport,车队管理
+Speed Governor,限速器,transport,车队管理
+Tachograph,行车记录仪,transport,车队管理
+Digital Tachograph,数字式行车记录仪,transport,车队管理
+Driver Hours Compliance,驾驶时长合规,transport,车队管理
+Hours of Service,服务时段规定,transport,车队管理
+Rest Stop Planning,休息停驶计划,transport,车队管理
+Fuel Card Management,加油卡管理,transport,车队管理
+Fuel Consumption Monitoring,油耗监控,transport,车队管理
+Idle Time Reduction,怠速时间控制,transport,车队管理
+Preventive Maintenance Schedule,预防性维护计划,transport,车队管理
+Vehicle Inspection Checklist,车辆检查清单,transport,车队管理
+Daily Walkaround Check,每日环车检查,transport,车队管理
+Defect Reporting,缺陷报告,transport,车队管理
+Tire Pressure Monitoring,胎压监测,transport,车队管理
+Tire Rotation,轮胎换位,transport,车队管理
+Vehicle Downtime,车辆停机时间,transport,车队管理
+Trailer Pool,挂车池,transport,车队管理
+Trailer Yard Management,挂车场管理,transport,车队管理
+Drop Trailer Program,甩挂运输计划,transport,车队管理
+Drop and Hook,甩挂作业,transport,车队管理
+Trailer Interchange,挂车互换使用,transport,车队管理
+Trailer Interchange Agreement,挂车互换协议,transport,车队管理
+Deadhead Mileage,放空里程,transport,车队管理
+Backhaul Matching,回程配载匹配,transport,车队管理
+Freight Consolidation Center,货运集散中心,transport,整车零担
+Less Than Truckload Terminal,零担货运站,transport,整车零担
+LTL Hub-and-Spoke,零担轴辐式网络,transport,整车零担
+LTL Linehaul,零担干线运输,transport,整车零担
+LTL Pallet Network,零担托盘网络,transport,整车零担
+Volume LTL,大宗零担,transport,整车零担
+Partial Truckload,部分整车,transport,整车零担
+Shared Truckload,拼车整车,transport,整车零担
+Team Driving,双驾驶员轮班,transport,整车零担
+Expedited Trucking,加急公路运输,transport,整车零担
+Hotshot Trucking,紧急小批快运,transport,整车零担
+Dedicated Fleet,专用车队,transport,整车零担
+Dedicated Contract Carriage,专用合同运输,transport,整车零担
+Private Fleet,自有车队,transport,整车零担
+For-Hire Carrier,营业性承运人,transport,整车零担
+Contract Carrier,合同承运人,transport,整车零担
+Common Carrier,公共承运人,transport,整车零担
+Irregular Route Carrier,不固定线路承运人,transport,整车零担
+Regional Carrier,区域承运人,transport,整车零担
+National Carrier,全国性承运人,transport,整车零担
+Asset-Based Carrier,自有资产承运商,transport,整车零担
+Non-Asset-Based Provider,非资产型服务商,transport,整车零担
+Freight Broker,货运经纪,transport,整车零担
+Freight Auction,货运竞拍,transport,整车零担
+Spot Market Rate,即期市场运价,transport,整车零担
+Contract Rate,合同运价,transport,整车零担
+Lane Commitment,线路运量承诺,transport,整车零担
+Minimum Charge,最低收费,transport,整车零担
+Mileage-Based Rate,按里程计费,transport,整车零担
+Weight-Based Rate,按重量计费,transport,整车零担
+Per Pallet Rate,按托盘计费,transport,整车零担
+Detention Charge,滞留费,transport,整车零担
+Layover Charge,过夜费,transport,整车零担
+Stop-off Charge,多点停靠费,transport,整车零担
+Driver Assist Load,需司机协助装卸货物,transport,整车零担
+Live Unload,现场卸货,transport,整车零担
+Drop Yard,甩挂堆场,transport,整车零担
+Appointment Scheduling,预约排班,transport,整车零担
+Load Tender,货运招标,transport,整车零担
+Tender Acceptance,接受委托,transport,整车零担
+Tender Rejection,拒绝委托,transport,整车零担
+Capacity Commitment,运力承诺,transport,整车零担
+Linehaul Network Design,干线网络设计,transport,专线联盟
+Cross-Dock Terminal,越库中转站,transport,专线联盟
+Relay Terminal,接力中转站,transport,专线联盟
+Breakbulk Terminal,拆零中转站,transport,专线联盟
+Freight Forwarding Network,货代网络,transport,专线联盟
+Exclusive Line,专属专线,transport,专线联盟
+Timed Delivery Service,定时达服务,transport,专线联盟
+Next Day Delivery,次日达,transport,专线联盟
+Same Day Delivery,当日达,transport,专线联盟
+Economy Freight Service,经济型货运服务,transport,专线联盟
+Premium Freight Service,高端加急货运,transport,专线联盟
+White Glove Delivery,高端送货上门,transport,专线联盟
+Room of Choice Delivery,送位上门,transport,专线联盟
+Two-Person Delivery,双人配送,transport,专线联盟
+Assembly Service,安装配送服务,transport,专线联盟
+Reverse Logistics Pickup,退货取件,transport,专线联盟
+Palletized Freight,托盘化货物,transport,专线联盟
+Floor Loaded Freight,散装落地货,transport,专线联盟
+Loose Load,散件装载,transport,专线联盟
+Mixed Pallet,混装托盘,transport,专线联盟
+Double Stacked Pallets,双层堆叠托盘,transport,专线联盟
+Freight Class,货物等级,transport,专线联盟
+Density-Based Pricing,按密度计价,transport,专线联盟
+Dimensional Weight for LTL,零担体积重量,transport,专线联盟
+Carrier Liability Limits,承运人责任限额,transport,专线联盟
+Declared Value Coverage,申报价值保障,transport,专线联盟
+Cargo Liability Insurance,货物责任保险,transport,专线联盟
+Driver Recruitment,司机招聘,transport,司机管理
+Driver Retention,司机留存,transport,司机管理
+Driver Shortage,司机短缺,transport,司机管理
+Owner-Operator,个体车主,transport,司机管理
+Small Fleet Operator,小型车队经营者,transport,司机管理
+Driver Pay Per Mile,按里程司机薪酬,transport,司机管理
+Driver Pay Percentage,按流水比例司机薪酬,transport,司机管理
+Detention Pay,滞留补贴,transport,司机管理
+Layover Pay,过夜补贴,transport,司机管理
+Stop-off Pay,多点停靠补贴,transport,司机管理
+Tarp Pay,苫盖补贴,transport,司机管理
+Driver Training Program,驾驶员培训计划,transport,司机管理
+Defensive Driving Course,防御性驾驶课程,transport,司机管理
+Fatigue Management,疲劳管理,transport,司机管理
+Electronic Logging Device,电子日志设备,transport,司机管理
+Driver Identification,驾驶员身份识别,transport,司机管理
+Subcontracted Driver,分包驾驶员,transport,司机管理
+Owner Driver,自营司机,transport,司机管理
+Driver Visa Compliance,司机签证合规,transport,司机管理
+Driver Medical Examination,驾驶员体检,transport,司机管理
+License Category Compliance,驾照类别合规,transport,司机管理
+Dangerous Goods Driver License,危险品驾驶员资格证,transport,司机管理
+ADR Driver Certificate,ADR 驾驶员证书,transport,司机管理
+Driver App,司机端应用,transport,司机管理
+Load Board,货源信息板,transport,司机管理
+Dispatch Board,调度看板,transport,司机管理
+Dispatcher,调度员,transport,司机管理
+Route Assignment,线路指派,transport,司机管理
+Trip Planning,行程规划,transport,司机管理
+Trip Permit,行程许可,transport,司机管理
+Fuel Stop Optimization,加油点优化,transport,司机管理
+Weigh Station Bypass,跳过地磅站点,transport,司机管理
+Weigh Station,公路地磅检查站,transport,司机管理
+Highway Patrol Inspection,公路巡检,transport,司机管理
+Roadside Inspection,路边检查,transport,司机管理
+Out-of-Service Order,停运指令,transport,司机管理
+CSA Score,承运人安全评分,transport,司机管理
+Safety Rating,安全评级,transport,司机管理
+Accident Register,事故登记,transport,司机管理
+Incident Reporting,事故报告,transport,司机管理
+Dash Camera,行车摄像头,transport,司机管理
+Inward Facing Camera,车内朝向摄像头,transport,司机管理
+Collision Avoidance System,碰撞预警系统,transport,司机管理
+Lane Departure Warning,车道偏离预警,transport,司机管理
+Blind Spot Monitoring,盲区监测,transport,司机管理
+Roll Stability Control,侧翻稳定控制,transport,司机管理
+Electronic Stability Control,电子稳定控制,transport,司机管理
+Anti-Lock Braking System,防抱死制动系统,transport,司机管理
+Automatic Emergency Braking,自动紧急制动,transport,司机管理
+Adaptive Cruise Control,自适应巡航,transport,司机管理
+Driver Assistance System,驾驶辅助系统,transport,司机管理

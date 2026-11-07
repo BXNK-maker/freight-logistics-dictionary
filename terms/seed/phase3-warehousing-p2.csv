@@ -1,0 +1,551 @@
+﻿term_en,term_zh,category,subcategory
+Receiving Process,收货流程,warehousing,入库作业
+Advance Shipping Notice,到货预告,warehousing,入库作业
+Booking Appointment,预约到货,warehousing,入库作业
+Dock Appointment Scheduling,月台预约,warehousing,入库作业
+Trailer Check-In,车辆登记,warehousing,入库作业
+Seal Check,铅封检查,warehousing,入库作业
+Unload Verification,卸货核对,warehousing,入库作业
+Receiving Log,收货日志,warehousing,入库作业
+Blind Receiving,盲收,warehousing,入库作业
+Scan-Based Receiving,扫码收货,warehousing,入库作业
+Pallet Receiving,整托收货,warehousing,入库作业
+Case Receiving,整箱收货,warehousing,入库作业
+Each Receiving,单件收货,warehousing,入库作业
+Cross-Docking,越库作业,warehousing,入库作业
+Opportunistic Cross-Dock,机会越库,warehousing,入库作业
+Direct Putaway,直入上架,warehousing,入库作业
+Incoming Quality Inspection,来料质检,warehousing,入库作业
+Sampling Inspection,抽检,warehousing,入库作业
+Supplier Compliance,供应商合规,warehousing,入库作业
+ASN Matching,预约单匹配,warehousing,入库作业
+Purchase Order Receiving,采购订单收货,warehousing,入库作业
+Over Receipt,超收,warehousing,入库作业
+Short Receipt,短收,warehousing,入库作业
+Damage Recording,破损记录,warehousing,入库作业
+GRN,收货单,warehousing,入库作业
+Goods Receipt,收货确认,warehousing,入库作业
+Receiving Tolerance,收货容差,warehousing,入库作业
+Mixed Pallet Receiving,混托收货,warehousing,入库作业
+Receiving Lane,收货道口,warehousing,入库作业
+Putaway Preparation,上架准备,warehousing,入库作业
+Putaway Strategy,上架策略,warehousing,上架策略
+Directed Putaway,定向上架,warehousing,上架策略
+System-Directed Putaway,系统引导上架,warehousing,上架策略
+Interleaving,交叉作业,warehousing,上架策略
+Task Interleaving,任务交叉,warehousing,上架策略
+Random Location Storage,随机储位存储,warehousing,上架策略
+Dedicated Storage,固定储位存储,warehousing,上架策略
+Shared Storage,共享储位存储,warehousing,上架策略
+Class-Based Storage,分类存储,warehousing,上架策略
+ABC Storage Assignment,ABC储位分配,warehousing,上架策略
+Velocity-Based Slotting,流转速度定位,warehousing,上架策略
+Slotting Optimization,储位优化,warehousing,上架策略
+Slotting Analysis,储位分析,warehousing,上架策略
+Family Grouping,同族分组存储,warehousing,上架策略
+Popularity Storage,流行度存储,warehousing,上架策略
+Cube per Order Index,体积订单指数,warehousing,上架策略
+Closest Open Location,最近空储位,warehousing,上架策略
+Zone Storage,分区存储,warehousing,上架策略
+Seasonal Slotting,季节性储位调整,warehousing,上架策略
+Re-Slotting,储位重整,warehousing,上架策略
+Golden Zone Slotting,黄金区上架,warehousing,上架策略
+Weight-Based Slotting,按重量定位,warehousing,上架策略
+Hazmat Segregation,危化品隔离存储,warehousing,上架策略
+Lot-Controlled Putaway,批次控制上架,warehousing,上架策略
+Mixed SKU Storage,混品存储,warehousing,上架策略
+Pick Density Mapping,拣选密度图,warehousing,上架策略
+Cube Utilization,空间利用率,warehousing,上架策略
+Location Capacity Check,储位容量校验,warehousing,上架策略
+Wave Planning,波次计划,warehousing,波次计划
+Wave Picking,波次拣选,warehousing,波次计划
+Wave Release,波次释放,warehousing,波次计划
+Wave Template,波次模板,warehousing,波次计划
+Wave Optimization,波次优化,warehousing,波次计划
+Batch Picking,批量拣选,warehousing,波次计划
+Order Batching,订单分批,warehousing,波次计划
+Batching Algorithm,分批算法,warehousing,波次计划
+Carrier Cutoff,承运商截单,warehousing,波次计划
+Cutoff Time,截单时间,warehousing,波次计划
+Wave Cutoff,波次截单,warehousing,波次计划
+Order Pooling,订单合池,warehousing,波次计划
+Order Grouping,订单分组,warehousing,波次计划
+Cluster Picking,集群拣选,warehousing,波次计划
+Cluster Cart,集群拣选车,warehousing,波次计划
+Single-Order Picking,单订单拣选,warehousing,波次计划
+Zone Picking,分区拣选,warehousing,波次计划
+Sequential Picking,顺序拣选,warehousing,波次计划
+Simultaneous Picking,同时拣选,warehousing,波次计划
+Priority Wave,优先波次,warehousing,波次计划
+Backorder Wave,缺货波次,warehousing,波次计划
+Dynamic Wave,动态波次,warehousing,波次计划
+Wave Balancing,波次均衡,warehousing,波次计划
+Order Release,订单释放,warehousing,波次计划
+Order Picking,订单拣选,warehousing,拣选作业
+Piece Picking,单件拣选,warehousing,拣选作业
+Each Picking,拆零拣选,warehousing,拣选作业
+Case Picking,整箱拣选,warehousing,拣选作业
+Layer Picking,整层拣选,warehousing,拣选作业
+Full Pallet Picking,整托拣选,warehousing,拣选作业
+Broken Case Picking,零箱拣选,warehousing,拣选作业
+Split Case Picking,拆箱拣选,warehousing,拣选作业
+Multi-Order Picking,多订单拣选,warehousing,拣选作业
+Multi-Order Consolidation,多单合并,warehousing,拣选作业
+Batch-and-Sequence,先批后分,warehousing,拣选作业
+Pick and Pass,接力拣选,warehousing,拣选作业
+Pick and Pass Zone,接力拣选分区,warehousing,拣选作业
+Discrete Picking,单一拣选,warehousing,拣选作业
+Carousel Picking,回转货架拣选,warehousing,拣选作业
+Voice Picking,语音拣选,warehousing,拣选作业
+Voice-Directed Warehousing,语音引导作业,warehousing,拣选作业
+Pick-to-Light,拣选亮灯,warehousing,拣选作业
+Put-to-Light,集货亮灯,warehousing,拣选作业
+Pick-by-Light,电子标签拣选技术,warehousing,拣选作业
+Pick-by-Vision,视觉拣选,warehousing,拣选作业
+AR Picking,增强现实拣选,warehousing,拣选作业
+Smart Glasses Picking,智能眼镜拣选,warehousing,拣选作业
+Mobile Picking App,移动拣选应用,warehousing,拣选作业
+RF Picking,射频拣选,warehousing,拣选作业
+Scan Picking,扫码拣选,warehousing,拣选作业
+Paper Pick List,纸质拣货单,warehousing,拣选作业
+Pick List,拣货单,warehousing,拣选作业
+Pick Ticket,拣货票,warehousing,拣选作业
+Pick Path,拣选路径,warehousing,拣选作业
+Pick Route Optimization,拣选路径优化,warehousing,拣选作业
+Serpentine Picking,蛇形拣选,warehousing,拣选作业
+Traversal Picking,遍历式拣选,warehousing,拣选作业
+Best-Route Picking,最优路径拣选,warehousing,拣选作业
+Pick Sequence,拣选顺序,warehousing,拣选作业
+Pick Density,拣选密度,warehousing,拣选作业
+Picking Productivity,拣选效率,warehousing,拣选作业
+Lines Picked per Hour,小时拣货行数,warehousing,拣选作业
+Units per Hour,小时处理件数,warehousing,拣选作业
+Pick Error Rate,拣选差错率,warehousing,拣选作业
+Pick Verification,拣选复核,warehousing,拣选作业
+Picking Accuracy,拣选准确率,warehousing,拣选作业
+Short Pick,短拣,warehousing,拣选作业
+Mis-Pick,错拣,warehousing,拣选作业
+Pick Confirmation,拣选确认,warehousing,拣选作业
+Batch Cart Picking,批量车拣选,warehousing,拣选作业
+Multi-Tier Pick,多层拣选,warehousing,拣选作业
+Goods-to-Person Picking,货到人拣选,warehousing,拣选作业
+Robotic Picking,机器人拣选,warehousing,拣选作业
+Automated Piece Picking,自动拆零拣选,warehousing,拣选作业
+Replenishment,补货,warehousing,补货作业
+Forward Pick Replenishment,前拣区补货,warehousing,补货作业
+Min-Max Replenishment,上下限补货,warehousing,补货作业
+Reorder Point Replenishment,订货点补货,warehousing,补货作业
+Demand-Driven Replenishment,需求驱动补货,warehousing,补货作业
+Opportunistic Replenishment,机会补货,warehousing,补货作业
+Emergency Replenishment,紧急补货,warehousing,补货作业
+Interleaved Replenishment,交叉补货,warehousing,补货作业
+Let-Down Replenishment,降位补货,warehousing,补货作业
+Pick Face Check,拣货面检查,warehousing,补货作业
+Replenishment Threshold,补货阈值,warehousing,补货作业
+Replenishment Trigger,补货触发,warehousing,补货作业
+Auto Replenishment,自动补货,warehousing,补货作业
+Manual Replenishment,人工补货,warehousing,补货作业
+Replenishment Task,补货任务,warehousing,补货作业
+Replenishment Priority,补货优先级,warehousing,补货作业
+Concurrent Replenishment,同步补货,warehousing,补货作业
+Advance Replenishment,预先补货,warehousing,补货作业
+Wave Replenishment,波次补货,warehousing,补货作业
+Reserve-to-Forward Movement,储备转前拣,warehousing,补货作业
+Empty Pick Face Alert,空拣货面告警,warehousing,补货作业
+Replenishment Efficiency,补货效率,warehousing,补货作业
+Top-Up Replenishment,补充式补货,warehousing,补货作业
+Replenishment Cycle,补货周期,warehousing,补货作业
+Order Packing,订单装箱,warehousing,包装作业
+Pack and Hold,包装暂存,warehousing,包装作业
+Pack Station,包装台,warehousing,包装作业
+Packing Workbench,打包工作台,warehousing,包装作业
+Carton Selection,选箱,warehousing,包装作业
+Right-Size Boxing,适配装箱,warehousing,包装作业
+Cartonization,装箱优化,warehousing,包装作业
+Cartonization Algorithm,装箱算法,warehousing,包装作业
+3D Bin Packing,三维装箱,warehousing,包装作业
+Volume Utilization,体积利用率,warehousing,包装作业
+Void Fill,空隙填充,warehousing,包装作业
+Cushioning,缓冲包装,warehousing,包装作业
+Bubble Wrap,气泡膜,warehousing,包装作业
+Foam Insert,泡沫内衬,warehousing,包装作业
+Air Pillow,气枕,warehousing,包装作业
+Paper Cushioning,纸质缓冲,warehousing,包装作业
+Shredded Paper,碎纸填充,warehousing,包装作业
+Packaging Material,包装材料,warehousing,包装作业
+Corrugated Box,瓦楞纸箱,warehousing,包装作业
+Corrugated Cardboard,瓦楞纸板,warehousing,包装作业
+Flute Type,瓦楞楞型,warehousing,包装作业
+Double-Wall Carton,双瓦楞纸箱,warehousing,包装作业
+Poly Mailer,塑料快递袋,warehousing,包装作业
+Padded Mailer,气泡信封袋,warehousing,包装作业
+Tamper-Proof Packaging,防拆包装,warehousing,包装作业
+Palletizing Pattern,码盘方式,warehousing,包装作业
+Pallet Pattern,码盘图,warehousing,包装作业
+Unit Load Formation,单元载荷组配,warehousing,包装作业
+Load Stability,堆码稳定性,warehousing,包装作业
+Stacking Pattern,堆码方式,warehousing,包装作业
+Column Stacking,对列堆码,warehousing,包装作业
+Interlocked Stacking,交错堆码,warehousing,包装作业
+Strapping,捆扎带,warehousing,包装作业
+Steel Strapping,钢捆扎带,warehousing,包装作业
+Polypropylene Strapping,PP打包带,warehousing,包装作业
+Strapping Machine,打包机,warehousing,包装作业
+Label Placement,标签粘贴位,warehousing,包装作业
+Packing Slip,装箱单,warehousing,包装作业
+Order Verification,订单复核,warehousing,质量复核
+Pack Verification,包装复核,warehousing,质量复核
+Shipment Audit,发运审核,warehousing,质量复核
+Photo Documentation,拍照留证,warehousing,质量复核
+Weight Verification,重量复核,warehousing,质量复核
+Dimension Verification,尺寸复核,warehousing,质量复核
+Barcode Verification,条码复核,warehousing,质量复核
+Content Verification,内容清点,warehousing,质量复核
+Error Proofing,防错,warehousing,质量复核
+Mistake Proofing,防呆,warehousing,质量复核
+Poka-Yoke,防错设计,warehousing,质量复核
+Double Check Station,双重复核台,warehousing,质量复核
+Random Audit,随机抽检,warehousing,质量复核
+Outbound Quality Check,出库质检,warehousing,质量复核
+Seal Verification,封签复核,warehousing,质量复核
+Order Accuracy Audit,订单准确率审核,warehousing,质量复核
+Compliance Check,合规检查,warehousing,质量复核
+Shipping Label Check,面单核对,warehousing,质量复核
+Packing Compliance,包装合规,warehousing,质量复核
+Final Inspection,终检,warehousing,质量复核
+Outbound Process,出库流程,warehousing,发货作业
+Shipment Release,发运释放,warehousing,发货作业
+Shipment Confirmation,发货确认,warehousing,发货作业
+Manifest,舱单,warehousing,发货作业
+Shipping Manifest,发货清单,warehousing,发货作业
+Load Planning,装车计划,warehousing,发货作业
+Load Building,装载组车,warehousing,发货作业
+Trailer Loading,装车作业,warehousing,发货作业
+Trailer Unloading,卸车作业,warehousing,发货作业
+Load Sequencing,装车顺序,warehousing,发货作业
+Floor Loading,散装装载,warehousing,发货作业
+Pallet Loading,托盘装载,warehousing,发货作业
+Load Optimization,装载优化,warehousing,发货作业
+Cube Optimization,车厢空间优化,warehousing,发货作业
+Weight Distribution,配重分布,warehousing,发货作业
+Axle Weight Compliance,轴重合规,warehousing,发货作业
+Load Securement,货物固定,warehousing,发货作业
+Load Lock Bar,封车杆,warehousing,发货作业
+Cargo Bar,货物支撑杆,warehousing,发货作业
+Trailer Seal,挂车铅封,warehousing,发货作业
+Bill of Lading,提单,warehousing,发货作业
+Shipping Label,面单,warehousing,发货作业
+Dock Door Assignment,月台门分配,warehousing,发货作业
+Outbound Staging,出库暂存,warehousing,发货作业
+Trailer Utilization,挂车装载率,warehousing,发货作业
+Shipment Consolidation,货件合并,warehousing,发货作业
+Inventory Control,库存控制,warehousing,库存控制
+Inventory Management,库存管理,warehousing,库存控制
+Safety Stock,安全库存,warehousing,库存控制
+Reorder Point,再订货点,warehousing,库存控制
+Economic Order Quantity,经济订货批量,warehousing,库存控制
+Min-Max Inventory,高低限库存,warehousing,库存控制
+Max Stock Level,最高库存,warehousing,库存控制
+Min Stock Level,最低库存,warehousing,库存控制
+Dead Stock,呆滞库存,warehousing,库存控制
+Slow-Moving Inventory,慢动库存,warehousing,库存控制
+Aged Inventory,库龄库存,warehousing,库存控制
+Aging Analysis,库龄分析,warehousing,库存控制
+Shelf Life,保质期,warehousing,库存控制
+Expiry Date Management,效期管理,warehousing,库存控制
+FEFO,先到期先出,warehousing,库存控制
+LIFO,后进先出,warehousing,库存控制
+Just-in-Time Inventory,准时制库存,warehousing,库存控制
+Vendor-Managed Inventory,供应商管理库存,warehousing,库存控制
+Consignment Inventory,寄售库存,warehousing,库存控制
+In-Transit Inventory,在途库存,warehousing,库存控制
+Pipeline Inventory,管道库存,warehousing,库存控制
+Cycle Stock,周转库存,warehousing,库存控制
+Buffer Stock,缓冲库存,warehousing,库存控制
+Anticipation Stock,预期储备库存,warehousing,库存控制
+Decoupling Stock,解耦库存,warehousing,库存控制
+Inventory Turnover,库存周转率,warehousing,库存控制
+Days on Hand,库存天数,warehousing,库存控制
+Weeks of Supply,供应周数,warehousing,库存控制
+Stockout,缺货,warehousing,库存控制
+Overstock,超储,warehousing,库存控制
+Inventory Carrying Cost,库存持有成本,warehousing,库存控制
+Inventory Shrinkage,库存损耗,warehousing,库存控制
+Cycle Counting,循环盘点,warehousing,盘点方法
+ABC Cycle Counting,ABC循环盘点,warehousing,盘点方法
+Count Frequency,盘点频率,warehousing,盘点方法
+Perpetual Inventory,永续盘点,warehousing,盘点方法
+Blind Count,盲盘,warehousing,盘点方法
+Double Blind Count,双盲盘点,warehousing,盘点方法
+Partial Count,部分盘点,warehousing,盘点方法
+Full Physical Inventory,期末全面盘点,warehousing,盘点方法
+Annual Physical Inventory,年度盘点,warehousing,盘点方法
+Spot Check,抽盘,warehousing,盘点方法
+Sample Count,抽样盘点,warehousing,盘点方法
+Dynamic Counting,动态盘点,warehousing,盘点方法
+Real-Time Counting,实时盘点,warehousing,盘点方法
+RF Counting,射频盘点,warehousing,盘点方法
+Drone Inventory Counting,无人机盘点,warehousing,盘点方法
+Robotic Counting,机器人盘点,warehousing,盘点方法
+Inventory Reconciliation,库存对账,warehousing,盘点方法
+System Quantity,系统库存,warehousing,盘点方法
+Physical Quantity,实物库存,warehousing,盘点方法
+Count Adjustment,盘点调整,warehousing,盘点方法
+Variance Report,差异报告,warehousing,盘点方法
+Discrepancy Investigation,差异调查,warehousing,盘点方法
+Recount,复盘,warehousing,盘点方法
+Count Tolerance,盘点容差,warehousing,盘点方法
+Inventory Freeze,库存冻结,warehousing,盘点方法
+Snapshot Count,快照盘点,warehousing,盘点方法
+Location Count,储位盘点,warehousing,盘点方法
+SKU-Level Count,SKU级盘点,warehousing,盘点方法
+Inventory Record Accuracy,库存记录准确率,warehousing,盘点指标
+Inventory Accuracy,库存准确率,warehousing,盘点指标
+Count Accuracy,盘点准确率,warehousing,盘点指标
+Shrinkage Rate,损耗率,warehousing,盘点指标
+Variance Rate,差异率,warehousing,盘点指标
+Cycle Count Completion,循环盘点完成率,warehousing,盘点指标
+Count Variance Value,盘点差异金额,warehousing,盘点指标
+Overage,盘盈,warehousing,盘点指标
+Shortage,盘亏,warehousing,盘点指标
+Book-to-Physical Variance,账实差异,warehousing,盘点指标
+Negative Stock,负库存,warehousing,盘点指标
+Stock Balance,库存结存,warehousing,盘点指标
+Inventory Valuation,库存估值,warehousing,盘点指标
+Lot Balance,批次结存,warehousing,盘点指标
+Age Buckets,库龄区间,warehousing,盘点指标
+Stock Adjustment Approval,库存调整审批,warehousing,盘点指标
+Return Authorization,退货授权,warehousing,退货处理
+RMA Process,退货流程,warehousing,退货处理
+RMA Number,退货单号,warehousing,退货处理
+Return Policy,退货政策,warehousing,退货处理
+Returnless Refund,仅退款不退货,warehousing,退货处理
+Return Pickup,退货上门取件,warehousing,退货处理
+Return Shipping Label,退货面单,warehousing,退货处理
+Return Drop-Off,退货自寄点,warehousing,退货处理
+Customer Return,客户退货,warehousing,退货处理
+Merchant Return,商家退货,warehousing,退货处理
+Refused Delivery,拒收件,warehousing,退货处理
+Undeliverable Return,无法投递退回,warehousing,退货处理
+Return Reasons,退货原因,warehousing,退货处理
+Return Inspection,退货质检,warehousing,退货处理
+Grade A Return,完好退货品,warehousing,退货处理
+Refurbishment,翻新,warehousing,退货处理
+Repackaging,重新包装,warehousing,退货处理
+Restocking,重新上架,warehousing,退货处理
+Restocking Fee,重新上架费,warehousing,退货处理
+Return to Stock,退货入库,warehousing,退货处理
+Scrap Disposal,报废处理,warehousing,退货处理
+Liquidation,清仓处理,warehousing,退货处理
+Salvage Channel,残值处理渠道,warehousing,退货处理
+Open-Box Sale,开箱二手销售,warehousing,退货处理
+Refund Processing,退款处理,warehousing,退货处理
+Return Fraud,退货欺诈,warehousing,退货处理
+Abusive Returns,恶意退货,warehousing,退货处理
+Return Rate,退货率,warehousing,退货处理
+Reverse Logistics,逆向物流,warehousing,退货处理
+Returns Management System,退货管理系统,warehousing,退货处理
+Returns Processing,退货处理作业,warehousing,退货处理
+Cross-Border Returns,跨境退货,warehousing,退货处理
+Return Dock,退货月台,warehousing,退货处理
+Disposition,处置判定,warehousing,退货处理
+Order Fulfillment,订单履约,warehousing,履约模式
+Dropshipping,一件代发,warehousing,履约模式
+Front Warehouse,前置仓,warehousing,履约模式
+Buy Online Pick-Up In Store,线上下单门店自提,warehousing,履约模式
+Click and Collect,线上购买门店取货,warehousing,履约模式
+Ship-from-Store,门店发货,warehousing,履约模式
+Ship-to-Store,门店收货,warehousing,履约模式
+Omni-Channel Fulfillment,全渠道履约,warehousing,履约模式
+Distributed Order Management,分布式订单管理,warehousing,履约模式
+Inventory Pooling,库存共享,warehousing,履约模式
+Store Fulfillment,门店履约,warehousing,履约模式
+Micro-Warehousing,微型仓储,warehousing,履约模式
+Fulfillment by Amazon,亚马逊物流,warehousing,履约模式
+FBA Prep,FBA入仓预处理,warehousing,履约模式
+Same-Day Fulfillment,当日履约,warehousing,履约模式
+E-Grocery Fulfillment,生鲜电商履约,warehousing,履约模式
+Hyperlocal Delivery,即时配送,warehousing,履约模式
+Q-Commerce,即时零售,warehousing,履约模式
+Middle-Mile,中段运输,warehousing,履约模式
+First-Mile Pickup,揽收,warehousing,履约模式
+4PL,第四方物流,warehousing,履约模式
+Marketplace Fulfillment,平台代发履约,warehousing,履约模式
+Subscription Box Fulfillment,订阅盒履约,warehousing,履约模式
+B2B Fulfillment,企业级订单履约,warehousing,履约模式
+B2C Fulfillment,个人客户履约,warehousing,履约模式
+Direct-to-Consumer,直连消费者,warehousing,履约模式
+Inventory Sync,库存同步,warehousing,履约模式
+Channel Inventory Allocation,渠道库存分配,warehousing,履约模式
+Smart Order Routing,智能订单路由,warehousing,履约模式
+Order Orchestration,订单编排,warehousing,履约模式
+Order Promising,订单承诺,warehousing,履约模式
+Available-to-Promise,可承诺量,warehousing,履约模式
+Distributed Inventory,分布式库存,warehousing,履约模式
+Next-Day Delivery,次日达,warehousing,时效配送
+Same-Day Delivery,当日达,warehousing,时效配送
+Two-Hour Delivery,两小时达,warehousing,时效配送
+Scheduled Delivery,预约配送,warehousing,时效配送
+Time-Slot Delivery,时段配送,warehousing,时效配送
+White-Glove Delivery,白手套配送,warehousing,时效配送
+Room-of-Choice Delivery,送到指定房间,warehousing,时效配送
+Threshold Delivery,入户配送,warehousing,时效配送
+Last-Mile Delivery,最后一公里配送,warehousing,时效配送
+Locker Delivery,自提柜投递,warehousing,时效配送
+Pickup Point,自提点,warehousing,时效配送
+Parcel Locker,智能快递柜,warehousing,时效配送
+Delivery Attempt,投递尝试,warehousing,时效配送
+Proof of Delivery,签收凭证,warehousing,时效配送
+Instant Delivery,即时送,warehousing,时效配送
+On-Demand Delivery,按需配送,warehousing,时效配送
+Export Warehouse,出口仓,warehousing,跨境履约
+Import Warehouse,进口仓,warehousing,跨境履约
+Customs Clearance,清关,warehousing,跨境履约
+Customs Declaration,报关,warehousing,跨境履约
+Export Declaration,出口报关,warehousing,跨境履约
+Duty and Tax,关税与税费,warehousing,跨境履约
+HS Code,海关编码,warehousing,跨境履约
+Certificate of Origin,原产地证书,warehousing,跨境履约
+De Minimis Threshold,小额免税额度,warehousing,跨境履约
+IOSS,进口一站式申报,warehousing,跨境履约
+Cross-Border E-Commerce,跨境电商,warehousing,跨境履约
+Export Consolidation,出口拼箱,warehousing,跨境履约
+Return to Origin,退货至原发国,warehousing,跨境履约
+Forward Stocking Location,前置备货点,warehousing,跨境履约
+Postal Channel,邮政小包渠道,warehousing,跨境履约
+Dedicated Line,专线,warehousing,跨境履约
+Export Repacking,出口换包装,warehousing,跨境履约
+Relabeling,换标,warehousing,跨境履约
+Tax Reimbursement,出口退税,warehousing,跨境履约
+Overseas Return Handling,海外退货处理,warehousing,跨境履约
+Location Management,库位管理,warehousing,WMS功能
+Bin Management,货位管理,warehousing,WMS功能
+Bin Location,货位编号,warehousing,WMS功能
+Location Type,储位类型,warehousing,WMS功能
+Zone Management,库区管理,warehousing,WMS功能
+Inventory Snapshot,库存快照,warehousing,WMS功能
+Inventory Inquiry,库存查询,warehousing,WMS功能
+Inventory Reservation,库存预留,warehousing,WMS功能
+Soft Allocation,软分配,warehousing,WMS功能
+Hard Allocation,硬分配,warehousing,WMS功能
+Allocation Logic,分配逻辑,warehousing,WMS功能
+Task Management,任务管理,warehousing,WMS功能
+Work Order Management,作业单管理,warehousing,WMS功能
+Inbound Order,入库单,warehousing,WMS功能
+Outbound Order,出库单,warehousing,WMS功能
+Transfer Order,移库单,warehousing,WMS功能
+Adjustment Order,调整单,warehousing,WMS功能
+Cycle Count Request,循环盘点任务,warehousing,WMS功能
+Lot Attribute,批次属性,warehousing,WMS功能
+Serial Number Tracking,序列号追踪,warehousing,WMS功能
+Barcode Labeling,条码贴标,warehousing,WMS功能
+Location Barcode,储位条码,warehousing,WMS功能
+Pallet License Plate,托盘电子标签,warehousing,WMS功能
+LPN,储运单元标签,warehousing,WMS功能
+RF Terminal,射频终端,warehousing,WMS功能
+RF Gun,手持扫描终端,warehousing,WMS功能
+Mobile WMS,移动端仓库系统,warehousing,WMS功能
+Voice Picking Integration,语音拣选集成,warehousing,WMS功能
+Pick Face Management,拣货面管理,warehousing,WMS功能
+Replenishment Logic,补货逻辑,warehousing,WMS功能
+Wave Engine,波次引擎,warehousing,WMS功能
+Shipping System Integration,发运系统集成,warehousing,WMS功能
+Carrier Integration,承运商系统对接,warehousing,WMS功能
+Rate Shopping,运价比较,warehousing,WMS功能
+Shipment Tracking,货件追踪,warehousing,WMS功能
+Electronic Data Interchange,电子数据交换,warehousing,WMS功能
+ERP Integration,ERP集成,warehousing,WMS功能
+OMS,订单管理系统,warehousing,WMS功能
+Inventory Visibility,库存可视化,warehousing,WMS功能
+Real-Time Inventory,实时库存,warehousing,WMS功能
+Audit Trail,操作日志,warehousing,WMS功能
+User Role Permission,用户权限,warehousing,WMS功能
+Dashboard Reporting,看板报表,warehousing,WMS功能
+KPI Reporting,关键指标报表,warehousing,WMS功能
+System Configuration,系统参数配置,warehousing,WMS功能
+Transportation Management System,运输管理系统,warehousing,TMS功能
+Route Optimization,路线优化,warehousing,TMS功能
+Route Planning,路径规划,warehousing,TMS功能
+Dynamic Routing,动态路由,warehousing,TMS功能
+Multi-Stop Planning,多点配送规划,warehousing,TMS功能
+Carrier Selection,承运商选择,warehousing,TMS功能
+Carrier Rate Management,承运商运价管理,warehousing,TMS功能
+Tariff Management,费率管理,warehousing,TMS功能
+Zone Skipping,跳区直发,warehousing,TMS功能
+Load Tendering,配载招标,warehousing,TMS功能
+Freight Audit,运费审计,warehousing,TMS功能
+Freight Payment,运费支付,warehousing,TMS功能
+Freight Billing,运费结算,warehousing,TMS功能
+Accessorial Charges,附加费,warehousing,TMS功能
+Fuel Surcharge,燃油附加费,warehousing,TMS功能
+Dimensional Weight,体积重,warehousing,TMS功能
+Billable Weight,计费重量,warehousing,TMS功能
+Rate Card,运价卡,warehousing,TMS功能
+Freight Classification,货物分级,warehousing,TMS功能
+Shipping Label Generation,面单生成,warehousing,TMS功能
+eBOL,电子提单,warehousing,TMS功能
+Track and Trace,全程跟踪,warehousing,TMS功能
+In-Transit Visibility,在途可视化,warehousing,TMS功能
+Geofencing,电子围栏,warehousing,TMS功能
+ETA Prediction,预计到达时间预测,warehousing,TMS功能
+Delivery Window,配送时间窗,warehousing,TMS功能
+Appointment Booking,预约排程,warehousing,TMS功能
+Digital Signature,电子签名,warehousing,TMS功能
+Exception Management,异常管理,warehousing,TMS功能
+Detention and Demurrage,滞留与滞期费,warehousing,TMS功能
+Mileage Rating,里程计费,warehousing,TMS功能
+Backhaul Matching,回程配载,warehousing,TMS功能
+API Integration,接口对接,warehousing,数据集成
+Webhook Notification,回调通知,warehousing,数据集成
+Real-Time Synchronization,实时同步,warehousing,数据集成
+Data Middleware,数据中间件,warehousing,数据集成
+Message Queue,消息队列,warehousing,数据集成
+Master Data Management,主数据管理,warehousing,数据集成
+Item Master,商品主数据,warehousing,数据集成
+SKU,最小库存单位,warehousing,数据集成
+Barcode Symbology,条码码制,warehousing,数据集成
+EAN-13,EAN-13条码,warehousing,数据集成
+Code 128,Code128码,warehousing,数据集成
+QR Code,二维码,warehousing,数据集成
+GS1 Standard,GS1标准,warehousing,数据集成
+Data Mapping,数据映射,warehousing,数据集成
+Forklift Safety,叉车安全,warehousing,仓储安全
+Pedestrian Safety,行人安全,warehousing,仓储安全
+Pedestrian Walkway,人行通道,warehousing,仓储安全
+Traffic Management Plan,人车分流方案,warehousing,仓储安全
+Blind Corner Mirror,转角反光镜,warehousing,仓储安全
+Convex Mirror,凸面镜,warehousing,仓储安全
+Warning Sign,警示标识,warehousing,仓储安全
+High-Visibility Vest,反光背心,warehousing,仓储安全
+Safety Shoes,安全鞋,warehousing,仓储安全
+Personal Protective Equipment,个人防护装备,warehousing,仓储安全
+Hard Hat,安全帽,warehousing,仓储安全
+Ear Protection,听力防护,warehousing,仓储安全
+Dust Mask,防尘口罩,warehousing,仓储安全
+Safety Training,安全培训,warehousing,仓储安全
+Forklift Certification,叉车操作证,warehousing,仓储安全
+Load Capacity Limit,载重限值,warehousing,仓储安全
+Stacking Height Limit,堆码限高,warehousing,仓储安全
+Rack Safety Audit,货架安全审核,warehousing,仓储安全
+Safety Barrier,安全隔离栏,warehousing,仓储安全
+Machine Guarding,机械防护,warehousing,仓储安全
+Lockout Tagout,上锁挂牌,warehousing,仓储安全
+First Aid Kit,急救箱,warehousing,仓储安全
+AED,自动体外除颤器,warehousing,仓储安全
+Emergency Contact,应急联系人,warehousing,仓储安全
+Incident Reporting,事故上报,warehousing,仓储安全
+Near Miss Reporting,未遂事件报告,warehousing,仓储安全
+Human-Robot Collaboration,人机协作,warehousing,人机协作
+Cobot Palletizing,协作码垛,warehousing,人机协作
+Shared Workspace,人机共享工位,warehousing,人机协作
+Ergonomic Workstation,人体工学工位,warehousing,人机协作
+Lift Assist,助力机械手,warehousing,人机协作
+Manipulator Arm,助力臂,warehousing,人机协作
+Vacuum Lifter,真空吊具,warehousing,人机协作
+Ergonomics Assessment,人机工学评估,warehousing,人机协作
+Fatigue Management,疲劳管理,warehousing,人机协作
+Workforce Scheduling,人员排班,warehousing,人机协作
+Labor Management System,劳动力管理系统,warehousing,人机协作
+Labor Standards,工时标准,warehousing,人机协作
+Engineered Labor Standards,标准工时测定,warehousing,人机协作
+Gamification,游戏化激励,warehousing,人机协作

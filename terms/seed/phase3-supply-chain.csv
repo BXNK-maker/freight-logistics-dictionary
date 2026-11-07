@@ -1,0 +1,1001 @@
+﻿term_en,term_zh,category,subcategory
+Integrated Business Planning (IBP),整合业务计划,supply-chain,计划体系
+CPFR,协同计划预测与补货,supply-chain,计划体系
+Demand Planning,需求计划,supply-chain,计划体系
+Supply Planning,供应计划,supply-chain,计划体系
+Demand Forecasting,需求预测,supply-chain,计划体系
+Time Series Forecasting,时间序列预测,supply-chain,计划体系
+Moving Average Forecast,移动平均预测,supply-chain,计划体系
+Exponential Smoothing,指数平滑法,supply-chain,计划体系
+Holt-Winters Model,霍尔特-温特斯模型,supply-chain,计划体系
+ARIMA Model,ARIMA模型,supply-chain,计划体系
+Machine Learning Forecasting,机器学习预测,supply-chain,计划体系
+Causal Forecasting,因果预测法,supply-chain,计划体系
+Baseline Demand,基线需求,supply-chain,计划体系
+Demand Signal,需求信号,supply-chain,计划体系
+Demand Sensing,需求感知,supply-chain,计划体系
+Demand Shaping,需求塑造,supply-chain,计划体系
+Forecast Accuracy,预测准确率,supply-chain,计划体系
+Mean Absolute Percentage Error (MAPE),平均绝对百分比误差,supply-chain,计划体系
+Weighted Absolute Percentage Error (WAPE),加权绝对百分比误差,supply-chain,计划体系
+Forecast Bias,预测偏差,supply-chain,计划体系
+Tracking Signal,跟踪信号,supply-chain,计划体系
+Forecast Value Added (FVA),预测增值分析,supply-chain,计划体系
+Bullwhip Effect,牛鞭效应,supply-chain,计划体系
+Demand Distortion,需求失真,supply-chain,计划体系
+Order Batching,订单批量放大,supply-chain,计划体系
+Forward Buying,提前购买,supply-chain,计划体系
+Rationing Game,短缺博弈,supply-chain,计划体系
+Price Fluctuation,价格波动,supply-chain,计划体系
+Collaborative Forecast,协同预测,supply-chain,计划体系
+Consensus Forecast,共识预测,supply-chain,计划体系
+Sales Forecast,销售预测,supply-chain,计划体系
+Statistical Forecast,统计预测,supply-chain,计划体系
+Qualitative Forecasting,定性预测法,supply-chain,计划体系
+Delphi Method,德尔菲法,supply-chain,计划体系
+Market Survey Forecast,市场调查预测,supply-chain,计划体系
+Leading Indicator Forecast,领先指标预测,supply-chain,计划体系
+Master Production Schedule (MPS),主生产计划,supply-chain,计划体系
+Material Requirements Planning (MRP),物料需求计划,supply-chain,计划体系
+Manufacturing Resource Planning (MRP II),制造资源计划,supply-chain,计划体系
+Distribution Requirements Planning (DRP),配送需求计划,supply-chain,计划体系
+Rough-Cut Capacity Planning (RCCP),粗能力计划,supply-chain,计划体系
+Capacity Requirements Planning (CRP),能力需求计划,supply-chain,计划体系
+Advanced Planning and Scheduling (APS),高级计划与排程,supply-chain,计划体系
+Finite Capacity Scheduling,有限产能排程,supply-chain,计划体系
+Infinite Capacity Planning,无限产能计划,supply-chain,计划体系
+Available-to-Promise (ATP),可承诺量,supply-chain,计划体系
+Capable-to-Promise (CTP),可生产能力承诺,supply-chain,计划体系
+Capable-to-Deliver,可交付能力承诺,supply-chain,计划体系
+Multi-Level ATP,多层可承诺量,supply-chain,计划体系
+Allocated ATP,分配可承诺量,supply-chain,计划体系
+Planning Horizon,计划展望期,supply-chain,计划体系
+Frozen Zone,冻结期,supply-chain,计划体系
+Firm Zone,固定期,supply-chain,计划体系
+Slushy Zone,半冻结期,supply-chain,计划体系
+Time Fence,时界,supply-chain,计划体系
+Demand Time Fence (DTF),需求时界,supply-chain,计划体系
+Planning Time Fence (PTF),计划时界,supply-chain,计划体系
+Bucketless Planning,无时段计划,supply-chain,计划体系
+Lot-for-Lot,按需订货法,supply-chain,计划体系
+Period Order Quantity,期间订货量法,supply-chain,计划体系
+Part Period Balancing,部件期间平衡法,supply-chain,计划体系
+Least Unit Cost,最小单位成本法,supply-chain,计划体系
+Silver-Meal Heuristic,银餐启发式算法,supply-chain,计划体系
+Wagner-Whitin Algorithm,瓦格纳-惠廷算法,supply-chain,计划体系
+Drum-Buffer-Rope (DBR),鼓-缓冲-绳法,supply-chain,计划体系
+Theory of Constraints (TOC),约束理论,supply-chain,计划体系
+Sales and Operations Execution (S&OE),销售与运营执行,supply-chain,计划体系
+Weekly S&OP Meeting,周度产销协同会议,supply-chain,计划体系
+Demand Review,需求评审会,supply-chain,计划体系
+Supply Review,供应评审会,supply-chain,计划体系
+Reconciliation Meeting,协同平衡会议,supply-chain,计划体系
+Executive S&OP,高层产销协同决策会,supply-chain,计划体系
+Planning Bucket,计划时段,supply-chain,计划体系
+Safety Lead Time,安全提前期,supply-chain,计划体系
+Planned Order,计划订单,supply-chain,计划体系
+Firm Planned Order,确认计划订单,supply-chain,计划体系
+Scheduled Receipt,在途接收量,supply-chain,计划体系
+Projected On-Hand Inventory,预计可用库存,supply-chain,计划体系
+Net Requirements,净需求,supply-chain,计划体系
+Gross Requirements,毛需求,supply-chain,计划体系
+Pegging,需求溯源,supply-chain,计划体系
+Where-Used Report,用途追溯报表,supply-chain,计划体系
+Low-Level Code,低位码,supply-chain,计划体系
+Planning Bill of Material,计划物料清单,supply-chain,计划体系
+Super Bill,超级物料清单,supply-chain,计划体系
+Two-Level Master Scheduling,两级主计划,supply-chain,计划体系
+Final Assembly Schedule (FAS),最终装配计划,supply-chain,计划体系
+End-of-Life Planning,产品退市计划,supply-chain,计划体系
+New Product Introduction Planning,新品导入计划,supply-chain,计划体系
+Seasonal Profile,季节性曲线,supply-chain,计划体系
+Calendarization,预测日历化,supply-chain,计划体系
+Top-Down Forecast,自上而下预测,supply-chain,计划体系
+Bottom-Up Forecast,自下而上预测,supply-chain,计划体系
+Out-of-Sample Testing,样本外测试,supply-chain,计划体系
+Forecastability Analysis,需求可预测性分析,supply-chain,计划体系
+Intermittent Demand Forecasting,间歇性需求预测,supply-chain,计划体系
+Croston's Method,克罗斯顿法,supply-chain,计划体系
+Lifecycle Modeling,生命周期建模,supply-chain,计划体系
+What-If Simulation,假设情景模拟,supply-chain,计划体系
+Strategic Sourcing,战略寻源,supply-chain,采购管理
+Sourcing Strategy,寻源策略,supply-chain,采购管理
+Category Management,品类管理,supply-chain,采购管理
+Spend Analysis,支出分析,supply-chain,采购管理
+Spend Cube,支出立方体,supply-chain,采购管理
+Supplier Relationship Management (SRM),供应商关系管理,supply-chain,采购管理
+Supplier Scorecard,供应商记分卡,supply-chain,采购管理
+Supplier Evaluation,供应商评估,supply-chain,采购管理
+Supplier Audit,供应商审核,supply-chain,采购管理
+Supplier Development,供应商培养,supply-chain,采购管理
+Supplier Rationalization,供应商精简,supply-chain,采购管理
+Single Sourcing,单一寻源,supply-chain,采购管理
+Multiple Sourcing,多源寻源,supply-chain,采购管理
+Preferred Supplier,优选供应商,supply-chain,采购管理
+Approved Supplier List (ASL),合格供应商名录,supply-chain,采购管理
+Request for Information (RFI),信息征询书,supply-chain,采购管理
+Request for Proposal (RFP),征求建议书,supply-chain,采购管理
+Request for Quotation (RFQ),询价书,supply-chain,采购管理
+Invitation to Tender (ITT),招标邀请书,supply-chain,采购管理
+E-Procurement,电子采购,supply-chain,采购管理
+E-Sourcing,电子寻源,supply-chain,采购管理
+E-Auction,电子拍卖,supply-chain,采购管理
+Reverse Auction,反向拍卖,supply-chain,采购管理
+Dutch Auction,荷兰式拍卖,supply-chain,采购管理
+Sealed-Bid Auction,密封投标拍卖,supply-chain,采购管理
+E-Tendering,电子招投标,supply-chain,采购管理
+Purchase Requisition,采购申请,supply-chain,采购管理
+Purchase Order (PO),采购订单,supply-chain,采购管理
+Blanket Purchase Order,一揽子采购订单,supply-chain,采购管理
+Framework Agreement,框架协议,supply-chain,采购管理
+Master Service Agreement (MSA),主服务协议,supply-chain,采购管理
+Contract Lifecycle Management (CLM),合同全生命周期管理,supply-chain,采购管理
+Total Cost of Ownership (TCO),总拥有成本,supply-chain,采购管理
+Should-Cost Modeling,应然成本模型,supply-chain,采购管理
+Cost Breakdown Structure,成本分解结构,supply-chain,采购管理
+Cost-Plus Pricing,成本加成定价,supply-chain,采购管理
+Target Costing,目标成本法,supply-chain,采购管理
+Value Analysis / Value Engineering (VA/VE),价值分析与价值工程,supply-chain,采购管理
+Landed Cost Analysis,到岸成本分析,supply-chain,采购管理
+Kraljic Matrix,卡拉杰克矩阵,supply-chain,采购管理
+Strategic Supplier,战略供应商,supply-chain,采购管理
+Leverage Supplier,杠杆型供应商,supply-chain,采购管理
+Bottleneck Supplier,瓶颈型供应商,supply-chain,采购管理
+Routine Supplier,常规型供应商,supply-chain,采购管理
+Supplier Concentration Risk,供应商集中度风险,supply-chain,采购管理
+Supplier Financial Health Check,供应商财务健康检查,supply-chain,采购管理
+Early Supplier Involvement (ESI),供应商早期介入,supply-chain,采购管理
+Co-Development,联合开发,supply-chain,采购管理
+Consignment Stock,寄售库存,supply-chain,采购管理
+Vendor Managed Inventory (VMI),供应商管理库存,supply-chain,采购管理
+Joint Managed Inventory (JMI),联合管理库存,supply-chain,采购管理
+Customer Managed Inventory (CMI),客户管理库存,supply-chain,采购管理
+Vendor Owned Inventory,供应商拥有库存,supply-chain,采购管理
+Pay-on-Scan,扫描结算,supply-chain,采购管理
+Scan-Based Trading,扫描式交易,supply-chain,采购管理
+Supplier Hub,供应商集散中心,supply-chain,采购管理
+Milk Run,循环取货,supply-chain,采购管理
+Supplier Managed Hub,供应商管理仓,supply-chain,采购管理
+Just-in-Time Procurement,准时制采购,supply-chain,采购管理
+Just-in-Sequence Delivery,准时序化交付,supply-chain,采购管理
+Kanban Procurement,看板采购,supply-chain,采购管理
+Electronic Kanban,电子看板,supply-chain,采购管理
+Supplier Portal,供应商门户,supply-chain,采购管理
+Supplier Collaboration Platform,供应商协同平台,supply-chain,采购管理
+Supplier Onboarding,供应商准入,supply-chain,采购管理
+Supplier Certification,供应商认证,supply-chain,采购管理
+First Article Inspection,首件检验,supply-chain,采购管理
+Incoming Quality Control (IQC),来料质量控制,supply-chain,采购管理
+Supplier Corrective Action Request (SCAR),供应商纠正措施要求,supply-chain,采购管理
+Supplier PPM,供应商百万件不良率,supply-chain,采购管理
+Supplier Lead Time,供应商提前期,supply-chain,采购管理
+Procure-to-Pay (P2P),采购到付款,supply-chain,采购管理
+Source-to-Pay (S2P),寻源到付款,supply-chain,采购管理
+Three-Way Match,三单匹配,supply-chain,采购管理
+Invoice Matching,发票匹配,supply-chain,采购管理
+Early Payment Discount,早付折扣,supply-chain,采购管理
+Dynamic Discounting,动态贴现,supply-chain,采购管理
+Supply Chain Finance (SCF),供应链金融,supply-chain,采购管理
+Reverse Factoring,反向保理,supply-chain,采购管理
+Supplier Sustainability Audit,供应商可持续审核,supply-chain,采购管理
+Economic Order Quantity (EOQ),经济订货批量,supply-chain,库存策略
+Reorder Point (ROP),再订货点,supply-chain,库存策略
+Safety Stock,安全库存,supply-chain,库存策略
+Service Level Target,服务水平目标,supply-chain,库存策略
+Cycle Service Level,周期服务水平,supply-chain,库存策略
+Z-Score Method,Z值法,supply-chain,库存策略
+Demand Variability,需求波动性,supply-chain,库存策略
+Lead Time Variability,提前期波动性,supply-chain,库存策略
+Stockout,缺货,supply-chain,库存策略
+Stockout Cost,缺货成本,supply-chain,库存策略
+Backorder,延交订单,supply-chain,库存策略
+Overstock,库存积压,supply-chain,库存策略
+Excess and Obsolete Inventory (E&O),呆滞库存,supply-chain,库存策略
+Slow-Moving Inventory,慢动库存,supply-chain,库存策略
+Dead Stock,呆库存,supply-chain,库存策略
+ABC Classification,ABC分类法,supply-chain,库存策略
+XYZ Analysis,XYZ分析,supply-chain,库存策略
+ABC-XYZ Matrix,ABC-XYZ组合矩阵,supply-chain,库存策略
+Pareto Analysis,帕累托分析,supply-chain,库存策略
+Inventory Turnover,库存周转率,supply-chain,库存策略
+Days of Inventory on Hand (DOH),库存持有天数,supply-chain,库存策略
+Weeks of Supply,周供应周数,supply-chain,库存策略
+Inventory Carrying Cost,库存持有成本,supply-chain,库存策略
+Ordering Cost,订货成本,supply-chain,库存策略
+Setup Cost,生产准备成本,supply-chain,库存策略
+Cycle Counting,循环盘点,supply-chain,库存策略
+Perpetual Inventory,永续盘存,supply-chain,库存策略
+Periodic Review System,定期盘存制,supply-chain,库存策略
+Continuous Review System,连续盘存制,supply-chain,库存策略
+(s; S) Policy,(s; S)补货策略,supply-chain,库存策略
+Min-Max Inventory,最高最低库存法,supply-chain,库存策略
+Two-Bin System,双箱系统,supply-chain,库存策略
+Base Stock Policy,基础库存策略,supply-chain,库存策略
+Multi-Echelon Inventory Optimization (MEIO),多级库存优化,supply-chain,库存策略
+Echelon Stock,梯级库存,supply-chain,库存策略
+Installation Stock,安装点库存,supply-chain,库存策略
+Inventory Position,库存头寸,supply-chain,库存策略
+On-Hand Inventory,现有库存量,supply-chain,库存策略
+In-Transit Inventory,在途库存,supply-chain,库存策略
+Pipeline Inventory,管道库存,supply-chain,库存策略
+Anticipation Inventory,预期库存,supply-chain,库存策略
+Decoupling Stock,解耦库存,supply-chain,库存策略
+Buffer Stock,缓冲库存,supply-chain,库存策略
+Seasonal Stock,季节性库存,supply-chain,库存策略
+Strategic Stock,战略储备库存,supply-chain,库存策略
+Postponement,延迟策略,supply-chain,库存策略
+Delayed Differentiation,差异化延迟,supply-chain,库存策略
+Postponement Center,延迟配送中心,supply-chain,库存策略
+Late Configuration,后期配置,supply-chain,库存策略
+Final Assembly Postponement,最终装配延迟,supply-chain,库存策略
+Packaging Postponement,包装延迟,supply-chain,库存策略
+Labeling Postponement,贴标延迟,supply-chain,库存策略
+Modular Product Design,模块化产品设计,supply-chain,库存策略
+Commonality,通用化,supply-chain,库存策略
+Part Standardization,零件标准化,supply-chain,库存策略
+Risk Pooling,风险共担,supply-chain,库存策略
+Inventory Centralization,库存集中化,supply-chain,库存策略
+Inventory Pooling,库存池化,supply-chain,库存策略
+Virtual Pooling,虚拟池化,supply-chain,库存策略
+Dual Sourcing,双源采购,supply-chain,库存策略
+Multi-Sourcing,多源采购,supply-chain,库存策略
+Backup Sourcing,备用寻源,supply-chain,库存策略
+Lateral Transshipment,横向调拨,supply-chain,库存策略
+Stock Balancing,库存平衡调配,supply-chain,库存策略
+Inventory Rebalancing,库存再平衡,supply-chain,库存策略
+Replenishment Lead Time,补货提前期,supply-chain,库存策略
+Replenishment Policy,补货策略,supply-chain,库存策略
+Continuous Replenishment Program (CRP),连续补货计划,supply-chain,库存策略
+Efficient Replenishment,高效补货,supply-chain,库存策略
+Auto-Replenishment,自动补货,supply-chain,库存策略
+Quick Response (QR),快速反应,supply-chain,库存策略
+Efficient Consumer Response (ECR),高效消费者响应,supply-chain,库存策略
+Inventory Segmentation,库存细分策略,supply-chain,库存策略
+SKU Rationalization,SKU精简,supply-chain,库存策略
+Make-to-Stock (MTS),面向库存生产,supply-chain,库存策略
+Make-to-Order (MTO),面向订单生产,supply-chain,库存策略
+Assemble-to-Order (ATO),面向订单装配,supply-chain,库存策略
+Engineer-to-Order (ETO),面向订单设计,supply-chain,库存策略
+Configure-to-Order (CTO),面向订单配置,supply-chain,库存策略
+Push-Pull Boundary,推拉结合点,supply-chain,库存策略
+Supply Chain Network Design,供应链网络设计,supply-chain,网络设计
+Facility Location Model,设施选址模型,supply-chain,网络设计
+Center of Gravity Method,重心法,supply-chain,网络设计
+P-Median Model,P中值模型,supply-chain,网络设计
+P-Center Model,P中心模型,supply-chain,网络设计
+Set Covering Model,集合覆盖模型,supply-chain,网络设计
+Maximal Covering Location Problem,最大覆盖选址问题,supply-chain,网络设计
+Uncapacitated Facility Location,无容量限制选址,supply-chain,网络设计
+Capacitated Facility Location,有容量限制选址,supply-chain,网络设计
+Mixed Integer Programming,混合整数规划,supply-chain,网络设计
+Linear Programming,线性规划,supply-chain,网络设计
+Network Optimization,网络优化,supply-chain,网络设计
+Network Modeling,网络建模,supply-chain,网络设计
+Scenario Analysis,情景分析,supply-chain,网络设计
+Greenfield Analysis,绿地分析,supply-chain,网络设计
+Brownfield Analysis,棕地分析,supply-chain,网络设计
+Distribution Network,分销网络,supply-chain,网络设计
+Distribution Center Location,配送中心选址,supply-chain,网络设计
+Hub-and-Spoke Network,轴辐式网络,supply-chain,网络设计
+Direct Shipment Network,直送网络,supply-chain,网络设计
+Cross-Docking,越库作业,supply-chain,网络设计
+Regional Distribution Center (RDC),区域配送中心,supply-chain,网络设计
+Primary Transportation,干线运输,supply-chain,网络设计
+Back Hauling,回程运输,supply-chain,网络设计
+Two-Echelon Distribution,两级配送,supply-chain,网络设计
+Last Mile,最后一公里,supply-chain,网络设计
+First Mile,最初一公里,supply-chain,网络设计
+Middle Mile,中间一公里,supply-chain,网络设计
+Network Flow Analysis,网络流分析,supply-chain,网络设计
+Transportation Lane,运输通道,supply-chain,网络设计
+Origin-Destination Matrix (OD Matrix),起讫点矩阵,supply-chain,网络设计
+Freight Consolidation,货物集拼,supply-chain,网络设计
+Zone Skipping,跨区直发,supply-chain,网络设计
+Multi-Echelon Network,多级网络,supply-chain,网络设计
+Supply Chain Footprint,供应链布局,supply-chain,网络设计
+Decentralized Distribution,分散式配送,supply-chain,网络设计
+Centralized Distribution,集中式配送,supply-chain,网络设计
+Hybrid Network Design,混合网络设计,supply-chain,网络设计
+Sensitivity Analysis,敏感性分析,supply-chain,网络设计
+Break-Even Distance,盈亏平衡距离,supply-chain,网络设计
+Fixed Facility Cost,设施固定成本,supply-chain,网络设计
+Facility Capacity Constraint,设施产能约束,supply-chain,网络设计
+Service Area Design,服务区域划分,supply-chain,网络设计
+Customer Allocation,客户分配,supply-chain,网络设计
+Sourcing Assignment,供货指派,supply-chain,网络设计
+Network Redesign,网络重构,supply-chain,网络设计
+Site Selection,场址选择,supply-chain,网络设计
+Transportation Cost Curve,运输成本曲线,supply-chain,网络设计
+Distance Decay Function,距离衰减函数,supply-chain,网络设计
+Network Resilience Design,网络韧性设计,supply-chain,网络设计
+Total Network Cost,网络总成本,supply-chain,网络设计
+Service Level Constraint,服务水平约束,supply-chain,网络设计
+Simulated Annealing,模拟退火算法,supply-chain,网络设计
+Genetic Algorithm,遗传算法,supply-chain,网络设计
+Intermodal Hub Location,多式联运枢纽选址,supply-chain,网络设计
+SCOR Model,SCOR供应链运作参考模型,supply-chain,绩效指标
+Perfect Order Fulfillment,完美订单履行率,supply-chain,绩效指标
+On-Time In-Full (OTIF),准时足量交付率,supply-chain,绩效指标
+On-Time Delivery (OTD),准时交付率,supply-chain,绩效指标
+In-Full Delivery,足量交付率,supply-chain,绩效指标
+Order Fill Rate,订单满足率,supply-chain,绩效指标
+Line Fill Rate,行项满足率,supply-chain,绩效指标
+Item Fill Rate,单品满足率,supply-chain,绩效指标
+Order Cycle Time,订单周期时间,supply-chain,绩效指标
+Cash-to-Cash Cycle Time,现金周转周期,supply-chain,绩效指标
+Days Sales Outstanding (DSO),应收账款周转天数,supply-chain,绩效指标
+Days Payable Outstanding (DPO),应付账款周转天数,supply-chain,绩效指标
+Days Inventory Outstanding,库存周转天数,supply-chain,绩效指标
+Working Capital,营运资金,supply-chain,绩效指标
+Supply Chain Cost,供应链总成本,supply-chain,绩效指标
+Cost of Goods Sold (COGS),销货成本,supply-chain,绩效指标
+Gross Margin,毛利率,supply-chain,绩效指标
+Return on Supply Chain Assets,供应链资产回报率,supply-chain,绩效指标
+Asset Turnover,资产周转率,supply-chain,绩效指标
+Upside Supply Chain Flexibility,供应链上行柔性,supply-chain,绩效指标
+Upside Supply Chain Adaptability,供应链上行适应性,supply-chain,绩效指标
+Downside Supply Chain Adaptability,供应链下行适应性,supply-chain,绩效指标
+Overall Value at Risk,总体价值风险,supply-chain,绩效指标
+Order-to-Cash (O2C),订单到收款,supply-chain,绩效指标
+Dock-to-Stock Time,月台到上架时间,supply-chain,绩效指标
+Order Lead Time,订单提前期,supply-chain,绩效指标
+Schedule Attainment,排程达成率,supply-chain,绩效指标
+Plan Adherence,计划达成率,supply-chain,绩效指标
+First Pass Yield,一次合格率,supply-chain,绩效指标
+Backorder Rate,延交订单率,supply-chain,绩效指标
+Stockout Rate,缺货率,supply-chain,绩效指标
+Shrinkage,库存损耗,supply-chain,绩效指标
+Damage Rate,货损率,supply-chain,绩效指标
+Picking Accuracy,拣货准确率,supply-chain,绩效指标
+Inventory Record Accuracy,库存记录准确率,supply-chain,绩效指标
+Truck Utilization,车辆利用率,supply-chain,绩效指标
+Empty Running Rate,空驶率,supply-chain,绩效指标
+Fleet Turnaround Time,车队周转时间,supply-chain,绩效指标
+Dwell Time,滞留时间,supply-chain,绩效指标
+Cost per Order,单笔订单成本,supply-chain,绩效指标
+Warehouse Cost per Pallet,每托仓储成本,supply-chain,绩效指标
+Units per Labor Hour,单人时处理量,supply-chain,绩效指标
+Lines Picked per Hour,每小时拣货行数,supply-chain,绩效指标
+Throughput,吞吐量,supply-chain,绩效指标
+Balanced Scorecard,平衡计分卡,supply-chain,绩效指标
+Key Performance Indicator (KPI),关键绩效指标,supply-chain,绩效指标
+Supply Chain Maturity Model,供应链成熟度模型,supply-chain,绩效指标
+Value Stream Mapping,价值流图析,supply-chain,绩效指标
+Overall Equipment Effectiveness (OEE),设备综合效率,supply-chain,绩效指标
+Total Landed Cost,总到岸成本,supply-chain,绩效指标
+Lean Supply Chain,精益供应链,supply-chain,绩效指标
+Supply Chain Risk Management (SCRM),供应链风险管理,supply-chain,风险管理
+Supply Chain Resilience,供应链韧性,supply-chain,风险管理
+Supply Chain Vulnerability,供应链脆弱性,supply-chain,风险管理
+Risk Exposure,风险敞口,supply-chain,风险管理
+Risk Assessment Matrix,风险评估矩阵,supply-chain,风险管理
+Probability-Impact Matrix,概率-影响矩阵,supply-chain,风险管理
+Failure Mode and Effects Analysis (FMEA),失效模式与影响分析,supply-chain,风险管理
+Business Continuity Plan (BCP),业务连续性计划,supply-chain,风险管理
+Contingency Plan,应急预案,supply-chain,风险管理
+Disaster Recovery,灾难恢复,supply-chain,风险管理
+Single Point of Failure,单点故障,supply-chain,风险管理
+Choke Point,瓶颈要道,supply-chain,风险管理
+Suez Canal Transit,苏伊士运河通行,supply-chain,风险管理
+Panama Canal Draft Restriction,巴拿马运河吃水限制,supply-chain,风险管理
+Red Sea Rerouting,红海绕航,supply-chain,风险管理
+Geopolitical Risk,地缘政治风险,supply-chain,风险管理
+Trade Sanctions Compliance,贸易制裁合规,supply-chain,风险管理
+Export Control,出口管制,supply-chain,风险管理
+Tariff Risk,关税风险,supply-chain,风险管理
+Trade War Impact,贸易战影响,supply-chain,风险管理
+Nearshoring,近岸外包,supply-chain,风险管理
+Reshoring,回流外包,supply-chain,风险管理
+Friendshoring,友岸外包,supply-chain,风险管理
+Offshoring,离岸外包,supply-chain,风险管理
+China Plus One,中国+1战略,supply-chain,风险管理
+Just-in-Case Strategy,以防万一策略,supply-chain,风险管理
+De-Risking,去风险化,supply-chain,风险管理
+Supply Base Diversification,供应基础多元化,supply-chain,风险管理
+Supplier Failure Risk,供应商倒闭风险,supply-chain,风险管理
+Supplier Bankruptcy Monitoring,供应商破产监控,supply-chain,风险管理
+Multi-Tier Supply Chain Visibility,多级供应链可视性,supply-chain,风险管理
+N-Tier Mapping,N级供应图谱,supply-chain,风险管理
+Supply Chain Mapping,供应链图谱,supply-chain,风险管理
+Sub-Tier Supplier Risk,下级供应商风险,supply-chain,风险管理
+Cyber Supply Chain Risk,供应链网络安全风险,supply-chain,风险管理
+Logistics Disruption,物流中断,supply-chain,风险管理
+Port Congestion,港口拥堵,supply-chain,风险管理
+Berth Waiting Time,泊位等待时间,supply-chain,风险管理
+Labor Strike Risk,码头罢工风险,supply-chain,风险管理
+Force Majeure,不可抗力,supply-chain,风险管理
+Pandemic Disruption,疫情中断,supply-chain,风险管理
+Natural Disaster Risk,自然灾害风险,supply-chain,风险管理
+Extreme Weather Disruption,极端天气中断,supply-chain,风险管理
+Climate Risk Exposure,气候风险敞口,supply-chain,风险管理
+Demand Shock,需求冲击,supply-chain,风险管理
+Supply Shock,供给冲击,supply-chain,风险管理
+Disruption Recovery Time,中断恢复时间,supply-chain,风险管理
+Time-to-Recover (TTR),恢复时间,supply-chain,风险管理
+Time-to-Survive (TTS),存续时间,supply-chain,风险管理
+Risk Quantification,风险量化,supply-chain,风险管理
+Risk Mitigation,风险缓释,supply-chain,风险管理
+Risk Transfer,风险转移,supply-chain,风险管理
+Cargo Insurance,货物运输保险,supply-chain,风险管理
+Marine Cargo Insurance,海洋货运保险,supply-chain,风险管理
+General Average,共同海损,supply-chain,风险管理
+Trade Credit Insurance,贸易信用保险,supply-chain,风险管理
+Supply Chain Insurance,供应链保险,supply-chain,风险管理
+Stress Testing,压力测试,supply-chain,风险管理
+Scenario Planning,情景规划,supply-chain,风险管理
+Backup Supplier Qualification,备用供应商认证,supply-chain,风险管理
+Scope 1 Emissions,范围一排放,supply-chain,可持续物流
+Scope 2 Emissions,范围二排放,supply-chain,可持续物流
+Scope 3 Emissions,范围三排放,supply-chain,可持续物流
+Carbon Accounting,碳核算,supply-chain,可持续物流
+Carbon Footprint,碳足迹,supply-chain,可持续物流
+CO2 Equivalent (CO2e),二氧化碳当量,supply-chain,可持续物流
+Greenhouse Gas Protocol,温室气体核算体系,supply-chain,可持续物流
+Science-Based Targets (SBTi),科学碳目标,supply-chain,可持续物流
+Net Zero,净零排放,supply-chain,可持续物流
+Carbon Neutrality,碳中和,supply-chain,可持续物流
+Carbon Intensity,碳强度,supply-chain,可持续物流
+Well-to-Wheel Emissions,油井到车轮排放,supply-chain,可持续物流
+GLEC Framework,GLEC物流排放核算框架,supply-chain,可持续物流
+ISO 14083,ISO 14083运输排放核算标准,supply-chain,可持续物流
+Carbon Border Adjustment Mechanism (CBAM),碳边境调节机制,supply-chain,可持续物流
+Emissions Trading System (ETS),碳排放交易体系,supply-chain,可持续物流
+Carbon Credit,碳信用,supply-chain,可持续物流
+Carbon Offset,碳抵消,supply-chain,可持续物流
+Insetting,价值链内减排,supply-chain,可持续物流
+Internal Carbon Pricing,内部碳定价,supply-chain,可持续物流
+Green Freight Program,绿色货运计划,supply-chain,可持续物流
+SmartWay Program,智慧货运认证计划,supply-chain,可持续物流
+Clean Truck Program,清洁卡车计划,supply-chain,可持续物流
+Electric Truck,电动卡车,supply-chain,可持续物流
+Battery Electric Vehicle (BEV),纯电动汽车,supply-chain,可持续物流
+Fuel Cell Electric Vehicle (FCEV),燃料电池汽车,supply-chain,可持续物流
+Hydrogen Refueling Station,加氢站,supply-chain,可持续物流
+LNG Bunker Fuel,LNG船用燃料,supply-chain,可持续物流
+Green Methanol Fuel,绿色甲醇燃料,supply-chain,可持续物流
+Green Ammonia Fuel,绿氨燃料,supply-chain,可持续物流
+Biofuel,生物燃料,supply-chain,可持续物流
+Sustainable Aviation Fuel (SAF),可持续航空燃料,supply-chain,可持续物流
+Biodiesel,生物柴油,supply-chain,可持续物流
+HVO Diesel,加氢植物油柴油,supply-chain,可持续物流
+E-Fuel,电制燃料,supply-chain,可持续物流
+Shore Power,岸电,supply-chain,可持续物流
+Zero-Emission Vessel,零排放船舶,supply-chain,可持续物流
+Wind-Assisted Propulsion,风力辅助推进,supply-chain,可持续物流
+Slow Steaming,减速航行,supply-chain,可持续物流
+EEXI,船舶能效现有船指数,supply-chain,可持续物流
+CII Rating,碳强度指标评级,supply-chain,可持续物流
+IMO 2050 Decarbonization,国际海事组织2050脱碳目标,supply-chain,可持续物流
+EU ETS for Maritime,欧盟航运碳交易,supply-chain,可持续物流
+FuelEU Maritime,燃料欧盟航运法规,supply-chain,可持续物流
+ESG Reporting,ESG报告,supply-chain,可持续物流
+ESG Rating,ESG评级,supply-chain,可持续物流
+CSRD Directive,欧盟企业可持续发展报告指令,supply-chain,可持续物流
+Sustainability Disclosure,可持续信息披露,supply-chain,可持续物流
+Circular Economy,循环经济,supply-chain,可持续物流
+Circular Packaging,循环包装,supply-chain,可持续物流
+Returnable Transport Item (RTI),可循环运输器具,supply-chain,可持续物流
+Reusable Pallet,可循环托盘,supply-chain,可持续物流
+Pallet Pooling,托盘共用,supply-chain,可持续物流
+Reusable Plastic Crate,可循环塑料周转箱,supply-chain,可持续物流
+Packaging Waste Regulation,包装废弃物法规,supply-chain,可持续物流
+Extended Producer Responsibility (EPR),生产者责任延伸,supply-chain,可持续物流
+Reverse Logistics,逆向物流,supply-chain,可持续物流
+Product Lifecycle Assessment (LCA),产品生命周期评估,supply-chain,可持续物流
+Cradle-to-Gate Assessment,摇篮到大门评估,supply-chain,可持续物流
+Cradle-to-Grave Assessment,摇篮到坟墓评估,supply-chain,可持续物流
+Green Warehouse,绿色仓库,supply-chain,可持续物流
+Rooftop Solar Logistics Park,物流园区屋顶光伏,supply-chain,可持续物流
+Modal Shift,运输方式转移,supply-chain,可持续物流
+Rail Freight Decarbonization,铁路货运脱碳,supply-chain,可持续物流
+Urban Consolidation Center,城市集配中心,supply-chain,可持续物流
+Low Emission Zone (LEZ),低排放区,supply-chain,可持续物流
+Green Corridor,绿色航运走廊,supply-chain,可持续物流
+Sustainable Procurement,可持续采购,supply-chain,可持续物流
+Supplier Carbon Disclosure,供应商碳信息披露,supply-chain,可持续物流
+Deforestation Regulation (EUDR),欧盟零毁林法案,supply-chain,可持续物流
+Digital Freight Platform,数字货运平台,digital-logistics,物流平台
+Freight Marketplace,货运撮合平台,digital-logistics,物流平台
+Truckload Marketplace,整车货运平台,digital-logistics,物流平台
+Load Board,货源信息板,digital-logistics,物流平台
+Freight Bidding Platform,货运竞价平台,digital-logistics,物流平台
+Freight Rate Benchmarking,运价基准对标,digital-logistics,物流平台
+Spot Rate,即期运价,digital-logistics,物流平台
+Contract Rate,合同运价,digital-logistics,物流平台
+Dynamic Pricing,动态定价,digital-logistics,物流平台
+Surge Pricing,动态加价,digital-logistics,物流平台
+On-Demand Trucking,即时货运,digital-logistics,物流平台
+NVOCC (Non-Vessel Operating Common Carrier),无船承运人,digital-logistics,物流平台
+Digital Freight Forwarder,数字货代,digital-logistics,物流平台
+Booking Platform,订舱平台,digital-logistics,物流平台
+Online Booking,在线订舱,digital-logistics,物流平台
+Instant Booking,即时订舱,digital-logistics,物流平台
+Freight Quote Engine,运费报价引擎,digital-logistics,物流平台
+Instant Quotation,即时报价,digital-logistics,物流平台
+Rate Management System,运价管理系统,digital-logistics,物流平台
+Transportation Management System (TMS),运输管理系统,digital-logistics,物流平台
+Carrier Network,承运商网络,digital-logistics,物流平台
+Carrier Onboarding,承运商入驻,digital-logistics,物流平台
+Carrier Procurement,承运商采购,digital-logistics,物流平台
+Freight Tendering,货运招标,digital-logistics,物流平台
+Transportation Bid Optimization,运输招标优化,digital-logistics,物流平台
+Shipper of Choice,首选货主,digital-logistics,物流平台
+Shipper-Carrier Collaboration,货主承运商协同,digital-logistics,物流平台
+Brokerage Platform,经纪平台,digital-logistics,物流平台
+Virtual Freight Forwarding,虚拟货代,digital-logistics,物流平台
+Two-Sided Platform,双边平台,digital-logistics,物流平台
+Platform Economy,平台经济,digital-logistics,物流平台
+Sharing Economy Logistics,共享经济物流,digital-logistics,物流平台
+Crowdsourced Delivery,众包配送,digital-logistics,物流平台
+Crowdsourced Trucking,众包货运,digital-logistics,物流平台
+Gig Economy Driver,零工司机,digital-logistics,物流平台
+Driver App,司机端应用,digital-logistics,物流平台
+Mobile Freight App,移动货运应用,digital-logistics,物流平台
+Unified Payment Platform,统一结算平台,digital-logistics,物流平台
+Freight Payment,货运支付,digital-logistics,物流平台
+Freight Audit,货运审计,digital-logistics,物流平台
+Freight Bill Payment,运费支付,digital-logistics,物流平台
+Freight Settlement,运费结算,digital-logistics,物流平台
+Rate Dispute Management,运价争议处理,digital-logistics,物流平台
+Accessorial Charges,附加费,digital-logistics,物流平台
+Fuel Surcharge,燃油附加费,digital-logistics,物流平台
+Bunker Adjustment Factor (BAF),燃油调整系数,digital-logistics,物流平台
+Currency Adjustment Factor (CAF),币值附加费,digital-logistics,物流平台
+Peak Season Surcharge (PSS),旺季附加费,digital-logistics,物流平台
+General Rate Increase (GRI),综合费率上调,digital-logistics,物流平台
+Demurrage,滞期费,digital-logistics,物流平台
+Detention,超期用箱费,digital-logistics,物流平台
+Per Diem Charge,按日计费,digital-logistics,物流平台
+Freight Class,货运等级,digital-logistics,物流平台
+NMFC Code,美国货运分类代码,digital-logistics,物流平台
+LTL Platform,零担货运平台,digital-logistics,物流平台
+Less-Than-Truckload (LTL),零担运输,digital-logistics,物流平台
+Full Truckload (FTL),整车运输,digital-logistics,物流平台
+Partial Truckload,部分整车运输,digital-logistics,物流平台
+Drayage,短驳运输,digital-logistics,物流平台
+Intermodal Transport,多式联运,digital-logistics,物流平台
+Multimodal Transport Operator (MTO),多式联运经营人,digital-logistics,物流平台
+Combined Transport,联合运输,digital-logistics,物流平台
+Piggyback Transport,驮背运输,digital-logistics,物流平台
+Double-Stack Train,双层集装箱列车,digital-logistics,物流平台
+Container Leasing Platform,集装箱租赁平台,digital-logistics,物流平台
+Empty Container Repositioning,空箱调运,digital-logistics,物流平台
+Online Slot Booking,网上舱位预订,digital-logistics,物流平台
+Platform API Integration,平台API对接,digital-logistics,物流平台
+Transportation Management as a Service,运输管理云服务,digital-logistics,物流平台
+Blockchain Logistics Application,区块链物流应用,digital-logistics,区块链应用
+Distributed Ledger Technology (DLT),分布式账本技术,digital-logistics,区块链应用
+Smart Contract,智能合约,digital-logistics,区块链应用
+Electronic Bill of Lading (eBL),电子提单,digital-logistics,区块链应用
+Paperless Trading,无纸化贸易,digital-logistics,区块链应用
+Bolero,Bolero电子提单平台,digital-logistics,区块链应用
+essDOCS,essDOCS电子单证平台,digital-logistics,区块链应用
+TradeLens,TradeLens贸易平台,digital-logistics,区块链应用
+IBM Food Trust,IBM食品溯源链,digital-logistics,区块链应用
+VeChain,唯链,digital-logistics,区块链应用
+Provenance Tracking,溯源追踪,digital-logistics,区块链应用
+Food Traceability,食品溯源,digital-logistics,区块链应用
+Blockchain Traceability,区块链溯源,digital-logistics,区块链应用
+GS1 Digital Link,GS1数字链接,digital-logistics,区块链应用
+EPCIS 2.0,EPCIS 2.0事件标准,digital-logistics,区块链应用
+Verifiable Credential,可验证凭证,digital-logistics,区块链应用
+Decentralized Identifier (DID),分布式数字身份,digital-logistics,区块链应用
+Digital Product Passport (DPP),数字产品护照,digital-logistics,区块链应用
+Immutable Audit Trail,不可篡改审计记录,digital-logistics,区块链应用
+Consortium Blockchain,联盟链,digital-logistics,区块链应用
+Permissioned Network,许可链网络,digital-logistics,区块链应用
+Consensus Mechanism,共识机制,digital-logistics,区块链应用
+Tokenized Asset,资产通证化,digital-logistics,区块链应用
+Cryptographic Hash,加密哈希,digital-logistics,区块链应用
+Public Key Infrastructure (PKI),公钥基础设施,digital-logistics,区块链应用
+Digital Signature,数字签名,digital-logistics,区块链应用
+Certificate Authority,数字证书机构,digital-logistics,区块链应用
+Blockchain Port Community System,区块链港口社区系统,digital-logistics,区块链应用
+Trade Finance Blockchain,区块链贸易融资,digital-logistics,区块链应用
+Letter of Credit Digitization,信用证数字化,digital-logistics,区块链应用
+Digital Letter of Credit,数字信用证,digital-logistics,区块链应用
+MLETR,示范电子可转让记录法,digital-logistics,区块链应用
+Cross-Border Blockchain Payment,跨境区块链支付,digital-logistics,区块链应用
+Blockchain Certificate of Origin,区块链原产地证,digital-logistics,区块链应用
+On-Chain Document Verification,链上单证核验,digital-logistics,区块链应用
+Document Tokenization,单证通证化,digital-logistics,区块链应用
+eBL Interoperability Standard,电子提单互操作标准,digital-logistics,区块链应用
+FIT Alliance,FIT联盟,digital-logistics,区块链应用
+DCSA eBL Standard,DCSA电子提单标准,digital-logistics,区块链应用
+GPS Tracking,GPS追踪,digital-logistics,物联网应用
+BeiDou Navigation Tracking,北斗定位追踪,digital-logistics,物联网应用
+BeiDou Short Message,北斗短报文,digital-logistics,物联网应用
+GNSS Tracking,卫星导航追踪,digital-logistics,物联网应用
+Real-Time Visibility,实时可视化,digital-logistics,物联网应用
+Supply Chain Visibility Platform,供应链可视化平台,digital-logistics,物联网应用
+Control Tower,供应链控制塔,digital-logistics,物联网应用
+Track and Trace,追踪溯源,digital-logistics,物联网应用
+Asset Tracking,资产追踪,digital-logistics,物联网应用
+Fleet Management System,车队管理系统,digital-logistics,物联网应用
+Telematics,车载远程信息处理,digital-logistics,物联网应用
+OBD Tracker,车载诊断追踪器,digital-logistics,物联网应用
+ELD (Electronic Logging Device),电子日志设备,digital-logistics,物联网应用
+Tachograph,行车记录仪,digital-logistics,物联网应用
+Geofencing,电子围栏,digital-logistics,物联网应用
+Route Deviation Alert,偏航预警,digital-logistics,物联网应用
+Real-Time Location System (RTLS),实时定位系统,digital-logistics,物联网应用
+Ultra-Wideband (UWB) Positioning,超宽带定位,digital-logistics,物联网应用
+Bluetooth Low Energy Beacon,低功耗蓝牙信标,digital-logistics,物联网应用
+Wi-Fi Indoor Positioning,Wi-Fi室内定位,digital-logistics,物联网应用
+LoRaWAN Tracking,LoRa物联网追踪,digital-logistics,物联网应用
+NB-IoT Tracker,NB-IoT追踪器,digital-logistics,物联网应用
+Cellular IoT Module,蜂窝物联网模块,digital-logistics,物联网应用
+Temperature Logger,温度记录仪,digital-logistics,物联网应用
+Humidity Logger,湿度记录仪,digital-logistics,物联网应用
+Temperature and Humidity Logger,温湿度数据记录仪,digital-logistics,物联网应用
+Cold Chain Monitor,冷链监控,digital-logistics,物联网应用
+Cold Chain Integrity,冷链完整性,digital-logistics,物联网应用
+Temperature Excursion Alert,温度超标告警,digital-logistics,物联网应用
+Shock Sensor,震动传感器,digital-logistics,物联网应用
+Tilt Sensor,倾斜传感器,digital-logistics,物联网应用
+Light Exposure Sensor,感光传感器,digital-logistics,物联网应用
+Door Open Sensor,开门传感器,digital-logistics,物联网应用
+Impact Recorder,冲击记录仪,digital-logistics,物联网应用
+Smart Container,智能集装箱,digital-logistics,物联网应用
+Smart Seal,电子关锁,digital-logistics,物联网应用
+Reusable IoT Tracker,可循环追踪器,digital-logistics,物联网应用
+Sensor Fusion,传感器融合,digital-logistics,物联网应用
+Edge Computing Gateway,边缘计算网关,digital-logistics,物联网应用
+IoT Gateway,物联网网关,digital-logistics,物联网应用
+LPWAN,低功耗广域网,digital-logistics,物联网应用
+MQTT Protocol,MQTT消息协议,digital-logistics,物联网应用
+Time Series Database,时序数据库,digital-logistics,物联网应用
+IoT Platform,物联网平台,digital-logistics,物联网应用
+Device Management Platform,设备管理平台,digital-logistics,物联网应用
+Over-the-Air Update (OTA),空中固件升级,digital-logistics,物联网应用
+Tire Pressure Monitoring,胎压监测,digital-logistics,物联网应用
+Fuel Level Monitoring,油量监测,digital-logistics,物联网应用
+Fuel Theft Alert,油量异常告警,digital-logistics,物联网应用
+Driver Behavior Monitoring,驾驶行为监测,digital-logistics,物联网应用
+Harsh Braking Alert,急刹告警,digital-logistics,物联网应用
+Fatigue Driving Detection,疲劳驾驶检测,digital-logistics,物联网应用
+UHF RFID Tag,超高频RFID标签,digital-logistics,物联网应用
+Passive RFID Tag,无源RFID标签,digital-logistics,物联网应用
+Active RFID Tag,有源RFID标签,digital-logistics,物联网应用
+RFID Portal Reader,RFID门禁读写器,digital-logistics,物联网应用
+RFID Handheld Reader,RFID手持读写器,digital-logistics,物联网应用
+NFC Tag,NFC标签,digital-logistics,物联网应用
+Barcode Scanner,条码扫描器,digital-logistics,物联网应用
+Wearable Scanner,穿戴式扫描器,digital-logistics,物联网应用
+Smart Pallet,智能托盘,digital-logistics,物联网应用
+Smart Parcel Locker,智能快递柜,digital-logistics,物联网应用
+Cold Chain IoT Platform,冷链物联网平台,digital-logistics,物联网应用
+Reefer Monitoring,冷藏箱监控,digital-logistics,物联网应用
+Remote Diagnostics,远程诊断,digital-logistics,物联网应用
+Logistics AI Platform,物流AI平台,digital-logistics,人工智能应用
+Predictive ETA,预计到达时间预测,digital-logistics,人工智能应用
+ETA Prediction,ETA预测,digital-logistics,人工智能应用
+Machine Learning Model,机器学习模型,digital-logistics,人工智能应用
+Deep Learning,深度学习,digital-logistics,人工智能应用
+Neural Network,神经网络,digital-logistics,人工智能应用
+Natural Language Processing (NLP),自然语言处理,digital-logistics,人工智能应用
+Large Language Model (LLM),大语言模型,digital-logistics,人工智能应用
+AI Agent,智能体,digital-logistics,人工智能应用
+Intelligent Document Processing,智能文档处理,digital-logistics,人工智能应用
+Optical Character Recognition (OCR),光学字符识别,digital-logistics,人工智能应用
+Invoice OCR Automation,发票OCR自动识别,digital-logistics,人工智能应用
+Email Parsing Automation,邮件自动解析,digital-logistics,人工智能应用
+Chatbot Customer Service,聊天机器人客服,digital-logistics,人工智能应用
+Conversational AI,对话式AI,digital-logistics,人工智能应用
+Generative AI,生成式AI,digital-logistics,人工智能应用
+AI Copilot for Planners,计划员AI助手,digital-logistics,人工智能应用
+Predictive Analytics,预测性分析,digital-logistics,人工智能应用
+Prescriptive Analytics,指导性分析,digital-logistics,人工智能应用
+Descriptive Analytics,描述性分析,digital-logistics,人工智能应用
+Diagnostic Analytics,诊断性分析,digital-logistics,人工智能应用
+Digital Twin,数字孪生,digital-logistics,人工智能应用
+Supply Chain Digital Twin,供应链数字孪生,digital-logistics,人工智能应用
+Warehouse Digital Twin,仓库数字孪生,digital-logistics,人工智能应用
+Simulation Modeling,仿真建模,digital-logistics,人工智能应用
+Reinforcement Learning,强化学习,digital-logistics,人工智能应用
+Computer Vision,计算机视觉,digital-logistics,人工智能应用
+Video Analytics,视频分析,digital-logistics,人工智能应用
+Damage Detection AI,货损视觉检测,digital-logistics,人工智能应用
+License Plate Recognition,车牌识别,digital-logistics,人工智能应用
+Container Code Recognition,箱号识别,digital-logistics,人工智能应用
+Bill of Lading OCR,提单OCR识别,digital-logistics,人工智能应用
+Customs AI,智能报关,digital-logistics,人工智能应用
+Automated Customs Clearance,自动清关,digital-logistics,人工智能应用
+Risk Targeting System,风险布控系统,digital-logistics,人工智能应用
+Anomaly Detection,异常检测,digital-logistics,人工智能应用
+Fraud Detection,欺诈检测,digital-logistics,人工智能应用
+Predictive Maintenance,预测性维护,digital-logistics,人工智能应用
+Condition-Based Maintenance,视情维护,digital-logistics,人工智能应用
+Remaining Useful Life Prediction,剩余寿命预测,digital-logistics,人工智能应用
+Route Optimization Algorithm,路径优化算法,digital-logistics,人工智能应用
+Vehicle Routing Problem (VRP),车辆路径问题,digital-logistics,人工智能应用
+Capacitated VRP,带容量约束车辆路径,digital-logistics,人工智能应用
+Traveling Salesman Problem (TSP),旅行商问题,digital-logistics,人工智能应用
+Dynamic Routing,动态路径规划,digital-logistics,人工智能应用
+Real-Time Traffic Data,实时交通数据,digital-logistics,人工智能应用
+AI Dispatch System,智能调度系统,digital-logistics,人工智能应用
+Automatic Order Assignment,订单自动分配,digital-logistics,人工智能应用
+Intelligent Matching Engine,智能匹配引擎,digital-logistics,人工智能应用
+Load Matching Algorithm,货源匹配算法,digital-logistics,人工智能应用
+Berth Call Prediction,泊位到港预测,digital-logistics,人工智能应用
+Port Congestion Prediction,拥堵预测,digital-logistics,人工智能应用
+Freight Rate Forecasting,运价预测,digital-logistics,人工智能应用
+Optimization Engine,优化引擎,digital-logistics,人工智能应用
+Causal Inference,因果推断,digital-logistics,人工智能应用
+Feature Engineering,特征工程,digital-logistics,人工智能应用
+Model Drift Monitoring,模型漂移监控,digital-logistics,人工智能应用
+Explainable AI (XAI),可解释AI,digital-logistics,人工智能应用
+AI Governance,AI治理,digital-logistics,人工智能应用
+Robotic Process Automation (RPA),机器人流程自动化,digital-logistics,人工智能应用
+Electronic Document Management,电子单证管理,digital-logistics,单证电子化
+e-Air Waybill (eAWB),电子空运提单,digital-logistics,单证电子化
+Electronic Waybill,电子运单,digital-logistics,单证电子化
+Electronic Sea Waybill,电子海运单,digital-logistics,单证电子化
+e-CMR,电子货运单,digital-logistics,单证电子化
+Electronic Manifest,电子舱单,digital-logistics,单证电子化
+Advance Manifest Filing,舱单预申报,digital-logistics,单证电子化
+AMS Filing,美国舱单申报,digital-logistics,单证电子化
+ISF 10+2,美国进口安全申报,digital-logistics,单证电子化
+ICS2 Filing,欧盟进口管制系统申报,digital-logistics,单证电子化
+Pre-Arrival Declaration,到港前申报,digital-logistics,单证电子化
+Export Declaration,出口报关单,digital-logistics,单证电子化
+Import Declaration,进口报关单,digital-logistics,单证电子化
+Single Window,国际贸易单一窗口,digital-logistics,单证电子化
+Digital Customs,数字海关,digital-logistics,单证电子化
+Paperless Customs Clearance,无纸化通关,digital-logistics,单证电子化
+Certificate of Origin (CO),原产地证书,digital-logistics,单证电子化
+Electronic Certificate of Origin,电子原产地证,digital-logistics,单证电子化
+RCEP Certificate of Origin,RCEP原产地证书,digital-logistics,单证电子化
+FTA Tariff Preference,自贸协定关税优惠,digital-logistics,单证电子化
+HS Code,HS编码,digital-logistics,单证电子化
+Harmonized System Classification,商品归类,digital-logistics,单证电子化
+Commercial Invoice,商业发票,digital-logistics,单证电子化
+Pro Forma Invoice,形式发票,digital-logistics,单证电子化
+Packing List,装箱单,digital-logistics,单证电子化
+Bill of Lading (B/L),海运提单,digital-logistics,单证电子化
+Air Waybill (AWB),空运提单,digital-logistics,单证电子化
+House Bill of Lading,货代提单,digital-logistics,单证电子化
+Master Bill of Lading,船东提单,digital-logistics,单证电子化
+Switch Bill of Lading,换提单,digital-logistics,单证电子化
+Telex Release,电放提单,digital-logistics,单证电子化
+Straight Bill of Lading,记名提单,digital-logistics,单证电子化
+Order Bill of Lading,指示提单,digital-logistics,单证电子化
+Clean Bill of Lading,清洁提单,digital-logistics,单证电子化
+FCR (Forwarder's Certificate of Receipt),货运代理收货凭证,digital-logistics,单证电子化
+Dock Receipt,场站收据,digital-logistics,单证电子化
+Delivery Order (D/O),提货单,digital-logistics,单证电子化
+Arrival Notice,到货通知,digital-logistics,单证电子化
+Shipping Advice,装船通知,digital-logistics,单证电子化
+Shipping Order,托运单,digital-logistics,单证电子化
+Booking Confirmation,订舱确认,digital-logistics,单证电子化
+Proof of Delivery (POD),签收凭证,digital-logistics,单证电子化
+Electronic POD,电子签收,digital-logistics,单证电子化
+E-Signature,电子签章,digital-logistics,单证电子化
+Compliance Screening,合规筛查,digital-logistics,单证电子化
+Denied Party Screening,禁运方筛查,digital-logistics,单证电子化
+Export License,出口许可证,digital-logistics,单证电子化
+Incoterms 2020,国际贸易术语,digital-logistics,单证电子化
+Letter of Credit,信用证,digital-logistics,单证电子化
+Documentary Collection,跟单托收,digital-logistics,单证电子化
+Documents Against Payment,付款交单,digital-logistics,单证电子化
+Documents Against Acceptance,承兑交单,digital-logistics,单证电子化
+EDIFACT,联合国EDIFACT标准,digital-logistics,数据标准
+X12 Standard,美国X12标准,digital-logistics,数据标准
+EDI 856 (ASN),发货通知报文,digital-logistics,数据标准
+Advance Ship Notice (ASN),预先发货通知,digital-logistics,数据标准
+EDI 850,采购订单报文,digital-logistics,数据标准
+EDI 855,采购订单确认报文,digital-logistics,数据标准
+EDI 810,发票报文,digital-logistics,数据标准
+EDI 820,付款报文,digital-logistics,数据标准
+EDI 830,计划发布报文,digital-logistics,数据标准
+EDI 862,发运计划报文,digital-logistics,数据标准
+EDI 860,采购订单变更报文,digital-logistics,数据标准
+EDI 865,采购订单变更确认报文,digital-logistics,数据标准
+EDI 214,运输状态报文,digital-logistics,数据标准
+EDI 210,货运发票报文,digital-logistics,数据标准
+EDI 204,机动车装载委托报文,digital-logistics,数据标准
+EDI 990,承运商响应报文,digital-logistics,数据标准
+EDI 997,功能确认报文,digital-logistics,数据标准
+EDI 940,仓库发货指令报文,digital-logistics,数据标准
+EDI 945,仓库发货确认报文,digital-logistics,数据标准
+EDI 943,库存调拨申请报文,digital-logistics,数据标准
+EDI 944,库存调拨接收报文,digital-logistics,数据标准
+EDI 846,库存查询与建议报文,digital-logistics,数据标准
+EDI 867,销售报告报文,digital-logistics,数据标准
+EDI 852,产品销售数据报文,digital-logistics,数据标准
+EDI 832,价格与销售目录报文,digital-logistics,数据标准
+EDI 812,贷记借记调整报文,digital-logistics,数据标准
+EDI 824,应用回执报文,digital-logistics,数据标准
+EDI 322,码头作业状态报文,digital-logistics,数据标准
+EDI 315,集装箱状态报文,digital-logistics,数据标准
+ORDRSP Message,EDIFACT订单响应报文,digital-logistics,数据标准
+INVOIC Message,EDIFACT发票报文,digital-logistics,数据标准
+ORDERS Message,EDIFACT订单报文,digital-logistics,数据标准
+DESADV Message,EDIFACT发运通知报文,digital-logistics,数据标准
+IFTMIN Message,EDIFACT运输指令报文,digital-logistics,数据标准
+IFTSTA Message,EDIFACT运输状态报文,digital-logistics,数据标准
+IFTMBF Message,EDIFACT订舱确认报文,digital-logistics,数据标准
+COPARN Message,集装箱通报报文,digital-logistics,数据标准
+COPRAR Message,集装箱装卸指令报文,digital-logistics,数据标准
+CODECO Message,集装箱进出闸报文,digital-logistics,数据标准
+VERMAS Message,VGM申报报文,digital-logistics,数据标准
+UN/LOCODE,联合国地点代码,digital-logistics,数据标准
+ISO 6346,集装箱编码标准,digital-logistics,数据标准
+GS1 Standard,GS1标准,digital-logistics,数据标准
+GTIN,全球贸易项目代码,digital-logistics,数据标准
+GLN,全球位置码,digital-logistics,数据标准
+SSCC,系列货运包装箱代码,digital-logistics,数据标准
+GS1-128 Barcode,GS1-128条码,digital-logistics,数据标准
+UPC Code,通用产品代码,digital-logistics,数据标准
+EAN-13,欧洲商品编码,digital-logistics,数据标准
+QR Code,二维码,digital-logistics,数据标准
+Data Matrix Code,数据矩阵码,digital-logistics,数据标准
+RFID EPC Code,EPC产品电子代码,digital-logistics,数据标准
+EPCglobal Network,EPCglobal网络,digital-logistics,数据标准
+GDSN,全球数据同步网络,digital-logistics,数据标准
+Master Data Management (MDM),主数据管理,digital-logistics,数据标准
+Data Dictionary,数据字典,digital-logistics,数据标准
+Data Mapping,数据映射,digital-logistics,数据标准
+EDI VAN,EDI增值网络,digital-logistics,数据标准
+AS2 Protocol,AS2传输协议,digital-logistics,数据标准
+SFTP Transmission,SFTP安全传输,digital-logistics,数据标准
+API Standard,接口标准,digital-logistics,数据标准
+REST API,REST接口,digital-logistics,数据标准
+JSON Message Format,JSON报文格式,digital-logistics,数据标准
+XML Message Format,XML报文格式,digital-logistics,数据标准
+DCSA Standards,DCSA数字化标准,digital-logistics,数据标准
+UN/CEFACT,联合国贸易便利化中心,digital-logistics,数据标准
+ebXML,电子商务XML标准,digital-logistics,数据标准
+GS1 EPCIS,EPC事件捕获标准,digital-logistics,数据标准
+Code 128,128码,digital-logistics,数据标准
+ITF-14,储运单元条码,digital-logistics,数据标准
+Warehouse Management System (WMS),仓储管理系统,digital-logistics,智慧仓储
+Yard Management System (YMS),场院管理系统,digital-logistics,智慧仓储
+Labor Management System (LMS),人工管理系统,digital-logistics,智慧仓储
+Slotting Optimization,货位优化,digital-logistics,智慧仓储
+Wave Picking,波次拣货,digital-logistics,智慧仓储
+Batch Picking,批量拣货,digital-logistics,智慧仓储
+Zone Picking,分区拣货,digital-logistics,智慧仓储
+Pick-to-Light,电子标签拣货,digital-logistics,智慧仓储
+Put-to-Light,电子标签分播,digital-logistics,智慧仓储
+Voice Picking,语音拣货,digital-logistics,智慧仓储
+Goods-to-Person,货到人拣选,digital-logistics,智慧仓储
+Person-to-Goods,人到货拣选,digital-logistics,智慧仓储
+Automated Storage and Retrieval System (AS/RS),自动存取系统,digital-logistics,智慧仓储
+Mini-Load System,小件自动存取系统,digital-logistics,智慧仓储
+Vertical Lift Module,垂直升降货柜,digital-logistics,智慧仓储
+Carousel Storage,旋转货架,digital-logistics,智慧仓储
+Shuttle System,四向穿梭车系统,digital-logistics,智慧仓储
+Pallet Conveyor,托盘输送线,digital-logistics,智慧仓储
+Automated Guided Vehicle (AGV),自动导引车,digital-logistics,智慧仓储
+Autonomous Mobile Robot (AMR),自主移动机器人,digital-logistics,智慧仓储
+Robot Fleet Management,机器人集群调度,digital-logistics,智慧仓储
+Robotic Picking,机械臂拣选,digital-logistics,智慧仓储
+Robotic Palletizing,机器人码垛,digital-logistics,智慧仓储
+Depalletizing Robot,机器人拆垛,digital-logistics,智慧仓储
+Automated Unloader,自动拆卸机,digital-logistics,智慧仓储
+Sortation System,自动分拣系统,digital-logistics,智慧仓储
+Cross-Belt Sorter,交叉带分拣机,digital-logistics,智慧仓储
+Slider Sorter,滑块式分拣机,digital-logistics,智慧仓储
+Tilt-Tray Sorter,翻盘式分拣机,digital-logistics,智慧仓储
+Put Wall,分播墙,digital-logistics,智慧仓储
+DWS System,体积称重扫码一体机,digital-logistics,智慧仓储
+Automated Packing Station,自动包装工作站,digital-logistics,智慧仓储
+Auto-Bagger,自动装袋机,digital-logistics,智慧仓储
+Carton Sealer,封箱机,digital-logistics,智慧仓储
+Print-and-Apply Labeler,打印贴标机,digital-logistics,智慧仓储
+Dimensional Weight,体积重量,digital-logistics,智慧仓储
+Fulfillment Center,履约中心,digital-logistics,智慧仓储
+Micro-Fulfillment Center,微型履约中心,digital-logistics,智慧仓储
+Dark Store,前置暗仓,digital-logistics,智慧仓储
+Forward Picking Area,前置拣货区,digital-logistics,智慧仓储
+Reserve Storage,储位存储区,digital-logistics,智慧仓储
+Pick Path Optimization,拣货路径优化,digital-logistics,智慧仓储
+Putaway Strategy,上架策略,digital-logistics,智慧仓储
+Receiving Dock Scheduling,收货月台预约,digital-logistics,智慧仓储
+Smart Forklift,智能叉车,digital-logistics,智慧仓储
+VNA Racking,窄巷道货架,digital-logistics,智慧仓储
+Racking System,货架系统,digital-logistics,智慧仓储
+Pallet Flow Rack,重力式流利货架,digital-logistics,智慧仓储
+Push-Back Rack,后推式货架,digital-logistics,智慧仓储
+Mezzanine Platform,阁楼货架平台,digital-logistics,智慧仓储
+Cold Storage Automation,冷库自动化,digital-logistics,智慧仓储
+Warehouse Control System (WCS),仓库控制系统,digital-logistics,智慧仓储
+Warehouse Execution System (WES),仓库执行系统,digital-logistics,智慧仓储
+Drone Inventory Count,无人机盘点,digital-logistics,智慧仓储
+RFID Inventory Counting,RFID库存盘点,digital-logistics,智慧仓储
+Vision-Guided Robot,视觉引导机器人,digital-logistics,智慧仓储
+Order Management System (OMS),订单管理系统,digital-logistics,智慧仓储
+Drone Delivery,无人机配送,digital-logistics,低空物流
+Delivery Drone,配送无人机,digital-logistics,低空物流
+Logistics Drone,物流无人机,digital-logistics,低空物流
+UAV (Unmanned Aerial Vehicle),无人机,digital-logistics,低空物流
+eVTOL,电动垂直起降飞行器,digital-logistics,低空物流
+Heavy-Lift Drone,大载重无人机,digital-logistics,低空物流
+Payload Capacity,有效载荷能力,digital-logistics,低空物流
+Drone Flight Range,无人机航程,digital-logistics,低空物流
+Beyond Visual Line of Sight (BVLOS),超视距飞行,digital-logistics,低空物流
+Visual Line of Sight (VLOS),视距内飞行,digital-logistics,低空物流
+Drone Corridor,无人机航线走廊,digital-logistics,低空物流
+Low-Altitude Logistics,低空物流,digital-logistics,低空物流
+Low-Altitude Economy,低空经济,digital-logistics,低空物流
+UAS Traffic Management (UTM),无人机交通管理系统,digital-logistics,低空物流
+Unmanned Aircraft System (UAS),无人驾驶航空器系统,digital-logistics,低空物流
+Drone Flight Approval,飞行计划审批,digital-logistics,低空物流
+Airspace Authorization,空域许可,digital-logistics,低空物流
+Remote ID,远程识别,digital-logistics,低空物流
+Remote Pilot License,遥控驾驶员执照,digital-logistics,低空物流
+Ground Control Station,地面控制站,digital-logistics,低空物流
+Drone Docking Station,无人机机巢,digital-logistics,低空物流
+Vertiport,垂直起降场,digital-logistics,低空物流
+Drone Landing Pad,无人机降落坪,digital-logistics,低空物流
+Parachute Delivery System,降落伞投送系统,digital-logistics,低空物流
+Drone Winch Delivery,无人机吊放投送,digital-logistics,低空物流
+Aerial Freight,空中货运,digital-logistics,低空物流
+Drone Swarm Delivery,无人机集群配送,digital-logistics,低空物流
+Drone Route Planning,无人机航线规划,digital-logistics,低空物流
+Drone Noise Regulation,无人机噪声规范,digital-logistics,低空物流
+Drone Delivery Network,无人机配送网络,digital-logistics,低空物流
+Medical Drone Delivery,医疗无人机配送,digital-logistics,低空物流
+Rural Drone Delivery,偏远地区无人机配送,digital-logistics,低空物流
+Island Drone Logistics,海岛无人机物流,digital-logistics,低空物流
+Emergency Drone Supply,应急无人机补给,digital-logistics,低空物流
+Last-Mile Drone Delivery,末端无人机配送,digital-logistics,低空物流
+Drone Delivery Regulation,无人机配送监管,digital-logistics,低空物流
+Drone Insurance,无人机保险,digital-logistics,低空物流
+Drone Fleet Operations,无人机机队运营,digital-logistics,低空物流
+Autonomous Drone Navigation,无人机自主导航,digital-logistics,低空物流
+Drone Battery Swap Station,无人机换电站,digital-logistics,低空物流
+Flight Endurance,续航时间,digital-logistics,低空物流
+Autonomous Trucking,自动驾驶货运,digital-logistics,自动驾驶
+Self-Driving Truck,自动驾驶卡车,digital-logistics,自动驾驶
+Autonomous Vehicle (AV),自动驾驶车辆,digital-logistics,自动驾驶
+L4 Autonomous Driving,L4级自动驾驶,digital-logistics,自动驾驶
+L2 Advanced Driving Assist,L2级辅助驾驶,digital-logistics,自动驾驶
+Truck Platooning,卡车列队行驶,digital-logistics,自动驾驶
+Driverless Operation,无人驾驶运营,digital-logistics,自动驾驶
+Remote Vehicle Monitoring,远程车辆监控,digital-logistics,自动驾驶
+Remote Teleoperation,远程驾驶接管,digital-logistics,自动驾驶
+Remote Operation Center,远程运营中心,digital-logistics,自动驾驶
+Safety Driver,随车安全员,digital-logistics,自动驾驶
+LiDAR,激光雷达,digital-logistics,自动驾驶
+Millimeter-Wave Radar,毫米波雷达,digital-logistics,自动驾驶
+HD Map,高精地图,digital-logistics,自动驾驶
+Perception System,感知系统,digital-logistics,自动驾驶
+Motion Planning,运动规划,digital-logistics,自动驾驶
+V2X Communication,车路协同通信,digital-logistics,自动驾驶
+Vehicle-to-Vehicle (V2V),车车通信,digital-logistics,自动驾驶
+Vehicle-to-Infrastructure (V2I),车路通信,digital-logistics,自动驾驶
+Intelligent Connected Vehicle,智能网联汽车,digital-logistics,自动驾驶
+Advanced Driver Assistance System (ADAS),高级驾驶辅助系统,digital-logistics,自动驾驶
+Adaptive Cruise Control,自适应巡航,digital-logistics,自动驾驶
+Lane Keeping Assist,车道保持辅助,digital-logistics,自动驾驶
+Automatic Emergency Braking,自动紧急制动,digital-logistics,自动驾驶
+Blind Spot Detection,盲区检测,digital-logistics,自动驾驶
+Lane Departure Warning,车道偏离预警,digital-logistics,自动驾驶
+Driver Monitoring System,驾驶员监测系统,digital-logistics,自动驾驶
+Autonomous Hub-to-Hub,枢纽到枢纽自动驾驶,digital-logistics,自动驾驶
+Autonomous Port Tractor,港口无人集卡,digital-logistics,自动驾驶
+Autonomous Yard Truck,无人场站拖车,digital-logistics,自动驾驶
+Autonomous Mining Truck,矿区无人驾驶卡车,digital-logistics,自动驾驶
+Unmanned Delivery Vehicle,无人配送车,digital-logistics,自动驾驶
+Sidewalk Delivery Robot,人行道配送机器人,digital-logistics,自动驾驶
+Autonomous Forklift,无人叉车,digital-logistics,自动驾驶
+Virtual Driver,虚拟司机,digital-logistics,自动驾驶
+Operational Design Domain (ODD),设计运行域,digital-logistics,自动驾驶
+Redundant Braking System,冗余制动系统,digital-logistics,自动驾驶
+Redundant Steering,冗余转向系统,digital-logistics,自动驾驶
+Fail-Operational Design,失效可运行设计,digital-logistics,自动驾驶
+Truck Automation Pilot,自动驾驶货运试点,digital-logistics,自动驾驶
+Autonomous Freight Corridor,自动驾驶货运走廊,digital-logistics,自动驾驶
+AV Regulatory Framework,自动驾驶监管框架,digital-logistics,自动驾驶
+Functional Safety (ISO 26262),功能安全标准,digital-logistics,自动驾驶
+SOTIF,预期功能安全,digital-logistics,自动驾驶
+Object Detection Algorithm,目标检测算法,digital-logistics,自动驾驶
+Sensor Calibration,传感器标定,digital-logistics,自动驾驶
+High-Precision Positioning,高精度定位,digital-logistics,自动驾驶
+SLAM Technology,同步定位与建图,digital-logistics,自动驾驶
+Autonomous Fleet,自动驾驶车队,digital-logistics,自动驾驶
+Driverless Tractor,无人牵引车,digital-logistics,自动驾驶
+Point-of-Sale Data (POS Data),销售点数据,supply-chain,计划体系
+Freight Index,货运运价指数,digital-logistics,物流平台

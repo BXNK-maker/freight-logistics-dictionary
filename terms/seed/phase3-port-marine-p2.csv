@@ -1,0 +1,551 @@
+﻿term_en,term_zh,category,subcategory
+Anchorage,锚地,transport,锚地锚泊
+Anchorage Area,锚地水域,transport,锚地锚泊
+Inner Anchorage,内锚地,transport,锚地锚泊
+Outer Anchorage,外锚地,transport,锚地锚泊
+Roads,港外锚地,transport,锚地锚泊
+Inner Roads,内港锚地,transport,锚地锚泊
+Open Roadstead,开敞锚地,transport,锚地锚泊
+Waiting Anchorage,待泊锚地,transport,锚地锚泊
+Quarantine Anchorage,检疫锚地,transport,锚地锚泊
+Inspection Anchorage,联检锚地,transport,锚地锚泊
+Bunkering Anchorage,加油锚地,transport,锚地锚泊
+Shelter Anchorage,避风锚地,transport,锚地锚泊
+Storm Anchorage,风暴锚地,transport,锚地锚泊
+Emergency Anchorage,应急锚地,transport,锚地锚泊
+Special Purpose Anchorage,专用作业锚地,transport,锚地锚泊
+Holding Ground,锚地底质,transport,锚地锚泊
+Holding Ground Quality,底质锚抓力,transport,锚地锚泊
+Anchorage Limits,锚地范围,transport,锚地锚泊
+Anchorage Allocation,锚地分配,transport,锚地锚泊
+Anchorage Assignment,锚位指派,transport,锚地锚泊
+Anchorage Watch,锚泊值班,transport,锚地锚泊
+Anchorage Position,锚位,transport,锚地锚泊
+Anchoring,抛锚作业,transport,锚地锚泊
+Weighing Anchor,起锚作业,transport,锚地锚泊
+Heave Up Anchor,绞起锚,transport,锚地锚泊
+Anchor Aweigh,锚离底,transport,锚地锚泊
+Anchor Aweigh Report,锚离底报告,transport,锚地锚泊
+Anchor Holding,锚驻留状态,transport,锚地锚泊
+Anchor Dragging,走锚,transport,锚地锚泊
+Dragging Alert,走锚报警,transport,锚地锚泊
+Anchor Watch,锚更,transport,锚地锚泊
+Anchored Vessel,锚泊船,transport,锚地锚泊
+Riding at Anchor,锚泊中,transport,锚地锚泊
+Brought Up,锚已抓牢,transport,锚地锚泊
+Snubbing,急制锚链,transport,锚地锚泊
+Cable Veering,松链,transport,锚地锚泊
+Cable,锚链,transport,锚地锚泊
+Chain Cable,有档锚链,transport,锚地锚泊
+Cable Length,锚链长度,transport,锚地锚泊
+Shackle of Cable,节锚链,transport,锚地锚泊
+Cable Paid Out,放出锚链,transport,锚地锚泊
+Cable Taut,锚链绷紧,transport,锚地锚泊
+Cable Leading,锚链方向,transport,锚地锚泊
+Cable Stopper,制链器,transport,锚地锚泊
+Hawse Pipe,锚链筒,transport,锚地锚泊
+Chain Locker,锚链舱,transport,锚地锚泊
+Windlass,锚机,transport,锚地锚泊
+Gypsy Wheel,锚链轮,transport,锚地锚泊
+Bitter End,锚链末端,transport,锚地锚泊
+Devil's Claw,锚链固定钩,transport,锚地锚泊
+Bow Stopper,首部制链器,transport,锚地锚泊
+Spile Pin,锚链插销,transport,锚地锚泊
+Lashing of Anchor,锚固绑扎,transport,锚地锚泊
+Sea Anchor,海锚,transport,锚地锚泊
+Drogue,漂流减速伞,transport,锚地锚泊
+Anchorage Dues,锚地费,transport,锚地锚泊
+Anchorage Supervisor,锚地管理员,transport,锚地锚泊
+Anchorage Pilot Boarding,锚地接引航员,transport,锚地锚泊
+Anchorage Waiting Time,锚泊等待时间,transport,锚地锚泊
+Congested Anchorage,拥挤锚地,transport,锚地锚泊
+Anchorage Congestion,锚地拥堵,transport,锚地锚泊
+Vessels at Anchorage,在锚船舶,transport,锚地锚泊
+Special Anchorage,专用锚地,transport,锚地锚泊
+No Anchoring Area,禁锚区,transport,锚地锚泊
+Anchorage Chart,锚地图,transport,锚地锚泊
+Pilotage,引航,transport,引航拖带
+Pilotage Operation,引航作业,transport,引航拖带
+Pilot Boarding Ground,引航员登轮点,transport,引航拖带
+Pilot Boarding,引航员登轮,transport,引航拖带
+Pilot Boarding Ladder,引航梯,transport,引航拖带
+Pilot Boat,引航艇,transport,引航拖带
+Pilot Transfer,引航员接送,transport,引航拖带
+Pilotage Waters,引航水域,transport,引航拖带
+Compulsory Pilotage,强制引航,transport,引航拖带
+Voluntary Pilotage,自愿引航,transport,引航拖带
+Pilot Station,引航站,transport,引航拖带
+Port Pilot,港口引航员,transport,引航拖带
+Sea Pilot,海上引航员,transport,引航拖带
+Deep Sea Pilot,远洋引航员,transport,引航拖带
+Pilotage Exemption Certificate,引航豁免证书,transport,引航拖带
+Pilot Master,引航长,transport,引航拖带
+Pilot Assistant,引航助理,transport,引航拖带
+Dispatcher,引航调度员,transport,引航拖带
+Pilotage Tariff,引航费率,transport,引航拖带
+Pilotage Order,引航申请单,transport,引航拖带
+Embarkation Time,登轮时间,transport,引航拖带
+Disembarkation Point,引航员离船点,transport,引航拖带
+Under Pilotage,引航中,transport,引航拖带
+Pilot on Board,引航员在船,transport,引航拖带
+Pilot off Board,引航员已离船,transport,引航拖带
+Bridge Team Briefing,驾驶台团队简介,transport,引航拖带
+Master Pilot Exchange,船长引航员信息交换,transport,引航拖带
+Pilot Card,引航卡,transport,引航拖带
+Ship Manoeuvring Data,船舶操纵数据,transport,引航拖带
+Tug Assistance,拖轮协助,transport,引航拖带
+Escort Tug,护航拖轮,transport,引航拖带
+Tractor Tug,全回转拖轮,transport,引航拖带
+ASD Tug,摆尾全回转拖轮,transport,引航拖带
+Conventional Tug,常规拖轮,transport,引航拖带
+Harbour Tug,港作拖轮,transport,引航拖带
+Coastal Tug,沿海拖轮,transport,引航拖带
+Ocean-Going Tug,远洋拖轮,transport,引航拖带
+Salvage Tug,救助拖轮,transport,引航拖带
+Tug Bollard Pull,拖轮系柱拖力,transport,引航拖带
+Bollard Pull Test,系柱拉力试验,transport,引航拖带
+Tug Line,拖缆,transport,引航拖带
+Towline,拖带缆,transport,引航拖带
+Tow Connection,拖带连接,transport,引航拖带
+Tow Bridle,拖缆龙须链,transport,引航拖带
+Tow Winch,拖缆绞车,transport,引航拖带
+Towing Operation,拖带作业,transport,引航拖带
+Towage Contract,拖带合同,transport,引航拖带
+Towage Tariff,拖轮费率,transport,引航拖带
+Tug Master,拖轮船长,transport,引航拖带
+Tug Fender,拖轮护舷,transport,引航拖带
+Pusher Operation,顶推作业,transport,引航拖带
+Mooring,系泊作业,transport,系缆作业
+Mooring Operation,带缆作业,transport,系缆作业
+Unmooring,解缆作业,transport,系缆作业
+Mooring Plan,系泊方案,transport,系缆作业
+Mooring Line,系泊缆绳,transport,系缆作业
+Head Line,首缆,transport,系缆作业
+Stern Line,尾缆,transport,系缆作业
+Forward Breast Line,前横缆,transport,系缆作业
+Aft Breast Line,后横缆,transport,系缆作业
+Forward Spring,前倒缆,transport,系缆作业
+Aft Spring,后倒缆,transport,系缆作业
+Bow Spring,首倒缆,transport,系缆作业
+Stern Spring,尾倒缆,transport,系缆作业
+Headline Stopper,首缆制索器,transport,系缆作业
+Mooring Rope,系船缆绳,transport,系缆作业
+Fiber Rope,纤维绳,transport,系缆作业
+Nylon Rope,尼龙绳,transport,系缆作业
+Polypropylene Rope,聚丙烯绳,transport,系缆作业
+Wire Rope Mooring,钢丝系泊缆,transport,系缆作业
+Composite Mooring Rope,混合系泊缆,transport,系缆作业
+Hawser,粗缆,transport,系缆作业
+Rope Tail,缆绳尾段,transport,系缆作业
+Synthetic Tail,合成纤维尾缆,transport,系缆作业
+Mooring Winch,系缆绞车,transport,系缆作业
+Winch Drum,绞车卷筒,transport,系缆作业
+Split Drum,分隔式卷筒,transport,系缆作业
+Rope Drum Brake,卷筒制动器,transport,系缆作业
+Winch Brake,绞车刹车,transport,系缆作业
+Brake Holding Capacity,刹车持缆力,transport,系缆作业
+Self-Tensioning Winch,自动张力绞车,transport,系缆作业
+Constant Tension Winch,恒张力绞车,transport,系缆作业
+Line Tension,缆绳张力,transport,系缆作业
+Tension Monitoring,张力监测,transport,系缆作业
+Mooring Load,系泊负荷,transport,系缆作业
+Line Load Monitor,缆绳受力监测,transport,系缆作业
+Mooring Line Management,系泊缆管理,transport,系缆作业
+Rope Splicing,绳索插接,transport,系缆作业
+Eye Splice,环眼插接,transport,系缆作业
+Thimble,嵌环,transport,系缆作业
+Shackle,卸扣,transport,系缆作业
+Bow Shackle,弓形卸扣,transport,系缆作业
+Anchor Shackle,锚链卸扣,transport,系缆作业
+Rope Guard,缆绳护罩,transport,系缆作业
+Mooring Bollard,系缆桩,transport,系缆作业
+Double Bitts,双系柱,transport,系缆作业
+Cross Bitt,十字系柱,transport,系缆作业
+Tugger Winch,辅助绞车,transport,系缆作业
+Capstan,绞盘,transport,系缆作业
+Mooring Reel,缆绳卷盘,transport,系缆作业
+Line Storage Rack,缆绳存放架,transport,系缆作业
+Hawser Eyes,缆绳眼环,transport,系缆作业
+Heaving Line Throwing,撇缆作业,transport,系缆作业
+Line Handling,带缆操作,transport,系缆作业
+Line Boat Service,送缆艇服务,transport,系缆作业
+Mooring Crew,带缆人员,transport,系缆作业
+Dry Dock,干船坞,transport,船舶维修
+Floating Dock,浮船坞,transport,船舶维修
+Graving Dock,干坞,transport,船舶维修
+Docking,进坞,transport,船舶维修
+Undocking,出坞,transport,船舶维修
+Docking Plan,进坞计划,transport,船舶维修
+Keel Blocks,龙骨墩,transport,船舶维修
+Side Blocks,边墩,transport,船舶维修
+Docking Blocks,船坞墩木,transport,船舶维修
+Bilge Blocks,边墩木,transport,船舶维修
+Dock Entrance,坞门,transport,船舶维修
+Caisson Gate,沉箱坞门,transport,船舶维修
+Dock Pumping,船坞排水,transport,船舶维修
+Dock De-Watering,坞内排水,transport,船舶维修
+Dock Sills,坞门槛,transport,船舶维修
+Dock Wall,坞墙,transport,船舶维修
+Dock Floor,坞底,transport,船舶维修
+Hull Cleaning,船体清洁,transport,船舶维修
+Hull Fouling,船体污底,transport,船舶维修
+Hull Blasting,船体喷砂,transport,船舶维修
+Hull Painting,船体油漆,transport,船舶维修
+Antifouling Coating,防污漆,transport,船舶维修
+Anticorrosive Coating,防锈漆,transport,船舶维修
+Topside Painting,舷侧涂装,transport,船舶维修
+Boot Top,水线带,transport,船舶维修
+Propeller Polishing,螺旋桨抛光,transport,船舶维修
+Propeller Blade Inspection,桨叶检查,transport,船舶维修
+Tail Shaft Survey,尾轴检验,transport,船舶维修
+Stern Tube Seal Repair,尾轴密封修理,transport,船舶维修
+Rudder Repair,舵修理,transport,船舶维修
+Anodes Replacement,牺牲阳极更换,transport,船舶维修
+Cathodic Protection Check,阴极保护检查,transport,船舶维修
+Ultrasonic Thickness Measurement,超声波测厚,transport,船舶维修
+Steel Renewal,钢板换新,transport,船舶维修
+Plate Replacement,换板工程,transport,船舶维修
+Welding Repair,焊补工程,transport,船舶维修
+Weld Inspection,焊缝检验,transport,船舶维修
+Non-Destructive Testing,无损检测,transport,船舶维修
+Radiographic Test,射线检测,transport,船舶维修
+Magnetic Particle Inspection,磁粉探伤,transport,船舶维修
+Dye Penetrant Test,渗透探伤,transport,船舶维修
+Hydrostatic Test,水压试验,transport,船舶维修
+Tightness Test,密性试验,transport,船舶维修
+Sea Trial,试航,transport,船舶维修
+Berth Trial,码头试验,transport,船舶维修
+Engine Trial,主机试车,transport,船舶维修
+Dock Trial,坞内试验,transport,船舶维修
+Vibration Measurement,振动测量,transport,船舶维修
+Alignment Check,轴系校中检查,transport,船舶维修
+Classification Survey,船级社检验,transport,船舶维修
+Special Survey,特别检验,transport,船舶维修
+Annual Survey,年度检验,transport,船舶维修
+Intermediate Survey,中期检验,transport,船舶维修
+Damage Survey,海损检验,transport,船舶维修
+Drydocking Survey,坞检,transport,船舶维修
+Condition of Class,船级状况,transport,船舶维修
+Class Society Recommendation,船级社建议项,transport,船舶维修
+Due Item,到期检验项,transport,船舶维修
+Shipyard,修造船厂,transport,船舶维修
+Repair Quay,修船码头,transport,船舶维修
+Bunkering,船舶燃料加注,transport,船舶燃料
+Bunker Fuel,船用燃料油,transport,船舶燃料
+Bunker Barge,加油驳船,transport,船舶燃料
+Bunker Barge Operation,加油驳作业,transport,船舶燃料
+Bunker Delivery Note,燃料交付单,transport,船舶燃料
+Bunker Survey,燃油公证,transport,船舶燃料
+Bunker Sampling,燃油取样,transport,船舶燃料
+Bunker Sample Seal,油样封存,transport,船舶燃料
+Bunkering Operation,加油作业,transport,船舶燃料
+Bunkering Supervisor,加油监督,transport,船舶燃料
+Ship-to-Ship Bunkering,船对船加油,transport,船舶燃料
+Bunker Tank,燃料油舱,transport,船舶燃料
+Bunker Tank Measurement,油舱测量,transport,船舶燃料
+Fuel Oil,燃油,transport,船舶燃料
+Heavy Fuel Oil,重燃油,transport,船舶燃料
+Intermediate Fuel Oil,中间燃料油,transport,船舶燃料
+Marine Diesel Oil,船用柴油,transport,船舶燃料
+Marine Gas Oil,船用轻柴油,transport,船舶燃料
+Very Low Sulphur Fuel Oil,超低硫燃料油,transport,船舶燃料
+Ultra-Low Sulphur Fuel Oil,极低硫燃油,transport,船舶燃料
+Low Sulphur Fuel,低硫燃料,transport,船舶燃料
+Sulphur Content,硫含量,transport,船舶燃料
+Fuel Quality Test,燃油质量检测,transport,船舶燃料
+Fuel Blending,燃油调合,transport,船舶燃料
+Fuel Additive,燃油添加剂,transport,船舶燃料
+Oil Barge,油驳,transport,船舶燃料
+Bunker Nozzle,加油接头,transport,船舶燃料
+Bunker Hose,输油软管,transport,船舶燃料
+Hose Connection,接管作业,transport,船舶燃料
+Drip Tray,集油盘,transport,船舶燃料
+Oil Spill Boom,围油栏,transport,船舶燃料
+Boom Deployment,围油栏布设,transport,船舶燃料
+Oil Transfer Notice,油类作业告知,transport,船舶燃料
+Bunker Plan,加油计划,transport,船舶燃料
+Fuel Consumption,燃油消耗,transport,船舶燃料
+Lubricating Oil,润滑油,transport,船舶燃料
+Cylinder Oil,气缸油,transport,船舶燃料
+System Oil,系统油,transport,船舶燃料
+Lube Oil Bunker,滑油补给,transport,船舶燃料
+Oil Transfer Pump,输油泵,transport,船舶燃料
+Fuel Transfer Line,燃油输送管,transport,船舶燃料
+Overflow Precaution,防溢措施,transport,船舶燃料
+Spill Response Team,溢油应急队,transport,船舶燃料
+Sorbent Pad,吸油毡,transport,船舶燃料
+Oil Recovery Vessel,溢油回收船,transport,船舶燃料
+Marpol VI Compliance,防污公约附则合规,transport,船舶燃料
+Max Sulphur Cap,硫上限,transport,船舶燃料
+Bunker Stem,加油申请,transport,船舶燃料
+Port State Control,港口国监督,transport,海事安全
+Port State Inspection,港口国检查,transport,海事安全
+PSC Detention,港口国滞留,transport,海事安全
+PSC Deficiency,港口国缺陷,transport,海事安全
+Detention Order,滞留令,transport,海事安全
+Deficiency Report,缺陷报告,transport,海事安全
+Port State Officer,港口国检查官,transport,海事安全
+Flag State Control,船旗国监督,transport,海事安全
+Flag State Inspection,船旗国检查,transport,海事安全
+Recognized Organization,认可组织,transport,海事安全
+Classification Society,船级社,transport,海事安全
+Flag Administration,船旗国主管机关,transport,海事安全
+Safety Management System,安全管理体系,transport,海事安全
+Document of Compliance,符合证明,transport,海事安全
+Safety Management Certificate,安全管理证书,transport,海事安全
+Port Facility Security Plan,港口设施保安计划,transport,海事安全
+Port Facility Security Officer,港口设施保安员,transport,海事安全
+Ship Security Plan,船舶保安计划,transport,海事安全
+Ship Security Officer,船舶保安员,transport,海事安全
+Company Security Officer,公司保安员,transport,海事安全
+International Ship Security Certificate,国际船舶保安证书,transport,海事安全
+Declaration of Security,保安声明,transport,海事安全
+Security Level,保安等级,transport,海事安全
+Security Incident,保安事件,transport,海事安全
+Restricted Area,限制区域,transport,海事安全
+Access Control Point,门禁检查点,transport,海事安全
+Gangway Watch,舷梯值班,transport,海事安全
+Visitor Log,访客登记,transport,海事安全
+ISPS Audit,保安规则审核,transport,海事安全
+Search and Rescue,搜救,transport,海事安全
+SAR Operation,搜救行动,transport,海事安全
+Rescue Coordination Centre,搜救协调中心,transport,海事安全
+Maritime Rescue Co-ordination,海上救助协调,transport,海事安全
+Rescue Sub-Centre,分搜救中心,transport,海事安全
+Rescue Unit,救助单元,transport,海事安全
+Search Pattern,搜寻模式,transport,海事安全
+Expanding Square Search,扩展方形搜寻,transport,海事安全
+Sector Search,扇形搜寻,transport,海事安全
+Track Line Search,航线搜寻,transport,海事安全
+Parallel Sweep Search,平行扫掠搜寻,transport,海事安全
+Coast Guard,海岸警卫队,transport,海事安全
+Lifeboat,救生艇,transport,海事安全
+Rescue Boat,救助艇,transport,海事安全
+Liferaft,救生筏,transport,海事安全
+Lifejacket,救生衣,transport,海事安全
+Immersion Suit,浸水服,transport,海事安全
+Lifebuoy,救生圈,transport,海事安全
+Line Throwing Apparatus,抛绳器,transport,海事安全
+Searchlight,探照灯,transport,海事安全
+Fireboat,消防船,transport,海事安全
+Fire Monitor,消防炮,transport,海事安全
+Fire Main,消防总管,transport,海事安全
+Emergency Towing,应急拖带,transport,海事安全
+Emergency Response Vessel,应急响应船,transport,海事安全
+Maritime Safety Information,海上安全信息,transport,海事安全
+Safety Broadcast,安全广播,transport,海事安全
+Weather Warning,气象警报,transport,海事安全
+Gale Warning,大风警报,transport,海事安全
+Storm Signal,风暴信号,transport,海事安全
+Typhoon Warning,台风警报,transport,海事安全
+Dredging,疏浚,transport,疏浚工程
+Dredging Operation,疏浚作业,transport,疏浚工程
+Dredge,挖泥船,transport,疏浚工程
+Dredger,挖泥设备,transport,疏浚工程
+Trailing Suction Hopper Dredger,耙吸式挖泥船,transport,疏浚工程
+Cutter Suction Dredger,绞吸式挖泥船,transport,疏浚工程
+Bucket Dredger,链斗式挖泥船,transport,疏浚工程
+Grab Dredger,抓斗式挖泥船,transport,疏浚工程
+Backhoe Dredger,反铲挖泥船,transport,疏浚工程
+Dipper Dredger,铲斗挖泥船,transport,疏浚工程
+Hopper Barge Dredging,泥驳疏浚,transport,疏浚工程
+Suction Pipe,吸泥管,transport,疏浚工程
+Trailing Head,耙头,transport,疏浚工程
+Cutter Head,绞刀头,transport,疏浚工程
+Dredging Pump,泥泵,transport,疏浚工程
+Overflow System,溢流系统,transport,疏浚工程
+Hopper Capacity,泥舱容量,transport,疏浚工程
+Loading Hopper,泥舱装载,transport,疏浚工程
+Rainbowing,喷抛排泥,transport,疏浚工程
+Pump Ashore,吹岸,transport,疏浚工程
+Reclamation Fill,吹填造地,transport,疏浚工程
+Land Reclamation,围海造地,transport,疏浚工程
+Discharge Pipeline,排泥管线,transport,疏浚工程
+Floating Pipeline,浮管,transport,疏浚工程
+Booster Pump,接力泵,transport,疏浚工程
+Silt Curtain,防污帘,transport,疏浚工程
+Turbidity Control,浊度控制,transport,疏浚工程
+Spud Pole,定位桩,transport,疏浚工程
+Swing Bridle,摆动缆,transport,疏浚工程
+Dredging Anchors,挖泥船锚,transport,疏浚工程
+Dredging Area,疏浚区,transport,疏浚工程
+Dredging Depth,疏浚深度,transport,疏浚工程
+Design Depth,设计水深,transport,疏浚工程
+Overdepth Dredging,超深疏浚,transport,疏浚工程
+Pre-Dredge Survey,疏浚前测深,transport,疏浚工程
+Post-Dredge Survey,疏浚后测深,transport,疏浚工程
+Bathymetric Survey,水深测量,transport,疏浚工程
+Echo Sounder Survey,回声测深,transport,疏浚工程
+Multibeam Survey,多波束测量,transport,疏浚工程
+Side Scan Sonar,侧扫声呐,transport,疏浚工程
+Sounding,测深,transport,疏浚工程
+Navigation Channel Dredging,航道疏浚,transport,疏浚工程
+Channel Deepening,航道增深,transport,疏浚工程
+Channel Widening,航道拓宽,transport,疏浚工程
+Maintenance Dredging,维护性疏浚,transport,疏浚工程
+Capital Dredging,基建性疏浚,transport,疏浚工程
+Backfilling,回淤,transport,疏浚工程
+Siltation,泥沙淤积,transport,疏浚工程
+Sand Bypassing,拦沙输沙,transport,疏浚工程
+Disposal Ground,抛泥区,transport,疏浚工程
+Dredged Material Reuse,疏浚土利用,transport,疏浚工程
+Contaminated Sediment,污染底泥,transport,疏浚工程
+Sediment Sampling,底泥取样,transport,疏浚工程
+Environmental Dredging,环保疏浚,transport,疏浚工程
+Dredging Permit,疏浚许可,transport,疏浚工程
+Maritime Communication,海事通信,transport,海事通信
+VHF Marine Band,甚高频海事频段,transport,海事通信
+VHF Channel 16,甚高频16频道,transport,海事通信
+Working Channel,工作频道,transport,海事通信
+DSC Call,数字选择性呼叫,transport,海事通信
+Digital Selective Calling,数字选择呼叫系统,transport,海事通信
+MF Band,中频频段,transport,海事通信
+HF Radio,高频无线电,transport,海事通信
+Navtex Receiver,航行电传接收机,transport,海事通信
+Navtex Message,航行电传真,transport,海事通信
+Inmarsat Terminal,海事卫星终端,transport,海事通信
+Fleet Broadband,海事卫星宽带,transport,海事通信
+VSAT Terminal,船载卫通终端,transport,海事通信
+MF-HF Modem,中高频调制解调器,transport,海事通信
+Marine Radio Operator,船舶无线电员,transport,海事通信
+Radio Watchkeeping,无线电值守,transport,海事通信
+Radio Watch,无线电值班,transport,海事通信
+Calling Frequency,呼叫频率,transport,海事通信
+Distress Frequency,遇险频率,transport,海事通信
+Distress Traffic,遇险通信,transport,海事通信
+Distress Relay,遇险转发,transport,海事通信
+Pan-Pan Message,紧急呼叫信息,transport,海事通信
+Securite Message,安全呼叫信息,transport,海事通信
+Urgency Signal,紧急信号,transport,海事通信
+Safety Signal,安全信号,transport,海事通信
+Silence Period,静默时间,transport,海事通信
+Radio Medical Advice,无线电医疗咨询,transport,海事通信
+Global Maritime Distress and Safety System,全球海上遇险与安全系统,transport,海事通信
+Long Range Identification and Tracking,远程识别与跟踪,transport,海事通信
+Automatic Identification System,船舶自动识别系统,transport,海事通信
+Marine Radar,船用雷达,transport,海事通信
+Electronic Chart Display and Information System,电子海图显示与信息系统,transport,海事通信
+Port Operations Service,港口业务通信,transport,海事通信
+Port Radio Station,港口无线电台,transport,海事通信
+Harbor Radiotelephone,港口无线电话,transport,海事通信
+Traffic Channel,通航频道,transport,海事通信
+VTS Broadcast,交管广播,transport,海事通信
+VTS Operator,交管操作员,transport,海事通信
+VTS Center,船舶交通管理中心,transport,海事通信
+Vessel Traffic Service,船舶交通服务,transport,海事通信
+Vessel Traffic Management,船舶交通管理,transport,海事通信
+Traffic Separation Scheme,分道通航制,transport,海事通信
+Traffic Lane,通航分道,transport,海事通信
+Precautionary Area,警戒区,transport,海事通信
+Traffic Organization,交通组织,transport,海事通信
+Sailing Plan Report,航次计划报告,transport,海事通信
+Position Report,船位报告,transport,海事通信
+Arrival Report,抵港报告,transport,海事通信
+Departure Report,离港报告,transport,海事通信
+Notice to Mariners,航海通告,transport,海事通信
+Radio Navigational Warning,无线电航行警告,transport,海事通信
+Coastal Warning,海岸警报,transport,海事通信
+Local Warning,地方警告,transport,海事通信
+Meteorological Warning,气象警告,transport,海事通信
+Hydrographic Note,水道测量报告,transport,海事通信
+Port Agency,港口代理,transport,港口服务
+Ship Agency,船舶代理,transport,港口服务
+Ship Agent,船舶代理人,transport,港口服务
+Owners Agent,船东代理,transport,港口服务
+Protecting Agent,保护代理,transport,港口服务
+Port Captain,港口船长,transport,港口服务
+Port Representative,港口代表,transport,港口服务
+Husbandry Services,船舶物料供应服务,transport,港口服务
+Husbandry Agent,船舶事务代理,transport,港口服务
+Crew Change Service,船员换班服务,transport,港口服务
+Crew Repatriation,船员遣返,transport,港口服务
+Sign Off Crew,下船船员,transport,港口服务
+Sign On Crew,上船船员,transport,港口服务
+Shore Leave,登岸假,transport,港口服务
+Shore Pass,登岸许可证,transport,港口服务
+Crew Mail Handling,船员邮件代办,transport,港口服务
+Ship Spares Logistics,船备件物流,transport,港口服务
+Spares Clearance,备件通关,transport,港口服务
+Ship Store Supply,船舶物料供应,transport,港口服务
+Provision Supply,伙食供应,transport,港口服务
+Fresh Water Supply,淡水供应,transport,港口服务
+Sludge Removal,污油水接收,transport,港口服务
+Slops Disposal,舱底水接收,transport,港口服务
+Garbage Removal,垃圾接收,transport,港口服务
+Garbage Receipt,垃圾接收单,transport,港口服务
+Sewage Disposal,生活污水接收,transport,港口服务
+Oily Waste Collection,含油废物收集,transport,港口服务
+Noxious Liquid Reception,有毒液体接收,transport,港口服务
+Reception Facility,接收设施,transport,港口服务
+Port Health Service,港口卫生服务,transport,港口服务
+Quarantine Service,检疫服务,transport,港口服务
+Maritime Medical Assistance,海上医疗救助,transport,港口服务
+Signaling Station,信号台,transport,港口服务
+Flag Hoisting Service,信号旗服务,transport,港口服务
+Berth Booking Service,泊位预订服务,transport,港口服务
+Port Dues,港口规费,transport,港口服务
+Port Charges Settlement,港口使费结算,transport,港口服务
+Disbursement Account,港口使费账单,transport,港口服务
+Port Entry Coordination,进港协调,transport,港口服务
+Anchoring Order,锚泊指令,transport,港口服务
+Port Master Plan,港口总体规划,transport,港口规划
+Port Layout Plan,港区布置规划,transport,港口规划
+Port Zoning,港区功能分区,transport,港口规划
+Terminal Planning,码头规划,transport,港口规划
+Land Use Planning,用地规划,transport,港口规划
+Waterfront Development,滨水开发,transport,港口规划
+Port Hinterland,港口腹地,transport,港口规划
+Port Catchment Area,港口吸引范围,transport,港口规划
+Cargo Forecast,货量预测,transport,港口规划
+Throughput Forecast,吞吐量预测,transport,港口规划
+Design Throughput,设计吞吐量,transport,港口规划
+Berth Demand Analysis,泊位需求分析,transport,港口规划
+Navigation Channel Design,航道设计,transport,港口规划
+Channel Alignment,航道轴线,transport,港口规划
+Basin Layout,港池布置,transport,港口规划
+Breakwater Layout,防波堤布置,transport,港口规划
+Port Infrastructure Plan,港口基础设施规划,transport,港口规划
+Feasibility Study,可行性研究,transport,港口规划
+Engineering Survey,工程测量,transport,港口规划
+Hydrographic Investigation,水文勘察,transport,港口规划
+Geological Investigation,地质勘察,transport,港口规划
+Environmental Impact Assessment,环境影响评估,transport,港口规划
+Port Construction Project,港口建设项目,transport,港口规划
+Port Expansion Plan,港口扩建规划,transport,港口规划
+Port City Integration,港城融合,transport,港口规划
+Safe Manning Document,安全配员文件,transport,船员配员
+Minimum Safe Manning,最低安全配员,transport,船员配员
+Crew List,船员名单,transport,船员配员
+Crew Agreement,船员雇佣协议,transport,船员配员
+Articles of Agreement,船员任用契约,transport,船员配员
+Seafarer Employment Agreement,海员就业协议,transport,船员配员
+Certificate of Competency,适任证书,transport,船员配员
+Certificate of Endorsement,适任签证,transport,船员配员
+Certificate of Proficiency,专业技能证书,transport,船员配员
+Watchkeeping Certificate,值班证书,transport,船员配员
+Radar Observer Certificate,雷达观测员证书,transport,船员配员
+GMDSS Operator Certificate,海事无线电操作员证书,transport,船员配员
+Medical Fitness Certificate,海员健康证明,transport,船员配员
+Seafarer Medical Examination,海员体检,transport,船员配员
+Seaman Passport,海员护照,transport,船员配员
+Seaman Book,海员证,transport,船员配员
+Crew Identity Document,船员身份证件,transport,船员配员
+Flag Endorsement,船旗国签证,transport,船员配员
+Training Record Book,培训记录簿,transport,船员配员
+Sea Service Record,海上资历记录,transport,船员配员
+Crew Manning Agency,船员配给机构,transport,船员配员
+Manning Agency License,配员机构许可证,transport,船员配员
+Crew Wage,船员工资,transport,船员配员
+Crew Attendance,船员上下船登记,transport,船员配员
+Crew Transfer Boat,船员交通艇,transport,船员配员
+Crew Boat,接船员艇,transport,船员配员
+Standby Vessel,守护船,transport,船员配员
+Watch Schedule,值班表,transport,船员配员
+Rest Hour Record,休息时间记录,transport,船员配员
+Crew Relief,船员换班,transport,船员配员
+Salvage Operations,海难救助作业,transport,海事安全
+Wreck Removal,沉船清除,transport,海事安全
+Salvage Award,救助报酬,transport,海事安全
+Lloyd's Open Form,劳氏救助合同格式,transport,海事安全
+Bunkering License,加油作业许可,transport,船舶燃料
+Sludge Barge,污油水接收驳,transport,港口服务

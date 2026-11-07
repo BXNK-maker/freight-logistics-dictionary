@@ -1,0 +1,251 @@
+﻿term_en,term_zh,category,subcategory
+Dangerous Goods,危险品,transport,危险品类别
+IATA Dangerous Goods Regulations,危险品规则,transport,危险品类别
+UN Number,联合国编号,transport,危险品类别
+Proper Shipping Name,正确运输名称,transport,危险品类别
+Class 1 Explosives,第1类爆炸品,transport,危险品类别
+Class 2 Gases,第2类气体,transport,危险品类别
+Flammable Gas,易燃气体,transport,危险品类别
+Class 3 Flammable Liquids,第3类易燃液体,transport,危险品类别
+Class 4 Flammable Solids,第4类易燃固体,transport,危险品类别
+Self-heating Substance,自热物质,transport,危险品类别
+Class 5 Oxidizing Substances,第5类氧化性物质,transport,危险品类别
+Organic Peroxide,有机过氧化物,transport,危险品类别
+Class 6 Toxic and Infectious Substances,第6类毒性感染性物质,transport,危险品类别
+Class 7 Radioactive Material,第7类放射性物质,transport,危险品类别
+Fissile Material,易裂变物质,transport,危险品类别
+Class 8 Corrosive Material,第8类腐蚀性物质,transport,危险品类别
+Class 9 Miscellaneous Dangerous Goods,第9类杂项危险品,transport,危险品类别
+Magnetized Material,磁性物质,transport,危险品类别
+Infectious Substance,感染性物质,transport,危险品类别
+Category A Substance,A类感染性物质,transport,危险品类别
+Biological Substance Category B,B类生物物质,transport,危险品类别
+Genetically Modified Organism,转基因生物,transport,危险品类别
+Aerosol,气雾剂,transport,危险品类别
+Cryogenic Liquid,深冷液体,transport,危险品类别
+Lithium Battery,锂电池,transport,危险品类别
+UN 3480,锂离子电池,transport,危险品类别
+UN 3481,随设备锂电池,transport,危险品类别
+State of Charge,荷电状态,transport,危险品类别
+Dry Ice,干冰,transport,危险品类别
+Shipper's Declaration for Dangerous Goods,危险品托运申报单,transport,危险品空运
+NOTOC,机长通知单,transport,危险品空运
+Dangerous Goods Training,危险品培训,transport,危险品空运
+Dangerous Goods Acceptance,危险品收运检查,transport,危险品空运
+Dangerous Goods Segregation,危险品隔离,transport,危险品空运
+Cargo Aircraft Only,仅限货机,transport,危险品空运
+Passenger Aircraft Limitation,客机限量,transport,危险品空运
+Forbidden Dangerous Goods,禁运危险品,transport,危险品空运
+Hidden Dangerous Goods,隐蔽危险品,transport,危险品空运
+Hazard Label,危险品标签,transport,危险品空运
+Safety Data Sheet,安全技术说明书,transport,危险品空运
+DG Emergency Response,危险品应急处置,transport,危险品空运
+DG Spill Kit,危险品泄漏包,transport,危险品空运
+DG Incident Report,危险品事故报告,transport,危险品空运
+Emergency Contact,应急联系人,transport,危险品空运
+24-hour Contact,24小时应急电话,transport,危险品空运
+Excepted Quantity,例外数量,transport,危险品空运
+Overpack,合包装,transport,危险品空运
+Dangerous Goods Packing,危险品包装,transport,危险品空运
+Packing Group,包装等级,transport,危险品空运
+Packing Instruction,包装说明,transport,危险品空运
+UN Specification Packaging,联合国规格包装,transport,危险品空运
+Type A Package,A型放射性包装,transport,危险品空运
+Aviation Security,航空安保,transport,航空安保
+Known Consignor,已知托运人,transport,航空安保
+Account Consignor,记名托运人,transport,航空安保
+Regulated Agent,经认可代理人,transport,航空安保
+Consignment Security Declaration,货物安全申报,transport,航空安保
+Cargo Screening,货物安检,transport,航空安保
+Security Screening,安全检查,transport,航空安保
+Screening Method,安检方式,transport,航空安保
+Random Check,安检抽查,transport,航空安保
+Physical Inspection,开箱检查,transport,航空安保
+Suspicious Cargo,可疑货物,transport,航空安保
+X-ray Screening,X光安检,transport,航空安保
+Explosive Trace Detection,爆炸物痕迹检测,transport,航空安保
+Explosive Vapor Detection,爆炸物蒸气检测,transport,航空安保
+Explosive Detection System,爆炸物探测系统,transport,航空安保
+CT Scanner,CT安检设备,transport,航空安保
+Hand-held Detector,手持探测仪,transport,航空安保
+Canine Team,安检犬队,transport,航空安保
+Vehicle Screening,车辆安检,transport,航空安保
+Security Restricted Area,安保限制区,transport,航空安保
+Airside Pass,空侧通行证,transport,航空安保
+Access Control,门禁管制,transport,航空安保
+Background Check,背景审查,transport,航空安保
+Security Training,安保培训,transport,航空安保
+Security Coordinator,安保协调员,transport,航空安保
+Security Program,安保方案,transport,航空安保
+Security Audit,安保审计,transport,航空安保
+Security Incident,安保事件,transport,航空安保
+CCTV Surveillance,视频监控,transport,航空安保
+Cargo Security Seal,货物铅封,transport,航空安保
+Tamper-evident Seal,防拆封条,transport,航空安保
+Seal Number,封号,transport,航空安保
+Seal Verification,封志核验,transport,航空安保
+Secure Supply Chain,安全供应链,transport,航空安保
+Screened Cargo,已安检货物,transport,航空安保
+Unscreened Cargo,未安检货物,transport,航空安保
+Chain of Custody,监管链条,transport,航空安保
+ICS2,欧盟进口管制系统,transport,航空安保
+Transportation Security Administration,美国运输安全管理局,transport,航空安保
+Certified Cargo Screening Program,认证货物安检计划,transport,航空安保
+Indirect Air Carrier,间接空运承运人,transport,航空安保
+Live Animals Regulations,活体动物运输规程,transport,活体动物
+Live Animal,活体动物,transport,活体动物
+Pet Transport,宠物托运,transport,活体动物
+Pet Kennel,宠物航空箱,transport,活体动物
+Live Horse Transport,活马空运,transport,活体动物
+Day-old Chicks,雏禽,transport,活体动物
+Hatching Eggs,种蛋,transport,活体动物
+Aquarium Fish,观赏鱼,transport,活体动物
+Laboratory Animal,实验动物,transport,活体动物
+Feeding Instruction,喂养指示,transport,活体动物
+Animal Health Certificate,动物检疫证书,transport,活体动物
+Veterinary Certificate,兽医卫生证书,transport,活体动物
+Animal Quarantine,动物检疫,transport,活体动物
+CITES Permit,濒危物种许可证,transport,活体动物
+Live Animal Label,活体动物标签,transport,活体动物
+Perishable Cargo Regulations,鲜活易腐货物规程,transport,生鲜冷链
+Perishable Cargo,鲜活易腐货物,transport,生鲜冷链
+Perishable Label,鲜活货物标签,transport,生鲜冷链
+Cut Flowers,鲜切花,transport,生鲜冷链
+Fresh Seafood,生鲜水产,transport,生鲜冷链
+Fresh Produce,新鲜果蔬,transport,生鲜冷链
+Live Plants,活体植物,transport,生鲜冷链
+Frozen Cargo,冷冻货物,transport,生鲜冷链
+Deep Frozen,深冷货物,transport,生鲜冷链
+Chilled Cargo,冷藏货物,transport,生鲜冷链
+Shelf Life,保质期,transport,生鲜冷链
+Cold Chain,冷链,transport,生鲜冷链
+Cold Chain Logistics,冷链物流,transport,生鲜冷链
+Cold Chain Packaging,冷链包装,transport,生鲜冷链
+Temperature Zone,温区,transport,生鲜冷链
+Temperature Control Regulations,温控货物规程,transport,生鲜冷链
+Temperature Monitoring,温度监测,transport,生鲜冷链
+Data Logger,温度记录仪,transport,生鲜冷链
+Temperature Excursion,温度偏移,transport,生鲜冷链
+Pre-cooling,货物预冷,transport,生鲜冷链
+Thermal Blanket,保温毯,transport,生鲜冷链
+Insulated Container,保温集装箱,transport,生鲜冷链
+Gel Pack,凝胶冰袋,transport,生鲜冷链
+Active Container,主动式温控集装箱,transport,生鲜冷链
+Passive Container,被动式温控集装箱,transport,生鲜冷链
+RKN,RKN温控集装箱,transport,生鲜冷链
+RAP,RAP温控集装板,transport,生鲜冷链
+Pre-conditioned Container,预冷集装器,transport,生鲜冷链
+Reefer Plug,冷藏电源接口,transport,生鲜冷链
+Humidity Control,湿度控制,transport,生鲜冷链
+Pharmaceutical Cargo,医药货物,transport,医药冷链
+Vaccine Transport,疫苗运输,transport,医药冷链
+Good Distribution Practice,药品经营质量管理规范,transport,医药冷链
+GDP Certified,GDP认证,transport,医药冷链
+CEIV,独立验证卓越中心,transport,医药冷链
+CEIV Pharma,CEIV医药认证,transport,医药冷链
+CEIV Fresh,CEIV生鲜认证,transport,医药冷链
+Valuable Cargo,贵重货物,transport,贵重物资
+Precious Metal,贵金属,transport,贵重物资
+Jewelry Shipment,珠宝运输,transport,贵重物资
+Currency Shipment,货币运送,transport,贵重物资
+Art Cargo,艺术品运输,transport,贵重物资
+Diplomatic Cargo,外交货物,transport,贵重物资
+Security Escort,安保护送,transport,贵重物资
+Bullion Transport,金条运输,transport,贵重物资
+Courier Bag,快递集装袋,transport,快递航空
+Special Cargo,特种货物,transport,特种货处理
+Fragile Cargo,易碎货物,transport,特种货处理
+Human Remains,遗体运输,transport,特种货处理
+Cremated Remains,骨灰运输,transport,特种货处理
+Humanitarian Cargo,人道救援货物,transport,特种货处理
+ATA Carnet,ATA单证册,transport,特种货处理
+Exhibition Cargo,展品运输,transport,特种货处理
+Aircraft Spare Parts,航空备件,transport,特种货处理
+Special Handling Code,特殊处理代码,transport,特殊处理代码
+AVI,活体动物代码,transport,特殊处理代码
+PER,鲜活易腐货物代码,transport,特殊处理代码
+PEF,鲜花代码,transport,特殊处理代码
+PEM,鲜肉代码,transport,特殊处理代码
+HEA,重型货物代码,transport,特殊处理代码
+VAL,贵重货物代码,transport,特殊处理代码
+CAO,仅限货机代码,transport,特殊处理代码
+DGR,危险品代码,transport,特殊处理代码
+ICE,干冰代码,transport,特殊处理代码
+MAG,磁性物质代码,transport,特殊处理代码
+HUM,遗体代码,transport,特殊处理代码
+FIL,未冲洗胶片代码,transport,特殊处理代码
+COM,公司物资代码,transport,特殊处理代码
+PHM,医药货物代码,transport,特殊处理代码
+Charter Flight,包机航班,transport,包机业务
+Full Charter,全包机,transport,包机业务
+Part Charter,部分包机,transport,包机业务
+Ad hoc Charter,临时包机,transport,包机业务
+Emergency Charter,应急包机,transport,包机业务
+Relief Charter,救援包机,transport,包机业务
+Charter Agreement,包机协议,transport,包机业务
+Charter Permit,包机许可,transport,包机业务
+Charter Rate,包机运价,transport,包机业务
+Charter Quotation,包机报价,transport,包机业务
+Charter Broker,包机经纪人,transport,包机业务
+Charter Operator,包机运营人,transport,包机业务
+Wet Lease,湿租,transport,包机业务
+Dry Lease,干租,transport,包机业务
+Damp Lease,半湿租,transport,包机业务
+ACMI Lease,ACMI湿租,transport,包机业务
+Exclusive Use,包舱独用,transport,包机业务
+Block Space Agreement,舱位包销协议,transport,包机业务
+Blocked Space,包销舱位,transport,包机业务
+Free Sale,自由销售舱位,transport,包机业务
+Guaranteed Capacity,舱位保障,transport,包机业务
+Capacity Purchase Agreement,舱位购买协议,transport,包机业务
+Positioning Flight,调机航班,transport,包机业务
+Ferry Flight,调机空飞,transport,包机业务
+Technical Stop,技术经停,transport,包机业务
+Fuel Stop,加油经停,transport,包机业务
+Landing Permit,着陆许可,transport,包机业务
+Overflight Permit,飞越许可,transport,包机业务
+Traffic Rights,航权,transport,包机业务
+Fifth Freedom,第五航权,transport,包机业务
+Sixth Freedom,第六航权,transport,包机业务
+Cabotage,国内载运权,transport,包机业务
+Bilateral Agreement,双边航空协定,transport,包机业务
+Open Sky,开放天空,transport,包机业务
+Diplomatic Clearance,外交许可,transport,包机业务
+Road Feeder Service,卡车航班,transport,空陆联运
+Trucking,空陆卡车联运,transport,空陆联运
+Trucking Manifest,卡车舱单,transport,空陆联运
+Multimodal Transport,多式联运,transport,空陆联运
+Sea-Air Transport,海空联运,transport,空陆联运
+Rail Air Intermodal,空铁联运,transport,空陆联运
+Cross-border Trucking,跨境卡车运输,transport,空陆联运
+Bonded Trucking,保税卡车运输,transport,空陆联运
+Road Haulage,公路运输,transport,空陆联运
+TIR Carnet,国际公路运输手册,transport,空陆联运
+Transloading,换装转载,transport,空陆联运
+Air Express,航空快递,transport,快递航空
+Express Carrier,快递承运商,transport,快递航空
+Integrator,一体化快递承运商,transport,快递航空
+Courier Service,快递服务,transport,快递航空
+Courier Waybill,快递运单,transport,快递航空
+Courier Pickup,快递揽收,transport,快递航空
+Next Flight Out,下一航班急件,transport,快递航空
+Same Day Delivery,当日达,transport,快递航空
+Next Day Delivery,次日达,transport,快递航空
+Overnight Express,次晨达,transport,快递航空
+Time-definite Delivery,限时达,transport,快递航空
+On Board Courier,随身急件,transport,快递航空
+International Express,国际快递,transport,快递航空
+Domestic Express,国内快递,transport,快递航空
+Last Mile Delivery,最后一公里配送,transport,快递航空
+Sort Hub,快件分拣中心,transport,快递航空
+Tracking Number,快递单号,transport,快递航空
+Signature Required,签收要求,transport,快递航空
+Remote Area Surcharge,偏远地区附加费,transport,快递航空
+Residential Surcharge,住宅地址附加费,transport,快递航空
+Oversize Charge,超大件附加费,transport,快递航空
+Cross-border E-commerce,跨境电商,transport,快递航空
+Reverse Logistics,逆向物流,transport,快递航空
+Document Shipment,文件件,transport,快递航空
+Parcel Shipment,包裹件,transport,快递航空
+Weight Slab,计费重量段,transport,快递航空
+Zone Rate,分区运价,transport,快递航空

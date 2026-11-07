@@ -1,0 +1,551 @@
+﻿term_en,term_zh,category,subcategory
+Quay Wall,码头岸壁,transport,码头岸线
+Berth,泊位,transport,码头岸线
+Berth Occupancy Rate,泊位占用率,transport,码头岸线
+Berth Utilization Rate,泊位利用率,transport,码头岸线
+Container Berth,集装箱泊位,transport,码头岸线
+Multipurpose Berth,多用途泊位,transport,码头岸线
+Ro-Ro Berth,滚装泊位,transport,码头岸线
+Lay-By Berth,待泊泊位,transport,码头岸线
+Layberth,闲置泊位,transport,码头岸线
+Dedicated Berth,专用泊位,transport,码头岸线
+Riverside Berth,顺岸泊位,transport,码头岸线
+Marginal Wharf,顺岸码头,transport,码头岸线
+Pier,突堤码头,transport,码头岸线
+Jetty,栈桥码头,transport,码头岸线
+Dolphin,系船墩,transport,码头岸线
+Breasting Dolphin,靠船墩,transport,码头岸线
+Mooring Dolphin,系泊墩,transport,码头岸线
+Quay Apron,码头前沿堆场,transport,码头岸线
+Wharf Apron,码头前沿,transport,码头岸线
+Backshore,码头后方区,transport,码头岸线
+Landside Area,陆侧区域,transport,码头岸线
+Waterside Area,水侧区域,transport,码头岸线
+Quay Crane Rail,岸桥轨道,transport,码头岸线
+Bollard,系船柱,transport,码头岸线
+Bollard Pull,系船柱拉力,transport,码头岸线
+Fender,护舷,transport,码头岸线
+Fender Panel,护舷面板,transport,码头岸线
+Pneumatic Fender,充气式护舷,transport,码头岸线
+Cylindrical Fender,圆筒形护舷,transport,码头岸线
+Cellular Fender,鼓型护舷,transport,码头岸线
+Cone Fender,锥型护舷,transport,码头岸线
+Buckling Fender,压缩变形护舷,transport,码头岸线
+Ladder,登船梯,transport,码头岸线
+Water Intake Point,岸上取水点,transport,码头岸线
+Shore Connection,岸电接驳点,transport,码头岸线
+Quay Length,码头岸线长度,transport,码头岸线
+Berth Depth,泊位水深,transport,码头岸线
+Design Vessel,设计船型,transport,码头岸线
+Tidal Range,潮差,transport,码头岸线
+Berth Window,泊位作业窗口,transport,码头岸线
+Quay Structure,码头结构,transport,码头岸线
+Sheet Pile Quay,板桩码头,transport,码头岸线
+Gravity Quay,重力式码头,transport,码头岸线
+Caisson Quay,沉箱码头,transport,码头岸线
+Open-Pile Wharf,高桩码头,transport,码头岸线
+Pontoon,浮码头趸船,transport,码头岸线
+Floating Pontoon,浮式趸船,transport,码头岸线
+Harbor Basin,港池,transport,码头岸线
+Turning Basin,回旋水域,transport,码头岸线
+Basin Depth,港池水深,transport,码头岸线
+Yard Block,堆场箱区,transport,码头装卸
+Yard Planning,堆场计划,transport,码头装卸
+Yard Allocation,堆场分配,transport,码头装卸
+Ground Slot,地面箱位,transport,码头装卸
+Reefer Rack,冷藏箱架,transport,码头装卸
+Reefer Monitoring,冷藏箱监控,transport,码头装卸
+Plug-In Service,冷藏箱接电服务,transport,码头装卸
+Empty Container Yard,空箱堆场,transport,码头装卸
+Depot,修箱堆场,transport,码头装卸
+Container Freight Station,集装箱货运站,transport,码头装卸
+CFS Operation,货运站作业,transport,码头装卸
+Devanning,拆箱,transport,码头装卸
+Vanning,装箱,transport,码头装卸
+Stuffing,装箱作业,transport,码头装卸
+Stripping,拆箱作业,transport,码头装卸
+Cross Docking,越库作业,transport,码头装卸
+Direct Delivery,直取作业,transport,码头装卸
+Direct Loading,直装作业,transport,码头装卸
+Pre-Stacking,预堆存,transport,码头装卸
+Marshalling Yard,编组场,transport,码头装卸
+Container Yard,集装箱堆场,transport,码头装卸
+Yard Crane Block,场桥作业箱区,transport,码头装卸
+Slot Planning,箱位计划,transport,码头装卸
+Container Position,箱位,transport,码头装卸
+Bay Plan,排位图,transport,码头装卸
+Stowage Plan,配载图,transport,码头装卸
+Loading Sequence,装船顺序,transport,码头装卸
+Discharge Sequence,卸船顺序,transport,码头装卸
+Working Sequence,作业顺序,transport,码头装卸
+Quay Crane Split,岸桥作业路数,transport,码头装卸
+Crane Split,桥吊分船作业,transport,码头装卸
+Tandem Lift,双箱吊作业,transport,码头装卸
+Twin Lift,双吊具联吊,transport,码头装卸
+Tandem Lift Operation,双箱联吊作业,transport,码头装卸
+Dual Cycle Operation,双循环作业,transport,码头装卸
+Single Cycle,单循环作业,transport,码头装卸
+Quay Crane Cycle Time,岸桥单循环时间,transport,码头装卸
+Hook Operation,吊钩作业,transport,码头装卸
+Hook Cycle,吊钩循环,transport,码头装卸
+Gantry Travel,大车行走,transport,码头装卸
+Trolley Travel,小车行走,transport,码头装卸
+Boom Hoisting,俯仰升降,transport,码头装卸
+Slewing,回转,transport,码头装卸
+Luffing,变幅,transport,码头装卸
+Container Handling Rate,集装箱单机效率,transport,码头装卸
+Moves Per Hour,每小时作业箱量,transport,码头装卸
+Crane Productivity,桥吊生产率,transport,码头装卸
+Berth Productivity,泊位效率,transport,码头装卸
+Gross Crane Rate,桥吊毛效率,transport,码头装卸
+Net Crane Rate,桥吊净效率,transport,码头装卸
+Terminal Operating System,码头操作系统,transport,码头装卸
+Terminal Appointment System,码头预约系统,transport,码头装卸
+Gate System,闸口系统,transport,码头装卸
+Gate-In,进闸,transport,码头装卸
+Gate-Out,出闸,transport,码头装卸
+Truck Turn Time,集卡周转时间,transport,码头装卸
+Truck Interchange,拖车交接作业,transport,码头装卸
+Yard Transfer,堆场转运,transport,码头装卸
+Dockside Operation,码头边作业,transport,码头装卸
+Quay Shift,码头班次,transport,码头装卸
+Gang,装卸班组,transport,码头装卸
+Stevedoring,装卸承包作业,transport,码头装卸
+Stevedore,装卸工人,transport,码头装卸
+Dockworker,码头工人,transport,码头装卸
+Hatchman,舱口工人,transport,码头装卸
+Foreman,工头,transport,码头装卸
+Tally Clerk,理货员,transport,码头装卸
+Tally,理货,transport,码头装卸
+Tally Report,理货报告,transport,码头装卸
+Longshore Labor,码头劳工,transport,码头装卸
+Shift Handover,交接班,transport,码头装卸
+STS Crane,岸边集装箱起重机,transport,港口机械
+Ship-To-Shore Crane,岸桥,transport,港口机械
+Container Crane,集装箱起重机,transport,港口机械
+Portal Crane,门座起重机,transport,港口机械
+Harbor Crane,港口起重机,transport,港口机械
+Mobile Harbor Crane,移动式港机,transport,港口机械
+Quayside Container Crane,岸边集装箱桥吊,transport,港口机械
+Outreach,前伸距,transport,港口机械
+Backreach,后伸距,transport,港口机械
+Rail Gauge,轨距,transport,港口机械
+Lifting Capacity,起重量,transport,港口机械
+Safe Working Load,安全工作负荷,transport,港口机械
+Spreader,吊具,transport,港口机械
+Twin Spreader,双箱吊具,transport,港口机械
+Telescopic Spreader,伸缩式吊具,transport,港口机械
+Rotating Spreader,旋转吊具,transport,港口机械
+Spreader Lock,吊具锁销,transport,港口机械
+Twist Lock,集装箱转锁,transport,港口机械
+Trolley,起重小车,transport,港口机械
+Machine Room,机房,transport,港口机械
+Boom,大梁,transport,港口机械
+A-Frame,人字架,transport,港口机械
+Gantry,门架,transport,港口机械
+Boom Hoist,大梁俯仰机构,transport,港口机械
+Hoist Winch,起升机构,transport,港口机械
+Anti-Sway System,防摇系统,transport,港口机械
+Positioning System,定位系统,transport,港口机械
+Crane Simulator,桥吊模拟器,transport,港口机械
+RTG,轮胎式龙门起重机,transport,港口机械
+RMG,轨道式龙门起重机,transport,港口机械
+Rail-Mounted Gantry Crane,轨道吊,transport,港口机械
+Rubber-Tyred Gantry Crane,轮胎吊,transport,港口机械
+Rubber Tyre Gantry,轮胎式龙门吊,transport,港口机械
+Gantry Crane,龙门起重机,transport,港口机械
+Straddle Carrier,跨运车,transport,港口机械
+Straddle Carrier Operator,跨运车司机,transport,港口机械
+Reach Stacker,正面吊,transport,港口机械
+Reachstacker,正面吊运起重机,transport,港口机械
+Empty Handler,空箱堆高机,transport,港口机械
+Empty Container Handler,空箱叉车,transport,港口机械
+Top Loader,集装箱正面吊,transport,港口机械
+Side Loader,侧面叉车,transport,港口机械
+Forklift,叉车,transport,港口机械
+Counterbalance Forklift,平衡重叉车,transport,港口机械
+Terminal Tractor,码头牵引车,transport,港口机械
+Yard Tractor,堆场拖车,transport,港口机械
+Shunt Truck,场内调头车,transport,港口机械
+Yard Truck,集装箱拖头,transport,港口机械
+Hustler,港内牵引车,transport,港口机械
+Chassis,拖车底盘,transport,港口机械
+Trailerable Chassis,拖挂底盘,transport,港口机械
+Skid,滑撬底架,transport,港口机械
+Twist-Lock Assembly,转锁总成,transport,港口机械
+Dolly,挂车,transport,港口机械
+Low Bed Trailer,低平板拖车,transport,港口机械
+Multimax Trailer,多轴重型拖车,transport,港口机械
+Gooseneck Trailer,鹅颈式拖车,transport,港口机械
+Flat Rack,框架箱,transport,港口机械
+Automated Guided Vehicle,自动导引运输车,transport,港口机械
+AGV,自动导引车,transport,港口机械
+Automated Lifting Vehicle,自动吊运车,transport,港口机械
+AutoStrad,自动化跨运车,transport,港口机械
+Automated Stacking Crane,自动化堆垛机,transport,港口机械
+ASC,自动化轨道吊,transport,港口机械
+ARMG,自动化轨道式龙门吊,transport,港口机械
+STS Crane Operator,岸桥司机,transport,港口机械
+Remote Crane Operation,远程操控吊机,transport,港口机械
+Remote Control Center,远程控制中心,transport,港口机械
+Terminal Automation,码头自动化,transport,港口机械
+Semi-Automated Yard,半自动化堆场,transport,港口机械
+Automated Container Terminal,自动化集装箱码头,transport,港口机械
+Container Tilting System,集装箱翻转机,transport,港口机械
+Container Handler Attachment,吊叉两用属具,transport,港口机械
+Grab,抓斗,transport,港口机械
+Grab Bucket,抓斗吊斗,transport,港口机械
+Mechanical Grab,机械抓斗,transport,港口机械
+Hydraulic Grab,液压抓斗,transport,港口机械
+Clamshell Grab,贝壳形抓斗,transport,港口机械
+Orange Peel Grab,橘瓣式抓斗,transport,港口机械
+Grapple,抓钩,transport,港口机械
+Electro-Hydraulic Grab,电液压抓斗,transport,港口机械
+Radio Remote Grab,无线电遥控抓斗,transport,港口机械
+Hopper,漏斗,transport,港口机械
+Ship Unloader,卸船机,transport,港口机械
+Screw Unloader,螺旋卸船机,transport,港口机械
+Continuous Ship Unloader,连续卸船机,transport,港口机械
+Gantry Unloader,门式卸船机,transport,港口机械
+Grab Ship Unloader,抓斗卸船机,transport,港口机械
+Ship Loader,装船机,transport,港口机械
+Traveling Ship Loader,移动式装船机,transport,港口机械
+Chute,溜槽,transport,港口机械
+Telescopic Chute,伸缩溜管,transport,港口机械
+Hatch Cover Handling Gear,舱盖吊架,transport,港口机械
+Port Gantry Crane,港口龙门吊,transport,港口机械
+Container Spreader Frame,吊具框架,transport,港口机械
+Container Lifting Lug,角件吊孔,transport,港口机械
+Corner Casting,角件,transport,港口机械
+Container Spreaders,吊具横梁,transport,港口机械
+Positioning Laser,激光定位,transport,港口机械
+Container Positioning System,集装箱定位系统,transport,港口机械
+Lashing Platform,绑扎桥,transport,港口机械
+Lashing Platform Truck,绑扎平台车,transport,港口机械
+Dust Suppression System,抑尘系统,transport,港口机械
+Fuel-Saving Crane Drive,节能驱动桥吊,transport,港口机械
+Crane Electrification,港机电能回馈,transport,港口机械
+Regenerative Braking,能量回馈制动,transport,港口机械
+Crane Health Monitoring,港机健康监测,transport,港口机械
+Port Equipment Maintenance,港机保养,transport,港口机械
+Planned Maintenance,计划保养,transport,港口机械
+Breakdown Maintenance,故障维修,transport,港口机械
+Spare Parts Store,备件库,transport,港口机械
+Cargo Handling Gear,起重属具,transport,港口装卸工艺
+Hatch Beam,舱口梁,transport,港口装卸工艺
+Cargo Securing,货物绑扎,transport,港口装卸工艺
+Lashing,绑扎作业,transport,港口装卸工艺
+Lashing Rod,绑扎杆,transport,港口装卸工艺
+Lashing Bar,绑扎棒,transport,港口装卸工艺
+Turnbuckle,松紧螺旋扣,transport,港口装卸工艺
+D Ring,D形环,transport,港口装卸工艺
+Cell Guide,导轨架,transport,港口装卸工艺
+Cell Guide Post,导轨立柱,transport,港口装卸工艺
+Bracing Bracket,支撑托架,transport,港口装卸工艺
+Stacking Cone,堆叠锥,transport,港口装卸工艺
+Bridge Fitting,桥式连接件,transport,港口装卸工艺
+Tompang,代装运输,transport,港口装卸工艺
+Dehumidification Cargo Care,货物除湿养护,transport,港口装卸工艺
+Sweat Damage,汗湿损坏,transport,港口装卸工艺
+Ventilation,舱内通风,transport,港口装卸工艺
+Dunnage,垫舱物料,transport,港口装卸工艺
+Dunnage Bag,充气垫袋,transport,港口装卸工艺
+Shifting Board,防移板,transport,港口装卸工艺
+Cargo Slippage,货物滑动,transport,港口装卸工艺
+Broken Stowage,亏舱,transport,港口装卸工艺
+Stowage Factor,积载因数,transport,港口装卸工艺
+Measurement Cargo,轻泡货,transport,港口装卸工艺
+Deadweight Cargo,重货,transport,港口装卸工艺
+Tally Sheet,理货单,transport,港口装卸工艺
+Outturn Report,卸货理货报告,transport,港口装卸工艺
+Load Out,装载出场,transport,港口装卸工艺
+Loading Operation,装货作业,transport,港口装卸工艺
+Discharging Operation,卸货作业,transport,港口装卸工艺
+Stevedore Hook,吊货钩,transport,港口装卸工艺
+Cargo Hook,货钩,transport,港口装卸工艺
+Canvas Sling,帆布吊兜,transport,港口装卸工艺
+Cargo Sling,吊货索,transport,港口装卸工艺
+Slings,吊索,transport,港口装卸工艺
+Lifting Beam,吊梁,transport,港口装卸工艺
+Cargo Net,货网,transport,港口装卸工艺
+Tray,货盘,transport,港口装卸工艺
+Palletization,托盘化,transport,港口装卸工艺
+Unit Load,单元货物,transport,港口装卸工艺
+Containerization,集装箱化,transport,港口装卸工艺
+Containerization Rate,集装箱化率,transport,港口装卸工艺
+FCL Delivery,整箱交付,transport,港口装卸工艺
+LCL Delivery,拼箱交付,transport,港口装卸工艺
+Containerized Cargo,集装箱货物,transport,港口装卸工艺
+Loose Cargo,件杂货,transport,港口装卸工艺
+Breakbulk Cargo,杂货,transport,港口装卸工艺
+Neobulk Cargo,单元化杂货,transport,港口装卸工艺
+Bagged Cargo,袋装货物,transport,港口装卸工艺
+Crated Cargo,箱装货物,transport,港口装卸工艺
+Wooden Case Cargo,木箱货,transport,港口装卸工艺
+Barrel Cargo,桶装货物,transport,港口装卸工艺
+Heavy Lift Cargo,重大件货物,transport,港口装卸工艺
+Heavy Lift Operation,重大件吊装作业,transport,港口装卸工艺
+Overweight Cargo,超重货物,transport,港口装卸工艺
+Sensitivity Cargo,敏感性货物,transport,港口装卸工艺
+Dangerous Goods,危险货物,transport,港口装卸工艺
+Dangerous Goods Manifest,危险品舱单,transport,港口装卸工艺
+Dangerous Goods Storage,危险品仓储,transport,港口装卸工艺
+Segregation Table,隔离表,transport,港口装卸工艺
+Hazard Class,危险品类别,transport,港口装卸工艺
+Refrigerated Container,冷藏集装箱,transport,港口装卸工艺
+Reefer Plugging,冷藏箱插电,transport,港口装卸工艺
+Temperature Recording,温度记录,transport,港口装卸工艺
+Reefer Container Inspection,冷藏箱检查,transport,港口装卸工艺
+Controlled Atmosphere Container,气调集装箱,transport,港口装卸工艺
+Perishable Cargo,易腐货物,transport,港口装卸工艺
+Livestock Handling,牲畜装卸,transport,港口装卸工艺
+Bulk Handling,散货装卸,transport,港口装卸工艺
+Dry Bulk Terminal,干散货码头,transport,港口装卸工艺
+Bulk Cargo Handling,散货作业,transport,港口装卸工艺
+Iron Ore Handling,铁矿石接卸,transport,港口装卸工艺
+Coal Handling,煤炭装卸,transport,港口装卸工艺
+Grain Handling,粮食接卸,transport,港口装卸工艺
+Fertilizer Handling,化肥装卸,transport,港口装卸工艺
+Bauxite Unloading,铝土矿卸船,transport,港口装卸工艺
+Bulk Cement Handling,散装水泥作业,transport,港口装卸工艺
+Cement Silo,水泥筒仓,transport,港口装卸工艺
+Dust Control,扬尘控制,transport,港口装卸工艺
+Stockpile Management,堆垛管理,transport,港口装卸工艺
+Stockyard,料场,transport,港口装卸工艺
+Stacker-Reclaimer,堆取料机,transport,港口装卸工艺
+Bucket-Wheel Stacker-Reclaimer,斗轮堆取料机,transport,港口装卸工艺
+Belt Conveyor,带式输送机,transport,港口装卸工艺
+Conveyor Belt,输送带,transport,港口装卸工艺
+Belt Conveyor System,带式输送系统,transport,港口装卸工艺
+Conveyor Transfer Point,输送机转运点,transport,港口装卸工艺
+Belt Scale,皮带秤,transport,港口装卸工艺
+Shiploader Boom Conveyor,装船机臂架输送机,transport,港口装卸工艺
+Silo,筒仓,transport,港口装卸工艺
+Hatch Cover,舱盖,transport,港口装卸工艺
+Hatch Cover Removal,舱盖拆卸,transport,港口装卸工艺
+Lid Lifting,舱盖吊移,transport,港口装卸工艺
+Hatch Coaming,舱口围板,transport,港口装卸工艺
+Hatch Square,舱口区域,transport,港口装卸工艺
+Hold Cleaning,货舱清扫,transport,港口装卸工艺
+Cargo Residue,货物残留物,transport,港口装卸工艺
+Sweeping,扫舱作业,transport,港口装卸工艺
+Sludge Disposal,污物清除,transport,港口装卸工艺
+Stevedoring Gear,装卸索具,transport,港口装卸工艺
+Cargo Lashing Point,货物系固点,transport,港口装卸工艺
+Commodity Inspection,商品检验,transport,港口装卸工艺
+Cargo Survey,货物检验,transport,港口装卸工艺
+Draft Survey,水尺计量,transport,港口装卸工艺
+Initial Draft Survey,装前水尺计重,transport,港口装卸工艺
+Final Draft Survey,卸后水尺计重,transport,港口装卸工艺
+Weighbridge,地磅,transport,港口装卸工艺
+Weighing Scale,称重设备,transport,港口装卸工艺
+Tank Calibration,油罐标定,transport,港口装卸工艺
+Cargo Manifest,货物舱单,transport,港口装卸工艺
+Yard Planning System,堆场计划系统,transport,码头信息化
+Berth Allocation System,泊位分配系统,transport,码头信息化
+Vessel Schedule,船舶计划,transport,码头信息化
+Vessel Operations Plan,船舶作业计划,transport,码头信息化
+Crane Assignment,桥吊指派,transport,码头信息化
+Yard Crane Dispatching,场桥调度,transport,码头信息化
+Truck Dispatching System,拖车调度系统,transport,码头信息化
+Dispatch Optimization,调度优化,transport,码头信息化
+Terminal Operations Control Center,码头中控室,transport,码头信息化
+Control Tower,码头控制塔,transport,码头信息化
+Real-Time Positioning System,实时定位系统,transport,码头信息化
+Yard Crane Positioning,场桥定位,transport,码头信息化
+Vehicle Location System,车辆定位系统,transport,码头信息化
+Container Tracking,集装箱跟踪,transport,码头信息化
+Gate Automation,闸口自动化,transport,码头信息化
+Optical Character Recognition,光学字符识别,transport,码头信息化
+Container Code Recognition,箱号自动识别,transport,码头信息化
+RFID Gate,射频识别闸口,transport,码头信息化
+E-Delivery Order,电子提货单,transport,码头信息化
+Electronic Interchange,电子交换单,transport,码头信息化
+EDI Message,电子数据交换报文,transport,码头信息化
+EDIFACT Message,联合国电子报文,transport,码头信息化
+Port Community System,港口社区系统,transport,码头信息化
+Port Call Optimization,靠港计划优化,transport,码头信息化
+Just-In-Time Arrival,准时到港,transport,码头信息化
+Vessel Traffic Information,船舶动态信息,transport,码头信息化
+Berth Planning,泊位计划,transport,码头信息化
+Ship Shore Coordination,船岸协调,transport,码头信息化
+Terminal Web Portal,码头网上营业厅,transport,码头信息化
+Customer Service Portal,客户服务门户,transport,码头信息化
+Container Demurrage,集装箱超期堆存费,transport,码头信息化
+Container Detention,集装箱超期使用费,transport,码头信息化
+Off-Dock Yard,场外堆场,transport,码头信息化
+In-Gate Appointment,进闸预约,transport,码头信息化
+Out-Gate Appointment,出闸预约,transport,码头信息化
+Slot Booking,箱位预订,transport,码头信息化
+Container Movement Record,集装箱动态记录,transport,码头信息化
+Container Damage Inspection,验残作业,transport,码头信息化
+Container Damage Report,残损报告,transport,码头信息化
+Container Repair,修箱,transport,码头信息化
+Container Survey,集装箱检验,transport,码头信息化
+Container Terminal Gateway,码头闸口,transport,码头信息化
+Weighing System,称重系统,transport,码头信息化
+Movement Type,动态类型,transport,码头信息化
+Load Status,重空箱状态,transport,码头信息化
+Laden Container,重箱,transport,码头信息化
+Empty Container,空箱,transport,码头信息化
+Empty Repositioning,空箱调运,transport,码头信息化
+Equipment Interchange Receipt,设备交接单,transport,码头信息化
+Gate Movement Record,闸口动态记录,transport,码头信息化
+Yard Movement Record,堆场动态记录,transport,码头信息化
+Terminal Automation Upgrade,码头自动化改造,transport,码头信息化
+Fifth Generation Container Terminal,第五代港口码头,transport,码头信息化
+Intelligent Terminal,智慧码头,transport,码头信息化
+Digital Twin Terminal,数字孪生码头,transport,码头信息化
+Port Logistics Platform,港口物流平台,transport,码头信息化
+Terminal Yard Depth,堆场纵深,transport,码头信息化
+Gate Lane,闸口通道,transport,码头信息化
+Gate Booth,闸口岗亭,transport,码头信息化
+Gate Complex,闸口建筑群,transport,码头信息化
+Gate Line,闸口排队线,transport,码头信息化
+Gate Queue,闸口排队,transport,码头信息化
+Truck Queue Management,集卡排队管理,transport,码头信息化
+Appointment Slot,预约时段,transport,码头信息化
+Empty Container Park,空箱场,transport,码头信息化
+Heavy Lift Crane,大件起重机,transport,码头装卸
+Floating Crane,浮式起重机,transport,码头装卸
+Crane Barge,起重驳船,transport,码头装卸
+Sheerleg Crane Vessel,自升式起重船,transport,码头装卸
+Gangway,舷梯,transport,码头装卸
+Accommodation Ladder,登乘梯,transport,码头装卸
+Pilot Ladder,引航员软梯,transport,码头装卸
+Cargo Loading Rate,货物装率,transport,码头装卸
+Loading Rate,装载速率,transport,码头装卸
+Discharging Rate,卸载速率,transport,码头装卸
+Ship Worked,船舶开工,transport,码头装卸
+All Fast,缆绳全部系牢,transport,码头装卸
+Finished With Cargo,装卸完毕,transport,码头装卸
+Cargo Operation Stop,暂停装卸,transport,码头装卸
+Rain Stop,雨天停工,transport,码头装卸
+Berth Shift,泊位调移,transport,码头装卸
+Shifting Berth,移泊,transport,码头装卸
+Quay Shift Operation,倒泊作业,transport,码头装卸
+Cargo Gear Certification,起重设备检验证,transport,码头装卸
+Ship Shore Crane Interface,船岸吊装接口,transport,码头装卸
+Container Lashing Inspection,绑扎检查,transport,码头装卸
+Container Overstow,翻倒箱,transport,码头装卸
+Restow,倒箱作业,transport,码头装卸
+Hatch Sequence,舱位顺序,transport,码头装卸
+Stowage Sequence,配载顺序,transport,码头装卸
+Loading Time,装载时间,transport,码头装卸
+Cargo Plan,装载计划,transport,码头装卸
+Bend Slot,弯板箱位,transport,码头装卸
+Stability Calculation,稳性计算,transport,码头装卸
+Stability Booklet,稳性报告书,transport,码头装卸
+Ballast Plan,压载计划,transport,码头装卸
+Deadweight Utilization,载重利用率,transport,码头装卸
+Hatch Cover Strength,舱盖强度,transport,码头装卸
+Stack Weight Limit,堆重限制,transport,码头装卸
+Yard Ground Load,堆场地面载荷,transport,码头装卸
+Pavement,堆场铺面,transport,码头装卸
+Yard Pavement Design,堆场面层设计,transport,码头装卸
+Gantry Rail,龙门吊轨道,transport,码头装卸
+Port Dry Bulk Terminal,港口干散货作业区,transport,码头装卸
+Breakbulk Terminal,件杂货码头,transport,码头装卸
+Heavy Cargo Terminal,重件码头,transport,码头装卸
+Combined Cargo Berth,多用途货泊位,transport,码头装卸
+Chemical Terminal Operations,化学品码头作业,transport,码头装卸
+Berthing Aid System,靠泊辅助系统,transport,码头装卸
+Berth Allocation Plan,泊位分配计划,transport,码头装卸
+Terminal Appointment Slotting,码头预约排位,transport,码头装卸
+Container Freight Station Building,货运站站房,transport,码头装卸
+Duty-Free Warehouse,保税仓库,transport,码头装卸
+Bonded Yard,保税堆场,transport,码头装卸
+Bonded Warehouse,海关监管仓,transport,码头装卸
+Bonded Logistics Park,保税物流园区,transport,码头装卸
+Customs Supervision Zone,海关监管区,transport,码头装卸
+Customs Examination Yard,海关查验场,transport,码头装卸
+Customs Clearance Yard,通关验放场,transport,码头装卸
+Manifest Check,舱单核对,transport,码头装卸
+Yard Exit Gate,堆场出口闸,transport,码头装卸
+Gate Yard Transfer,闸口堆场转运,transport,码头装卸
+Truck Weight Inspection,车辆称重检查,transport,码头装卸
+Container Freight Station Loading Bay,货运站装卸月台,transport,码头装卸
+Warehouse Loading Dock,仓库装卸平台,transport,码头装卸
+Dock Leveller,装卸调节板,transport,码头装卸
+Loading Ramp,装载坡道,transport,码头装卸
+Container Tilt Chassis,倾转式底盘车,transport,码头装卸
+Container Dumper,集装箱倾卸机,transport,码头装卸
+Bulk Container Loading,散货箱装货,transport,码头装卸
+Liner Bag,集装箱内衬袋,transport,码头装卸
+Flexitank,液体集装袋,transport,码头装卸
+Reefer Genset,冷藏箱发电机,transport,码头装卸
+Genset,发电机组,transport,码头装卸
+Reefer Container Setting,冷藏箱温度设定,transport,码头装卸
+Ventilation Setting,通风口设定,transport,码头装卸
+Container Pre-Trip Inspection,冷藏箱预检,transport,码头装卸
+Container Leak Test,集装箱渗漏试验,transport,码头装卸
+Container Waterproof Test,集装箱水密试验,transport,码头装卸
+Container Certificate,集装箱证书,transport,码头装卸
+Container Weight,集装箱自重,transport,码头装卸
+Tare Weight,皮重,transport,码头装卸
+Verified Gross Mass,核实总重,transport,码头装卸
+Cargo Weight Declaration,货重申报,transport,码头装卸
+Weight Deviation,箱重偏差,transport,码头装卸
+Out-of-Gauge Cargo,超限货物,transport,码头装卸
+OOG Cargo,超尺码货物,transport,码头装卸
+Flat Rack Cargo,框架箱货物,transport,码头装卸
+Open Top Cargo,开顶箱货物,transport,码头装卸
+Tank Container Cleaning,罐箱清洗,transport,码头装卸
+Container Cleaning Station,洗箱站,transport,码头装卸
+Washing Bay,洗箱台位,transport,码头装卸
+Cargo Residue Disposal,货物残渣处置,transport,码头装卸
+Hazardous Cargo Waste,危险品废弃物,transport,码头装卸
+Yard Lighting,堆场照明,transport,码头装卸
+Terminal Fence,码头围网,transport,码头装卸
+Terminal Access Control,码头门禁管理,transport,码头装卸
+Port Gate Complex,港区大门,transport,码头装卸
+Truck Parking Lot,集卡停车场,transport,码头装卸
+Truck Marshalling Yard,集卡集散场,transport,码头装卸
+Terminal Shuttle,码头摆渡车,transport,码头装卸
+Container Loading Supervision,装箱监装,transport,码头装卸
+Cargo Stuffing Supervision,装箱监装服务,transport,码头装卸
+Inspection Witness,检验见证,transport,码头装卸
+Warehouse Keeper,库管员,transport,码头装卸
+Warehouse Management System,仓库管理系统,transport,码头装卸
+Bonded Inland Depot,内陆保税堆场,transport,码头装卸
+Dry Port,内陆港,transport,码头装卸
+Inland Container Depot,内陆集装箱堆场,transport,码头装卸
+Drayage,集卡短驳运输,transport,码头装卸
+Drayage Trucker,集卡司机,transport,码头装卸
+Port Truck Lane,港区专用车道,transport,码头装卸
+Truck Platoon Lane,集卡编队车道,transport,码头装卸
+Dock Buffer Zone,码头缓冲区,transport,码头装卸
+Dolly Exchange Point,挂车交换点,transport,码头装卸
+Yard Block Relocation,箱区倒移,transport,码头装卸
+Housekeeping Slot Consolidation,箱位归整,transport,码头装卸
+Reefer Monitoring System,冷藏箱监控系统,transport,码头装卸
+CFS Warehouse,货运站仓库,transport,码头装卸
+Bonded Transit Warehouse,保税中转仓,transport,码头装卸
+Customs Sealed Transit,海关封志运输,transport,码头装卸
+Customs Seal,海关铅封,transport,码头装卸
+Seal Integrity Check,铅封核查,transport,码头装卸
+Cargo Store Manifest,仓储舱单,transport,码头装卸
+Warehouse Receipt,仓储凭证,transport,码头装卸
+Yard Clearance Notice,堆场清理通知,transport,码头装卸
+Cargo Left Behind,滞留货物,transport,码头装卸
+Unclaimed Cargo,无主货物,transport,码头装卸
+Auction Cargo,拍卖货物,transport,码头装卸
+Cargo Damage Survey,货损检验,transport,码头装卸
+Cargo Short Landing,短卸,transport,码头装卸
+Cargo Overlanded,多卸货物,transport,码头装卸
+Broken Cargo,破损货物,transport,码头装卸
+Damaged Cargo Survey,残损货物检验,transport,码头装卸
+Wet Damage,水湿损坏,transport,码头装卸
+Contaminated Cargo,污染货物,transport,码头装卸
+Cargo Isolation Area,货物隔离区,transport,码头装卸
+Infested Cargo,虫害货物,transport,码头装卸
+Fumigation Treatment,熏蒸处理,transport,码头装卸
+Fumigation Certificate,熏蒸证书,transport,码头装卸
+Quarantine Inspection,检疫查验,transport,码头装卸
+Phytosanitary Inspection,植物检疫,transport,码头装卸
+Veterinary Inspection,动物检疫,transport,码头装卸
+Cold Treatment,冷处理,transport,码头装卸
+Heat Treatment,热处理,transport,码头装卸
+Cargo Sampling,货物取样,transport,码头装卸
+Laboratory Analysis,实验室化验,transport,码头装卸
+Moisture Content Test,水分含量检测,transport,码头装卸

@@ -1,0 +1,251 @@
+﻿term_en,term_zh,category,subcategory
+Unit Load Device,集装器,transport,集装器类型
+ULD Code,集装器代码,transport,集装器类型
+Aircraft Container,航空集装箱,transport,集装器类型
+Aircraft Pallet,航空集装板,transport,集装器类型
+Aircraft Pallet Net,集装板网,transport,集装器类型
+Standard Pallet,标准集装板,transport,集装器类型
+Half Pallet,半尺寸集装板,transport,集装器类型
+Rigid Container,硬质集装箱,transport,集装器类型
+Full Height Container,全高集装箱,transport,集装器类型
+Half Height Container,半高集装箱,transport,集装器类型
+Lower Deck Container,下舱集装箱,transport,集装器类型
+Main Deck Container,主货舱集装箱,transport,集装器类型
+Upper Deck Container,上舱集装箱,transport,集装器类型
+AKE,LD3型集装箱,transport,集装器类型
+AKA,LD1型集装箱,transport,集装器类型
+DPE,LD2型集装箱,transport,集装器类型
+PMC (P6P),96英寸标准集装板,transport,集装器类型
+PAG (P1P),88英寸集装板,transport,集装器类型
+AMA,主货舱集装板,transport,集装器类型
+AMJ,主货舱集装箱代码,transport,集装器类型
+PAJ,主货舱20英尺集装板,transport,集装器类型
+Lower Deck Pallet,下舱集装板,transport,集装器类型
+Ventilated Container,通风集装箱,transport,集装器类型
+Temperature-controlled ULD,温控集装器,transport,集装器类型
+Horse Stall,马匹装载栏,transport,集装器类型
+Mail Container,邮件集装箱,transport,集装器类型
+Contour,外形轮廓,transport,集装器类型
+Maximum Contour,最大轮廓线,transport,集装器类型
+Contour Check,轮廓检查,transport,集装器类型
+Contour Diagram,轮廓图,transport,集装器类型
+Pallet Size,集装板尺寸,transport,集装器类型
+Pallet Height,集装板高度,transport,集装器类型
+Container Volume,集装箱容积,transport,集装器类型
+Certified ULD,适航认证集装器,transport,集装器类型
+Restraint Net,约束网,transport,集装器类型
+Side Net,侧网,transport,集装器类型
+Tie-down Strap,系留带,transport,集装器类型
+Tie-down Ring,系留环,transport,集装器类型
+Spreader Board,分载垫板,transport,集装器类型
+Edge Rail,集装板边轨,transport,集装器类型
+Rain Cover,防雨罩布,transport,集装器类型
+Webbing,织带,transport,集装器类型
+Lashing Point,系留点,transport,集装器类型
+Pallet Stop,集装板挡块,transport,集装器类型
+Floor Track,地板轨道,transport,集装器类型
+Bulk Loading,散装装载,transport,集装器类型
+Loose Load,散件装载,transport,集装器类型
+Dunnage,垫料,transport,集装器类型
+Void Filling,空隙填充,transport,集装器类型
+Air Bag,充气袋,transport,集装器类型
+Corner Protection,护角,transport,集装器类型
+Bracing,支撑加固,transport,集装器类型
+Wooden Pallet,木托盘,transport,集装器类型
+Plastic Pallet,塑料托盘,transport,集装器类型
+Carton,纸箱,transport,集装器类型
+Crates,木箱,transport,集装器类型
+Drums,桶装容器,transport,集装器类型
+ULD Identification,集装器编号,transport,集装器管理
+ULD Serial Number,集装器序号,transport,集装器管理
+ULD Owner Code,集装器属主代码,transport,集装器管理
+ULD Check Digit,集装器校验位,transport,集装器管理
+ULD Tag,集装器挂牌,transport,集装器管理
+ULD Control,集装器管控,transport,集装器管理
+ULD Pooling,集装器共享租赁,transport,集装器管理
+ULD Leasing,集装器租赁,transport,集装器管理
+Long-term Lease,长期租赁,transport,集装器管理
+Short-term Lease,短期租赁,transport,集装器管理
+ULD Damage Report,集装器破损报告,transport,集装器管理
+ULD Demurrage,集装器滞期费,transport,集装器管理
+ULD Tare Weight,集装器皮重,transport,集装器管理
+ULD Weight Limit,集装器限重,transport,集装器管理
+Maximum Gross Weight,集装器最大总重,transport,集装器管理
+Empty ULD Return,空集装器返还,transport,集装器管理
+ULD Handover,集装器交接,transport,集装器管理
+ULD Repair,集装器维修,transport,集装器管理
+ULD Stock,集装器库存,transport,集装器管理
+Interline ULD,联运集装器,transport,集装器管理
+Damage Rate,破损率,transport,集装器管理
+Container Washing,集装箱清洗,transport,集装器管理
+Container Disinfection,集装箱消毒,transport,集装器管理
+Serviceability Label,可用状态标签,transport,集装器管理
+Unserviceable Tag,不可用标签,transport,集装器管理
+Container Type Code,集装箱类型代码,transport,集装器管理
+Pallet Type Code,集装板类型代码,transport,集装器管理
+Container Frame,集装箱框架,transport,集装器管理
+Stowage,积载,transport,集装器管理
+Empty Container,空箱,transport,集装器管理
+Empty Pallet,空板,transport,集装器管理
+Freighter,全货机,transport,机舱与机型
+Converted Freighter,客改货飞机,transport,机舱与机型
+Passenger-to-Freighter Conversion,客改货改装,transport,机舱与机型
+Combi Aircraft,客货混装机,transport,机舱与机型
+Quick Change Aircraft,快速转换机型,transport,机舱与机型
+Boeing Converted Freighter,波音改装货机,transport,机舱与机型
+Wide-body Aircraft,宽体机,transport,机舱与机型
+Narrow-body Aircraft,窄体机,transport,机舱与机型
+Wide-body Freighter,宽体货机,transport,机舱与机型
+Narrow-body Freighter,窄体货机,transport,机舱与机型
+Regional Freighter,支线货机,transport,机舱与机型
+Turboprop Freighter,涡桨货机,transport,机舱与机型
+Aircraft Type,机型,transport,机舱与机型
+Aircraft Registration,飞机注册号,transport,机舱与机型
+Cargo Airline,货运航空公司,transport,机舱与机型
+All-cargo Airline,全货运航空公司,transport,机舱与机型
+Combination Carrier,客货兼营运力,transport,机舱与机型
+Boeing 747-8F,波音747-8全货机,transport,机舱与机型
+Boeing 747-400F,波音747-400全货机,transport,机舱与机型
+Boeing 747-400ERF,波音747-400ER货机,transport,机舱与机型
+Boeing 777F,波音777全货机,transport,机舱与机型
+Boeing 777-8F,波音777-8货机,transport,机舱与机型
+Boeing 767-300F,波音767-300全货机,transport,机舱与机型
+Boeing 757-200F,波音757-200全货机,transport,机舱与机型
+Boeing 737-800BCF,波音737-800改装货机,transport,机舱与机型
+Boeing 737-800SF,波音737-800特殊货机,transport,机舱与机型
+Boeing 767-300BCF,波音767-300改装货机,transport,机舱与机型
+Boeing 747-400BDSF,波音747-400特种改装货机,transport,机舱与机型
+McDonnell Douglas MD-11F,麦道MD-11货机,transport,机舱与机型
+McDonnell Douglas MD-10F,麦道MD-10货机,transport,机舱与机型
+Airbus A330-200F,空客A330-200货机,transport,机舱与机型
+Airbus A330P2F,空客A330客改货,transport,机舱与机型
+Airbus A321P2F,空客A321客改货,transport,机舱与机型
+Airbus A320P2F,空客A320客改货,transport,机舱与机型
+Airbus A300-600F,空客A300-600货机,transport,机舱与机型
+Airbus A310-300F,空客A310货机,transport,机舱与机型
+Airbus A350F,空客A350货机,transport,机舱与机型
+Antonov An-124,安-124运输机,transport,机舱与机型
+Antonov An-225,安-225运输机,transport,机舱与机型
+Ilyushin IL-76,伊尔-76运输机,transport,机舱与机型
+Lockheed L-100,洛克希德L-100运输机,transport,机舱与机型
+Boeing 747LCF,波音747大型货运机,transport,机舱与机型
+Airbus BelugaXL,空客大白鲸运输机,transport,机舱与机型
+Freighter Capacity,货机运力,transport,机舱与机型
+Conversion Facility,改装工厂,transport,机舱与机型
+Supplemental Type Certificate,补充型号合格证,transport,机舱与机型
+Type Certificate,型号合格证,transport,机舱与机型
+Main Deck,主货舱,transport,货舱设施
+Lower Deck,下货舱,transport,货舱设施
+Upper Deck,上货舱,transport,货舱设施
+Belly Hold,腹舱,transport,货舱设施
+Forward Hold,前货舱,transport,货舱设施
+Aft Hold,后货舱,transport,货舱设施
+Nose Cargo Compartment,机头货舱,transport,货舱设施
+Bulk Compartment,散货舱,transport,货舱设施
+Cargo Compartment,货舱,transport,货舱设施
+Pressurized Compartment,增压货舱,transport,货舱设施
+Ventilated Compartment,通风货舱,transport,货舱设施
+Cargo Door,货舱门,transport,货舱设施
+Side Cargo Door,侧货舱门,transport,货舱设施
+Nose Cargo Door,机头货舱门,transport,货舱设施
+Door Dimension,舱门尺寸,transport,货舱设施
+Nose Loading,机头装货,transport,货舱设施
+Side Door Loading,侧门装载,transport,货舱设施
+Main Deck Loading,主舱装载,transport,货舱设施
+Lower Deck Loading,下舱装载,transport,货舱设施
+Upper Deck Loading,上舱装载,transport,货舱设施
+Manual Loading,人工装载,transport,货舱设施
+Cargo Loading System,装货系统,transport,货舱设施
+Roller System,滚棒系统,transport,货舱设施
+End Stop,限位挡块,transport,货舱设施
+Floor Reinforcement,地板加强,transport,货舱设施
+Floor Beam,地板横梁,transport,货舱设施
+Fire Liner,防火衬层,transport,货舱设施
+Liner Panel,衬板,transport,货舱设施
+Barrier Net,隔离网,transport,货舱设施
+Smoke Detection System,烟雾探测系统,transport,货舱设施
+Container Capacity,集装箱位数,transport,货舱设施
+Bulk Capacity,散货舱容量,transport,货舱设施
+Bulk Weight Limit,散货舱限重,transport,货舱设施
+Cargo Hold Volume,货舱容积,transport,货舱设施
+Pallet Position,集装板机位,transport,货舱设施
+Position Number,机位编号,transport,货舱设施
+Density Limit,密度限制,transport,货舱设施
+Loading Height Limit,装载高度限制,transport,货舱设施
+Main Deck Height,主货舱高度,transport,货舱设施
+Aircraft Compatibility,机型适配,transport,货舱设施
+Aircraft Loading Manual,飞机装载手册,transport,货舱设施
+Loadmaster,装载长,transport,货舱设施
+Outsized Cargo,超大件货物,transport,货舱设施
+Project Cargo,项目货物,transport,货舱设施
+Machinery Cargo,机械设备货,transport,货舱设施
+Overweight Cargo,超重货物,transport,货舱设施
+Load Control,配载控制,transport,配载平衡
+Load Controller,配载员,transport,配载平衡
+Loading Coordinator,装载协调员,transport,配载平衡
+Weight and Balance,载重与平衡,transport,配载平衡
+Weight and Balance Manual,载重平衡手册,transport,配载平衡
+Load Sheet,载重表,transport,配载平衡
+Final Load Sheet,最终载重表,transport,配载平衡
+Manual Load Sheet,手工载重表,transport,配载平衡
+Digital Loadsheet,电子载重表,transport,配载平衡
+Load and Trim Sheet,载重配平表,transport,配载平衡
+Load Plan,装载计划,transport,配载平衡
+Loading Instruction,装载指示,transport,配载平衡
+Loading Sequence,装载顺序,transport,配载平衡
+Load Planning Software,配载软件,transport,配载平衡
+Auto Load Planning,自动配载,transport,配载平衡
+LDM,载重报文,transport,配载平衡
+ACARS,飞机通信寻址与报告系统,transport,配载平衡
+Center of Gravity,重心,transport,配载平衡
+CG Limits,重心限制,transport,配载平衡
+CG Envelope,重心包线,transport,配载平衡
+CG Index,重心指数,transport,配载平衡
+CG Calculation,重心计算,transport,配载平衡
+Forward CG Limit,前重心限制,transport,配载平衡
+Aft CG Limit,后重心限制,transport,配载平衡
+Mean Aerodynamic Chord,平均空气动力弦,transport,配载平衡
+Trim,配平,transport,配载平衡
+Trim Setting,配平设定,transport,配载平衡
+Balance Check,平衡校验,transport,配载平衡
+Balance Diagram,平衡图,transport,配载平衡
+Zero Fuel Weight,零燃油重量,transport,配载平衡
+Maximum Zero Fuel Weight,最大零燃油重量,transport,配载平衡
+Dry Operating Weight,干运行重量,transport,配载平衡
+Operating Empty Weight,运营空重,transport,配载平衡
+Basic Empty Weight,基本空重,transport,配载平衡
+Takeoff Weight,起飞重量,transport,配载平衡
+Maximum Takeoff Weight,最大起飞重量,transport,配载平衡
+Landing Weight,着陆重量,transport,配载平衡
+Maximum Landing Weight,最大着陆重量,transport,配载平衡
+Maximum Ramp Weight,最大滑行重量,transport,配载平衡
+Maximum Payload,最大商载,transport,配载平衡
+Useful Load,有效载荷,transport,配载平衡
+Load Distribution,载荷分配,transport,配载平衡
+Weight Moment,重量力矩,transport,配载平衡
+Lateral Balance,横向平衡,transport,配载平衡
+Load Factor,载运率,transport,配载平衡
+Cargo Restraint System,货物约束系统,transport,配载平衡
+Special Load,特殊装载,transport,配载平衡
+Load Report,载重报告,transport,配载平衡
+Load Adjustment,载荷调整,transport,配载平衡
+Ballast,配重,transport,配载平衡
+Weight Limit,重量限制,transport,配载平衡
+Running Load,累积载荷,transport,配载平衡
+Point Load,点载荷,transport,配载平衡
+Floor Load Limit,货舱地板限载,transport,配载平衡
+Linear Load Limit,单位长度限载,transport,配载平衡
+Verified Weight,核定重量,transport,配载平衡
+Re-weighing,重新过磅,transport,配载平衡
+Runway Limited Weight,跑道限制重量,transport,配载平衡
+Load Optimization,装载优化,transport,配载平衡
+Space Optimization,舱位优化,transport,配载平衡
+Cube Utilization,体积利用率,transport,配载平衡
+Overload,超载,transport,配载平衡
+Underload,欠载,transport,配载平衡
+Chock,轮挡,transport,配载平衡
+Container Dolly,集装箱拖车,transport,机坪配套
+Dolly Train,拖车组,transport,机坪配套
+Cargo Loading Ramp,装载坡板,transport,机坪配套
+Nose Loader,机头装载车,transport,机坪配套
+Side Guide Rail,侧导轨,transport,货舱设施

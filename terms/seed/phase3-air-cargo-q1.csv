@@ -1,0 +1,251 @@
+﻿term_en,term_zh,category,subcategory
+Air Waybill (AWB),航空运单,transport,空运单证
+Master Air Waybill (MAWB),航空主运单,transport,空运单证
+House Air Waybill (HAWB),航空分运单,transport,空运单证
+Neutral Air Waybill,中性航空运单,transport,空运单证
+e-AWB,电子航空运单,transport,空运单证
+AWB Number,运单号码,transport,空运单证
+AWB Prefix,运单前缀,transport,空运单证
+AWB Check Digit,运单校验位,transport,空运单证
+Air Waybill Serial Number,运单序号,transport,空运单证
+Air Waybill Copy,运单副本,transport,空运单证
+Shipper's Letter of Instruction,托运委托书,transport,空运单证
+Consignment,托运货物,transport,空运单证
+Consignor,托运人,transport,空运单证
+Consignee,收货人,transport,空运单证
+Freight Forwarder,货运代理,transport,空运单证
+Cargo Sales Agent,货运销售代理,transport,空运单证
+IATA Accredited Cargo Agent,IATA认可货运代理,transport,空运单证
+General Sales Agent,货运总代理,transport,空运单证
+Break Bulk Agent,拆单代理,transport,空运单证
+Customs Broker,报关行,transport,空运单证
+Issuing Carrier,出票承运人,transport,空运单证
+First Carrier,第一承运人,transport,空运单证
+Successive Carrier,连续承运人,transport,空运单证
+Contracting Carrier,缔约承运人,transport,空运单证
+Actual Carrier,实际承运人,transport,空运单证
+Non-negotiable Waybill,不可转让运单,transport,空运单证
+IATA Resolution 600,IATA第600号决议,transport,空运单证
+Conditions of Contract,运输合同条款,transport,空运单证
+Shipper's Name and Address,托运人名称及地址,transport,空运单证
+Consignee's Name and Address,收货人名称及地址,transport,空运单证
+Agent Name and City,代理名称及城市,transport,空运单证
+Accounting Information,结算信息栏,transport,空运单证
+Handling Information,操作信息栏,transport,空运单证
+Amount of Insurance,保险金额栏,transport,空运单证
+Number of Pieces,件数,transport,空运单证
+Gross Weight,毛重,transport,空运单证
+Net Weight,净重,transport,空运单证
+Chargeable Weight,计费重量,transport,空运单证
+Rate Class,运价等级,transport,空运单证
+Commodity Item Number,商品品目编号,transport,空运单证
+Rate/Charge,运价栏,transport,空运单证
+Nature and Quantity of Goods,货物品名及数量,transport,空运单证
+Dimensions,货物尺寸,transport,空运单证
+Shipper's Signature,托运人签章,transport,空运单证
+Carrier's Signature,承运人签章,transport,空运单证
+Place of Issue,签单地点,transport,空运单证
+Date of Issue,签单日期,transport,空运单证
+Currency of Settlement,结算货币,transport,空运单证
+WT/VAL,运费及声明价值费,transport,空运单证
+Freight Prepaid,运费预付,transport,空运单证
+Freight Collect,运费到付,transport,空运单证
+Total Prepaid,预付总额,transport,空运单证
+Total Collect,到付总额,transport,空运单证
+Charges Due Carrier,承运人应收费用,transport,空运单证
+Charges Due Agent,代理人应收费用,transport,空运单证
+Other Charges,其他费用,transport,空运单证
+Declared Value for Carriage,运输声明价值,transport,空运单证
+Declared Value for Customs,报关声明价值,transport,空运单证
+Valuation Charge,声明价值附加费,transport,空运单证
+Flight and Date,航班日期栏,transport,空运单证
+Airport of Departure,始发机场,transport,空运单证
+Airport of Destination,目的机场,transport,空运单证
+Routing,航路安排,transport,空运单证
+Via Point,经停点,transport,空运单证
+Transit Airport,经停机场,transport,空运单证
+Transshipment,转运,transport,空运单证
+Cargo Manifest,货邮舱单,transport,空运单证
+Flight Manifest,航班舱单,transport,空运单证
+House Manifest,分运单舱单,transport,空运单证
+Transfer Manifest,中转舱单,transport,空运单证
+Cargo Arrival Notice,到货通知,transport,空运单证
+Delivery Order,提货单,transport,空运单证
+Freight Status Report,货运状态报告,transport,空运单证
+Cargo Tracer,货物查询单,transport,空运单证
+Cargo Tracing,货物追踪,transport,空运单证
+Cargo Claim,货物索赔,transport,空运单证
+Claim Notice,索赔通知,transport,空运单证
+Time Limit for Claim,索赔时效,transport,空运单证
+Loss and Damage Report,货损货差报告,transport,空运单证
+Irregularity Report,不正常运输报告,transport,空运单证
+Overcarried Cargo,过站未卸货物,transport,空运单证
+Short Shipment,少装货物,transport,空运单证
+Cargo Charges Correction Advice,运费更正单,transport,空运单证
+Debit Note,借记通知单,transport,空运单证
+Credit Note,贷记通知单,transport,空运单证
+Proforma Invoice,形式发票,transport,空运单证
+Commercial Invoice,商业发票,transport,空运单证
+Packing List,装箱单,transport,空运单证
+Certificate of Origin,原产地证书,transport,空运单证
+Inspection Certificate,检验证书,transport,空运单证
+Export Declaration,出口报关单,transport,空运单证
+Import Declaration,进口报关单,transport,空运单证
+Customs Invoice,海关发票,transport,空运单证
+Weight Note,磅码单,transport,空运单证
+Dimension Sheet,丈量单,transport,空运单证
+Insurance Certificate,保险凭证,transport,空运单证
+Freight Bill,运费账单,transport,空运单证
+Documentation Fee,制单费,transport,空运单证
+Free of Charge Shipment,免费货,transport,空运单证
+Personal Effects,个人物品,transport,空运单证
+Unaccompanied Baggage,非随身行李,transport,空运单证
+Consolidation,集中托运,transport,空运单证
+Consolidated Consignment,集中托运货物,transport,空运单证
+Co-loading,转委托拼载,transport,空运单证
+Back to Back AWB,背对背运单,transport,空运单证
+Embargo,货运禁运,transport,空运单证
+Force Majeure,不可抗力,transport,空运单证
+Air Cargo,空运货物,transport,空运单证
+Air Freight,航空货运,transport,空运单证
+Airport-to-Airport Service,机场到机场运输,transport,空运单证
+Door-to-Door Service,门到门运输,transport,空运单证
+Cargo-IMP,货运信息交换标准,transport,电子货运
+Cargo-XML,货运XML报文标准,transport,电子货运
+Electronic Data Interchange,电子数据交换,transport,电子货运
+e-Freight,电子货运,transport,电子货运
+FBL,货运订舱报文,transport,电子货运
+FWB,主运单报文,transport,电子货运
+FHL,分运单舱单报文,transport,电子货运
+FFM,航班舱单报文,transport,电子货运
+FSU,货运状态更新报文,transport,电子货运
+FNA,未载运通知报文,transport,电子货运
+FUM,集装器舱单报文,transport,电子货运
+BKD,订舱状态代码,transport,电子货运
+RCF,收货状态代码,transport,电子货运
+MAN,舱单状态代码,transport,电子货运
+DEP,离港状态代码,transport,电子货运
+ARR,到港状态代码,transport,电子货运
+NFD,未找到货物状态,transport,电子货运
+OFLD,货物拉卸状态,transport,电子货运
+TFD,转运状态代码,transport,电子货运
+DEL,交付状态代码,transport,电子货运
+IATA CASS,货运账户结算系统,transport,结算规则
+CASS Invoice,CASS结算账单,transport,结算规则
+Multilateral e-AWB Agreement,多边电子运单协议,transport,结算规则
+Interline Agreement,联运协议,transport,结算规则
+Interline e-AWB,联运电子运单,transport,结算规则
+Airline Designator Code,航空公司二字码,transport,结算规则
+Airport Code,机场三字码,transport,结算规则
+Flight Number,航班号,transport,结算规则
+Pro-rating,运费分摊,transport,结算规则
+Commission,代理佣金,transport,结算规则
+Charge Code,费用代码,transport,结算规则
+Surcharge,附加费,transport,结算规则
+Disbursement Fee,代垫费用,transport,结算规则
+Rate of Exchange,运费折算汇率,transport,结算规则
+Currency Conversion,货币换算,transport,结算规则
+Warsaw Convention,华沙公约,transport,货运法规
+Montreal Convention 1999,1999年蒙特利尔公约,transport,货运法规
+SDR Liability Limit,特别提款权赔偿限额,transport,货运法规
+Liability Limit,赔偿限额,transport,货运法规
+Liability Notice,责任声明条款,transport,货运法规
+Cargo Liability Insurance,货运责任保险,transport,货运法规
+Cargo Insurance,货物运输保险,transport,货运保险
+Shipper's Interest Insurance,托运人利益险,transport,货运保险
+All Risks Coverage,一切险,transport,货运保险
+Insurance Rate,保险费率,transport,货运保险
+Insurance Premium,保险费,transport,货运保险
+Deductible,免赔额,transport,货运保险
+Insured Value,保险价值,transport,货运保险
+TACT,IATA航空货运运价手册,transport,空运费率
+TACT Rules,TACT规则手册,transport,空运费率
+TACT Rates,TACT运价分册,transport,空运费率
+IATA Area,IATA航区,transport,空运费率
+Traffic Conference Area,IATA运协分区,transport,空运费率
+Published Rate,公布运价,transport,空运费率
+Negotiated Rate,协议运价,transport,空运费率
+Spot Rate,即期运价,transport,空运费率
+All-in Rate,全包运价,transport,空运费率
+Buy Rate,采购运价,transport,空运费率
+Sell Rate,销售运价,transport,空运费率
+Flat Rate,一口价运价,transport,空运费率
+Contract Rate,合约运价,transport,空运费率
+Base Rate,基础运价,transport,空运费率
+General Rate Increase,综合运价上调,transport,空运费率
+Peak Season Surcharge,旺季附加费,transport,空运费率
+Rate Validity,运价有效期,transport,空运费率
+Rate Quotation,运价报价,transport,空运费率
+Rate Construction,运价构成,transport,空运费率
+Tariff,运价表,transport,空运费率
+Air Cargo Tariff,航空货运价目,transport,空运费率
+General Cargo Rate,普通货物运价,transport,空运费率
+Normal Rate,普通运价,transport,空运费率
+Minimum Charge,最低运费,transport,空运费率
+Quantity Rate,数量运价,transport,空运费率
+45KG Rate,45公斤级运价,transport,空运费率
+100KG Rate,100公斤级运价,transport,空运费率
+300KG Rate,300公斤级运价,transport,空运费率
+500KG Rate,500公斤级运价,transport,空运费率
+1000KG Rate,1000公斤级运价,transport,空运费率
+Weight Break,重量分界点,transport,空运费率
+Specific Commodity Rate,指定商品运价,transport,空运费率
+Class Rate,等级货物运价,transport,空运费率
+Class Rate Reduction,等级运价减价,transport,空运费率
+Class Rate Surcharge,等级运价加价,transport,空运费率
+Live Animal Rate,活体动物运价,transport,空运费率
+Human Remains Rate,遗体运价,transport,空运费率
+Valuable Cargo Rate,贵重货物运价,transport,空运费率
+Newspaper Rate,报刊运价,transport,空运费率
+ULD Rate,集装器运价,transport,空运费率
+Pivot Weight,集装器基准重量,transport,空运费率
+Over Pivot Rate,超基准重量运价,transport,空运费率
+Fuel Surcharge,燃油附加费,transport,空运费率
+War Risk Surcharge,战争险附加费,transport,空运费率
+Security Surcharge,安全附加费,transport,空运费率
+Weight Charge,重量运费,transport,空运费率
+Air Waybill Fee,运单费,transport,空运费率
+ULD Service Charge,集装器服务费,transport,空运费率
+Dangerous Goods Fee,危险品处理费,transport,空运费率
+Live Animal Fee,活体动物处理费,transport,空运费率
+Clearance and Handling Fee,清关处理费,transport,空运费率
+Storage Charge,仓储费,transport,空运费率
+Packing Charge,包装费,transport,空运费率
+Pickup Charge,上门取货费,transport,空运费率
+Delivery Charge,末端派送费,transport,空运费率
+Cartage,短驳运输费,transport,空运费率
+Handling Charge,操作处理费,transport,空运费率
+Customs Clearance Fee,清关代理费,transport,空运费率
+Free Storage Time,免费仓储期,transport,空运费率
+Minimum Weight,最低计费重量,transport,空运费率
+Volumetric Weight,体积重量,transport,空运费率
+Volumetric Ratio,体积换算比,transport,空运费率
+Heavy Cargo,重货,transport,空运费率
+Light Cargo,轻泡货,transport,空运费率
+Cargo Density,货物密度,transport,空运费率
+Through Rate,联程直达运价,transport,空运费率
+Proportional Rate,比例运价,transport,空运费率
+Combination Rate,组合运价,transport,空运费率
+Group Rate,集体运价,transport,空运费率
+Domestic Rate,国内运价,transport,空运费率
+International Rate,国际运价,transport,空运费率
+Import Rate,进口运价,transport,空运费率
+Export Rate,出口运价,transport,空运费率
+Fuel Index,燃油指数,transport,空运费率
+War Risk Zone,战险区域,transport,空运费率
+Cargo Yield,货运收益率,transport,空运费率
+Revenue Tonne Kilometre,收入吨公里,transport,空运费率
+Available Tonne Kilometre,可用吨公里,transport,空运费率
+Freight Tonne Kilometre,货运吨公里,transport,空运费率
+Cargo Load Factor,货运载运率,transport,空运费率
+Rate Negotiation,运价谈判,transport,空运费率
+Yield Management,收益管理,transport,空运费率
+Commodity Classification,商品分类,transport,空运费率
+Interline Rate,联运运价,transport,空运费率
+Assembly Charge,集货组装费,transport,空运费率
+Pallet Charge,打板费,transport,空运费率
+Out-of-hour Service Fee,非工作时间服务费,transport,空运费率
+Overweight Charge,超重附加费,transport,空运费率
+Demurrage Charge,滞期费,transport,空运费率
+Market Rate,市场运价,transport,空运费率
+Benchmark Rate,基准运价,transport,空运费率

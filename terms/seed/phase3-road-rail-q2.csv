@@ -1,0 +1,253 @@
+﻿term_en,term_zh,category,subcategory
+CMR Convention,国际公路货物运输合同公约,transport,公路单证
+CMR Consignment Note,CMR 运输单,transport,公路单证
+CMR Insurance,CMR 运输保险,transport,公路单证
+TIR Carnet,国际公路运输手册册,transport,公路单证
+TIR Convention,国际公路运输公约,transport,公路单证
+TIR Holder,国际公路运输证持有人,transport,公路单证
+TIR Guarantee Chain,国际公路运输担保链,transport,公路单证
+TIR Transit Procedure,国际公路运输过境程序,transport,公路单证
+Customs Seal for TIR,国际公路运输关封,transport,公路单证
+TIR Termination,国际公路运输终止确认,transport,公路单证
+ATA Carnet for Vehicles,车辆暂准进口册,transport,公路单证
+Carnet de Passages,车辆临时进口通关册,transport,公路单证
+International Driving Permit,国际驾驶证,transport,公路单证
+Vehicle Registration Certificate,车辆登记证书,transport,公路单证
+Road Freight Waybill,公路货运运单,transport,公路单证
+Road Consignment Note,公路托运单,transport,公路单证
+House Road Waybill,公路分运单,transport,公路单证
+Groupage Waybill,拼货运单,transport,公路单证
+Delivery Note,送货单,transport,公路单证
+Proof of Delivery Document,签收凭证,transport,公路单证
+Electronic Proof of Delivery,电子签收凭证,transport,公路单证
+POD Signature Capture,签收签名采集,transport,公路单证
+POD Photo Capture,签收拍照留存,transport,公路单证
+Signed CMR Copy,CMR 签收联,transport,公路单证
+Dangerous Goods Note,危险品货运单,transport,公路单证
+Waste Transfer Note,废弃物转移单,transport,公路单证
+Livestock Health Certificate for Road,公路牲畜检疫证,transport,公路单证
+Phytosanitary Certificate Road Copy,公路植物检疫副本,transport,公路单证
+Customs Accompanying Document,随附海关单证,transport,公路单证
+Transit Accompanying Document,过境随附单证,transport,公路单证
+Carrier Risk Note,承运风险批单,transport,公路单证
+Cash on Delivery Note,货到付款单,transport,公路单证
+Freight Invoice,运费发票,transport,公路费率
+Fuel Surcharge Index,燃油附加指数,transport,公路费率
+Diesel Price Indexation,柴油价格联动,transport,公路费率
+Fuel Rebate,燃油返点,transport,公路费率
+Toll Reimbursement,通行费报销,transport,公路费率
+Toll System,收费系统,transport,公路费率
+Electronic Toll Collection,电子不停车收费,transport,公路费率
+Toll Violation Notice,通行费违规通知,transport,公路费率
+Congestion Charge,拥堵费,transport,公路费率
+Low Emission Zone Charge,低排放区收费,transport,公路费率
+Ultra Low Emission Zone,超低排放区,transport,公路费率
+Urban Access Charge,城区通行费,transport,公路费率
+Loading Fee,装货费,transport,公路费率
+Unloading Fee,卸货费,transport,公路费率
+Waiting Time Charge,等待费,transport,公路费率
+Free Waiting Time,免费等待时间,transport,公路费率
+Demurrage for Road,公路滞期费,transport,公路费率
+Shunter Fee,场内调动费,transport,公路费率
+Pallet Exchange Fee,托盘交换费,transport,公路费率
+Pallet Deposit,托盘押金,transport,公路费率
+Empty Haul Charge,空驶费,transport,公路费率
+Repositioning Fee,调车费,transport,公路费率
+Cross-Border Road Freight,跨境公路货运,transport,跨境公路
+Cross-Border Trucking Permit,跨境公路运输许可,transport,跨境公路
+Bilateral Road Transport Agreement,双边公路运输协定,transport,跨境公路
+Third Country Haulage,第三国运输权,transport,跨境公路
+Cabotage,国内运输权,transport,跨境公路
+Cabotage Rights,境内揽载权,transport,跨境公路
+Community License,共同体运输许可,transport,跨境公路
+EU Market Access License,欧盟市场准入许可,transport,跨境公路
+Bilateral Permit,双边许可证,transport,跨境公路
+Quota Permit,配额许可证,transport,跨境公路
+ECMT Permit,欧共体运输会议许可证,transport,跨境公路
+Multilateral Permit,多边许可证,transport,跨境公路
+Tachograph Card for Foreign Drivers,外籍司机记卡片,transport,跨境公路
+Border Crossing Point,公路口岸,transport,跨境公路
+Border Waiting Time,口岸等待时间,transport,跨境公路
+Border Queue Management,口岸排队管理,transport,跨境公路
+Green Lane Border Crossing,口岸快速通道,transport,跨境公路
+Priority Lane Permit,优先通道许可,transport,跨境公路
+Customs Escort for Road,公路海关押运,transport,跨境公路
+Sealed Truck Transit,整车铅封过境,transport,跨境公路
+Bonded Road Carriage,公路保税运输,transport,跨境公路
+Inland Transit Document,内陆运输单证,transport,跨境公路
+Road Customs Declaration,公路报关单,transport,跨境公路
+Exit Summary Declaration Road,公路出境申报,transport,跨境公路
+Entry Summary Declaration Road,公路入境申报,transport,跨境公路
+Pre-Arrival Declaration Road,公路抵港前申报,transport,跨境公路
+Border Inspection Post,口岸检查站,transport,跨境公路
+Veterinary Border Check,口岸动物检疫,transport,跨境公路
+Phytosanitary Border Check,口岸植物检疫,transport,跨境公路
+Sanitary Border Check,口岸卫生检疫,transport,跨境公路
+Weight Limit Enforcement,限重执法,transport,跨境公路
+Axle Load Limit,轴重限制,transport,跨境公路
+Gross Vehicle Weight,车辆总重,transport,跨境公路
+Maximum Authorized Mass,最大允许总质量,transport,跨境公路
+Overload Fine,超载罚款,transport,跨境公路
+Dimensional Limit,外形尺寸限制,transport,跨境公路
+Height Restriction,限高,transport,跨境公路
+Weight and Measurement Inspection,称重检查,transport,跨境公路
+Abnormal Load Notification,异常货物载运通知,transport,跨境公路
+Oversize Permit,超尺寸许可,transport,特种车辆
+Overweight Permit,超重许可,transport,特种车辆
+Abnormal Indivisible Load,异常不可分割货物,transport,特种车辆
+Superload Permit,特大型运输许可,transport,特种车辆
+Pilot Car,先导车,transport,特种车辆
+Escort Vehicle,护送车,transport,特种车辆
+Police Escort Convoy,警车护送车队,transport,特种车辆
+Route Survey,路线勘察,transport,特种车辆
+Bridge Load Analysis,桥梁承载分析,transport,特种车辆
+Bridge Strength Assessment,桥梁强度评估,transport,特种车辆
+Road Closure Permit,道路封闭许可,transport,特种车辆
+Utility Line Lifting,线缆抬升配合,transport,特种车辆
+Night Movement Permit,夜间通行许可,transport,特种车辆
+Curfew Restriction,宵禁通行限制,transport,特种车辆
+Self-Propelled Modular Transporter,自行式模块运输车,transport,特种车辆
+SPMT Combination,模块运输车编组,transport,特种车辆
+Girder Bridge for SPMT,模块车钢梁桥,transport,特种车辆
+Goldhofer Trailer,戈德霍费尔挂车,transport,特种车辆
+Nicolas Trailer,尼古拉挂车,transport,特种车辆
+Kamag Transporter,卡马格运输车,transport,特种车辆
+Scheuerle Trailer,朔尔勒挂车,transport,特种车辆
+Transformer Transport,变压器运输,transport,特种车辆
+Generator Transport,发电机组运输,transport,特种车辆
+Wind Blade Transport,风电叶片运输,transport,特种车辆
+Nacelle Transport,风机机舱运输,transport,特种车辆
+Tower Section Transport,塔筒段运输,transport,特种车辆
+Blade Lifter,叶片举升车,transport,特种车辆
+Blade Adaptor,叶片适配夹具,transport,特种车辆
+Vessel Hull Transport,船体分段运输,transport,特种车辆
+Industrial Plant Relocation,工厂整体搬迁,transport,特种车辆
+Machinery Moving,设备搬迁,transport,特种车辆
+Press Transport,大型压机运输,transport,特种车辆
+Reactor Vessel Transport,反应器容器运输,transport,特种车辆
+Tower Vessel Transport,塔器设备运输,transport,特种车辆
+Skid Mounted Equipment Transport,撬装设备运输,transport,特种车辆
+Rooftop Unit Lift and Haul,屋顶机组吊运,transport,特种车辆
+Modular Building Transport,模块化建筑运输,transport,特种车辆
+Boat Transport on Road,游艇公路运输,transport,特种车辆
+Locomotive Transport,机车公路运输,transport,特种车辆
+Rail Wagon Transport by Road,铁路车辆公路转运,transport,特种车辆
+Aircraft Fuselage Transport,飞机机身运输,transport,特种车辆
+Aircraft Wing Transport,机翼运输,transport,特种车辆
+Freight Elevator Booking,货运电梯预约,transport,特种车辆
+Crane Hire for Loading,租吊装车,transport,特种车辆
+Gantry Lift at Site,现场龙门吊装,transport,特种车辆
+Heavy Rigging Crew,重型吊装班组,transport,特种车辆
+Lifting Plan Approval,吊装方案审批,transport,特种车辆
+Load Spread Analysis,载荷分布分析,transport,特种车辆
+Ground Pressure Assessment,地面承压评估,transport,特种车辆
+Crane Mats,吊车垫板,transport,特种车辆
+Timber Cribbing,枕木垫层,transport,特种车辆
+Jack and Slide Operation,顶推滑移作业,transport,特种车辆
+Skidding System,滑移系统,transport,特种车辆
+Hydraulic Gantries,液压龙门吊,transport,特种车辆
+Strand Jack Lifting,钢绞线千斤顶吊装,transport,特种车辆
+Turntable Rotation,转台旋转作业,transport,特种车辆
+Transport Frame,运输框架,transport,特种车辆
+Saddle Support,鞍式支座,transport,特种车辆
+Transport Cradle,运输托架,transport,特种车辆
+Shock Indicators for Road,公路防震标签,transport,特种车辆
+Tilt Indicators,防倾标签,transport,特种车辆
+Impact Recorders,冲击记录仪,transport,特种车辆
+Vibration Monitoring Transport,运输振动监测,transport,特种车辆
+Rail Freight Corridor,铁路货运通道,transport,铁路设施
+Rail Freight Corridor Regulation,铁路货运通道规章,transport,铁路设施
+Corridor One-Stop-Shop,通道一站式服务,transport,铁路设施
+Rail Capacity Allocation,铁路运力分配,transport,铁路设施
+Train Path,列车运行线,transport,铁路设施
+Train Path Request,运行线申请,transport,铁路设施
+Train Path Cancellation,运行线取消,transport,铁路设施
+Slot Booking for Trains,列车时刻预订,transport,铁路设施
+Timetable Planning,时刻表规划,transport,铁路设施
+Working Timetable,工作时刻表,transport,铁路设施
+Rail Infrastructure Manager,铁路基础设施管理者,transport,铁路设施
+Track Access Charge,线路使用费,transport,铁路设施
+Track Access Agreement,线路使用协议,transport,铁路设施
+Performance Regime,绩效奖惩机制,transport,铁路设施
+Delay Attribution,延误责任判定,transport,铁路设施
+Network Statement,路网说明书,transport,铁路设施
+Train Length Restriction,列车长度限制,transport,铁路设施
+Axle Load for Rail,铁路轴重,transport,铁路设施
+Gauge Compatibility,轨距兼容性,transport,铁路设施
+Loading Gauge,铁路装载限界,transport,铁路设施
+Structure Gauge,建筑限界,transport,铁路设施
+Kinematic Envelope,动态限界,transport,铁路设施
+W22 Gauge,宽限界等级,transport,铁路设施
+Railway Yard,铁路编组站,transport,铁路设施
+Marshalling Yard,调车编组场,transport,铁路设施
+Hump Yard,驼峰编组场,transport,铁路设施
+Shunting,调车作业,transport,铁路设施
+Shunting Locomotive,调车机车,transport,铁路设施
+Branch Line,铁路支线,transport,铁路设施
+Sidings,铁路侧线,transport,铁路设施
+Private Siding,企业专用线,transport,铁路设施
+Rail Connected Terminal,铁路连通货场,transport,铁路设施
+On-Dock Rail,码头内铁路,transport,铁路设施
+Near-Dock Rail,码头邻近铁路,transport,铁路设施
+Dry Port Rail Link,旱港铁路连接线,transport,铁路设施
+Rail Siding Container Terminal,铁路集装箱货场,transport,铁路设施
+Rail Mounted Gantry,轨道式龙门吊,transport,铁路设施
+RMG Crane,轨道吊,transport,铁路设施
+Rail Loading Gauge Check,铁路装载限界检查,transport,铁路设施
+Train Formation Plan,列车编组计划,transport,铁路设施
+Block Train,单元列车,transport,铁路设施
+Conventional Train,编组列车,transport,铁路设施
+Single Wagon consignment,单节车厢货物,transport,铁路设施
+Single Wagon Load,整车单节运输,transport,铁路设施
+Intermodal Train,多式联运班列,transport,铁路设施
+Piggyback Train,驮背列车,transport,铁路设施
+Rolling Highway,滚动公路,transport,铁路设施
+Rolling Road Service,滚装铁路服务,transport,铁路设施
+Shuttle Train,穿梭班列,transport,铁路设施
+Scheduled Freight Train,定期货运列车,transport,铁路设施
+Ad Hoc Train,临时加开列车,transport,铁路设施
+Train Reporting Number,列车车次号,transport,铁路设施
+Consignment Note CIM,国际铁路货运单,transport,铁路单证
+CIM/SMGS Consignment Note,国际铁路联运运单,transport,铁路单证
+SMGS Convention,国际铁路货物联运协定,transport,铁路单证
+COTIF Convention,国际铁路运输公约,transport,铁路单证
+Uniform Rules Concerning CIM,铁路货物运输统一规则,transport,铁路单证
+Rail Waybill,铁路运单,transport,铁路单证
+Electronic Consignment Note,电子货运单,transport,铁路单证
+Consignment Note Counterfoil,运单存根,transport,铁路单证
+Rail Freight Forwarder,铁路货运代理,transport,铁路单证
+Rail Carrier Liability,铁路承运人责任,transport,铁路单证
+Rail Liability Limit per Kilo,铁路按公斤责任限额,transport,铁路单证
+Declared Value Rail,铁路申报价值,transport,铁路单证
+Special Interest in Delivery,特别到货利益声明,transport,铁路单证
+Additional Charges Note,铁路附加费清单,transport,铁路单证
+Freight Charges Prepaid Rail,铁路运费预付,transport,铁路单证
+Freight Charges Collect Rail,铁路运费到付,transport,铁路单证
+Customs Declaration by Rail,铁路报关,transport,铁路单证
+Rail Transit Document,铁路过境单证,transport,铁路单证
+Duty Stamp on Rail Waybill,铁路运单签章,transport,铁路单证
+Seal Record for Rail Wagon,铁路车辆铅封记录,transport,铁路单证
+Wagon Inspection Report,车辆检查报告,transport,铁路单证
+Out of Gauge Declaration,铁路超限申报,transport,铁路单证
+Overload Declaration Rail,铁路超载申报,transport,铁路单证
+Temperature Recorded Rail,铁路温度记录,transport,铁路单证
+GPS Tracking Rail Wagon,铁路车辆定位追踪,transport,铁路单证
+Telemetry for Rail Cargo,铁路货物遥测,transport,铁路单证
+Cargo Manifest Rail,铁路载货清单,transport,铁路单证
+Loading List,装载清单,transport,铁路单证
+Wagon List,车辆清单,transport,铁路单证
+Train Composition Message,列车编组报文,transport,铁路单证
+Consignment Data Exchange,货运数据交换,transport,铁路单证
+Rail E-Ticketing Freight,铁路货运电子凭证,transport,铁路单证
+Insurance Certificate Rail,铁路货运保险凭证,transport,铁路单证
+Certificate of Origin Rail Shipment,铁路原产地证,transport,铁路单证
+Packing List Rail,铁路装箱单,transport,铁路单证
+Rail Booking Confirmation,铁路订舱确认,transport,铁路单证
+Slot Confirmation Rail,铁路舱位确认,transport,铁路单证
+Customs Status Enquiry Rail,铁路通关状态查询,transport,铁路单证
+Delay Notification Rail,铁路延误通知,transport,铁路单证
+Loss Notification Rail,铁路货损通知,transport,铁路单证
+Damage Report Rail,铁路残损报告,transport,铁路单证
+Survey Report Rail,铁路检验报告,transport,铁路单证
+Claim Form Rail,铁路索赔申请表,transport,铁路单证
+Rebooking Fee Rail,铁路改签费,transport,铁路单证

@@ -1,0 +1,551 @@
+﻿term_en,term_zh,category,subcategory
+Charter Party,租船合同,transport,租船业务
+Voyage Charter Party,航次租船合同,transport,租船业务
+Time Charter Party,定期租船合同,transport,租船业务
+Bareboat Charter Party,光船租船合同,transport,租船业务
+Trip Time Charter,航次期租,transport,租船业务
+COA,包运合同,transport,租船业务
+Contract of Affreightment,货运量合同,transport,租船业务
+Consecutive Voyage Charter,连续航次租船,transport,租船业务
+Round Voyage Charter,往返航次租船,transport,租船业务
+Spot Charter,即期租船,transport,租船业务
+Period Charter,定期租船,transport,租船业务
+Long Term Time Charter,长期期租,transport,租船业务
+Short Term Charter,短期租船,transport,租船业务
+Fixture Recap,成交摘录,transport,租船业务
+Chartering Order,租船订舱委托,transport,租船业务
+Owners Position,船东报盘,transport,租船业务
+Charterers Position,租家报盘,transport,租船业务
+Subject to Details,以细节为准,transport,租船业务
+Subject to Subs,以落实为准,transport,租船业务
+Subject to Stem,以货源落实为准,transport,租船业务
+Subject to Board Approval,以董事会批准为准,transport,租船业务
+Firm Offer,实盘,transport,租船业务
+Counter Offer,还盘,transport,租船业务
+Firm Order,确定订单,transport,租船业务
+Bareboat Charter In,光租入,transport,租船业务
+Bareboat Charter Out,光租出,transport,租船业务
+Charter Party Form,租船合同格式,transport,租船业务
+GENCON,金康合同格式,transport,租船业务
+NYPE,纽约土产交易所期租格式,transport,租船业务
+BALTIME,波尔的摩期租格式,transport,租船业务
+Asbatankvoy,油轮航次租船条款范本,transport,租船业务
+BIMCO,波罗的海国际航运公会,transport,租船业务
+INTERCARGO,国际干散货船东协会,transport,租船业务
+INTERTANKO,国际独立油轮船东协会,transport,租船业务
+Dry Cargo Chartering,干货租船,transport,租船业务
+Tanker Chartering,油轮租船,transport,租船业务
+LNG Chartering,液化天然气船租船,transport,租船业务
+LPG Chartering,液化石油气船租船,transport,租船业务
+Container Chartering,集装箱船租船,transport,租船业务
+Reefer Chartering,冷藏船租船,transport,租船业务
+Heavy Lift Vessel Chartering,重吊船租船,transport,租船业务
+Offshore Support Vessel Chartering,海工船租船,transport,租船业务
+Tug Chartering,拖轮租用,transport,租船业务
+Barge Chartering,驳船租用,transport,租船业务
+Cargo Owner,货主,transport,租船业务
+Shipper,托运人,transport,租船业务
+Consignee,收货人,transport,租船业务
+Notify Party,被通知人,transport,租船业务
+Charterer,租船人,transport,租船业务
+Disponent Owner,二船东,transport,租船业务
+Head Owner,注册船东,transport,租船业务
+Sub-charterer,转租人,transport,租船业务
+Sub-let,转租,transport,租船业务
+Back to Back Charter,背靠背租约,transport,租船业务
+Slot Charter,舱位租约,transport,租船业务
+Ballast Bonus,空放补贴,transport,租船业务
+Ice Bonus,冰区附加费,transport,租船业务
+Ice Class Bonus,冰级附加费,transport,租船业务
+Heating Bonus,加温附加费,transport,租船业务
+Cleaning Charge,洗舱费,transport,租船业务
+Fumigation Charge,熏蒸费,transport,租船业务
+Draught Survey Charge,水尺计量费,transport,租船业务
+Hold Inspection Fee,验舱费,transport,租船业务
+War Risk Premium,战争险保费,transport,租船业务
+Extra Premium,附加保费,transport,租船业务
+De-hire,终止租约还船,transport,租船业务
+Re-hire,续租,transport,租船业务
+Nominated Vessel,指定船舶,transport,租船业务
+Substitute Vessel,替代船舶,transport,租船业务
+Substitute Clause,替代船条款,transport,租船业务
+Declaration of Vessel,宣布船名,transport,租船业务
+Intended Vessel,预期船舶,transport,租船业务
+Bulk Carrier Chartering,散货船租船,transport,租船业务
+MPP Chartering,多用途船租船,transport,租船业务
+Car Carrier Chartering,汽车船租船,transport,租船业务
+Speed and Consumption Warranty,航速油耗保证条款,transport,租约条款
+Weather Working Day,晴天工作日,transport,租约条款
+Weather Working Day of 24 Hours,连续24小时晴天工作日,transport,租约条款
+Shex,晴天工作日节假日除外,transport,租约条款
+FHex,节假日除外,transport,租约条款
+FIO,船方不管装卸,transport,租约条款
+FIOS,船方不管装不管卸,transport,租约条款
+FIOST,船方不管装卸堆舱平舱,transport,租约条款
+Liner Terms,班轮条款,transport,租约条款
+Gross Terms,总承运条款,transport,租约条款
+Free In,船方不管装货,transport,租约条款
+Free Out,船方不管卸货,transport,租约条款
+Laytime,装卸时间,transport,租约条款
+Laytime Statement,装卸时间计算表,transport,租约条款
+Laytime Expiry,装卸时间届满,transport,租约条款
+Laycan,受载期,transport,租约条款
+Laydays,受载日期,transport,租约条款
+Laytime Commencement,装卸时间起算,transport,租约条款
+Notice of Readiness,装卸准备就绪通知书,transport,租约条款
+NOR Tendered,递交装卸准备就绪通知书,transport,租约条款
+NOR Accepted,接受装卸准备就绪通知书,transport,租约条款
+NOR Rejected,拒绝装卸准备就绪通知书,transport,租约条款
+Free Pratique,无疫通行,transport,租约条款
+Customs Clearance,海关结关,transport,租约条款
+Turn Time,起算时间,transport,租约条款
+Demurrage,滞期费,transport,租约条款
+Despatch Money,速遣费,transport,租约条款
+Demurrage Half Despatch,滞期费一半速遣,transport,租约条款
+Once on Demurrage Always on Demurrage,一旦滞期永远滞期,transport,租约条款
+Demurrage Liability,滞期费责任,transport,租约条款
+Demurrage Claim,滞期费索赔,transport,租约条款
+Deadfreight,亏舱费,transport,租约条款
+Bunker Clause,燃油条款,transport,租约条款
+Bunker on Delivery,交船存油,transport,租约条款
+Bunker on Redelivery,还船存油,transport,租约条款
+Bunker Price,燃油价格,transport,租约条款
+Bunker Adjustment Factor,燃油附加费,transport,租约条款
+Deducting Expenses,扣除费用条款,transport,租约条款
+Voyage Instructions,航次指示,transport,租约条款
+Employment Orders,雇佣指示,transport,租约条款
+Trading Limits,航行区域限制,transport,租约条款
+Ice Clause,冰区条款,transport,租约条款
+War Risk Clause,战争险条款,transport,租约条款
+Breach of Warranty,违反保证条款,transport,租约条款
+Warranty of Seaworthiness,适航保证,transport,租约条款
+Implied Warranty,默示保证,transport,租约条款
+Safe Port Warranty,安全港口保证,transport,租约条款
+Safe Port Provision,安全港条款,transport,租约条款
+Exemption Clause,免责条款,transport,租约条款
+Loss of Hire,停租损失,transport,租约条款
+Off-hire Period,停租期间,transport,租约条款
+Off-hire Survey,停租检验,transport,租约条款
+On-hire Survey,起租检验,transport,租约条款
+Off-hire Deduction,扣减租金,transport,租约条款
+Off-hire Clause,停租条款,transport,租约条款
+Hire Payment,租金支付,transport,租约条款
+Hire Statement,租金账单,transport,租约条款
+Hire Calculation,租金计算,transport,租约条款
+Semi-monthly Hire,半月租金,transport,租约条款
+Advance Hire,预付租金,transport,租约条款
+Withholding of Hire,拒付租金,transport,租约条款
+Redelivery Notice,还船通知,transport,租约条款
+Redelivery Survey,还船检验,transport,租约条款
+Redelivery of Vessel,船舶还船,transport,租约条款
+Early Redelivery,提前还船,transport,租约条款
+Late Redelivery,超期还船,transport,租约条款
+Expected Redelivery Date,预计还船日期,transport,租约条款
+Dry Dock Clause,坞修条款,transport,租约条款
+Maintenance Clause,保养条款,transport,租约条款
+Nautical Fault Clause,航行过失免责条款,transport,租约条款
+Deviation Clause,绕航条款,transport,租约条款
+Liberty to Deviate,自由绕航权,transport,租约条款
+Quarantine Clause,检疫条款,transport,租约条款
+Strike Clause,罢工条款,transport,租约条款
+Lock-out Clause,停工条款,transport,租约条款
+General Exception Clause,一般例外条款,transport,租约条款
+Free of Capture and Seizure,捕获扣押不赔条款,transport,租约条款
+Condemnation Clause,没收条款,transport,租约条款
+Underpayment of Hire,少付租金,transport,租约条款
+Withdrawal of Vessel,撤船,transport,租约条款
+Anti-technicality Clause,反技术性条款,transport,租约条款
+Anti-technicality Notice,反技术性通知,transport,租约条款
+Cancellation Clause,解约条款,transport,租约条款
+Cancellation Date,解约日期,transport,租约条款
+Layday Canceling Date,受载解约日,transport,租约条款
+Interpellation Clause,催告条款,transport,租约条款
+Notice of Cancellation,取消通知,transport,租约条款
+Vessel Description,船舶规范,transport,租约条款
+Off-hire,停租,transport,租约条款
+Redelivery Notice Period,还船通知期,transport,租约条款
+Fuel on Delivery,交船燃油,transport,租约条款
+Fuel on Redelivery,还船燃油,transport,租约条款
+Bunker Receipt,燃油收据,transport,租约条款
+Bunker Survey,燃油检验,transport,租约条款
+Bunker Sounding,燃油测深,transport,租约条款
+ROB,剩余燃油量,transport,租约条款
+Remaining on Board,在船剩余量,transport,租约条款
+Loss of Time,时间损失,transport,租约条款
+Deductions from Hire,租金扣减,transport,租约条款
+Charterers Voyage Instruction,租家航次指示,transport,租约条款
+Fuel Saving Clause,节油条款,transport,租约条款
+Economical Speed,经济航速,transport,租约条款
+Slow Steaming,减速航行,transport,租约条款
+Virtual Arrival,虚拟到港,transport,租约条款
+Just in Time Arrival,准时到港,transport,租约条款
+Speed Optimization,航速优化,transport,租约条款
+Weather Routing Clause,气象导航条款,transport,租约条款
+Full Away,海上全速,transport,租约条款
+Commencement of Voyage,航次开始,transport,租约条款
+Commencement of Charter,租期开始,transport,租约条款
+Charter Period,租期,transport,租约条款
+Reversible Laytime,可调剂装卸时间,transport,租约条款
+Irreversible Laytime,不可调剂装卸时间,transport,租约条款
+All Purpose Laytime,总装卸时间,transport,租约条款
+Suspension of Laytime,装卸时间中止,transport,租约条款
+Voyage Estimation,航次估算,transport,航次估算
+Voyage Result,航次收益,transport,航次估算
+Voyage Profit and Loss Statement,航次损益表,transport,航次估算
+Voyage Cost,航次成本,transport,航次估算
+Daily Running Cost,日营运成本,transport,航次估算
+Running Cost,营运成本,transport,航次估算
+Daily Consumption at Sea,海上日耗油量,transport,航次估算
+Daily Consumption in Port,港内日耗油量,transport,航次估算
+Heavy Weather Allowance,恶劣天气附加耗油量,transport,航次估算
+Distance Table,航程表,transport,航次估算
+Loading Rate,装货效率,transport,航次估算
+Discharge Rate,卸货效率,transport,航次估算
+Turnaround Time,周转时间,transport,航次估算
+Daily Hire,日租金,transport,航次估算
+Earnings per Day,日收益,transport,航次估算
+Time Charter Equivalent,等价期租租金,transport,航次估算
+TCE Rate,等价期租租金率,transport,航次估算
+Round Voyage TCE,往返航次等价期租租金,transport,航次估算
+Breakeven Rate,保本费率,transport,航次估算
+Cash Breakeven Point,现金盈亏平衡点,transport,航次估算
+Operating Cost Ratio,营运成本比率,transport,航次估算
+Depreciation Expense,折旧费用,transport,航次估算
+Capital Expenditure,资本性支出,transport,航次估算
+Deadweight Utilization,载重量利用率,transport,航次估算
+Deadweight Constant,船舶常数,transport,航次估算
+Freight Factor,运费系数,transport,航次估算
+Port Turnaround Time,港口周转时间,transport,航次估算
+Ballast Distance,空放航程,transport,航次估算
+Laden Distance,重载航程,transport,航次估算
+Sea Days,海上天数,transport,航次估算
+Port Days,港口天数,transport,航次估算
+Waiting Time,等待时间,transport,航次估算
+Idle Days,闲置天数,transport,航次估算
+Off-hire Days,停租天数,transport,航次估算
+Hire Days,租用天数,transport,航次估算
+Daily Consumption,日消耗量,transport,航次估算
+Consumption at Sea,海上油耗,transport,航次估算
+Consumption in Port,港内油耗,transport,航次估算
+Bunker Consumption,燃油消耗,transport,航次估算
+Lub Oil Consumption,滑油消耗,transport,航次估算
+Fresh Water Consumption,淡水消耗,transport,航次估算
+Ballast Passage,压载航次,transport,航次估算
+Laden Passage,重载航次,transport,航次估算
+Round Voyage Distance,往返航程,transport,航次估算
+Estimated Time of Completion,预计完工时间,transport,航次估算
+Address Commission,回扣佣金,transport,运费支付
+Brokerage,经纪人佣金,transport,运费支付
+Freight Prepayment,运费预付,transport,运费支付
+Freight Payment Term,运费支付条款,transport,运费支付
+Freight Invoicing,运费开票,transport,运费支付
+Freight Settlement,运费结算,transport,运费支付
+Demurrage Invoice,滞期费发票,transport,运费支付
+Despatch Invoice,速遣费发票,transport,运费支付
+Time Bar Clause,时效条款,transport,运费支付
+Time Bar,时效届满,transport,运费支付
+Demurrage Time Bar,滞期费时效,transport,运费支付
+Time Charter Hire Invoice,期租租金发票,transport,运费支付
+Voyage Account,航次账单,transport,运费支付
+Disbursement Account,港口使费账单,transport,运费支付
+Port Disbursement,港口使费,transport,运费支付
+Proforma Disbursement Account,预估港口使费账单,transport,运费支付
+Freight Rebate,运费回扣,transport,运费支付
+Bank Remittance,银行汇款,transport,运费支付
+Telegraphic Transfer,电汇,transport,运费支付
+Documentary Credit,跟单信用证,transport,运费支付
+Letter of Credit,信用证,transport,运费支付
+Payment upon B/L Issuance,签单后付款,transport,运费支付
+Retention Money,保证金,transport,运费支付
+Balance Freight,运费余款,transport,运费支付
+Full Freight,全额运费,transport,运费支付
+Short Payment,少付运费,transport,运费支付
+Overpayment,多付运费,transport,运费支付
+Assumed Freight,假定运费,transport,运费支付
+Assumed Laytime,假定装卸时间,transport,运费支付
+Laytime Saved,节省的装卸时间,transport,运费支付
+Laytime Used,使用的装卸时间,transport,运费支付
+Laytime Exceeded,超时装卸时间,transport,运费支付
+Freight Tax,运费税,transport,运费支付
+Deadfreight Rate,亏舱费率,transport,运费支付
+Freight Rate Negotiation,运价谈判,transport,运费支付
+Open Rate,开放运价,transport,运费支付
+Charter Rate,租船费率,transport,运费支付
+Charter Hire,租金,transport,运费支付
+Bareboat Hire,光租租金,transport,运费支付
+Hire Free of Expense,租金不含费用,transport,运费支付
+Net Freight,净运费,transport,运费支付
+Gross Freight,毛运费,transport,运费支付
+Freight Net Net,净净运费,transport,运费支付
+Deadfreight Compensation,亏舱费补偿,transport,运费支付
+Freight Guarantee,运费担保,transport,运费支付
+Payment in USD,美元付款,transport,运费支付
+Payment within 3 banking days,三个银行工作日内付款,transport,运费支付
+Freight Due Date,运费到期日,transport,运费支付
+Overdue Payment,逾期付款,transport,运费支付
+Working Account,往来账目,transport,运费支付
+Charter Party Bill of Lading,租约提单,transport,提单与单证
+Order Bill of Lading,指示提单,transport,提单与单证
+Straight Bill of Lading,记名提单,transport,提单与单证
+Bearer Bill of Lading,不记名提单,transport,提单与单证
+Sea Waybill,海运单,transport,提单与单证
+House Bill of Lading,货代提单,transport,提单与单证
+Master Bill of Lading,船东提单,transport,提单与单证
+Through Bill of Lading,全程提单,transport,提单与单证
+Clean Bill of Lading,清洁提单,transport,提单与单证
+Claused Bill of Lading,批注提单,transport,提单与单证
+Ante-dated Bill of Lading,倒签提单,transport,提单与单证
+Switch Bill of Lading,转换提单,transport,提单与单证
+Electronic Bill of Lading,电子提单,transport,提单与单证
+Short Form Bill of Lading,简式提单,transport,提单与单证
+Transshipment Bill of Lading,转船提单,transport,提单与单证
+Negotiable Bill of Lading,可转让提单,transport,提单与单证
+Non-negotiable Sea Waybill,不可转让海运单,transport,提单与单证
+Presentation of Bill of Lading,提单提示,transport,提单与单证
+Bearer of Bill of Lading,提单持有人,transport,提单与单证
+Original Bill of Lading,正本提单,transport,提单与单证
+Manifest,舱单,transport,提单与单证
+Cargo Manifest,货物舱单,transport,提单与单证
+Loading List,装货清单,transport,提单与单证
+Stowage Plan,配载图,transport,提单与单证
+Mate's Receipt,大副收据,transport,提单与单证
+Shipping Order,装货单,transport,提单与单证
+Booking Note,订舱单,transport,提单与单证
+Delivery Order,提货单,transport,提单与单证
+Tally Sheet,理货单,transport,提单与单证
+Tally Report,理货报告,transport,提单与单证
+Draft Survey,水尺计量,transport,提单与单证
+Draft Survey Report,水尺计重报告,transport,提单与单证
+Hold Inspection Certificate,货舱检验证书,transport,提单与单证
+Hold Cleanliness Certificate,货舱清洁证书,transport,提单与单证
+Fumigation Certificate,熏蒸证书,transport,提单与单证
+Hatch Sealing,封舱,transport,提单与单证
+Cargo Plan,货物积载图,transport,提单与单证
+Dangerous Goods Manifest,危险货物舱单,transport,提单与单证
+Dangerous Goods Declaration,危险货物申报单,transport,提单与单证
+Container Packing Certificate,集装箱装箱证明书,transport,提单与单证
+Cargo Securing Certificate,货物系固证书,transport,提单与单证
+Lashing Certificate,绑扎证书,transport,提单与单证
+Tender of Documents,单据提示,transport,提单与单证
+Shipper's Load and Count,托运人装箱计数,transport,提单与单证
+Said to Contain,据称内装,transport,提单与单证
+Contents Unknown,内容不知条款,transport,提单与单证
+Letter of Indemnity,保函,transport,提单与单证
+LOI for Delivery Without B/L,无提单交货保函,transport,提单与单证
+Bank Guarantee,银行保函,transport,提单与单证
+Letter of Indemnity for Clean B/L,清洁提单保函,transport,提单与单证
+Misdeclaration,误报,transport,提单与单证
+Short Landing,短卸,transport,提单与单证
+Over Landing,溢卸,transport,提单与单证
+Outturn Report,卸货报告,transport,提单与单证
+Exception Report,异常报告,transport,提单与单证
+Cargo Damage Report,货损报告,transport,提单与单证
+Cargo Shortage Report,货差报告,transport,提单与单证
+Survey Report,检验报告,transport,提单与单证
+Marine Surveyor,海事检验师,transport,提单与单证
+Cargo Survey,货物检验,transport,提单与单证
+Independent Surveyor,独立检验师,transport,提单与单证
+Pre-load Survey,装货前检验,transport,提单与单证
+Stowage Factor,积载因数,transport,提单与单证
+Loading Plan,装货计划,transport,提单与单证
+Discharge Plan,卸货计划,transport,提单与单证
+Bay Plan,箱位图,transport,提单与单证
+Container Load Plan,集装箱装载图,transport,提单与单证
+Tally Company,理货公司,transport,提单与单证
+Tally Clerk,理货员,transport,提单与单证
+Port Captain,港口船长,transport,提单与单证
+Supercargo,货运押运员,transport,提单与单证
+Stevedore,装卸工人,transport,提单与单证
+Stevedore Damage,装卸工人损坏,transport,提单与单证
+Notice of Claim,索赔通知,transport,提单与单证
+Claim Letter,索赔函,transport,提单与单证
+Claim Submission,提交索赔,transport,提单与单证
+Supporting Documents,证明文件,transport,提单与单证
+Packing List,装箱单,transport,提单与单证
+Weight List,重量单,transport,提单与单证
+Certificate of Origin,原产地证,transport,提单与单证
+Certificate of Quality,品质证书,transport,提单与单证
+Certificate of Quantity,数量证书,transport,提单与单证
+Certificate of Weight,重量证书,transport,提单与单证
+Certificate of Analysis,分析证书,transport,提单与单证
+Cargo Inspection Certificate,货物检验证书,transport,提单与单证
+SGS Inspection,通用公证行检验,transport,提单与单证
+Third Party Inspection,第三方检验,transport,提单与单证
+Cargo Measurement,货物丈量,transport,提单与单证
+Measurement Certificate,丈量证书,transport,提单与单证
+VGM,集装箱总重验证,transport,提单与单证
+Verified Gross Mass,核实总重,transport,提单与单证
+Weighbridge,地磅,transport,提单与单证
+Tank Calibration Table,油舱计量表,transport,提单与单证
+Ullage Report,空距报告,transport,提单与单证
+Ullage,空距,transport,提单与单证
+Sounding,测深,transport,提单与单证
+Cargo Sample,货样,transport,提单与单证
+Sample Sealing,封样,transport,提单与单证
+Moisture Certificate,水分证书,transport,提单与单证
+Transportable Moisture Limit,适运水分极限,transport,提单与单证
+Carriers Obligation,承运人义务,transport,海商法
+Carrier's Immunities,承运人免责,transport,海商法
+Nautical Fault Exemption,航行过失免责,transport,海商法
+Fire Exemption,火灾免责,transport,海商法
+Latent Defects Exemption,潜在缺陷免责,transport,海商法
+Act of God,不可抗力,transport,海商法
+Package Limitation,单位责任限制,transport,海商法
+Limitation of Liability,赔偿责任限制,transport,海商法
+Limitation Fund,责任限制基金,transport,海商法
+Global Limitation,总责任限制,transport,海商法
+Ton Limitation,吨位责任限制,transport,海商法
+Time Limit for Claims,索赔时效,transport,海商法
+Notice of Loss or Damage,货损通知,transport,海商法
+Jurisdiction Clause,管辖权条款,transport,海商法
+Arbitration Clause,仲裁条款,transport,海商法
+Forum Non Convenience,不方便法院原则,transport,海商法
+Arrest of Ship,船舶扣押,transport,海商法
+Wrongful Arrest,错误扣船,transport,海商法
+Maritime Liens,海上优先权,transport,海商法
+Ship Mortgage,船舶抵押权,transport,海商法
+Statutory Lien,法定留置权,transport,海商法
+Possessory Lien,占有留置权,transport,海商法
+Freight Lien,运费留置权,transport,海商法
+Cargo Lien,货物留置权,transport,海商法
+Tort Claim,侵权索赔,transport,海商法
+Contract of Carriage,运输合同,transport,海商法
+Bailment,寄托关系,transport,海商法
+Bailee,受托人,transport,海商法
+Prima Facie Evidence,初步证据,transport,海商法
+Conclusive Evidence,最终证据,transport,海商法
+Himalaya Clause,喜马拉雅条款,transport,海商法
+Paramount Clause,首要条款,transport,海商法
+Both to Blame Collision Clause,船舶互有过失碰撞条款,transport,海商法
+Demise Clause,光船租赁条款,transport,海商法
+Identity of Carrier Clause,承运人识别条款,transport,海商法
+Period of Responsibility,责任期间,transport,海商法
+Deviation,绕航,transport,海商法
+Unreasonable Deviation,不合理绕航,transport,海商法
+Perils of the Sea,海上风险,transport,海商法
+Contributory Negligence,共同过失,transport,海商法
+Collision Liability,碰撞责任,transport,海商法
+Oil Pollution Liability,油污责任,transport,海商法
+Bunker Convention,船舶燃油污染损害公约,transport,海商法
+CLC,油污损害民事责任公约,transport,海商法
+LLMC,海事赔偿责任限制公约,transport,海商法
+Hague Rules,海牙规则,transport,海商法
+Hague-Visby Rules,海牙-维斯比规则,transport,海商法
+Hamburg Rules,汉堡规则,transport,海商法
+Rotterdam Rules,鹿特丹规则,transport,海商法
+COGSA,美国海上货物运输法,transport,海商法
+Jones Act,琼斯法案,transport,海商法
+Maritime Law,海商法,transport,海商法
+P&I Club,保赔协会,transport,海商法
+Protection and Indemnity Insurance,保赔保险,transport,海商法
+P&I Correspondent,保赔通讯代理,transport,海商法
+Hull Insurance,船舶保险,transport,海商法
+Cargo Insurance,货物保险,transport,海商法
+Marine Insurance Act,海上保险法,transport,海商法
+Institute Cargo Clauses,协会货物条款,transport,海商法
+Institute Time Clauses Hulls,协会船舶定期险条款,transport,海商法
+Abandonment,委付,transport,海商法
+Notice of Abandonment,委付通知,transport,海商法
+Insurable Interest,保险利益,transport,海商法
+Insurable Value,保险价值,transport,海商法
+Insured Amount,保险金额,transport,海商法
+All Risks,一切险,transport,海商法
+Particular Average,单独海损,transport,海商法
+Constructive Total Loss,推定全损,transport,海商法
+Actual Total Loss,实际全损,transport,海商法
+Partial Loss,部分损失,transport,海商法
+General Average,共同海损,transport,共同海损
+Average Adjuster,海损理算师,transport,共同海损
+Average Bond,共同海损协议书,transport,共同海损
+General Average Guarantee,共同海损担保函,transport,共同海损
+General Average Deposit,共同海损保证金,transport,共同海损
+General Average Sacrifice,共同海损牺牲,transport,共同海损
+General Average Expenditure,共同海损费用,transport,共同海损
+York-Antwerp Rules,约克-安特卫普规则,transport,共同海损
+General Average Statement,共同海损理算书,transport,共同海损
+General Average Security,共同海损担保,transport,共同海损
+Salvage,海上救助,transport,共同海损
+Salvage Reward,救助报酬,transport,共同海损
+Salvage Award,救助酬金,transport,共同海损
+Salvage Contract,救助合同,transport,共同海损
+LOF,劳氏救助合同格式,transport,共同海损
+No Cure No Pay,无效果无报酬,transport,共同海损
+Special Compensation,特别补偿,transport,共同海损
+SCOPIC Clause,船东互保特别补偿条款,transport,共同海损
+Salvage Tug,救助拖轮,transport,共同海损
+Salvor,救助人,transport,共同海损
+Life Salvage,人命救助,transport,共同海损
+Salvage Lien,救助留置权,transport,共同海损
+Emergency Towage,紧急拖带,transport,共同海损
+Wreck Removal,残骸清除,transport,共同海损
+Nairobi Wreck Removal Convention,内罗毕残骸清除公约,transport,共同海损
+Sale and Purchase,船舶买卖,transport,船舶买卖
+S&P Memorandum of Agreement,船舶买卖协议,transport,船舶买卖
+Shipbroker,船舶经纪人,transport,船舶买卖
+Ship Valuation,船舶估价,transport,船舶买卖
+Free Delivery,交船交货,transport,船舶买卖
+Delivery,交船,transport,船舶买卖
+Taking Over,接船,transport,船舶买卖
+Pre-purchase Condition Survey,购船前状况检验,transport,船舶买卖
+Purchase Money Escrow,购船款托管,transport,船舶买卖
+Class Certificate Transfer,船级证书转让,transport,船舶买卖
+Closing Documents,交割文件,transport,船舶买卖
+Newbuilding Contract,新造船合同,transport,船舶买卖
+Newbuilding Supervision,新造船监造,transport,船舶买卖
+Ship Recycling,船舶拆解,transport,船舶买卖
+Hong Kong Convention,香港拆船公约,transport,船舶买卖
+Inventory of Hazardous Materials,有害材料清单,transport,船舶买卖
+Scrap Value,拆解价值,transport,船舶买卖
+Demolition Sale,拆船出售,transport,船舶买卖
+Scrap Market,拆船市场,transport,船舶买卖
+Sale Extra Survey,出售附加检验,transport,船舶买卖
+Flag of Convenience,方便旗,transport,船舶登记
+Open Registry,开放登记,transport,船舶登记
+Ship Registration,船舶登记,transport,船舶登记
+Bareboat Charter Registration,光船租赁登记,transport,船舶登记
+Ship Mortgage Registration,船舶抵押登记,transport,船舶登记
+Certificate of Registry,船舶登记证书,transport,船舶登记
+Provisional Certificate of Registry,临时船舶登记证书,transport,船舶登记
+International Tonnage Certificate,国际吨位证书,transport,船舶登记
+Tonnage Measurement,吨位丈量,transport,船舶登记
+Gross Tonnage,总吨位,transport,船舶登记
+Net Tonnage,净吨位,transport,船舶登记
+Call Sign,呼号,transport,船舶登记
+IMO Number,国际海事组织编号,transport,船舶登记
+Port of Registry,船籍港,transport,船舶登记
+Classification Society,船级社,transport,船舶登记
+Master,船长,transport,船员管理
+Chief Officer,大副,transport,船员管理
+Second Officer,二副,transport,船员管理
+Third Officer,三副,transport,船员管理
+Chief Engineer,轮机长,transport,船员管理
+Second Engineer,大管轮,transport,船员管理
+Third Engineer,二管轮,transport,船员管理
+Fourth Engineer,三管轮,transport,船员管理
+Bosun,水手长,transport,船员管理
+Able Seaman,一级水手,transport,船员管理
+Ordinary Seaman,普通水手,transport,船员管理
+Motorman,机工,transport,船员管理
+Electrician,电机员,transport,船员管理
+Certificate of Competency,适任证书,transport,船员管理
+STCW Certificate,海员培训发证值班标准公约证书,transport,船员管理
+Seaman's Book,海员证,transport,船员管理
+Seafarer's Employment Agreement,船员就业协议,transport,船员管理
+Minimum Safe Manning Certificate,最低安全配员证书,transport,船员管理
+Crew List,船员名单,transport,船员管理
+Crew Change,船员换班,transport,船员管理
+Baltic Dry Index,波罗的海干散货指数,transport,航运市场指标
+BDI,波罗的海干散货运价指数,transport,航运市场指标
+Baltic Dirty Tanker Index,波罗的海原油运价指数,transport,航运市场指标
+Baltic Clean Tanker Index,波罗的海成品油运价指数,transport,航运市场指标
+Shanghai Containerized Freight Index,上海出口集装箱运价指数,transport,航运市场指标
+China Containerized Freight Index,中国出口集装箱运价指数,transport,航运市场指标
+Forward Freight Agreement,远期运费协议,transport,航运市场指标
+FFA Market,远期运费协议市场,transport,航运市场指标
+Worldscale,世界油轮名义运价表,transport,航运市场指标
+Worldscale Rate,世界油轮运价表费率,transport,航运市场指标
+Newbuilding Price,新造船价格,transport,航运市场指标
+Secondhand Price,二手船价格,transport,航运市场指标
+Demolition Price,拆船价格,transport,航运市场指标
+Shipping Cycle,航运周期,transport,航运市场指标
+Seaborne Trade,海运贸易量,transport,航运市场指标

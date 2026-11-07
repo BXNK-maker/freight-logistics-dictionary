@@ -1,0 +1,551 @@
+﻿term_en,term_zh,category,subcategory
+Bow,船首,transport,船舶结构
+Stern,船尾,transport,船舶结构
+Midship,船中,transport,船舶结构
+Forecastle,艏楼,transport,船舶结构
+Poop,艉楼,transport,船舶结构
+Bulwark,舷墙,transport,船舶结构
+Transom,艉封板,transport,船舶结构
+Bilge,舱底,transport,船舶结构
+Shell Plating,船壳板,transport,船舶结构
+Frame,肋骨,transport,船舶结构
+Web Frame,强肋骨,transport,船舶结构
+Deck Beam,甲板横梁,transport,船舶结构
+Longitudinal Bulkhead,纵舱壁,transport,船舶结构
+Transverse Bulkhead,横舱壁,transport,船舶结构
+Collision Bulkhead,防撞舱壁,transport,船舶结构
+Corrugated Bulkhead,槽形舱壁,transport,船舶结构
+Bulkhead Stool,舱壁凳,transport,船舶结构
+Hopper Tank,底边舱,transport,船舶结构
+Topside Tank,顶边舱,transport,船舶结构
+Double Bottom,双层底,transport,船舶结构
+Fore Peak Tank,艏尖舱,transport,船舶结构
+After Peak Tank,艉尖舱,transport,船舶结构
+Cofferdam,隔离空舱,transport,船舶结构
+Pump Room,泵舱,transport,船舶结构
+Engine Room,机舱,transport,船舶结构
+Steering Gear Room,舵机间,transport,船舶结构
+Camber,梁拱,transport,船舶结构
+Sheer,舷弧,transport,船舶结构
+Flare,外飘,transport,船舶结构
+Freeboard Deck,干舷甲板,transport,船舶结构
+Strength Deck,强力甲板,transport,船舶结构
+Weather Deck,露天甲板,transport,船舶结构
+Main Deck,主甲板,transport,船舶结构
+Upper Deck,上甲板,transport,船舶结构
+Tween Deck,二层舱,transport,船舶结构
+Keel,龙骨,transport,船舶结构
+Flat Keel,平板龙骨,transport,船舶结构
+Bilge Keel,减摇龙骨,transport,船舶结构
+Stem,艏柱,transport,船舶结构
+Stern Frame,艉柱,transport,船舶结构
+Girder,纵桁,transport,船舶结构
+Stringer,舷侧纵桁,transport,船舶结构
+Floor Plate,肋板,transport,船舶结构
+Bracket,肘板,transport,船舶结构
+Pillar,支柱,transport,船舶结构
+Garboard Strake,龙骨翼板,transport,船舶结构
+Bilge Strake,舭部列板,transport,船舶结构
+Sheer Strake,舷顶列板,transport,船舶结构
+Transverse Framing,横骨架式,transport,船舶结构
+Longitudinal Framing,纵骨架式,transport,船舶结构
+Scantling,构件尺寸,transport,船舶结构
+Safe Working Load,安全工作负荷,transport,船舶结构
+Hull Vibration,船体振动,transport,船舶结构
+Hatch Coaming,舱口围板,transport,船舶结构
+Hatchway,舱口,transport,船舶结构
+Sounding Pipe,测深管,transport,船舶结构
+Air Pipe,空气管,transport,船舶结构
+Ventilator,通风筒,transport,船舶结构
+Cargo Hold,货舱,transport,船舶结构
+Cargo Hold Ventilation,货舱通风,transport,船舶结构
+Windlass,锚机,transport,船舶设备
+Gypsy Wheel,链轮,transport,船舶设备
+Warping End,卷缆绞盘,transport,船舶设备
+Anchor Chain,锚链,transport,船舶设备
+Stud Link Chain,有档锚链,transport,船舶设备
+Kenter Shackle,肯特卸扣,transport,船舶设备
+Swivel Shackle,转环卸扣,transport,船舶设备
+Anchor Buoy,锚标,transport,船舶设备
+Chain Locker,锚链舱,transport,船舶设备
+Chain Pipe,锚链管,transport,船舶设备
+Anchoring Operation,抛锚作业,transport,船舶设备
+Dragging Anchor,走锚,transport,船舶设备
+Anchor Aweigh,锚离底,transport,船舶设备
+Weighing Anchor,起锚,transport,船舶设备
+Shortening Cable,绞锚,transport,船舶设备
+Cable on the Bottom,锚链卧底,transport,船舶设备
+Bow Shackle,锚卸扣,transport,船舶设备
+Capstan,绞盘,transport,船舶设备
+Mooring Winch,系泊绞车,transport,船舶设备
+Mooring Rope,系泊缆绳,transport,船舶设备
+Hawser,粗缆,transport,船舶设备
+Heaving Line,撇缆绳,transport,船舶设备
+Spring Line,倒缆,transport,船舶设备
+Breast Line,横缆,transport,船舶设备
+Head Line,头缆,transport,船舶设备
+Stern Line,尾缆,transport,船舶设备
+Automatic Tension Winch,自动张力绞车,transport,船舶设备
+Fairlead,导缆器,transport,船舶设备
+Closed Fairlead,闭式导缆孔,transport,船舶设备
+Panama Lead Hole,巴拿马导缆孔,transport,船舶设备
+Chock,导缆钳,transport,船舶设备
+Bollard,系船柱,transport,船舶设备
+Bitt,系缆桩,transport,船舶设备
+Fender,护舷,transport,船舶设备
+Pontoon Hatch Cover,箱形舱盖,transport,船舶设备
+Folding Hatch Cover,折叠式舱盖,transport,船舶设备
+Rolling Hatch Cover,滚动式舱盖,transport,船舶设备
+Lift-away Hatch Cover,吊移式舱盖,transport,船舶设备
+Hatch Cover Gasket,舱盖密封垫,transport,船舶设备
+Hatch Cover Cleat,舱盖压紧装置,transport,船舶设备
+Deck Crane,甲板吊机,transport,船舶设备
+Cargo Winch,起货机,transport,船舶设备
+Derrick,吊杆,transport,船舶设备
+Heavy Lift Derrick,重吊,transport,船舶设备
+Gangway,跳板,transport,船舶设备
+Accommodation Ladder,舷梯,transport,船舶设备
+Pilot Ladder,引航员软梯,transport,船舶设备
+Bilge Pump,舱底水泵,transport,船舶设备
+Ballast Pump,压载泵,transport,船舶设备
+Oily Water Separator,油水分离器,transport,船舶设备
+Incinerator,焚烧炉,transport,船舶设备
+Cargo Pump,货物泵,transport,船舶设备
+Cargo Pumping System,货物泵送系统,transport,船舶设备
+Inert Gas System,惰性气体系统,transport,船舶设备
+Air Conditioning Plant,空调装置,transport,船舶设备
+Provision Refrigerating Plant,伙食冷藏装置,transport,船舶设备
+Sewage Treatment Plant,生活污水处理装置,transport,船舶设备
+Fresh Water Generator,造水机,transport,船舶设备
+Steering Gear,舵机,transport,船舶设备
+Rudder Stock,舵杆,transport,船舶设备
+Rudder Blade,舵叶,transport,船舶设备
+Balanced Rudder,平衡舵,transport,船舶设备
+Semi-balanced Rudder,半平衡舵,transport,船舶设备
+Flap Rudder,襟翼舵,transport,船舶设备
+Rudder Carrier,舵承,transport,船舶设备
+Rudder Pintle,舵销,transport,船舶设备
+Skeg,挂舵臂,transport,船舶设备
+Emergency Steering,应急操舵,transport,船舶设备
+Hydraulic Steering System,液压舵机系统,transport,船舶设备
+Rudder Trunk,舵杆围阱,transport,船舶设备
+Inflatable Life Raft,气胀式救生筏,transport,救生消防
+Marine Evacuation System,海上撤离系统,transport,救生消防
+Immersion Suit,浸水保温服,transport,救生消防
+Anti-exposure Suit,防暴露服,transport,救生消防
+Lifebuoy,救生圈,transport,救生消防
+Water Light,自亮浮灯,transport,救生消防
+Lifebuoy Smoke Signal,救生圈烟雾信号,transport,救生消防
+Line Throwing Apparatus,抛绳器,transport,救生消防
+SART,搜救雷达应答器,transport,救生消防
+EPIRB,应急无线电示位标,transport,救生消防
+Two-way VHF,双向甚高频无线电话,transport,救生消防
+Lifeboat Launching Gear,救生艇降落装置,transport,救生消防
+On-load Release Gear,带负荷脱钩装置,transport,救生消防
+Off-load Release Gear,无负荷脱钩装置,transport,救生消防
+Hydrostatic Release Unit,静水压力释放器,transport,救生消防
+Lifeboat Engine,救生艇发动机,transport,救生消防
+Gravity Davit,重力倒臂式吊艇架,transport,救生消防
+Rescue Boat,救助艇,transport,救生消防
+Fast Rescue Boat,快速救助艇,transport,救生消防
+Free-fall Lifeboat,自由降落式救生艇,transport,救生消防
+Totally Enclosed Lifeboat,全封闭式救生艇,transport,救生消防
+Lifeboat,救生艇,transport,救生消防
+Buoyant Apparatus,浮具,transport,救生消防
+Sea Anchor,海锚,transport,救生消防
+Rescue Net,直升机救助网,transport,救生消防
+Embarkation Ladder,登乘梯,transport,救生消防
+Fire Main,消防总管,transport,救生消防
+International Shore Connection,国际通岸接头,transport,救生消防
+Fire Pump,消防泵,transport,救生消防
+Emergency Fire Pump,应急消防泵,transport,救生消防
+Fire Hydrant,消防栓,transport,救生消防
+Fire Hose,消防水带,transport,救生消防
+Foam Concentrate,泡沫浓缩液,transport,救生消防
+Water Mist System,细水雾系统,transport,救生消防
+CO2 Flooding System,二氧化碳灭火系统,transport,救生消防
+High Expansion Foam,高倍泡沫,transport,救生消防
+Fire Detection and Alarm System,火灾探测报警系统,transport,救生消防
+Smoke Detector,感烟探测器,transport,救生消防
+Heat Detector,感温探测器,transport,救生消防
+Flame Detector,感光探测器,transport,救生消防
+Manual Call Point,手动报警按钮,transport,救生消防
+Quick Closing Valve,速闭阀,transport,救生消防
+Remote Fuel Oil Shut-off,燃油遥控切断,transport,救生消防
+Fire Damper,防火挡板,transport,救生消防
+Fire Door,防火门,transport,救生消防
+A Class Division,甲级分隔,transport,救生消防
+B Class Division,乙级分隔,transport,救生消防
+Fire Insulation,防火绝缘,transport,救生消防
+Non-combustible Material,不燃材料,transport,救生消防
+Fire Control Plan,防火控制图,transport,救生消防
+Fire Drill,消防演习,transport,救生消防
+Fire Patrol,防火巡逻,transport,救生消防
+Flammable Gas Detector,可燃气体探测器,transport,救生消防
+Portable Foam Applicator,手提式泡沫喷枪,transport,救生消防
+Fire Axe,消防斧,transport,救生消防
+Fire Blanket,消防毯,transport,救生消防
+EEBD,紧急逃生呼吸器,transport,救生消防
+Fireman's Outfit,消防员装备,transport,救生消防
+Fire Extinguisher,灭火器,transport,救生消防
+Portable Extinguisher,手提式灭火器,transport,救生消防
+Lifeboat Davit,吊艇架,transport,救生消防
+Launching Appliance,降落设备,transport,救生消防
+Life Jacket,救生衣,transport,救生消防
+Lifejacket Light,救生衣灯,transport,救生消防
+Breathing Apparatus,呼吸器,transport,救生消防
+SCBA,自给式呼吸器,transport,救生消防
+Foam Monitor,泡沫炮,transport,救生消防
+Sprinkler System,洒水系统,transport,救生消防
+Fixed Fire Fighting System,固定灭火系统,transport,救生消防
+Powder Extinguishing System,干粉灭火系统,transport,救生消防
+MAN B&W Engine,曼恩柴油机,transport,船舶主机
+WinGD Engine,温特图尔柴油机,transport,船舶主机
+Two-stroke Diesel Engine,二冲程柴油机,transport,船舶主机
+Four-stroke Diesel Engine,四冲程柴油机,transport,船舶主机
+Medium Speed Diesel Engine,中速柴油机,transport,船舶主机
+Low Speed Diesel Engine,低速柴油机,transport,船舶主机
+V-type Engine,V型柴油机,transport,船舶主机
+In-line Engine,直列式柴油机,transport,船舶主机
+Crosshead Engine,十字头式柴油机,transport,船舶主机
+Super Long Stroke Engine,超长冲程柴油机,transport,船舶主机
+Turbocharger,涡轮增压器,transport,船舶主机
+Constant Pressure Turbocharging,定压涡轮增压,transport,船舶主机
+Pulse Turbocharging,脉冲涡轮增压,transport,船舶主机
+Exhaust Gas Boiler,废气锅炉,transport,船舶主机
+Shaft Generator,轴带发电机,transport,船舶主机
+PTO,轴带发电输出,transport,船舶主机
+PTI,轴带电动机输入,transport,船舶主机
+Flywheel,飞轮,transport,船舶主机
+Crankshaft,曲轴,transport,船舶主机
+Main Bearing,主轴承,transport,船舶主机
+Connecting Rod,连杆,transport,船舶主机
+Crosshead Bearing,十字头轴承,transport,船舶主机
+Piston Crown,活塞头,transport,船舶主机
+Piston Ring,活塞环,transport,船舶主机
+Cylinder Liner,气缸套,transport,船舶主机
+Cylinder Head,气缸盖,transport,船舶主机
+Cylinder Lubrication,气缸润滑,transport,船舶主机
+Fuel Injection System,燃油喷射系统,transport,船舶主机
+Fuel Injector,喷油器,transport,船舶主机
+Fuel Injection Pump,喷油泵,transport,船舶主机
+Unit Injector,单体泵,transport,船舶主机
+Air Distributor,空气分配器,transport,船舶主机
+Main Starting Valve,主启动阀,transport,船舶主机
+Turning Gear,盘车机,transport,船舶主机
+Turning Gear Interlock,盘车机联锁,transport,船舶主机
+Reversing Mechanism,换向机构,transport,船舶主机
+Compression Ratio,压缩比,transport,船舶主机
+Firing Order,发火顺序,transport,船舶主机
+Rated Power,额定功率,transport,船舶主机
+Rated Speed,额定转速,transport,船舶主机
+Mean Effective Pressure,平均有效压力,transport,船舶主机
+Maximum Combustion Pressure,最高燃烧压力,transport,船舶主机
+Scavenging Efficiency,扫气效率,transport,船舶主机
+Exhaust Temperature,排气温度,transport,船舶主机
+Exhaust Valve Rotator,排气阀旋转器,transport,船舶主机
+Valve Seat Ring,阀座圈,transport,船舶主机
+Valve Spindle,阀杆,transport,船舶主机
+Hydraulic Nut,液压螺母,transport,船舶主机
+Air Spring,空气弹簧,transport,船舶主机
+Common Rail System,共轨系统,transport,船舶主机
+Electronic Control Engine,电子控制柴油机,transport,船舶主机
+Alpha Cylinder Lubrication,阿尔法气缸润滑系统,transport,船舶主机
+Fixed Pitch Propeller,定距桨,transport,船舶主机
+Controllable Pitch Propeller,调距桨,transport,船舶主机
+Ducted Propeller,导管桨,transport,船舶主机
+Propeller Blade,螺旋桨叶,transport,船舶主机
+Propeller Hub,螺旋桨毂,transport,船舶主机
+Propeller Shaft,螺旋桨轴,transport,船舶主机
+Intermediate Shaft,中间轴,transport,船舶主机
+Thrust Shaft,推力轴,transport,船舶主机
+Thrust Bearing,推力轴承,transport,船舶主机
+Stern Tube Bearing,艉轴管轴承,transport,船舶主机
+Stern Tube Seal,艉轴管密封,transport,船舶主机
+Shaft Grounding Device,轴接地装置,transport,船舶主机
+CPP Hydraulic System,调距桨液压系统,transport,船舶主机
+Propeller Slip Ratio,滑失率,transport,船舶主机
+Propeller Cavitation,螺旋桨空泡,transport,船舶主机
+Shaft Alignment,轴系校中,transport,船舶主机
+Torsional Vibration,扭转振动,transport,船舶主机
+Reduction Gearbox,减速齿轮箱,transport,船舶主机
+Elastic Coupling,弹性联轴节,transport,船舶主机
+Diesel Electric Propulsion,柴电推进,transport,船舶主机
+Podded Propulsion,吊舱推进,transport,船舶主机
+Bow Thruster,艏侧推,transport,船舶主机
+Azimuth Thruster,全回转推进器,transport,船舶主机
+Waterjet Propulsion,喷水推进,transport,船舶主机
+Voith Schneider Propeller,摆线推进器,transport,船舶主机
+Shaft Tunnel,轴隧,transport,船舶主机
+Steam Turbine,汽轮机,transport,船舶主机
+Gas Turbine,燃气轮机,transport,船舶主机
+Auxiliary Engine,副机,transport,轮机设备
+Diesel Generator,柴油发电机,transport,轮机设备
+Emergency Generator,应急发电机,transport,轮机设备
+Emergency Switchboard,应急配电板,transport,轮机设备
+Main Switchboard,主配电板,transport,轮机设备
+Boiler,锅炉,transport,轮机设备
+Economizer,经济器,transport,轮机设备
+Superheater,过热器,transport,轮机设备
+Burner,燃烧器,transport,轮机设备
+Fuel Oil Supply Unit,燃油供给单元,transport,轮机设备
+Separator,分油机,transport,轮机设备
+Purifier,净油机,transport,轮机设备
+Fuel Oil Blending Unit,燃油混调单元,transport,轮机设备
+Low Sulfur Fuel,低硫燃油,transport,轮机设备
+VLSFO,极低硫燃料油,transport,轮机设备
+ULSFO,超低硫燃料油,transport,轮机设备
+MGO,船用轻柴油,transport,轮机设备
+HFO,重质燃料油,transport,轮机设备
+MDO,船用柴油,transport,轮机设备
+Fuel Viscosity,燃油黏度,transport,轮机设备
+Fuel Heating,燃油加热,transport,轮机设备
+Scrubber,脱硫塔,transport,轮机设备
+Open Loop Scrubber,开式脱硫塔,transport,轮机设备
+Closed Loop Scrubber,闭式脱硫塔,transport,轮机设备
+Hybrid Scrubber,混合式脱硫塔,transport,轮机设备
+Selective Catalytic Reduction,选择性催化还原,transport,轮机设备
+Exhaust Gas Recirculation,废气再循环,transport,轮机设备
+LNG Dual Fuel,液化天然气双燃料,transport,轮机设备
+Gas Supply System,气体供给系统,transport,轮机设备
+Methanol Dual Fuel,甲醇双燃料,transport,轮机设备
+Ammonia Fuel,氨燃料,transport,轮机设备
+Hydrogen Fuel Cell,氢燃料电池,transport,轮机设备
+Battery Power,电池动力,transport,轮机设备
+Shore Power Connection,岸电连接,transport,轮机设备
+Air Compressor,空气压缩机,transport,轮机设备
+Starting Air Receiver,启动空气瓶,transport,轮机设备
+Bilge System,舱底水系统,transport,轮机设备
+Ballast System,压载水系统,transport,轮机设备
+Sea Water Cooling System,海水冷却系统,transport,轮机设备
+Fresh Water Cooling System,淡水冷却系统,transport,轮机设备
+Fuel Oil Transfer Pump,燃油驳运泵,transport,轮机设备
+Reverse Osmosis Plant,反渗透造水装置,transport,轮机设备
+Refrigerating Compressor,冷藏压缩机,transport,轮机设备
+Hydrophore,压力水柜,transport,轮机设备
+Expansion Tank,膨胀柜,transport,轮机设备
+Settling Tank,沉淀柜,transport,轮机设备
+Service Tank,日用柜,transport,轮机设备
+Sludge Tank,油渣柜,transport,轮机设备
+Bilge Well,污水井,transport,轮机设备
+Grey Water Tank,灰水舱,transport,轮机设备
+Evaporator,蒸发器,transport,轮机设备
+Condenser,冷凝器,transport,轮机设备
+Heat Exchanger,热交换器,transport,轮机设备
+Centrifugal Pump,离心泵,transport,轮机设备
+Reciprocating Pump,往复泵,transport,轮机设备
+Gear Pump,齿轮泵,transport,轮机设备
+Screw Pump,螺杆泵,transport,轮机设备
+Eductor,喷射泵,transport,轮机设备
+Fresh Water Pump,淡水泵,transport,轮机设备
+Sea Water Pump,海水泵,transport,轮机设备
+Lube Oil Purifier,滑油分油机,transport,轮机设备
+Lube Oil Storage Tank,滑油储存柜,transport,轮机设备
+Fuel Oil Heater,燃油加热器,transport,轮机设备
+Air Receiver,空气瓶,transport,轮机设备
+Fuel Oil Settling Tank,燃油沉淀柜,transport,轮机设备
+Daily Service Tank,日用燃油柜,transport,轮机设备
+Oil Mist Detector,油雾探测器,transport,轮机设备
+Crankcase Explosion Relief Valve,曲轴箱防爆门,transport,轮机设备
+Crankcase,曲轴箱,transport,轮机设备
+Tie Rod,贯穿螺栓,transport,轮机设备
+Bedplate,机座,transport,轮机设备
+Frame Box,机架,transport,轮机设备
+Cylinder Block,气缸体,transport,轮机设备
+Thrust Block,推力轴承座,transport,轮机设备
+Stern Tube,艉轴管,transport,轮机设备
+Stern Tube Lubricating Oil,艉轴管润滑油,transport,轮机设备
+Propeller Cone Nut,桨帽,transport,轮机设备
+Intermediate Bearing,中间轴承,transport,轮机设备
+Air Cooler,空气冷却器,transport,轮机设备
+Jacket Cooling Water,缸套冷却水,transport,轮机设备
+Radar,雷达,transport,航海技术
+ARPA,自动雷达标绘仪,transport,航海技术
+ECDIS,电子海图显示与信息系统,transport,航海技术
+ENC,电子航海图,transport,航海技术
+GPS,全球定位系统,transport,航海技术
+DGPS,差分全球定位系统,transport,航海技术
+GLONASS,格洛纳斯卫星导航系统,transport,航海技术
+BeiDou,北斗卫星导航系统,transport,航海技术
+Galileo,伽利略卫星导航系统,transport,航海技术
+AIS,船舶自动识别系统,transport,航海技术
+LRIT,远程识别与跟踪,transport,航海技术
+VDR,航行数据记录仪,transport,航海技术
+Autopilot,自动舵,transport,航海技术
+Gyrocompass,电罗经,transport,航海技术
+Magnetic Compass,磁罗经,transport,航海技术
+Compass Deviation,自差,transport,航海技术
+Compass Error,罗经差,transport,航海技术
+Variation,磁差,transport,航海技术
+Deviation Table,自差表,transport,航海技术
+Azimuth Mirror,方位镜,transport,航海技术
+Bearing Repeater,方位复示器,transport,航海技术
+Course Repeater,航向复示器,transport,航海技术
+Doppler Log,多普勒计程仪,transport,航海技术
+Electromagnetic Log,电磁计程仪,transport,航海技术
+Ground Speed,对地速度,transport,航海技术
+Speed Through Water,对水速度,transport,航海技术
+Echo Sounder,测深仪,transport,航海技术
+NAVTEX,航行警告接收机,transport,航海技术
+Inmarsat C,国际海事卫星C站,transport,航海技术
+Ship Earth Station,船舶地球站,transport,航海技术
+COSPAS-SARSAT,全球卫星搜救系统,transport,航海技术
+Digital Selective Calling,数字选择性呼叫,transport,航海技术
+GMDSS,全球海上遇险与安全系统,transport,航海技术
+Sea Area A1,A1海区,transport,航海技术
+Sea Area A2,A2海区,transport,航海技术
+Sea Area A3,A3海区,transport,航海技术
+Sea Area A4,A4海区,transport,航海技术
+Sextant,六分仪,transport,航海技术
+Sextant Altitude,六分仪高度,transport,航海技术
+Celestial Fix,天测船位,transport,航海技术
+Nautical Almanac,航海天文历,transport,航海技术
+Zone Time,区时,transport,航海技术
+Date Line,日界线,transport,航海技术
+Tide Table,潮汐表,transport,航海技术
+Tidal Stream,潮流,transport,航海技术
+Ocean Current,洋流,transport,航海技术
+Drift Angle,漂角,transport,航海技术
+Beaufort Scale,蒲福风级,transport,航海技术
+Douglas Sea State,道格拉斯海况级,transport,航海技术
+Significant Wave Height,有效波高,transport,航海技术
+Wave Period,波浪周期,transport,航海技术
+Swell,涌浪,transport,航海技术
+Wind Wave,风浪,transport,航海技术
+Rogue Wave,疯狗浪,transport,航海技术
+Ship Squat,船体下沉,transport,航海技术
+Bank Effect,岸壁效应,transport,航海技术
+Ship-ship Interaction,船间效应,transport,航海技术
+Speed Loss in Weather,失速,transport,航海技术
+Weather Routing,气象导航,transport,航海技术
+Great Circle Sailing,大圆航行,transport,航海技术
+Radar Beacon,雷达信标,transport,航海技术
+Racon,雷达应答标,transport,航海技术
+Buoyage System,浮标制度,transport,航海技术
+Lateral Buoyage,侧面标示制,transport,航海技术
+Cardinal Buoyage,方位标示制,transport,航海技术
+Lighthouse,灯塔,transport,航海技术
+Leading Lights,导灯,transport,航海技术
+Range Lights,叠标,transport,航海技术
+Daymark,立标,transport,航海技术
+Light Characteristics,灯质,transport,航海技术
+Nominal Range,名义射程,transport,航海技术
+Chart Correction,海图改正,transport,航海技术
+Notice to Mariners,航海通告,transport,航海技术
+Sailing Directions,航路指南,transport,航海技术
+List of Lights,灯标表,transport,航海技术
+Chart Datum,海图基准面,transport,航海技术
+Course Over Ground,对地航向,transport,航海技术
+Heading,船首向,transport,航海技术
+Course to Steer,计划航向,transport,航海技术
+Waypoint,转向点,transport,航海技术
+Parallel Indexing,平行标绘,transport,航海技术
+Pilot Card,引航员卡,transport,航海技术
+Bridge Watchkeeping,驾驶台值班,transport,航海技术
+Handing Over the Watch,交接班,transport,航海技术
+Man Overboard,人员落水,transport,航海技术
+Composite Sailing,混合航线,transport,气象航路
+Planetary Wind Belt,行星风带,transport,气象航路
+Monsoon,季风,transport,气象航路
+Land and Sea Breeze,海陆风,transport,气象航路
+Typhoon,台风,transport,气象航路
+Typhoon Eye,台风眼,transport,气象航路
+Dangerous Semi-circle,危险半圆,transport,气象航路
+Navigable Semi-circle,可航半圆,transport,气象航路
+Typhoon Avoidance,避台,transport,气象航路
+Tropical Cyclone,热带气旋,transport,气象航路
+Extratropical Cyclone,温带气旋,transport,气象航路
+Tornado,龙卷风,transport,气象航路
+Squall Line,飑线,transport,气象航路
+Cold Front,冷锋,transport,气象航路
+Warm Front,暖锋,transport,气象航路
+Stationary Front,静止锋,transport,气象航路
+Occluded Front,锢囚锋,transport,气象航路
+Subtropical High,副热带高压,transport,气象航路
+Steering Flow,引导气流,transport,气象航路
+Foehn Wind,焚风,transport,气象航路
+Blizzard,暴风雪,transport,气象航路
+Sea Fog,海雾,transport,气象航路
+Advection Fog,平流雾,transport,气象航路
+Radiation Fog,辐射雾,transport,气象航路
+Frontal Fog,锋面雾,transport,气象航路
+Steam Fog,蒸汽雾,transport,气象航路
+Visibility,能见度,transport,气象航路
+Weather Report,气象报告,transport,气象航路
+Weather Warning,气象警报,transport,气象航路
+Navigational Warning,航行警告,transport,气象航路
+NAVTEX Broadcast,航行电传广播,transport,气象航路
+Weather Facsimile,气象传真,transport,气象航路
+Surface Synoptic Chart,地面天气图,transport,气象航路
+Isobar,等压线,transport,气象航路
+Atmospheric Pressure,气压,transport,气象航路
+Wind Force,风力,transport,气象航路
+Wind Direction,风向,transport,气象航路
+Gust,阵风,transport,气象航路
+Lightning,雷电,transport,气象航路
+Thunderstorm,雷暴,transport,气象航路
+Hail,冰雹,transport,气象航路
+Ice Accretion,甲板结冰,transport,气象航路
+Icing,结冰,transport,气象航路
+Fog Bank,雾堤,transport,气象航路
+Tropical Depression,热带低压,transport,气象航路
+SOLAS,国际海上人命安全公约,transport,海事安全
+MARPOL,国际防止船舶造成污染公约,transport,海事安全
+Load Line Convention,国际载重线公约,transport,海事安全
+STCW Convention,海员培训发证值班标准公约,transport,海事安全
+COLREG,国际海上避碰规则,transport,海事安全
+ISM Code,国际安全管理规则,transport,海事安全
+ISPS Code,国际船舶和港口设施保安规则,transport,海事安全
+Port State Control,港口国监督,transport,海事安全
+PSC Inspection,港口国监督检查,transport,海事安全
+PSC Detention,港口国滞留,transport,海事安全
+Flag State Control,船旗国监督,transport,海事安全
+Annual Survey,年度检验,transport,海事安全
+Intermediate Survey,中间检验,transport,海事安全
+Special Survey,特别检验,transport,海事安全
+Docking Survey,坞内检验,transport,海事安全
+In-water Survey,水下检验,transport,海事安全
+Continuous Survey,循环检验,transport,海事安全
+Condition of Class,船级状况,transport,海事安全
+Class Surveyor,船级社验船师,transport,海事安全
+Safety Equipment Certificate,设备安全证书,transport,海事安全
+Safety Construction Certificate,结构安全证书,transport,海事安全
+Safety Radio Certificate,无线电安全证书,transport,海事安全
+Document of Compliance,符合证明,transport,海事安全
+Safety Management Certificate,安全管理证书,transport,海事安全
+Load Line Certificate,载重线证书,transport,海事安全
+MARPOL Annex I,防污公约附则一,transport,海事安全
+MARPOL Annex II,防污公约附则二,transport,海事安全
+MARPOL Annex III,防污公约附则三,transport,海事安全
+MARPOL Annex IV,防污公约附则四,transport,海事安全
+MARPOL Annex V,防污公约附则五,transport,海事安全
+MARPOL Annex VI,防污公约附则六,transport,海事安全
+Emission Control Area,排放控制区,transport,海事安全
+SOx Emission Control Area,硫排放控制区,transport,海事安全
+IOPP Certificate,国际防油污证书,transport,海事安全
+Ballast Water Management Certificate,压载水管理证书,transport,海事安全
+Note of Protest,海事声明,transport,海商法
+Extended Protest,延伸海事声明,transport,海商法
+Log Book,航海日志,transport,海商法
+Deck Log Book,驾驶台日志,transport,海商法
+Engine Log Book,机舱日志,transport,海商法
+Bell Book,车钟记录簿,transport,海商法
+Course Recorder,航向记录仪,transport,海商法
+Evidence of Fault,过失证据,transport,海商法
+Fault Allocation,过失比例,transport,海商法
+Damage Assessment,损坏评估,transport,海商法
+Settlement Agreement,和解协议,transport,海商法
+Release Letter,免责函,transport,海商法
+Subrogation,代位求偿,transport,海商法
+Casualty Report,事故报告,transport,海商法
+Marine Casualty,海上事故,transport,海商法
+Accident Investigation,事故调查,transport,海商法
+London Arbitration,伦敦仲裁,transport,海商法
+LMAA,伦敦海事仲裁员协会,transport,海商法
+CMAC,中国海事仲裁委员会,transport,海商法
+Arbitration Award,仲裁裁决,transport,海商法
+New York Convention,纽约公约,transport,海商法
+Governing Law,适用法律,transport,海商法
+Admiralty Court,海事法院,transport,海商法
+Statement of Claim,起诉状,transport,海商法
+Burden of Proof,举证责任,transport,海商法

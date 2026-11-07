@@ -1,0 +1,551 @@
+﻿term_en,term_zh,category,subcategory
+Bonded Warehouse,保税仓库,warehousing,仓库类型
+Free Trade Zone Warehouse,自由贸易区仓库,warehousing,仓库类型
+E-Commerce Fulfillment Center,电商履约中心,warehousing,仓库类型
+Micro-Fulfillment Center,微型履约中心,warehousing,仓库类型
+Dark Store,暗仓门店,warehousing,仓库类型
+Urban Warehouse,城市仓库,warehousing,仓库类型
+Distribution Center,配送中心,warehousing,仓库类型
+Consolidation Center,集货中心,warehousing,仓库类型
+Deconsolidation Center,分货中心,warehousing,仓库类型
+Returns Center,退货处理中心,warehousing,仓库类型
+Hazardous Goods Warehouse,危险品仓库,warehousing,仓库类型
+Finished Goods Warehouse,成品仓库,warehousing,仓库类型
+Raw Material Warehouse,原材料仓库,warehousing,仓库类型
+Spare Parts Warehouse,备件仓库,warehousing,仓库类型
+Public Warehouse,公共仓库,warehousing,仓库类型
+Private Warehouse,自有仓库,warehousing,仓库类型
+Contract Warehouse,合同仓库,warehousing,仓库类型
+Bulk Storage Warehouse,散货仓库,warehousing,仓库类型
+Container Freight Station,集装箱货运站,warehousing,仓库类型
+Transload Facility,转运装载设施,warehousing,仓库类型
+Cross-Dock Facility,越库作业设施,warehousing,仓库类型
+Overseas Warehouse,海外仓,warehousing,仓库类型
+Temperature-Controlled Warehouse,控温仓库,warehousing,仓库类型
+Automated Warehouse,自动化仓库,warehousing,仓库类型
+Manual Warehouse,人工作业仓库,warehousing,仓库类型
+Pick and Pack Warehouse,拣配一体仓库,warehousing,仓库类型
+Break-Bulk Warehouse,拆箱分拨仓库,warehousing,仓库类型
+Rail-Served Warehouse,铁路直达仓库,warehousing,仓库类型
+Warehouse Campus,仓储园区,warehousing,仓库类型
+Logistics Park,物流园区,warehousing,仓库类型
+Receiving Area,收货区,warehousing,功能分区
+Shipping Area,发货区,warehousing,功能分区
+Staging Area,暂存区,warehousing,功能分区
+Staging Lane,待发通道,warehousing,功能分区
+Consolidation Area,集货区,warehousing,功能分区
+Value-Added Service Area,增值服务区,warehousing,功能分区
+Returns Processing Area,退货处理区,warehousing,功能分区
+Quarantine Area,隔离区,warehousing,功能分区
+Quality Inspection Area,质检区,warehousing,功能分区
+Packing Station,包装工位,warehousing,功能分区
+Pick Module,拣选模块,warehousing,功能分区
+Bulk Storage Area,整托存储区,warehousing,功能分区
+Forward Pick Area,前置拣选区,warehousing,功能分区
+Fast-Mover Zone,快流区,warehousing,功能分区
+Slow-Mover Zone,慢流区,warehousing,功能分区
+Reserve Storage Area,储备存储区,warehousing,功能分区
+Overflow Storage Area,溢出存储区,warehousing,功能分区
+Empty Pallet Area,空托盘区,warehousing,功能分区
+Battery Charging Area,充电区,warehousing,功能分区
+Truck Staging Yard,车辆待卸场,warehousing,功能分区
+Canopy,装卸雨棚,warehousing,功能分区
+Freight Elevator,货梯,warehousing,功能分区
+Dock Office,月台办公室,warehousing,功能分区
+Mezzanine Office,阁楼办公室,warehousing,功能分区
+Wire Mesh Partition,钢丝网隔断,warehousing,功能分区
+Secure Cage,安保笼,warehousing,功能分区
+High-Value Cage,贵重品笼,warehousing,功能分区
+Sample Room,样品室,warehousing,功能分区
+Document Room,单证室,warehousing,功能分区
+Labeling Area,贴标区,warehousing,功能分区
+Weighing Area,称重区,warehousing,功能分区
+Kitting Area,组套作业区,warehousing,功能分区
+Loading Dock,装卸月台,warehousing,月台设备
+Dock Leveler,登车桥,warehousing,月台设备
+Dock Seal,门封,warehousing,月台设备
+Dock Shelter,门罩,warehousing,月台设备
+Dock Bumper,防撞垫,warehousing,月台设备
+Dock Light,月台照明灯,warehousing,月台设备
+Dock Plate,搭接板,warehousing,月台设备
+Dock Board,铺板,warehousing,月台设备
+Dock Ramp,月台坡道,warehousing,月台设备
+Yard Ramp,移动登车桥,warehousing,月台设备
+Dock House,月台房,warehousing,月台设备
+Drive-Through Dock,贯通式月台,warehousing,月台设备
+Flush Dock,平嵌式月台,warehousing,月台设备
+Finger Dock,突指式月台,warehousing,月台设备
+Sawtooth Dock,锯齿式月台,warehousing,月台设备
+Grade-Level Dock,平地月台,warehousing,月台设备
+Dock Door,月台门,warehousing,月台设备
+Strip Curtain,条形门帘,warehousing,月台设备
+Air Curtain,风幕机,warehousing,月台设备
+Pit Leveler,坑式登车桥,warehousing,月台设备
+Edge-of-Dock Leveler,边缘登车桥,warehousing,月台设备
+Vehicle Restraint,车辆限位装置,warehousing,月台设备
+Trailer Lock,挂车锁止器,warehousing,月台设备
+Wheel Chock,车轮止滑器,warehousing,月台设备
+Dock Signal Light,月台信号灯,warehousing,月台设备
+Trailer,挂车,warehousing,月台设备
+Tractor,牵引车头,warehousing,月台设备
+Spotter Truck,场内调头车,warehousing,月台设备
+Dock Scheduling,月台排程,warehousing,月台设备
+Yard Management System,堆场管理系统,warehousing,月台设备
+Yard Check,堆场盘点,warehousing,月台设备
+Driver Check-In,司机报到,warehousing,月台设备
+Fire Sprinkler,消防喷淋,warehousing,建筑消防
+ESFR Sprinkler,早期抑制快速响应喷淋,warehousing,建筑消防
+Fire Hydrant,消火栓,warehousing,建筑消防
+Fire Extinguisher,灭火器,warehousing,建筑消防
+Smoke Detector,烟感探测器,warehousing,建筑消防
+Flame Detector,火焰探测器,warehousing,建筑消防
+Fire Alarm Control Panel,火灾报警主机,warehousing,建筑消防
+Fire Compartment,防火分区,warehousing,建筑消防
+Fire Shutter,防火卷帘,warehousing,建筑消防
+Fire Exit,安全出口,warehousing,建筑消防
+Evacuation Route,疏散通道,warehousing,建筑消防
+Emergency Lighting,应急照明,warehousing,建筑消防
+In-Rack Sprinkler,货架内置喷淋,warehousing,建筑消防
+Fire Pump Room,消防泵房,warehousing,建筑消防
+Flue Space,烟气通道,warehousing,建筑消防
+Impact Barrier,防撞栏,warehousing,建筑消防
+Guard Rail,安全护栏,warehousing,建筑消防
+Bollard,防撞柱,warehousing,建筑消防
+Column Guard,柱护角,warehousing,建筑消防
+Roof Skylight,屋顶采光带,warehousing,建筑消防
+LED High Bay Light,LED工矿灯,warehousing,建筑消防
+HVLS Fan,大型工业风扇,warehousing,建筑消防
+Ventilation Fan,通风风机,warehousing,建筑消防
+Clear Height,净高,warehousing,建筑消防
+Column Grid,柱网,warehousing,建筑消防
+Fire Drill,消防演练,warehousing,建筑消防
+Emergency Evacuation Plan,应急预案,warehousing,建筑消防
+Fire Lane,消防通道,warehousing,建筑消防
+CCTV System,视频监控系统,warehousing,安防门禁
+Access Control System,门禁系统,warehousing,安防门禁
+Biometric Access,生物识别门禁,warehousing,安防门禁
+Intrusion Alarm,入侵报警,warehousing,安防门禁
+Perimeter Fence,周界围栏,warehousing,安防门禁
+Weighbridge,地磅汽车衡,warehousing,安防门禁
+Gatehouse,门卫室,warehousing,安防门禁
+Truck Gate,卡车通道闸,warehousing,安防门禁
+Guard Booth,安保岗亭,warehousing,安防门禁
+Video Surveillance Camera,监控摄像头,warehousing,安防门禁
+Alarm Monitoring,报警联网监控,warehousing,安防门禁
+Visitor Registration,来访登记,warehousing,安防门禁
+Patrol Route,巡逻路线,warehousing,安防门禁
+Loss Prevention,防盗防损,warehousing,安防门禁
+Epoxy Flooring,环氧地坪,warehousing,地面环境
+Superflat Floor,超平地坪,warehousing,地面环境
+Floor Levelness,地面平整度,warehousing,地面环境
+Floor Hardener,地面固化剂,warehousing,地面环境
+Expansion Joint,伸缩缝,warehousing,地面环境
+Joint Sealant,接缝密封胶,warehousing,地面环境
+Dehumidifier,除湿机,warehousing,地面环境
+Humidifier,加湿器,warehousing,地面环境
+Dust Collection System,除尘系统,warehousing,地面环境
+Pest Control,虫害防治,warehousing,地面环境
+Bird-Proofing Net,防鸟网,warehousing,地面环境
+Thermal Insulation,保温隔热层,warehousing,地面环境
+Cold Storage,冷库,warehousing,冷链仓储
+Refrigerated Warehouse,冷藏库,warehousing,冷链仓储
+Freezer Warehouse,冷冻库,warehousing,冷链仓储
+Chill Room,冷却间,warehousing,冷链仓储
+Air Lock,气锁间,warehousing,冷链仓储
+Insulated Panel,保温库板,warehousing,冷链仓储
+Blast Freezer,速冻库,warehousing,冷链仓储
+Plate Freezer,平板速冻机,warehousing,冷链仓储
+Spiral Freezer,螺旋速冻机,warehousing,冷链仓储
+Thawing Room,解冻间,warehousing,冷链仓储
+Banana Ripening Room,催熟间,warehousing,冷链仓储
+Controlled Atmosphere Storage,气调储藏,warehousing,冷链仓储
+Modified Atmosphere Packaging,气调包装,warehousing,冷链仓储
+Pre-Cooling,预冷,warehousing,冷链仓储
+Forced-Air Cooling,差压预冷,warehousing,冷链仓储
+Vacuum Cooling,真空预冷,warehousing,冷链仓储
+Hydro Cooling,水预冷,warehousing,冷链仓储
+Deep Freeze,深冷,warehousing,冷链仓储
+Ultra-Low Temperature Storage,超低温存储,warehousing,冷链仓储
+Temperature Zone,温区,warehousing,冷链仓储
+Chilled Zone,冷藏温区,warehousing,冷链仓储
+Frozen Zone,冷冻温区,warehousing,冷链仓储
+Ambient Zone,常温区,warehousing,冷链仓储
+Temperature Mapping,温度分布验证,warehousing,冷链仓储
+Data Logger,温度记录仪,warehousing,冷链仓储
+Temperature and Humidity Monitoring,温湿度监控,warehousing,冷链仓储
+Cold Chain Validation,冷链验证,warehousing,冷链仓储
+Cold Chain Packaging,冷链包装,warehousing,冷链仓储
+Insulated Container,保温箱,warehousing,冷链仓储
+Phase Change Material,相变蓄冷材料,warehousing,冷链仓储
+Gel Pack,冰袋,warehousing,冷链仓储
+Dry Ice,干冰,warehousing,冷链仓储
+Reefer Container,冷藏集装箱,warehousing,冷链仓储
+Insulated Pallet Cover,保温托盘罩,warehousing,冷链仓储
+Cold Dock,冷链月台,warehousing,冷链仓储
+Temperature Excursion,温度偏移,warehousing,冷链仓储
+HACCP,危害分析与关键控制点,warehousing,冷链仓储
+Good Distribution Practice,良好分销规范,warehousing,冷链仓储
+Selective Pallet Racking,横梁式托盘货架,warehousing,货架系统
+Double-Deep Racking,双深位货架,warehousing,货架系统
+Drive-In Racking,驶入式货架,warehousing,货架系统
+Drive-Through Racking,贯通式货架,warehousing,货架系统
+Pallet Flow Racking,重力式托盘货架,warehousing,货架系统
+Carton Flow Racking,流利式货架,warehousing,货架系统
+Push Back Racking,后推式货架,warehousing,货架系统
+Shuttle Racking,穿梭式货架,warehousing,货架系统
+Radio Shuttle,四向穿梭车,warehousing,货架系统
+Cantilever Racking,悬臂式货架,warehousing,货架系统
+Cantilever Arm,悬臂梁,warehousing,货架系统
+Structural Mezzanine,钢结构平台,warehousing,货架系统
+Modular Mezzanine,模块化平台,warehousing,货架系统
+Rack-Supported Building,货架式仓库建筑,warehousing,货架系统
+Multi-Tier Shelving,多层阁楼货架,warehousing,货架系统
+Wide Span Shelving,宽跨距货架,warehousing,货架系统
+Longspan Shelving,长跨距货架,warehousing,货架系统
+Rivet Shelving,铆钉货架,warehousing,货架系统
+Boltless Shelving,免螺栓货架,warehousing,货架系统
+Mobile Shelving,移动式货架,warehousing,货架系统
+Mobile Pallet Racking,移动式托盘货架,warehousing,货架系统
+Sliding Rack,滑移式货架,warehousing,货架系统
+Gravity Flow Rack,重力流货架,warehousing,货架系统
+Static Shelving,固定层板货架,warehousing,货架系统
+Pallet Rack Beam,货架横梁,warehousing,货架系统
+Upright Frame,立柱片,warehousing,货架系统
+Wire Mesh Decking,网格层板,warehousing,货架系统
+Pallet Support Bar,托盘支撑梁,warehousing,货架系统
+Row Spacer,排距连接件,warehousing,货架系统
+Pallet Backstop,托盘后挡梁,warehousing,货架系统
+Anti-Collapse Mesh,防坠网,warehousing,货架系统
+Post Protector,立柱护脚,warehousing,货架系统
+End-of-Aisle Guard,巷道端护栏,warehousing,货架系统
+Aisle Marking,巷道标线,warehousing,货架系统
+Floor Marking Tape,地面标线胶带,warehousing,货架系统
+Pallet Stopper,托盘限位块,warehousing,货架系统
+Anchor Bolt,锚栓,warehousing,货架系统
+Base Plate,底脚板,warehousing,货架系统
+Rack Load Plaque,货架承载标牌,warehousing,货架系统
+Rack Inspection,货架检测,warehousing,货架系统
+Rack Damage Assessment,货架损伤评估,warehousing,货架系统
+Beam Connector,横梁连接件,warehousing,货架系统
+Safety Pin,安全销,warehousing,货架系统
+Boltless Beam,免螺栓横梁,warehousing,货架系统
+Shelf Divider,层板分隔,warehousing,货架系统
+Box Beam,箱型横梁,warehousing,货架系统
+Step Beam,阶梯横梁,warehousing,货架系统
+Teardrop Pallet Rack,泪滴孔货架,warehousing,货架系统
+Bolt Hole Pattern,货架孔型,warehousing,货架系统
+Seismic Racking,抗震货架,warehousing,货架系统
+High-Bay Racking,高位货架,warehousing,货架系统
+Very Narrow Aisle Racking,窄巷道货架,warehousing,货架系统
+Back-to-Back Racking,背靠背货架,warehousing,货架系统
+Single-Deep Racking,单深位货架,warehousing,货架系统
+Deep Lane Racking,深巷道货架,warehousing,货架系统
+Flow-Through Racking,贯通流利货架,warehousing,货架系统
+Pick Face,拣货面,warehousing,货架系统
+Reserve Rack,储备货架,warehousing,货架系统
+Golden Zone,黄金拣货区,warehousing,货架系统
+Rack Clad Warehouse,库架合一仓库,warehousing,货架系统
+Plastic Tote,塑料周转箱,warehousing,存储容具
+Attached Lid Container,翻盖周转箱,warehousing,存储容具
+Stackable Bin,可堆叠料盒,warehousing,存储容具
+Nestable Container,套叠周转箱,warehousing,存储容具
+Collapsible Container,折叠周转箱,warehousing,存储容具
+Euro Container,欧标周转箱,warehousing,存储容具
+Wire Basket,铁丝筐,warehousing,存储容具
+Wire Mesh Container,金属网箱,warehousing,存储容具
+Pallet Box,围板箱,warehousing,存储容具
+Pallet Collar,围板框,warehousing,存储容具
+Bulk Container,大型散货箱,warehousing,存储容具
+IBC Tote,IBC吨桶,warehousing,存储容具
+Drum,桶,warehousing,存储容具
+Roll Cage,笼车,warehousing,存储容具
+Roll Pallet,滚轮托盘,warehousing,存储容具
+Half Pallet,半托盘,warehousing,存储容具
+Display Pallet,陈列托盘,warehousing,存储容具
+Slip Sheet,滑托板,warehousing,存储容具
+Plastic Pallet,塑料托盘,warehousing,存储容具
+Steel Pallet,钢托盘,warehousing,存储容具
+Wooden Pallet,木托盘,warehousing,存储容具
+Presswood Pallet,模压托盘,warehousing,存储容具
+Pallet Top Frame,托盘顶框,warehousing,存储容具
+Dunnage,衬垫物,warehousing,存储容具
+Dunnage Bag,充气袋,warehousing,存储容具
+Interlayer Sheet,隔层纸板,warehousing,存储容具
+Top Cap,顶部护盖,warehousing,存储容具
+Divider Set,分隔板组,warehousing,存储容具
+Container Lid,箱盖,warehousing,存储容具
+Label Holder,标签袋,warehousing,存储容具
+Counterbalance Forklift,平衡重叉车,warehousing,叉车类型
+Electric Forklift,电动叉车,warehousing,叉车类型
+Diesel Forklift,柴油叉车,warehousing,叉车类型
+LPG Forklift,液化气叉车,warehousing,叉车类型
+Reach Truck,前移式叉车,warehousing,叉车类型
+Double-Deep Reach Truck,双深位前移叉车,warehousing,叉车类型
+Pallet Stacker,堆高车,warehousing,叉车类型
+Walkie Stacker,步驾式堆高车,warehousing,叉车类型
+Rider Stacker,站驾式堆高车,warehousing,叉车类型
+Straddle Stacker,跨立式堆高车,warehousing,叉车类型
+Electric Pallet Truck,电动搬运车,warehousing,叉车类型
+Hand Pallet Truck,手动液压搬运车,warehousing,叉车类型
+Pallet Truck With Scale,带秤搬运车,warehousing,叉车类型
+Order Picker,高位拣选车,warehousing,叉车类型
+Low-Level Order Picker,低位拣选车,warehousing,叉车类型
+Turret Truck,三向堆垛叉车,warehousing,叉车类型
+Man-Up Turret Truck,人上型三向叉车,warehousing,叉车类型
+VNA Truck,窄巷道叉车,warehousing,叉车类型
+Articulated VNA Truck,铰接式窄巷道叉车,warehousing,叉车类型
+Side Loader,侧叉车,warehousing,叉车类型
+Multi-Directional Forklift,多向叉车,warehousing,叉车类型
+Telehandler,伸缩臂叉车,warehousing,叉车类型
+Rough Terrain Forklift,越野叉车,warehousing,叉车类型
+Explosion-Proof Forklift,防爆叉车,warehousing,叉车类型
+Truck-Mounted Forklift,随车叉车,warehousing,叉车类型
+Tow Tractor,牵引车,warehousing,叉车类型
+Tugger Train,拖挂列车,warehousing,叉车类型
+Heavy-Duty Forklift,重型叉车,warehousing,叉车类型
+Compact Forklift,紧凑型叉车,warehousing,叉车类型
+Three-Wheel Forklift,三轮叉车,warehousing,叉车类型
+Four-Wheel Forklift,四轮叉车,warehousing,叉车类型
+Narrow Aisle Forklift,窄通道叉车,warehousing,叉车类型
+Stand-Up Forklift,站驾叉车,warehousing,叉车类型
+Sit-Down Forklift,坐驾叉车,warehousing,叉车类型
+Warehouse Forklift,库内叉车,warehousing,叉车类型
+Forklift Fleet,叉车队,warehousing,叉车类型
+Lift Table,升降平台,warehousing,搬运设备
+Scissor Lift Table,剪式升降台,warehousing,搬运设备
+Mobile Elevating Work Platform,高空作业平台,warehousing,搬运设备
+Vertical Mast Lift,直柱式升降机,warehousing,搬运设备
+Personnel Lift,载人升降平台,warehousing,搬运设备
+Hand Truck,手推车,warehousing,搬运设备
+Platform Trolley,平板手推车,warehousing,搬运设备
+Utility Cart,多用推车,warehousing,搬运设备
+Pick Cart,拣选推车,warehousing,搬运设备
+Order Picking Cart,拣货车,warehousing,搬运设备
+Ladder Cart,带梯推车,warehousing,搬运设备
+Rolling Ladder,移动登高梯,warehousing,搬运设备
+Drum Truck,油桶搬运车,warehousing,搬运设备
+Tugger Cart,牵引挂车,warehousing,搬运设备
+Hand Stacker,手动堆高车,warehousing,搬运设备
+Tail Lift,尾板升降机,warehousing,搬运设备
+Loading Ramp,装载坡道,warehousing,搬运设备
+Pallet Inverter,托盘翻转机,warehousing,搬运设备
+Pallet Exchanger,托盘交换器,warehousing,搬运设备
+Load Transfer Cart,载荷转运车,warehousing,搬运设备
+Turntable,旋转台,warehousing,搬运设备
+Truck Scissor Lift,车载剪式升降台,warehousing,搬运设备
+Forklift Ramp,叉车坡道,warehousing,搬运设备
+Forklift Battery Charger,叉车充电机,warehousing,搬运设备
+Opportunity Charging,随行补电,warehousing,搬运设备
+Lithium-Ion Forklift Battery,锂电池,warehousing,搬运设备
+Hydrogen Fuel Cell Forklift,氢燃料电池叉车,warehousing,搬运设备
+Battery Swap Station,换电站,warehousing,搬运设备
+Forklift Fleet Management,叉车车队管理,warehousing,搬运设备
+Telematics System,车载远程信息系统,warehousing,搬运设备
+Operator Presence Sensor,操作员感应装置,warehousing,搬运设备
+Speed Limiter,限速器,warehousing,搬运设备
+Forklift Safety Light,叉车警示灯,warehousing,搬运设备
+Blue Spot Light,蓝点警示灯,warehousing,搬运设备
+Load Backrest,挡货架,warehousing,搬运设备
+Fork Extensions,加长货叉套,warehousing,搬运设备
+Side Shifter,侧移器,warehousing,叉车属具
+Fork Positioner,调距叉,warehousing,叉车属具
+Rotator,旋转器,warehousing,叉车属具
+Carton Clamp,纸箱夹,warehousing,叉车属具
+Bale Clamp,打包夹,warehousing,叉车属具
+Box Clamp,箱夹,warehousing,叉车属具
+Drum Clamp,油桶夹,warehousing,叉车属具
+Drum Grab,油桶吊夹,warehousing,叉车属具
+Push-Pull Attachment,推拉器,warehousing,叉车属具
+Slip Sheet Attachment,滑板属具,warehousing,叉车属具
+Load Stabilizer,货物稳定器,warehousing,叉车属具
+Paper Roll Clamp,纸卷夹,warehousing,叉车属具
+Carpet Pole,地毯杆,warehousing,叉车属具
+Block Clamp,块状夹,warehousing,叉车属具
+Rotating Clamp,旋转夹,warehousing,叉车属具
+Multi-Purpose Clamp,多用途夹,warehousing,叉车属具
+Bale Spear,草捆叉,warehousing,叉车属具
+Tyre Clamp,轮胎夹,warehousing,叉车属具
+Cylinder Handler,气瓶搬运属具,warehousing,叉车属具
+Telescopic Fork,伸缩货叉,warehousing,叉车属具
+Shovel Attachment,铲斗属具,warehousing,叉车属具
+Sweeper Attachment,清扫器属具,warehousing,叉车属具
+Belt Conveyor,带式输送机,warehousing,输送设备
+Roller Conveyor,辊筒输送机,warehousing,输送设备
+Gravity Roller Conveyor,重力辊筒输送线,warehousing,输送设备
+Powered Roller Conveyor,动力辊筒输送线,warehousing,输送设备
+Chain Conveyor,链式输送机,warehousing,输送设备
+Slat Conveyor,板链输送机,warehousing,输送设备
+Flexible Conveyor,可弯折输送机,warehousing,输送设备
+Telescopic Boom Conveyor,伸缩皮带输送机,warehousing,输送设备
+Curved Conveyor,弯道输送机,warehousing,输送设备
+Incline Conveyor,爬坡输送机,warehousing,输送设备
+Spiral Conveyor,螺旋提升输送机,warehousing,输送设备
+Vertical Reciprocating Conveyor,往复式提升机,warehousing,输送设备
+Continuous Vertical Conveyor,连续垂直输送机,warehousing,输送设备
+Accumulation Conveyor,积放输送机,warehousing,输送设备
+Zero-Pressure Accumulation,零压力积放,warehousing,输送设备
+Merge Conveyor,合流输送机,warehousing,输送设备
+Merge Junction,合流口,warehousing,输送设备
+Divert,分向装置,warehousing,输送设备
+Induction Station,供件口,warehousing,输送设备
+Induction Conveyor,供件输送机,warehousing,输送设备
+Singulation,单件分离,warehousing,输送设备
+Gapping Conveyor,拉间距输送机,warehousing,输送设备
+Barcode Read Station,条码扫描站,warehousing,输送设备
+Dimensioner,体积测量设备,warehousing,输送设备
+Cubing and Weighing System,体积称重系统,warehousing,输送设备
+In-Motion Scale,动态称重秤,warehousing,输送设备
+Checkweigher,检重秤,warehousing,输送设备
+Reject Station,剔除口,warehousing,输送设备
+Chute,滑槽,warehousing,输送设备
+Sorter Chute,分拣滑槽,warehousing,输送设备
+Package Chute,包裹滑道,warehousing,输送设备
+Overhead Conveyor,悬挂输送机,warehousing,输送设备
+Power and Free Conveyor,积放式悬挂输送机,warehousing,输送设备
+Monorail Conveyor,单轨输送机,warehousing,输送设备
+Pneumatic Tube System,气动物流传输系统,warehousing,输送设备
+Transfer Car,移载小车,warehousing,输送设备
+Turntable Conveyor,转向输送机,warehousing,输送设备
+Vertical Conveyor,垂直输送机,warehousing,输送设备
+Sorter,分拣机,warehousing,分拣设备
+Sortation System,自动分拣系统,warehousing,分拣设备
+Cross-Belt Sorter,交叉带分拣机,warehousing,分拣设备
+Loop Cross-Belt Sorter,环形交叉带分拣机,warehousing,分拣设备
+Linear Cross-Belt Sorter,直线交叉带分拣机,warehousing,分拣设备
+Tilt Tray Sorter,翻盘分拣机,warehousing,分拣设备
+Sliding Shoe Sorter,滑块式分拣机,warehousing,分拣设备
+Narrow Belt Sorter,窄带分拣机,warehousing,分拣设备
+Pop-Up Roller Sorter,顶升辊筒分拣机,warehousing,分拣设备
+Pusher Sorter,推板分拣机,warehousing,分拣设备
+Paddle Sorter,翻板分拣机,warehousing,分拣设备
+Arm Sorter,斜臂分拣机,warehousing,分拣设备
+Pneumatic Sorter,气力分拣机,warehousing,分拣设备
+Bomb-Bay Sorter,落袋式分拣机,warehousing,分拣设备
+Vertical Sorter,立式分拣机,warehousing,分拣设备
+Modular Sorter,模块化分拣机,warehousing,分拣设备
+High-Speed Sorter,高速分拣机,warehousing,分拣设备
+Sorter Throughput,分拣能力,warehousing,分拣设备
+Sortation Rate,分拣准确率,warehousing,分拣设备
+Sorter Chute Bank,滑槽组,warehousing,分拣设备
+Drop Chute,落袋滑槽,warehousing,分拣设备
+Outfeed,输出口,warehousing,分拣设备
+Infeed,输入口,warehousing,分拣设备
+Diverter,分流器,warehousing,分拣设备
+Diverter Arm,分流臂,warehousing,分拣设备
+Pop-Up Belt Diverter,顶升皮带分流器,warehousing,分拣设备
+Pop-Up Wheel Diverter,顶升滚轮分流器,warehousing,分拣设备
+Pusher Diverter,推杆分流器,warehousing,分拣设备
+Air-Assist Diverter,气吹分流器,warehousing,分拣设备
+Sorter Control System,分拣控制系统,warehousing,分拣设备
+Induction Robot,供件机器人,warehousing,分拣设备
+Robotic Induction Station,机器人供件台,warehousing,分拣设备
+Unloading Robot,卸车机器人,warehousing,分拣设备
+Parcel Singulation Robot,包裹分离机器人,warehousing,分拣设备
+Reading Tunnel,扫描通道,warehousing,分拣设备
+Sorter Merge System,分拣合流系统,warehousing,分拣设备
+Chute Full Indicator,滑槽满载指示,warehousing,分拣设备
+Sorter Divert Lane,分拣道口,warehousing,分拣设备
+Destination Lane,目的地道口,warehousing,分拣设备
+Sorter Discharge,分拣落包,warehousing,分拣设备
+Automated Storage and Retrieval System,自动化存取系统,warehousing,自动化立库
+Unit-Load AS/RS,单元货格立体库,warehousing,自动化立库
+Mini-Load System,料箱式立体库,warehousing,自动化立库
+Micro-Load System,微料箱立体库,warehousing,自动化立库
+Stacker Crane,巷道堆垛机,warehousing,自动化立库
+S/R Machine,存取机,warehousing,自动化立库
+Single-Mast Stacker Crane,单立柱堆垛机,warehousing,自动化立库
+Double-Mast Stacker Crane,双立柱堆垛机,warehousing,自动化立库
+Shuttle System,穿梭车系统,warehousing,自动化立库
+Pallet Shuttle,托盘穿梭车,warehousing,自动化立库
+Multi-Deep Shuttle,多深位穿梭车,warehousing,自动化立库
+Carrier and Vehicle System,载体式穿梭系统,warehousing,自动化立库
+3D Shuttle,三维穿梭车,warehousing,自动化立库
+Vertical Lift Module,垂直升降货柜,warehousing,自动化立库
+Vertical Carousel,垂直回转货柜,warehousing,自动化立库
+Horizontal Carousel,水平回转货架,warehousing,自动化立库
+Cube Storage System,料箱立方存储系统,warehousing,自动化立库
+Cube Storage Robot,立方存储机器人,warehousing,自动化立库
+Robotic Cube Storage,机器人密集存储,warehousing,自动化立库
+Autonomous Case-Handling Robot,料箱机器人,warehousing,自动化立库
+High-Density Storage,高密度存储,warehousing,自动化立库
+Deep Lane Storage,深巷道存储,warehousing,自动化立库
+Double-Deep Storage,双深位存储,warehousing,自动化立库
+AS/RS Crane Aisle,堆垛机巷道,warehousing,自动化立库
+Pallet Conveyor System,托盘输送系统,warehousing,自动化立库
+Tote Conveyor System,料箱输送系统,warehousing,自动化立库
+Shuttle Lift,穿梭车提升机,warehousing,自动化立库
+Vertical Transfer Unit,垂直移载机,warehousing,自动化立库
+Storage Retrieval Control,存取控制,warehousing,自动化立库
+Warehouse Control System,仓库控制系统,warehousing,自动化立库
+Rack Clad Structure,库架一体结构,warehousing,自动化立库
+Automated Pallet Conveyor,自动化托盘输送线,warehousing,自动化立库
+Stacker Crane Buffer,堆垛机缓存站,warehousing,自动化立库
+Automated Buffer,自动化缓存系统,warehousing,自动化立库
+Autonomous Mobile Robot,自主移动机器人,warehousing,仓储机器人
+AMR Fleet,AMR机器人集群,warehousing,仓储机器人
+Fleet Manager,机器人调度系统,warehousing,仓储机器人
+Fleet Management System,车队管理系统,warehousing,仓储机器人
+Vehicle Management System,车辆管理系统,warehousing,仓储机器人
+Automated Guided Vehicle,自动导引车,warehousing,仓储机器人
+AGV System,AGV系统,warehousing,仓储机器人
+Forklift AGV,叉车式AGV,warehousing,仓储机器人
+Pallet Mover Robot,托盘搬运机器人,warehousing,仓储机器人
+Tugger AGV,牵引式AGV,warehousing,仓储机器人
+Unit Load AGV,整托AGV,warehousing,仓储机器人
+Tote-Handling Robot,料箱搬运机器人,warehousing,仓储机器人
+Robotic Forklift,无人叉车,warehousing,仓储机器人
+Vision-Guided Robot,视觉引导机器人,warehousing,仓储机器人
+Goods-to-Person System,货到人系统,warehousing,仓储机器人
+Robotic Goods-to-Person,机器人货到人,warehousing,仓储机器人
+Goods-to-Robot,货到机器人,warehousing,仓储机器人
+Person-to-Goods,人到货,warehousing,仓储机器人
+Goods-to-Person Workstation,货到人工作站,warehousing,仓储机器人
+Pick Station,拣选工作站,warehousing,仓储机器人
+Robotic Picking Arm,拣选机械臂,warehousing,仓储机器人
+Piece-Picking Robot,单件拣选机器人,warehousing,仓储机器人
+Case-Picking Robot,整箱拣选机器人,warehousing,仓储机器人
+Layer-Picking Robot,整层拣选机器人,warehousing,仓储机器人
+Robotic Depalletizer,拆垛机器人,warehousing,仓储机器人
+Robotic Palletizer,码垛机器人,warehousing,仓储机器人
+Articulated Robot,多关节机器人,warehousing,仓储机器人
+SCARA Robot,SCARA机器人,warehousing,仓储机器人
+Delta Robot,三角机器人,warehousing,仓储机器人
+Gantry Robot,龙门机器人,warehousing,仓储机器人
+Collaborative Robot,协作机器人,warehousing,仓储机器人
+Mobile Manipulator,移动操作机器人,warehousing,仓储机器人
+Warehouse Robot,仓储机器人,warehousing,仓储机器人
+Robot Picking Cell,机器人拣选单元,warehousing,仓储机器人
+Robotic Truck Unloading,机器人卸车,warehousing,仓储机器人
+Mobile Picking Robot,移动拣选机器人,warehousing,仓储机器人
+Stretch Wrapping Machine,缠绕包装机,warehousing,包装设备
+Robotic Stretch Wrapper,机器人缠绕机,warehousing,包装设备
+Turntable Stretch Wrapper,转盘式缠绕机,warehousing,包装设备
+Rotary Arm Wrapper,旋臂式缠绕机,warehousing,包装设备
+Case Erector,开箱机,warehousing,包装设备
+Carton Former,纸箱成型机,warehousing,包装设备
+Case Sealer,封箱机,warehousing,包装设备
+Carton Sealer,折盖封箱机,warehousing,包装设备
+Tray Former,装托机,warehousing,包装设备
+Case Packer,装箱机,warehousing,包装设备
+Wrap-Around Case Packer,包裹式装箱机,warehousing,包装设备
+Bagging Machine,装袋机,warehousing,包装设备
+Void Fill Machine,填充机,warehousing,包装设备
+Air Pillow Machine,气垫机,warehousing,包装设备
+Paper Void Fill System,纸垫填充系统,warehousing,包装设备
+Foam-in-Place System,现场发泡系统,warehousing,包装设备
+Print-and-Apply Labeler,打印贴标机,warehousing,包装设备
+Inline Labeling System,在线贴标系统,warehousing,包装设备
+Weigh-Price Labeler,称重贴标机,warehousing,包装设备
+Automatic Packing Line,自动包装线,warehousing,包装设备
+Right-Sized Packaging System,适配尺寸包装系统,warehousing,包装设备
+Carton On Demand,按需制箱,warehousing,包装设备
+Box Making Machine,制箱机,warehousing,包装设备
+Shrink Wrapping Machine,收缩包装机,warehousing,包装设备
+Stretch Film,拉伸膜,warehousing,包装设备
+Shrink Film,收缩膜,warehousing,包装设备
+Water-Activated Tape,湿水牛皮纸胶带,warehousing,包装设备
+Case Sealing Tape,封箱胶带,warehousing,包装设备
+Edge Protector,护角,warehousing,包装设备
+Anti-Static Bag,防静电袋,warehousing,包装设备
+Tamper-Evident Tape,防拆封条,warehousing,包装设备
+Auto Bagging System,自动套袋机,warehousing,包装设备
