@@ -3749,106 +3749,106 @@ Courier Waybill,快递运单,transport,快递航空,published
 Courier Pickup,快递揽收,transport,快递航空,published
 Overnight Express,次晨达,transport,快递航空,published
 Time-definite Delivery,限时达,transport,快递航空,published
-On Board Courier,随身急件,transport,快递航空,pending
-Domestic Express,国内快递,transport,快递航空,pending
-Sort Hub,快件分拣中心,transport,快递航空,pending
-Document Shipment,文件件,transport,快递航空,pending
-Parcel Shipment,包裹件,transport,快递航空,pending
-Weight Slab,计费重量段,transport,快递航空,pending
-Zone Rate,分区运价,transport,快递航空,pending
-Preliminary Declaration,预先申报,customs,报关流程,pending
-Summary Declaration,简要申报,customs,报关流程,pending
-Air Waybill Manifest,空运舱单,customs,报关流程,pending
-Sea Manifest,海运舱单,customs,报关流程,pending
-Manifest Amendment,舱单变更,customs,报关流程,pending
-Unload Declaration,卸货申报,customs,报关流程,pending
-Landing Declaration,落地申报,customs,报关流程,pending
-Import Manifest,进口舱单,customs,报关流程,pending
-Customs Declaration Form,报关单,customs,报关流程,pending
-Amended Declaration,修改报关单,customs,报关流程,pending
-Declaration Cancellation,报关单撤销,customs,报关流程,pending
-Customs Broker License,报关企业注册登记,customs,报关流程,pending
-Declaration Units,申报单位,customs,报关流程,pending
-Power of Attorney,代理报关委托书,customs,报关流程,pending
-Customs Broker Responsibility,报关行责任,customs,报关流程,pending
-Reasonable Care,合理注意义务,customs,报关流程,pending
-Self-Declaration,自理报关,customs,报关流程,pending
-Agency Declaration,代理报关,customs,报关流程,pending
-Entry Summary,进口摘要申报,customs,报关流程,pending
-Immediate Delivery,即时放行,customs,报关流程,pending
-Consolidated Shipment,汇总报关,customs,报关流程,pending
-Centralized Declaration,集中申报,customs,报关流程,pending
-Fast Lane Clearance,快速通关,customs,报关流程,pending
-Pre-classification Ruling,预归类裁定,customs,报关流程,pending
-Documentary Check,单证审核,customs,报关流程,pending
-Risk-based Selectivity,风险布控查验,customs,报关流程,pending
-Random Inspection,随机查验,customs,报关流程,pending
-Release Note,放行通知书,customs,报关流程,pending
-Provisional Release,担保放行,customs,报关流程,pending
-Customs Sealing,海关施封,customs,报关流程,pending
-Customs Escort,海关押运,customs,报关流程,pending
-Customs Supervision,海关监管,customs,报关流程,pending
-Supervision Condition,监管条件,customs,报关流程,pending
-Certificate of Compliance,合规证书,customs,报关流程,pending
-License Document,许可证件,customs,报关流程,pending
-Two-step Licensing,两用许可证管理,customs,报关流程,pending
-Quarantine Certificate,检疫证书,customs,报关流程,pending
-Cargo Receipt,货物收据,customs,报关流程,pending
-Empty Container Return,空箱归还申报,customs,报关流程,pending
-Ex-bond Declaration,出仓报关,customs,报关流程,pending
-Certificate of Origin Application,原产地证申领,customs,报关流程,pending
-Price Certificate,价格证明,customs,报关流程,pending
-Goods Under Customs Custody,海关监管货物,customs,报关流程,pending
-Through Transport,通运货物,customs,报关流程,pending
-Re-export Declaration,复出口申报,customs,报关流程,pending
-Re-import Declaration,复运进境申报,customs,报关流程,pending
-Direct Return,直接退运,customs,报关流程,pending
-Waiver of Inspection,免验申请,customs,报关流程,pending
-Change of Port Declaration,改单申报,customs,报关流程,pending
-Amendment After Release,放行后修改,customs,报关流程,pending
-Audit Period,稽查时限,customs,报关流程,pending
-Record Retention,单证保存期限,customs,报关流程,pending
-AEO Re-export Evidence,复出口证明,customs,报关流程,pending
-Inward Processing Declaration,加工贸易申报,customs,报关流程,pending
-Temporary Admission Declaration,暂准进口申报,customs,报关流程,pending
-Carnet Processing,通关册办理,customs,报关流程,pending
-Express Clearance,快件通关,customs,报关流程,pending
-De Minimis Shipment,微量免税货物,customs,报关流程,pending
-Low-value Declaration,低值申报,customs,报关流程,pending
-Small-value Export Declaration,小额出口申报,customs,报关流程,pending
-Abandoned Goods,放弃货物,customs,报关流程,pending
-Unclaimed Goods,无人认领货物,customs,报关流程,pending
-Auction of Goods,货物变卖,customs,报关流程,pending
-Destruction Application,销毁申请,customs,报关流程,pending
-Entry Number,报关单编号,customs,报关流程,pending
-Declaration Date,申报日期,customs,报关流程,pending
-Acceptance Date,受理日期,customs,报关流程,pending
-Tax Payment Deadline,税款缴纳期限,customs,报关流程,pending
-Overdue Payment,逾期缴纳,customs,报关流程,pending
-Late Fee per Day,滞纳金,customs,报关流程,pending
-Guarantee Letter,保函,customs,报关流程,pending
-Cash Deposit,保证金,customs,报关流程,pending
-Customs Bond,海关担保,customs,报关流程,pending
-Single-entry Bond,单次担保,customs,报关流程,pending
-Bond Amount,担保额度,customs,报关流程,pending
-Invoice Requirement,发票要求,customs,报关流程,pending
-Description of Goods,货物描述,customs,报关流程,pending
-Quantity Declared,申报数量,customs,报关流程,pending
-Net Weight Declaration,净重申报,customs,报关流程,pending
-Gross Weight Declaration,毛重申报,customs,报关流程,pending
-Measurement Declaration,体积申报,customs,报关流程,pending
-Country of Origin Declaration,原产国申报,customs,报关流程,pending
-Country of Final Destination,最终目的国,customs,报关流程,pending
-Customs Office of Entry,进境地海关,customs,报关流程,pending
-Customs Office of Exit,出境地海关,customs,报关流程,pending
-Customs District,关区,customs,报关流程,pending
-Clearance Port,报关口岸,customs,报关流程,pending
-Designated Port Declaration,指定口岸申报,customs,报关流程,pending
-Seaport Customs,海港海关,customs,报关流程,pending
-Airport Customs,机场海关,customs,报关流程,pending
-Land Port Customs,陆路口岸海关,customs,报关流程,pending
-Border Crossing Point,边境通道,customs,报关流程,pending
-Single Window Declaration,单一窗口申报,customs,报关流程,pending
+On Board Courier,随身急件,transport,快递航空,published
+Domestic Express,国内快递,transport,快递航空,published
+Sort Hub,快件分拣中心,transport,快递航空,published
+Document Shipment,文件件,transport,快递航空,published
+Parcel Shipment,包裹件,transport,快递航空,published
+Weight Slab,计费重量段,transport,快递航空,published
+Zone Rate,分区运价,transport,快递航空,published
+Preliminary Declaration,预先申报,customs,报关流程,published
+Summary Declaration,简要申报,customs,报关流程,published
+Air Waybill Manifest,空运舱单,customs,报关流程,published
+Sea Manifest,海运舱单,customs,报关流程,published
+Manifest Amendment,舱单变更,customs,报关流程,published
+Unload Declaration,卸货申报,customs,报关流程,published
+Landing Declaration,落地申报,customs,报关流程,published
+Import Manifest,进口舱单,customs,报关流程,published
+Customs Declaration Form,报关单,customs,报关流程,published
+Amended Declaration,修改报关单,customs,报关流程,published
+Declaration Cancellation,报关单撤销,customs,报关流程,published
+Customs Broker License,报关企业注册登记,customs,报关流程,published
+Declaration Units,申报单位,customs,报关流程,published
+Power of Attorney,代理报关委托书,customs,报关流程,published
+Customs Broker Responsibility,报关行责任,customs,报关流程,published
+Reasonable Care,合理注意义务,customs,报关流程,published
+Self-Declaration,自理报关,customs,报关流程,published
+Agency Declaration,代理报关,customs,报关流程,published
+Entry Summary,进口摘要申报,customs,报关流程,published
+Immediate Delivery,即时放行,customs,报关流程,published
+Consolidated Shipment,汇总报关,customs,报关流程,published
+Centralized Declaration,集中申报,customs,报关流程,published
+Fast Lane Clearance,快速通关,customs,报关流程,published
+Pre-classification Ruling,预归类裁定,customs,报关流程,published
+Documentary Check,单证审核,customs,报关流程,published
+Risk-based Selectivity,风险布控查验,customs,报关流程,published
+Random Inspection,随机查验,customs,报关流程,published
+Release Note,放行通知书,customs,报关流程,published
+Provisional Release,担保放行,customs,报关流程,published
+Customs Sealing,海关施封,customs,报关流程,published
+Customs Escort,海关押运,customs,报关流程,published
+Customs Supervision,海关监管,customs,报关流程,published
+Supervision Condition,监管条件,customs,报关流程,published
+Certificate of Compliance,合规证书,customs,报关流程,published
+License Document,许可证件,customs,报关流程,published
+Two-step Licensing,两用许可证管理,customs,报关流程,published
+Quarantine Certificate,检疫证书,customs,报关流程,published
+Cargo Receipt,货物收据,customs,报关流程,published
+Empty Container Return,空箱归还申报,customs,报关流程,published
+Ex-bond Declaration,出仓报关,customs,报关流程,published
+Certificate of Origin Application,原产地证申领,customs,报关流程,published
+Price Certificate,价格证明,customs,报关流程,published
+Goods Under Customs Custody,海关监管货物,customs,报关流程,published
+Through Transport,通运货物,customs,报关流程,published
+Re-export Declaration,复出口申报,customs,报关流程,published
+Re-import Declaration,复运进境申报,customs,报关流程,published
+Direct Return,直接退运,customs,报关流程,published
+Waiver of Inspection,免验申请,customs,报关流程,published
+Change of Port Declaration,改单申报,customs,报关流程,published
+Amendment After Release,放行后修改,customs,报关流程,published
+Audit Period,稽查时限,customs,报关流程,published
+Record Retention,单证保存期限,customs,报关流程,published
+AEO Re-export Evidence,复出口证明,customs,报关流程,published
+Inward Processing Declaration,加工贸易申报,customs,报关流程,published
+Temporary Admission Declaration,暂准进口申报,customs,报关流程,published
+Carnet Processing,通关册办理,customs,报关流程,published
+Express Clearance,快件通关,customs,报关流程,published
+De Minimis Shipment,微量免税货物,customs,报关流程,published
+Low-value Declaration,低值申报,customs,报关流程,published
+Small-value Export Declaration,小额出口申报,customs,报关流程,published
+Abandoned Goods,放弃货物,customs,报关流程,published
+Unclaimed Goods,无人认领货物,customs,报关流程,published
+Auction of Goods,货物变卖,customs,报关流程,published
+Destruction Application,销毁申请,customs,报关流程,published
+Entry Number,报关单编号,customs,报关流程,published
+Declaration Date,申报日期,customs,报关流程,published
+Acceptance Date,受理日期,customs,报关流程,published
+Tax Payment Deadline,税款缴纳期限,customs,报关流程,published
+Overdue Payment,逾期缴纳,customs,报关流程,published
+Late Fee per Day,滞纳金,customs,报关流程,published
+Guarantee Letter,保函,customs,报关流程,published
+Cash Deposit,保证金,customs,报关流程,published
+Customs Bond,海关担保,customs,报关流程,published
+Single-entry Bond,单次担保,customs,报关流程,published
+Bond Amount,担保额度,customs,报关流程,published
+Invoice Requirement,发票要求,customs,报关流程,published
+Description of Goods,货物描述,customs,报关流程,published
+Quantity Declared,申报数量,customs,报关流程,published
+Net Weight Declaration,净重申报,customs,报关流程,published
+Gross Weight Declaration,毛重申报,customs,报关流程,published
+Measurement Declaration,体积申报,customs,报关流程,published
+Country of Origin Declaration,原产国申报,customs,报关流程,published
+Country of Final Destination,最终目的国,customs,报关流程,published
+Customs Office of Entry,进境地海关,customs,报关流程,published
+Customs Office of Exit,出境地海关,customs,报关流程,published
+Customs District,关区,customs,报关流程,published
+Clearance Port,报关口岸,customs,报关流程,published
+Designated Port Declaration,指定口岸申报,customs,报关流程,published
+Seaport Customs,海港海关,customs,报关流程,published
+Airport Customs,机场海关,customs,报关流程,published
+Land Port Customs,陆路口岸海关,customs,报关流程,published
+Border Crossing Point,边境通道,customs,报关流程,published
+Single Window Declaration,单一窗口申报,customs,报关流程,published
 One-stop Clearance,一站式通关,customs,报关流程,pending
 Electronic Declaration,电子申报,customs,报关流程,pending
 UN/EDIFACT Message,联合国电子报文,customs,报关流程,pending
