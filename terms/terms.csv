@@ -3451,106 +3451,106 @@ Boeing 757-200F,波音757-200全货机,transport,机舱与机型,published
 Boeing 737-800BCF,波音737-800改装货机,transport,机舱与机型,published
 Boeing 737-800SF,波音737-800特殊货机,transport,机舱与机型,published
 Boeing 747-400BDSF,波音747-400特种改装货机,transport,机舱与机型,published
-McDonnell Douglas MD-11F,麦道MD-11货机,transport,机舱与机型,pending
+McDonnell Douglas MD-11F,麦道MD-11货机,transport,机舱与机型,published
 Airbus A330-200F,空客A330-200货机,transport,机舱与机型,pending
 Airbus A330P2F,空客A330客改货,transport,机舱与机型,pending
-Airbus A321P2F,空客A321客改货,transport,机舱与机型,pending
-Airbus A300-600F,空客A300-600货机,transport,机舱与机型,pending
-Airbus A310-300F,空客A310货机,transport,机舱与机型,pending
-Airbus A350F,空客A350货机,transport,机舱与机型,pending
-Antonov An-124,安-124运输机,transport,机舱与机型,pending
-Antonov An-225,安-225运输机,transport,机舱与机型,pending
-Ilyushin IL-76,伊尔-76运输机,transport,机舱与机型,pending
-Lockheed L-100,洛克希德L-100运输机,transport,机舱与机型,pending
-Boeing 747LCF,波音747大型货运机,transport,机舱与机型,pending
-Airbus BelugaXL,空客大白鲸运输机,transport,机舱与机型,pending
-Freighter Capacity,货机运力,transport,机舱与机型,pending
-Conversion Facility,改装工厂,transport,机舱与机型,pending
-Supplemental Type Certificate,补充型号合格证,transport,机舱与机型,pending
-Type Certificate,型号合格证,transport,机舱与机型,pending
-Main Deck,主货舱,transport,货舱设施,pending
-Lower Deck,下货舱,transport,货舱设施,pending
-Upper Deck,上货舱,transport,货舱设施,pending
-Belly Hold,腹舱,transport,货舱设施,pending
-Forward Hold,前货舱,transport,货舱设施,pending
-Aft Hold,后货舱,transport,货舱设施,pending
-Nose Cargo Compartment,机头货舱,transport,货舱设施,pending
-Bulk Compartment,散货舱,transport,货舱设施,pending
-Pressurized Compartment,增压货舱,transport,货舱设施,pending
-Ventilated Compartment,通风货舱,transport,货舱设施,pending
-Cargo Door,货舱门,transport,货舱设施,pending
-Side Cargo Door,侧货舱门,transport,货舱设施,pending
-Nose Cargo Door,机头货舱门,transport,货舱设施,pending
-Door Dimension,舱门尺寸,transport,货舱设施,pending
-Nose Loading,机头装货,transport,货舱设施,pending
-Side Door Loading,侧门装载,transport,货舱设施,pending
-Main Deck Loading,主舱装载,transport,货舱设施,pending
-Lower Deck Loading,下舱装载,transport,货舱设施,pending
-Upper Deck Loading,上舱装载,transport,货舱设施,pending
-Manual Loading,人工装载,transport,货舱设施,pending
-Cargo Loading System,装货系统,transport,货舱设施,pending
-Roller System,滚棒系统,transport,货舱设施,pending
-End Stop,限位挡块,transport,货舱设施,pending
-Floor Reinforcement,地板加强,transport,货舱设施,pending
-Floor Beam,地板横梁,transport,货舱设施,pending
-Fire Liner,防火衬层,transport,货舱设施,pending
-Liner Panel,衬板,transport,货舱设施,pending
-Barrier Net,隔离网,transport,货舱设施,pending
-Smoke Detection System,烟雾探测系统,transport,货舱设施,pending
-Container Capacity,集装箱位数,transport,货舱设施,pending
-Bulk Capacity,散货舱容量,transport,货舱设施,pending
-Bulk Weight Limit,散货舱限重,transport,货舱设施,pending
-Cargo Hold Volume,货舱容积,transport,货舱设施,pending
-Position Number,机位编号,transport,货舱设施,pending
-Density Limit,密度限制,transport,货舱设施,pending
-Loading Height Limit,装载高度限制,transport,货舱设施,pending
-Main Deck Height,主货舱高度,transport,货舱设施,pending
-Aircraft Compatibility,机型适配,transport,货舱设施,pending
-Aircraft Loading Manual,飞机装载手册,transport,货舱设施,pending
-Loadmaster,装载长,transport,货舱设施,pending
-Outsized Cargo,超大件货物,transport,货舱设施,pending
-Machinery Cargo,机械设备货,transport,货舱设施,pending
-Load Control,配载控制,transport,配载平衡,pending
-Load Controller,配载员,transport,配载平衡,pending
-Loading Coordinator,装载协调员,transport,配载平衡,pending
-Weight and Balance Manual,载重平衡手册,transport,配载平衡,pending
-Final Load Sheet,最终载重表,transport,配载平衡,pending
-Manual Load Sheet,手工载重表,transport,配载平衡,pending
-Digital Loadsheet,电子载重表,transport,配载平衡,pending
-Load and Trim Sheet,载重配平表,transport,配载平衡,pending
-Load Plan,装载计划,transport,配载平衡,pending
-Loading Instruction,装载指示,transport,配载平衡,pending
-Loading Sequence,装载顺序,transport,配载平衡,pending
-Load Planning Software,配载软件,transport,配载平衡,pending
-Auto Load Planning,自动配载,transport,配载平衡,pending
-LDM,载重报文,transport,配载平衡,pending
-ACARS,飞机通信寻址与报告系统,transport,配载平衡,pending
-Center of Gravity,重心,transport,配载平衡,pending
-CG Limits,重心限制,transport,配载平衡,pending
-CG Envelope,重心包线,transport,配载平衡,pending
-CG Index,重心指数,transport,配载平衡,pending
-CG Calculation,重心计算,transport,配载平衡,pending
-Forward CG Limit,前重心限制,transport,配载平衡,pending
-Aft CG Limit,后重心限制,transport,配载平衡,pending
-Mean Aerodynamic Chord,平均空气动力弦,transport,配载平衡,pending
-Trim,配平,transport,配载平衡,pending
-Trim Setting,配平设定,transport,配载平衡,pending
-Balance Check,平衡校验,transport,配载平衡,pending
-Balance Diagram,平衡图,transport,配载平衡,pending
-Zero Fuel Weight,零燃油重量,transport,配载平衡,pending
-Maximum Zero Fuel Weight,最大零燃油重量,transport,配载平衡,pending
-Dry Operating Weight,干运行重量,transport,配载平衡,pending
-Operating Empty Weight,运营空重,transport,配载平衡,pending
-Basic Empty Weight,基本空重,transport,配载平衡,pending
-Takeoff Weight,起飞重量,transport,配载平衡,pending
-Maximum Takeoff Weight,最大起飞重量,transport,配载平衡,pending
-Landing Weight,着陆重量,transport,配载平衡,pending
-Maximum Landing Weight,最大着陆重量,transport,配载平衡,pending
-Maximum Ramp Weight,最大滑行重量,transport,配载平衡,pending
-Maximum Payload,最大商载,transport,配载平衡,pending
-Useful Load,有效载荷,transport,配载平衡,pending
-Load Distribution,载荷分配,transport,配载平衡,pending
-Weight Moment,重量力矩,transport,配载平衡,pending
+Airbus A321P2F,空客A321客改货,transport,机舱与机型,published
+Airbus A300-600F,空客A300-600货机,transport,机舱与机型,published
+Airbus A310-300F,空客A310货机,transport,机舱与机型,published
+Airbus A350F,空客A350货机,transport,机舱与机型,published
+Antonov An-124,安-124运输机,transport,机舱与机型,published
+Antonov An-225,安-225运输机,transport,机舱与机型,published
+Ilyushin IL-76,伊尔-76运输机,transport,机舱与机型,published
+Lockheed L-100,洛克希德L-100运输机,transport,机舱与机型,published
+Boeing 747LCF,波音747大型货运机,transport,机舱与机型,published
+Airbus BelugaXL,空客大白鲸运输机,transport,机舱与机型,published
+Freighter Capacity,货机运力,transport,机舱与机型,published
+Conversion Facility,改装工厂,transport,机舱与机型,published
+Supplemental Type Certificate,补充型号合格证,transport,机舱与机型,published
+Type Certificate,型号合格证,transport,机舱与机型,published
+Main Deck,主货舱,transport,货舱设施,published
+Lower Deck,下货舱,transport,货舱设施,published
+Upper Deck,上货舱,transport,货舱设施,published
+Belly Hold,腹舱,transport,货舱设施,published
+Forward Hold,前货舱,transport,货舱设施,published
+Aft Hold,后货舱,transport,货舱设施,published
+Nose Cargo Compartment,机头货舱,transport,货舱设施,published
+Bulk Compartment,散货舱,transport,货舱设施,published
+Pressurized Compartment,增压货舱,transport,货舱设施,published
+Ventilated Compartment,通风货舱,transport,货舱设施,published
+Cargo Door,货舱门,transport,货舱设施,published
+Side Cargo Door,侧货舱门,transport,货舱设施,published
+Nose Cargo Door,机头货舱门,transport,货舱设施,published
+Door Dimension,舱门尺寸,transport,货舱设施,published
+Nose Loading,机头装货,transport,货舱设施,published
+Side Door Loading,侧门装载,transport,货舱设施,published
+Main Deck Loading,主舱装载,transport,货舱设施,published
+Lower Deck Loading,下舱装载,transport,货舱设施,published
+Upper Deck Loading,上舱装载,transport,货舱设施,published
+Manual Loading,人工装载,transport,货舱设施,published
+Cargo Loading System,装货系统,transport,货舱设施,published
+Roller System,滚棒系统,transport,货舱设施,published
+End Stop,限位挡块,transport,货舱设施,published
+Floor Reinforcement,地板加强,transport,货舱设施,published
+Floor Beam,地板横梁,transport,货舱设施,published
+Fire Liner,防火衬层,transport,货舱设施,published
+Liner Panel,衬板,transport,货舱设施,published
+Barrier Net,隔离网,transport,货舱设施,published
+Smoke Detection System,烟雾探测系统,transport,货舱设施,published
+Container Capacity,集装箱位数,transport,货舱设施,published
+Bulk Capacity,散货舱容量,transport,货舱设施,published
+Bulk Weight Limit,散货舱限重,transport,货舱设施,published
+Cargo Hold Volume,货舱容积,transport,货舱设施,published
+Position Number,机位编号,transport,货舱设施,published
+Density Limit,密度限制,transport,货舱设施,published
+Loading Height Limit,装载高度限制,transport,货舱设施,published
+Main Deck Height,主货舱高度,transport,货舱设施,published
+Aircraft Compatibility,机型适配,transport,货舱设施,published
+Aircraft Loading Manual,飞机装载手册,transport,货舱设施,published
+Loadmaster,装载长,transport,货舱设施,published
+Outsized Cargo,超大件货物,transport,货舱设施,published
+Machinery Cargo,机械设备货,transport,货舱设施,published
+Load Control,配载控制,transport,配载平衡,published
+Load Controller,配载员,transport,配载平衡,published
+Loading Coordinator,装载协调员,transport,配载平衡,published
+Weight and Balance Manual,载重平衡手册,transport,配载平衡,published
+Final Load Sheet,最终载重表,transport,配载平衡,published
+Manual Load Sheet,手工载重表,transport,配载平衡,published
+Digital Loadsheet,电子载重表,transport,配载平衡,published
+Load and Trim Sheet,载重配平表,transport,配载平衡,published
+Load Plan,装载计划,transport,配载平衡,published
+Loading Instruction,装载指示,transport,配载平衡,published
+Loading Sequence,装载顺序,transport,配载平衡,published
+Load Planning Software,配载软件,transport,配载平衡,published
+Auto Load Planning,自动配载,transport,配载平衡,published
+LDM,载重报文,transport,配载平衡,published
+ACARS,飞机通信寻址与报告系统,transport,配载平衡,published
+Center of Gravity,重心,transport,配载平衡,published
+CG Limits,重心限制,transport,配载平衡,published
+CG Envelope,重心包线,transport,配载平衡,published
+CG Index,重心指数,transport,配载平衡,published
+CG Calculation,重心计算,transport,配载平衡,published
+Forward CG Limit,前重心限制,transport,配载平衡,published
+Aft CG Limit,后重心限制,transport,配载平衡,published
+Mean Aerodynamic Chord,平均空气动力弦,transport,配载平衡,published
+Trim,配平,transport,配载平衡,published
+Trim Setting,配平设定,transport,配载平衡,published
+Balance Check,平衡校验,transport,配载平衡,published
+Balance Diagram,平衡图,transport,配载平衡,published
+Zero Fuel Weight,零燃油重量,transport,配载平衡,published
+Maximum Zero Fuel Weight,最大零燃油重量,transport,配载平衡,published
+Dry Operating Weight,干运行重量,transport,配载平衡,published
+Operating Empty Weight,运营空重,transport,配载平衡,published
+Basic Empty Weight,基本空重,transport,配载平衡,published
+Takeoff Weight,起飞重量,transport,配载平衡,published
+Maximum Takeoff Weight,最大起飞重量,transport,配载平衡,published
+Landing Weight,着陆重量,transport,配载平衡,published
+Maximum Landing Weight,最大着陆重量,transport,配载平衡,published
+Maximum Ramp Weight,最大滑行重量,transport,配载平衡,published
+Maximum Payload,最大商载,transport,配载平衡,published
+Useful Load,有效载荷,transport,配载平衡,published
+Load Distribution,载荷分配,transport,配载平衡,published
+Weight Moment,重量力矩,transport,配载平衡,published
 Lateral Balance,横向平衡,transport,配载平衡,pending
 Load Factor,载运率,transport,配载平衡,pending
 Cargo Restraint System,货物约束系统,transport,配载平衡,pending
