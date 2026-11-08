@@ -3452,8 +3452,8 @@ Boeing 737-800BCF,波音737-800改装货机,transport,机舱与机型,published
 Boeing 737-800SF,波音737-800特殊货机,transport,机舱与机型,published
 Boeing 747-400BDSF,波音747-400特种改装货机,transport,机舱与机型,published
 McDonnell Douglas MD-11F,麦道MD-11货机,transport,机舱与机型,published
-Airbus A330-200F,空客A330-200货机,transport,机舱与机型,pending
-Airbus A330P2F,空客A330客改货,transport,机舱与机型,pending
+Airbus A330-200F,空客A330-200货机,transport,机舱与机型,published
+Airbus A330P2F,空客A330客改货,transport,机舱与机型,published
 Airbus A321P2F,空客A321客改货,transport,机舱与机型,published
 Airbus A300-600F,空客A300-600货机,transport,机舱与机型,published
 Airbus A310-300F,空客A310货机,transport,机舱与机型,published
@@ -3551,104 +3551,104 @@ Maximum Payload,最大商载,transport,配载平衡,published
 Useful Load,有效载荷,transport,配载平衡,published
 Load Distribution,载荷分配,transport,配载平衡,published
 Weight Moment,重量力矩,transport,配载平衡,published
-Lateral Balance,横向平衡,transport,配载平衡,pending
-Load Factor,载运率,transport,配载平衡,pending
-Cargo Restraint System,货物约束系统,transport,配载平衡,pending
-Special Load,特殊装载,transport,配载平衡,pending
-Load Report,载重报告,transport,配载平衡,pending
-Load Adjustment,载荷调整,transport,配载平衡,pending
-Ballast,配重,transport,配载平衡,pending
-Running Load,累积载荷,transport,配载平衡,pending
-Point Load,点载荷,transport,配载平衡,pending
-Floor Load Limit,货舱地板限载,transport,配载平衡,pending
-Linear Load Limit,单位长度限载,transport,配载平衡,pending
-Verified Weight,核定重量,transport,配载平衡,pending
-Re-weighing,重新过磅,transport,配载平衡,pending
-Runway Limited Weight,跑道限制重量,transport,配载平衡,pending
-Load Optimization,装载优化,transport,配载平衡,pending
-Space Optimization,舱位优化,transport,配载平衡,pending
-Overload,超载,transport,配载平衡,pending
-Underload,欠载,transport,配载平衡,pending
-Chock,轮挡,transport,配载平衡,pending
-Container Dolly,集装箱拖车,transport,机坪配套,pending
-Dolly Train,拖车组,transport,机坪配套,pending
-Cargo Loading Ramp,装载坡板,transport,机坪配套,pending
-Nose Loader,机头装载车,transport,机坪配套,pending
-Side Guide Rail,侧导轨,transport,货舱设施,pending
-IATA Dangerous Goods Regulations,危险品规则,transport,危险品类别,pending
-Flammable Gas,易燃气体,transport,危险品类别,pending
-Self-heating Substance,自热物质,transport,危险品类别,pending
-Organic Peroxide,有机过氧化物,transport,危险品类别,pending
-Class 6 Toxic and Infectious Substances,第6类毒性感染性物质,transport,危险品类别,pending
-Fissile Material,易裂变物质,transport,危险品类别,pending
-Magnetized Material,磁性物质,transport,危险品类别,pending
-Category A Substance,A类感染性物质,transport,危险品类别,pending
-Biological Substance Category B,B类生物物质,transport,危险品类别,pending
-Genetically Modified Organism,转基因生物,transport,危险品类别,pending
-Aerosol,气雾剂,transport,危险品类别,pending
-Cryogenic Liquid,深冷液体,transport,危险品类别,pending
-Lithium Battery,锂电池,transport,危险品类别,pending
-UN 3480,锂离子电池,transport,危险品类别,pending
-UN 3481,随设备锂电池,transport,危险品类别,pending
-Shipper's Declaration for Dangerous Goods,危险品托运申报单,transport,危险品空运,pending
-Dangerous Goods Training,危险品培训,transport,危险品空运,pending
-Dangerous Goods Acceptance,危险品收运检查,transport,危险品空运,pending
-Passenger Aircraft Limitation,客机限量,transport,危险品空运,pending
-Forbidden Dangerous Goods,禁运危险品,transport,危险品空运,pending
-Hidden Dangerous Goods,隐蔽危险品,transport,危险品空运,pending
-Safety Data Sheet,安全技术说明书,transport,危险品空运,pending
-DG Emergency Response,危险品应急处置,transport,危险品空运,pending
-DG Spill Kit,危险品泄漏包,transport,危险品空运,pending
-DG Incident Report,危险品事故报告,transport,危险品空运,pending
-Emergency Contact,应急联系人,transport,危险品空运,pending
-24-hour Contact,24小时应急电话,transport,危险品空运,pending
-Dangerous Goods Packing,危险品包装,transport,危险品空运,pending
-Packing Instruction,包装说明,transport,危险品空运,pending
-UN Specification Packaging,联合国规格包装,transport,危险品空运,pending
-Type A Package,A型放射性包装,transport,危险品空运,pending
-Aviation Security,航空安保,transport,航空安保,pending
-Account Consignor,记名托运人,transport,航空安保,pending
-Consignment Security Declaration,货物安全申报,transport,航空安保,pending
-Cargo Screening,货物安检,transport,航空安保,pending
-Security Screening,安全检查,transport,航空安保,pending
-Screening Method,安检方式,transport,航空安保,pending
-Random Check,安检抽查,transport,航空安保,pending
-Physical Inspection,开箱检查,transport,航空安保,pending
-Suspicious Cargo,可疑货物,transport,航空安保,pending
-X-ray Screening,X光安检,transport,航空安保,pending
-Explosive Vapor Detection,爆炸物蒸气检测,transport,航空安保,pending
-Explosive Detection System,爆炸物探测系统,transport,航空安保,pending
-CT Scanner,CT安检设备,transport,航空安保,pending
-Hand-held Detector,手持探测仪,transport,航空安保,pending
-Canine Team,安检犬队,transport,航空安保,pending
-Vehicle Screening,车辆安检,transport,航空安保,pending
-Security Restricted Area,安保限制区,transport,航空安保,pending
-Airside Pass,空侧通行证,transport,航空安保,pending
-Background Check,背景审查,transport,航空安保,pending
-Security Training,安保培训,transport,航空安保,pending
-Security Coordinator,安保协调员,transport,航空安保,pending
-Security Program,安保方案,transport,航空安保,pending
-Security Audit,安保审计,transport,航空安保,pending
-Security Incident,安保事件,transport,航空安保,pending
-CCTV Surveillance,视频监控,transport,航空安保,pending
-Cargo Security Seal,货物铅封,transport,航空安保,pending
-Tamper-evident Seal,防拆封条,transport,航空安保,pending
-Seal Verification,封志核验,transport,航空安保,pending
-Secure Supply Chain,安全供应链,transport,航空安保,pending
-Screened Cargo,已安检货物,transport,航空安保,pending
-Unscreened Cargo,未安检货物,transport,航空安保,pending
-Chain of Custody,监管链条,transport,航空安保,pending
-Transportation Security Administration,美国运输安全管理局,transport,航空安保,pending
-Certified Cargo Screening Program,认证货物安检计划,transport,航空安保,pending
-Indirect Air Carrier,间接空运承运人,transport,航空安保,pending
-Live Animals Regulations,活体动物运输规程,transport,活体动物,pending
-Pet Kennel,宠物航空箱,transport,活体动物,pending
-Live Horse Transport,活马空运,transport,活体动物,pending
-Aquarium Fish,观赏鱼,transport,活体动物,pending
-Laboratory Animal,实验动物,transport,活体动物,pending
-Feeding Instruction,喂养指示,transport,活体动物,pending
-Animal Health Certificate,动物检疫证书,transport,活体动物,pending
-Animal Quarantine,动物检疫,transport,活体动物,pending
+Lateral Balance,横向平衡,transport,配载平衡,published
+Load Factor,载运率,transport,配载平衡,published
+Cargo Restraint System,货物约束系统,transport,配载平衡,published
+Special Load,特殊装载,transport,配载平衡,published
+Load Report,载重报告,transport,配载平衡,published
+Load Adjustment,载荷调整,transport,配载平衡,published
+Ballast,配重,transport,配载平衡,published
+Running Load,累积载荷,transport,配载平衡,published
+Point Load,点载荷,transport,配载平衡,published
+Floor Load Limit,货舱地板限载,transport,配载平衡,published
+Linear Load Limit,单位长度限载,transport,配载平衡,published
+Verified Weight,核定重量,transport,配载平衡,published
+Re-weighing,重新过磅,transport,配载平衡,published
+Runway Limited Weight,跑道限制重量,transport,配载平衡,published
+Load Optimization,装载优化,transport,配载平衡,published
+Space Optimization,舱位优化,transport,配载平衡,published
+Overload,超载,transport,配载平衡,published
+Underload,欠载,transport,配载平衡,published
+Chock,轮挡,transport,配载平衡,published
+Container Dolly,集装箱拖车,transport,机坪配套,published
+Dolly Train,拖车组,transport,机坪配套,published
+Cargo Loading Ramp,装载坡板,transport,机坪配套,published
+Nose Loader,机头装载车,transport,机坪配套,published
+Side Guide Rail,侧导轨,transport,货舱设施,published
+IATA Dangerous Goods Regulations,危险品规则,transport,危险品类别,published
+Flammable Gas,易燃气体,transport,危险品类别,published
+Self-heating Substance,自热物质,transport,危险品类别,published
+Organic Peroxide,有机过氧化物,transport,危险品类别,published
+Class 6 Toxic and Infectious Substances,第6类毒性感染性物质,transport,危险品类别,published
+Fissile Material,易裂变物质,transport,危险品类别,published
+Magnetized Material,磁性物质,transport,危险品类别,published
+Category A Substance,A类感染性物质,transport,危险品类别,published
+Biological Substance Category B,B类生物物质,transport,危险品类别,published
+Genetically Modified Organism,转基因生物,transport,危险品类别,published
+Aerosol,气雾剂,transport,危险品类别,published
+Cryogenic Liquid,深冷液体,transport,危险品类别,published
+Lithium Battery,锂电池,transport,危险品类别,published
+UN 3480,锂离子电池,transport,危险品类别,published
+UN 3481,随设备锂电池,transport,危险品类别,published
+Shipper's Declaration for Dangerous Goods,危险品托运申报单,transport,危险品空运,published
+Dangerous Goods Training,危险品培训,transport,危险品空运,published
+Dangerous Goods Acceptance,危险品收运检查,transport,危险品空运,published
+Passenger Aircraft Limitation,客机限量,transport,危险品空运,published
+Forbidden Dangerous Goods,禁运危险品,transport,危险品空运,published
+Hidden Dangerous Goods,隐蔽危险品,transport,危险品空运,published
+Safety Data Sheet,安全技术说明书,transport,危险品空运,published
+DG Emergency Response,危险品应急处置,transport,危险品空运,published
+DG Spill Kit,危险品泄漏包,transport,危险品空运,published
+DG Incident Report,危险品事故报告,transport,危险品空运,published
+Emergency Contact,应急联系人,transport,危险品空运,published
+24-hour Contact,24小时应急电话,transport,危险品空运,published
+Dangerous Goods Packing,危险品包装,transport,危险品空运,published
+Packing Instruction,包装说明,transport,危险品空运,published
+UN Specification Packaging,联合国规格包装,transport,危险品空运,published
+Type A Package,A型放射性包装,transport,危险品空运,published
+Aviation Security,航空安保,transport,航空安保,published
+Account Consignor,记名托运人,transport,航空安保,published
+Consignment Security Declaration,货物安全申报,transport,航空安保,published
+Cargo Screening,货物安检,transport,航空安保,published
+Security Screening,安全检查,transport,航空安保,published
+Screening Method,安检方式,transport,航空安保,published
+Random Check,安检抽查,transport,航空安保,published
+Physical Inspection,开箱检查,transport,航空安保,published
+Suspicious Cargo,可疑货物,transport,航空安保,published
+X-ray Screening,X光安检,transport,航空安保,published
+Explosive Vapor Detection,爆炸物蒸气检测,transport,航空安保,published
+Explosive Detection System,爆炸物探测系统,transport,航空安保,published
+CT Scanner,CT安检设备,transport,航空安保,published
+Hand-held Detector,手持探测仪,transport,航空安保,published
+Canine Team,安检犬队,transport,航空安保,published
+Vehicle Screening,车辆安检,transport,航空安保,published
+Security Restricted Area,安保限制区,transport,航空安保,published
+Airside Pass,空侧通行证,transport,航空安保,published
+Background Check,背景审查,transport,航空安保,published
+Security Training,安保培训,transport,航空安保,published
+Security Coordinator,安保协调员,transport,航空安保,published
+Security Program,安保方案,transport,航空安保,published
+Security Audit,安保审计,transport,航空安保,published
+Security Incident,安保事件,transport,航空安保,published
+CCTV Surveillance,视频监控,transport,航空安保,published
+Cargo Security Seal,货物铅封,transport,航空安保,published
+Tamper-evident Seal,防拆封条,transport,航空安保,published
+Seal Verification,封志核验,transport,航空安保,published
+Secure Supply Chain,安全供应链,transport,航空安保,published
+Screened Cargo,已安检货物,transport,航空安保,published
+Unscreened Cargo,未安检货物,transport,航空安保,published
+Chain of Custody,监管链条,transport,航空安保,published
+Transportation Security Administration,美国运输安全管理局,transport,航空安保,published
+Certified Cargo Screening Program,认证货物安检计划,transport,航空安保,published
+Indirect Air Carrier,间接空运承运人,transport,航空安保,published
+Live Animals Regulations,活体动物运输规程,transport,活体动物,published
+Pet Kennel,宠物航空箱,transport,活体动物,published
+Live Horse Transport,活马空运,transport,活体动物,published
+Aquarium Fish,观赏鱼,transport,活体动物,published
+Laboratory Animal,实验动物,transport,活体动物,published
+Feeding Instruction,喂养指示,transport,活体动物,published
+Animal Health Certificate,动物检疫证书,transport,活体动物,published
+Animal Quarantine,动物检疫,transport,活体动物,published
 CITES Permit,濒危物种许可证,transport,活体动物,pending
 Live Animal Label,活体动物标签,transport,活体动物,pending
 Perishable Cargo Regulations,鲜活易腐货物规程,transport,生鲜冷链,pending
