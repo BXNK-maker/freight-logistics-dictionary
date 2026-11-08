@@ -3649,106 +3649,106 @@ Laboratory Animal,实验动物,transport,活体动物,published
 Feeding Instruction,喂养指示,transport,活体动物,published
 Animal Health Certificate,动物检疫证书,transport,活体动物,published
 Animal Quarantine,动物检疫,transport,活体动物,published
-CITES Permit,濒危物种许可证,transport,活体动物,pending
-Live Animal Label,活体动物标签,transport,活体动物,pending
-Perishable Cargo Regulations,鲜活易腐货物规程,transport,生鲜冷链,pending
-Perishable Label,鲜活货物标签,transport,生鲜冷链,pending
-Fresh Seafood,生鲜水产,transport,生鲜冷链,pending
-Fresh Produce,新鲜果蔬,transport,生鲜冷链,pending
-Live Plants,活体植物,transport,生鲜冷链,pending
-Frozen Cargo,冷冻货物,transport,生鲜冷链,pending
-Deep Frozen,深冷货物,transport,生鲜冷链,pending
-Chilled Cargo,冷藏货物,transport,生鲜冷链,pending
-Shelf Life,保质期,transport,生鲜冷链,pending
-Cold Chain Logistics,冷链物流,transport,生鲜冷链,pending
-Temperature Zone,温区,transport,生鲜冷链,pending
-Temperature Control Regulations,温控货物规程,transport,生鲜冷链,pending
-Temperature Monitoring,温度监测,transport,生鲜冷链,pending
-Active Container,主动式温控集装箱,transport,生鲜冷链,pending
-Passive Container,被动式温控集装箱,transport,生鲜冷链,pending
-RKN,RKN温控集装箱,transport,生鲜冷链,pending
-RAP,RAP温控集装板,transport,生鲜冷链,pending
-Pre-conditioned Container,预冷集装器,transport,生鲜冷链,pending
-Pharmaceutical Cargo,医药货物,transport,医药冷链,pending
-Good Distribution Practice,药品经营质量管理规范,transport,医药冷链,pending
-GDP Certified,GDP认证,transport,医药冷链,pending
-CEIV,独立验证卓越中心,transport,医药冷链,pending
-CEIV Pharma,CEIV医药认证,transport,医药冷链,pending
-CEIV Fresh,CEIV生鲜认证,transport,医药冷链,pending
-Precious Metal,贵金属,transport,贵重物资,pending
-Jewelry Shipment,珠宝运输,transport,贵重物资,pending
-Currency Shipment,货币运送,transport,贵重物资,pending
-Art Cargo,艺术品运输,transport,贵重物资,pending
-Security Escort,安保护送,transport,贵重物资,pending
-Bullion Transport,金条运输,transport,贵重物资,pending
-Courier Bag,快递集装袋,transport,快递航空,pending
-Special Cargo,特种货物,transport,特种货处理,pending
-Human Remains,遗体运输,transport,特种货处理,pending
-Cremated Remains,骨灰运输,transport,特种货处理,pending
-Humanitarian Cargo,人道救援货物,transport,特种货处理,pending
-Exhibition Cargo,展品运输,transport,特种货处理,pending
-Aircraft Spare Parts,航空备件,transport,特种货处理,pending
-Special Handling Code,特殊处理代码,transport,特殊处理代码,pending
-AVI,活体动物代码,transport,特殊处理代码,pending
-PER,鲜活易腐货物代码,transport,特殊处理代码,pending
-PEF,鲜花代码,transport,特殊处理代码,pending
-PEM,鲜肉代码,transport,特殊处理代码,pending
-HEA,重型货物代码,transport,特殊处理代码,pending
-VAL,贵重货物代码,transport,特殊处理代码,pending
-CAO,仅限货机代码,transport,特殊处理代码,pending
-DGR,危险品代码,transport,特殊处理代码,pending
-ICE,干冰代码,transport,特殊处理代码,pending
-MAG,磁性物质代码,transport,特殊处理代码,pending
-HUM,遗体代码,transport,特殊处理代码,pending
-FIL,未冲洗胶片代码,transport,特殊处理代码,pending
-COM,公司物资代码,transport,特殊处理代码,pending
-PHM,医药货物代码,transport,特殊处理代码,pending
-Full Charter,全包机,transport,包机业务,pending
-Part Charter,部分包机,transport,包机业务,pending
-Ad hoc Charter,临时包机,transport,包机业务,pending
-Emergency Charter,应急包机,transport,包机业务,pending
-Relief Charter,救援包机,transport,包机业务,pending
-Charter Agreement,包机协议,transport,包机业务,pending
-Charter Permit,包机许可,transport,包机业务,pending
-Charter Rate,包机运价,transport,包机业务,pending
-Charter Quotation,包机报价,transport,包机业务,pending
-Charter Broker,包机经纪人,transport,包机业务,pending
-Charter Operator,包机运营人,transport,包机业务,pending
-Wet Lease,湿租,transport,包机业务,pending
-Dry Lease,干租,transport,包机业务,pending
-Damp Lease,半湿租,transport,包机业务,pending
-ACMI Lease,ACMI湿租,transport,包机业务,pending
-Exclusive Use,包舱独用,transport,包机业务,pending
-Block Space Agreement,舱位包销协议,transport,包机业务,pending
-Blocked Space,包销舱位,transport,包机业务,pending
-Free Sale,自由销售舱位,transport,包机业务,pending
-Guaranteed Capacity,舱位保障,transport,包机业务,pending
-Capacity Purchase Agreement,舱位购买协议,transport,包机业务,pending
-Positioning Flight,调机航班,transport,包机业务,pending
-Ferry Flight,调机空飞,transport,包机业务,pending
-Technical Stop,技术经停,transport,包机业务,pending
-Fuel Stop,加油经停,transport,包机业务,pending
-Landing Permit,着陆许可,transport,包机业务,pending
-Overflight Permit,飞越许可,transport,包机业务,pending
-Traffic Rights,航权,transport,包机业务,pending
-Fifth Freedom,第五航权,transport,包机业务,pending
-Sixth Freedom,第六航权,transport,包机业务,pending
-Bilateral Agreement,双边航空协定,transport,包机业务,pending
-Open Sky,开放天空,transport,包机业务,pending
-Diplomatic Clearance,外交许可,transport,包机业务,pending
-Road Feeder Service,卡车航班,transport,空陆联运,pending
-Trucking,空陆卡车联运,transport,空陆联运,pending
-Trucking Manifest,卡车舱单,transport,空陆联运,pending
-Rail Air Intermodal,空铁联运,transport,空陆联运,pending
-Bonded Trucking,保税卡车运输,transport,空陆联运,pending
-Air Express,航空快递,transport,快递航空,pending
-Express Carrier,快递承运商,transport,快递航空,pending
-Integrator,一体化快递承运商,transport,快递航空,pending
-Courier Service,快递服务,transport,快递航空,pending
-Courier Waybill,快递运单,transport,快递航空,pending
-Courier Pickup,快递揽收,transport,快递航空,pending
-Overnight Express,次晨达,transport,快递航空,pending
-Time-definite Delivery,限时达,transport,快递航空,pending
+CITES Permit,濒危物种许可证,transport,活体动物,published
+Live Animal Label,活体动物标签,transport,活体动物,published
+Perishable Cargo Regulations,鲜活易腐货物规程,transport,生鲜冷链,published
+Perishable Label,鲜活货物标签,transport,生鲜冷链,published
+Fresh Seafood,生鲜水产,transport,生鲜冷链,published
+Fresh Produce,新鲜果蔬,transport,生鲜冷链,published
+Live Plants,活体植物,transport,生鲜冷链,published
+Frozen Cargo,冷冻货物,transport,生鲜冷链,published
+Deep Frozen,深冷货物,transport,生鲜冷链,published
+Chilled Cargo,冷藏货物,transport,生鲜冷链,published
+Shelf Life,保质期,transport,生鲜冷链,published
+Cold Chain Logistics,冷链物流,transport,生鲜冷链,published
+Temperature Zone,温区,transport,生鲜冷链,published
+Temperature Control Regulations,温控货物规程,transport,生鲜冷链,published
+Temperature Monitoring,温度监测,transport,生鲜冷链,published
+Active Container,主动式温控集装箱,transport,生鲜冷链,published
+Passive Container,被动式温控集装箱,transport,生鲜冷链,published
+RKN,RKN温控集装箱,transport,生鲜冷链,published
+RAP,RAP温控集装板,transport,生鲜冷链,published
+Pre-conditioned Container,预冷集装器,transport,生鲜冷链,published
+Pharmaceutical Cargo,医药货物,transport,医药冷链,published
+Good Distribution Practice,药品经营质量管理规范,transport,医药冷链,published
+GDP Certified,GDP认证,transport,医药冷链,published
+CEIV,独立验证卓越中心,transport,医药冷链,published
+CEIV Pharma,CEIV医药认证,transport,医药冷链,published
+CEIV Fresh,CEIV生鲜认证,transport,医药冷链,published
+Precious Metal,贵金属,transport,贵重物资,published
+Jewelry Shipment,珠宝运输,transport,贵重物资,published
+Currency Shipment,货币运送,transport,贵重物资,published
+Art Cargo,艺术品运输,transport,贵重物资,published
+Security Escort,安保护送,transport,贵重物资,published
+Bullion Transport,金条运输,transport,贵重物资,published
+Courier Bag,快递集装袋,transport,快递航空,published
+Special Cargo,特种货物,transport,特种货处理,published
+Human Remains,遗体运输,transport,特种货处理,published
+Cremated Remains,骨灰运输,transport,特种货处理,published
+Humanitarian Cargo,人道救援货物,transport,特种货处理,published
+Exhibition Cargo,展品运输,transport,特种货处理,published
+Aircraft Spare Parts,航空备件,transport,特种货处理,published
+Special Handling Code,特殊处理代码,transport,特殊处理代码,published
+AVI,活体动物代码,transport,特殊处理代码,published
+PER,鲜活易腐货物代码,transport,特殊处理代码,published
+PEF,鲜花代码,transport,特殊处理代码,published
+PEM,鲜肉代码,transport,特殊处理代码,published
+HEA,重型货物代码,transport,特殊处理代码,published
+VAL,贵重货物代码,transport,特殊处理代码,published
+CAO,仅限货机代码,transport,特殊处理代码,published
+DGR,危险品代码,transport,特殊处理代码,published
+ICE,干冰代码,transport,特殊处理代码,published
+MAG,磁性物质代码,transport,特殊处理代码,published
+HUM,遗体代码,transport,特殊处理代码,published
+FIL,未冲洗胶片代码,transport,特殊处理代码,published
+COM,公司物资代码,transport,特殊处理代码,published
+PHM,医药货物代码,transport,特殊处理代码,published
+Full Charter,全包机,transport,包机业务,published
+Part Charter,部分包机,transport,包机业务,published
+Ad hoc Charter,临时包机,transport,包机业务,published
+Emergency Charter,应急包机,transport,包机业务,published
+Relief Charter,救援包机,transport,包机业务,published
+Charter Agreement,包机协议,transport,包机业务,published
+Charter Permit,包机许可,transport,包机业务,published
+Charter Rate,包机运价,transport,包机业务,published
+Charter Quotation,包机报价,transport,包机业务,published
+Charter Broker,包机经纪人,transport,包机业务,published
+Charter Operator,包机运营人,transport,包机业务,published
+Wet Lease,湿租,transport,包机业务,published
+Dry Lease,干租,transport,包机业务,published
+Damp Lease,半湿租,transport,包机业务,published
+ACMI Lease,ACMI湿租,transport,包机业务,published
+Exclusive Use,包舱独用,transport,包机业务,published
+Block Space Agreement,舱位包销协议,transport,包机业务,published
+Blocked Space,包销舱位,transport,包机业务,published
+Free Sale,自由销售舱位,transport,包机业务,published
+Guaranteed Capacity,舱位保障,transport,包机业务,published
+Capacity Purchase Agreement,舱位购买协议,transport,包机业务,published
+Positioning Flight,调机航班,transport,包机业务,published
+Ferry Flight,调机空飞,transport,包机业务,published
+Technical Stop,技术经停,transport,包机业务,published
+Fuel Stop,加油经停,transport,包机业务,published
+Landing Permit,着陆许可,transport,包机业务,published
+Overflight Permit,飞越许可,transport,包机业务,published
+Traffic Rights,航权,transport,包机业务,published
+Fifth Freedom,第五航权,transport,包机业务,published
+Sixth Freedom,第六航权,transport,包机业务,published
+Bilateral Agreement,双边航空协定,transport,包机业务,published
+Open Sky,开放天空,transport,包机业务,published
+Diplomatic Clearance,外交许可,transport,包机业务,published
+Road Feeder Service,卡车航班,transport,空陆联运,published
+Trucking,空陆卡车联运,transport,空陆联运,published
+Trucking Manifest,卡车舱单,transport,空陆联运,published
+Rail Air Intermodal,空铁联运,transport,空陆联运,published
+Bonded Trucking,保税卡车运输,transport,空陆联运,published
+Air Express,航空快递,transport,快递航空,published
+Express Carrier,快递承运商,transport,快递航空,published
+Integrator,一体化快递承运商,transport,快递航空,published
+Courier Service,快递服务,transport,快递航空,published
+Courier Waybill,快递运单,transport,快递航空,published
+Courier Pickup,快递揽收,transport,快递航空,published
+Overnight Express,次晨达,transport,快递航空,published
+Time-definite Delivery,限时达,transport,快递航空,published
 On Board Courier,随身急件,transport,快递航空,pending
 Domestic Express,国内快递,transport,快递航空,pending
 Sort Hub,快件分拣中心,transport,快递航空,pending
