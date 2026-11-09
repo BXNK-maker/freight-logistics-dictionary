@@ -3849,9 +3849,9 @@ Airport Customs,机场海关,customs,报关流程,published
 Land Port Customs,陆路口岸海关,customs,报关流程,published
 Border Crossing Point,边境通道,customs,报关流程,published
 Single Window Declaration,单一窗口申报,customs,报关流程,published
-One-stop Clearance,一站式通关,customs,报关流程,pending
-Electronic Declaration,电子申报,customs,报关流程,pending
-UN/EDIFACT Message,联合国电子报文,customs,报关流程,pending
+One-stop Clearance,一站式通关,customs,报关流程,published
+Electronic Declaration,电子申报,customs,报关流程,published
+UN/EDIFACT Message,联合国电子报文,customs,报关流程,published
 CUSCAR Message,舱单报文,customs,报关流程,published
 CUSDEC Message,报关报文,customs,报关流程,published
 XML Message Standard,XML报文标准,customs,报关流程,published
@@ -3949,103 +3949,103 @@ Waste of Chapter,某章废物,customs,归类规则,published
 Residue Classification,残余物归类,customs,归类规则,published
 Similar Goods Heading,类似货品品目,customs,归类规则,published
 Analogous Application,类比适用,customs,归类规则,published
-Commercial Homogeneity,商业同一性,customs,归类规则,pending
-Binding Ruling Database,裁定数据库,customs,归类规则,pending
-Classification Opinion,归类意见,customs,归类规则,pending
-HS Committee,协调制度委员会,customs,归类规则,pending
-WCO Classification Opinion,海关组织归类意见,customs,归类规则,pending
-HS Amendment Cycle,税则修订周期,customs,归类规则,pending
-Tariff Recodification,税则重编,customs,归类规则,pending
-Heading Split,品目拆分,customs,归类规则,pending
-Subheading Merge,子目合并,customs,归类规则,pending
-Tariff Correlation Table,税则转换表,customs,归类规则,pending
-Transition of HS Code,HS编码过渡,customs,归类规则,pending
-Duty Rate Change Notification,税率调整公告,customs,归类规则,pending
-Classification Error Correction,归类纠错,customs,归类规则,pending
-Explanatory Note Update,注释更新,customs,归类规则,pending
-Commodity Name Standardization,商品名称规范化,customs,归类规则,pending
-Chemical Classification,化学品归类,customs,归类规则,pending
-Mixture Ratio Classification,混合比例归类,customs,归类规则,pending
-Active Pharmaceutical Ingredient Classification,原料药归类,customs,归类规则,pending
-Textile Classification,纺织品归类,customs,归类规则,pending
-Fabric Composition Classification,织物成分归类,customs,归类规则,pending
-Wearing Apparel Classification,服装归类,customs,归类规则,pending
-Textile Category Number,纺织品类别号,customs,归类规则,pending
-Electronic Product Classification,电子产品归类,customs,归类规则,pending
-Integrated Circuit Classification,集成电路归类,customs,归类规则,pending
-Automotive Parts Classification,汽车零部件归类,customs,归类规则,pending
-Vehicle Classification,车辆归类,customs,归类规则,pending
-Aircraft Classification,航空器归类,customs,归类规则,pending
-Machinery Classification,机械设备归类,customs,归类规则,pending
-Tool Classification,工具归类,customs,归类规则,pending
-Toy Classification,玩具归类,customs,归类规则,pending
-Footwear Classification,鞋类归类,customs,归类规则,pending
-Food Classification,食品归类,customs,归类规则,pending
-Beverage Classification,饮料归类,customs,归类规则,pending
-Tobacco Classification,烟草归类,customs,归类规则,pending
-Mineral Classification,矿产品归类,customs,归类规则,pending
-Plastic Classification,塑料制品归类,customs,归类规则,pending
-Rubber Classification,橡胶制品归类,customs,归类规则,pending
-Paper Classification,纸制品归类,customs,归类规则,pending
-Wood Product Classification,木制品归类,customs,归类规则,pending
-Glass Classification,玻璃制品归类,customs,归类规则,pending
-Precious Stone Classification,宝石归类,customs,归类规则,pending
-Musical Instrument Classification,乐器归类,customs,归类规则,pending
-Optical Instrument Classification,光学仪器归类,customs,归类规则,pending
-Medical Device Classification,医疗器械归类,customs,归类规则,pending
-Chemical Precursor Classification,易制毒化学品归类,customs,归类规则,pending
-Transaction Value,成交价格,customs,估价规则,pending
-Deductive Value Method,扣减价格法,customs,估价规则,pending
-Computed Value Method,计算价格法,customs,估价规则,pending
-Fall-back Method,合理方法,customs,估价规则,pending
-Sequential Application of Methods,估价方法依次适用,customs,估价规则,pending
-CFR Value,成本加运费价,customs,估价规则,pending
-Customs Valuation Agreement,海关估价协定,customs,估价规则,pending
-Valuation Basis,估价基础,customs,估价规则,pending
-Price Actually Paid or Payable,实付应付价格,customs,估价规则,pending
-Payment to Third Party,支付第三方收益,customs,估价规则,pending
-Indirect Payment,间接支付,customs,估价规则,pending
-Direct Payment,直接支付,customs,估价规则,pending
-Free of Charge Goods,免费提供货物,customs,估价规则,pending
-Consignment Goods Valuation,寄售货物估价,customs,估价规则,pending
-Price Adjustment,价格调整,customs,估价规则,pending
-Additions to Price,价格加项,customs,估价规则,pending
-Deductions from Price,价格减项,customs,估价规则,pending
-Selling Commission,销售佣金,customs,估价规则,pending
-Buying Commission,购货佣金,customs,估价规则,pending
-Brokerage Fee,经纪费,customs,估价规则,pending
-Materials Supplied Free,免费提供物料,customs,估价规则,pending
-Tooling Charge,模具费,customs,估价规则,pending
-Engineering Value,工程价值,customs,估价规则,pending
-Royalty,特许权使用费,customs,估价规则,pending
-License Fee,许可费,customs,估价规则,pending
-Patent Royalty,专利许可费,customs,估价规则,pending
-Trademark Royalty,商标使用费,customs,估价规则,pending
-Copyright Royalty,著作权使用费,customs,估价规则,pending
-Know-how Payment,技术秘密使用费,customs,估价规则,pending
-Duty on Royalty,特许权费征税,customs,估价规则,pending
-Freight Charge,运费,customs,估价规则,pending
-International Freight,国际运费,customs,估价规则,pending
-Domestic Leg Exclusion,境内段运费扣除,customs,估价规则,pending
-Unloading Charge,卸货费,customs,估价规则,pending
-Loading Charge,装货费,customs,估价规则,pending
-Port Charge,港口费,customs,估价规则,pending
-Airport Charge,机场费,customs,估价规则,pending
-Container Charge,集装箱费,customs,估价规则,pending
-Post-arrival Transport Cost,进境后运输费,customs,估价规则,pending
-Transfer Pricing Documentation,转让定价文档,customs,估价规则,pending
-Arm's Length Principle,公平交易原则,customs,估价规则,pending
-Test Values,测试价格,customs,估价规则,pending
-Identical Goods,相同货物,customs,估价规则,pending
-Similar Goods,类似货物,customs,估价规则,pending
-Commercially Comparable Goods,商业可比货物,customs,估价规则,pending
-Same Producer,同一生产商,customs,估价规则,pending
-Time of Export Valuation,出口时点估价,customs,估价规则,pending
-Valuation Date,估价日期,customs,估价规则,pending
-Unconditional Acceptance Condition,价格无条件条件,customs,估价规则,pending
-Resale Price Restriction,转售价格限制,customs,估价规则,pending
-Sale in the Condition as Imported,进口状态销售,customs,估价规则,pending
-Goods Not Sold,未售货物估价,customs,估价规则,pending
+Commercial Homogeneity,商业同一性,customs,归类规则,published
+Binding Ruling Database,裁定数据库,customs,归类规则,published
+Classification Opinion,归类意见,customs,归类规则,published
+HS Committee,协调制度委员会,customs,归类规则,published
+WCO Classification Opinion,海关组织归类意见,customs,归类规则,published
+HS Amendment Cycle,税则修订周期,customs,归类规则,published
+Tariff Recodification,税则重编,customs,归类规则,published
+Heading Split,品目拆分,customs,归类规则,published
+Subheading Merge,子目合并,customs,归类规则,published
+Tariff Correlation Table,税则转换表,customs,归类规则,published
+Transition of HS Code,HS编码过渡,customs,归类规则,published
+Duty Rate Change Notification,税率调整公告,customs,归类规则,published
+Classification Error Correction,归类纠错,customs,归类规则,published
+Explanatory Note Update,注释更新,customs,归类规则,published
+Commodity Name Standardization,商品名称规范化,customs,归类规则,published
+Chemical Classification,化学品归类,customs,归类规则,published
+Mixture Ratio Classification,混合比例归类,customs,归类规则,published
+Active Pharmaceutical Ingredient Classification,原料药归类,customs,归类规则,published
+Textile Classification,纺织品归类,customs,归类规则,published
+Fabric Composition Classification,织物成分归类,customs,归类规则,published
+Wearing Apparel Classification,服装归类,customs,归类规则,published
+Textile Category Number,纺织品类别号,customs,归类规则,published
+Electronic Product Classification,电子产品归类,customs,归类规则,published
+Integrated Circuit Classification,集成电路归类,customs,归类规则,published
+Automotive Parts Classification,汽车零部件归类,customs,归类规则,published
+Vehicle Classification,车辆归类,customs,归类规则,published
+Aircraft Classification,航空器归类,customs,归类规则,published
+Machinery Classification,机械设备归类,customs,归类规则,published
+Tool Classification,工具归类,customs,归类规则,published
+Toy Classification,玩具归类,customs,归类规则,published
+Footwear Classification,鞋类归类,customs,归类规则,published
+Food Classification,食品归类,customs,归类规则,published
+Beverage Classification,饮料归类,customs,归类规则,published
+Tobacco Classification,烟草归类,customs,归类规则,published
+Mineral Classification,矿产品归类,customs,归类规则,published
+Plastic Classification,塑料制品归类,customs,归类规则,published
+Rubber Classification,橡胶制品归类,customs,归类规则,published
+Paper Classification,纸制品归类,customs,归类规则,published
+Wood Product Classification,木制品归类,customs,归类规则,published
+Glass Classification,玻璃制品归类,customs,归类规则,published
+Precious Stone Classification,宝石归类,customs,归类规则,published
+Musical Instrument Classification,乐器归类,customs,归类规则,published
+Optical Instrument Classification,光学仪器归类,customs,归类规则,published
+Medical Device Classification,医疗器械归类,customs,归类规则,published
+Chemical Precursor Classification,易制毒化学品归类,customs,归类规则,published
+Transaction Value,成交价格,customs,估价规则,published
+Deductive Value Method,扣减价格法,customs,估价规则,published
+Computed Value Method,计算价格法,customs,估价规则,published
+Fall-back Method,合理方法,customs,估价规则,published
+Sequential Application of Methods,估价方法依次适用,customs,估价规则,published
+CFR Value,成本加运费价,customs,估价规则,published
+Customs Valuation Agreement,海关估价协定,customs,估价规则,published
+Valuation Basis,估价基础,customs,估价规则,published
+Price Actually Paid or Payable,实付应付价格,customs,估价规则,published
+Payment to Third Party,支付第三方收益,customs,估价规则,published
+Indirect Payment,间接支付,customs,估价规则,published
+Direct Payment,直接支付,customs,估价规则,published
+Free of Charge Goods,免费提供货物,customs,估价规则,published
+Consignment Goods Valuation,寄售货物估价,customs,估价规则,published
+Price Adjustment,价格调整,customs,估价规则,published
+Additions to Price,价格加项,customs,估价规则,published
+Deductions from Price,价格减项,customs,估价规则,published
+Selling Commission,销售佣金,customs,估价规则,published
+Buying Commission,购货佣金,customs,估价规则,published
+Brokerage Fee,经纪费,customs,估价规则,published
+Materials Supplied Free,免费提供物料,customs,估价规则,published
+Tooling Charge,模具费,customs,估价规则,published
+Engineering Value,工程价值,customs,估价规则,published
+Royalty,特许权使用费,customs,估价规则,published
+License Fee,许可费,customs,估价规则,published
+Patent Royalty,专利许可费,customs,估价规则,published
+Trademark Royalty,商标使用费,customs,估价规则,published
+Copyright Royalty,著作权使用费,customs,估价规则,published
+Know-how Payment,技术秘密使用费,customs,估价规则,published
+Duty on Royalty,特许权费征税,customs,估价规则,published
+Freight Charge,运费,customs,估价规则,published
+International Freight,国际运费,customs,估价规则,published
+Domestic Leg Exclusion,境内段运费扣除,customs,估价规则,published
+Unloading Charge,卸货费,customs,估价规则,published
+Loading Charge,装货费,customs,估价规则,published
+Port Charge,港口费,customs,估价规则,published
+Airport Charge,机场费,customs,估价规则,published
+Container Charge,集装箱费,customs,估价规则,published
+Post-arrival Transport Cost,进境后运输费,customs,估价规则,published
+Transfer Pricing Documentation,转让定价文档,customs,估价规则,published
+Arm's Length Principle,公平交易原则,customs,估价规则,published
+Test Values,测试价格,customs,估价规则,published
+Identical Goods,相同货物,customs,估价规则,published
+Similar Goods,类似货物,customs,估价规则,published
+Commercially Comparable Goods,商业可比货物,customs,估价规则,published
+Same Producer,同一生产商,customs,估价规则,published
+Time of Export Valuation,出口时点估价,customs,估价规则,published
+Valuation Date,估价日期,customs,估价规则,published
+Unconditional Acceptance Condition,价格无条件条件,customs,估价规则,published
+Resale Price Restriction,转售价格限制,customs,估价规则,published
+Sale in the Condition as Imported,进口状态销售,customs,估价规则,published
+Goods Not Sold,未售货物估价,customs,估价规则,published
 Goods for Own Use,自用货物估价,customs,估价规则,pending
 Free Gift Valuation,赠品估价,customs,估价规则,pending
 Sample Valuation,样品估价,customs,估价规则,pending
