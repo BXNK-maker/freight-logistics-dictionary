@@ -1,7 +1,7 @@
 ---
 title: "Specific Description Priority"
 linkTitle: "具体列名优先"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "归类规则"
 ---
@@ -9,31 +9,35 @@ subcategory: "归类规则"
 > 📖 分类：**关务合规** / 归类规则　｜　Specific Description Priority = 具体列名优先
 
 ## 定义
-具体列名优先（Specific Description Priority）是指在国际货物运输和海关归类中，当某一物品既可适用较为笼统的通用货名或税号，又有更具体、更明确的列名时，必须优先选择具体列名的原则。这一规则广泛应用于海关商品编码归类、提单货物描述及危险品申报中。
+
+具体列名优先（Specific Description Priority，简称 SDP）是国际货物运输与海关申报中的一项基本原则。该原则规定，当某项货物同时符合通用归类和具体列名归类时，海关和承运人应优先采用更具针对性、更具体的品名和税号进行申报和处理。这对于确保单证合规、规避海关稽查以及确定准确的运费和关税具有重要意义。
 
 ## 详细说明
-- 使用场景：主要用于进出口报关时的HS编码（协调制度编码）归类，以及缮制海运/空运提单（B/L）时的品名申报。
-- 关键规则：根据国际海关归类总规则（GIR），在货品描述时，如果通用条款和具体条款同时存在，具体列名比一般列名具有优先适用性。例如，进口带有显示屏的工业用手持终端，若按“电子设备”归类属于通用，而按“便携式数据处理机”归类则属于具体列名，此时必须采用具体列名。
-- 实务注意事项：在向船公司或海关提交单证时，切忌为了简化而只使用泛称（如“配件”、“机器”）。详细、具体的品名不仅能规避海关稽查风险，还能确保正确适用运费等级和关税税率。
+
+- 使用场景：主要应用于进出口报关时的商品归类（HS Code 确定）、国际快递及海运拼箱中的货品描述核对，以及危险品（Dangerous Goods）的分类与鉴定。
+- 关键规则或数字：在海关商品编码（HS）归类的“归类总规则”中，具体列名（Specific Description）的效力永远优先于一般性条款（General Description）。例如，若某种化学品既可归入“有机化学品（大类）”，又有其专属的 8 位具体化学名税号，则必须按后者申报。
+- 实务注意事项：货代与外贸业务员在制作发票（Invoice）和装箱单（Packing List）时，切忌使用过于笼统的“配件”、“化工原料”等泛称，必须提供符合“具体列名优先”要求的精准品名，以免海关因涉嫌申报不实而扣货罚款。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 具体列名优先原则 | Specific Description Priority Principle |
+| 具体列名优先原则 | Specific Description Priority Rule |
 | 商品归类 | Commodity Classification |
-| 货物品名描述 | Cargo Description |
-| 协调制度编码 | Harmonized System Code (HS Code) |
+| 归类总规则 | General Rules for the Interpretation (GRI) |
+| 申报不实 | Misdeclaration |
 
 ## 相关术语
-- `General Interpretation Rules (商品归类总规则)`
-- `Harmonized System Code (海关商品协调制度编码)`
-- `Cargo Description (货物描述)`
-- `Customs Declaration (海关申报)`
+
+- `Harmonized System Code / HS Code（协调制度代码 / 海关编码）`
+- `General Rules for the Interpretation / GRI（海关归类总规则）`
+- `Goods Description（货物描述 / 品名）`
+- `Customs Declaration（海关申报）`
 
 ## 常见误区
-- 认为只要货物体积小或价值低，就可以在提单和报关单上随意使用“General Cargo”等笼统泛称来代替具体品名。
-- 混淆了商业贸易合同中的商品统称与海关申报中的具体列名要求，导致因品名申报不符而产生海关罚款或清关延误。
+
+- 认为只要货物的通用大类正确，具体品名写得模糊一些也无所谓。实际上，海关查验时对具体列名有极高要求，模糊申报会被视为违规。
+- 混淆了商业贸易中的合同品名与海关法定的具体列名，导致单证信息无法通过海关系统的自动审单。
 
 ---
 

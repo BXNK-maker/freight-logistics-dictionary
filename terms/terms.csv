@@ -3852,103 +3852,103 @@ Single Window Declaration,单一窗口申报,customs,报关流程,published
 One-stop Clearance,一站式通关,customs,报关流程,pending
 Electronic Declaration,电子申报,customs,报关流程,pending
 UN/EDIFACT Message,联合国电子报文,customs,报关流程,pending
-CUSCAR Message,舱单报文,customs,报关流程,pending
-CUSDEC Message,报关报文,customs,报关流程,pending
-XML Message Standard,XML报文标准,customs,报关流程,pending
-Digital Signature Filing,数字签名申报,customs,报关流程,pending
-Mobile Declaration,移动端申报,customs,报关流程,pending
-Self-service Terminal,自助终端申报,customs,报关流程,pending
-Annual Declaration,年度申报,customs,报关流程,pending
-Periodic Summary Declaration,定期汇总申报,customs,报关流程,pending
-Batch Filing,批量申报,customs,报关流程,pending
-Entry Type 01,正式进口报关,customs,报关流程,pending
-Supervision Mode Code,监管方式代码,customs,报关流程,pending
-Compensation Trade Declaration,补偿贸易申报,customs,报关流程,pending
-Sample Declaration,样品申报,customs,报关流程,pending
-Advertisement Goods Declaration,广告品申报,customs,报关流程,pending
-Personal Effects Declaration,个人物品申报,customs,报关流程,pending
-Gift Declaration,礼品申报,customs,报关流程,pending
-Repair Goods Declaration,修理物品申报,customs,报关流程,pending
-Lease Goods Declaration,租赁货物申报,customs,报关流程,pending
-Exhibition Goods Declaration,展览品申报,customs,报关流程,pending
-Transit Documentation,过境单证,customs,报关流程,pending
-T2 Document,T2过境单证,customs,报关流程,pending
-Transit Accompanying Document,过境随附单证,customs,报关流程,pending
-Single Administrative Document,统一行政单证,customs,报关流程,pending
-Accompanying Document,随附单证,customs,报关流程,pending
-Supporting Document,随附单据,customs,报关流程,pending
-Non-preferential Certificate of Origin,非优惠原产地证,customs,报关流程,pending
-Inspection Application,报检,customs,报关流程,pending
-Declaration Elements,申报要素,customs,报关流程,pending
-Standard Declaration Element,规范申报要素,customs,报关流程,pending
-Brand Declaration,品牌申报,customs,报关流程,pending
-Model Declaration,型号申报,customs,报关流程,pending
-Material Declaration,材质申报,customs,报关流程,pending
-Function Declaration,功能申报,customs,报关流程,pending
-Usage Declaration,用途申报,customs,报关流程,pending
-Principle of Good Faith,诚信申报原则,customs,报关流程,pending
-Prior Voluntary Declaration,先行纠正申报,customs,报关流程,pending
-Corrective Declaration,补充申报,customs,报关流程,pending
-Price Inquiry Declaration,价格质疑申报,customs,报关流程,pending
-Administrative Penalty,行政处罚,customs,报关流程,pending
-Smuggling Case,走私案件,customs,报关流程,pending
-Penalty Decision,处罚决定书,customs,报关流程,pending
-Hearing Application,听证申请,customs,报关流程,pending
-Administrative Litigation,行政诉讼,customs,报关流程,pending
-Harmonized System Nomenclature,协调制度目录,customs,归类规则,pending
-HS Section,HS类,customs,归类规则,pending
-HS Chapter,HS章,customs,归类规则,pending
-HS Heading,HS品目,customs,归类规则,pending
-HS Subheading,HS子目,customs,归类规则,pending
-HS Note,HS注释,customs,归类规则,pending
-Chapter Note,章注释,customs,归类规则,pending
-Section Note,类注释,customs,归类规则,pending
-Subheading Note,子目注释,customs,归类规则,pending
-Explanatory Note,解释性注释,customs,归类规则,pending
-HSN Code,协调制度编码,customs,归类规则,pending
-Customs Tariff Schedule,海关税则目录,customs,归类规则,pending
-Import Tariff Schedule,进口税则,customs,归类规则,pending
-Export Tariff Schedule,出口税则,customs,归类规则,pending
-Statistical Nomenclature,统计目录,customs,归类规则,pending
-Combined Nomenclature,合并目录,customs,归类规则,pending
-TARIC Code,欧盟综合税则编码,customs,归类规则,pending
-Schedule B Number,美国出口统计编码,customs,归类规则,pending
-HTS Number,美国协调税则编码,customs,归类规则,pending
-Tariff Line,税目,customs,归类规则,pending
-National Subheading,本国子目,customs,归类规则,pending
-8-digit Code,八位编码,customs,归类规则,pending
-10-digit Code,十位编码,customs,归类规则,pending
-13-digit Code,十三位编码,customs,归类规则,pending
-Classification General Rule 1,归类总规则一,customs,归类规则,pending
-Specific Description Priority,具体列名优先,customs,归类规则,pending
-Essential Character,基本特征,customs,归类规则,pending
-Gist of Product,货品实质,customs,归类规则,pending
-Last Heading Priority,最后品目优先,customs,归类规则,pending
-Most Specific Description,最具体描述,customs,归类规则,pending
-Set Classification,成套货品归类,customs,归类规则,pending
-Retail Set,零售成套货品,customs,归类规则,pending
-Composite Goods,复合货品,customs,归类规则,pending
-Mixture Classification,混合物归类,customs,归类规则,pending
-Unassembled Goods,散件货物,customs,归类规则,pending
-Disassembled Goods,拆散件归类,customs,归类规则,pending
-Flat-pack Furniture,板式组装家具,customs,归类规则,pending
-Knocked-down Kit,拆装组件,customs,归类规则,pending
-Composite Packaging Classification,复合包装归类,customs,归类规则,pending
-Packaging Material Classification,包装材料归类,customs,归类规则,pending
-Container Classification,集装箱归类,customs,归类规则,pending
-Reusable Container,可重复使用容器,customs,归类规则,pending
-Spare Parts Classification,备件归类,customs,归类规则,pending
-Parts and Accessories,零部件归类,customs,归类规则,pending
-Machine Parts Heading,机器零件品目,customs,归类规则,pending
-Multi-function Machine,多功能机器归类,customs,归类规则,pending
-Principal Function,主要功能,customs,归类规则,pending
-Functional Unit,功能机组,customs,归类规则,pending
-By-product Classification,副产品归类,customs,归类规则,pending
-Waste and Scrap Classification,废碎料归类,customs,归类规则,pending
-Waste of Chapter,某章废物,customs,归类规则,pending
-Residue Classification,残余物归类,customs,归类规则,pending
-Similar Goods Heading,类似货品品目,customs,归类规则,pending
-Analogous Application,类比适用,customs,归类规则,pending
+CUSCAR Message,舱单报文,customs,报关流程,published
+CUSDEC Message,报关报文,customs,报关流程,published
+XML Message Standard,XML报文标准,customs,报关流程,published
+Digital Signature Filing,数字签名申报,customs,报关流程,published
+Mobile Declaration,移动端申报,customs,报关流程,published
+Self-service Terminal,自助终端申报,customs,报关流程,published
+Annual Declaration,年度申报,customs,报关流程,published
+Periodic Summary Declaration,定期汇总申报,customs,报关流程,published
+Batch Filing,批量申报,customs,报关流程,published
+Entry Type 01,正式进口报关,customs,报关流程,published
+Supervision Mode Code,监管方式代码,customs,报关流程,published
+Compensation Trade Declaration,补偿贸易申报,customs,报关流程,published
+Sample Declaration,样品申报,customs,报关流程,published
+Advertisement Goods Declaration,广告品申报,customs,报关流程,published
+Personal Effects Declaration,个人物品申报,customs,报关流程,published
+Gift Declaration,礼品申报,customs,报关流程,published
+Repair Goods Declaration,修理物品申报,customs,报关流程,published
+Lease Goods Declaration,租赁货物申报,customs,报关流程,published
+Exhibition Goods Declaration,展览品申报,customs,报关流程,published
+Transit Documentation,过境单证,customs,报关流程,published
+T2 Document,T2过境单证,customs,报关流程,published
+Transit Accompanying Document,过境随附单证,customs,报关流程,published
+Single Administrative Document,统一行政单证,customs,报关流程,published
+Accompanying Document,随附单证,customs,报关流程,published
+Supporting Document,随附单据,customs,报关流程,published
+Non-preferential Certificate of Origin,非优惠原产地证,customs,报关流程,published
+Inspection Application,报检,customs,报关流程,published
+Declaration Elements,申报要素,customs,报关流程,published
+Standard Declaration Element,规范申报要素,customs,报关流程,published
+Brand Declaration,品牌申报,customs,报关流程,published
+Model Declaration,型号申报,customs,报关流程,published
+Material Declaration,材质申报,customs,报关流程,published
+Function Declaration,功能申报,customs,报关流程,published
+Usage Declaration,用途申报,customs,报关流程,published
+Principle of Good Faith,诚信申报原则,customs,报关流程,published
+Prior Voluntary Declaration,先行纠正申报,customs,报关流程,published
+Corrective Declaration,补充申报,customs,报关流程,published
+Price Inquiry Declaration,价格质疑申报,customs,报关流程,published
+Administrative Penalty,行政处罚,customs,报关流程,published
+Smuggling Case,走私案件,customs,报关流程,published
+Penalty Decision,处罚决定书,customs,报关流程,published
+Hearing Application,听证申请,customs,报关流程,published
+Administrative Litigation,行政诉讼,customs,报关流程,published
+Harmonized System Nomenclature,协调制度目录,customs,归类规则,published
+HS Section,HS类,customs,归类规则,published
+HS Chapter,HS章,customs,归类规则,published
+HS Heading,HS品目,customs,归类规则,published
+HS Subheading,HS子目,customs,归类规则,published
+HS Note,HS注释,customs,归类规则,published
+Chapter Note,章注释,customs,归类规则,published
+Section Note,类注释,customs,归类规则,published
+Subheading Note,子目注释,customs,归类规则,published
+Explanatory Note,解释性注释,customs,归类规则,published
+HSN Code,协调制度编码,customs,归类规则,published
+Customs Tariff Schedule,海关税则目录,customs,归类规则,published
+Import Tariff Schedule,进口税则,customs,归类规则,published
+Export Tariff Schedule,出口税则,customs,归类规则,published
+Statistical Nomenclature,统计目录,customs,归类规则,published
+Combined Nomenclature,合并目录,customs,归类规则,published
+TARIC Code,欧盟综合税则编码,customs,归类规则,published
+Schedule B Number,美国出口统计编码,customs,归类规则,published
+HTS Number,美国协调税则编码,customs,归类规则,published
+Tariff Line,税目,customs,归类规则,published
+National Subheading,本国子目,customs,归类规则,published
+8-digit Code,八位编码,customs,归类规则,published
+10-digit Code,十位编码,customs,归类规则,published
+13-digit Code,十三位编码,customs,归类规则,published
+Classification General Rule 1,归类总规则一,customs,归类规则,published
+Specific Description Priority,具体列名优先,customs,归类规则,published
+Essential Character,基本特征,customs,归类规则,published
+Gist of Product,货品实质,customs,归类规则,published
+Last Heading Priority,最后品目优先,customs,归类规则,published
+Most Specific Description,最具体描述,customs,归类规则,published
+Set Classification,成套货品归类,customs,归类规则,published
+Retail Set,零售成套货品,customs,归类规则,published
+Composite Goods,复合货品,customs,归类规则,published
+Mixture Classification,混合物归类,customs,归类规则,published
+Unassembled Goods,散件货物,customs,归类规则,published
+Disassembled Goods,拆散件归类,customs,归类规则,published
+Flat-pack Furniture,板式组装家具,customs,归类规则,published
+Knocked-down Kit,拆装组件,customs,归类规则,published
+Composite Packaging Classification,复合包装归类,customs,归类规则,published
+Packaging Material Classification,包装材料归类,customs,归类规则,published
+Container Classification,集装箱归类,customs,归类规则,published
+Reusable Container,可重复使用容器,customs,归类规则,published
+Spare Parts Classification,备件归类,customs,归类规则,published
+Parts and Accessories,零部件归类,customs,归类规则,published
+Machine Parts Heading,机器零件品目,customs,归类规则,published
+Multi-function Machine,多功能机器归类,customs,归类规则,published
+Principal Function,主要功能,customs,归类规则,published
+Functional Unit,功能机组,customs,归类规则,published
+By-product Classification,副产品归类,customs,归类规则,published
+Waste and Scrap Classification,废碎料归类,customs,归类规则,published
+Waste of Chapter,某章废物,customs,归类规则,published
+Residue Classification,残余物归类,customs,归类规则,published
+Similar Goods Heading,类似货品品目,customs,归类规则,published
+Analogous Application,类比适用,customs,归类规则,published
 Commercial Homogeneity,商业同一性,customs,归类规则,pending
 Binding Ruling Database,裁定数据库,customs,归类规则,pending
 Classification Opinion,归类意见,customs,归类规则,pending

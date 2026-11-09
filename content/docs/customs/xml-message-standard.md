@@ -1,7 +1,7 @@
 ---
 title: "XML Message Standard"
 linkTitle: "XML报文标准"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "报关流程"
 ---
@@ -9,32 +9,37 @@ subcategory: "报关流程"
 > 📖 分类：**关务合规** / 报关流程　｜　XML Message Standard = XML报文标准
 
 ## 定义
-XML Message Standard（可扩展标记语言报文标准）是国际物流与供应链领域中，用于规范各方电子数据交换（EDI）格式的技术标准。它利用标签对数据进行层级化封装，使不同系统能够准确无误地解析和传输货物状态、舱单及报关等关键信息。
+
+XML Message Standard（可扩展标记语言报文标准）是国际货运与物流行业中，用于规范不同企业系统间电子数据交换的统一格式规范。它通过标签定义数据结构，使船公司、货代、海关和收发货人能够无障碍地自动传输订舱、运单和状态等业务信息。
 
 ## 详细说明
-- 使用场景：广泛应用于船公司、航空公司、海关、货代及收发货人之间的系统对接。常用于发送订舱（Booking）、提单确认（Shipping Instruction）、集装箱状态更新（Status Message）以及电子舱单（Manifest）申报。
-- 关键规则：该标准通常基于各行业组织（如SMDG、UN/CEFACT）发布的XML Schema定义（XSD）来约束数据结构。报文必须符合严格的标签闭合与数据类型要求，任何格式错误都会导致系统解析失败并返回技术性回执（Error ACK）。
-- 实务注意事项：在系统集成对接前，务必向船公司或服务商索取最新的XML Implementation Guide（实施指南）。由于不同平台对自定义字段的容忍度不同，上线前必须进行充分的端到端（End-to-End）测试，以避免因版本不一致导致报文被拒收。
+
+- 使用场景：广泛应用于国际货代与船公司、航空公司、海关及海外代理之间的系统直连，常见于电子提单（eBL）、舱单申报（Manifest）、海关预申报（如AMS/EN24）以及状态追踪。
+- 关键规则与特点：采用人类可读的标记语言，支持高度自定义但必须严格遵守特定行业的Schema（如EDIFACT XML或CXML标准）；数据传输具备良好的跨平台兼容性和可扩展性。
+- 实务注意事项：在实际对接中，各方必须严格遵循统一的报文版本号和字段校验规则，任何标签的拼写错误或格式不符都会导致报文解析失败，进而引发退单或清关延误。
 
 ## 中英对照
 
-| 中文表达 | 英文原称 |
+| 中文表达 | 英文对应词 |
 | :--- | :--- |
 | XML报文标准 | XML Message Standard |
 | 电子数据交换 | Electronic Data Interchange (EDI) |
-| 实施指南 | Implementation Guide |
-| 模式定义 | XML Schema Definition (XSD) |
-| 状态报文 | Status Message (SM) |
+| 数据结构定义 | XML Schema Definition (XSD) |
+| 报文解析 | Message Parsing |
+| 接口对接 | API Integration / Interface Connection |
 
 ## 相关术语
-- API (Application Programming Interface)
-- EDI (Electronic Data Interchange)
-- UN/EDIFACT (United Nations Electronic Data Interchange for Administration, Commerce and Transport)
-- JSON (JavaScript Object Notation)
+
+- EDI（电子数据交换）
+- API（应用程序接口）
+- JSON（JavaScript对象表示法）
+- Schema（模式定义）
+- Manifest（舱单）
 
 ## 常见误区
-- 认为XML报文标准就是EDI。实际上，XML只是现代EDI实现的一种技术载体和格式标准，传统的EDI还包括基于UN/EDIFACT等平铺文本的报文标准。
-- 只要标签对齐就一定能传输成功。忽略了业务逻辑校验，即使XML语法完全正确，如果里面的舱单数据或港口代码不符合海关规范，依然会被系统拒绝。
+
+- 认为XML报文标准就是EDI。实际上，XML是现代EDI的一种表现形式和技术替代方案，传统的EDI通常采用更古板的固定长度文本格式（如EDIFACT UN/EDIFACT）。
+- 以为只要格式是XML就能直接对接。不同平台使用的XSD（模式定义）往往存在差异，必须根据合作方的具体技术规范进行定制开发和测试。
 
 ---
 

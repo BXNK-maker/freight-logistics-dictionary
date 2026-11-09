@@ -1,7 +1,7 @@
 ---
 title: "HTS Number"
 linkTitle: "美国协调税则编码"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "归类规则"
 ---
@@ -10,34 +10,34 @@ subcategory: "归类规则"
 
 ## 定义
 
-HTS Number 是 Harmonized Tariff Schedule Number（美国协调税则编码）的缩写，是美国海关用于进口货物分类、确定关税税率及统计贸易数据的法定编码。它基于国际通用的HS编码原则，但在第7位和第8位（甚至更后）针对美国本土需求进行了细分。
+HTS Number 是 Harmonized Tariff Schedule Number（美国协调税则编码）的缩写，是美国海关用于进口货物分类和确定关税税率的标准化数字代码。该编码基于国际通用的 HS Code（协调制度编码），但在前六位的基础上扩展至 10 位，以适应美国的具体税收与统计需求。
 
 ## 详细说明
 
-- 使用场景：所有进口到美国的商业货物，均必须在报关单据（如商业发票、提单、报关行申报文件）中准确申报对应的 HTS Number。
-- 关键规则或数字：美国 HTS Code 通常为 10 位数字。前 6 位是国际通用的 HS 编码，第 7、8 位是美国海关的税则分类位，第 9、10 位是统计后缀。正确的归类直接决定了货物的关税成本、反倾销/反补贴税（AD/CVD）以及是否需要特定监管证件。
-- 实务注意事项：发货人和收货人不能随意猜测编码。如果申报错误，轻则导致海关查验、清关延误、罚款，重则被视为走私或蓄意逃税。如遇复杂产品，建议申请美国海关的官方约束性裁决（Binding Ruling）。
+- 使用场景：适用于所有出口到美国并需要向美国海关与边境保护局（CBP）进行清关申报的商业货物。
+- 关键规则或数字：该编码共计 10 位数。前 6 位为国际通用的 HS Code，第 7-8 位由美国国际贸易委员会（USITC）设定用于关税分类，第 9-10 位则是用于统计或特殊管理目的的细分码。
+- 实务注意事项：发货人或收货人必须在商业发票和装箱单上准确提供 HTS Number。如果编码归类错误，轻则导致清关延误、海关查验，重则面临罚款、补缴关税甚至货物被扣留的风险。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 美国协调税则编码 | Harmonized Tariff Schedule Number (HTS Number) |
-| 关税税率 | Duty Rate |
-| 约束性裁决 | Binding Ruling |
-| 海关申报 | Customs Declaration |
+| 协调制度编码 | Harmonized System Code (HS Code) |
+| 美国国际贸易委员会 | United States International Trade Commission (USITC) |
+| 进口关税 | Import Duty |
 
 ## 相关术语
 
 - HS Code（协调制度编码）
-- CBP（美国海关与边境保护局）
-- Duty（关税）
-- Binding Ruling（约束性裁决）
+- CBP (U.S. Customs and Border Protection)（美国海关与边境保护局）
+- Commercial Invoice（商业发票）
+- Tariff Rate（关税税率）
 
 ## 常见误区
 
-- 误区一：认为 HTS Number 和中国出口的 HS 编码完全一样。实际上，两者的前 6 位虽然相同，但后几位因国家而异，美国进口时必须使用 10 位的 HTS Code，不能直接照搬国内的 8 位或 10 位出口编码。
-- 误区二：认为 HTS Number 只影响关税高低。它还决定了货物是否面临配额限制、301条款等额外加征关税，或是需要 FDA、FCC 等其他政府机构（PGA）的合规认证。
+- 认为 HTS Number 和 HS Code 完全一样：虽然两者前六位相同，但 HTS Number 是 10 位，专门针对美国市场，不能与全球其他国家的 8 位或 10 位进出口税则号混淆。
+- 凭经验随意归类：由于产品材质、用途的微小差异都会导致 HTS Number 发生变化，不能仅凭产品外观自行猜测，必须通过权威的海关裁决或咨询专业报关行来确定。
 
 ---
 

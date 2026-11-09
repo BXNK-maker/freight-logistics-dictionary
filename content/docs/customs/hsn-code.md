@@ -1,7 +1,7 @@
 ---
 title: "HSN Code"
 linkTitle: "协调制度编码"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "归类规则"
 ---
@@ -10,34 +10,35 @@ subcategory: "归类规则"
 
 ## 定义
 
-HSN Code（英文全称：Harmonized System Nomenclature Code，中文通常称为“协调制度编码”）是由世界海关组织（WCO）制定的一套多位数字国际贸易商品分类编码系统。它用于在进出口报关时对全球各类商品进行标准化归类，是国际货运、关税征收和贸易统计的基础语言。
+HSN Code（英文全称：Harmonized System Nomenclature Code，中文通常称为协调制度编码）是国际海关组织（WCO）制定的一种多用途国际贸易商品分类编码系统。它通过一套标准化数字代码，对进出口货物进行系统化归类，是全球海关征税、统计和监管的基础语言。
 
 ## 详细说明
 
-- 使用场景：广泛应用于国际贸易的商业发票、装箱单、进出口报关单据以及原产地证中，是海关查验和核算关税的核心依据。
-- 关键规则或数字：HSN Code 通常由 6 位国际标准数字组成（前2位代表章，中2位代表节，后2位代表条），各国海关在此基础上可根据本国需要延伸至 8 位或 10 位细分编码。
-- 实务注意事项：发货人必须提供准确的 HSN Code，因为归类错误会导致清关延误、海关罚款，甚至影响目的港关税的准确计算和退税流程。
+- 使用场景：主要用于进出口报关、制作商业发票与装箱单、确定海关关税税率、申请原产地证书以及海关贸易数据统计。
+- 关键规则或数字：HSN Code 通常由 6 位国际标准数字组成，前两位代表章节（Chapter），中间两位代表品目（Heading），后两位代表子目（Subheading）。各国海关在此基础上通常会延伸至 8 位或 10 位以进行更细致的税则管理。
+- 实务注意事项：发货人必须提供准确的 HSN Code。若归类错误，轻则导致清关延误、产生海关罚款，重则因涉嫌逃关税或申报不实面临法律风险。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 协调制度编码 / 商品编码 | HSN Code / Harmonized System Code |
-| 商品归类 | Commodity Classification |
-| 海关编码 | Customs Code |
-| 关税税率 | Tariff Rate |
+| 海关编码 / 税则号列 | Customs Tariff Number / HS Code |
+| 商品归类 | Commodity Classification / Tariff Classification |
+| 进口关税 | Import Duty / Customs Tariff |
 
 ## 相关术语
 
-- HS Code（协调制度代码）
-- Tariff Classification（税则归类）
-- Customs Declaration（海关申报）
-- Duty and Tax（关税与税收）
+- `HS Code（协调制度代码）`
+- `Tariff Schedule（关税表）`
+- `Customs Clearance（清关）`
+- `Certificate of Origin（原产地证书）`
+- `Commercial Invoice（商业发票）`
 
 ## 常见误区
 
-- 误以为 HSN Code 全球完全一致：虽然前 6 位全球通用，但 8 位或 10 位的详细编码在不同国家和地区可能存在差异，必须按目的港标准核实。
-- 认为 HSN Code 可以随意简化：为了图省事使用模糊的编码进行申报，极易引发海关稽查与合规风险。
+- 认为全球所有国家的商品编码完全一致：实际上，虽然前 6 位全球通用，但 8 位或 10 位的具体扩展码因国而异，需查阅目的国最新税则。
+- 随意套用其他公司的编码：不同材质、用途的同类产品，其 HSN Code 可能完全不同，不能简单复制。
 
 ---
 

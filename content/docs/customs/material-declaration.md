@@ -1,7 +1,7 @@
 ---
 title: "Material Declaration"
 linkTitle: "材质申报"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "报关流程"
 ---
@@ -10,34 +10,34 @@ subcategory: "报关流程"
 
 ## 定义
 
-材质申报（英文全称：Material Declaration）是指货物出口或进口时，相关方（通常是制造商或发货人）向监管机构或买方提供的一份正式文件，详细列明产品所使用的原材料及化学成分。该申报旨在证明产品符合国际环保、安全及合规标准（如RoHS、REACH等）。
+Material Declaration（材质申报）是指货物发运前，由制造商或出口商提供的、用以详细说明产品所含材料及化学成分的官方声明文件。该文件主要用于证明货物符合国际环保、安全及特定行业的合规标准。
 
 ## 详细说明
 
-- 使用场景：主要用于电子电器、汽车零部件、化工品及含有特定材料（如电池、塑料、金属）的工业品进出口报关和合规审查。
-- 关键规则与数字：常见于欧盟REACH法规或RoHS指令的要求中，申报文件通常需要精确列出物质的化学文摘社登记号（CAS No.）及重量百分比（通常要求阈值低于0.1%或符合特定限量标准）。
-- 实务注意事项：货代与外贸企业在订舱前务必确认目的国海关或买家是否强制要求此文件；若申报数据缺失或虚报，可能导致货物被海关扣留、退运甚至面临高额罚款。
+- 使用场景：广泛应用于船舶制造、汽车零部件、电子电器以及涉及危险品运输的化工行业。船公司和海关通常要求提供该文件，以确保货物不会对海洋环境或运输安全造成威胁。
+- 关键规则与数字：在修造船领域，依据 IMO（国际海事组织）相关公约，涉及交付给船舶使用的特定材料必须提供完整的 MD，且需与有害材料清单（IHM）相对应，通常涉及石棉、多氯联苯等有害物质的零检出或限量要求。
+- 实务注意事项：货代和外贸人员在操作时，需确保申报表由具备资质的机构或生产商出具并签字盖章，避免因瞒报、错报材料成分导致货物在目的港被海关扣留、退运或产生高额罚款。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 材质申报 | Material Declaration |
-| 材料安全数据表 | Material Safety Data Sheet (MSDS) |
-| 成分明细表 | Composition Declaration |
-| 化学品安全技术说明书 | Safety Data Sheet (SDS) |
+| 材质申报 | Material Declaration (MD) |
+| 有害材料清单 | Inventory of Hazardous Materials (IHM) |
+| 国际海事组织 | International Maritime Organization (IMO) |
+| 符合性声明 | Declaration of Conformity |
 
 ## 相关术语
 
-- `MSDS (Material Safety Data Sheet)`
-- `RoHS Compliance (欧盟RoHS指令符合性声明)`
-- `REACH Regulation (欧盟REACH法规)`
-- `Dangerous Goods Declaration (危险品申报单)`
+- `Inventory of Hazardous Materials（有害材料清单）`
+- `Safety Data Sheet（安全技术说明书）`
+- `Certificate of Analysis（分析证书）`
+- `Restriction of Hazardous Substances（有害物质限制指令）`
 
 ## 常见误区
 
-- 误区一：认为“材质申报”等同于“产品说明书”。实际上，材质申报专注于化学成分与环保合规性，侧重于有害物质管控，而非产品的功能介绍。
-- 误区二：认为只要货物安全就无需提供。部分国家针对普通工业品和消费品也有严格的环保法规要求，不提供材质申报可能导致清关延误。
+- 误区一：认为 Material Declaration 只是形式文件，可以随意填写。实际上，海关和船公司会进行抽查，虚假申报将面临严重的法律和经济处罚。
+- 误区二：将 Material Declaration 与 MSDS 混为一谈。MD 侧重于整机的材料构成及有害物质清单，而 MSDS 侧重于化学品的安全理化性质及应急处理。
 
 ---
 

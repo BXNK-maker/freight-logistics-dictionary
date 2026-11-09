@@ -1,7 +1,7 @@
 ---
 title: "Principal Function"
 linkTitle: "主要功能"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "归类规则"
 ---
@@ -9,39 +9,31 @@ subcategory: "归类规则"
 > 📖 分类：**关务合规** / 归类规则　｜　Principal Function = 主要功能
 
 ## 定义
-
-Principal Function（主要功能）是指物流系统、供应链节点或特定运输设备在整个运作流程中所承担的核心职责和基本效能。在国际货运与供应链管理中，明确各环节的主要功能有助于优化资源配置、界定责任并提升整体物流效率。
-
+Principal Function（主要功能）是指物流系统、供应链节点或特定运输工具在整个货运流程中所承担的核心职责与基本作用。在国际货运代理实务中，明确各参与方或设备的 Principal Function 有助于合理分配资源、界定法律责任并优化操作流程。
 
 ## 详细说明
-
-- 使用场景：广泛应用于仓库管理、运输规划、海关申报、供应链系统设计以及第三方物流（3PL）服务协议的界定中。
-- 关键规则：在制定物流方案时，必须优先保障核心节点的主功能发挥，避免因功能混淆导致作业效率下降；例如，保税仓库的主功能是保税仓储与监管，而非长期加工制造。
-- 实务注意事项：在与海外代理或承运人签订服务合同（SLA）时，务必清晰界定各方操作的主功能边界，防止出现服务盲区或责任推诿。
-
+- 使用场景：常用于海关申报、运输合同条款界定、仓库资质划分以及供应链软件系统权限配置中。
+- 关键规则或数字：在国际贸易和海关监管中，某一实体或设备的 Principal Function 通常是判定其适用税率、监管级别或海关编码（HS Code）的关键依据，偏离主营功能可能导致违规风险。
+- 实务注意事项：在签订第三方物流（3PL）服务合同时，必须清晰界定服务商的 Principal Function 是纯粹的仓储保管、干线运输，还是包含增值服务的供应链管理，以避免理赔时的责任盲区。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 主要功能 | Principal Function |
-| 核心业务 | Core Business |
-| 增值服务 | Value-Added Service |
-| 职责范围 | Scope of Responsibility |
-
+| 核心职责 | Core Responsibility |
+| 经营范围 | Scope of Business |
+| 服务定位 | Service Positioning |
 
 ## 相关术语
-
-- Core Competency（核心竞争力）
-- Supply Chain Management（供应链管理）
-- Third-Party Logistics（第三方物流）
-- Level of Service（服务水平）
-
+- `Core Competency（核心竞争力）`
+- `Scope of Work（工作范围）`
+- `Operational Process（操作流程）`
+- `Value-Added Service（增值服务）`
 
 ## 常见误区
-
-- 误区一：认为主要功能可以随意拓展，导致物流节点功能杂乱，失去了专业化分工的优势。
-- 误区二：将主要功能与辅助功能（如包装、贴标）混淆，在计费和责任划分时产生争议。
+- 混淆主要功能与附属功能：误将仓库的临时装卸等辅助操作当作 Principal Function，导致在发生货损时无法准确追溯合同责任。
+- 忽视动态变化：认为物流企业的 Principal Function 一成不变，忽略了随着业务拓展（如传统货代转型为综合物流服务商）其核心功能需要及时在合同与资质中进行更新。
 
 ---
 

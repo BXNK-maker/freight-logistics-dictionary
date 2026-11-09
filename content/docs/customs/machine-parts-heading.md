@@ -1,7 +1,7 @@
 ---
 title: "Machine Parts Heading"
 linkTitle: "机器零件品目"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "归类规则"
 ---
@@ -9,37 +9,31 @@ subcategory: "归类规则"
 > 📖 分类：**关务合规** / 归类规则　｜　Machine Parts Heading = 机器零件品目
 
 ## 定义
-
-Machine Parts Heading（机器零件品目）是指在国际贸易和海关归类中，专门用于归纳和申报各类机械设备零配件的特定税则号列或品目。它帮助海关和货代准确识别货物的法定属性，以确定适用的关税税率、监管条件及检验检疫要求。
+Machine Parts Heading（机器零件品目）是指在国际贸易海关编码（HS Code）归类中，专用于归类各种机械设备零部件的法定税则目。它涵盖了绝大多数非通用类机器专属零配件，是进出口报关时确定关税税率和监管条件的关键依据。
 
 ## 详细说明
-
-- 使用场景：广泛应用于机械制造、汽车工业、电子设备等行业的进出口报关环节，特别是当单票货物包含大量不同种类的螺丝、齿轮、轴承等通用或专用零部件时。
-- 关键规则或数字：通常遵循《协调制度》（HS Code）归类总规则，优先按零件的专属性归类；若属于通用零件（如螺栓、弹簧），则需归入对应的通用零件品目，不受具体机器种类的限制。
-- 实务注意事项：在制单时应详细申报零件的材质、具体结构及适用的机器型号，避免因品目归类过于笼统（如仅申报为“机器零件”）而导致海关质疑、查验滞港或产生关税追缴风险。
+- 使用场景：适用于机械设备、工业生产线、运输工具的零配件出口或进口报关环节，当企业申报纯机械零件而非整机时必须查阅此品目。
+- 关键规则或数字：HS编码体系中，通常第84章和第85章包含了绝大多数的机械、电气零件品目。多数具体零件的编码由四位税目（Heading）和后四位子目组成，具体归类需严格遵循《海关进出口税则》类注、章注及子目注释。
+- 实务注意事项：报关时必须准确区分“通用零件”（如螺丝、弹簧，通常归入第73章）与“专用机器零件”，混淆两者会导致海关归类质疑、补税甚至面临行政处罚。
 
 ## 中英对照
-
-| 中文表达 | 英文表达 |
+| 英文表达 | 中文翻译 |
 | :--- | :--- |
-| 机器零件品目 | Machine Parts Heading |
-| 专用零件 | Dedicated Parts / Special Parts |
-| 通用零件 | General Purpose Parts |
-| 海关商品编码 | Harmonized System Code (HS Code) |
-| 品目归类 | Tariff Classification |
+| Machine Parts Heading | 机器零件品目 |
+| HS Code Classification | 海关编码归类 |
+| Dedicated Spare Parts | 专用备件 |
+| General Purpose Parts | 通用零件 |
+| Tariff Subheading | 税则子目 |
 
 ## 相关术语
-
-- HS Code（商品名称及编码协调制度）
-- Tariff Classification（海关归类）
-- General Rules for Interpretation（归类总规则）
-- General Parts of Base Metal（贱金属通用零件）
-- Customs Declaration（海关申报）
+- `HS Code (Harmonized System Code)`
+- `Customs Declaration (海关申报)`
+- `General Purpose Parts (通用零件)`
+- `Tariff Classification (关税归类)`
 
 ## 常见误区
-
-- 误以为所有机器上的零件都可以随意归入同一个机器零件品目，忽略了通用零件（如标准紧固件）需按材质和品目单独归类的规则。
-- 报关时仅提供笼统的“Machine Parts”描述，未注明具体用途和材质，导致海关无法核对税则而引发清关延误。
+- 认为只要是机器上拆下来的东西都可以归入机器零件品目，忽略了通用零件（如轴承、紧固件、密封件）需按材料属性归类的特殊规定。
+- 将成套散装件（SKD/CKD）直接按普通机器零件品目申报，而未意识到可能触发“视同整机归类”的海关规则。
 
 ---
 

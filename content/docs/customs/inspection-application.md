@@ -1,7 +1,7 @@
 ---
 title: "Inspection Application"
 linkTitle: "报检"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "报关流程"
 ---
@@ -9,36 +9,33 @@ subcategory: "报关流程"
 > 📖 分类：**关务合规** / 报关流程　｜　Inspection Application = 报检
 
 ## 定义
-
-Inspection Application（报检）是指对外贸易中，货主或其代理人向出入境检验检疫机构（现海关）申报，对进出口货物进行法定检验、检疫和监管的书面申请行为。它是国际物流通关流程中的重要前置环节，直接影响货物能否顺利装运或提货。
+报检（Inspection Application）是指对外贸易中，货主或其代理人向出入境检验检疫机构（现海关）申请对进出口货物进行法定检验检疫的行政作业流程。它是确保货物符合输入国或输出国安全、卫生、环保等强制性标准的重要前置环节。
 
 ## 详细说明
-
-- 使用场景：主要适用于列入《出入境检验检疫机构实施检验检疫的进出境商品目录》的货物，如食品、动植物产品、危险品、成套设备等，或输入国/贸易合同有特殊检验要求的货物。
-- 关键规则或数字：报检通常须在货物报关前完成。企业需通过单一窗口或商检系统录入信息，法定检验检疫货物的抽检率根据商品风险等级动态调整，未取得通关单的货物一律不予放行。
-- 实务注意事项：货代在操作时必须核对“报检单”与“箱单、发票、合同”等核心单证的一致性，尤其是HS编码、品名、重量及毛重等关键数据，避免因数据错误导致通关延误或海关退单。
+- 使用场景：主要适用于列入《法检目录》的进出口商品、动植物及其产品、食品化妆品、危险货物以及需要办理装运前检验的二手设备等。
+- 关键规则或数字：根据海关监管要求，法定出口商品必须先完成报检并取得放行单或换证凭条后，方可办理海关报关手续；进口货物则需在口岸海关报检后实施查验，未经检验合格的不得销售或使用。
+- 实务注意事项：货代和外贸人员必须在货物装运前或到港后规定时效内提交单据（如合同、发票、箱单、厂检单等），确保品名、HS编码、数量及规格与实际货物完全一致，避免因错报、漏报导致海关扣货或产生滞港费。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 报检 / 检验检疫申请 | Inspection Application |
-| 入境货物品质证明 | Certificate of Inspection for Import |
-| 出境货物通关单 | Clearance Sheet for Export Commodities |
-| 检验检疫机构 | Inspection and Quarantine Organization |
+| 出入境检验检疫 | Entry-Exit Inspection and Quarantine |
+| 通关单 / 换证凭条 | Customs Clearance Form / Interchange Memo |
+| 法检目录 | Catalog of commodities subject to inspection |
+| 抽样检验 | Sampling Inspection |
 
 ## 相关术语
-
-- `Commodity Inspection（商品检验）`
-- `Customs Declaration（报关）`
-- `Customs Clearance（清关）`
-- `HS Code（海关商品编码）`
-- `Quarantine（检疫）`
+- `CIQ (China Inspection and Quarantine)`
+- `HS Code (Harmonized System Code)`
+- `Customs Declaration (报关)`
+- `Certificate of Origin (原产地证书)`
+- `Fumigation (熏蒸)`
 
 ## 常见误区
-
-- 误区一：认为报检和报关是同一个环节。实际上报检通常在报关前进行，必须先取得检验检疫部门的通关单或放行信息后，海关才会接受报关。
-- 误区二：所有出口货物都需要报检。只有法检商品目录内的货物以及买卖双方合同约定的货物才需要进行报检。
+- 误区一：认为报检和报关是同一个流程。实际上，报检属于前置行政审批，通常需“先报检、后报关”（特殊属地查检模式除外），两者由海关不同的业务条线审核。
+- 误区二：只要货物能装柜出口，就不需要关注是否属于法检货物。忽略法检会导致货物无法取得通关单，从而在海关系统被卡住，甚至面临海关行政处罚。
 
 ---
 

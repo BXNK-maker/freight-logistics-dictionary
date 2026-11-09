@@ -1,7 +1,7 @@
 ---
 title: "Disassembled Goods"
 linkTitle: "拆散件归类"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "归类规则"
 ---
@@ -9,37 +9,32 @@ subcategory: "归类规则"
 > 📖 分类：**关务合规** / 归类规则　｜　Disassembled Goods = 拆散件归类
 
 ## 定义
-
-拆散件归类（Disassembled Goods）是指将一件原本应完整装配的货物，因运输、包装、关税优化或超限等原因拆散为多个零部件或模块进行分拆运输，但在海关归类时仍按整体完工状态进行申报的一种海关监管与物流操作方式。这是一种常见的进出口合规与成本优化手段。
+拆散件归类（Disassembled Goods）是指将一件原本应完整组装的货物，因运输、包装、关税优化或规格超限等原因，拆分成多个散件进行申报和运输的海关归类方式。根据国际海关规则，在特定条件下，这些分拆的零部件仍可按完整品的税则进行归类征税。
 
 ## 详细说明
-
-- 使用场景：主要用于大型机械设备、精密仪器、成套生产线或超长超重货物，因体积或重量超标无法直接整体装柜，或为降低海关关税税率而采取分拆包装。
-- 关键规则与要求：根据国际海关惯例（如《协调制度》HS Code 解释规则 2(a)），未组装或拆散的物品如果具有完整品或制成品的基本特征，海关有权要求按完整品归类征税，严禁恶意拆分以谋取低税率。
-- 实务注意事项：货代与外贸企业在制单时必须保持单证一致，准确申报各部件的零件状态，并在必要时向海关提交预归类申请，避免因涉嫌“伪报”或“走私”而遭海关查扣和罚款。
+- 使用场景：主要适用于大型机械设备、精密仪器、成套生产线或超长超重货物，因无法整体装箱而必须拆卸运输的情况。
+- 关键规则或数字：根据海关总署相关规定，未拼装件或作为未完成品的拆散件，如果具备完整品的基本特征，通常应按完整品归类。货代和报关行需严格依据 HS 编码规则（如规则二(a)）来判定申报状态。
+- 实务注意事项：发货时必须提供详细的装箱单（Packing List），列明各散件与总机的对应关系。若申报不当被海关认为属于故意恶意拆分逃税，将面临货物扣押、补缴关税甚至罚款的风险。
 
 ## 中英对照
 
-| 中文术语 | 英文表达 |
+| 中文表达 | 英文表达 |
 | :--- | :--- |
 | 拆散件归类 | Classification of Disassembled Goods |
-| 未组装件 / 散件 | Unassembled / Knocked-Down Parts |
+| 未拼装件 / 散件 | Unassembled / Knocked-down Parts |
 | 成套散件 | Completely Knocked Down (CKD) |
 | 半散装件 | Semi-Knocked Down (SKD) |
-| 预归类 | Advance Classification |
+| 完整品特征 | Essential Character of the Complete Article |
 
 ## 相关术语
-
-- Completely Knocked Down, CKD（全散装件）
-- Semi-Knocked Down, SKD（半散装件）
-- Harmonized System, HS Code（协调制度编码）
-- General Rules for the Interpretation, GRI（归类总规则）
-- Out of Gauge, OOG（超限货物）
+- `CKD (Completely Knocked Down)`
+- `SKD (Semi-Knocked Down)`
+- `HS Code (Harmonized System Code)`
+- `Customs Classification (海关归类)`
 
 ## 常见误区
-
-- 认为只要货物是分批装运或拆开包装的，就可以随意按低价值的普通零部件申报纳税。
-- 忽略海关归类总规则（GRI 2(a)）的法律效力，误以为未组装的货物与已组装货物适用完全不同的税号。
+- 认为只要把货物拆散装箱，就可以随意按低税率的零件申报，忽视了海关“完整品特征”的判定原则。
+- 混淆了 CKD（全散装）和普通的零配件补给，导致在报关时适用错误的监管条件和税率。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mixture Classification"
 linkTitle: "混合物归类"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "归类规则"
 ---
@@ -9,32 +9,37 @@ subcategory: "归类规则"
 > 📖 分类：**关务合规** / 归类规则　｜　Mixture Classification = 混合物归类
 
 ## 定义
-混合物归类是指在危险货物运输中，根据危险品法规对由两种或多种化学物质组成的混合物进行危害评估与类别确定的过程。该过程旨在明确混合物是否属于危险货物，并确定其正确的UN编号和包装类别。
+
+混合物归类是指在危险货物运输中，根据化学品混合物的物理、化学性质及其对健康和环境的危害程度，按照联合国《关于危险货物运输的建议书 规章范本》（TDG规章范本）等国际标准，确定其正确运输名称和危险性级别的过程。这是确保危险品安全国际运输的核心合规步骤。
 
 ## 详细说明
-- 使用场景：主要应用于化工品出口订舱、MSDS（化学品安全技术说明书）审核以及海运、空运的危险品申报环节。
-- 关键规则：通常依据联合国《关于危险货物运输的建议书 试验和标准手册》以及GHS标准进行。若混合物中含有已知危险组分，通常需按主导危险性原则（Preponderance of hazard）进行归类。
-- 实务注意事项：托运人不能仅凭主观臆断或商业名称归类，必须依据权威机构出具的符合标准的产品检测报告（如鉴定报告）来判定混合物的危险级别。
+
+- 使用场景：广泛应用于化工品出口、海运、空运及陆运订舱前，特别是在托运未列明特定化学品名称的配方产品、复配溶液或制剂时。
+- 关键规则或数字：归类依据通常参考GHS（全球化学品统一分类和标签制度），涉及闪点、沸点、急性毒性数据（如LD50）等关键参数；需确定其包装类别（Packing Group，分为I、II、III类，分别代表高、中、低危险程度）。
+- 实务注意事项：托运人不能仅凭经验主观判断，必须提供基于权威实验室出具的危险货物鉴定报告（如MSDS/SDS或英文鉴定书），确保混合物的次要危险性（Subsidiary Risk）也被完整识别，防止因漏报次要风险导致港口扣货。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 混合物归类 | Mixture Classification |
-| 主导危险性 | Predominant Hazard / Primary Hazard |
-| 危险货物申报 | Dangerous Goods Declaration (DGD) |
-| 联合国编号 | UN Number |
+| 危险货物鉴定报告 | Dangerous Goods Classification Report |
+| 正确运输名称 | Proper Shipping Name (PSN) |
 | 包装类别 | Packing Group (PG) |
+| 次要危险性 | Subsidiary Hazard / Subsidiary Risk |
 
 ## 相关术语
-- `Dangerous Goods（危险货物）`
-- `Material Safety Data Sheet / Safety Data Sheet（化学品安全技术说明书）`
-- `Classification Criteria（归类标准）`
-- `UN Number（联合国编号）`
+
+- SDS (Safety Data Sheet，安全技术说明书)
+- UN Number (联合国编号)
+- Proper Shipping Name (正确运输名称)
+- Packing Group (包装类别)
+- Dangerous Goods Declaration (危险品申报单)
 
 ## 常见误区
-- 认为只要混合物中危险成分含量低就可以当作普通货物出口，忽视了混合物整体的累积或协同效应。
-- 混淆了消费品豁免与混合物归类的概念，未按危险品标准进行严格的实验室测试和合规申报。
+
+- 认为只要单种成分不是危险品，混合后就一定不是危险品。实际上，组分混合后可能产生协同效应，导致整体闪点降低或毒性增强，必须对混合物整体进行重新测试与归类。
+- 混淆化学品商业名称与正确运输名称（PSN）。报关或订舱时若使用商品名而非归类后的正式运输名称，会导致严重的海事合规问题。
 
 ---
 

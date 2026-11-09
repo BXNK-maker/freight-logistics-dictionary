@@ -1,7 +1,7 @@
 ---
 title: "HS Note"
 linkTitle: "HS注释"
-date: 2026-11-08
+date: 2026-11-09
 type: docs
 subcategory: "归类规则"
 ---
@@ -10,39 +10,40 @@ subcategory: "归类规则"
 
 ## 定义
 
-HS Note（谐音/全称：Harmonized System Note，即《协调制度》注释）是指世界海关组织（WCO）对《商品名称及编码协调制度》的各类、各章及各子目附加的官方解释说明文件。它是海关人员、进出口企业和货运代理人在进行商品归类（Commodity Classification）时必须遵循的法定依据，具有与税则条文同等的法律效力。
+HS Note（谐音/全称：Harmonized System Note，即《协调制度》注释）是指世界海关组织（WCO）发布的《商品名称及编码协调制度》中，对各类、章、品目及子目商品归类具有法定约束力的文字解释说明。它是海关关员和外贸企业准确判定进出口商品归类代码（HS Code）不可或缺的官方指南。
 
 
 ## 详细说明
 
-- 使用场景：当货主或报关员在确定进出口商品的 HS 编码遇到模糊不清、商品跨类或涉及多组分复合材料时，必须查阅对应章节的 HS 注释来明确归类范围。
-- 关键规则：注释通常分为“类注释”（Section Notes）、“章注释”（Chapter Notes）和“子目注释”（Subheading Notes）。这些注释常采用排他性条款（如“本章不包括……”）或包容性条款，直接决定了商品能否归入特定税号。
-- 实务注意事项：在向海关申报前，务必逐字核对最旧与最新的 HS 注释变化。许多贸易合规风险和海关后补税（Back-tax）案例，往往都源于忽视了章注释中隐藏的特殊定义和限定条件。
+- 使用场景：在进出口报关前遇到商品归类模糊、多品目交叉或新产品难以界定时，必须查阅对应章节的 HS Note 来确定其唯一的法定归类。
+- 关键规则或数字：HS Note 主要分为类注（Section Notes）、章注（Chapter Notes）以及子目注释（Subheading Notes），它们具有法律效力，其权威性仅次于《协调制度》的归类总规则（GIR）。
+- 实务注意事项：很多 HS Note 包含了“排他性条款”（即明确规定某些商品不属于本章或本品目），企业在核对合同时绝不能只看商品名称，必须逐字核对相关注释，以防因归类错误导致海关稽查、补税甚至行政处罚。
 
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| HS注释 | HS Note / Harmonized System Note |
-| 章注释 | Chapter Note |
-| 类注释 | Section Note |
-| 协调制度 | Harmonized System (HS) |
-| 商品归类 | Commodity Classification |
+| HS注释 | HS Note |
+| 类注 | Section Note |
+| 章注 | Chapter Note |
+| 归类总规则 | General Rules for the Interpretation (GIR) |
+| 商品归类意见书 | Classification Opinions |
 
 
 ## 相关术语
 
-- `HS Code（海关编码/协调制度编码）`
-- `WCO（世界海关组织）`
-- `Explanatory Notes（品目注释/税则注释）`
-- `Customs Declaration（海关申报/报关）`
+- HS Code（协调制度编码 / 海关编码）
+- WCO（世界海关组织）
+- Tariff Classification（商品归类）
+- Binding Tariff Information（约束性预归类信息）
+- Customs Clearance（清关 / 报关）
 
 
 ## 常见误区
 
-- 认为 HS 注释只是参考建议：误以为注释仅供学习参考，只有 4 位数的主标题和 8 位数的编码数字才具法律效力。
-- 忽略排他性条款：只看商品名称是否匹配，而没有注意章注释中“本章不包括”的限制性规定，导致严重归类错误。
+- 误认为 HS Note 只是参考意见：实际上，HS Note 具有国际法和国内海关执法的法定约束力，其法律效力优先于普通的行业惯例或企业理解。
+- 仅凭商品中文名称查阅归类：忽略了 HS Note 中关于结构、材质或特定加工工艺的排他性规定，导致报关代码错误。
 
 ---
 
