@@ -4046,106 +4046,106 @@ Unconditional Acceptance Condition,价格无条件条件,customs,估价规则,pu
 Resale Price Restriction,转售价格限制,customs,估价规则,published
 Sale in the Condition as Imported,进口状态销售,customs,估价规则,published
 Goods Not Sold,未售货物估价,customs,估价规则,published
-Goods for Own Use,自用货物估价,customs,估价规则,pending
-Free Gift Valuation,赠品估价,customs,估价规则,pending
-Sample Valuation,样品估价,customs,估价规则,pending
-Repair Valuation,修理货物估价,customs,估价规则,pending
-Temporary Import Valuation,暂准进口估价,customs,估价规则,pending
-Lease Goods Valuation,租赁货物估价,customs,估价规则,pending
-Cyclical Charge,周期性费用,customs,估价规则,pending
-Software Valuation,软件估价,customs,估价规则,pending
-Data Media Value,数据载体价值,customs,估价规则,pending
-Carrier Medium Rule,载体介质规则,customs,估价规则,pending
-Currency Conversion Rate,货币折算汇率,customs,估价规则,pending
-Valuation Exchange Rate Date,估价汇率日期,customs,估价规则,pending
-Customs Valuation Inquiry,估价质疑,customs,估价规则,pending
-Price Information Database,价格信息库,customs,估价规则,pending
-Reference Price Method,参考价格法,customs,估价规则,pending
-Import Price Monitoring,进口价格监控,customs,估价规则,pending
-Transfer Price Adjustment,转让价格调整,customs,估价规则,pending
-Post-entry Price Adjustment,事后价格调整,customs,估价规则,pending
-Retroactive Duty Assessment,追溯征税,customs,估价规则,pending
-Refund of Overpaid Duty,多征税款退还,customs,估价规则,pending
-Interest on Underpayment,少征税款利息,customs,估价规则,pending
-Ad Valorem Duty,从价税,customs,关税制度,pending
-Specific Duty,从量税,customs,关税制度,pending
-Compound Duty,复合税,customs,关税制度,pending
-Alternative Duty,选择税,customs,关税制度,pending
-Sliding Scale Duty,滑动税,customs,关税制度,pending
-Seasonal Duty,季节税,customs,关税制度,pending
-Quota Tariff,关税配额税率,customs,关税制度,pending
-In-quota Rate,配额内税率,customs,关税制度,pending
-Out-of-quota Rate,配额外税率,customs,关税制度,pending
-Proviso Rate,暂定税率,customs,关税制度,pending
-Interim Duty,临时税率,customs,关税制度,pending
-Statutory Rate,法定税率,customs,关税制度,pending
-Conventional Rate,协定税率,customs,关税制度,pending
-Preferential Rate,优惠税率,customs,关税制度,pending
-General Rate,普通税率,customs,关税制度,pending
-MFN Rate,最惠国税率,customs,关税制度,pending
-GSP Rate,普惠制税率,customs,关税制度,pending
-National Treatment,国民待遇,customs,关税制度,pending
-Tariff Binding,关税约束,customs,关税制度,pending
-Tariff Escalation,关税升级,customs,关税制度,pending
-Tariff Peak,关税高峰,customs,关税制度,pending
-Nuisance Tariff,微量关税,customs,关税制度,pending
-Mixed Duty,混合税,customs,关税制度,pending
-Variable Levy,可变税,customs,关税制度,pending
-Countervailing Duty on Subsidized Goods,补贴税,customs,关税制度,pending
-Tariff-rate Quota Administration,关税配额管理,customs,关税制度,pending
-Duty Computation,税款计算,customs,关税制度,pending
-Duty Payable,应纳税款,customs,关税制度,pending
-Customs Duty Payment,关税缴纳,customs,关税制度,pending
-Payment Guarantee Tax,税款担保,customs,关税制度,pending
-Duty Refund,退税,customs,关税制度,pending
-Drawback Claim,退税申请,customs,关税制度,pending
-Duty Reduction,减税,customs,关税制度,pending
-Tax Exemption List,免税清单,customs,关税制度,pending
-Duty-free Quota Free,免关税免配额,customs,关税制度,pending
-Most-favoured-nation Clause,最惠国条款,customs,关税制度,pending
-Tariff Commutation,税额折算,customs,关税制度,pending
-Import Tax Payment,进口环节税,customs,关税制度,pending
-Value Added Tax at Import,进口增值税,customs,关税制度,pending
-Consumption Tax at Import,进口消费税,customs,关税制度,pending
-Anti-dumping Investigation,反倾销调查,customs,贸易救济,pending
-Dumping Determination,倾销认定,customs,贸易救济,pending
-Normal Value,正常价值,customs,贸易救济,pending
-Export Price,出口价格,customs,贸易救济,pending
-Constructed Normal Value,推定正常价值,customs,贸易救济,pending
-Material Injury,实质损害,customs,贸易救济,pending
-Threat of Material Injury,实质损害威胁,customs,贸易救济,pending
-Material Retardation,实质阻碍,customs,贸易救济,pending
-Causal Link,因果关系,customs,贸易救济,pending
-Domestic Industry,国内产业,customs,贸易救济,pending
-Standing to Petition,申诉资格,customs,贸易救济,pending
-Petition for Relief,救济申请书,customs,贸易救济,pending
-Preliminary Determination,初裁,customs,贸易救济,pending
-Final Determination,终裁,customs,贸易救济,pending
-Provisional Anti-dumping Duty,临时反倾销税,customs,贸易救济,pending
-Definitive Anti-dumping Duty,最终反倾销税,customs,贸易救济,pending
-Retroactive Collection,追溯征收,customs,贸易救济,pending
-Lesser Duty Rule,低税规则,customs,贸易救济,pending
-Undertaking,价格承诺,customs,贸易救济,pending
-Retrospective Dumping Assessment,追溯倾销评估,customs,贸易救济,pending
-New Shipper Review,新出口商复审,customs,贸易救济,pending
-Interim Review,期中复审,customs,贸易救济,pending
-Changed Circumstances Review,情势变更复审,customs,贸易救济,pending
-Judicial Review of Trade Remedy,贸易救济司法审查,customs,贸易救济,pending
-Sampling Investigation,抽样调查,customs,贸易救济,pending
-Questionnaire Response,问卷答卷,customs,贸易救济,pending
-On-site Verification,实地核查,customs,贸易救济,pending
-Interested Party,利害关系方,customs,贸易救济,pending
-Non-market Economy,非市场经济国家,customs,贸易救济,pending
-Surrogate Country,替代国,customs,贸易救济,pending
-Particular Market Situation,特殊市场状况,customs,贸易救济,pending
-Countervailing Investigation,反补贴调查,customs,贸易救济,pending
-Subsidy Investigation,补贴调查,customs,贸易救济,pending
-Specificity of Subsidy,补贴专项性,customs,贸易救济,pending
-Prohibited Subsidy,禁止性补贴,customs,贸易救济,pending
-Actionable Subsidy,可诉补贴,customs,贸易救济,pending
-Non-actionable Subsidy,不可诉补贴,customs,贸易救济,pending
-Local Content Subsidy,当地含量补贴,customs,贸易救济,pending
-Adverse Effects Determination,不利影响认定,customs,贸易救济,pending
+Goods for Own Use,自用货物估价,customs,估价规则,published
+Free Gift Valuation,赠品估价,customs,估价规则,published
+Sample Valuation,样品估价,customs,估价规则,published
+Repair Valuation,修理货物估价,customs,估价规则,published
+Temporary Import Valuation,暂准进口估价,customs,估价规则,published
+Lease Goods Valuation,租赁货物估价,customs,估价规则,published
+Cyclical Charge,周期性费用,customs,估价规则,published
+Software Valuation,软件估价,customs,估价规则,published
+Data Media Value,数据载体价值,customs,估价规则,published
+Carrier Medium Rule,载体介质规则,customs,估价规则,published
+Currency Conversion Rate,货币折算汇率,customs,估价规则,published
+Valuation Exchange Rate Date,估价汇率日期,customs,估价规则,published
+Customs Valuation Inquiry,估价质疑,customs,估价规则,published
+Price Information Database,价格信息库,customs,估价规则,published
+Reference Price Method,参考价格法,customs,估价规则,published
+Import Price Monitoring,进口价格监控,customs,估价规则,published
+Transfer Price Adjustment,转让价格调整,customs,估价规则,published
+Post-entry Price Adjustment,事后价格调整,customs,估价规则,published
+Retroactive Duty Assessment,追溯征税,customs,估价规则,published
+Refund of Overpaid Duty,多征税款退还,customs,估价规则,published
+Interest on Underpayment,少征税款利息,customs,估价规则,published
+Ad Valorem Duty,从价税,customs,关税制度,published
+Specific Duty,从量税,customs,关税制度,published
+Compound Duty,复合税,customs,关税制度,published
+Alternative Duty,选择税,customs,关税制度,published
+Sliding Scale Duty,滑动税,customs,关税制度,published
+Seasonal Duty,季节税,customs,关税制度,published
+Quota Tariff,关税配额税率,customs,关税制度,published
+In-quota Rate,配额内税率,customs,关税制度,published
+Out-of-quota Rate,配额外税率,customs,关税制度,published
+Proviso Rate,暂定税率,customs,关税制度,published
+Interim Duty,临时税率,customs,关税制度,published
+Statutory Rate,法定税率,customs,关税制度,published
+Conventional Rate,协定税率,customs,关税制度,published
+Preferential Rate,优惠税率,customs,关税制度,published
+General Rate,普通税率,customs,关税制度,published
+MFN Rate,最惠国税率,customs,关税制度,published
+GSP Rate,普惠制税率,customs,关税制度,published
+National Treatment,国民待遇,customs,关税制度,published
+Tariff Binding,关税约束,customs,关税制度,published
+Tariff Escalation,关税升级,customs,关税制度,published
+Tariff Peak,关税高峰,customs,关税制度,published
+Nuisance Tariff,微量关税,customs,关税制度,published
+Mixed Duty,混合税,customs,关税制度,published
+Variable Levy,可变税,customs,关税制度,published
+Countervailing Duty on Subsidized Goods,补贴税,customs,关税制度,published
+Tariff-rate Quota Administration,关税配额管理,customs,关税制度,published
+Duty Computation,税款计算,customs,关税制度,published
+Duty Payable,应纳税款,customs,关税制度,published
+Customs Duty Payment,关税缴纳,customs,关税制度,published
+Payment Guarantee Tax,税款担保,customs,关税制度,published
+Duty Refund,退税,customs,关税制度,published
+Drawback Claim,退税申请,customs,关税制度,published
+Duty Reduction,减税,customs,关税制度,published
+Tax Exemption List,免税清单,customs,关税制度,published
+Duty-free Quota Free,免关税免配额,customs,关税制度,published
+Most-favoured-nation Clause,最惠国条款,customs,关税制度,published
+Tariff Commutation,税额折算,customs,关税制度,published
+Import Tax Payment,进口环节税,customs,关税制度,published
+Value Added Tax at Import,进口增值税,customs,关税制度,published
+Consumption Tax at Import,进口消费税,customs,关税制度,published
+Anti-dumping Investigation,反倾销调查,customs,贸易救济,published
+Dumping Determination,倾销认定,customs,贸易救济,published
+Normal Value,正常价值,customs,贸易救济,published
+Export Price,出口价格,customs,贸易救济,published
+Constructed Normal Value,推定正常价值,customs,贸易救济,published
+Material Injury,实质损害,customs,贸易救济,published
+Threat of Material Injury,实质损害威胁,customs,贸易救济,published
+Material Retardation,实质阻碍,customs,贸易救济,published
+Causal Link,因果关系,customs,贸易救济,published
+Domestic Industry,国内产业,customs,贸易救济,published
+Standing to Petition,申诉资格,customs,贸易救济,published
+Petition for Relief,救济申请书,customs,贸易救济,published
+Preliminary Determination,初裁,customs,贸易救济,published
+Final Determination,终裁,customs,贸易救济,published
+Provisional Anti-dumping Duty,临时反倾销税,customs,贸易救济,published
+Definitive Anti-dumping Duty,最终反倾销税,customs,贸易救济,published
+Retroactive Collection,追溯征收,customs,贸易救济,published
+Lesser Duty Rule,低税规则,customs,贸易救济,published
+Undertaking,价格承诺,customs,贸易救济,published
+Retrospective Dumping Assessment,追溯倾销评估,customs,贸易救济,published
+New Shipper Review,新出口商复审,customs,贸易救济,published
+Interim Review,期中复审,customs,贸易救济,published
+Changed Circumstances Review,情势变更复审,customs,贸易救济,published
+Judicial Review of Trade Remedy,贸易救济司法审查,customs,贸易救济,published
+Sampling Investigation,抽样调查,customs,贸易救济,published
+Questionnaire Response,问卷答卷,customs,贸易救济,published
+On-site Verification,实地核查,customs,贸易救济,published
+Interested Party,利害关系方,customs,贸易救济,published
+Non-market Economy,非市场经济国家,customs,贸易救济,published
+Surrogate Country,替代国,customs,贸易救济,published
+Particular Market Situation,特殊市场状况,customs,贸易救济,published
+Countervailing Investigation,反补贴调查,customs,贸易救济,published
+Subsidy Investigation,补贴调查,customs,贸易救济,published
+Specificity of Subsidy,补贴专项性,customs,贸易救济,published
+Prohibited Subsidy,禁止性补贴,customs,贸易救济,published
+Actionable Subsidy,可诉补贴,customs,贸易救济,published
+Non-actionable Subsidy,不可诉补贴,customs,贸易救济,published
+Local Content Subsidy,当地含量补贴,customs,贸易救济,published
+Adverse Effects Determination,不利影响认定,customs,贸易救济,published
 Safeguard Investigation,保障措施调查,customs,贸易救济,pending
 Serious Injury,严重损害,customs,贸易救济,pending
 Adjustment Plan,调整计划,customs,贸易救济,pending
