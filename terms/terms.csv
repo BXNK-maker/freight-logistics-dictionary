@@ -4146,106 +4146,106 @@ Actionable Subsidy,可诉补贴,customs,贸易救济,published
 Non-actionable Subsidy,不可诉补贴,customs,贸易救济,published
 Local Content Subsidy,当地含量补贴,customs,贸易救济,published
 Adverse Effects Determination,不利影响认定,customs,贸易救济,published
-Safeguard Investigation,保障措施调查,customs,贸易救济,pending
-Serious Injury,严重损害,customs,贸易救济,pending
-Adjustment Plan,调整计划,customs,贸易救济,pending
-Tariff-rate Quota Safeguard,保障措施关税配额,customs,贸易救济,pending
-Global Safeguard,全球保障措施,customs,贸易救济,pending
-Bilateral Quota Arrangement,双边配额安排,customs,贸易救济,pending
-Monitoring Measure,监督措施,customs,贸易救济,pending
-Anti-circumvention Investigation,反规避调查,customs,贸易救济,pending
-Circumvention of Anti-dumping Duty,规避反倾销税,customs,贸易救济,pending
-Minor Alteration of Product,产品轻微改变,customs,贸易救济,pending
-Transshipment Circumvention,转口规避,customs,贸易救济,pending
-Third Country Assembly,第三国组装,customs,贸易救济,pending
-Retrospective Collection,追溯计征,customs,贸易救济,pending
-Trade Remedy Compliance,贸易救济合规,customs,贸易救济,pending
-Import Surge,进口激增,customs,贸易救济,pending
-Market Disruption,市场扰乱,customs,贸易救济,pending
-Cross-border E-commerce Comprehensive Service Platform,跨境电商综合服务平台,customs,跨境电商,pending
-E-commerce Customs Clearance,跨境电商通关,customs,跨境电商,pending
-Bonded E-commerce Import,跨境电商保税进口,customs,跨境电商,pending
-Cross-border E-commerce Pilot Zone,跨境电商综试区,customs,跨境电商,pending
-Personal Use Limit,个人自用限值,customs,跨境电商,pending
-Annual Cross-border E-commerce Quota,跨境电商年度额度,customs,跨境电商,pending
-Single Transaction Limit,单次交易限值,customs,跨境电商,pending
-Cross-border E-commerce Retail Import Tax,跨境电商综合税,customs,跨境电商,pending
-Comprehensive Tax Rate,综合税率,customs,跨境电商,pending
-Electronic Waybill,电子运单,customs,跨境电商,pending
-Order Payment Logistics Verification,三单对碰,customs,跨境电商,pending
-Payment Information Push,支付单推送,customs,跨境电商,pending
-Logistics Information Push,物流单推送,customs,跨境电商,pending
-Order Information Push,订单推送,customs,跨境电商,pending
-Cross-border Payment Declaration,跨境支付申报,customs,跨境电商,pending
-Overseas Warehouse Export,海外仓出口,customs,跨境电商,pending
-Return Goods Center,退货中心,customs,跨境电商,pending
-Bonded Return Warehouse,保税退货仓,customs,跨境电商,pending
-Pre-lodged Declaration,预申报,customs,报关流程,pending
-Split Declaration,拆单申报,customs,报关流程,pending
-Consolidated Invoice,合并发票,customs,报关流程,pending
-Consignee Declaration,收货人申报,customs,报关流程,pending
-Shipper's Export Declaration,出口申报单,customs,报关流程,pending
-Customs Declaration Agency,报关代理,customs,报关流程,pending
-Inspection Fee,查验费,customs,报关流程,pending
-Sampling Inspection,抽样查验,customs,报关流程,pending
-Release Priority,优先放行,customs,报关流程,pending
-Internal Compliance Program,内部合规制度,customs,报关流程,pending
-Compliance Officer,合规负责人,customs,报关流程,pending
-Credit Management,企业信用管理,customs,报关流程,pending
-Preferential Certificate of Origin,优惠原产地证,customs,原产地规则,pending
-Certificate of Origin Form A,格式A原产地证,customs,原产地规则,pending
-Non-preferential Origin,非优惠原产地,customs,原产地规则,pending
-Preferential Origin,优惠原产地,customs,原产地规则,pending
-Origin Criteria,原产地标准,customs,原产地规则,pending
-Wholly Obtained,完全获得,customs,原产地规则,pending
-Change in Tariff Classification,税则归类改变,customs,原产地规则,pending
-Change in Chapter Level,章级改变,customs,原产地规则,pending
-Change in Heading Level,品目级改变,customs,原产地规则,pending
-Two-digit Change,两位数改变,customs,原产地规则,pending
-Four-digit Change,四位数改变,customs,原产地规则,pending
-Six-digit Change,六位数改变,customs,原产地规则,pending
-Regional Value Content,区域价值成分,customs,原产地规则,pending
-Net Cost Method RVC,净成本法价值成分,customs,原产地规则,pending
-Build-up Method,累计价值法,customs,原产地规则,pending
-Build-down Method,扣减价值法,customs,原产地规则,pending
-Accumulation Rule,累积规则,customs,原产地规则,pending
-Bilateral Accumulation,双边累积,customs,原产地规则,pending
-Diagonal Accumulation,对角累积,customs,原产地规则,pending
-Full Accumulation,完全累积,customs,原产地规则,pending
-De minimis Rule,微小含量规则,customs,原产地规则,pending
-Tolerance Rule,微量允许条款,customs,原产地规则,pending
-Neutral Elements,中性成分,customs,原产地规则,pending
-Fungible Goods,可互换货物,customs,原产地规则,pending
-Materials Rule,材料规则,customs,原产地规则,pending
-Indirect Materials,间接材料,customs,原产地规则,pending
-Direct Materials,直接材料,customs,原产地规则,pending
-Sufficient Processing,实质性加工,customs,原产地规则,pending
-Minimal Operations,微小加工,customs,原产地规则,pending
-Packing Materials Origin,包装材料原产地,customs,原产地规则,pending
-Accessories Origin Rule,附件原产地规则,customs,原产地规则,pending
-Tools Origin Rule,随附工具原产地,customs,原产地规则,pending
-Set Rule for Origin,成套货品原产地,customs,原产地规则,pending
-Non-alteration Rule,非改变规则,customs,原产地规则,pending
-Direct Consignment,直接运输规则,customs,原产地规则,pending
-Non-manipulation,非改装原则,customs,原产地规则,pending
-Consignment Criteria,运输路线要求,customs,原产地规则,pending
-Customs Sealing for Transit,过境海封,customs,原产地规则,pending
-Origin Inquiry,原产地调查,customs,原产地规则,pending
-Back-to-back Certificate,转口原产地证,customs,原产地规则,pending
-Third Party Invoicing,第三方发票,customs,原产地规则,pending
-Exporter Declaration of Origin,出口商原产地声明,customs,原产地规则,pending
-Self-certification,自主声明,customs,原产地规则,pending
-Country of Origin Marking,原产国标记,customs,原产地规则,pending
-Made in Labeling,原产地标签,customs,原产地规则,pending
-Product Specific Rules,产品特定规则,customs,原产地规则,pending
-PSR Annex,特定规则附件,customs,原产地规则,pending
-Working and Processing Annex,加工工序清单,customs,原产地规则,pending
-Maximum Fabric Weight,最大克重规则,customs,原产地规则,pending
-Yarn Forward Rule,纱线往前规则,customs,原产地规则,pending
-Fabric Forward Rule,织物往前规则,customs,原产地规则,pending
-Triple Transformation Rule,三重改变规则,customs,原产地规则,pending
-Double Substantial Transformation,双重实质改变,customs,原产地规则,pending
-Retroactive Issuance,原产地证补发,customs,原产地规则,pending
+Safeguard Investigation,保障措施调查,customs,贸易救济,published
+Serious Injury,严重损害,customs,贸易救济,published
+Adjustment Plan,调整计划,customs,贸易救济,published
+Tariff-rate Quota Safeguard,保障措施关税配额,customs,贸易救济,published
+Global Safeguard,全球保障措施,customs,贸易救济,published
+Bilateral Quota Arrangement,双边配额安排,customs,贸易救济,published
+Monitoring Measure,监督措施,customs,贸易救济,published
+Anti-circumvention Investigation,反规避调查,customs,贸易救济,published
+Circumvention of Anti-dumping Duty,规避反倾销税,customs,贸易救济,published
+Minor Alteration of Product,产品轻微改变,customs,贸易救济,published
+Transshipment Circumvention,转口规避,customs,贸易救济,published
+Third Country Assembly,第三国组装,customs,贸易救济,published
+Retrospective Collection,追溯计征,customs,贸易救济,published
+Trade Remedy Compliance,贸易救济合规,customs,贸易救济,published
+Import Surge,进口激增,customs,贸易救济,published
+Market Disruption,市场扰乱,customs,贸易救济,published
+Cross-border E-commerce Comprehensive Service Platform,跨境电商综合服务平台,customs,跨境电商,published
+E-commerce Customs Clearance,跨境电商通关,customs,跨境电商,published
+Bonded E-commerce Import,跨境电商保税进口,customs,跨境电商,published
+Cross-border E-commerce Pilot Zone,跨境电商综试区,customs,跨境电商,published
+Personal Use Limit,个人自用限值,customs,跨境电商,published
+Annual Cross-border E-commerce Quota,跨境电商年度额度,customs,跨境电商,published
+Single Transaction Limit,单次交易限值,customs,跨境电商,published
+Cross-border E-commerce Retail Import Tax,跨境电商综合税,customs,跨境电商,published
+Comprehensive Tax Rate,综合税率,customs,跨境电商,published
+Electronic Waybill,电子运单,customs,跨境电商,published
+Order Payment Logistics Verification,三单对碰,customs,跨境电商,published
+Payment Information Push,支付单推送,customs,跨境电商,published
+Logistics Information Push,物流单推送,customs,跨境电商,published
+Order Information Push,订单推送,customs,跨境电商,published
+Cross-border Payment Declaration,跨境支付申报,customs,跨境电商,published
+Overseas Warehouse Export,海外仓出口,customs,跨境电商,published
+Return Goods Center,退货中心,customs,跨境电商,published
+Bonded Return Warehouse,保税退货仓,customs,跨境电商,published
+Pre-lodged Declaration,预申报,customs,报关流程,published
+Split Declaration,拆单申报,customs,报关流程,published
+Consolidated Invoice,合并发票,customs,报关流程,published
+Consignee Declaration,收货人申报,customs,报关流程,published
+Shipper's Export Declaration,出口申报单,customs,报关流程,published
+Customs Declaration Agency,报关代理,customs,报关流程,published
+Inspection Fee,查验费,customs,报关流程,published
+Sampling Inspection,抽样查验,customs,报关流程,published
+Release Priority,优先放行,customs,报关流程,published
+Internal Compliance Program,内部合规制度,customs,报关流程,published
+Compliance Officer,合规负责人,customs,报关流程,published
+Credit Management,企业信用管理,customs,报关流程,published
+Preferential Certificate of Origin,优惠原产地证,customs,原产地规则,published
+Certificate of Origin Form A,格式A原产地证,customs,原产地规则,published
+Non-preferential Origin,非优惠原产地,customs,原产地规则,published
+Preferential Origin,优惠原产地,customs,原产地规则,published
+Origin Criteria,原产地标准,customs,原产地规则,published
+Wholly Obtained,完全获得,customs,原产地规则,published
+Change in Tariff Classification,税则归类改变,customs,原产地规则,published
+Change in Chapter Level,章级改变,customs,原产地规则,published
+Change in Heading Level,品目级改变,customs,原产地规则,published
+Two-digit Change,两位数改变,customs,原产地规则,published
+Four-digit Change,四位数改变,customs,原产地规则,published
+Six-digit Change,六位数改变,customs,原产地规则,published
+Regional Value Content,区域价值成分,customs,原产地规则,published
+Net Cost Method RVC,净成本法价值成分,customs,原产地规则,published
+Build-up Method,累计价值法,customs,原产地规则,published
+Build-down Method,扣减价值法,customs,原产地规则,published
+Accumulation Rule,累积规则,customs,原产地规则,published
+Bilateral Accumulation,双边累积,customs,原产地规则,published
+Diagonal Accumulation,对角累积,customs,原产地规则,published
+Full Accumulation,完全累积,customs,原产地规则,published
+De minimis Rule,微小含量规则,customs,原产地规则,published
+Tolerance Rule,微量允许条款,customs,原产地规则,published
+Neutral Elements,中性成分,customs,原产地规则,published
+Fungible Goods,可互换货物,customs,原产地规则,published
+Materials Rule,材料规则,customs,原产地规则,published
+Indirect Materials,间接材料,customs,原产地规则,published
+Direct Materials,直接材料,customs,原产地规则,published
+Sufficient Processing,实质性加工,customs,原产地规则,published
+Minimal Operations,微小加工,customs,原产地规则,published
+Packing Materials Origin,包装材料原产地,customs,原产地规则,published
+Accessories Origin Rule,附件原产地规则,customs,原产地规则,published
+Tools Origin Rule,随附工具原产地,customs,原产地规则,published
+Set Rule for Origin,成套货品原产地,customs,原产地规则,published
+Non-alteration Rule,非改变规则,customs,原产地规则,published
+Direct Consignment,直接运输规则,customs,原产地规则,published
+Non-manipulation,非改装原则,customs,原产地规则,published
+Consignment Criteria,运输路线要求,customs,原产地规则,published
+Customs Sealing for Transit,过境海封,customs,原产地规则,published
+Origin Inquiry,原产地调查,customs,原产地规则,published
+Back-to-back Certificate,转口原产地证,customs,原产地规则,published
+Third Party Invoicing,第三方发票,customs,原产地规则,published
+Exporter Declaration of Origin,出口商原产地声明,customs,原产地规则,published
+Self-certification,自主声明,customs,原产地规则,published
+Country of Origin Marking,原产国标记,customs,原产地规则,published
+Made in Labeling,原产地标签,customs,原产地规则,published
+Product Specific Rules,产品特定规则,customs,原产地规则,published
+PSR Annex,特定规则附件,customs,原产地规则,published
+Working and Processing Annex,加工工序清单,customs,原产地规则,published
+Maximum Fabric Weight,最大克重规则,customs,原产地规则,published
+Yarn Forward Rule,纱线往前规则,customs,原产地规则,published
+Fabric Forward Rule,织物往前规则,customs,原产地规则,published
+Triple Transformation Rule,三重改变规则,customs,原产地规则,published
+Double Substantial Transformation,双重实质改变,customs,原产地规则,published
+Retroactive Issuance,原产地证补发,customs,原产地规则,published
 Duplicate Certificate,原产地证副本,customs,原产地规则,pending
 Amendment of CO,原产地证更改,customs,原产地规则,pending
 Certificate Validity Period,原产地证有效期,customs,原产地规则,pending
