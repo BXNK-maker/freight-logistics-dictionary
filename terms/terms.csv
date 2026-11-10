@@ -4443,106 +4443,106 @@ Heavy Metal Limit,重金属限量,customs,检验检疫,published
 Additive Compliance,添加剂合规,customs,检验检疫,published
 GMO Safety Approval,转基因安全证书,customs,检验检疫,published
 Wood Packaging Standard,木质包装检疫标准,customs,检验检疫,published
-Customs Recordal of IP,知识产权海关备案,customs,知识产权保护,pending
-Trademark Recordal,商标备案,customs,知识产权保护,pending
-Copyright Recordal,著作权备案,customs,知识产权保护,pending
-Patent Recordal,专利备案,customs,知识产权保护,pending
-Border Measure on IP,知识产权边境措施,customs,知识产权保护,pending
-Suspension of Release,中止放行,customs,知识产权保护,pending
-Detention of Suspected Goods,扣留侵权嫌疑货物,customs,知识产权保护,pending
-Counterfeit Trademark Goods,假冒商标货物,customs,知识产权保护,pending
-Pirated Copyright Goods,盗版货物,customs,知识产权保护,pending
-Patent Infringement Goods,侵犯专利权货物,customs,知识产权保护,pending
-Parallel Import,平行进口,customs,知识产权保护,pending
-Grey Market Goods,灰色市场商品,customs,知识产权保护,pending
-OEM Infringement Dispute,定牌加工侵权争议,customs,知识产权保护,pending
-Exhaustion of Rights,权利穷竭,customs,知识产权保护,pending
-Disposal of Infringing Goods,侵权货物处置,customs,知识产权保护,pending
-Destruction of Infringing Goods,销毁侵权货物,customs,知识产权保护,pending
-Confiscation of Infringing Goods,没收侵权货物,customs,知识产权保护,pending
-IP Detention Security,知识产权担保扣货,customs,知识产权保护,pending
-TRIPS Agreement,与贸易有关的知识产权协定,customs,知识产权保护,pending
-Anti-counterfeiting Enforcement,打击假冒执法,customs,知识产权保护,pending
-Dual-use Export License,两用物项出口许可,customs,出口管制,pending
-End-user Screening,最终用户筛查,customs,出口管制,pending
-End-use Monitoring,最终用途监控,customs,出口管制,pending
-Catch-all Clause,全面控制条款,customs,出口管制,pending
-Catch-all Controls,兜底管制,customs,出口管制,pending
-EAR,出口管理条例,customs,出口管制,pending
-EAR99,EAR99类目,customs,出口管制,pending
-Unverified List,未经核实清单,customs,出口管制,pending
-MEU List,军事最终用户清单,customs,出口管制,pending
-Denied Persons List,被拒绝人清单,customs,出口管制,pending
-Military End User Rule,军事最终用户规则,customs,出口管制,pending
-US Content De minimis,微量含美规则,customs,出口管制,pending
-Foreign Direct Product Rule,外国直接产品规则,customs,出口管制,pending
-Technology Export Control,技术出口管制,customs,出口管制,pending
-Controlled Technology,受控技术,customs,出口管制,pending
-Source Code Control,源代码管制,customs,出口管制,pending
-Encryption Export Control,加密出口管制,customs,出口管制,pending
-Deemed Export,视同出口,customs,出口管制,pending
-Australia Group,澳大利亚集团,customs,出口管制,pending
-Missile Technology Control Regime,导弹及其技术控制制度,customs,出口管制,pending
-Nuclear Suppliers Group,核供应国集团,customs,出口管制,pending
-Chemical Weapons Convention,禁止化学武器公约,customs,出口管制,pending
-Precursor Chemical Control,易制毒化学品管制,customs,出口管制,pending
-Strategic Goods,战略物资,customs,出口管制,pending
-Military Item Export Control,军品出口管制,customs,出口管制,pending
-Arms Embargo,军火禁运,customs,出口管制,pending
-Nuclear Export License,核出口许可,customs,出口管制,pending
-License Exception STA,战略贸易许可例外,customs,出口管制,pending
-General Prohibition,一般禁止条款,customs,出口管制,pending
-Order of Denial,拒绝令,customs,出口管制,pending
-Temporary Denial Order,临时拒绝令,customs,出口管制,pending
-Voluntary Self-disclosure Export,出口违规主动披露,customs,出口管制,pending
-Classification Request,管制分类申请,customs,出口管制,pending
-BIS License Application,商务部出口许可申请,customs,出口管制,pending
-Intangible Technology Transfer,无形技术转让,customs,出口管制,pending
-Third Country Transshipment Control,经第三国转运管制,customs,出口管制,pending
-Red Flag Indicator,危险信号指标,customs,出口管制,pending
-EU Dual-use Regulation,欧盟两用物项条例,customs,出口管制,pending
-Trade Embargo,贸易禁运,customs,制裁与禁运,pending
-Sectoral Sanctions Identification,行业制裁识别清单,customs,制裁与禁运,pending
-SSI List,行业制裁清单,customs,制裁与禁运,pending
-Specially Designated Nationals,特别指定国民,customs,制裁与禁运,pending
-Blocking of Assets,资产冻结,customs,制裁与禁运,pending
-Comprehensive Sanctions,全面制裁,customs,制裁与禁运,pending
-Targeted Sanctions,定向制裁,customs,制裁与禁运,pending
-Primary Sanctions,初级制裁,customs,制裁与禁运,pending
-Fuzzy Matching Screening,模糊匹配筛查,customs,制裁与禁运,pending
-Sanctions Evasion,规避制裁,customs,制裁与禁运,pending
-Vessel Tracking Compliance,船舶轨迹合规,customs,制裁与禁运,pending
-AIS Dark Activity,自动识别系统关闭,customs,制裁与禁运,pending
-Ship-to-ship Transfer,船对船过驳,customs,制裁与禁运,pending
-Iran Oil Sanction,伊朗石油制裁,customs,制裁与禁运,pending
-Joint Comprehensive Plan of Action,伊核全面协议,customs,制裁与禁运,pending
-Cuba Embargo,古巴禁运,customs,制裁与禁运,pending
-North Korea Sanction,朝鲜制裁,customs,制裁与禁运,pending
-Russia Export Restriction,俄罗斯出口限制,customs,制裁与禁运,pending
-EU Restrictive Measures,欧盟限制性措施,customs,制裁与禁运,pending
-EU Consolidated Sanctions List,欧盟综合制裁名单,customs,制裁与禁运,pending
-UN Security Council Sanctions,联合国安理会制裁,customs,制裁与禁运,pending
-Sanctions Committee,制裁委员会,customs,制裁与禁运,pending
-Sanctions Compliance Program,制裁合规制度,customs,制裁与禁运,pending
-OFAC License,海外资产控制办公室许可,customs,制裁与禁运,pending
-General License,通用许可,customs,制裁与禁运,pending
-Specific License,特别许可,customs,制裁与禁运,pending
-Delisting Request,移出名单申请,customs,制裁与禁运,pending
-50 Percent Rule,百分之五十规则,customs,制裁与禁运,pending
-Ownership and Control Analysis,所有权与控制权分析,customs,制裁与禁运,pending
-Re-export to Sanctioned Country,向受制裁国再出口,customs,制裁与禁运,pending
-CBP,美国海关与边境保护局,customs,欧美关务,pending
-Entry,进口报关,customs,欧美关务,pending
-Entry Summary Number,报关摘要编号,customs,欧美关务,pending
-Customs Bond US,美国海关担保,customs,欧美关务,pending
-Responsible Supervision,监管责任,customs,欧美关务,pending
-Informed Compliance Publication,合规指引公告,customs,欧美关务,pending
-Broker Power of Attorney US,美国报关委托书,customs,欧美关务,pending
-Customs Broker Permit,报关行执照,customs,欧美关务,pending
-Customs Form 7501,7501表,customs,欧美关务,pending
-Customs Form 3461,3461表,customs,欧美关务,pending
-Customs Form 5106,5106表,customs,欧美关务,pending
-ISF,进口商安全申报,customs,欧美关务,pending
+Customs Recordal of IP,知识产权海关备案,customs,知识产权保护,published
+Trademark Recordal,商标备案,customs,知识产权保护,published
+Copyright Recordal,著作权备案,customs,知识产权保护,published
+Patent Recordal,专利备案,customs,知识产权保护,published
+Border Measure on IP,知识产权边境措施,customs,知识产权保护,published
+Suspension of Release,中止放行,customs,知识产权保护,published
+Detention of Suspected Goods,扣留侵权嫌疑货物,customs,知识产权保护,published
+Counterfeit Trademark Goods,假冒商标货物,customs,知识产权保护,published
+Pirated Copyright Goods,盗版货物,customs,知识产权保护,published
+Patent Infringement Goods,侵犯专利权货物,customs,知识产权保护,published
+Parallel Import,平行进口,customs,知识产权保护,published
+Grey Market Goods,灰色市场商品,customs,知识产权保护,published
+OEM Infringement Dispute,定牌加工侵权争议,customs,知识产权保护,published
+Exhaustion of Rights,权利穷竭,customs,知识产权保护,published
+Disposal of Infringing Goods,侵权货物处置,customs,知识产权保护,published
+Destruction of Infringing Goods,销毁侵权货物,customs,知识产权保护,published
+Confiscation of Infringing Goods,没收侵权货物,customs,知识产权保护,published
+IP Detention Security,知识产权担保扣货,customs,知识产权保护,published
+TRIPS Agreement,与贸易有关的知识产权协定,customs,知识产权保护,published
+Anti-counterfeiting Enforcement,打击假冒执法,customs,知识产权保护,published
+Dual-use Export License,两用物项出口许可,customs,出口管制,published
+End-user Screening,最终用户筛查,customs,出口管制,published
+End-use Monitoring,最终用途监控,customs,出口管制,published
+Catch-all Clause,全面控制条款,customs,出口管制,published
+Catch-all Controls,兜底管制,customs,出口管制,published
+EAR,出口管理条例,customs,出口管制,published
+EAR99,EAR99类目,customs,出口管制,published
+Unverified List,未经核实清单,customs,出口管制,published
+MEU List,军事最终用户清单,customs,出口管制,published
+Denied Persons List,被拒绝人清单,customs,出口管制,published
+Military End User Rule,军事最终用户规则,customs,出口管制,published
+US Content De minimis,微量含美规则,customs,出口管制,published
+Foreign Direct Product Rule,外国直接产品规则,customs,出口管制,published
+Technology Export Control,技术出口管制,customs,出口管制,published
+Controlled Technology,受控技术,customs,出口管制,published
+Source Code Control,源代码管制,customs,出口管制,published
+Encryption Export Control,加密出口管制,customs,出口管制,published
+Deemed Export,视同出口,customs,出口管制,published
+Australia Group,澳大利亚集团,customs,出口管制,published
+Missile Technology Control Regime,导弹及其技术控制制度,customs,出口管制,published
+Nuclear Suppliers Group,核供应国集团,customs,出口管制,published
+Chemical Weapons Convention,禁止化学武器公约,customs,出口管制,published
+Precursor Chemical Control,易制毒化学品管制,customs,出口管制,published
+Strategic Goods,战略物资,customs,出口管制,published
+Military Item Export Control,军品出口管制,customs,出口管制,published
+Arms Embargo,军火禁运,customs,出口管制,published
+Nuclear Export License,核出口许可,customs,出口管制,published
+License Exception STA,战略贸易许可例外,customs,出口管制,published
+General Prohibition,一般禁止条款,customs,出口管制,published
+Order of Denial,拒绝令,customs,出口管制,published
+Temporary Denial Order,临时拒绝令,customs,出口管制,published
+Voluntary Self-disclosure Export,出口违规主动披露,customs,出口管制,published
+Classification Request,管制分类申请,customs,出口管制,published
+BIS License Application,商务部出口许可申请,customs,出口管制,published
+Intangible Technology Transfer,无形技术转让,customs,出口管制,published
+Third Country Transshipment Control,经第三国转运管制,customs,出口管制,published
+Red Flag Indicator,危险信号指标,customs,出口管制,published
+EU Dual-use Regulation,欧盟两用物项条例,customs,出口管制,published
+Trade Embargo,贸易禁运,customs,制裁与禁运,published
+Sectoral Sanctions Identification,行业制裁识别清单,customs,制裁与禁运,published
+SSI List,行业制裁清单,customs,制裁与禁运,published
+Specially Designated Nationals,特别指定国民,customs,制裁与禁运,published
+Blocking of Assets,资产冻结,customs,制裁与禁运,published
+Comprehensive Sanctions,全面制裁,customs,制裁与禁运,published
+Targeted Sanctions,定向制裁,customs,制裁与禁运,published
+Primary Sanctions,初级制裁,customs,制裁与禁运,published
+Fuzzy Matching Screening,模糊匹配筛查,customs,制裁与禁运,published
+Sanctions Evasion,规避制裁,customs,制裁与禁运,published
+Vessel Tracking Compliance,船舶轨迹合规,customs,制裁与禁运,published
+AIS Dark Activity,自动识别系统关闭,customs,制裁与禁运,published
+Ship-to-ship Transfer,船对船过驳,customs,制裁与禁运,published
+Iran Oil Sanction,伊朗石油制裁,customs,制裁与禁运,published
+Joint Comprehensive Plan of Action,伊核全面协议,customs,制裁与禁运,published
+Cuba Embargo,古巴禁运,customs,制裁与禁运,published
+North Korea Sanction,朝鲜制裁,customs,制裁与禁运,published
+Russia Export Restriction,俄罗斯出口限制,customs,制裁与禁运,published
+EU Restrictive Measures,欧盟限制性措施,customs,制裁与禁运,published
+EU Consolidated Sanctions List,欧盟综合制裁名单,customs,制裁与禁运,published
+UN Security Council Sanctions,联合国安理会制裁,customs,制裁与禁运,published
+Sanctions Committee,制裁委员会,customs,制裁与禁运,published
+Sanctions Compliance Program,制裁合规制度,customs,制裁与禁运,published
+OFAC License,海外资产控制办公室许可,customs,制裁与禁运,published
+General License,通用许可,customs,制裁与禁运,published
+Specific License,特别许可,customs,制裁与禁运,published
+Delisting Request,移出名单申请,customs,制裁与禁运,published
+50 Percent Rule,百分之五十规则,customs,制裁与禁运,published
+Ownership and Control Analysis,所有权与控制权分析,customs,制裁与禁运,published
+Re-export to Sanctioned Country,向受制裁国再出口,customs,制裁与禁运,published
+CBP,美国海关与边境保护局,customs,欧美关务,published
+Entry,进口报关,customs,欧美关务,published
+Entry Summary Number,报关摘要编号,customs,欧美关务,published
+Customs Bond US,美国海关担保,customs,欧美关务,published
+Responsible Supervision,监管责任,customs,欧美关务,published
+Informed Compliance Publication,合规指引公告,customs,欧美关务,published
+Broker Power of Attorney US,美国报关委托书,customs,欧美关务,published
+Customs Broker Permit,报关行执照,customs,欧美关务,published
+Customs Form 7501,7501表,customs,欧美关务,published
+Customs Form 3461,3461表,customs,欧美关务,published
+Customs Form 5106,5106表,customs,欧美关务,published
+ISF,进口商安全申报,customs,欧美关务,published
 Importer Security Filing 10+2,10+2申报,customs,欧美关务,pending
 AMS,自动舱单系统,customs,欧美关务,pending
 ACE,自动商业环境系统,customs,欧美关务,pending
