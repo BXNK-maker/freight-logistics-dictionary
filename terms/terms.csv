@@ -4543,106 +4543,106 @@ Customs Form 7501,7501表,customs,欧美关务,published
 Customs Form 3461,3461表,customs,欧美关务,published
 Customs Form 5106,5106表,customs,欧美关务,published
 ISF,进口商安全申报,customs,欧美关务,published
-Importer Security Filing 10+2,10+2申报,customs,欧美关务,pending
-AMS,自动舱单系统,customs,欧美关务,pending
-ACE,自动商业环境系统,customs,欧美关务,pending
-ABI,自动报关接口,customs,欧美关务,pending
-Merchandise Processing Fee,商品处理费,customs,欧美关务,pending
-Harbor Maintenance Fee,港口维护费,customs,欧美关务,pending
-Section 301 Tariff,301条款关税,customs,欧美关务,pending
-Section 232 Tariff,232条款关税,customs,欧美关务,pending
-Section 321 De minimis,321条款微量免税,customs,欧美关务,pending
-De minimis Threshold US,美国微量免税门槛,customs,欧美关务,pending
-Section 301 Exclusion,301关税排除,customs,欧美关务,pending
-Exclusion Extension,排除延期,customs,欧美关务,pending
-First Sale US,首次销售,customs,欧美关务,pending
-Transfer Pricing Review,转让定价审查,customs,欧美关务,pending
-US Changed Circumstances Review,美国情势复审,customs,欧美关务,pending
-Cash Deposit Rate,保证金率,customs,欧美关务,pending
-Customs Liquidation,报关清算,customs,欧美关务,pending
-Reliquidation,重新清算,customs,欧美关务,pending
-Protest Filing,异议申诉,customs,欧美关务,pending
-Protest Period,异议期限,customs,欧美关务,pending
-Court of International Trade,国际贸易法院,customs,欧美关务,pending
-Federal Circuit Court,联邦巡回上诉法院,customs,欧美关务,pending
-Customs Ruling,海关裁定,customs,欧美关务,pending
-Binding Ruling US,美国约束性裁定,customs,欧美关务,pending
-Textile Visa,纺织品签证,customs,欧美关务,pending
-Textile Declaration,纺织品申报,customs,欧美关务,pending
-Reconciliation Entry,调节报关,customs,欧美关务,pending
-Post Summary Correction,摘要修正,customs,欧美关务,pending
-Importer of Record Number,进口商注册号,customs,欧美关务,pending
-Foreign Trade Zone US,美国对外贸易区,customs,欧美关务,pending
-Duty Deferral in FTZ,外贸区缓税,customs,欧美关务,pending
-Privileged Foreign Status,外国特权地位,customs,欧美关务,pending
-Customs Modernization Act,海关现代化法案,customs,欧美关务,pending
-GSP US,美国普惠制,customs,欧美关务,pending
-Suspension of Liquidation,中止清算,customs,欧美关务,pending
-CBP Trade Remedy Enforcement,海关贸易救济执行,customs,欧美关务,pending
-OSS,一站式申报服务,customs,欧美关务,pending
-VAT ID EU,欧盟增值税识别号,customs,欧美关务,pending
-Import VAT EU,欧盟进口增值税,customs,欧美关务,pending
-Reverse Charge,反向征收,customs,欧美关务,pending
-AEO EU,欧盟经营者认证,customs,欧美关务,pending
-AEOC,海关简化认证,customs,欧美关务,pending
-AEOS,安全保障认证,customs,欧美关务,pending
-AEOF,综合便利认证,customs,欧美关务,pending
-Common Customs Tariff,共同海关税则,customs,欧美关务,pending
-Integrated Tariff of the EU,欧盟综合税则,customs,欧美关务,pending
-EMCS,电子消费税监控系统,customs,欧美关务,pending
-EU Export Control System,欧盟出口管制系统,customs,欧美关务,pending
-Import Control System 2,欧盟进口控制系统2,customs,欧美关务,pending
-SAD Form,欧盟统一申报单,customs,欧美关务,pending
-Declarant EU,欧盟申报人,customs,欧美关务,pending
-Direct Representative,直接代理,customs,欧美关务,pending
-Indirect Representative,间接代理,customs,欧美关务,pending
-Customs Procedure Codes,海关程序代码,customs,欧美关务,pending
-End Use Procedure,最终用途程序,customs,欧美关务,pending
-Customs Warehousing,海关仓储,customs,欧美关务,pending
-Outward Processing Relief,外发加工减免,customs,欧美关务,pending
-Processing under Customs Control,海关监管下加工,customs,欧美关务,pending
-Drawback Procedure EU,退税程序,customs,欧美关务,pending
-Customs Debt,海关债务,customs,欧美关务,pending
-Customs Debtor,海关债务人,customs,欧美关务,pending
-Comprehensive Guarantee EU,欧盟综合担保,customs,欧美关务,pending
-Autonomous Tariff Suspension,自主关税中止,customs,欧美关务,pending
-End-use Tariff Relief,用途关税减免,customs,欧美关务,pending
-Customs Decision,海关决定,customs,欧美关务,pending
-BTI Validity,约束性信息有效期,customs,欧美关务,pending
-IOSS Registration,IOSS注册,customs,欧美关务,pending
-IOSS Intermediary,IOSS中介,customs,欧美关务,pending
-Distance Sales of Goods,远程销售货物,customs,欧美关务,pending
-Low Value Consignment,低值货件,customs,欧美关务,pending
-Customs Value for VAT,增值税完税价格,customs,欧美关务,pending
-Postponed VAT Accounting,递延增值税核算,customs,欧美关务,pending
-UK Customs,英国海关,customs,欧美关务,pending
-UK EORI,英国经营者识别号,customs,欧美关务,pending
-UK Global Tariff,英国全球关税,customs,欧美关务,pending
-CDS,英国海关申报系统,customs,欧美关务,pending
-9610,9610跨境电商,customs,跨境电商,pending
-9710,9710跨境电商B2B,customs,跨境电商,pending
-9810,9810跨境电商出口海外仓,customs,跨境电商,pending
-1210,1210保税跨境贸易电子商务,customs,跨境电商,pending
-1239,1239保税跨境贸易电子商务A,customs,跨境电商,pending
-0110,0110一般贸易,customs,跨境电商,pending
-1039,1039市场采购贸易,customs,跨境电商,pending
-E-commerce Supervision Code,跨境电商监管代码,customs,跨境电商,pending
-B2B Direct Export,跨境电商B2B直接出口,customs,跨境电商,pending
-Export to Overseas Warehouse,跨境电商出口海外仓,customs,跨境电商,pending
-E-commerce Enterprise Filing,跨境电商企业备案,customs,跨境电商,pending
-Payment Document,支付单,customs,跨境电商,pending
-Logistics Document,物流单,customs,跨境电商,pending
-Order Document,订单,customs,跨境电商,pending
-E-commerce Export Declaration,跨境电商出口申报,customs,跨境电商,pending
-List Declaration,清单申报,customs,跨境电商,pending
-Summary Declaration E-commerce,汇总统计申报,customs,跨境电商,pending
-Personal Postal Articles Tax,行邮税,customs,行邮监管,pending
-Personal Effects Tax,个人物品税,customs,行邮监管,pending
-Traveler Duty-free Allowance,旅客免税额度,customs,行邮监管,pending
-Personal Baggage Articles,个人行李物品,customs,行邮监管,pending
-Red Channel Declaration,红色通道申报,customs,行邮监管,pending
-Mail Supervision,进出境邮件监管,customs,行邮监管,pending
-International Mail Exchange Office,国际邮件互换局,customs,行邮监管,pending
+Importer Security Filing 10+2,10+2申报,customs,欧美关务,published
+AMS,自动舱单系统,customs,欧美关务,published
+ACE,自动商业环境系统,customs,欧美关务,published
+ABI,自动报关接口,customs,欧美关务,published
+Merchandise Processing Fee,商品处理费,customs,欧美关务,published
+Harbor Maintenance Fee,港口维护费,customs,欧美关务,published
+Section 301 Tariff,301条款关税,customs,欧美关务,published
+Section 232 Tariff,232条款关税,customs,欧美关务,published
+Section 321 De minimis,321条款微量免税,customs,欧美关务,published
+De minimis Threshold US,美国微量免税门槛,customs,欧美关务,published
+Section 301 Exclusion,301关税排除,customs,欧美关务,published
+Exclusion Extension,排除延期,customs,欧美关务,published
+First Sale US,首次销售,customs,欧美关务,published
+Transfer Pricing Review,转让定价审查,customs,欧美关务,published
+US Changed Circumstances Review,美国情势复审,customs,欧美关务,published
+Cash Deposit Rate,保证金率,customs,欧美关务,published
+Customs Liquidation,报关清算,customs,欧美关务,published
+Reliquidation,重新清算,customs,欧美关务,published
+Protest Filing,异议申诉,customs,欧美关务,published
+Protest Period,异议期限,customs,欧美关务,published
+Court of International Trade,国际贸易法院,customs,欧美关务,published
+Federal Circuit Court,联邦巡回上诉法院,customs,欧美关务,published
+Customs Ruling,海关裁定,customs,欧美关务,published
+Binding Ruling US,美国约束性裁定,customs,欧美关务,published
+Textile Visa,纺织品签证,customs,欧美关务,published
+Textile Declaration,纺织品申报,customs,欧美关务,published
+Reconciliation Entry,调节报关,customs,欧美关务,published
+Post Summary Correction,摘要修正,customs,欧美关务,published
+Importer of Record Number,进口商注册号,customs,欧美关务,published
+Foreign Trade Zone US,美国对外贸易区,customs,欧美关务,published
+Duty Deferral in FTZ,外贸区缓税,customs,欧美关务,published
+Privileged Foreign Status,外国特权地位,customs,欧美关务,published
+Customs Modernization Act,海关现代化法案,customs,欧美关务,published
+GSP US,美国普惠制,customs,欧美关务,published
+Suspension of Liquidation,中止清算,customs,欧美关务,published
+CBP Trade Remedy Enforcement,海关贸易救济执行,customs,欧美关务,published
+OSS,一站式申报服务,customs,欧美关务,published
+VAT ID EU,欧盟增值税识别号,customs,欧美关务,published
+Import VAT EU,欧盟进口增值税,customs,欧美关务,published
+Reverse Charge,反向征收,customs,欧美关务,published
+AEO EU,欧盟经营者认证,customs,欧美关务,published
+AEOC,海关简化认证,customs,欧美关务,published
+AEOS,安全保障认证,customs,欧美关务,published
+AEOF,综合便利认证,customs,欧美关务,published
+Common Customs Tariff,共同海关税则,customs,欧美关务,published
+Integrated Tariff of the EU,欧盟综合税则,customs,欧美关务,published
+EMCS,电子消费税监控系统,customs,欧美关务,published
+EU Export Control System,欧盟出口管制系统,customs,欧美关务,published
+Import Control System 2,欧盟进口控制系统2,customs,欧美关务,published
+SAD Form,欧盟统一申报单,customs,欧美关务,published
+Declarant EU,欧盟申报人,customs,欧美关务,published
+Direct Representative,直接代理,customs,欧美关务,published
+Indirect Representative,间接代理,customs,欧美关务,published
+Customs Procedure Codes,海关程序代码,customs,欧美关务,published
+End Use Procedure,最终用途程序,customs,欧美关务,published
+Customs Warehousing,海关仓储,customs,欧美关务,published
+Outward Processing Relief,外发加工减免,customs,欧美关务,published
+Processing under Customs Control,海关监管下加工,customs,欧美关务,published
+Drawback Procedure EU,退税程序,customs,欧美关务,published
+Customs Debt,海关债务,customs,欧美关务,published
+Customs Debtor,海关债务人,customs,欧美关务,published
+Comprehensive Guarantee EU,欧盟综合担保,customs,欧美关务,published
+Autonomous Tariff Suspension,自主关税中止,customs,欧美关务,published
+End-use Tariff Relief,用途关税减免,customs,欧美关务,published
+Customs Decision,海关决定,customs,欧美关务,published
+BTI Validity,约束性信息有效期,customs,欧美关务,published
+IOSS Registration,IOSS注册,customs,欧美关务,published
+IOSS Intermediary,IOSS中介,customs,欧美关务,published
+Distance Sales of Goods,远程销售货物,customs,欧美关务,published
+Low Value Consignment,低值货件,customs,欧美关务,published
+Customs Value for VAT,增值税完税价格,customs,欧美关务,published
+Postponed VAT Accounting,递延增值税核算,customs,欧美关务,published
+UK Customs,英国海关,customs,欧美关务,published
+UK EORI,英国经营者识别号,customs,欧美关务,published
+UK Global Tariff,英国全球关税,customs,欧美关务,published
+CDS,英国海关申报系统,customs,欧美关务,published
+9610,9610跨境电商,customs,跨境电商,published
+9710,9710跨境电商B2B,customs,跨境电商,published
+9810,9810跨境电商出口海外仓,customs,跨境电商,published
+1210,1210保税跨境贸易电子商务,customs,跨境电商,published
+1239,1239保税跨境贸易电子商务A,customs,跨境电商,published
+0110,0110一般贸易,customs,跨境电商,published
+1039,1039市场采购贸易,customs,跨境电商,published
+E-commerce Supervision Code,跨境电商监管代码,customs,跨境电商,published
+B2B Direct Export,跨境电商B2B直接出口,customs,跨境电商,published
+Export to Overseas Warehouse,跨境电商出口海外仓,customs,跨境电商,published
+E-commerce Enterprise Filing,跨境电商企业备案,customs,跨境电商,published
+Payment Document,支付单,customs,跨境电商,published
+Logistics Document,物流单,customs,跨境电商,published
+Order Document,订单,customs,跨境电商,published
+E-commerce Export Declaration,跨境电商出口申报,customs,跨境电商,published
+List Declaration,清单申报,customs,跨境电商,published
+Summary Declaration E-commerce,汇总统计申报,customs,跨境电商,published
+Personal Postal Articles Tax,行邮税,customs,行邮监管,published
+Personal Effects Tax,个人物品税,customs,行邮监管,published
+Traveler Duty-free Allowance,旅客免税额度,customs,行邮监管,published
+Personal Baggage Articles,个人行李物品,customs,行邮监管,published
+Red Channel Declaration,红色通道申报,customs,行邮监管,published
+Mail Supervision,进出境邮件监管,customs,行邮监管,published
+International Mail Exchange Office,国际邮件互换局,customs,行邮监管,published
 Express Supervision Center,快件监管中心,customs,行邮监管,pending
 Express Operator Filing,快件运营人备案,customs,行邮监管,pending
 KJ3 Declaration,KJ3类快件,customs,行邮监管,pending
