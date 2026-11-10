@@ -4246,9 +4246,9 @@ Fabric Forward Rule,织物往前规则,customs,原产地规则,published
 Triple Transformation Rule,三重改变规则,customs,原产地规则,published
 Double Substantial Transformation,双重实质改变,customs,原产地规则,published
 Retroactive Issuance,原产地证补发,customs,原产地规则,published
-Duplicate Certificate,原产地证副本,customs,原产地规则,pending
-Amendment of CO,原产地证更改,customs,原产地规则,pending
-Certificate Validity Period,原产地证有效期,customs,原产地规则,pending
+Duplicate Certificate,原产地证副本,customs,原产地规则,published
+Amendment of CO,原产地证更改,customs,原产地规则,published
+Certificate Validity Period,原产地证有效期,customs,原产地规则,published
 Retention of Origin Documents,原产地单证留存,customs,原产地规则,published
 Post-importation Verification,进口后核查,customs,原产地规则,published
 Invalid Certificate,无效原产地证,customs,原产地规则,published
@@ -4346,103 +4346,103 @@ Empty Ledger,台账空转,customs,加工贸易,published
 Prohibited Category List,禁止类目录,customs,加工贸易,published
 Restricted Category List,限制类目录,customs,加工贸易,published
 Allowed Category List,允许类目录,customs,加工贸易,published
-Verification Cycle,核销周期,customs,加工贸易,pending
-Surplus Material Carry-over,余料结转,customs,加工贸易,pending
-Subcontract Processing Certificate,委托加工证明,customs,加工贸易,pending
-Defective Goods Re-export,不良品复出口,customs,加工贸易,pending
-Scrap Duty Payment,边角料补税,customs,加工贸易,pending
-Scrap Disposal Application,边角料处置,customs,加工贸易,pending
-Final Settlement,清算核销,customs,加工贸易,pending
-Shortage Tax Make-up,短少补税,customs,加工贸易,pending
-Duty Suspension for Materials,料件保税,customs,加工贸易,pending
-Export Processing Enterprise,加工出口企业,customs,加工贸易,pending
-OEM under Processing Trade,贴牌加工,customs,加工贸易,pending
-Bonded Zone,保税区,customs,保税物流,pending
-Bonded Logistics Park,保税物流园区,customs,保税物流,pending
-Bonded Logistics Center Type B,保税物流中心B型,customs,保税物流,pending
-Bonded Port Area,保税港区,customs,综保区业态,pending
-Free Trade Port,自由贸易港,customs,综保区业态,pending
-Export Processing Zone,出口加工区,customs,综保区业态,pending
-Bonded Display,保税展示,customs,综保区业态,pending
-Global Maintenance Center,全球维修中心,customs,综保区业态,pending
-Bonded Remanufacturing,保税再制造,customs,综保区业态,pending
-Bonded Finance Leasing,保税融资租赁,customs,综保区业态,pending
-Bonded Futures Delivery,保税期货交割,customs,综保区业态,pending
-Entry into Zone,入区申报,customs,综保区业态,pending
-Exit from Zone,出区申报,customs,综保区业态,pending
-Zone-to-Zone Transfer,区间调拨,customs,保税物流,pending
-Simple Processing in Zone,区内简单加工,customs,综保区业态,pending
-Tax Refund Upon Entry into Zone,入区退税,customs,综保区业态,pending
-Duty Exemption for Zone Equipment,区内设备免税,customs,综保区业态,pending
-Verification of Zone Goods,区内核销,customs,综保区业态,pending
-Bonded Inventory Management,保税库存管理,customs,保税物流,pending
-Bonded Storage Period,保税存储期限,customs,保税物流,pending
-Overdue Bonded Goods,超期未报关货物,customs,保税物流,pending
-Bonded Transit,保税转口,customs,保税物流,pending
-Distribution and Sorting,集拼分拨,customs,保税物流,pending
-Bonded Distribution,保税配送,customs,保税物流,pending
-VMI Warehouse,供应商管理库存仓,customs,保税物流,pending
-Deferred Duty Payment,暂缓纳税,customs,保税物流,pending
-Excise Suspension,消费税缓征,customs,保税物流,pending
-Re-export from Bonded Zone,出区复出口,customs,综保区业态,pending
-Checkpoint Management,卡口管理,customs,综保区业态,pending
-Port-Zone Linkage,区港联动,customs,综保区业态,pending
-Multimodal Transport Supervision,多式联运监管,customs,保税物流,pending
-Bonded Stock Pile,保税备货,customs,跨境电商,pending
-SPS Measures,卫生与植物卫生措施,customs,检验检疫,pending
-Sanitary Requirement,卫生要求,customs,检验检疫,pending
-Phytosanitary Requirement,植物卫生要求,customs,检验检疫,pending
-Market Access for Imports,进口准入,customs,检验检疫,pending
-Overseas Manufacturer Registration,境外生产企业注册,customs,检验检疫,pending
-Overseas Plant Registration Number,境外生产企业注册号,customs,检验检疫,pending
-Packing Plant Registration,加工厂注册,customs,检验检疫,pending
-Quarantine Permit for Entry,进境动植物检疫许可证,customs,检验检疫,pending
-Quarantine Permit Application,检疫许可申请,customs,检验检疫,pending
-Plant Quarantine,植物检疫,customs,检验检疫,pending
-Quarantine Pest,检疫性有害生物,customs,检验检疫,pending
-Pest Risk Analysis,有害生物风险分析,customs,检验检疫,pending
-PRA Report,风险评估报告,customs,检验检疫,pending
-Quarantine on Arrival,入境口岸检疫,customs,检验检疫,pending
-Isolation Quarantine,隔离检疫,customs,检验检疫,pending
-Ship Sanitation Control,船舶卫生控制,customs,检验检疫,pending
-Ship Sanitation Certificate,船舶卫生证书,customs,检验检疫,pending
-Maritime Declaration of Health,航海健康申报书,customs,检验检疫,pending
-International Certificate of Vaccination,国际预防接种证书,customs,检验检疫,pending
-Yellow Fever Certificate,黄热病证书,customs,检验检疫,pending
-Notifiable Disease Surveillance,监测传染病,customs,检验检疫,pending
-Export Food Producer Record,出口食品生产企业备案,customs,检验检疫,pending
-Food Safety Import Inspection,进口食品安全检验,customs,检验检疫,pending
-Labeling Review,标签审核,customs,检验检疫,pending
-Chinese Label Compliance,中文标签合规,customs,检验检疫,pending
-Traceability Certificate,溯源证书,customs,检验检疫,pending
-Sanitary Certificate for Export,出口卫生证书,customs,检验检疫,pending
-HACCP Certification,危害分析关键控制点认证,customs,检验检疫,pending
-Hazard Analysis Critical Control Point,HACCP体系,customs,检验检疫,pending
-Good Manufacturing Practice,良好生产规范,customs,检验检疫,pending
-BSE-related Import Restriction,疯牛病禁令,customs,检验检疫,pending
-Avian Influenza Ban,禽流感禁令,customs,检验检疫,pending
-African Swine Fever Restriction,非洲猪瘟禁令,customs,检验检疫,pending
-Animal Disease-free Zone,无规定动物疫病区,customs,检验检疫,pending
-Foot and Mouth Disease Restriction,口蹄疫限制,customs,检验检疫,pending
-Quarantine Disposal,检疫处理,customs,检验检疫,pending
-Fumigation Treatment,熏蒸处理,customs,检验检疫,pending
-Heat Treatment,热处理,customs,检验检疫,pending
-Disinfection Treatment,消毒处理,customs,检验检疫,pending
-Non-compliant Goods Return,不合格货物退运,customs,检验检疫,pending
-Destroy on Site,就地销毁,customs,检验检疫,pending
-Failed Inspection Return,检验不合格退运,customs,检验检疫,pending
-Inspection Release Notice,检验放行通知,customs,检验检疫,pending
-Compulsory Certification Catalogue,强制性认证目录,customs,检验检疫,pending
-Statutory Inspection,法定检验,customs,检验检疫,pending
-Legal Inspection Catalogue,法检目录,customs,检验检疫,pending
-Inspection Waiver Catalogue,免于检验目录,customs,检验检疫,pending
-Import Food Safety Supervision,进口食品安全监管,customs,检验检疫,pending
-Pesticide Residue Limit,农药残留限量,customs,检验检疫,pending
-Veterinary Drug Residue Limit,兽药残留限量,customs,检验检疫,pending
-Heavy Metal Limit,重金属限量,customs,检验检疫,pending
-Additive Compliance,添加剂合规,customs,检验检疫,pending
-GMO Safety Approval,转基因安全证书,customs,检验检疫,pending
-Wood Packaging Standard,木质包装检疫标准,customs,检验检疫,pending
+Verification Cycle,核销周期,customs,加工贸易,published
+Surplus Material Carry-over,余料结转,customs,加工贸易,published
+Subcontract Processing Certificate,委托加工证明,customs,加工贸易,published
+Defective Goods Re-export,不良品复出口,customs,加工贸易,published
+Scrap Duty Payment,边角料补税,customs,加工贸易,published
+Scrap Disposal Application,边角料处置,customs,加工贸易,published
+Final Settlement,清算核销,customs,加工贸易,published
+Shortage Tax Make-up,短少补税,customs,加工贸易,published
+Duty Suspension for Materials,料件保税,customs,加工贸易,published
+Export Processing Enterprise,加工出口企业,customs,加工贸易,published
+OEM under Processing Trade,贴牌加工,customs,加工贸易,published
+Bonded Zone,保税区,customs,保税物流,published
+Bonded Logistics Park,保税物流园区,customs,保税物流,published
+Bonded Logistics Center Type B,保税物流中心B型,customs,保税物流,published
+Bonded Port Area,保税港区,customs,综保区业态,published
+Free Trade Port,自由贸易港,customs,综保区业态,published
+Export Processing Zone,出口加工区,customs,综保区业态,published
+Bonded Display,保税展示,customs,综保区业态,published
+Global Maintenance Center,全球维修中心,customs,综保区业态,published
+Bonded Remanufacturing,保税再制造,customs,综保区业态,published
+Bonded Finance Leasing,保税融资租赁,customs,综保区业态,published
+Bonded Futures Delivery,保税期货交割,customs,综保区业态,published
+Entry into Zone,入区申报,customs,综保区业态,published
+Exit from Zone,出区申报,customs,综保区业态,published
+Zone-to-Zone Transfer,区间调拨,customs,保税物流,published
+Simple Processing in Zone,区内简单加工,customs,综保区业态,published
+Tax Refund Upon Entry into Zone,入区退税,customs,综保区业态,published
+Duty Exemption for Zone Equipment,区内设备免税,customs,综保区业态,published
+Verification of Zone Goods,区内核销,customs,综保区业态,published
+Bonded Inventory Management,保税库存管理,customs,保税物流,published
+Bonded Storage Period,保税存储期限,customs,保税物流,published
+Overdue Bonded Goods,超期未报关货物,customs,保税物流,published
+Bonded Transit,保税转口,customs,保税物流,published
+Distribution and Sorting,集拼分拨,customs,保税物流,published
+Bonded Distribution,保税配送,customs,保税物流,published
+VMI Warehouse,供应商管理库存仓,customs,保税物流,published
+Deferred Duty Payment,暂缓纳税,customs,保税物流,published
+Excise Suspension,消费税缓征,customs,保税物流,published
+Re-export from Bonded Zone,出区复出口,customs,综保区业态,published
+Checkpoint Management,卡口管理,customs,综保区业态,published
+Port-Zone Linkage,区港联动,customs,综保区业态,published
+Multimodal Transport Supervision,多式联运监管,customs,保税物流,published
+Bonded Stock Pile,保税备货,customs,跨境电商,published
+SPS Measures,卫生与植物卫生措施,customs,检验检疫,published
+Sanitary Requirement,卫生要求,customs,检验检疫,published
+Phytosanitary Requirement,植物卫生要求,customs,检验检疫,published
+Market Access for Imports,进口准入,customs,检验检疫,published
+Overseas Manufacturer Registration,境外生产企业注册,customs,检验检疫,published
+Overseas Plant Registration Number,境外生产企业注册号,customs,检验检疫,published
+Packing Plant Registration,加工厂注册,customs,检验检疫,published
+Quarantine Permit for Entry,进境动植物检疫许可证,customs,检验检疫,published
+Quarantine Permit Application,检疫许可申请,customs,检验检疫,published
+Plant Quarantine,植物检疫,customs,检验检疫,published
+Quarantine Pest,检疫性有害生物,customs,检验检疫,published
+Pest Risk Analysis,有害生物风险分析,customs,检验检疫,published
+PRA Report,风险评估报告,customs,检验检疫,published
+Quarantine on Arrival,入境口岸检疫,customs,检验检疫,published
+Isolation Quarantine,隔离检疫,customs,检验检疫,published
+Ship Sanitation Control,船舶卫生控制,customs,检验检疫,published
+Ship Sanitation Certificate,船舶卫生证书,customs,检验检疫,published
+Maritime Declaration of Health,航海健康申报书,customs,检验检疫,published
+International Certificate of Vaccination,国际预防接种证书,customs,检验检疫,published
+Yellow Fever Certificate,黄热病证书,customs,检验检疫,published
+Notifiable Disease Surveillance,监测传染病,customs,检验检疫,published
+Export Food Producer Record,出口食品生产企业备案,customs,检验检疫,published
+Food Safety Import Inspection,进口食品安全检验,customs,检验检疫,published
+Labeling Review,标签审核,customs,检验检疫,published
+Chinese Label Compliance,中文标签合规,customs,检验检疫,published
+Traceability Certificate,溯源证书,customs,检验检疫,published
+Sanitary Certificate for Export,出口卫生证书,customs,检验检疫,published
+HACCP Certification,危害分析关键控制点认证,customs,检验检疫,published
+Hazard Analysis Critical Control Point,HACCP体系,customs,检验检疫,published
+Good Manufacturing Practice,良好生产规范,customs,检验检疫,published
+BSE-related Import Restriction,疯牛病禁令,customs,检验检疫,published
+Avian Influenza Ban,禽流感禁令,customs,检验检疫,published
+African Swine Fever Restriction,非洲猪瘟禁令,customs,检验检疫,published
+Animal Disease-free Zone,无规定动物疫病区,customs,检验检疫,published
+Foot and Mouth Disease Restriction,口蹄疫限制,customs,检验检疫,published
+Quarantine Disposal,检疫处理,customs,检验检疫,published
+Fumigation Treatment,熏蒸处理,customs,检验检疫,published
+Heat Treatment,热处理,customs,检验检疫,published
+Disinfection Treatment,消毒处理,customs,检验检疫,published
+Non-compliant Goods Return,不合格货物退运,customs,检验检疫,published
+Destroy on Site,就地销毁,customs,检验检疫,published
+Failed Inspection Return,检验不合格退运,customs,检验检疫,published
+Inspection Release Notice,检验放行通知,customs,检验检疫,published
+Compulsory Certification Catalogue,强制性认证目录,customs,检验检疫,published
+Statutory Inspection,法定检验,customs,检验检疫,published
+Legal Inspection Catalogue,法检目录,customs,检验检疫,published
+Inspection Waiver Catalogue,免于检验目录,customs,检验检疫,published
+Import Food Safety Supervision,进口食品安全监管,customs,检验检疫,published
+Pesticide Residue Limit,农药残留限量,customs,检验检疫,published
+Veterinary Drug Residue Limit,兽药残留限量,customs,检验检疫,published
+Heavy Metal Limit,重金属限量,customs,检验检疫,published
+Additive Compliance,添加剂合规,customs,检验检疫,published
+GMO Safety Approval,转基因安全证书,customs,检验检疫,published
+Wood Packaging Standard,木质包装检疫标准,customs,检验检疫,published
 Customs Recordal of IP,知识产权海关备案,customs,知识产权保护,pending
 Trademark Recordal,商标备案,customs,知识产权保护,pending
 Copyright Recordal,著作权备案,customs,知识产权保护,pending
