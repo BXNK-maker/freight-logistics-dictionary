@@ -1,7 +1,7 @@
 ---
 title: "Tariff Dismantling Schedule"
 linkTitle: "关税削减时间表"
-date: 2026-11-09
+date: 2026-11-10
 type: docs
 subcategory: "自贸协定"
 ---
@@ -9,37 +9,31 @@ subcategory: "自贸协定"
 > 📖 分类：**关务合规** / 自贸协定　｜　Tariff Dismantling Schedule = 关税削减时间表
 
 ## 定义
-
-关税削减时间表（Tariff Dismantling Schedule）是自由贸易协定（FTA）或区域经济一体化组织中，各成员国承诺在协定期限内逐步降低并最终取消特定商品进口关税的详细时间规划表。它明确规定了不同税号商品的降税基准、年度降税幅度和完全免税的达成年份，是外贸企业享受关税优惠政策的核心依据。
+关税削减时间表（Tariff Dismantling Schedule）是指在自由贸易协定（FTA）框架下，参与国之间逐步降低并最终取消特定商品进口关税的时间规划表。它是进出口企业享受区域贸易优惠政策的核心依据，通常以表格形式列出不同税号商品的降税阶段和年度目标税率。
 
 ## 详细说明
-
-- 使用场景：广泛应用于进出口报关前期的关税成本核算、原产地证书筹划，以及企业制定长期跨国供应链布局和采购地转移策略时。
-- 关键规则与特点：实行“分阶段递减”机制，通常将协定税目分为即时清关零关税、过渡期分步降税（如5年或10年削减至零）以及敏锐产品排除在外等几大类。不同原产地标准的货物对应不同的削减档次。
-- 实务注意事项：货代和外贸人员在操作时，必须核对最新的海关税则归类和协定税率表，确认货物是否处于当年的减免档位内，并注意准确申领和提交符合要求的原产地证书，否则无法享受时间表内对应的优惠关税。
+- 使用场景：适用于享受区域全面经济伙伴关系协定（RCEP）或中国-东盟自贸区等优惠关税待遇的货物申报，帮助企业测算不同年份的进口成本。
+- 关键规则或数字：降税通常分为立即零关税、渐进式削减（如在5年、10年内分阶段降至零）以及长期维持或例外排除，具体取决于商品的HS编码（协调制度编码）和原产地标准。
+- 实务注意事项：报关前必须准确归类并核对相应年份的协定税率，部分产品在过渡期内存在年度配额限制或特定季节性降税规则。
 
 ## 中英对照
-
-| 中文表达 | 英文表达 |
+| 英文表达 | 中文翻译 |
 | :--- | :--- |
-| 关税削减时间表 | Tariff Dismantling Schedule |
-| 降税基准 | Base Rate / Baseline Tariff |
-| 协定税率 | Preferential Tariff Rate |
-| 原产地规则 | Rules of Origin (ROO) |
-| 降税阶段 | Staging Category / Phasing-out Period |
+| Tariff Dismantling Schedule | 关税削减时间表 |
+| Preferential Tariff Rate | 优惠关税税率 |
+| Staging Category | 降税类别 / 阶段分类 |
+| Rules of Origin (ROO) | 原产地规则 |
+| Baseline Rate | 基准税率 |
 
 ## 相关术语
-
-- Free Trade Agreement, FTA（自由贸易协定）
-- Rules of Origin, ROO（原产地规则）
-- Certificate of Origin, C/O（原产地证书）
-- Most-Favoured-Nation Treatment, MFN（最惠国待遇）
-- Harmonized System, HS Code（协调制度商品编码）
+- `Rules of Origin（原产地规则）`
+- `Harmonized System Code（商品名称及编码协调制度）`
+- `Certificate of Origin（原产地证书）`
+- `Most-Favoured-Nation Treatment（最惠国待遇）`
 
 ## 常见误区
-
-- 误以为协定一生效所有商品立刻免税：忽视了大部分关税削减时间表采用的是长达数年甚至十数年的过渡期分步降税，并非所有税号都一步到位降为零。
-- 混淆基准税率与现行关税：未搞清削减时间表的计算基础是协定生效当年的基础税率，而非企业临时查询到的即时单边关税。
+- 误以为所有自贸协定伙伴国的所有商品都会在协定生效当天立即降为零关税，忽视了长达数年的过渡期安排。
+- 混淆了基准税率（Baseline Rate）与现行最惠国（MFN）税率，导致在计算降税幅度和企业成本时出现偏差。
 
 ---
 

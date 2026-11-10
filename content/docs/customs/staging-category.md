@@ -1,7 +1,7 @@
 ---
 title: "Staging Category"
 linkTitle: "过渡类别"
-date: 2026-11-09
+date: 2026-11-10
 type: docs
 subcategory: "自贸协定"
 ---
@@ -10,13 +10,15 @@ subcategory: "自贸协定"
 
 ## 定义
 
-Staging Category（过渡类别）是国际货运、仓储管理及供应链物流中，用于对等待装卸、分拣、清关或进一步转运的货物进行分类和暂存的管理标识。该分类机制帮助仓库和货代公司在货物进入主作业区前进行高效的物理隔离与系统排程，以确保复杂的物流节点运作顺畅。
+Staging Category（中文：过渡类别）是仓储物流与供应链管理中，根据货物的属性、周转率或最终目的地，将待处理货物分类暂存的一种管理机制。它主要用于货物在入库、分拣、打包或装载上车之前的过渡区域，以提升整体作业效率。
+
 
 ## 详细说明
 
-- 使用场景：广泛应用于大型分拨中心（DC）、跨境电商仓库、港口集装箱货运站（CFS）以及航空货站，特别是在处理拼箱货（LCL）和多国集运（Multi-origin Consolidation）时最为常见。
-- 关键规则与运作：仓库管理系统（WMS）通常根据货物的目的地、航班/船期、危险品属性或客户优先级自动赋予相应的 Staging Category。货物到达后必须严格按照指定类别放置在对应的过渡区（Staging Area），通常有明确的时间限制（如免费暂存期或48小时内必须转运）。
-- 实务注意事项：货代与现场操作人员必须实时同步 Staging Category 信息，防止不同批次的货物混淆；若涉及海关监管货物，过渡类别的划分还需符合海关查验和监管区域的管理规定。
+- 使用场景：广泛应用于大型分拨中心、跨境电商仓库及货代集散仓，尤其在处理海量SKU和快节奏的拼箱（LCL）货物时最为常见。
+- 关键规则或数字：通常根据货物的紧急程度、尺寸重量或发货路线（如特定航线或车次）划分为3到5个不同的过渡级别，以确保先进先出（FIFO）或高效拼载。
+- 实务注意事项：过渡区域严禁长期堆放货物，必须保持动态流转；分类标识要清晰，避免不同类别的货物发生混淆或错发。
+
 
 ## 中英对照
 
@@ -24,21 +26,22 @@ Staging Category（过渡类别）是国际货运、仓储管理及供应链物�
 | :--- | :--- |
 | 过渡类别 | Staging Category |
 | 暂存区 / 过渡区 | Staging Area |
-| 拼箱货 | Less than Container Load (LCL) |
-| 仓库管理系统 | Warehouse Management System (WMS) |
-| 货物分拨 | Cargo Distribution |
+| 货物暂存 | Cargo Staging |
+| 分拣与暂存 | Sort and Stage |
+
 
 ## 相关术语
 
 - Staging Area（暂存区）
-- Container Freight Station (CFS)（集装箱货运站）
-- Warehouse Management System (WMS)（仓库管理系统）
-- Cross-docking (越库作业)
+- Cross-docking（越库作业）
+- LCL (Less than Container Load)（拼箱）
+- FIFO (First In, First Out)（先进先出）
+
 
 ## 常见误区
 
-- 误区一：认为 Staging Category 只是简单的货物堆放标签。实际上它直接关联着仓库的库位分配逻辑和后续的出货优先级，影响整体作业效率。
-- 误区二：将过渡区（Staging Area）与长期仓储区（Storage Area）混淆。过渡区仅用于短期周转，不适合进行长期的库存存放。
+- 认为过渡类别等同于长期仓储：Staging Category针对的是短期流转的货物，不应用于长时间的库存积压。
+- 忽视动态调整：固定死板地套用某种分类标准，而不根据每日的实际订单结构和出货高峰灵活调整过渡策略。
 
 ---
 

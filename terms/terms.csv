@@ -4249,103 +4249,103 @@ Retroactive Issuance,原产地证补发,customs,原产地规则,published
 Duplicate Certificate,原产地证副本,customs,原产地规则,pending
 Amendment of CO,原产地证更改,customs,原产地规则,pending
 Certificate Validity Period,原产地证有效期,customs,原产地规则,pending
-Retention of Origin Documents,原产地单证留存,customs,原产地规则,pending
-Post-importation Verification,进口后核查,customs,原产地规则,pending
-Invalid Certificate,无效原产地证,customs,原产地规则,pending
-C/O Issuing Authority,原产地证签发机构,customs,原产地规则,pending
-Chamber of Commerce Certification,商会认证,customs,原产地规则,pending
-REX Number,注册出口商编号,customs,原产地规则,pending
-Non-originating Materials,非原产材料,customs,原产地规则,pending
-Originating Materials,原产材料,customs,原产地规则,pending
-RCEP,区域全面经济伙伴关系协定,customs,自贸协定,pending
-CPTPP,全面与进步跨太平洋伙伴关系协定,customs,自贸协定,pending
-ASEAN FTA,中国东盟自贸区,customs,自贸协定,pending
-China-Australia FTA,中澳自贸协定,customs,自贸协定,pending
-China-Korea FTA,中韩自贸协定,customs,自贸协定,pending
-China-Switzerland FTA,中瑞自贸协定,customs,自贸协定,pending
-China-Pakistan FTA,中巴自贸协定,customs,自贸协定,pending
-China-Chile FTA,中智自贸协定,customs,自贸协定,pending
-China-Peru FTA,中秘自贸协定,customs,自贸协定,pending
-China-ASEAN Upgrade Protocol,中国东盟升级议定书,customs,自贸协定,pending
-China-Mauritius FTA,中毛自贸协定,customs,自贸协定,pending
-China-Cambodia FTA,中柬自贸协定,customs,自贸协定,pending
-China-NZ FTA,中新自贸协定,customs,自贸协定,pending
-China-Singapore FTA,中国新加坡自贸协定,customs,自贸协定,pending
-China-Iceland FTA,中冰自贸协定,customs,自贸协定,pending
-China-Georgia FTA,中格自贸协定,customs,自贸协定,pending
-China-Serbia FTA,中塞自贸协定,customs,自贸协定,pending
-ECFA,海峡两岸经济合作框架协议,customs,自贸协定,pending
-CEPA,内地与香港关于建立更紧密经贸关系的安排,customs,自贸协定,pending
-CEPA Macao,内地与澳门关于建立更紧密经贸关系的安排,customs,自贸协定,pending
-EU-Korea FTA,欧盟韩国自贸协定,customs,自贸协定,pending
-EU-Japan EPA,欧盟日本经济伙伴关系协定,customs,自贸协定,pending
-EU-Vietnam FTA,欧盟越南自贸协定,customs,自贸协定,pending
-NAFTA,北美自由贸易协定,customs,自贸协定,pending
-EFTA,欧洲自由贸易联盟,customs,自贸协定,pending
-Gulf Cooperation Council FTA,海合会自贸协定,customs,自贸协定,pending
-Regional Comprehensive Tariff Schedule,区域关税减让表,customs,自贸协定,pending
-Tariff Dismantling Schedule,关税削减时间表,customs,自贸协定,pending
-Tariff Liberalization,关税自由化,customs,自贸协定,pending
-Tariff Commitment,关税减让承诺,customs,自贸协定,pending
-WTO Tariff Concession,世贸关税减让,customs,自贸协定,pending
-GATT Tariff Schedule,关贸总协定税则,customs,自贸协定,pending
-Negative List for Services,服务贸易负面清单,customs,自贸协定,pending
-Preferential Origin Declaration,优惠原产地声明,customs,自贸协定,pending
-FTA Accumulation,自贸区累积规则,customs,自贸协定,pending
-FTA Tariff Differential,协定税率差,customs,自贸协定,pending
-Rules of Origin Protocol,原产地规则议定书,customs,自贸协定,pending
-Economic Partnership Agreement,经济伙伴关系协定,customs,自贸协定,pending
-Trade in Goods Agreement,货物贸易协定,customs,自贸协定,pending
-Early Harvest Program,早期收获计划,customs,自贸协定,pending
-Sensitive Track,敏感产品轨道,customs,自贸协定,pending
-Normal Track,正常产品轨道,customs,自贸协定,pending
-Staging Category,过渡类别,customs,自贸协定,pending
-Transitional Period,过渡期安排,customs,自贸协定,pending
-Special Safeguard in FTA,自贸区特殊保障,customs,自贸协定,pending
-Bilateral Safeguard Clause,双边保障条款,customs,自贸协定,pending
-RCEP Accumulation,区域累积,customs,自贸协定,pending
-RCEP Approved Exporter,经核准出口商制度,customs,自贸协定,pending
-ASEAN Trade in Goods Agreement,东盟货物贸易协定,customs,自贸协定,pending
-ATIGA Form D,东盟格式D证书,customs,自贸协定,pending
-APTA Certificate,亚太贸易协定原产地证,customs,自贸协定,pending
-Asia-Pacific Trade Agreement,亚太贸易协定,customs,自贸协定,pending
-GSP Scheme,普惠制方案,customs,自贸协定,pending
-Graduation from GSP,普惠制毕业,customs,自贸协定,pending
-EU GSP Regulation,欧盟普惠制条例,customs,自贸协定,pending
-GSP Rule of Origin,普惠制原产地规则,customs,自贸协定,pending
-Processing with Imported Materials,进料加工,customs,加工贸易,pending
-Processing with Supplied Materials,来料加工,customs,加工贸易,pending
-Electronic Handbook,电子手册,customs,加工贸易,pending
-Electronic Account Book,电子账册,customs,加工贸易,pending
-E-account Book Filing,账册备案,customs,加工贸易,pending
-Handbook Cancellation,手册核销,customs,加工贸易,pending
-Periodic Write-off,定期核销,customs,加工贸易,pending
-Contract Filing,合同备案,customs,加工贸易,pending
-Contract Change,合同变更,customs,加工贸易,pending
-Actual Consumption Rate,实际单耗,customs,加工贸易,pending
-Consumption of Materials,工艺损耗,customs,加工贸易,pending
-Technical Loss Rate,工艺损耗率,customs,加工贸易,pending
-Reasonable Loss,合理损耗,customs,加工贸易,pending
-Scrap Rate,损耗率,customs,加工贸易,pending
-Leftover Materials,边角料,customs,加工贸易,pending
-By-product of Processing,加工副产品,customs,加工贸易,pending
-Residual Materials,残次品,customs,加工贸易,pending
-Damaged Goods under Bond,受灾保税货物,customs,加工贸易,pending
-Bonded Goods Shortage,保税货物短少,customs,加工贸易,pending
-Off-site Processing,异地加工,customs,加工贸易,pending
-Networked Supervision,联网监管,customs,加工贸易,pending
-Processing Trade Pilot Enterprise,联网监管企业,customs,加工贸易,pending
-Bonded Imported Materials,保税进口料件,customs,加工贸易,pending
-Processed Goods Export,加工贸易成品出口,customs,加工贸易,pending
-Domestic Sale of Processed Goods,加工贸易内销,customs,加工贸易,pending
-Materials Re-export,料件退运,customs,加工贸易,pending
-Material Swap,料件串换,customs,加工贸易,pending
-Deposit Ledger System,台账制度,customs,加工贸易,pending
-Mortgage Ledger Account,台账实转,customs,加工贸易,pending
-Empty Ledger,台账空转,customs,加工贸易,pending
-Prohibited Category List,禁止类目录,customs,加工贸易,pending
-Restricted Category List,限制类目录,customs,加工贸易,pending
-Allowed Category List,允许类目录,customs,加工贸易,pending
+Retention of Origin Documents,原产地单证留存,customs,原产地规则,published
+Post-importation Verification,进口后核查,customs,原产地规则,published
+Invalid Certificate,无效原产地证,customs,原产地规则,published
+C/O Issuing Authority,原产地证签发机构,customs,原产地规则,published
+Chamber of Commerce Certification,商会认证,customs,原产地规则,published
+REX Number,注册出口商编号,customs,原产地规则,published
+Non-originating Materials,非原产材料,customs,原产地规则,published
+Originating Materials,原产材料,customs,原产地规则,published
+RCEP,区域全面经济伙伴关系协定,customs,自贸协定,published
+CPTPP,全面与进步跨太平洋伙伴关系协定,customs,自贸协定,published
+ASEAN FTA,中国东盟自贸区,customs,自贸协定,published
+China-Australia FTA,中澳自贸协定,customs,自贸协定,published
+China-Korea FTA,中韩自贸协定,customs,自贸协定,published
+China-Switzerland FTA,中瑞自贸协定,customs,自贸协定,published
+China-Pakistan FTA,中巴自贸协定,customs,自贸协定,published
+China-Chile FTA,中智自贸协定,customs,自贸协定,published
+China-Peru FTA,中秘自贸协定,customs,自贸协定,published
+China-ASEAN Upgrade Protocol,中国东盟升级议定书,customs,自贸协定,published
+China-Mauritius FTA,中毛自贸协定,customs,自贸协定,published
+China-Cambodia FTA,中柬自贸协定,customs,自贸协定,published
+China-NZ FTA,中新自贸协定,customs,自贸协定,published
+China-Singapore FTA,中国新加坡自贸协定,customs,自贸协定,published
+China-Iceland FTA,中冰自贸协定,customs,自贸协定,published
+China-Georgia FTA,中格自贸协定,customs,自贸协定,published
+China-Serbia FTA,中塞自贸协定,customs,自贸协定,published
+ECFA,海峡两岸经济合作框架协议,customs,自贸协定,published
+CEPA,内地与香港关于建立更紧密经贸关系的安排,customs,自贸协定,published
+CEPA Macao,内地与澳门关于建立更紧密经贸关系的安排,customs,自贸协定,published
+EU-Korea FTA,欧盟韩国自贸协定,customs,自贸协定,published
+EU-Japan EPA,欧盟日本经济伙伴关系协定,customs,自贸协定,published
+EU-Vietnam FTA,欧盟越南自贸协定,customs,自贸协定,published
+NAFTA,北美自由贸易协定,customs,自贸协定,published
+EFTA,欧洲自由贸易联盟,customs,自贸协定,published
+Gulf Cooperation Council FTA,海合会自贸协定,customs,自贸协定,published
+Regional Comprehensive Tariff Schedule,区域关税减让表,customs,自贸协定,published
+Tariff Dismantling Schedule,关税削减时间表,customs,自贸协定,published
+Tariff Liberalization,关税自由化,customs,自贸协定,published
+Tariff Commitment,关税减让承诺,customs,自贸协定,published
+WTO Tariff Concession,世贸关税减让,customs,自贸协定,published
+GATT Tariff Schedule,关贸总协定税则,customs,自贸协定,published
+Negative List for Services,服务贸易负面清单,customs,自贸协定,published
+Preferential Origin Declaration,优惠原产地声明,customs,自贸协定,published
+FTA Accumulation,自贸区累积规则,customs,自贸协定,published
+FTA Tariff Differential,协定税率差,customs,自贸协定,published
+Rules of Origin Protocol,原产地规则议定书,customs,自贸协定,published
+Economic Partnership Agreement,经济伙伴关系协定,customs,自贸协定,published
+Trade in Goods Agreement,货物贸易协定,customs,自贸协定,published
+Early Harvest Program,早期收获计划,customs,自贸协定,published
+Sensitive Track,敏感产品轨道,customs,自贸协定,published
+Normal Track,正常产品轨道,customs,自贸协定,published
+Staging Category,过渡类别,customs,自贸协定,published
+Transitional Period,过渡期安排,customs,自贸协定,published
+Special Safeguard in FTA,自贸区特殊保障,customs,自贸协定,published
+Bilateral Safeguard Clause,双边保障条款,customs,自贸协定,published
+RCEP Accumulation,区域累积,customs,自贸协定,published
+RCEP Approved Exporter,经核准出口商制度,customs,自贸协定,published
+ASEAN Trade in Goods Agreement,东盟货物贸易协定,customs,自贸协定,published
+ATIGA Form D,东盟格式D证书,customs,自贸协定,published
+APTA Certificate,亚太贸易协定原产地证,customs,自贸协定,published
+Asia-Pacific Trade Agreement,亚太贸易协定,customs,自贸协定,published
+GSP Scheme,普惠制方案,customs,自贸协定,published
+Graduation from GSP,普惠制毕业,customs,自贸协定,published
+EU GSP Regulation,欧盟普惠制条例,customs,自贸协定,published
+GSP Rule of Origin,普惠制原产地规则,customs,自贸协定,published
+Processing with Imported Materials,进料加工,customs,加工贸易,published
+Processing with Supplied Materials,来料加工,customs,加工贸易,published
+Electronic Handbook,电子手册,customs,加工贸易,published
+Electronic Account Book,电子账册,customs,加工贸易,published
+E-account Book Filing,账册备案,customs,加工贸易,published
+Handbook Cancellation,手册核销,customs,加工贸易,published
+Periodic Write-off,定期核销,customs,加工贸易,published
+Contract Filing,合同备案,customs,加工贸易,published
+Contract Change,合同变更,customs,加工贸易,published
+Actual Consumption Rate,实际单耗,customs,加工贸易,published
+Consumption of Materials,工艺损耗,customs,加工贸易,published
+Technical Loss Rate,工艺损耗率,customs,加工贸易,published
+Reasonable Loss,合理损耗,customs,加工贸易,published
+Scrap Rate,损耗率,customs,加工贸易,published
+Leftover Materials,边角料,customs,加工贸易,published
+By-product of Processing,加工副产品,customs,加工贸易,published
+Residual Materials,残次品,customs,加工贸易,published
+Damaged Goods under Bond,受灾保税货物,customs,加工贸易,published
+Bonded Goods Shortage,保税货物短少,customs,加工贸易,published
+Off-site Processing,异地加工,customs,加工贸易,published
+Networked Supervision,联网监管,customs,加工贸易,published
+Processing Trade Pilot Enterprise,联网监管企业,customs,加工贸易,published
+Bonded Imported Materials,保税进口料件,customs,加工贸易,published
+Processed Goods Export,加工贸易成品出口,customs,加工贸易,published
+Domestic Sale of Processed Goods,加工贸易内销,customs,加工贸易,published
+Materials Re-export,料件退运,customs,加工贸易,published
+Material Swap,料件串换,customs,加工贸易,published
+Deposit Ledger System,台账制度,customs,加工贸易,published
+Mortgage Ledger Account,台账实转,customs,加工贸易,published
+Empty Ledger,台账空转,customs,加工贸易,published
+Prohibited Category List,禁止类目录,customs,加工贸易,published
+Restricted Category List,限制类目录,customs,加工贸易,published
+Allowed Category List,允许类目录,customs,加工贸易,published
 Verification Cycle,核销周期,customs,加工贸易,pending
 Surplus Material Carry-over,余料结转,customs,加工贸易,pending
 Subcontract Processing Certificate,委托加工证明,customs,加工贸易,pending

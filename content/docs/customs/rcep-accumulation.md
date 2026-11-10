@@ -1,7 +1,7 @@
 ---
 title: "RCEP Accumulation"
 linkTitle: "区域累积"
-date: 2026-11-09
+date: 2026-11-10
 type: docs
 subcategory: "自贸协定"
 ---
@@ -9,31 +9,31 @@ subcategory: "自贸协定"
 > 📖 分类：**关务合规** / 自贸协定　｜　RCEP Accumulation = 区域累积
 
 ## 定义
-RCEP Accumulation（区域累积规则）是《区域全面经济伙伴关系协定》（RCEP）中的一项核心原产地规则。该规则允许成员国的出口商在生产最终产品时，将来自其他RCEP成员国的原产材料视为本地生产的原材料进行累加计算。这大大降低了享受关税优惠所需的区域价值成分门槛，促进了区域内的产业链深度融合。
+RCEP Accumulation（区域累积规则）是《区域全面经济伙伴关系协定》（Regional Comprehensive Economic Partnership）中的一项重要原产地规则。它允许成员国的企业在生产最终产品时，将来自其他RCEP成员国的原产材料累积计算为本地原产材料，从而更容易达到享受关税优惠的门槛。
 
 ## 详细说明
-- 使用场景：适用于进出口企业在申办或利用RCEP原产地证书时，需要计算产品原产地比例（如区域价值成分RVC）的业务场景。
-- 关键规则或数字：RCEP成员国之间实行区域累积规则，只要最终产品在所有成员国境内加工增值合計达到协定要求的标准（通常区域价值成分不少于40%），即可获得RCEP原产地资格并享受关税减免。
-- 实务注意事项：企业在采购原材料时，必须确保上游供应商能够提供合规的RCEP原产地证明文件（如原产地声明或原产地证书），以便在最终出口时顺利进行累积计算和报关。
+- 使用场景：适用于向RCEP其他成员国出口含有进口零部件的货物，企业希望通过申请原产地证书来为客户争取关税减免时。
+- 关键规则或数字：RCEP成员国包括中国、日本、韩国、澳大利亚、新西兰以及东盟十国。只要最终产品在区域内的价值成分（区域价值成分 RVC）合计达到协定规定的比例（通常为40%），即可获得RCEP原产地资格。
+- 实务注意事项：货代和外贸人员在操作时，必须严格审核供应链上游的“区域原产地证明”或供应商声明，确保所有累积的零部件均具备RCEP原产地资格，并在海关申报时准确填写相关原产地编码。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 区域累积规则 | RCEP Accumulation / Regional Accumulation |
+| 区域累积规则 | RCEP Accumulation Rule |
 | 区域价值成分 | Regional Value Content (RVC) |
-| 原产地证明 | Proof of Origin |
-| 原产地声明 | Declaration of Origin |
+| 原产地证书 | Certificate of Origin (C/O) |
+| 协定税率 | Concessional Tariff Rate / Preferential Tariff Rate |
 
 ## 相关术语
-- `Certificate of Origin (原产地证书)`
-- `Regional Value Content (区域价值成分)`
-- `Product Specific Rules (产品特定原产地标准)`
-- `De Minimis (微小含量标准)`
+- Regional Value Content（区域价值成分）
+- Certificate of Origin（原产地证书）
+- Tariff Shift Rule（税则归类改变标准）
+- De Minimis（微量标准）
 
 ## 常见误区
-- 误区一：认为只要在RCEP成员国内采购的任何材料都可以直接累积。实际上，只有具备RCEP原产地资格的材料才能计入区域累积。
-- 误区二：认为区域累积不需要单证支持。在实际操作中，海关对享受累积规则的货物有严格的溯源要求，必须凭有效的原产地证明文件核销。
+- 误区一：认为只要原材料从任何RCEP国家进口，最终产品就能直接享受关税优惠。实际上，必须满足原产地标准和累积规则的具体计算要求。
+- 误区二：混淆了普通原产地证（CO）与RCEP原产地优惠证书的效力，导致客户无法在目的港清关时享受关税减免。
 
 ---
 

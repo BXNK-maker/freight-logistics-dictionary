@@ -1,7 +1,7 @@
 ---
 title: "GATT Tariff Schedule"
 linkTitle: "关贸总协定税则"
-date: 2026-11-09
+date: 2026-11-10
 type: docs
 subcategory: "自贸协定"
 ---
@@ -10,35 +10,34 @@ subcategory: "自贸协定"
 
 ## 定义
 
-GATT Tariff Schedule（关贸总协定税则）是指在关税与贸易总协定（GATT）框架下，各缔结国通过多边贸易谈判达成的、列明各自对特定进口商品承诺征收关税税率的清单。它是国际贸易中约束和规范进口关税水平的核心法律文件，为跨国货物运输和海关申报提供了基准税率。
+GATT Tariff Schedule（关贸总协定税则）是指在关税与贸易总协定（GATT）框架下，各缔结国通过多边贸易谈判达成并具法律约束力的海关进口关税税率表。它详细列出了各类进口商品适用的承诺税率，是国际货物贸易中确定海关税费的重要依据。
 
 ## 详细说明
 
-- 使用场景：主要应用于国际贸易合规审核、海关进口报关税率查询以及企业供应链成本核算。当货物自出口国运往GATT/WTO缔约国时，海关官员依据此税则确定适用的最惠国（MFN）税率。
-- 关键规则或数字：该税则采用标准化的商品分类体系（早期多基于BTN，现已普遍过渡并兼容HS编码体系），通过“关税减让表”（Concession Lists）确立约束税率（Bound Rates），缔约国承诺单方面提高关税不得超过此上限。
-- 实务注意事项：货代和外贸人员在计算进口税费时，不能仅凭经验，必须核对最新的税则表，因为部分商品可能处于逐步降税期；同时需确认货物原产地是否符合享受特定关税减让的资格。
+- 使用场景：主要用于国际贸易货物的进出口报关、关税成本核算以及海关税则归类查询，帮助外贸企业在签约前准确评估进口国的税负成本。
+- 关键规则或数字：该税则明确了最惠国待遇（MFN）税率，遵循“关税减让表”机制，缔结国通过逐轮谈判逐步削减工业品和农产品的关税壁垒，促进全球贸易自由化。
+- 实务注意事项：随着世界贸易组织（WTO）的成立，原GATT的相关税则及承诺已全部纳入WTO体系并由其继承和管理，但在国际贸易实务与原产地规则判定中，从业人员习惯上仍常将其统称为关贸总协定税则或关税减让表。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 关贸总协定税则 | GATT Tariff Schedule |
-| 关税减让表 | Tariff Concession List |
-| 约束税率 | Bound Rate |
+| 关税减让表 | Tariff Concession Schedule |
 | 最惠国税率 | Most-Favoured-Nation (MFN) Rate |
-| 进口关税 | Import Tariff / Duty |
+| 海关税则归类 | Customs Tariff Classification |
 
 ## 相关术语
 
-- WTO Schedule of Concessions（世贸组织关税减让表）
-- Harmonized System / HS Code（协调制度 / 海关商品名称及编码协调制度）
-- Certificate of Origin（原产地证书）
-- Most-Favoured-Nation Treatment（最惠国待遇）
+- WTO (World Trade Organization)
+- HS Code (Harmonized System Code)
+- Customs Duties (关税)
+- Rules of Origin (原产地规则)
 
 ## 常见误区
 
-- 认为GATT Tariff Schedule是一本全球统一且固定不变的单一税率手册；实际上它是各成员国根据GATT/WTO规则各自制定并向多边机构备案的独立承诺清单集合。
-- 混淆了“约束税率”与“实际执行税率”；缔约国在实际操作中可以征收低于甚至等于约束税率的关税，但未经谈判不得超过该上限。
+- 误区一：认为GATT Tariff Schedule是一个固定不变的全球统一税率表。实际上，它是各成员国根据多边谈判结果各自制定并向WTO备案的本国承诺税率表。
+- 误区二：混淆GATT税则与当前的WTO规则。GATT作为临时协定已被WTO正式取代，虽然现行关税表继承了GATT的成果，但其适用的法律与争端解决机制已全面升级为WTO体系。
 
 ---
 

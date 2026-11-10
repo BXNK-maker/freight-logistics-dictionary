@@ -1,7 +1,7 @@
 ---
 title: "China-Singapore FTA"
 linkTitle: "中国新加坡自贸协定"
-date: 2026-11-09
+date: 2026-11-10
 type: docs
 subcategory: "自贸协定"
 ---
@@ -10,13 +10,13 @@ subcategory: "自贸协定"
 
 ## 定义
 
-中国新加坡自贸协定（英文全称：China-Singapore Free Trade Agreement，简称 China-Singapore FTA）是中国与新加坡于 2008 年签署、并于近年完成全面升级的双边自由贸易协定。该协定旨在通过削减关税、放宽市场准入和简化海关程序，进一步促进两国之间的货物贸易与物流往来。对于货代和外贸从业者而言，它是降低对新出口成本、优化供应链的重要政策工具。
+中国新加坡自贸协定（China-Singapore Free Trade Agreement，简称 China-Singapore FTA）是中国与新加坡于2008年签署、并经多次升级的双边自由贸易协定。该协定旨在通过削减关税、放宽市场准入和简化海关程序，进一步促进两国之间的货物贸易、服务贸易与投资便利化。
 
 ## 详细说明
 
-- 使用场景：适用于中国与新加坡之间的双边进出口贸易。外贸企业在两国海关申报时，若货物符合原产地标准，可凭协定税率享受关税减免优惠。
-- 关键规则或数字：协定涵盖货物贸易、服务贸易、投资和经济合作等多个领域。根据升级后的协定，中国对绝大部分新加坡原产货物实施零关税，新加坡则对全部自中国进口的货物实施零关税。
-- 实务注意事项：企业必须提前向海关或贸促会申请并办妥《中国-新加坡自由贸易协定》原产地证书（Certificate of Origin），且货物运输需符合直接运输规则，方可在目的港顺利享受关税优惠。
+- 使用场景：广泛应用于中新两国间的进出口贸易。外贸企业在向新加坡出口中国原产货物，或从新加坡进口符合原产地规则的商品时，可利用此协定申请关税优惠。
+- 关键规则或数字：协定实施了广泛的零关税待遇，绝大多数中国和新加坡的原产货物在进口时可享受关税减免。企业申领关税优惠的核心凭证为《中国-新加坡自由贸易协定》原产地证书（Certificate of Origin）。
+- 实务注意事项：货物必须符合协定的原产地标准（如区域价值成分或品类改变标准）；企业在报关前需准确归类商品编码（HS Code），并向海关或贸促会申请原产地证书，方可在进口国清关时享受优惠税率。
 
 ## 中英对照
 
@@ -24,22 +24,22 @@ subcategory: "自贸协定"
 | :--- | :--- |
 | 中国新加坡自贸协定 | China-Singapore Free Trade Agreement (China-Singapore FTA) |
 | 原产地证书 | Certificate of Origin (C/O) |
-| 关税减免 | Tariff Reduction / Duty Concession |
-| 零关税 | Zero-Tariff / Duty-Free |
-| 原产地标准 | Rules of Origin (ROO) |
+| 原产地规则 | Rules of Origin (ROO) |
+| 关税减免 | Tariff Reduction / Tariff Exemption |
+| 零关税 | Zero Tariff / Duty-Free |
 
 ## 相关术语
 
 - FTA (Free Trade Agreement)
 - Certificate of Origin (原产地证书)
 - Rules of Origin (原产地规则)
-- RCEP (Regional Comprehensive Economic Partnership)
-- Tariff Preference (关税优惠)
+- HS Code (协调制度商品编码)
+- Preferential Tariff (优惠关税)
 
 ## 常见误区
 
-- 货物只要从新加坡发往中国，就自动享受零关税待遇：错。货物必须符合协定规定的原产地标准，并具备有效的原产地证书，才能享受关税减免。
-- 只有生产商才能申请原产地证书：错。经海关注册的出口商或代理人同样可以按照相关规定申请原产地证明文件。
+- 只要货物是从新加坡发往中国，就一定能自动享受零关税。实际并非如此，货物必须满足协定规定的原产地标准，且必须具备有效的原产地证书。
+- 拿到原产地证书后可以随意涂改。原产地证书内容必须真实准确，任何未经海关或签发机构确认的涂改都会导致证书失效，从而无法享受关税优惠。
 
 ---
 

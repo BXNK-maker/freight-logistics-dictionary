@@ -1,7 +1,7 @@
 ---
 title: "China-NZ FTA"
 linkTitle: "中新自贸协定"
-date: 2026-11-09
+date: 2026-11-10
 type: docs
 subcategory: "自贸协定"
 ---
@@ -9,7 +9,35 @@ subcategory: "自贸协定"
 > 📖 分类：**关务合规** / 自贸协定　｜　China-NZ FTA = 中新自贸协定
 
 ## 定义
-China-NZ FTA 即中国与新西兰自由贸易协定（China-New Zealand Free Trade Agreement）。该协定于 2008 年签署并生效，是中国
+
+China-NZ FTA（China-New Zealand Free Trade Agreement，中新自由贸易协定）是中国与新西兰两国于2008年签署、并于同年生效的双边自贸协定，近年来历经多次升级。该协定旨在促进双边贸易自由化与便利化，对原产于两国的绝大多数货物贸易实施大幅削减甚至免除关税的优惠政策。
+
+## 详细说明
+
+- 使用场景：适用于从中国出口到新西兰或从新西兰进口到中国的货物贸易，特别是在申报进口清关时，凭此享受关税减免优惠。
+- 关键规则或数字：根据协定及后续升级议定书，中国对新西兰绝大多数进口商品实施了零关税；新西兰也对全部原产于中国的进口商品取消了关税。核心规则是货物必须符合《中新自贸协定》原产地规则。
+- 实务注意事项：货主必须在货物出口前或报关时，向签证机构（如海关或贸促会）申请并办妥《中国-新西兰自贸区优惠原产地证书》（Certificate of Origin）。单证信息（如发票、提单、产地证）必须保持高度一致，否则新西兰海关可能拒绝给予关税优惠。
+
+## 中英对照
+
+| 中文表达 | 英文表达 |
+| :--- | :--- |
+| 中新自贸协定 | China-New Zealand Free Trade Agreement (China-NZ FTA) |
+| 原产地证明 | Certificate of Origin (C/O) |
+| 关税减免 | Tariff Reduction / Tariff Exemption |
+| 原产地规则 | Rules of Origin (ROO) |
+
+## 相关术语
+
+- Certificate of Origin（原产地证书）
+- Rules of Origin（原产地规则）
+- Most-Favoured-Nation Treatment（最惠国待遇）
+- Tariff Concession（关税让让/优惠）
+
+## 常见误区
+
+- 只要中国发货到新西兰，就自动享受 FTA 关税优惠：这是错误的。必须主动申请并出具官方的《中新自贸协定》原产地证书，清关时向海关提交才能生效。
+- 经香港转口的货物一定能享受优惠：若货物在香港等第三方地区发生了实质性加工或未保持海关监管状态，可能会失去原产地资格，需注意直接运输或符合转运规则。
 
 ---
 

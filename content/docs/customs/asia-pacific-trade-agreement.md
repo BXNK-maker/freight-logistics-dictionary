@@ -1,7 +1,7 @@
 ---
 title: "Asia-Pacific Trade Agreement"
 linkTitle: "亚太贸易协定"
-date: 2026-11-09
+date: 2026-11-10
 type: docs
 subcategory: "自贸协定"
 ---
@@ -9,32 +9,39 @@ subcategory: "自贸协定"
 > 📖 分类：**关务合规** / 自贸协定　｜　Asia-Pacific Trade Agreement = 亚太贸易协定
 
 ## 定义
-Asia-Pacific Trade Agreement（简称 APTA，中文为“亚太贸易协定”，前身为《曼谷协定》）是亚太地区发展中国家间的一个旨在促进区域内贸易自由化的优惠性贸易协定。该协定通过削减成员国之间的进口关税，为国际货运代理和外贸企业提供实质性的关税减免优惠。
+
+Asia-Pacific Trade Agreement（简称 APTA，中文为“亚太贸易协定”，前身为《曼谷协定》）是亚太地区发展中国家间的一个旨在促进区域内贸易自由化的优惠性贸易安排。该协定通过大幅削减成员国之间的进口关税，促进区域经济一体化和货物跨境流通。
+
 
 ## 详细说明
-- 使用场景：适用于中国及其他成员国（如印度、韩国、孟加拉国、斯里兰卡、老挝等）之间的进出口货物贸易，外贸企业在申报享受关税优惠时经常使用。
-- 关键规则或数字：企业必须凭出口国主管机构签发的《亚太贸易协定》原产地证书（Certificate of Origin APTA），才能在进口国海关清关时享受协定税率。
-- 实务注意事项：货代在操作相关航线时，应提醒发货人务必在货物出运前或出运时办妥原产地证，且证书上的产品归类、H.S.编码必须与报关单及商业单据严格一致，以防因单证不符被海关拒绝给予关税优惠。
+
+- 使用场景：广泛应用于中国与印度、韩国、斯里兰卡、孟加拉国等成员国之间的进出口贸易，外贸企业在向这些国家出口货物时，可利用该协定争取关税减免。
+- 关键规则与数字：APTA 成员国之间实行互惠关税减让，特定原产地标准的设定通常要求货物在输出国内具有不低于一定比例（如通常为 45%）的区域价值成分，或实现实质性关税税号改变。
+- 实务注意事项：货代与外贸人在操作时，务必提醒发货人在货物出运前向签证机构申请并办妥《亚太贸易协定原产地证书》（Form A/APTA），且证书上的运输条款、货描必须与提单（B/L）、商业发票等核心单据保持高度一致，否则目的港海关可能拒绝给予关税优惠。
+
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 亚太贸易协定 | Asia-Pacific Trade Agreement (APTA) |
-| 原产地证书 | Certificate of Origin (C/O) |
-| 优惠关税 | Preferential Tariff / Preferential Duty |
-| 协定税率 | Agreement Tax Rate / Preferential Rate |
+| 原产地证书 | Certificate of Origin |
+| 关税减让 | Tariff Concession |
+| 区域价值成分 | Regional Value Content (RVC) |
+
 
 ## 相关术语
+
 - Certificate of Origin（原产地证书）
-- Preferential Trade Agreement（优惠贸易协定）
-- Most-Favoured-Nation Treatment（最惠国待遇）
-- Harmonized System Code（商品名称及编码协调制度）
-- Customs Clearance（清关）
+- Generalized System of Preferences（普惠制）
+- Regional Comprehensive Economic Partnership（区域全面经济伙伴关系协定）
+- Tariff Reduction（关税减让）
+
 
 ## 常见误区
-- 认为只要货物从成员国发往另一个成员国就自动享受关税优惠，忽略了必须凭有效的原产地证书进行申报的前提。
-- 将《亚太贸易协定》（APTA）与《区域全面经济伙伴关系协定》（RCEP）的原产地规则混淆，导致申办了错误格式的产地证而无法清关。
+
+- 误区一：认为只要货物从成员国发运就能自动享受关税优惠。实际上，必须凭有效签发的 APTA 原产地证书并在清关时向海关申报，方可享受减税待遇。
+- 误区二：将 APTA 原产地证书与普通一般原产地证书（Co.）混淆。APTA 证书属于优惠性原产地证明，对原产地标准的审核更为严格，且有特定的格式要求。
 
 ---
 
