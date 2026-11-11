@@ -4643,8 +4643,8 @@ Personal Baggage Articles,个人行李物品,customs,行邮监管,published
 Red Channel Declaration,红色通道申报,customs,行邮监管,published
 Mail Supervision,进出境邮件监管,customs,行邮监管,published
 International Mail Exchange Office,国际邮件互换局,customs,行邮监管,published
-Express Supervision Center,快件监管中心,customs,行邮监管,pending
-Express Operator Filing,快件运营人备案,customs,行邮监管,pending
+Express Supervision Center,快件监管中心,customs,行邮监管,published
+Express Operator Filing,快件运营人备案,customs,行邮监管,published
 KJ3 Declaration,KJ3类快件,customs,行邮监管,published
 CNY50 Duty-free Threshold,50元免税额度,customs,行邮监管,published
 De Minimis Value,免税限值,customs,行邮监管,published
@@ -4743,104 +4743,104 @@ Gantry Travel,大车行走,transport,码头装卸,published
 Trolley Travel,小车行走,transport,码头装卸,published
 Boom Hoisting,俯仰升降,transport,码头装卸,published
 Slewing,回转,transport,码头装卸,published
-Luffing,变幅,transport,码头装卸,pending
-Container Handling Rate,集装箱单机效率,transport,码头装卸,pending
-Gross Crane Rate,桥吊毛效率,transport,码头装卸,pending
-Net Crane Rate,桥吊净效率,transport,码头装卸,pending
-Terminal Appointment System,码头预约系统,transport,码头装卸,pending
-Gate System,闸口系统,transport,码头装卸,pending
-Truck Interchange,拖车交接作业,transport,码头装卸,pending
-Yard Transfer,堆场转运,transport,码头装卸,pending
-Dockside Operation,码头边作业,transport,码头装卸,pending
-Quay Shift,码头班次,transport,码头装卸,pending
-Gang,装卸班组,transport,码头装卸,pending
-Stevedore,装卸工人,transport,码头装卸,pending
-Dockworker,码头工人,transport,码头装卸,pending
-Hatchman,舱口工人,transport,码头装卸,pending
-Foreman,工头,transport,码头装卸,pending
-Tally Clerk,理货员,transport,码头装卸,pending
-Tally Report,理货报告,transport,码头装卸,pending
-Longshore Labor,码头劳工,transport,码头装卸,pending
-STS Crane,岸边集装箱起重机,transport,港口机械,pending
-Container Crane,集装箱起重机,transport,港口机械,pending
-Portal Crane,门座起重机,transport,港口机械,pending
-Harbor Crane,港口起重机,transport,港口机械,pending
-Mobile Harbor Crane,移动式港机,transport,港口机械,pending
-Quayside Container Crane,岸边集装箱桥吊,transport,港口机械,pending
-Outreach,前伸距,transport,港口机械,pending
-Backreach,后伸距,transport,港口机械,pending
-Rail Gauge,轨距,transport,港口机械,pending
-Lifting Capacity,起重量,transport,港口机械,pending
-Safe Working Load,安全工作负荷,transport,港口机械,pending
-Spreader,吊具,transport,港口机械,pending
-Twin Spreader,双箱吊具,transport,港口机械,pending
-Telescopic Spreader,伸缩式吊具,transport,港口机械,pending
-Rotating Spreader,旋转吊具,transport,港口机械,pending
-Spreader Lock,吊具锁销,transport,港口机械,pending
-Trolley,起重小车,transport,港口机械,pending
-Machine Room,机房,transport,港口机械,pending
-Boom,大梁,transport,港口机械,pending
-A-Frame,人字架,transport,港口机械,pending
-Gantry,门架,transport,港口机械,pending
-Boom Hoist,大梁俯仰机构,transport,港口机械,pending
-Hoist Winch,起升机构,transport,港口机械,pending
-Anti-Sway System,防摇系统,transport,港口机械,pending
-Positioning System,定位系统,transport,港口机械,pending
-Crane Simulator,桥吊模拟器,transport,港口机械,pending
-RTG,轮胎式龙门起重机,transport,港口机械,pending
-RMG,轨道式龙门起重机,transport,港口机械,pending
-Rail-Mounted Gantry Crane,轨道吊,transport,港口机械,pending
-Rubber-Tyred Gantry Crane,轮胎吊,transport,港口机械,pending
-Straddle Carrier Operator,跨运车司机,transport,港口机械,pending
-Empty Handler,空箱堆高机,transport,港口机械,pending
-Empty Container Handler,空箱叉车,transport,港口机械,pending
-Top Loader,集装箱正面吊,transport,港口机械,pending
-Side Loader,侧面叉车,transport,港口机械,pending
-Counterbalance Forklift,平衡重叉车,transport,港口机械,pending
-Terminal Tractor,码头牵引车,transport,港口机械,pending
-Yard Tractor,堆场拖车,transport,港口机械,pending
-Shunt Truck,场内调头车,transport,港口机械,pending
-Yard Truck,集装箱拖头,transport,港口机械,pending
-Hustler,港内牵引车,transport,港口机械,pending
-Trailerable Chassis,拖挂底盘,transport,港口机械,pending
-Skid,滑撬底架,transport,港口机械,pending
-Twist-Lock Assembly,转锁总成,transport,港口机械,pending
-Dolly,挂车,transport,港口机械,pending
-Multimax Trailer,多轴重型拖车,transport,港口机械,pending
-Gooseneck Trailer,鹅颈式拖车,transport,港口机械,pending
-Flat Rack,框架箱,transport,港口机械,pending
-Automated Guided Vehicle,自动导引运输车,transport,港口机械,pending
-Automated Lifting Vehicle,自动吊运车,transport,港口机械,pending
-AutoStrad,自动化跨运车,transport,港口机械,pending
-Automated Stacking Crane,自动化堆垛机,transport,港口机械,pending
-ASC,自动化轨道吊,transport,港口机械,pending
-ARMG,自动化轨道式龙门吊,transport,港口机械,pending
-STS Crane Operator,岸桥司机,transport,港口机械,pending
-Remote Control Center,远程控制中心,transport,港口机械,pending
-Terminal Automation,码头自动化,transport,港口机械,pending
-Semi-Automated Yard,半自动化堆场,transport,港口机械,pending
-Automated Container Terminal,自动化集装箱码头,transport,港口机械,pending
-Container Tilting System,集装箱翻转机,transport,港口机械,pending
-Container Handler Attachment,吊叉两用属具,transport,港口机械,pending
-Grab,抓斗,transport,港口机械,pending
-Grab Bucket,抓斗吊斗,transport,港口机械,pending
-Mechanical Grab,机械抓斗,transport,港口机械,pending
-Hydraulic Grab,液压抓斗,transport,港口机械,pending
-Clamshell Grab,贝壳形抓斗,transport,港口机械,pending
-Orange Peel Grab,橘瓣式抓斗,transport,港口机械,pending
-Grapple,抓钩,transport,港口机械,pending
-Electro-Hydraulic Grab,电液压抓斗,transport,港口机械,pending
-Radio Remote Grab,无线电遥控抓斗,transport,港口机械,pending
-Hopper,漏斗,transport,港口机械,pending
-Ship Unloader,卸船机,transport,港口机械,pending
-Screw Unloader,螺旋卸船机,transport,港口机械,pending
-Continuous Ship Unloader,连续卸船机,transport,港口机械,pending
-Gantry Unloader,门式卸船机,transport,港口机械,pending
-Grab Ship Unloader,抓斗卸船机,transport,港口机械,pending
-Ship Loader,装船机,transport,港口机械,pending
-Traveling Ship Loader,移动式装船机,transport,港口机械,pending
-Chute,溜槽,transport,港口机械,pending
-Telescopic Chute,伸缩溜管,transport,港口机械,pending
+Luffing,变幅,transport,码头装卸,published
+Container Handling Rate,集装箱单机效率,transport,码头装卸,published
+Gross Crane Rate,桥吊毛效率,transport,码头装卸,published
+Net Crane Rate,桥吊净效率,transport,码头装卸,published
+Terminal Appointment System,码头预约系统,transport,码头装卸,published
+Gate System,闸口系统,transport,码头装卸,published
+Truck Interchange,拖车交接作业,transport,码头装卸,published
+Yard Transfer,堆场转运,transport,码头装卸,published
+Dockside Operation,码头边作业,transport,码头装卸,published
+Quay Shift,码头班次,transport,码头装卸,published
+Gang,装卸班组,transport,码头装卸,published
+Stevedore,装卸工人,transport,码头装卸,published
+Dockworker,码头工人,transport,码头装卸,published
+Hatchman,舱口工人,transport,码头装卸,published
+Foreman,工头,transport,码头装卸,published
+Tally Clerk,理货员,transport,码头装卸,published
+Tally Report,理货报告,transport,码头装卸,published
+Longshore Labor,码头劳工,transport,码头装卸,published
+STS Crane,岸边集装箱起重机,transport,港口机械,published
+Container Crane,集装箱起重机,transport,港口机械,published
+Portal Crane,门座起重机,transport,港口机械,published
+Harbor Crane,港口起重机,transport,港口机械,published
+Mobile Harbor Crane,移动式港机,transport,港口机械,published
+Quayside Container Crane,岸边集装箱桥吊,transport,港口机械,published
+Outreach,前伸距,transport,港口机械,published
+Backreach,后伸距,transport,港口机械,published
+Rail Gauge,轨距,transport,港口机械,published
+Lifting Capacity,起重量,transport,港口机械,published
+Safe Working Load,安全工作负荷,transport,港口机械,published
+Spreader,吊具,transport,港口机械,published
+Twin Spreader,双箱吊具,transport,港口机械,published
+Telescopic Spreader,伸缩式吊具,transport,港口机械,published
+Rotating Spreader,旋转吊具,transport,港口机械,published
+Spreader Lock,吊具锁销,transport,港口机械,published
+Trolley,起重小车,transport,港口机械,published
+Machine Room,机房,transport,港口机械,published
+Boom,大梁,transport,港口机械,published
+A-Frame,人字架,transport,港口机械,published
+Gantry,门架,transport,港口机械,published
+Boom Hoist,大梁俯仰机构,transport,港口机械,published
+Hoist Winch,起升机构,transport,港口机械,published
+Anti-Sway System,防摇系统,transport,港口机械,published
+Positioning System,定位系统,transport,港口机械,published
+Crane Simulator,桥吊模拟器,transport,港口机械,published
+RTG,轮胎式龙门起重机,transport,港口机械,published
+RMG,轨道式龙门起重机,transport,港口机械,published
+Rail-Mounted Gantry Crane,轨道吊,transport,港口机械,published
+Rubber-Tyred Gantry Crane,轮胎吊,transport,港口机械,published
+Straddle Carrier Operator,跨运车司机,transport,港口机械,published
+Empty Handler,空箱堆高机,transport,港口机械,published
+Empty Container Handler,空箱叉车,transport,港口机械,published
+Top Loader,集装箱正面吊,transport,港口机械,published
+Side Loader,侧面叉车,transport,港口机械,published
+Counterbalance Forklift,平衡重叉车,transport,港口机械,published
+Terminal Tractor,码头牵引车,transport,港口机械,published
+Yard Tractor,堆场拖车,transport,港口机械,published
+Shunt Truck,场内调头车,transport,港口机械,published
+Yard Truck,集装箱拖头,transport,港口机械,published
+Hustler,港内牵引车,transport,港口机械,published
+Trailerable Chassis,拖挂底盘,transport,港口机械,published
+Skid,滑撬底架,transport,港口机械,published
+Twist-Lock Assembly,转锁总成,transport,港口机械,published
+Dolly,挂车,transport,港口机械,published
+Multimax Trailer,多轴重型拖车,transport,港口机械,published
+Gooseneck Trailer,鹅颈式拖车,transport,港口机械,published
+Flat Rack,框架箱,transport,港口机械,published
+Automated Guided Vehicle,自动导引运输车,transport,港口机械,published
+Automated Lifting Vehicle,自动吊运车,transport,港口机械,published
+AutoStrad,自动化跨运车,transport,港口机械,published
+Automated Stacking Crane,自动化堆垛机,transport,港口机械,published
+ASC,自动化轨道吊,transport,港口机械,published
+ARMG,自动化轨道式龙门吊,transport,港口机械,published
+STS Crane Operator,岸桥司机,transport,港口机械,published
+Remote Control Center,远程控制中心,transport,港口机械,published
+Terminal Automation,码头自动化,transport,港口机械,published
+Semi-Automated Yard,半自动化堆场,transport,港口机械,published
+Automated Container Terminal,自动化集装箱码头,transport,港口机械,published
+Container Tilting System,集装箱翻转机,transport,港口机械,published
+Container Handler Attachment,吊叉两用属具,transport,港口机械,published
+Grab,抓斗,transport,港口机械,published
+Grab Bucket,抓斗吊斗,transport,港口机械,published
+Mechanical Grab,机械抓斗,transport,港口机械,published
+Hydraulic Grab,液压抓斗,transport,港口机械,published
+Clamshell Grab,贝壳形抓斗,transport,港口机械,published
+Orange Peel Grab,橘瓣式抓斗,transport,港口机械,published
+Grapple,抓钩,transport,港口机械,published
+Electro-Hydraulic Grab,电液压抓斗,transport,港口机械,published
+Radio Remote Grab,无线电遥控抓斗,transport,港口机械,published
+Hopper,漏斗,transport,港口机械,published
+Ship Unloader,卸船机,transport,港口机械,published
+Screw Unloader,螺旋卸船机,transport,港口机械,published
+Continuous Ship Unloader,连续卸船机,transport,港口机械,published
+Gantry Unloader,门式卸船机,transport,港口机械,published
+Grab Ship Unloader,抓斗卸船机,transport,港口机械,published
+Ship Loader,装船机,transport,港口机械,published
+Traveling Ship Loader,移动式装船机,transport,港口机械,published
+Chute,溜槽,transport,港口机械,published
+Telescopic Chute,伸缩溜管,transport,港口机械,published
 Hatch Cover Handling Gear,舱盖吊架,transport,港口机械,pending
 Port Gantry Crane,港口龙门吊,transport,港口机械,pending
 Container Spreader Frame,吊具框架,transport,港口机械,pending
