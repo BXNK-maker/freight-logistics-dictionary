@@ -4645,104 +4645,104 @@ Mail Supervision,进出境邮件监管,customs,行邮监管,published
 International Mail Exchange Office,国际邮件互换局,customs,行邮监管,published
 Express Supervision Center,快件监管中心,customs,行邮监管,pending
 Express Operator Filing,快件运营人备案,customs,行邮监管,pending
-KJ3 Declaration,KJ3类快件,customs,行邮监管,pending
-CNY50 Duty-free Threshold,50元免税额度,customs,行邮监管,pending
-De Minimis Value,免税限值,customs,行邮监管,pending
-Prohibited Incoming Articles,禁止进境物品,customs,行邮监管,pending
-Prohibited Outgoing Articles,禁止出境物品,customs,行邮监管,pending
-Restricted Articles,限制进出境物品,customs,行邮监管,pending
-Gold and Currency Declaration,金银及外币申报,customs,行邮监管,pending
-Cash Declaration Limit,现钞申报限额,customs,行邮监管,pending
-Duty-paid Price List,完税价格表,customs,行邮监管,pending
-Administrative Duty Assessment,行邮估价,customs,行邮监管,pending
-Baggage Declaration Form,行李申报单,customs,行邮监管,pending
-Resident Traveler Allowance,居民旅客免税额,customs,行邮监管,pending
-Non-resident Traveler Allowance,非居民旅客免税额,customs,行邮监管,pending
-CNY5000 Threshold,5000元限值,customs,行邮监管,pending
-Split Personal Shipment,分运行李,customs,行邮监管,pending
-Accompanied Baggage,随身行李,customs,行邮监管,pending
-Berth,泊位,transport,码头岸线,pending
-Berth Occupancy Rate,泊位占用率,transport,码头岸线,pending
-Berth Utilization Rate,泊位利用率,transport,码头岸线,pending
-Container Berth,集装箱泊位,transport,码头岸线,pending
-Multipurpose Berth,多用途泊位,transport,码头岸线,pending
-Ro-Ro Berth,滚装泊位,transport,码头岸线,pending
-Lay-By Berth,待泊泊位,transport,码头岸线,pending
-Layberth,闲置泊位,transport,码头岸线,pending
-Dedicated Berth,专用泊位,transport,码头岸线,pending
-Riverside Berth,顺岸泊位,transport,码头岸线,pending
-Marginal Wharf,顺岸码头,transport,码头岸线,pending
-Pier,突堤码头,transport,码头岸线,pending
-Jetty,栈桥码头,transport,码头岸线,pending
-Dolphin,系船墩,transport,码头岸线,pending
-Breasting Dolphin,靠船墩,transport,码头岸线,pending
-Mooring Dolphin,系泊墩,transport,码头岸线,pending
-Quay Apron,码头前沿堆场,transport,码头岸线,pending
-Wharf Apron,码头前沿,transport,码头岸线,pending
-Backshore,码头后方区,transport,码头岸线,pending
-Landside Area,陆侧区域,transport,码头岸线,pending
-Waterside Area,水侧区域,transport,码头岸线,pending
-Quay Crane Rail,岸桥轨道,transport,码头岸线,pending
-Bollard,系船柱,transport,码头岸线,pending
-Bollard Pull,系船柱拉力,transport,码头岸线,pending
-Fender,护舷,transport,码头岸线,pending
-Fender Panel,护舷面板,transport,码头岸线,pending
-Pneumatic Fender,充气式护舷,transport,码头岸线,pending
-Cylindrical Fender,圆筒形护舷,transport,码头岸线,pending
-Cellular Fender,鼓型护舷,transport,码头岸线,pending
-Cone Fender,锥型护舷,transport,码头岸线,pending
-Buckling Fender,压缩变形护舷,transport,码头岸线,pending
-Ladder,登船梯,transport,码头岸线,pending
-Water Intake Point,岸上取水点,transport,码头岸线,pending
-Shore Connection,岸电接驳点,transport,码头岸线,pending
-Quay Length,码头岸线长度,transport,码头岸线,pending
-Berth Depth,泊位水深,transport,码头岸线,pending
-Design Vessel,设计船型,transport,码头岸线,pending
-Tidal Range,潮差,transport,码头岸线,pending
-Quay Structure,码头结构,transport,码头岸线,pending
-Sheet Pile Quay,板桩码头,transport,码头岸线,pending
-Gravity Quay,重力式码头,transport,码头岸线,pending
-Caisson Quay,沉箱码头,transport,码头岸线,pending
-Open-Pile Wharf,高桩码头,transport,码头岸线,pending
-Pontoon,浮码头趸船,transport,码头岸线,pending
-Floating Pontoon,浮式趸船,transport,码头岸线,pending
-Harbor Basin,港池,transport,码头岸线,pending
-Turning Basin,回旋水域,transport,码头岸线,pending
-Basin Depth,港池水深,transport,码头岸线,pending
-Yard Block,堆场箱区,transport,码头装卸,pending
-Yard Planning,堆场计划,transport,码头装卸,pending
-Yard Allocation,堆场分配,transport,码头装卸,pending
-Ground Slot,地面箱位,transport,码头装卸,pending
-Reefer Rack,冷藏箱架,transport,码头装卸,pending
-Reefer Monitoring,冷藏箱监控,transport,码头装卸,pending
-Plug-In Service,冷藏箱接电服务,transport,码头装卸,pending
-Depot,修箱堆场,transport,码头装卸,pending
-CFS Operation,货运站作业,transport,码头装卸,pending
-Devanning,拆箱,transport,码头装卸,pending
-Vanning,装箱,transport,码头装卸,pending
-Stuffing,装箱作业,transport,码头装卸,pending
-Stripping,拆箱作业,transport,码头装卸,pending
-Direct Delivery,直取作业,transport,码头装卸,pending
-Direct Loading,直装作业,transport,码头装卸,pending
-Pre-Stacking,预堆存,transport,码头装卸,pending
-Marshalling Yard,编组场,transport,码头装卸,pending
-Yard Crane Block,场桥作业箱区,transport,码头装卸,pending
-Slot Planning,箱位计划,transport,码头装卸,pending
-Container Position,箱位,transport,码头装卸,pending
-Discharge Sequence,卸船顺序,transport,码头装卸,pending
-Working Sequence,作业顺序,transport,码头装卸,pending
-Quay Crane Split,岸桥作业路数,transport,码头装卸,pending
-Crane Split,桥吊分船作业,transport,码头装卸,pending
-Tandem Lift Operation,双箱联吊作业,transport,码头装卸,pending
-Dual Cycle Operation,双循环作业,transport,码头装卸,pending
-Single Cycle,单循环作业,transport,码头装卸,pending
-Quay Crane Cycle Time,岸桥单循环时间,transport,码头装卸,pending
-Hook Operation,吊钩作业,transport,码头装卸,pending
-Hook Cycle,吊钩循环,transport,码头装卸,pending
-Gantry Travel,大车行走,transport,码头装卸,pending
-Trolley Travel,小车行走,transport,码头装卸,pending
-Boom Hoisting,俯仰升降,transport,码头装卸,pending
-Slewing,回转,transport,码头装卸,pending
+KJ3 Declaration,KJ3类快件,customs,行邮监管,published
+CNY50 Duty-free Threshold,50元免税额度,customs,行邮监管,published
+De Minimis Value,免税限值,customs,行邮监管,published
+Prohibited Incoming Articles,禁止进境物品,customs,行邮监管,published
+Prohibited Outgoing Articles,禁止出境物品,customs,行邮监管,published
+Restricted Articles,限制进出境物品,customs,行邮监管,published
+Gold and Currency Declaration,金银及外币申报,customs,行邮监管,published
+Cash Declaration Limit,现钞申报限额,customs,行邮监管,published
+Duty-paid Price List,完税价格表,customs,行邮监管,published
+Administrative Duty Assessment,行邮估价,customs,行邮监管,published
+Baggage Declaration Form,行李申报单,customs,行邮监管,published
+Resident Traveler Allowance,居民旅客免税额,customs,行邮监管,published
+Non-resident Traveler Allowance,非居民旅客免税额,customs,行邮监管,published
+CNY5000 Threshold,5000元限值,customs,行邮监管,published
+Split Personal Shipment,分运行李,customs,行邮监管,published
+Accompanied Baggage,随身行李,customs,行邮监管,published
+Berth,泊位,transport,码头岸线,published
+Berth Occupancy Rate,泊位占用率,transport,码头岸线,published
+Berth Utilization Rate,泊位利用率,transport,码头岸线,published
+Container Berth,集装箱泊位,transport,码头岸线,published
+Multipurpose Berth,多用途泊位,transport,码头岸线,published
+Ro-Ro Berth,滚装泊位,transport,码头岸线,published
+Lay-By Berth,待泊泊位,transport,码头岸线,published
+Layberth,闲置泊位,transport,码头岸线,published
+Dedicated Berth,专用泊位,transport,码头岸线,published
+Riverside Berth,顺岸泊位,transport,码头岸线,published
+Marginal Wharf,顺岸码头,transport,码头岸线,published
+Pier,突堤码头,transport,码头岸线,published
+Jetty,栈桥码头,transport,码头岸线,published
+Dolphin,系船墩,transport,码头岸线,published
+Breasting Dolphin,靠船墩,transport,码头岸线,published
+Mooring Dolphin,系泊墩,transport,码头岸线,published
+Quay Apron,码头前沿堆场,transport,码头岸线,published
+Wharf Apron,码头前沿,transport,码头岸线,published
+Backshore,码头后方区,transport,码头岸线,published
+Landside Area,陆侧区域,transport,码头岸线,published
+Waterside Area,水侧区域,transport,码头岸线,published
+Quay Crane Rail,岸桥轨道,transport,码头岸线,published
+Bollard,系船柱,transport,码头岸线,published
+Bollard Pull,系船柱拉力,transport,码头岸线,published
+Fender,护舷,transport,码头岸线,published
+Fender Panel,护舷面板,transport,码头岸线,published
+Pneumatic Fender,充气式护舷,transport,码头岸线,published
+Cylindrical Fender,圆筒形护舷,transport,码头岸线,published
+Cellular Fender,鼓型护舷,transport,码头岸线,published
+Cone Fender,锥型护舷,transport,码头岸线,published
+Buckling Fender,压缩变形护舷,transport,码头岸线,published
+Ladder,登船梯,transport,码头岸线,published
+Water Intake Point,岸上取水点,transport,码头岸线,published
+Shore Connection,岸电接驳点,transport,码头岸线,published
+Quay Length,码头岸线长度,transport,码头岸线,published
+Berth Depth,泊位水深,transport,码头岸线,published
+Design Vessel,设计船型,transport,码头岸线,published
+Tidal Range,潮差,transport,码头岸线,published
+Quay Structure,码头结构,transport,码头岸线,published
+Sheet Pile Quay,板桩码头,transport,码头岸线,published
+Gravity Quay,重力式码头,transport,码头岸线,published
+Caisson Quay,沉箱码头,transport,码头岸线,published
+Open-Pile Wharf,高桩码头,transport,码头岸线,published
+Pontoon,浮码头趸船,transport,码头岸线,published
+Floating Pontoon,浮式趸船,transport,码头岸线,published
+Harbor Basin,港池,transport,码头岸线,published
+Turning Basin,回旋水域,transport,码头岸线,published
+Basin Depth,港池水深,transport,码头岸线,published
+Yard Block,堆场箱区,transport,码头装卸,published
+Yard Planning,堆场计划,transport,码头装卸,published
+Yard Allocation,堆场分配,transport,码头装卸,published
+Ground Slot,地面箱位,transport,码头装卸,published
+Reefer Rack,冷藏箱架,transport,码头装卸,published
+Reefer Monitoring,冷藏箱监控,transport,码头装卸,published
+Plug-In Service,冷藏箱接电服务,transport,码头装卸,published
+Depot,修箱堆场,transport,码头装卸,published
+CFS Operation,货运站作业,transport,码头装卸,published
+Devanning,拆箱,transport,码头装卸,published
+Vanning,装箱,transport,码头装卸,published
+Stuffing,装箱作业,transport,码头装卸,published
+Stripping,拆箱作业,transport,码头装卸,published
+Direct Delivery,直取作业,transport,码头装卸,published
+Direct Loading,直装作业,transport,码头装卸,published
+Pre-Stacking,预堆存,transport,码头装卸,published
+Marshalling Yard,编组场,transport,码头装卸,published
+Yard Crane Block,场桥作业箱区,transport,码头装卸,published
+Slot Planning,箱位计划,transport,码头装卸,published
+Container Position,箱位,transport,码头装卸,published
+Discharge Sequence,卸船顺序,transport,码头装卸,published
+Working Sequence,作业顺序,transport,码头装卸,published
+Quay Crane Split,岸桥作业路数,transport,码头装卸,published
+Crane Split,桥吊分船作业,transport,码头装卸,published
+Tandem Lift Operation,双箱联吊作业,transport,码头装卸,published
+Dual Cycle Operation,双循环作业,transport,码头装卸,published
+Single Cycle,单循环作业,transport,码头装卸,published
+Quay Crane Cycle Time,岸桥单循环时间,transport,码头装卸,published
+Hook Operation,吊钩作业,transport,码头装卸,published
+Hook Cycle,吊钩循环,transport,码头装卸,published
+Gantry Travel,大车行走,transport,码头装卸,published
+Trolley Travel,小车行走,transport,码头装卸,published
+Boom Hoisting,俯仰升降,transport,码头装卸,published
+Slewing,回转,transport,码头装卸,published
 Luffing,变幅,transport,码头装卸,pending
 Container Handling Rate,集装箱单机效率,transport,码头装卸,pending
 Gross Crane Rate,桥吊毛效率,transport,码头装卸,pending
