@@ -4841,106 +4841,106 @@ Ship Loader,装船机,transport,港口机械,published
 Traveling Ship Loader,移动式装船机,transport,港口机械,published
 Chute,溜槽,transport,港口机械,published
 Telescopic Chute,伸缩溜管,transport,港口机械,published
-Hatch Cover Handling Gear,舱盖吊架,transport,港口机械,pending
-Port Gantry Crane,港口龙门吊,transport,港口机械,pending
-Container Spreader Frame,吊具框架,transport,港口机械,pending
-Container Lifting Lug,角件吊孔,transport,港口机械,pending
-Corner Casting,角件,transport,港口机械,pending
-Container Spreaders,吊具横梁,transport,港口机械,pending
-Positioning Laser,激光定位,transport,港口机械,pending
-Container Positioning System,集装箱定位系统,transport,港口机械,pending
-Lashing Platform Truck,绑扎平台车,transport,港口机械,pending
-Dust Suppression System,抑尘系统,transport,港口机械,pending
-Fuel-Saving Crane Drive,节能驱动桥吊,transport,港口机械,pending
-Crane Electrification,港机电能回馈,transport,港口机械,pending
-Regenerative Braking,能量回馈制动,transport,港口机械,pending
-Crane Health Monitoring,港机健康监测,transport,港口机械,pending
-Port Equipment Maintenance,港机保养,transport,港口机械,pending
-Planned Maintenance,计划保养,transport,港口机械,pending
-Breakdown Maintenance,故障维修,transport,港口机械,pending
-Spare Parts Store,备件库,transport,港口机械,pending
-Cargo Handling Gear,起重属具,transport,港口装卸工艺,pending
-Hatch Beam,舱口梁,transport,港口装卸工艺,pending
-Lashing Rod,绑扎杆,transport,港口装卸工艺,pending
-Lashing Bar,绑扎棒,transport,港口装卸工艺,pending
-Turnbuckle,松紧螺旋扣,transport,港口装卸工艺,pending
-D Ring,D形环,transport,港口装卸工艺,pending
-Cell Guide Post,导轨立柱,transport,港口装卸工艺,pending
-Bracing Bracket,支撑托架,transport,港口装卸工艺,pending
-Stacking Cone,堆叠锥,transport,港口装卸工艺,pending
-Bridge Fitting,桥式连接件,transport,港口装卸工艺,pending
-Tompang,代装运输,transport,港口装卸工艺,pending
-Dehumidification Cargo Care,货物除湿养护,transport,港口装卸工艺,pending
-Ventilation,舱内通风,transport,港口装卸工艺,pending
-Dunnage Bag,充气垫袋,transport,港口装卸工艺,pending
-Shifting Board,防移板,transport,港口装卸工艺,pending
-Cargo Slippage,货物滑动,transport,港口装卸工艺,pending
-Broken Stowage,亏舱,transport,港口装卸工艺,pending
-Stowage Factor,积载因数,transport,港口装卸工艺,pending
-Loading Operation,装货作业,transport,港口装卸工艺,pending
-Discharging Operation,卸货作业,transport,港口装卸工艺,pending
-Stevedore Hook,吊货钩,transport,港口装卸工艺,pending
-Cargo Hook,货钩,transport,港口装卸工艺,pending
-Canvas Sling,帆布吊兜,transport,港口装卸工艺,pending
-Cargo Sling,吊货索,transport,港口装卸工艺,pending
-Slings,吊索,transport,港口装卸工艺,pending
-Lifting Beam,吊梁,transport,港口装卸工艺,pending
-Cargo Net,货网,transport,港口装卸工艺,pending
-Tray,货盘,transport,港口装卸工艺,pending
-Palletization,托盘化,transport,港口装卸工艺,pending
-Unit Load,单元货物,transport,港口装卸工艺,pending
-Containerization Rate,集装箱化率,transport,港口装卸工艺,pending
-FCL Delivery,整箱交付,transport,港口装卸工艺,pending
-LCL Delivery,拼箱交付,transport,港口装卸工艺,pending
-Containerized Cargo,集装箱货物,transport,港口装卸工艺,pending
-Loose Cargo,件杂货,transport,港口装卸工艺,pending
-Breakbulk Cargo,杂货,transport,港口装卸工艺,pending
-Neobulk Cargo,单元化杂货,transport,港口装卸工艺,pending
-Bagged Cargo,袋装货物,transport,港口装卸工艺,pending
-Crated Cargo,箱装货物,transport,港口装卸工艺,pending
-Wooden Case Cargo,木箱货,transport,港口装卸工艺,pending
-Barrel Cargo,桶装货物,transport,港口装卸工艺,pending
-Heavy Lift Operation,重大件吊装作业,transport,港口装卸工艺,pending
-Sensitivity Cargo,敏感性货物,transport,港口装卸工艺,pending
-Segregation Table,隔离表,transport,港口装卸工艺,pending
-Hazard Class,危险品类别,transport,港口装卸工艺,pending
-Reefer Plugging,冷藏箱插电,transport,港口装卸工艺,pending
-Temperature Recording,温度记录,transport,港口装卸工艺,pending
-Reefer Container Inspection,冷藏箱检查,transport,港口装卸工艺,pending
-Controlled Atmosphere Container,气调集装箱,transport,港口装卸工艺,pending
-Livestock Handling,牲畜装卸,transport,港口装卸工艺,pending
-Bulk Handling,散货装卸,transport,港口装卸工艺,pending
-Dry Bulk Terminal,干散货码头,transport,港口装卸工艺,pending
-Bulk Cargo Handling,散货作业,transport,港口装卸工艺,pending
-Iron Ore Handling,铁矿石接卸,transport,港口装卸工艺,pending
-Coal Handling,煤炭装卸,transport,港口装卸工艺,pending
-Grain Handling,粮食接卸,transport,港口装卸工艺,pending
-Fertilizer Handling,化肥装卸,transport,港口装卸工艺,pending
-Bauxite Unloading,铝土矿卸船,transport,港口装卸工艺,pending
-Bulk Cement Handling,散装水泥作业,transport,港口装卸工艺,pending
-Cement Silo,水泥筒仓,transport,港口装卸工艺,pending
-Stockpile Management,堆垛管理,transport,港口装卸工艺,pending
-Stockyard,料场,transport,港口装卸工艺,pending
-Stacker-Reclaimer,堆取料机,transport,港口装卸工艺,pending
-Bucket-Wheel Stacker-Reclaimer,斗轮堆取料机,transport,港口装卸工艺,pending
-Conveyor Belt,输送带,transport,港口装卸工艺,pending
-Belt Conveyor System,带式输送系统,transport,港口装卸工艺,pending
-Conveyor Transfer Point,输送机转运点,transport,港口装卸工艺,pending
-Belt Scale,皮带秤,transport,港口装卸工艺,pending
-Shiploader Boom Conveyor,装船机臂架输送机,transport,港口装卸工艺,pending
-Silo,筒仓,transport,港口装卸工艺,pending
-Hatch Cover Removal,舱盖拆卸,transport,港口装卸工艺,pending
-Lid Lifting,舱盖吊移,transport,港口装卸工艺,pending
-Hatch Coaming,舱口围板,transport,港口装卸工艺,pending
-Hatch Square,舱口区域,transport,港口装卸工艺,pending
-Hold Cleaning,货舱清扫,transport,港口装卸工艺,pending
-Cargo Residue,货物残留物,transport,港口装卸工艺,pending
-Sweeping,扫舱作业,transport,港口装卸工艺,pending
-Sludge Disposal,污物清除,transport,港口装卸工艺,pending
-Stevedoring Gear,装卸索具,transport,港口装卸工艺,pending
-Cargo Lashing Point,货物系固点,transport,港口装卸工艺,pending
-Cargo Survey,货物检验,transport,港口装卸工艺,pending
-Initial Draft Survey,装前水尺计重,transport,港口装卸工艺,pending
+Hatch Cover Handling Gear,舱盖吊架,transport,港口机械,published
+Port Gantry Crane,港口龙门吊,transport,港口机械,published
+Container Spreader Frame,吊具框架,transport,港口机械,published
+Container Lifting Lug,角件吊孔,transport,港口机械,published
+Corner Casting,角件,transport,港口机械,published
+Container Spreaders,吊具横梁,transport,港口机械,published
+Positioning Laser,激光定位,transport,港口机械,published
+Container Positioning System,集装箱定位系统,transport,港口机械,published
+Lashing Platform Truck,绑扎平台车,transport,港口机械,published
+Dust Suppression System,抑尘系统,transport,港口机械,published
+Fuel-Saving Crane Drive,节能驱动桥吊,transport,港口机械,published
+Crane Electrification,港机电能回馈,transport,港口机械,published
+Regenerative Braking,能量回馈制动,transport,港口机械,published
+Crane Health Monitoring,港机健康监测,transport,港口机械,published
+Port Equipment Maintenance,港机保养,transport,港口机械,published
+Planned Maintenance,计划保养,transport,港口机械,published
+Breakdown Maintenance,故障维修,transport,港口机械,published
+Spare Parts Store,备件库,transport,港口机械,published
+Cargo Handling Gear,起重属具,transport,港口装卸工艺,published
+Hatch Beam,舱口梁,transport,港口装卸工艺,published
+Lashing Rod,绑扎杆,transport,港口装卸工艺,published
+Lashing Bar,绑扎棒,transport,港口装卸工艺,published
+Turnbuckle,松紧螺旋扣,transport,港口装卸工艺,published
+D Ring,D形环,transport,港口装卸工艺,published
+Cell Guide Post,导轨立柱,transport,港口装卸工艺,published
+Bracing Bracket,支撑托架,transport,港口装卸工艺,published
+Stacking Cone,堆叠锥,transport,港口装卸工艺,published
+Bridge Fitting,桥式连接件,transport,港口装卸工艺,published
+Tompang,代装运输,transport,港口装卸工艺,published
+Dehumidification Cargo Care,货物除湿养护,transport,港口装卸工艺,published
+Ventilation,舱内通风,transport,港口装卸工艺,published
+Dunnage Bag,充气垫袋,transport,港口装卸工艺,published
+Shifting Board,防移板,transport,港口装卸工艺,published
+Cargo Slippage,货物滑动,transport,港口装卸工艺,published
+Broken Stowage,亏舱,transport,港口装卸工艺,published
+Stowage Factor,积载因数,transport,港口装卸工艺,published
+Loading Operation,装货作业,transport,港口装卸工艺,published
+Discharging Operation,卸货作业,transport,港口装卸工艺,published
+Stevedore Hook,吊货钩,transport,港口装卸工艺,published
+Cargo Hook,货钩,transport,港口装卸工艺,published
+Canvas Sling,帆布吊兜,transport,港口装卸工艺,published
+Cargo Sling,吊货索,transport,港口装卸工艺,published
+Slings,吊索,transport,港口装卸工艺,published
+Lifting Beam,吊梁,transport,港口装卸工艺,published
+Cargo Net,货网,transport,港口装卸工艺,published
+Tray,货盘,transport,港口装卸工艺,published
+Palletization,托盘化,transport,港口装卸工艺,published
+Unit Load,单元货物,transport,港口装卸工艺,published
+Containerization Rate,集装箱化率,transport,港口装卸工艺,published
+FCL Delivery,整箱交付,transport,港口装卸工艺,published
+LCL Delivery,拼箱交付,transport,港口装卸工艺,published
+Containerized Cargo,集装箱货物,transport,港口装卸工艺,published
+Loose Cargo,件杂货,transport,港口装卸工艺,published
+Breakbulk Cargo,杂货,transport,港口装卸工艺,published
+Neobulk Cargo,单元化杂货,transport,港口装卸工艺,published
+Bagged Cargo,袋装货物,transport,港口装卸工艺,published
+Crated Cargo,箱装货物,transport,港口装卸工艺,published
+Wooden Case Cargo,木箱货,transport,港口装卸工艺,published
+Barrel Cargo,桶装货物,transport,港口装卸工艺,published
+Heavy Lift Operation,重大件吊装作业,transport,港口装卸工艺,published
+Sensitivity Cargo,敏感性货物,transport,港口装卸工艺,published
+Segregation Table,隔离表,transport,港口装卸工艺,published
+Hazard Class,危险品类别,transport,港口装卸工艺,published
+Reefer Plugging,冷藏箱插电,transport,港口装卸工艺,published
+Temperature Recording,温度记录,transport,港口装卸工艺,published
+Reefer Container Inspection,冷藏箱检查,transport,港口装卸工艺,published
+Controlled Atmosphere Container,气调集装箱,transport,港口装卸工艺,published
+Livestock Handling,牲畜装卸,transport,港口装卸工艺,published
+Bulk Handling,散货装卸,transport,港口装卸工艺,published
+Dry Bulk Terminal,干散货码头,transport,港口装卸工艺,published
+Bulk Cargo Handling,散货作业,transport,港口装卸工艺,published
+Iron Ore Handling,铁矿石接卸,transport,港口装卸工艺,published
+Coal Handling,煤炭装卸,transport,港口装卸工艺,published
+Grain Handling,粮食接卸,transport,港口装卸工艺,published
+Fertilizer Handling,化肥装卸,transport,港口装卸工艺,published
+Bauxite Unloading,铝土矿卸船,transport,港口装卸工艺,published
+Bulk Cement Handling,散装水泥作业,transport,港口装卸工艺,published
+Cement Silo,水泥筒仓,transport,港口装卸工艺,published
+Stockpile Management,堆垛管理,transport,港口装卸工艺,published
+Stockyard,料场,transport,港口装卸工艺,published
+Stacker-Reclaimer,堆取料机,transport,港口装卸工艺,published
+Bucket-Wheel Stacker-Reclaimer,斗轮堆取料机,transport,港口装卸工艺,published
+Conveyor Belt,输送带,transport,港口装卸工艺,published
+Belt Conveyor System,带式输送系统,transport,港口装卸工艺,published
+Conveyor Transfer Point,输送机转运点,transport,港口装卸工艺,published
+Belt Scale,皮带秤,transport,港口装卸工艺,published
+Shiploader Boom Conveyor,装船机臂架输送机,transport,港口装卸工艺,published
+Silo,筒仓,transport,港口装卸工艺,published
+Hatch Cover Removal,舱盖拆卸,transport,港口装卸工艺,published
+Lid Lifting,舱盖吊移,transport,港口装卸工艺,published
+Hatch Coaming,舱口围板,transport,港口装卸工艺,published
+Hatch Square,舱口区域,transport,港口装卸工艺,published
+Hold Cleaning,货舱清扫,transport,港口装卸工艺,published
+Cargo Residue,货物残留物,transport,港口装卸工艺,published
+Sweeping,扫舱作业,transport,港口装卸工艺,published
+Sludge Disposal,污物清除,transport,港口装卸工艺,published
+Stevedoring Gear,装卸索具,transport,港口装卸工艺,published
+Cargo Lashing Point,货物系固点,transport,港口装卸工艺,published
+Cargo Survey,货物检验,transport,港口装卸工艺,published
+Initial Draft Survey,装前水尺计重,transport,港口装卸工艺,published
 Final Draft Survey,卸后水尺计重,transport,港口装卸工艺,pending
 Weighing Scale,称重设备,transport,港口装卸工艺,pending
 Tank Calibration,油罐标定,transport,港口装卸工艺,pending
