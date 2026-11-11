@@ -4941,106 +4941,106 @@ Stevedoring Gear,装卸索具,transport,港口装卸工艺,published
 Cargo Lashing Point,货物系固点,transport,港口装卸工艺,published
 Cargo Survey,货物检验,transport,港口装卸工艺,published
 Initial Draft Survey,装前水尺计重,transport,港口装卸工艺,published
-Final Draft Survey,卸后水尺计重,transport,港口装卸工艺,pending
-Weighing Scale,称重设备,transport,港口装卸工艺,pending
-Tank Calibration,油罐标定,transport,港口装卸工艺,pending
-Yard Planning System,堆场计划系统,transport,码头信息化,pending
-Berth Allocation System,泊位分配系统,transport,码头信息化,pending
-Vessel Schedule,船舶计划,transport,码头信息化,pending
-Vessel Operations Plan,船舶作业计划,transport,码头信息化,pending
-Crane Assignment,桥吊指派,transport,码头信息化,pending
-Yard Crane Dispatching,场桥调度,transport,码头信息化,pending
-Truck Dispatching System,拖车调度系统,transport,码头信息化,pending
-Dispatch Optimization,调度优化,transport,码头信息化,pending
-Terminal Operations Control Center,码头中控室,transport,码头信息化,pending
-Control Tower,码头控制塔,transport,码头信息化,pending
-Real-Time Positioning System,实时定位系统,transport,码头信息化,pending
-Yard Crane Positioning,场桥定位,transport,码头信息化,pending
-Vehicle Location System,车辆定位系统,transport,码头信息化,pending
-Container Tracking,集装箱跟踪,transport,码头信息化,pending
-Gate Automation,闸口自动化,transport,码头信息化,pending
-Container Code Recognition,箱号自动识别,transport,码头信息化,pending
-RFID Gate,射频识别闸口,transport,码头信息化,pending
-Electronic Interchange,电子交换单,transport,码头信息化,pending
-EDI Message,电子数据交换报文,transport,码头信息化,pending
-Port Call Optimization,靠港计划优化,transport,码头信息化,pending
-Just-In-Time Arrival,准时到港,transport,码头信息化,pending
-Vessel Traffic Information,船舶动态信息,transport,码头信息化,pending
-Berth Planning,泊位计划,transport,码头信息化,pending
-Ship Shore Coordination,船岸协调,transport,码头信息化,pending
-Terminal Web Portal,码头网上营业厅,transport,码头信息化,pending
-Customer Service Portal,客户服务门户,transport,码头信息化,pending
-Off-Dock Yard,场外堆场,transport,码头信息化,pending
-In-Gate Appointment,进闸预约,transport,码头信息化,pending
-Out-Gate Appointment,出闸预约,transport,码头信息化,pending
-Slot Booking,箱位预订,transport,码头信息化,pending
-Container Movement Record,集装箱动态记录,transport,码头信息化,pending
-Container Damage Inspection,验残作业,transport,码头信息化,pending
-Container Damage Report,残损报告,transport,码头信息化,pending
-Container Survey,集装箱检验,transport,码头信息化,pending
-Container Terminal Gateway,码头闸口,transport,码头信息化,pending
-Weighing System,称重系统,transport,码头信息化,pending
-Movement Type,动态类型,transport,码头信息化,pending
-Load Status,重空箱状态,transport,码头信息化,pending
-Laden Container,重箱,transport,码头信息化,pending
-Gate Movement Record,闸口动态记录,transport,码头信息化,pending
-Yard Movement Record,堆场动态记录,transport,码头信息化,pending
-Terminal Automation Upgrade,码头自动化改造,transport,码头信息化,pending
-Fifth Generation Container Terminal,第五代港口码头,transport,码头信息化,pending
-Intelligent Terminal,智慧码头,transport,码头信息化,pending
-Digital Twin Terminal,数字孪生码头,transport,码头信息化,pending
-Port Logistics Platform,港口物流平台,transport,码头信息化,pending
-Terminal Yard Depth,堆场纵深,transport,码头信息化,pending
-Gate Lane,闸口通道,transport,码头信息化,pending
-Gate Booth,闸口岗亭,transport,码头信息化,pending
-Gate Complex,闸口建筑群,transport,码头信息化,pending
-Gate Line,闸口排队线,transport,码头信息化,pending
-Gate Queue,闸口排队,transport,码头信息化,pending
-Truck Queue Management,集卡排队管理,transport,码头信息化,pending
-Appointment Slot,预约时段,transport,码头信息化,pending
-Empty Container Park,空箱场,transport,码头信息化,pending
-Sheerleg Crane Vessel,自升式起重船,transport,码头装卸,pending
-Accommodation Ladder,登乘梯,transport,码头装卸,pending
-Pilot Ladder,引航员软梯,transport,码头装卸,pending
-Cargo Loading Rate,货物装率,transport,码头装卸,pending
-Loading Rate,装载速率,transport,码头装卸,pending
-Discharging Rate,卸载速率,transport,码头装卸,pending
-Ship Worked,船舶开工,transport,码头装卸,pending
-All Fast,缆绳全部系牢,transport,码头装卸,pending
-Finished With Cargo,装卸完毕,transport,码头装卸,pending
-Cargo Operation Stop,暂停装卸,transport,码头装卸,pending
-Rain Stop,雨天停工,transport,码头装卸,pending
-Berth Shift,泊位调移,transport,码头装卸,pending
-Shifting Berth,移泊,transport,码头装卸,pending
-Quay Shift Operation,倒泊作业,transport,码头装卸,pending
-Cargo Gear Certification,起重设备检验证,transport,码头装卸,pending
-Ship Shore Crane Interface,船岸吊装接口,transport,码头装卸,pending
-Container Lashing Inspection,绑扎检查,transport,码头装卸,pending
-Container Overstow,翻倒箱,transport,码头装卸,pending
-Restow,倒箱作业,transport,码头装卸,pending
-Hatch Sequence,舱位顺序,transport,码头装卸,pending
-Stowage Sequence,配载顺序,transport,码头装卸,pending
-Loading Time,装载时间,transport,码头装卸,pending
-Bend Slot,弯板箱位,transport,码头装卸,pending
-Stability Calculation,稳性计算,transport,码头装卸,pending
-Stability Booklet,稳性报告书,transport,码头装卸,pending
-Ballast Plan,压载计划,transport,码头装卸,pending
-Deadweight Utilization,载重利用率,transport,码头装卸,pending
-Hatch Cover Strength,舱盖强度,transport,码头装卸,pending
-Yard Ground Load,堆场地面载荷,transport,码头装卸,pending
-Pavement,堆场铺面,transport,码头装卸,pending
-Yard Pavement Design,堆场面层设计,transport,码头装卸,pending
-Gantry Rail,龙门吊轨道,transport,码头装卸,pending
-Port Dry Bulk Terminal,港口干散货作业区,transport,码头装卸,pending
-Breakbulk Terminal,件杂货码头,transport,码头装卸,pending
-Heavy Cargo Terminal,重件码头,transport,码头装卸,pending
-Combined Cargo Berth,多用途货泊位,transport,码头装卸,pending
-Chemical Terminal Operations,化学品码头作业,transport,码头装卸,pending
-Berthing Aid System,靠泊辅助系统,transport,码头装卸,pending
-Berth Allocation Plan,泊位分配计划,transport,码头装卸,pending
-Terminal Appointment Slotting,码头预约排位,transport,码头装卸,pending
-Container Freight Station Building,货运站站房,transport,码头装卸,pending
-Bonded Yard,保税堆场,transport,码头装卸,pending
+Final Draft Survey,卸后水尺计重,transport,港口装卸工艺,published
+Weighing Scale,称重设备,transport,港口装卸工艺,published
+Tank Calibration,油罐标定,transport,港口装卸工艺,published
+Yard Planning System,堆场计划系统,transport,码头信息化,published
+Berth Allocation System,泊位分配系统,transport,码头信息化,published
+Vessel Schedule,船舶计划,transport,码头信息化,published
+Vessel Operations Plan,船舶作业计划,transport,码头信息化,published
+Crane Assignment,桥吊指派,transport,码头信息化,published
+Yard Crane Dispatching,场桥调度,transport,码头信息化,published
+Truck Dispatching System,拖车调度系统,transport,码头信息化,published
+Dispatch Optimization,调度优化,transport,码头信息化,published
+Terminal Operations Control Center,码头中控室,transport,码头信息化,published
+Control Tower,码头控制塔,transport,码头信息化,published
+Real-Time Positioning System,实时定位系统,transport,码头信息化,published
+Yard Crane Positioning,场桥定位,transport,码头信息化,published
+Vehicle Location System,车辆定位系统,transport,码头信息化,published
+Container Tracking,集装箱跟踪,transport,码头信息化,published
+Gate Automation,闸口自动化,transport,码头信息化,published
+Container Code Recognition,箱号自动识别,transport,码头信息化,published
+RFID Gate,射频识别闸口,transport,码头信息化,published
+Electronic Interchange,电子交换单,transport,码头信息化,published
+EDI Message,电子数据交换报文,transport,码头信息化,published
+Port Call Optimization,靠港计划优化,transport,码头信息化,published
+Just-In-Time Arrival,准时到港,transport,码头信息化,published
+Vessel Traffic Information,船舶动态信息,transport,码头信息化,published
+Berth Planning,泊位计划,transport,码头信息化,published
+Ship Shore Coordination,船岸协调,transport,码头信息化,published
+Terminal Web Portal,码头网上营业厅,transport,码头信息化,published
+Customer Service Portal,客户服务门户,transport,码头信息化,published
+Off-Dock Yard,场外堆场,transport,码头信息化,published
+In-Gate Appointment,进闸预约,transport,码头信息化,published
+Out-Gate Appointment,出闸预约,transport,码头信息化,published
+Slot Booking,箱位预订,transport,码头信息化,published
+Container Movement Record,集装箱动态记录,transport,码头信息化,published
+Container Damage Inspection,验残作业,transport,码头信息化,published
+Container Damage Report,残损报告,transport,码头信息化,published
+Container Survey,集装箱检验,transport,码头信息化,published
+Container Terminal Gateway,码头闸口,transport,码头信息化,published
+Weighing System,称重系统,transport,码头信息化,published
+Movement Type,动态类型,transport,码头信息化,published
+Load Status,重空箱状态,transport,码头信息化,published
+Laden Container,重箱,transport,码头信息化,published
+Gate Movement Record,闸口动态记录,transport,码头信息化,published
+Yard Movement Record,堆场动态记录,transport,码头信息化,published
+Terminal Automation Upgrade,码头自动化改造,transport,码头信息化,published
+Fifth Generation Container Terminal,第五代港口码头,transport,码头信息化,published
+Intelligent Terminal,智慧码头,transport,码头信息化,published
+Digital Twin Terminal,数字孪生码头,transport,码头信息化,published
+Port Logistics Platform,港口物流平台,transport,码头信息化,published
+Terminal Yard Depth,堆场纵深,transport,码头信息化,published
+Gate Lane,闸口通道,transport,码头信息化,published
+Gate Booth,闸口岗亭,transport,码头信息化,published
+Gate Complex,闸口建筑群,transport,码头信息化,published
+Gate Line,闸口排队线,transport,码头信息化,published
+Gate Queue,闸口排队,transport,码头信息化,published
+Truck Queue Management,集卡排队管理,transport,码头信息化,published
+Appointment Slot,预约时段,transport,码头信息化,published
+Empty Container Park,空箱场,transport,码头信息化,published
+Sheerleg Crane Vessel,自升式起重船,transport,码头装卸,published
+Accommodation Ladder,登乘梯,transport,码头装卸,published
+Pilot Ladder,引航员软梯,transport,码头装卸,published
+Cargo Loading Rate,货物装率,transport,码头装卸,published
+Loading Rate,装载速率,transport,码头装卸,published
+Discharging Rate,卸载速率,transport,码头装卸,published
+Ship Worked,船舶开工,transport,码头装卸,published
+All Fast,缆绳全部系牢,transport,码头装卸,published
+Finished With Cargo,装卸完毕,transport,码头装卸,published
+Cargo Operation Stop,暂停装卸,transport,码头装卸,published
+Rain Stop,雨天停工,transport,码头装卸,published
+Berth Shift,泊位调移,transport,码头装卸,published
+Shifting Berth,移泊,transport,码头装卸,published
+Quay Shift Operation,倒泊作业,transport,码头装卸,published
+Cargo Gear Certification,起重设备检验证,transport,码头装卸,published
+Ship Shore Crane Interface,船岸吊装接口,transport,码头装卸,published
+Container Lashing Inspection,绑扎检查,transport,码头装卸,published
+Container Overstow,翻倒箱,transport,码头装卸,published
+Restow,倒箱作业,transport,码头装卸,published
+Hatch Sequence,舱位顺序,transport,码头装卸,published
+Stowage Sequence,配载顺序,transport,码头装卸,published
+Loading Time,装载时间,transport,码头装卸,published
+Bend Slot,弯板箱位,transport,码头装卸,published
+Stability Calculation,稳性计算,transport,码头装卸,published
+Stability Booklet,稳性报告书,transport,码头装卸,published
+Ballast Plan,压载计划,transport,码头装卸,published
+Deadweight Utilization,载重利用率,transport,码头装卸,published
+Hatch Cover Strength,舱盖强度,transport,码头装卸,published
+Yard Ground Load,堆场地面载荷,transport,码头装卸,published
+Pavement,堆场铺面,transport,码头装卸,published
+Yard Pavement Design,堆场面层设计,transport,码头装卸,published
+Gantry Rail,龙门吊轨道,transport,码头装卸,published
+Port Dry Bulk Terminal,港口干散货作业区,transport,码头装卸,published
+Breakbulk Terminal,件杂货码头,transport,码头装卸,published
+Heavy Cargo Terminal,重件码头,transport,码头装卸,published
+Combined Cargo Berth,多用途货泊位,transport,码头装卸,published
+Chemical Terminal Operations,化学品码头作业,transport,码头装卸,published
+Berthing Aid System,靠泊辅助系统,transport,码头装卸,published
+Berth Allocation Plan,泊位分配计划,transport,码头装卸,published
+Terminal Appointment Slotting,码头预约排位,transport,码头装卸,published
+Container Freight Station Building,货运站站房,transport,码头装卸,published
+Bonded Yard,保税堆场,transport,码头装卸,published
 Customs Examination Yard,海关查验场,transport,码头装卸,pending
 Customs Clearance Yard,通关验放场,transport,码头装卸,pending
 Manifest Check,舱单核对,transport,码头装卸,pending
