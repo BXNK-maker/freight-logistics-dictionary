@@ -5338,106 +5338,106 @@ Bunker Fuel,船用燃料油,transport,船舶燃料,published
 Bunker Barge Operation,加油驳作业,transport,船舶燃料,published
 Bunker Sampling,燃油取样,transport,船舶燃料,published
 Bunker Sample Seal,油样封存,transport,船舶燃料,published
-Bunkering Operation,加油作业,transport,船舶燃料,pending
-Bunkering Supervisor,加油监督,transport,船舶燃料,pending
-Ship-to-Ship Bunkering,船对船加油,transport,船舶燃料,pending
-Bunker Tank,燃料油舱,transport,船舶燃料,pending
-Bunker Tank Measurement,油舱测量,transport,船舶燃料,pending
-Fuel Oil,燃油,transport,船舶燃料,pending
-Heavy Fuel Oil,重燃油,transport,船舶燃料,pending
-Intermediate Fuel Oil,中间燃料油,transport,船舶燃料,pending
-Marine Diesel Oil,船用柴油,transport,船舶燃料,pending
-Marine Gas Oil,船用轻柴油,transport,船舶燃料,pending
-Very Low Sulphur Fuel Oil,超低硫燃料油,transport,船舶燃料,pending
-Ultra-Low Sulphur Fuel Oil,极低硫燃油,transport,船舶燃料,pending
-Low Sulphur Fuel,低硫燃料,transport,船舶燃料,pending
-Sulphur Content,硫含量,transport,船舶燃料,pending
-Fuel Quality Test,燃油质量检测,transport,船舶燃料,pending
-Fuel Blending,燃油调合,transport,船舶燃料,pending
-Fuel Additive,燃油添加剂,transport,船舶燃料,pending
-Oil Barge,油驳,transport,船舶燃料,pending
-Bunker Nozzle,加油接头,transport,船舶燃料,pending
-Bunker Hose,输油软管,transport,船舶燃料,pending
-Hose Connection,接管作业,transport,船舶燃料,pending
-Drip Tray,集油盘,transport,船舶燃料,pending
-Oil Spill Boom,围油栏,transport,船舶燃料,pending
-Boom Deployment,围油栏布设,transport,船舶燃料,pending
-Oil Transfer Notice,油类作业告知,transport,船舶燃料,pending
-Bunker Plan,加油计划,transport,船舶燃料,pending
-Fuel Consumption,燃油消耗,transport,船舶燃料,pending
-Lubricating Oil,润滑油,transport,船舶燃料,pending
-Cylinder Oil,气缸油,transport,船舶燃料,pending
-System Oil,系统油,transport,船舶燃料,pending
-Lube Oil Bunker,滑油补给,transport,船舶燃料,pending
-Oil Transfer Pump,输油泵,transport,船舶燃料,pending
-Fuel Transfer Line,燃油输送管,transport,船舶燃料,pending
-Overflow Precaution,防溢措施,transport,船舶燃料,pending
-Spill Response Team,溢油应急队,transport,船舶燃料,pending
-Sorbent Pad,吸油毡,transport,船舶燃料,pending
-Oil Recovery Vessel,溢油回收船,transport,船舶燃料,pending
-Marpol VI Compliance,防污公约附则合规,transport,船舶燃料,pending
-Max Sulphur Cap,硫上限,transport,船舶燃料,pending
-Bunker Stem,加油申请,transport,船舶燃料,pending
-Port State Inspection,港口国检查,transport,海事安全,pending
-Detention Order,滞留令,transport,海事安全,pending
-Deficiency Report,缺陷报告,transport,海事安全,pending
-Port State Officer,港口国检查官,transport,海事安全,pending
-Flag State Control,船旗国监督,transport,海事安全,pending
-Flag State Inspection,船旗国检查,transport,海事安全,pending
-Recognized Organization,认可组织,transport,海事安全,pending
-Flag Administration,船旗国主管机关,transport,海事安全,pending
-Safety Management System,安全管理体系,transport,海事安全,pending
-Document of Compliance,符合证明,transport,海事安全,pending
-Safety Management Certificate,安全管理证书,transport,海事安全,pending
-Port Facility Security Plan,港口设施保安计划,transport,海事安全,pending
-Port Facility Security Officer,港口设施保安员,transport,海事安全,pending
-Ship Security Plan,船舶保安计划,transport,海事安全,pending
-Ship Security Officer,船舶保安员,transport,海事安全,pending
-Company Security Officer,公司保安员,transport,海事安全,pending
-International Ship Security Certificate,国际船舶保安证书,transport,海事安全,pending
-Declaration of Security,保安声明,transport,海事安全,pending
-Security Level,保安等级,transport,海事安全,pending
-Restricted Area,限制区域,transport,海事安全,pending
-Access Control Point,门禁检查点,transport,海事安全,pending
-Gangway Watch,舷梯值班,transport,海事安全,pending
-Visitor Log,访客登记,transport,海事安全,pending
-ISPS Audit,保安规则审核,transport,海事安全,pending
-Search and Rescue,搜救,transport,海事安全,pending
-SAR Operation,搜救行动,transport,海事安全,pending
-Rescue Coordination Centre,搜救协调中心,transport,海事安全,pending
-Maritime Rescue Co-ordination,海上救助协调,transport,海事安全,pending
-Rescue Sub-Centre,分搜救中心,transport,海事安全,pending
-Rescue Unit,救助单元,transport,海事安全,pending
-Search Pattern,搜寻模式,transport,海事安全,pending
-Expanding Square Search,扩展方形搜寻,transport,海事安全,pending
-Sector Search,扇形搜寻,transport,海事安全,pending
-Track Line Search,航线搜寻,transport,海事安全,pending
-Parallel Sweep Search,平行扫掠搜寻,transport,海事安全,pending
-Coast Guard,海岸警卫队,transport,海事安全,pending
-Lifeboat,救生艇,transport,海事安全,pending
-Rescue Boat,救助艇,transport,海事安全,pending
-Liferaft,救生筏,transport,海事安全,pending
-Lifejacket,救生衣,transport,海事安全,pending
-Immersion Suit,浸水服,transport,海事安全,pending
-Lifebuoy,救生圈,transport,海事安全,pending
-Line Throwing Apparatus,抛绳器,transport,海事安全,pending
-Searchlight,探照灯,transport,海事安全,pending
-Fireboat,消防船,transport,海事安全,pending
-Fire Monitor,消防炮,transport,海事安全,pending
-Fire Main,消防总管,transport,海事安全,pending
-Emergency Towing,应急拖带,transport,海事安全,pending
-Emergency Response Vessel,应急响应船,transport,海事安全,pending
-Maritime Safety Information,海上安全信息,transport,海事安全,pending
-Safety Broadcast,安全广播,transport,海事安全,pending
-Weather Warning,气象警报,transport,海事安全,pending
-Gale Warning,大风警报,transport,海事安全,pending
-Storm Signal,风暴信号,transport,海事安全,pending
-Typhoon Warning,台风警报,transport,海事安全,pending
-Dredging,疏浚,transport,疏浚工程,pending
-Dredging Operation,疏浚作业,transport,疏浚工程,pending
-Trailing Suction Hopper Dredger,耙吸式挖泥船,transport,疏浚工程,pending
-Cutter Suction Dredger,绞吸式挖泥船,transport,疏浚工程,pending
-Bucket Dredger,链斗式挖泥船,transport,疏浚工程,pending
+Bunkering Operation,加油作业,transport,船舶燃料,published
+Bunkering Supervisor,加油监督,transport,船舶燃料,published
+Ship-to-Ship Bunkering,船对船加油,transport,船舶燃料,published
+Bunker Tank,燃料油舱,transport,船舶燃料,published
+Bunker Tank Measurement,油舱测量,transport,船舶燃料,published
+Fuel Oil,燃油,transport,船舶燃料,published
+Heavy Fuel Oil,重燃油,transport,船舶燃料,published
+Intermediate Fuel Oil,中间燃料油,transport,船舶燃料,published
+Marine Diesel Oil,船用柴油,transport,船舶燃料,published
+Marine Gas Oil,船用轻柴油,transport,船舶燃料,published
+Very Low Sulphur Fuel Oil,超低硫燃料油,transport,船舶燃料,published
+Ultra-Low Sulphur Fuel Oil,极低硫燃油,transport,船舶燃料,published
+Low Sulphur Fuel,低硫燃料,transport,船舶燃料,published
+Sulphur Content,硫含量,transport,船舶燃料,published
+Fuel Quality Test,燃油质量检测,transport,船舶燃料,published
+Fuel Blending,燃油调合,transport,船舶燃料,published
+Fuel Additive,燃油添加剂,transport,船舶燃料,published
+Oil Barge,油驳,transport,船舶燃料,published
+Bunker Nozzle,加油接头,transport,船舶燃料,published
+Bunker Hose,输油软管,transport,船舶燃料,published
+Hose Connection,接管作业,transport,船舶燃料,published
+Drip Tray,集油盘,transport,船舶燃料,published
+Oil Spill Boom,围油栏,transport,船舶燃料,published
+Boom Deployment,围油栏布设,transport,船舶燃料,published
+Oil Transfer Notice,油类作业告知,transport,船舶燃料,published
+Bunker Plan,加油计划,transport,船舶燃料,published
+Fuel Consumption,燃油消耗,transport,船舶燃料,published
+Lubricating Oil,润滑油,transport,船舶燃料,published
+Cylinder Oil,气缸油,transport,船舶燃料,published
+System Oil,系统油,transport,船舶燃料,published
+Lube Oil Bunker,滑油补给,transport,船舶燃料,published
+Oil Transfer Pump,输油泵,transport,船舶燃料,published
+Fuel Transfer Line,燃油输送管,transport,船舶燃料,published
+Overflow Precaution,防溢措施,transport,船舶燃料,published
+Spill Response Team,溢油应急队,transport,船舶燃料,published
+Sorbent Pad,吸油毡,transport,船舶燃料,published
+Oil Recovery Vessel,溢油回收船,transport,船舶燃料,published
+Marpol VI Compliance,防污公约附则合规,transport,船舶燃料,published
+Max Sulphur Cap,硫上限,transport,船舶燃料,published
+Bunker Stem,加油申请,transport,船舶燃料,published
+Port State Inspection,港口国检查,transport,海事安全,published
+Detention Order,滞留令,transport,海事安全,published
+Deficiency Report,缺陷报告,transport,海事安全,published
+Port State Officer,港口国检查官,transport,海事安全,published
+Flag State Control,船旗国监督,transport,海事安全,published
+Flag State Inspection,船旗国检查,transport,海事安全,published
+Recognized Organization,认可组织,transport,海事安全,published
+Flag Administration,船旗国主管机关,transport,海事安全,published
+Safety Management System,安全管理体系,transport,海事安全,published
+Document of Compliance,符合证明,transport,海事安全,published
+Safety Management Certificate,安全管理证书,transport,海事安全,published
+Port Facility Security Plan,港口设施保安计划,transport,海事安全,published
+Port Facility Security Officer,港口设施保安员,transport,海事安全,published
+Ship Security Plan,船舶保安计划,transport,海事安全,published
+Ship Security Officer,船舶保安员,transport,海事安全,published
+Company Security Officer,公司保安员,transport,海事安全,published
+International Ship Security Certificate,国际船舶保安证书,transport,海事安全,published
+Declaration of Security,保安声明,transport,海事安全,published
+Security Level,保安等级,transport,海事安全,published
+Restricted Area,限制区域,transport,海事安全,published
+Access Control Point,门禁检查点,transport,海事安全,published
+Gangway Watch,舷梯值班,transport,海事安全,published
+Visitor Log,访客登记,transport,海事安全,published
+ISPS Audit,保安规则审核,transport,海事安全,published
+Search and Rescue,搜救,transport,海事安全,published
+SAR Operation,搜救行动,transport,海事安全,published
+Rescue Coordination Centre,搜救协调中心,transport,海事安全,published
+Maritime Rescue Co-ordination,海上救助协调,transport,海事安全,published
+Rescue Sub-Centre,分搜救中心,transport,海事安全,published
+Rescue Unit,救助单元,transport,海事安全,published
+Search Pattern,搜寻模式,transport,海事安全,published
+Expanding Square Search,扩展方形搜寻,transport,海事安全,published
+Sector Search,扇形搜寻,transport,海事安全,published
+Track Line Search,航线搜寻,transport,海事安全,published
+Parallel Sweep Search,平行扫掠搜寻,transport,海事安全,published
+Coast Guard,海岸警卫队,transport,海事安全,published
+Lifeboat,救生艇,transport,海事安全,published
+Rescue Boat,救助艇,transport,海事安全,published
+Liferaft,救生筏,transport,海事安全,published
+Lifejacket,救生衣,transport,海事安全,published
+Immersion Suit,浸水服,transport,海事安全,published
+Lifebuoy,救生圈,transport,海事安全,published
+Line Throwing Apparatus,抛绳器,transport,海事安全,published
+Searchlight,探照灯,transport,海事安全,published
+Fireboat,消防船,transport,海事安全,published
+Fire Monitor,消防炮,transport,海事安全,published
+Fire Main,消防总管,transport,海事安全,published
+Emergency Towing,应急拖带,transport,海事安全,published
+Emergency Response Vessel,应急响应船,transport,海事安全,published
+Maritime Safety Information,海上安全信息,transport,海事安全,published
+Safety Broadcast,安全广播,transport,海事安全,published
+Weather Warning,气象警报,transport,海事安全,published
+Gale Warning,大风警报,transport,海事安全,published
+Storm Signal,风暴信号,transport,海事安全,published
+Typhoon Warning,台风警报,transport,海事安全,published
+Dredging,疏浚,transport,疏浚工程,published
+Dredging Operation,疏浚作业,transport,疏浚工程,published
+Trailing Suction Hopper Dredger,耙吸式挖泥船,transport,疏浚工程,published
+Cutter Suction Dredger,绞吸式挖泥船,transport,疏浚工程,published
+Bucket Dredger,链斗式挖泥船,transport,疏浚工程,published
 Grab Dredger,抓斗式挖泥船,transport,疏浚工程,pending
 Backhoe Dredger,反铲挖泥船,transport,疏浚工程,pending
 Dipper Dredger,铲斗挖泥船,transport,疏浚工程,pending
