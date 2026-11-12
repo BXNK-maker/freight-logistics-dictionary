@@ -5041,10 +5041,10 @@ Berth Allocation Plan,泊位分配计划,transport,码头装卸,published
 Terminal Appointment Slotting,码头预约排位,transport,码头装卸,published
 Container Freight Station Building,货运站站房,transport,码头装卸,published
 Bonded Yard,保税堆场,transport,码头装卸,published
-Customs Examination Yard,海关查验场,transport,码头装卸,pending
+Customs Examination Yard,海关查验场,transport,码头装卸,published
 Customs Clearance Yard,通关验放场,transport,码头装卸,published
-Manifest Check,舱单核对,transport,码头装卸,pending
-Yard Exit Gate,堆场出口闸,transport,码头装卸,pending
+Manifest Check,舱单核对,transport,码头装卸,published
+Yard Exit Gate,堆场出口闸,transport,码头装卸,published
 Gate Yard Transfer,闸口堆场转运,transport,码头装卸,published
 Truck Weight Inspection,车辆称重检查,transport,码头装卸,published
 Container Freight Station Loading Bay,货运站装卸月台,transport,码头装卸,published
@@ -5141,103 +5141,103 @@ Anchor Aweigh,锚离底,transport,锚地锚泊,published
 Anchor Aweigh Report,锚离底报告,transport,锚地锚泊,published
 Anchor Holding,锚驻留状态,transport,锚地锚泊,published
 Anchor Dragging,走锚,transport,锚地锚泊,published
-Dragging Alert,走锚报警,transport,锚地锚泊,pending
-Anchor Watch,锚更,transport,锚地锚泊,pending
-Anchored Vessel,锚泊船,transport,锚地锚泊,pending
-Riding at Anchor,锚泊中,transport,锚地锚泊,pending
-Brought Up,锚已抓牢,transport,锚地锚泊,pending
-Snubbing,急制锚链,transport,锚地锚泊,pending
-Cable Veering,松链,transport,锚地锚泊,pending
-Cable,锚链,transport,锚地锚泊,pending
-Chain Cable,有档锚链,transport,锚地锚泊,pending
-Cable Length,锚链长度,transport,锚地锚泊,pending
-Shackle of Cable,节锚链,transport,锚地锚泊,pending
-Cable Paid Out,放出锚链,transport,锚地锚泊,pending
-Cable Taut,锚链绷紧,transport,锚地锚泊,pending
-Cable Leading,锚链方向,transport,锚地锚泊,pending
-Cable Stopper,制链器,transport,锚地锚泊,pending
-Hawse Pipe,锚链筒,transport,锚地锚泊,pending
-Chain Locker,锚链舱,transport,锚地锚泊,pending
-Windlass,锚机,transport,锚地锚泊,pending
-Gypsy Wheel,锚链轮,transport,锚地锚泊,pending
-Bitter End,锚链末端,transport,锚地锚泊,pending
-Devil's Claw,锚链固定钩,transport,锚地锚泊,pending
-Bow Stopper,首部制链器,transport,锚地锚泊,pending
-Spile Pin,锚链插销,transport,锚地锚泊,pending
-Lashing of Anchor,锚固绑扎,transport,锚地锚泊,pending
-Sea Anchor,海锚,transport,锚地锚泊,pending
-Drogue,漂流减速伞,transport,锚地锚泊,pending
-Anchorage Dues,锚地费,transport,锚地锚泊,pending
-Anchorage Supervisor,锚地管理员,transport,锚地锚泊,pending
-Anchorage Pilot Boarding,锚地接引航员,transport,锚地锚泊,pending
-Anchorage Waiting Time,锚泊等待时间,transport,锚地锚泊,pending
-Congested Anchorage,拥挤锚地,transport,锚地锚泊,pending
-Anchorage Congestion,锚地拥堵,transport,锚地锚泊,pending
-Vessels at Anchorage,在锚船舶,transport,锚地锚泊,pending
-Special Anchorage,专用锚地,transport,锚地锚泊,pending
-No Anchoring Area,禁锚区,transport,锚地锚泊,pending
-Anchorage Chart,锚地图,transport,锚地锚泊,pending
-Pilotage Operation,引航作业,transport,引航拖带,pending
-Pilot Boarding Ground,引航员登轮点,transport,引航拖带,pending
-Pilot Boarding,引航员登轮,transport,引航拖带,pending
-Pilot Boarding Ladder,引航梯,transport,引航拖带,pending
-Pilot Boat,引航艇,transport,引航拖带,pending
-Pilot Transfer,引航员接送,transport,引航拖带,pending
-Pilotage Waters,引航水域,transport,引航拖带,pending
-Compulsory Pilotage,强制引航,transport,引航拖带,pending
-Voluntary Pilotage,自愿引航,transport,引航拖带,pending
-Pilot Station,引航站,transport,引航拖带,pending
-Port Pilot,港口引航员,transport,引航拖带,pending
-Sea Pilot,海上引航员,transport,引航拖带,pending
-Deep Sea Pilot,远洋引航员,transport,引航拖带,pending
-Pilotage Exemption Certificate,引航豁免证书,transport,引航拖带,pending
-Pilot Master,引航长,transport,引航拖带,pending
-Pilot Assistant,引航助理,transport,引航拖带,pending
-Dispatcher,引航调度员,transport,引航拖带,pending
-Pilotage Tariff,引航费率,transport,引航拖带,pending
-Pilotage Order,引航申请单,transport,引航拖带,pending
-Embarkation Time,登轮时间,transport,引航拖带,pending
-Disembarkation Point,引航员离船点,transport,引航拖带,pending
-Under Pilotage,引航中,transport,引航拖带,pending
-Pilot on Board,引航员在船,transport,引航拖带,pending
-Pilot off Board,引航员已离船,transport,引航拖带,pending
-Bridge Team Briefing,驾驶台团队简介,transport,引航拖带,pending
-Master Pilot Exchange,船长引航员信息交换,transport,引航拖带,pending
-Ship Manoeuvring Data,船舶操纵数据,transport,引航拖带,pending
-Tug Assistance,拖轮协助,transport,引航拖带,pending
-Escort Tug,护航拖轮,transport,引航拖带,pending
-Tractor Tug,全回转拖轮,transport,引航拖带,pending
-ASD Tug,摆尾全回转拖轮,transport,引航拖带,pending
-Conventional Tug,常规拖轮,transport,引航拖带,pending
-Harbour Tug,港作拖轮,transport,引航拖带,pending
-Coastal Tug,沿海拖轮,transport,引航拖带,pending
-Ocean-Going Tug,远洋拖轮,transport,引航拖带,pending
-Salvage Tug,救助拖轮,transport,引航拖带,pending
-Tug Bollard Pull,拖轮系柱拖力,transport,引航拖带,pending
-Bollard Pull Test,系柱拉力试验,transport,引航拖带,pending
-Tug Line,拖缆,transport,引航拖带,pending
-Towline,拖带缆,transport,引航拖带,pending
-Tow Connection,拖带连接,transport,引航拖带,pending
-Tow Bridle,拖缆龙须链,transport,引航拖带,pending
-Tow Winch,拖缆绞车,transport,引航拖带,pending
-Towing Operation,拖带作业,transport,引航拖带,pending
-Towage Contract,拖带合同,transport,引航拖带,pending
-Towage Tariff,拖轮费率,transport,引航拖带,pending
-Tug Master,拖轮船长,transport,引航拖带,pending
-Tug Fender,拖轮护舷,transport,引航拖带,pending
-Pusher Operation,顶推作业,transport,引航拖带,pending
-Mooring Operation,带缆作业,transport,系缆作业,pending
-Unmooring,解缆作业,transport,系缆作业,pending
-Mooring Plan,系泊方案,transport,系缆作业,pending
-Mooring Line,系泊缆绳,transport,系缆作业,pending
-Head Line,首缆,transport,系缆作业,pending
-Stern Line,尾缆,transport,系缆作业,pending
-Forward Breast Line,前横缆,transport,系缆作业,pending
-Aft Breast Line,后横缆,transport,系缆作业,pending
-Forward Spring,前倒缆,transport,系缆作业,pending
-Aft Spring,后倒缆,transport,系缆作业,pending
-Bow Spring,首倒缆,transport,系缆作业,pending
-Stern Spring,尾倒缆,transport,系缆作业,pending
+Dragging Alert,走锚报警,transport,锚地锚泊,published
+Anchor Watch,锚更,transport,锚地锚泊,published
+Anchored Vessel,锚泊船,transport,锚地锚泊,published
+Riding at Anchor,锚泊中,transport,锚地锚泊,published
+Brought Up,锚已抓牢,transport,锚地锚泊,published
+Snubbing,急制锚链,transport,锚地锚泊,published
+Cable Veering,松链,transport,锚地锚泊,published
+Cable,锚链,transport,锚地锚泊,published
+Chain Cable,有档锚链,transport,锚地锚泊,published
+Cable Length,锚链长度,transport,锚地锚泊,published
+Shackle of Cable,节锚链,transport,锚地锚泊,published
+Cable Paid Out,放出锚链,transport,锚地锚泊,published
+Cable Taut,锚链绷紧,transport,锚地锚泊,published
+Cable Leading,锚链方向,transport,锚地锚泊,published
+Cable Stopper,制链器,transport,锚地锚泊,published
+Hawse Pipe,锚链筒,transport,锚地锚泊,published
+Chain Locker,锚链舱,transport,锚地锚泊,published
+Windlass,锚机,transport,锚地锚泊,published
+Gypsy Wheel,锚链轮,transport,锚地锚泊,published
+Bitter End,锚链末端,transport,锚地锚泊,published
+Devil's Claw,锚链固定钩,transport,锚地锚泊,published
+Bow Stopper,首部制链器,transport,锚地锚泊,published
+Spile Pin,锚链插销,transport,锚地锚泊,published
+Lashing of Anchor,锚固绑扎,transport,锚地锚泊,published
+Sea Anchor,海锚,transport,锚地锚泊,published
+Drogue,漂流减速伞,transport,锚地锚泊,published
+Anchorage Dues,锚地费,transport,锚地锚泊,published
+Anchorage Supervisor,锚地管理员,transport,锚地锚泊,published
+Anchorage Pilot Boarding,锚地接引航员,transport,锚地锚泊,published
+Anchorage Waiting Time,锚泊等待时间,transport,锚地锚泊,published
+Congested Anchorage,拥挤锚地,transport,锚地锚泊,published
+Anchorage Congestion,锚地拥堵,transport,锚地锚泊,published
+Vessels at Anchorage,在锚船舶,transport,锚地锚泊,published
+Special Anchorage,专用锚地,transport,锚地锚泊,published
+No Anchoring Area,禁锚区,transport,锚地锚泊,published
+Anchorage Chart,锚地图,transport,锚地锚泊,published
+Pilotage Operation,引航作业,transport,引航拖带,published
+Pilot Boarding Ground,引航员登轮点,transport,引航拖带,published
+Pilot Boarding,引航员登轮,transport,引航拖带,published
+Pilot Boarding Ladder,引航梯,transport,引航拖带,published
+Pilot Boat,引航艇,transport,引航拖带,published
+Pilot Transfer,引航员接送,transport,引航拖带,published
+Pilotage Waters,引航水域,transport,引航拖带,published
+Compulsory Pilotage,强制引航,transport,引航拖带,published
+Voluntary Pilotage,自愿引航,transport,引航拖带,published
+Pilot Station,引航站,transport,引航拖带,published
+Port Pilot,港口引航员,transport,引航拖带,published
+Sea Pilot,海上引航员,transport,引航拖带,published
+Deep Sea Pilot,远洋引航员,transport,引航拖带,published
+Pilotage Exemption Certificate,引航豁免证书,transport,引航拖带,published
+Pilot Master,引航长,transport,引航拖带,published
+Pilot Assistant,引航助理,transport,引航拖带,published
+Dispatcher,引航调度员,transport,引航拖带,published
+Pilotage Tariff,引航费率,transport,引航拖带,published
+Pilotage Order,引航申请单,transport,引航拖带,published
+Embarkation Time,登轮时间,transport,引航拖带,published
+Disembarkation Point,引航员离船点,transport,引航拖带,published
+Under Pilotage,引航中,transport,引航拖带,published
+Pilot on Board,引航员在船,transport,引航拖带,published
+Pilot off Board,引航员已离船,transport,引航拖带,published
+Bridge Team Briefing,驾驶台团队简介,transport,引航拖带,published
+Master Pilot Exchange,船长引航员信息交换,transport,引航拖带,published
+Ship Manoeuvring Data,船舶操纵数据,transport,引航拖带,published
+Tug Assistance,拖轮协助,transport,引航拖带,published
+Escort Tug,护航拖轮,transport,引航拖带,published
+Tractor Tug,全回转拖轮,transport,引航拖带,published
+ASD Tug,摆尾全回转拖轮,transport,引航拖带,published
+Conventional Tug,常规拖轮,transport,引航拖带,published
+Harbour Tug,港作拖轮,transport,引航拖带,published
+Coastal Tug,沿海拖轮,transport,引航拖带,published
+Ocean-Going Tug,远洋拖轮,transport,引航拖带,published
+Salvage Tug,救助拖轮,transport,引航拖带,published
+Tug Bollard Pull,拖轮系柱拖力,transport,引航拖带,published
+Bollard Pull Test,系柱拉力试验,transport,引航拖带,published
+Tug Line,拖缆,transport,引航拖带,published
+Towline,拖带缆,transport,引航拖带,published
+Tow Connection,拖带连接,transport,引航拖带,published
+Tow Bridle,拖缆龙须链,transport,引航拖带,published
+Tow Winch,拖缆绞车,transport,引航拖带,published
+Towing Operation,拖带作业,transport,引航拖带,published
+Towage Contract,拖带合同,transport,引航拖带,published
+Towage Tariff,拖轮费率,transport,引航拖带,published
+Tug Master,拖轮船长,transport,引航拖带,published
+Tug Fender,拖轮护舷,transport,引航拖带,published
+Pusher Operation,顶推作业,transport,引航拖带,published
+Mooring Operation,带缆作业,transport,系缆作业,published
+Unmooring,解缆作业,transport,系缆作业,published
+Mooring Plan,系泊方案,transport,系缆作业,published
+Mooring Line,系泊缆绳,transport,系缆作业,published
+Head Line,首缆,transport,系缆作业,published
+Stern Line,尾缆,transport,系缆作业,published
+Forward Breast Line,前横缆,transport,系缆作业,published
+Aft Breast Line,后横缆,transport,系缆作业,published
+Forward Spring,前倒缆,transport,系缆作业,published
+Aft Spring,后倒缆,transport,系缆作业,published
+Bow Spring,首倒缆,transport,系缆作业,published
+Stern Spring,尾倒缆,transport,系缆作业,published
 Headline Stopper,首缆制索器,transport,系缆作业,pending
 Mooring Rope,系船缆绳,transport,系缆作业,pending
 Fiber Rope,纤维绳,transport,系缆作业,pending
