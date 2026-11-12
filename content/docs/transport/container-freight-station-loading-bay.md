@@ -1,7 +1,7 @@
 ---
 title: "Container Freight Station Loading Bay"
 linkTitle: "货运站装卸月台"
-date: 2026-11-11
+date: 2026-11-12
 type: docs
 subcategory: "码头装卸"
 ---
@@ -10,35 +10,34 @@ subcategory: "码头装卸"
 
 ## 定义
 
-Container Freight Station Loading Bay（中文：货运站装卸月台）是指拼箱货运站（CFS）专门用于货车停靠、装卸拼箱货物（LCL）的建筑平台区域。它是连接外部集疏运车辆与内部仓储分拣作业的核心物理交接点，直接关系到货物的转运效率和装箱质量。
+Container Freight Station Loading Bay（简称 CFS Loading Bay，中文通常译为货运站装卸月台）是指拼箱货运站（CFS）内专门用于停靠货车并进行货物装卸作业的专用平台区域。它是连接外部陆运集散与内部仓库拼箱作业的关键物理接口，主要用于散货（LCL）的交接与集拼。
 
 ## 详细说明
 
-- 使用场景：广泛应用于海运和空运拼箱货物的交接环节，当卡车运送散货进入CFS仓库，或将拼好箱的货物运往码头时，均需在此区域进行倒装和对接。
-- 关键规则与数字：月台的设计高度通常与标准货车车厢底板高度保持一致（一般约为1.2米至1.4米），以确保叉车和搬运工能够平稳进出车厢作业。
-- 实务注意事项：现场作业时需严格遵守安全规程，做好防雨防潮措施，并核对好货物的板数、件数与舱单信息，防止散货在交接过程中发生淋湿、破损或遗漏。
+- 使用场景：广泛应用于海运拼箱集散地、保税物流中心以及内陆集装箱货运站，用于散货卡车卸货入库或装箱出库。
+- 关键规则或数字：标准月台设计通常与货车车厢高度持平（一般高约1.2至1.4米），以确保液压叉车或手推车能够平稳进出集装箱或厢式货车；月台配备有防撞胶条和可调节高度的登车桥（Dock Leveler）。
+- 实务注意事项：在安排装卸时，需严格核对拼箱货物的唛头、件数和外观破损情况；由于多个货代或车队在此交货，现场调度需高效以避免车辆拥堵和货物混淆。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 装卸月台 / 卸货台 | Loading Bay / Loading Platform |
-| 拼箱货运站 | Container Freight Station (CFS) |
-| 装卸区 | Loading and Unloading Area |
-| 仓库货车位 | Warehouse Dock Bay |
+| 货运站装卸月台 | Container Freight Station Loading Bay |
+| 登车桥/调整板 | Dock Leveler |
+| 散货交接 | LCL Cargo Handover |
+| 仓库装卸区 | Warehouse Loading Area |
 
 ## 相关术语
 
 - Container Freight Station（拼箱货运站）
 - Less than Container Load（拼箱货）
-- Warehouse Management System（仓库管理系统）
-- Forklift Truck（叉车）
-- Dock Leveler（登车桥/调整板）
+- Dock Leveler（登车桥）
+- Stuffing and Stripping（装箱与拆箱）
 
 ## 常见误区
 
-- 误区一：认为CFS Loading Bay和整箱（FCL）码头的集装箱堆场闸口（Gate）是同一个概念。实际上，月台专属于仓库内部的散货装卸，而堆场闸口负责整箱货的进出卡车登记与交接。
-- 误区二：忽视月台高度与车型不匹配带来的安全隐患。如果车辆停靠位置不当或未使用登车桥，极易导致叉车倾翻或货物跌落损坏。
+- 误认为装卸月台可以长期堆存货物：月台仅作为高效中转和装卸的过渡区域，不能用作长期的货物存储或分拣场地，否则会严重影响整体物流周转效率。
+- 混淆CFS月台与CY闸口：CFS Loading Bay 专门处理拼箱散货的人工或叉车装卸，而集装箱堆场（CY）闸口主要处理整箱（FCL）的交接与车辆进出。
 
 ---
 

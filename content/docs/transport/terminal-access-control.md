@@ -1,7 +1,7 @@
 ---
 title: "Terminal Access Control"
 linkTitle: "码头门禁管理"
-date: 2026-11-11
+date: 2026-11-12
 type: docs
 subcategory: "码头装卸"
 ---
@@ -10,35 +10,34 @@ subcategory: "码头装卸"
 
 ## 定义
 
-Terminal Access Control（码头门禁管理）是指港口、货柜码头或物流园区对进出车辆、人员及货物实施的身份验证、授权审批与安全监控系统。该机制旨在保障口岸作业安全，规范交通秩序，防止非法入侵与货物盗窃。
+Terminal Access Control（码头门禁管理）是指港口或货柜码头对进出车辆、人员及货物实施的电子化身份验证与安全准入控制机制。该机制通过信息化手段核验通行资质，确保只有获得授权的车辆与司机才能进入港区作业，是现代智慧物流和港口安全运营的核心环节。
 
 ## 详细说明
 
-- 使用场景：广泛应用于集装箱码头（CT）、散货码头及内陆港的闸口（Gate）进出环节，涵盖拖车司机进场提吉/落重、查验送货等全流程。
-- 关键规则与流程：司机通常需提前通过码头预约系统（比如 Appointment System）绑定电子运单、车辆信息和生物识别数据。进闸时通过刷卡、车牌识别（OCR）或人脸识别核验身份与作业计划。
-- 实务注意事项：拖车行必须确保司机证件在有效期内，且预约信息与实际车牌、箱号完全一致，否则将被拒绝入场，导致产生空驶费或延误提货。
+- 使用场景：广泛应用于集装箱码头、散杂货码头以及内陆港（ICD）的闸口（Gate）通行管理，是集卡进出码头提吉箱、重箱交接必经的数字化关卡。
+- 关键规则与要素：司机进港前通常需通过码头预约系统（TOS）提交车牌号、身份证、驾驶证、车辆行驶证及电子提货单（EIR）等信息。只有当预约信息、箱号与港口系统数据完全匹配时，闸口系统才会自动抬杆放行。
+- 实务注意事项：司机或车队必须提前做好码头预约并确保所有证件在有效期内；若车辆超载、车牌污损或未按指定时间窗口到达，常会导致系统拒绝放行，进而产生滞箱费、码头无效空驶费或耽误船期。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 码头门禁系统 | Terminal Access Control System |
-| 闸口预约 | Gate Appointment |
-| 车牌识别 | License Plate Recognition (LPR) |
-| 电子通行证 | Electronic Pass / E-Gate Pass |
-| 进出港记录 | Gate-In / Gate-Out Record |
+| 预约入港 | Gate Appointment / Slot Booking |
+| 电子设备交接单 | Electronic Equipment Interchange Receipt (EIR) |
+| 闸口通行证 | Gate Pass / Access Permit |
 
 ## 相关术语
 
-- EDI (Electronic Data Interchange)
-- TOS (Terminal Operating System)
-- EIR (Equipment Interchange Receipt)
-- CFS (Container Freight Station)
+- Terminal Operating System (TOS)（码头操作系统）
+- Container Yard (CY)（集装箱堆场）
+- Electronic Data Interchange (EDI)（电子数据交换）
+- Vessel Closing Time (截港时间)
 
 ## 常见误区
 
-- 误区一：认为码头门禁只是保安查岗，只要有车就能进。实际上它与码头核心操作系统（TOS）深度联网，无预约或无合法单证的车辆无法自动开闸。
-- 误区二：认为门禁卡可以随意借用。由于实行实名制和人脸或指纹比对，人证不符将直接导致司机被列入黑名单，影响后续码头作业。
+- 误以为码头门禁管理只针对人员安全，忽略了它同时承担着货物交接凭证核验和物流节点数据采集的重要功能。
+- 认为只要有纸质提单或提箱单就可以直接去码头提货，忽略了现代码头普遍强制推行的线上门禁预约规则，导致车到闸口被拒。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Cargo Short Landing"
 linkTitle: "短卸"
-date: 2026-11-11
+date: 2026-11-12
 type: docs
 subcategory: "码头装卸"
 ---
@@ -10,34 +10,35 @@ subcategory: "码头装卸"
 
 ## 定义
 
-Cargo Short Landing（中文通常译为“短卸”）是指在货物卸载港（Port of Discharge）实际卸下的货物数量少于提单（Bill of Lading）或舱单（Manifest）所载数量的情况。它是国际海运和航空运输中常见的货差事故，直接引发货损货差索赔。
+Cargo Short Landing（中文通常译为“短卸”或“短卸货量”）是指在货物卸货时，实际卸下的数量少于提单（B/L）或舱单（Manifest）上所载数量的现象。这通常意味着在运输过程中发生了货损货差，或者在装运港漏装。
 
 ## 详细说明
 
-- 使用场景：主要发生于散杂货运输（Break Bulk）及集装箱拼箱货（LCL）的卸货码头，当船边交接（Tally）或拆箱清点发现实收数少于记录数时即告确立。
-- 关键规则或数字：发现短卸后，必须在法定时效内（通常为货物交付后3个工作日内）向承运人或其代理人发出书面保留通知（Notice of Loss），并共同签署“货物短卸证明”（Short Landing Certificate, SLC）或商务记录。
-- 实务注意事项：货代与收货人应立即核对装箱单（Packing List）和提单，确认是起运港漏装（Overcarried / Short Shipped）还是运输途中丢失，以便及时向船公司索赔或通知保险公司。
+- 使用场景：多发生于海运整箱（FCL）或拼箱（LCL）货物的目的港拆箱、散杂货卸船理货环节，以及航空货运卸机交货时。
+- 关键规则或数字：卸货时必须由港口理货机构（Tally Company）出具《理货证明》或《短卸报告》（Short Landing Report/SLR），这是划分责任和向保险公司或承运人索赔的关键法律依据；通常需在货物卸完后的法定期限内（如海运一般为港口规定时间或提货后特定天数内）提出异议。
+- 实务注意事项：收货人在发现短卸后，切勿直接签署清洁提单或收货收据，应要求船公司或其代理在单据上批注实际短卸情况，并及时通知承运人和保险人进行联合查勘。
 
 ## 中英对照
 
-| 英文表达 | 中文翻译 |
+| 中文表达 | 英文表达 |
 | :--- | :--- |
-| Cargo Short Landing | 货物短卸 / 短卸 |
-| Short Landing Certificate (SLC) | 货物短卸证明 |
-| Notice of Loss | 损失通知 / 保留通知 |
-| Outturn Report | 卸货报告 / 港口理货报告 |
+| 短卸 / 短卸货量 | Cargo Short Landing / Shortlanded Cargo |
+| 短卸报告 | Short Landing Report (SLR) |
+| 理货证明 | Tally Certificate / Certificate of Shortage |
+| 溢卸货量 | Cargo Over Landing / Overlanded Cargo |
 
 ## 相关术语
 
-- `Short Shipment（短装 / 漏装）`
-- `Overlanding（多卸 / 超卸）`
+- `Short Shipment（漏装/短装）`
+- `Cargo Damage（货损）`
 - `Tally Report（理货报告）`
+- `Letter of Protest (LOP)（抗议书）`
 - `Bill of Lading (B/L)（提单）`
 
 ## 常见误区
 
-- 误区一：认为短卸就是货物丢失。实际上短卸只代表卸货数量不符，可能是货物被错卸到其他港口（Overcarriage），需经核实后才能确定是否真正丢失。
-- 误区二：认为发现短卸后可以无限期索赔。如果未能在法律规定或合同约定的时效内（如海运一般为提货后一年内，但书面保留通知通常要求即时或数天内）提出异议，承运人可能依法免除责任。
+- 认为短卸就是发货人少发了货物：实际上，短卸仅指“卸货数量”与单据不符，发货人在装运港可能已经装足，问题可能出在海运途中的盗窃、海损或中转港漏卸。
+- 只要发现短卸就能自动获得赔偿：如果没有在规定的时效内取得官方的短卸报告并向承运人发出书面索赔通知，可能会因超过诉讼时效而失去索赔权。
 
 ---
 

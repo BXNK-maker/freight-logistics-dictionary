@@ -1,7 +1,7 @@
 ---
 title: "Warehouse Keeper"
 linkTitle: "库管员"
-date: 2026-11-11
+date: 2026-11-12
 type: docs
 subcategory: "码头装卸"
 ---
@@ -9,31 +9,32 @@ subcategory: "码头装卸"
 > 📖 分类：**运输** / 码头装卸　｜　Warehouse Keeper = 库管员
 
 ## 定义
-Warehouse Keeper（库管员）是指在仓库和物流中心负责货物日常保管、出入库管理、库存盘点及库区维护的专业人员。他们在供应链中承担着保障货物安全、确保账实相符的关键职责。
+Warehouse Keeper（库管员）是指在仓库和物流中心负责货物日常保管、出入库管理及库存盘点的专业人员。在国际货运与供应链中，他们是确保实体货物安全流转和账实相符的核心执行者。
 
 ## 详细说明
-- 使用场景：广泛应用于第三方物流仓库、保税仓、港口堆场、货代公司的拼箱监管仓及跨境电商大仓。
-- 关键规则或数字：必须严格执行先进先出（FIFO）或先进后出（LIFO）原则；库存准确率通常要求达到 99% 以上；冷链或危险品仓库的库管员还需遵守特定的温湿度控制标准及危化品管理条例。
-- 实务注意事项：在货物装卸交接时，库管员必须核对货物的件数、唛头及外包装完好状况，如有破损或短少须当场签署批注，这是划分货损责任的重要依据。
+- 使用场景：广泛应用于保税仓库、普通商业仓库、跨境电商FBA仓及港口集装箱货运站（CFS），处理货物的装卸、分拣、打包及移位。
+- 关键规则或数字：必须严格执行先进先出（FIFO）原则；在温控或危险品仓库中，温度湿度记录及危险品隔离距离需符合特定行业标准。
+- 实务注意事项：在货权交接时，库管员签发的收货单（如Dock Receipt或Warehouse Receipt）具有法律效力，直接关系到货损责任的划分，因此核对货物件数和外包装完好性至关重要。
 
 ## 中英对照
-
-| 中文表达 | 英文表达 |
+| 英文表达 | 中文翻译 |
 | :--- | :--- |
-| 库管员 / 仓库管理员 | Warehouse Keeper / Warehouse Clerk |
-| 库存盘点 | Inventory Stocktake / Physical Count |
-| 入库验收 | Goods Receiving / Inbound Inspection |
-| 出库发货 | Cargo Dispatch / Outbound Delivery |
+| Warehouse Keeper | 库管员 / 仓库保管人 |
+| Inventory Control | 库存控制 / 库存管理 |
+| Goods Inward / Receiving | 入库 / 收货 |
+| Goods Outward / Dispatch | 出库 / 发货 |
+| Stocktake / Physical Count | 库存盘点 |
 
 ## 相关术语
-- `Warehouse Management System, WMS（仓储管理系统）`
-- `Inventory Control（库存控制）`
-- `Bill of Lading, B/L（提单）`
-- `Tally Clerk（理货员）`
+- Warehouse Management System, WMS（仓库管理系统）
+- Inventory Management（库存管理）
+- Stock Keeping Unit, SKU（存货单位）
+- Bill of Lading, B/L（提单）
+- Cargo Manifest（货物清单）
 
 ## 常见误区
-- 认为库管员只是简单的“看门搬货”人员，忽视了其在海关监管仓和保税区内承担的严苛法定记录责任。
-- 混淆了库管员（Warehouse Keeper）与理货员（Tally Clerk）的职责，前者侧重于货物的整体保管与库存管理，后者侧重于交接时的点数与单货核对。
+- 误区一：认为库管员只是简单的“看门人”或搬运工。实际上，现代库管员需要熟练操作WMS系统，承担复杂的数据录入和货权管理职责。
+- 误区二：混淆Warehouse Keeper与Freight Forwarder（货运代理）。前者侧重实体货物的仓储保管，后者侧重运输路线的规划与代理服务。
 
 ---
 

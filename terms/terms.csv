@@ -5042,105 +5042,105 @@ Terminal Appointment Slotting,码头预约排位,transport,码头装卸,publishe
 Container Freight Station Building,货运站站房,transport,码头装卸,published
 Bonded Yard,保税堆场,transport,码头装卸,published
 Customs Examination Yard,海关查验场,transport,码头装卸,pending
-Customs Clearance Yard,通关验放场,transport,码头装卸,pending
+Customs Clearance Yard,通关验放场,transport,码头装卸,published
 Manifest Check,舱单核对,transport,码头装卸,pending
 Yard Exit Gate,堆场出口闸,transport,码头装卸,pending
-Gate Yard Transfer,闸口堆场转运,transport,码头装卸,pending
-Truck Weight Inspection,车辆称重检查,transport,码头装卸,pending
-Container Freight Station Loading Bay,货运站装卸月台,transport,码头装卸,pending
-Warehouse Loading Dock,仓库装卸平台,transport,码头装卸,pending
-Loading Ramp,装载坡道,transport,码头装卸,pending
-Container Tilt Chassis,倾转式底盘车,transport,码头装卸,pending
-Container Dumper,集装箱倾卸机,transport,码头装卸,pending
-Bulk Container Loading,散货箱装货,transport,码头装卸,pending
-Liner Bag,集装箱内衬袋,transport,码头装卸,pending
-Reefer Genset,冷藏箱发电机,transport,码头装卸,pending
-Ventilation Setting,通风口设定,transport,码头装卸,pending
-Container Pre-Trip Inspection,冷藏箱预检,transport,码头装卸,pending
-Container Leak Test,集装箱渗漏试验,transport,码头装卸,pending
-Container Waterproof Test,集装箱水密试验,transport,码头装卸,pending
-Container Certificate,集装箱证书,transport,码头装卸,pending
-Container Weight,集装箱自重,transport,码头装卸,pending
-Verified Gross Mass,核实总重,transport,码头装卸,pending
-Cargo Weight Declaration,货重申报,transport,码头装卸,pending
-Weight Deviation,箱重偏差,transport,码头装卸,pending
-OOG Cargo,超尺码货物,transport,码头装卸,pending
-Flat Rack Cargo,框架箱货物,transport,码头装卸,pending
-Open Top Cargo,开顶箱货物,transport,码头装卸,pending
-Container Cleaning Station,洗箱站,transport,码头装卸,pending
-Washing Bay,洗箱台位,transport,码头装卸,pending
-Cargo Residue Disposal,货物残渣处置,transport,码头装卸,pending
-Hazardous Cargo Waste,危险品废弃物,transport,码头装卸,pending
-Yard Lighting,堆场照明,transport,码头装卸,pending
-Terminal Fence,码头围网,transport,码头装卸,pending
-Terminal Access Control,码头门禁管理,transport,码头装卸,pending
-Port Gate Complex,港区大门,transport,码头装卸,pending
-Truck Parking Lot,集卡停车场,transport,码头装卸,pending
-Truck Marshalling Yard,集卡集散场,transport,码头装卸,pending
-Terminal Shuttle,码头摆渡车,transport,码头装卸,pending
-Container Loading Supervision,装箱监装,transport,码头装卸,pending
-Cargo Stuffing Supervision,装箱监装服务,transport,码头装卸,pending
-Inspection Witness,检验见证,transport,码头装卸,pending
-Warehouse Keeper,库管员,transport,码头装卸,pending
-Bonded Inland Depot,内陆保税堆场,transport,码头装卸,pending
-Drayage Trucker,集卡司机,transport,码头装卸,pending
-Port Truck Lane,港区专用车道,transport,码头装卸,pending
-Truck Platoon Lane,集卡编队车道,transport,码头装卸,pending
-Dock Buffer Zone,码头缓冲区,transport,码头装卸,pending
-Dolly Exchange Point,挂车交换点,transport,码头装卸,pending
-Yard Block Relocation,箱区倒移,transport,码头装卸,pending
-Housekeeping Slot Consolidation,箱位归整,transport,码头装卸,pending
-Reefer Monitoring System,冷藏箱监控系统,transport,码头装卸,pending
-CFS Warehouse,货运站仓库,transport,码头装卸,pending
-Bonded Transit Warehouse,保税中转仓,transport,码头装卸,pending
-Customs Sealed Transit,海关封志运输,transport,码头装卸,pending
-Seal Integrity Check,铅封核查,transport,码头装卸,pending
-Cargo Store Manifest,仓储舱单,transport,码头装卸,pending
-Warehouse Receipt,仓储凭证,transport,码头装卸,pending
-Yard Clearance Notice,堆场清理通知,transport,码头装卸,pending
-Cargo Left Behind,滞留货物,transport,码头装卸,pending
-Unclaimed Cargo,无主货物,transport,码头装卸,pending
-Auction Cargo,拍卖货物,transport,码头装卸,pending
-Cargo Short Landing,短卸,transport,码头装卸,pending
-Cargo Overlanded,多卸货物,transport,码头装卸,pending
-Broken Cargo,破损货物,transport,码头装卸,pending
-Damaged Cargo Survey,残损货物检验,transport,码头装卸,pending
-Wet Damage,水湿损坏,transport,码头装卸,pending
-Contaminated Cargo,污染货物,transport,码头装卸,pending
-Cargo Isolation Area,货物隔离区,transport,码头装卸,pending
-Infested Cargo,虫害货物,transport,码头装卸,pending
-Quarantine Inspection,检疫查验,transport,码头装卸,pending
-Cargo Sampling,货物取样,transport,码头装卸,pending
-Laboratory Analysis,实验室化验,transport,码头装卸,pending
-Moisture Content Test,水分含量检测,transport,码头装卸,pending
-Anchorage Area,锚地水域,transport,锚地锚泊,pending
-Inner Anchorage,内锚地,transport,锚地锚泊,pending
-Outer Anchorage,外锚地,transport,锚地锚泊,pending
-Roads,港外锚地,transport,锚地锚泊,pending
-Inner Roads,内港锚地,transport,锚地锚泊,pending
-Open Roadstead,开敞锚地,transport,锚地锚泊,pending
-Waiting Anchorage,待泊锚地,transport,锚地锚泊,pending
-Quarantine Anchorage,检疫锚地,transport,锚地锚泊,pending
-Inspection Anchorage,联检锚地,transport,锚地锚泊,pending
-Bunkering Anchorage,加油锚地,transport,锚地锚泊,pending
-Shelter Anchorage,避风锚地,transport,锚地锚泊,pending
-Storm Anchorage,风暴锚地,transport,锚地锚泊,pending
-Emergency Anchorage,应急锚地,transport,锚地锚泊,pending
-Special Purpose Anchorage,专用作业锚地,transport,锚地锚泊,pending
-Holding Ground,锚地底质,transport,锚地锚泊,pending
-Holding Ground Quality,底质锚抓力,transport,锚地锚泊,pending
-Anchorage Limits,锚地范围,transport,锚地锚泊,pending
-Anchorage Allocation,锚地分配,transport,锚地锚泊,pending
-Anchorage Assignment,锚位指派,transport,锚地锚泊,pending
-Anchorage Watch,锚泊值班,transport,锚地锚泊,pending
-Anchorage Position,锚位,transport,锚地锚泊,pending
-Anchoring,抛锚作业,transport,锚地锚泊,pending
-Weighing Anchor,起锚作业,transport,锚地锚泊,pending
-Heave Up Anchor,绞起锚,transport,锚地锚泊,pending
-Anchor Aweigh,锚离底,transport,锚地锚泊,pending
-Anchor Aweigh Report,锚离底报告,transport,锚地锚泊,pending
-Anchor Holding,锚驻留状态,transport,锚地锚泊,pending
-Anchor Dragging,走锚,transport,锚地锚泊,pending
+Gate Yard Transfer,闸口堆场转运,transport,码头装卸,published
+Truck Weight Inspection,车辆称重检查,transport,码头装卸,published
+Container Freight Station Loading Bay,货运站装卸月台,transport,码头装卸,published
+Warehouse Loading Dock,仓库装卸平台,transport,码头装卸,published
+Loading Ramp,装载坡道,transport,码头装卸,published
+Container Tilt Chassis,倾转式底盘车,transport,码头装卸,published
+Container Dumper,集装箱倾卸机,transport,码头装卸,published
+Bulk Container Loading,散货箱装货,transport,码头装卸,published
+Liner Bag,集装箱内衬袋,transport,码头装卸,published
+Reefer Genset,冷藏箱发电机,transport,码头装卸,published
+Ventilation Setting,通风口设定,transport,码头装卸,published
+Container Pre-Trip Inspection,冷藏箱预检,transport,码头装卸,published
+Container Leak Test,集装箱渗漏试验,transport,码头装卸,published
+Container Waterproof Test,集装箱水密试验,transport,码头装卸,published
+Container Certificate,集装箱证书,transport,码头装卸,published
+Container Weight,集装箱自重,transport,码头装卸,published
+Verified Gross Mass,核实总重,transport,码头装卸,published
+Cargo Weight Declaration,货重申报,transport,码头装卸,published
+Weight Deviation,箱重偏差,transport,码头装卸,published
+OOG Cargo,超尺码货物,transport,码头装卸,published
+Flat Rack Cargo,框架箱货物,transport,码头装卸,published
+Open Top Cargo,开顶箱货物,transport,码头装卸,published
+Container Cleaning Station,洗箱站,transport,码头装卸,published
+Washing Bay,洗箱台位,transport,码头装卸,published
+Cargo Residue Disposal,货物残渣处置,transport,码头装卸,published
+Hazardous Cargo Waste,危险品废弃物,transport,码头装卸,published
+Yard Lighting,堆场照明,transport,码头装卸,published
+Terminal Fence,码头围网,transport,码头装卸,published
+Terminal Access Control,码头门禁管理,transport,码头装卸,published
+Port Gate Complex,港区大门,transport,码头装卸,published
+Truck Parking Lot,集卡停车场,transport,码头装卸,published
+Truck Marshalling Yard,集卡集散场,transport,码头装卸,published
+Terminal Shuttle,码头摆渡车,transport,码头装卸,published
+Container Loading Supervision,装箱监装,transport,码头装卸,published
+Cargo Stuffing Supervision,装箱监装服务,transport,码头装卸,published
+Inspection Witness,检验见证,transport,码头装卸,published
+Warehouse Keeper,库管员,transport,码头装卸,published
+Bonded Inland Depot,内陆保税堆场,transport,码头装卸,published
+Drayage Trucker,集卡司机,transport,码头装卸,published
+Port Truck Lane,港区专用车道,transport,码头装卸,published
+Truck Platoon Lane,集卡编队车道,transport,码头装卸,published
+Dock Buffer Zone,码头缓冲区,transport,码头装卸,published
+Dolly Exchange Point,挂车交换点,transport,码头装卸,published
+Yard Block Relocation,箱区倒移,transport,码头装卸,published
+Housekeeping Slot Consolidation,箱位归整,transport,码头装卸,published
+Reefer Monitoring System,冷藏箱监控系统,transport,码头装卸,published
+CFS Warehouse,货运站仓库,transport,码头装卸,published
+Bonded Transit Warehouse,保税中转仓,transport,码头装卸,published
+Customs Sealed Transit,海关封志运输,transport,码头装卸,published
+Seal Integrity Check,铅封核查,transport,码头装卸,published
+Cargo Store Manifest,仓储舱单,transport,码头装卸,published
+Warehouse Receipt,仓储凭证,transport,码头装卸,published
+Yard Clearance Notice,堆场清理通知,transport,码头装卸,published
+Cargo Left Behind,滞留货物,transport,码头装卸,published
+Unclaimed Cargo,无主货物,transport,码头装卸,published
+Auction Cargo,拍卖货物,transport,码头装卸,published
+Cargo Short Landing,短卸,transport,码头装卸,published
+Cargo Overlanded,多卸货物,transport,码头装卸,published
+Broken Cargo,破损货物,transport,码头装卸,published
+Damaged Cargo Survey,残损货物检验,transport,码头装卸,published
+Wet Damage,水湿损坏,transport,码头装卸,published
+Contaminated Cargo,污染货物,transport,码头装卸,published
+Cargo Isolation Area,货物隔离区,transport,码头装卸,published
+Infested Cargo,虫害货物,transport,码头装卸,published
+Quarantine Inspection,检疫查验,transport,码头装卸,published
+Cargo Sampling,货物取样,transport,码头装卸,published
+Laboratory Analysis,实验室化验,transport,码头装卸,published
+Moisture Content Test,水分含量检测,transport,码头装卸,published
+Anchorage Area,锚地水域,transport,锚地锚泊,published
+Inner Anchorage,内锚地,transport,锚地锚泊,published
+Outer Anchorage,外锚地,transport,锚地锚泊,published
+Roads,港外锚地,transport,锚地锚泊,published
+Inner Roads,内港锚地,transport,锚地锚泊,published
+Open Roadstead,开敞锚地,transport,锚地锚泊,published
+Waiting Anchorage,待泊锚地,transport,锚地锚泊,published
+Quarantine Anchorage,检疫锚地,transport,锚地锚泊,published
+Inspection Anchorage,联检锚地,transport,锚地锚泊,published
+Bunkering Anchorage,加油锚地,transport,锚地锚泊,published
+Shelter Anchorage,避风锚地,transport,锚地锚泊,published
+Storm Anchorage,风暴锚地,transport,锚地锚泊,published
+Emergency Anchorage,应急锚地,transport,锚地锚泊,published
+Special Purpose Anchorage,专用作业锚地,transport,锚地锚泊,published
+Holding Ground,锚地底质,transport,锚地锚泊,published
+Holding Ground Quality,底质锚抓力,transport,锚地锚泊,published
+Anchorage Limits,锚地范围,transport,锚地锚泊,published
+Anchorage Allocation,锚地分配,transport,锚地锚泊,published
+Anchorage Assignment,锚位指派,transport,锚地锚泊,published
+Anchorage Watch,锚泊值班,transport,锚地锚泊,published
+Anchorage Position,锚位,transport,锚地锚泊,published
+Anchoring,抛锚作业,transport,锚地锚泊,published
+Weighing Anchor,起锚作业,transport,锚地锚泊,published
+Heave Up Anchor,绞起锚,transport,锚地锚泊,published
+Anchor Aweigh,锚离底,transport,锚地锚泊,published
+Anchor Aweigh Report,锚离底报告,transport,锚地锚泊,published
+Anchor Holding,锚驻留状态,transport,锚地锚泊,published
+Anchor Dragging,走锚,transport,锚地锚泊,published
 Dragging Alert,走锚报警,transport,锚地锚泊,pending
 Anchor Watch,锚更,transport,锚地锚泊,pending
 Anchored Vessel,锚泊船,transport,锚地锚泊,pending

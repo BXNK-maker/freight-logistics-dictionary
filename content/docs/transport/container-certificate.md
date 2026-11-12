@@ -1,7 +1,7 @@
 ---
 title: "Container Certificate"
 linkTitle: "集装箱证书"
-date: 2026-11-11
+date: 2026-11-12
 type: docs
 subcategory: "码头装卸"
 ---
@@ -9,35 +9,32 @@ subcategory: "码头装卸"
 > 📖 分类：**运输** / 码头装卸　｜　Container Certificate = 集装箱证书
 
 ## 定义
-
-集装箱证书（Container Certificate）是证明集装箱符合国际安全标准、质量合格并适合载货运输的法定证明文件。该证书通常由国际认可的船级社或检验机构签发，是国际贸易与海运合规的重要单证。
+Container Certificate（集装箱证书）是由权威检验机构或船级社对集装箱的技术状态、结构安全及标准符合性进行检验后签发的证明文件。该证书是证明集装箱适载性能的重要法律文书，通常涵盖安全合格证及各类特种箱检验报告。
 
 ## 详细说明
-
-- 使用场景：主要用于新箱交付、旧箱买卖过户、特种箱检验、以及海关查验或船舶载重安全审核时证明集装箱的技术状态。
-- 关键规则与标准：最核心的是CSC安全合格牌照（Convention for Safe Containers）相关证书，确保集装箱结构强度能承受堆码、起吊和海上航行风浪；对于冷藏箱，还需提供PTI（装前检验）合格证明。
-- 实务注意事项：货代和发货人在订舱特种箱（如框架箱、开顶箱）时，务必提前向船公司索要相关检验证书；若集装箱证书过期或缺失，码头可能拒绝集装箱进港或装船。
+- 使用场景：主要用于新箱出厂检验、旧箱买卖交接、特种箱（如冷藏箱、开顶箱）适载检验，以及海关监管和特殊货物的危险品运输申报。
+- 关键规则或数字：常见的安全合格证常依据《国际集装箱安全公约》（CSC）签发，称为 CSC Plate（CSC安全铭牌）。对于冷藏箱，通常需要提供有效的 PTI（Pre-Trip Inspection，装箱前检验）证书。
+- 实务注意事项：在租箱或买卖旧箱时，务必核对证书有效期与箱体钢印号是否一致；特种箱装载特定货物前，必须查验其检验证书，否则可能面临港口拒绝吊装或目的港海关扣货的风险。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
+| 集装箱安全合格证 | Container Safety Certificate / CSC Certificate |
+| 集装箱装箱前检验报告 | Container Pre-Trip Inspection (PTI) Report |
 | 集装箱检验证书 | Container Inspection Certificate |
-| 集装箱安全合格证 | CSC Safety Approval Plate / Certificate |
-| 冷藏箱装前检验报告 | PTI (Pre-Trip Inspection) Certificate |
-| 集装箱质量证明书 | Container Quality Certificate |
+| 适载检验证书 | Seaworthiness Certificate |
 
 ## 相关术语
-
-- CSC Plate（CSC安全合格牌照）
-- PTI (Pre-Trip Inspection)（冷藏箱装前检验）
-- Classification Society（船级社）
-- Container Interchange Receipt (CIR)（集装箱交接单）
+- CSC Plate（CSC安全铭牌）
+- PTI (Pre-Trip Inspection)（装箱前检验）
+- Container Inspection（集装箱检验）
+- CSC Convention（国际集装箱安全公约）
+- Off-hire Certificate（还箱检验报告）
 
 ## 常见误区
-
-- 认为集装箱证书就是提单或装箱单：实际上它属于技术证明文件，与货权单据完全无关。
-- 忽视证书的有效期与年检：集装箱投入使用后需要定期复检，长期使用的旧箱如果没有有效的检验记录，可能会被港口限制使用。
+- 认为集装箱证书是一劳永逸的永久文件；实际上，旧箱在使用过程中需要定期复检，CSC铭牌或相关证书存在有效期限。
+- 将普通的设备交接单（EIR）误认为是集装箱质量证书；EIR仅为交接凭证，不具备技术适载证明的效力。
 
 ---
 
