@@ -5238,106 +5238,106 @@ Forward Spring,前倒缆,transport,系缆作业,published
 Aft Spring,后倒缆,transport,系缆作业,published
 Bow Spring,首倒缆,transport,系缆作业,published
 Stern Spring,尾倒缆,transport,系缆作业,published
-Headline Stopper,首缆制索器,transport,系缆作业,pending
-Mooring Rope,系船缆绳,transport,系缆作业,pending
-Fiber Rope,纤维绳,transport,系缆作业,pending
-Nylon Rope,尼龙绳,transport,系缆作业,pending
-Polypropylene Rope,聚丙烯绳,transport,系缆作业,pending
-Wire Rope Mooring,钢丝系泊缆,transport,系缆作业,pending
-Composite Mooring Rope,混合系泊缆,transport,系缆作业,pending
-Hawser,粗缆,transport,系缆作业,pending
-Rope Tail,缆绳尾段,transport,系缆作业,pending
-Synthetic Tail,合成纤维尾缆,transport,系缆作业,pending
-Winch Drum,绞车卷筒,transport,系缆作业,pending
-Split Drum,分隔式卷筒,transport,系缆作业,pending
-Rope Drum Brake,卷筒制动器,transport,系缆作业,pending
-Winch Brake,绞车刹车,transport,系缆作业,pending
-Brake Holding Capacity,刹车持缆力,transport,系缆作业,pending
-Self-Tensioning Winch,自动张力绞车,transport,系缆作业,pending
-Constant Tension Winch,恒张力绞车,transport,系缆作业,pending
-Line Tension,缆绳张力,transport,系缆作业,pending
-Tension Monitoring,张力监测,transport,系缆作业,pending
-Mooring Load,系泊负荷,transport,系缆作业,pending
-Line Load Monitor,缆绳受力监测,transport,系缆作业,pending
-Mooring Line Management,系泊缆管理,transport,系缆作业,pending
-Rope Splicing,绳索插接,transport,系缆作业,pending
-Eye Splice,环眼插接,transport,系缆作业,pending
-Thimble,嵌环,transport,系缆作业,pending
-Shackle,卸扣,transport,系缆作业,pending
-Bow Shackle,弓形卸扣,transport,系缆作业,pending
-Anchor Shackle,锚链卸扣,transport,系缆作业,pending
-Rope Guard,缆绳护罩,transport,系缆作业,pending
-Mooring Bollard,系缆桩,transport,系缆作业,pending
-Double Bitts,双系柱,transport,系缆作业,pending
-Cross Bitt,十字系柱,transport,系缆作业,pending
-Tugger Winch,辅助绞车,transport,系缆作业,pending
-Capstan,绞盘,transport,系缆作业,pending
-Mooring Reel,缆绳卷盘,transport,系缆作业,pending
-Line Storage Rack,缆绳存放架,transport,系缆作业,pending
-Hawser Eyes,缆绳眼环,transport,系缆作业,pending
-Heaving Line Throwing,撇缆作业,transport,系缆作业,pending
-Line Handling,带缆操作,transport,系缆作业,pending
-Line Boat Service,送缆艇服务,transport,系缆作业,pending
-Mooring Crew,带缆人员,transport,系缆作业,pending
-Dry Dock,干船坞,transport,船舶维修,pending
-Floating Dock,浮船坞,transport,船舶维修,pending
-Graving Dock,干坞,transport,船舶维修,pending
-Docking,进坞,transport,船舶维修,pending
-Undocking,出坞,transport,船舶维修,pending
-Docking Plan,进坞计划,transport,船舶维修,pending
-Keel Blocks,龙骨墩,transport,船舶维修,pending
-Side Blocks,边墩,transport,船舶维修,pending
-Docking Blocks,船坞墩木,transport,船舶维修,pending
-Bilge Blocks,边墩木,transport,船舶维修,pending
-Dock Entrance,坞门,transport,船舶维修,pending
-Caisson Gate,沉箱坞门,transport,船舶维修,pending
-Dock Pumping,船坞排水,transport,船舶维修,pending
-Dock De-Watering,坞内排水,transport,船舶维修,pending
-Dock Sills,坞门槛,transport,船舶维修,pending
-Dock Wall,坞墙,transport,船舶维修,pending
-Dock Floor,坞底,transport,船舶维修,pending
-Hull Fouling,船体污底,transport,船舶维修,pending
-Hull Blasting,船体喷砂,transport,船舶维修,pending
-Hull Painting,船体油漆,transport,船舶维修,pending
-Antifouling Coating,防污漆,transport,船舶维修,pending
-Anticorrosive Coating,防锈漆,transport,船舶维修,pending
-Topside Painting,舷侧涂装,transport,船舶维修,pending
-Boot Top,水线带,transport,船舶维修,pending
-Propeller Blade Inspection,桨叶检查,transport,船舶维修,pending
-Tail Shaft Survey,尾轴检验,transport,船舶维修,pending
-Stern Tube Seal Repair,尾轴密封修理,transport,船舶维修,pending
-Rudder Repair,舵修理,transport,船舶维修,pending
-Anodes Replacement,牺牲阳极更换,transport,船舶维修,pending
-Cathodic Protection Check,阴极保护检查,transport,船舶维修,pending
-Ultrasonic Thickness Measurement,超声波测厚,transport,船舶维修,pending
-Steel Renewal,钢板换新,transport,船舶维修,pending
-Plate Replacement,换板工程,transport,船舶维修,pending
-Welding Repair,焊补工程,transport,船舶维修,pending
-Weld Inspection,焊缝检验,transport,船舶维修,pending
-Non-Destructive Testing,无损检测,transport,船舶维修,pending
-Radiographic Test,射线检测,transport,船舶维修,pending
-Magnetic Particle Inspection,磁粉探伤,transport,船舶维修,pending
-Dye Penetrant Test,渗透探伤,transport,船舶维修,pending
-Hydrostatic Test,水压试验,transport,船舶维修,pending
-Tightness Test,密性试验,transport,船舶维修,pending
-Sea Trial,试航,transport,船舶维修,pending
-Berth Trial,码头试验,transport,船舶维修,pending
-Engine Trial,主机试车,transport,船舶维修,pending
-Dock Trial,坞内试验,transport,船舶维修,pending
-Vibration Measurement,振动测量,transport,船舶维修,pending
-Alignment Check,轴系校中检查,transport,船舶维修,pending
-Classification Survey,船级社检验,transport,船舶维修,pending
-Annual Survey,年度检验,transport,船舶维修,pending
-Drydocking Survey,坞检,transport,船舶维修,pending
-Condition of Class,船级状况,transport,船舶维修,pending
-Class Society Recommendation,船级社建议项,transport,船舶维修,pending
-Due Item,到期检验项,transport,船舶维修,pending
-Shipyard,修造船厂,transport,船舶维修,pending
-Repair Quay,修船码头,transport,船舶维修,pending
-Bunker Fuel,船用燃料油,transport,船舶燃料,pending
-Bunker Barge Operation,加油驳作业,transport,船舶燃料,pending
-Bunker Sampling,燃油取样,transport,船舶燃料,pending
-Bunker Sample Seal,油样封存,transport,船舶燃料,pending
+Headline Stopper,首缆制索器,transport,系缆作业,published
+Mooring Rope,系船缆绳,transport,系缆作业,published
+Fiber Rope,纤维绳,transport,系缆作业,published
+Nylon Rope,尼龙绳,transport,系缆作业,published
+Polypropylene Rope,聚丙烯绳,transport,系缆作业,published
+Wire Rope Mooring,钢丝系泊缆,transport,系缆作业,published
+Composite Mooring Rope,混合系泊缆,transport,系缆作业,published
+Hawser,粗缆,transport,系缆作业,published
+Rope Tail,缆绳尾段,transport,系缆作业,published
+Synthetic Tail,合成纤维尾缆,transport,系缆作业,published
+Winch Drum,绞车卷筒,transport,系缆作业,published
+Split Drum,分隔式卷筒,transport,系缆作业,published
+Rope Drum Brake,卷筒制动器,transport,系缆作业,published
+Winch Brake,绞车刹车,transport,系缆作业,published
+Brake Holding Capacity,刹车持缆力,transport,系缆作业,published
+Self-Tensioning Winch,自动张力绞车,transport,系缆作业,published
+Constant Tension Winch,恒张力绞车,transport,系缆作业,published
+Line Tension,缆绳张力,transport,系缆作业,published
+Tension Monitoring,张力监测,transport,系缆作业,published
+Mooring Load,系泊负荷,transport,系缆作业,published
+Line Load Monitor,缆绳受力监测,transport,系缆作业,published
+Mooring Line Management,系泊缆管理,transport,系缆作业,published
+Rope Splicing,绳索插接,transport,系缆作业,published
+Eye Splice,环眼插接,transport,系缆作业,published
+Thimble,嵌环,transport,系缆作业,published
+Shackle,卸扣,transport,系缆作业,published
+Bow Shackle,弓形卸扣,transport,系缆作业,published
+Anchor Shackle,锚链卸扣,transport,系缆作业,published
+Rope Guard,缆绳护罩,transport,系缆作业,published
+Mooring Bollard,系缆桩,transport,系缆作业,published
+Double Bitts,双系柱,transport,系缆作业,published
+Cross Bitt,十字系柱,transport,系缆作业,published
+Tugger Winch,辅助绞车,transport,系缆作业,published
+Capstan,绞盘,transport,系缆作业,published
+Mooring Reel,缆绳卷盘,transport,系缆作业,published
+Line Storage Rack,缆绳存放架,transport,系缆作业,published
+Hawser Eyes,缆绳眼环,transport,系缆作业,published
+Heaving Line Throwing,撇缆作业,transport,系缆作业,published
+Line Handling,带缆操作,transport,系缆作业,published
+Line Boat Service,送缆艇服务,transport,系缆作业,published
+Mooring Crew,带缆人员,transport,系缆作业,published
+Dry Dock,干船坞,transport,船舶维修,published
+Floating Dock,浮船坞,transport,船舶维修,published
+Graving Dock,干坞,transport,船舶维修,published
+Docking,进坞,transport,船舶维修,published
+Undocking,出坞,transport,船舶维修,published
+Docking Plan,进坞计划,transport,船舶维修,published
+Keel Blocks,龙骨墩,transport,船舶维修,published
+Side Blocks,边墩,transport,船舶维修,published
+Docking Blocks,船坞墩木,transport,船舶维修,published
+Bilge Blocks,边墩木,transport,船舶维修,published
+Dock Entrance,坞门,transport,船舶维修,published
+Caisson Gate,沉箱坞门,transport,船舶维修,published
+Dock Pumping,船坞排水,transport,船舶维修,published
+Dock De-Watering,坞内排水,transport,船舶维修,published
+Dock Sills,坞门槛,transport,船舶维修,published
+Dock Wall,坞墙,transport,船舶维修,published
+Dock Floor,坞底,transport,船舶维修,published
+Hull Fouling,船体污底,transport,船舶维修,published
+Hull Blasting,船体喷砂,transport,船舶维修,published
+Hull Painting,船体油漆,transport,船舶维修,published
+Antifouling Coating,防污漆,transport,船舶维修,published
+Anticorrosive Coating,防锈漆,transport,船舶维修,published
+Topside Painting,舷侧涂装,transport,船舶维修,published
+Boot Top,水线带,transport,船舶维修,published
+Propeller Blade Inspection,桨叶检查,transport,船舶维修,published
+Tail Shaft Survey,尾轴检验,transport,船舶维修,published
+Stern Tube Seal Repair,尾轴密封修理,transport,船舶维修,published
+Rudder Repair,舵修理,transport,船舶维修,published
+Anodes Replacement,牺牲阳极更换,transport,船舶维修,published
+Cathodic Protection Check,阴极保护检查,transport,船舶维修,published
+Ultrasonic Thickness Measurement,超声波测厚,transport,船舶维修,published
+Steel Renewal,钢板换新,transport,船舶维修,published
+Plate Replacement,换板工程,transport,船舶维修,published
+Welding Repair,焊补工程,transport,船舶维修,published
+Weld Inspection,焊缝检验,transport,船舶维修,published
+Non-Destructive Testing,无损检测,transport,船舶维修,published
+Radiographic Test,射线检测,transport,船舶维修,published
+Magnetic Particle Inspection,磁粉探伤,transport,船舶维修,published
+Dye Penetrant Test,渗透探伤,transport,船舶维修,published
+Hydrostatic Test,水压试验,transport,船舶维修,published
+Tightness Test,密性试验,transport,船舶维修,published
+Sea Trial,试航,transport,船舶维修,published
+Berth Trial,码头试验,transport,船舶维修,published
+Engine Trial,主机试车,transport,船舶维修,published
+Dock Trial,坞内试验,transport,船舶维修,published
+Vibration Measurement,振动测量,transport,船舶维修,published
+Alignment Check,轴系校中检查,transport,船舶维修,published
+Classification Survey,船级社检验,transport,船舶维修,published
+Annual Survey,年度检验,transport,船舶维修,published
+Drydocking Survey,坞检,transport,船舶维修,published
+Condition of Class,船级状况,transport,船舶维修,published
+Class Society Recommendation,船级社建议项,transport,船舶维修,published
+Due Item,到期检验项,transport,船舶维修,published
+Shipyard,修造船厂,transport,船舶维修,published
+Repair Quay,修船码头,transport,船舶维修,published
+Bunker Fuel,船用燃料油,transport,船舶燃料,published
+Bunker Barge Operation,加油驳作业,transport,船舶燃料,published
+Bunker Sampling,燃油取样,transport,船舶燃料,published
+Bunker Sample Seal,油样封存,transport,船舶燃料,published
 Bunkering Operation,加油作业,transport,船舶燃料,pending
 Bunkering Supervisor,加油监督,transport,船舶燃料,pending
 Ship-to-Ship Bunkering,船对船加油,transport,船舶燃料,pending
