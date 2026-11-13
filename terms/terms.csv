@@ -5635,106 +5635,106 @@ Sludge Barge,污油水接收驳,transport,港口服务,published
 Tractor Unit,牵引车,transport,公路车辆,published
 Semi-Trailer,半挂车,transport,公路车辆,published
 Full Trailer,全挂车,transport,公路车辆,published
-Box Truck,厢式货车,transport,公路车辆,pending
-Curtainside Trailer,侧帘挂车,transport,公路车辆,pending
-Reefer Trailer,冷藏半挂车,transport,公路车辆,pending
-Insulated Trailer,保温挂车,transport,公路车辆,pending
-Tank Trailer,罐式挂车,transport,公路车辆,pending
-Flatbed Trailer,平板挂车,transport,公路车辆,pending
-Lowboy Trailer,低平板挂车,transport,公路车辆,pending
-Extendable Trailer,可伸缩挂车,transport,公路车辆,pending
-Skeletal Trailer,骨架式集装箱挂车,transport,公路车辆,pending
-Tipper Truck,自卸货车,transport,公路车辆,pending
-Stake Truck,栏板货车,transport,公路车辆,pending
-Wing Van,翼开启厢式车,transport,公路车辆,pending
-Refrigerated Truck,冷藏货车,transport,公路车辆,pending
-Insulated Van,保温厢车,transport,公路车辆,pending
-Bulk Cement Truck,散装水泥运输车,transport,公路车辆,pending
-Bulk Powder Truck,散装粉粒物料运输车,transport,公路车辆,pending
-Fuel Tanker Truck,油罐车,transport,公路车辆,pending
-Chemical Tank Truck,化工液体运输车,transport,公路车辆,pending
-Livestock Truck,牲畜运输车,transport,公路车辆,pending
-Car Carrier Trailer,轿运车,transport,公路车辆,pending
-Car Hauler,车辆运输车,transport,公路车辆,pending
-Automobile Transporter,汽车运输车,transport,公路车辆,pending
-Hydraulic Gooseneck Trailer,液压鹅颈挂车,transport,公路车辆,pending
-Schnabel Trailer,钳夹式挂车,transport,公路车辆,pending
-Semi Lowbed,半低平板挂车,transport,公路车辆,pending
-Dropside Truck,三开栏板货车,transport,公路车辆,pending
-Stake Bed Truck,高栏货车,transport,公路车辆,pending
-Dry Van,干货厢式车,transport,公路车辆,pending
-Swinglift Trailer,摆臂式挂车,transport,公路车辆,pending
-Side Loader Truck,侧面吊运车,transport,公路车辆,pending
-Container Side Lifter,集装箱侧面吊,transport,公路车辆,pending
-Truck Mounted Crane,随车起重机,transport,公路车辆,pending
-Truck Mounted Forklift,车载叉车,transport,公路车辆,pending
-Rigid Truck,刚性卡车,transport,公路车辆,pending
-Articulated Lorry,铰接式货车,transport,公路车辆,pending
-Road Train,公路列车,transport,公路车辆,pending
-B-Double,双挂式列车,transport,公路车辆,pending
-B-Triple,三挂式列车,transport,公路车辆,pending
-Euro Combi,欧洲组合列车,transport,公路车辆,pending
-Tandem Axle,串联式车轴,transport,公路车辆,pending
-Tri-Axle Trailer,三轴挂车,transport,公路车辆,pending
-Tandem Trailer,串联挂车,transport,公路车辆,pending
-Dolly Trailer,转向牵引架,transport,公路车辆,pending
-Turntable Dolly,转盘式拖车架,transport,公路车辆,pending
-Kingpin,牵引销,transport,车辆结构,pending
-Fifth Wheel,鞍座,transport,车辆结构,pending
-Landing Gear,支腿,transport,车辆结构,pending
-Sliding Bogie,滑动式车桥,transport,车辆结构,pending
-Steerable Axle,转向车桥,transport,车辆结构,pending
-Hydraulic Ramp,液压爬梯,transport,车辆结构,pending
-Tail Lift,尾板升降机,transport,车辆结构,pending
-Tailgate Lift,货车尾板,transport,车辆结构,pending
-Load Securing Straps,货物绑扎带,transport,车辆结构,pending
-Side Posts,侧立柱,transport,车辆结构,pending
-Header Board,前挡板,transport,车辆结构,pending
-Bulkhead,隔板,transport,车辆结构,pending
-Floor Anchors,地板固定件,transport,车辆结构,pending
-Tarpaulin Cover,苫布,transport,车辆结构,pending
-Curtain Rails,侧帘导轨,transport,车辆结构,pending
-Air Suspension,空气悬架,transport,车辆结构,pending
-Leaf Spring Suspension,钢板弹簧悬架,transport,车辆结构,pending
-Onboard Weighing System,车载称重系统,transport,车辆结构,pending
-Air Deflector,导流罩,transport,车辆结构,pending
-Reefer Unit,制冷机组,transport,冷藏运输车,pending
-Transport Refrigeration Unit,运输用制冷机组,transport,冷藏运输车,pending
-Diesel Powered Reefer,柴油制冷机组,transport,冷藏运输车,pending
-Electric Standby Reefer,电动备电制冷机组,transport,冷藏运输车,pending
-Cryogenic Reefer,深冷制冷机组,transport,冷藏运输车,pending
-Multi-Temperature Compartment,多温区车厢,transport,冷藏运输车,pending
-Trailer Temperature Probe,挂车温度探头,transport,冷藏运输车,pending
-Cold Chain Truck,冷链运输车,transport,冷藏运输车,pending
-Pharma Truck,医药运输车,transport,冷藏运输车,pending
-Validated Trailer,验证合格挂车,transport,冷藏运输车,pending
-Trailer Washout,挂车清洗,transport,冷藏运输车,pending
-Food Grade Trailer,食品级挂车,transport,冷藏运输车,pending
-Live Reefer Monitoring,实时温度监控,transport,冷藏运输车,pending
-Setpoint Verification,温度设定校验,transport,冷藏运输车,pending
-Precooling of Trailer,挂车预冷,transport,冷藏运输车,pending
-Heated Trailer,加热式挂车,transport,冷藏运输车,pending
-Vent Trailer,通风挂车,transport,冷藏运输车,pending
-Tank Cleaning Station,罐箱清洗站,transport,罐式运输,pending
-Food Grade Tanker,食品级罐车,transport,罐式运输,pending
-Bitumen Tanker,沥青运输罐车,transport,罐式运输,pending
-LPG Road Tanker,液化气公路罐车,transport,罐式运输,pending
-Fuel Delivery Truck,燃油配送车,transport,罐式运输,pending
-Vacuum Tanker,真空吸污罐车,transport,罐式运输,pending
-Dry Bulk Tanker,散装干料罐车,transport,罐式运输,pending
-Pneumatic Discharge Trailer,气力卸料挂车,transport,罐式运输,pending
-Silo Trailer,料仓挂车,transport,罐式运输,pending
-Bottom Discharge Trailer,底部卸料挂车,transport,罐式运输,pending
-Rear Tipper Semi-Trailer,后卸式半挂车,transport,自卸与工程,pending
-Three-Way Tipper,三面自卸车,transport,自卸与工程,pending
-U-Type Dump Trailer,U 型自卸挂车,transport,自卸与工程,pending
-End Dump Trailer,尾卸式挂车,transport,自卸与工程,pending
-Side Dump Trailer,侧卸式挂车,transport,自卸与工程,pending
-Bottom Dump Trailer,底卸式挂车,transport,自卸与工程,pending
-Belly Dump Trailer,腹卸式挂车,transport,自卸与工程,pending
-Heavy Haul Truck,重载运输卡车,transport,自卸与工程,pending
-Mining Dump Truck,矿用自卸车,transport,自卸与工程,pending
-Concrete Mixer Truck,混凝土搅拌运输车,transport,自卸与工程,pending
+Box Truck,厢式货车,transport,公路车辆,published
+Curtainside Trailer,侧帘挂车,transport,公路车辆,published
+Reefer Trailer,冷藏半挂车,transport,公路车辆,published
+Insulated Trailer,保温挂车,transport,公路车辆,published
+Tank Trailer,罐式挂车,transport,公路车辆,published
+Flatbed Trailer,平板挂车,transport,公路车辆,published
+Lowboy Trailer,低平板挂车,transport,公路车辆,published
+Extendable Trailer,可伸缩挂车,transport,公路车辆,published
+Skeletal Trailer,骨架式集装箱挂车,transport,公路车辆,published
+Tipper Truck,自卸货车,transport,公路车辆,published
+Stake Truck,栏板货车,transport,公路车辆,published
+Wing Van,翼开启厢式车,transport,公路车辆,published
+Refrigerated Truck,冷藏货车,transport,公路车辆,published
+Insulated Van,保温厢车,transport,公路车辆,published
+Bulk Cement Truck,散装水泥运输车,transport,公路车辆,published
+Bulk Powder Truck,散装粉粒物料运输车,transport,公路车辆,published
+Fuel Tanker Truck,油罐车,transport,公路车辆,published
+Chemical Tank Truck,化工液体运输车,transport,公路车辆,published
+Livestock Truck,牲畜运输车,transport,公路车辆,published
+Car Carrier Trailer,轿运车,transport,公路车辆,published
+Car Hauler,车辆运输车,transport,公路车辆,published
+Automobile Transporter,汽车运输车,transport,公路车辆,published
+Hydraulic Gooseneck Trailer,液压鹅颈挂车,transport,公路车辆,published
+Schnabel Trailer,钳夹式挂车,transport,公路车辆,published
+Semi Lowbed,半低平板挂车,transport,公路车辆,published
+Dropside Truck,三开栏板货车,transport,公路车辆,published
+Stake Bed Truck,高栏货车,transport,公路车辆,published
+Dry Van,干货厢式车,transport,公路车辆,published
+Swinglift Trailer,摆臂式挂车,transport,公路车辆,published
+Side Loader Truck,侧面吊运车,transport,公路车辆,published
+Container Side Lifter,集装箱侧面吊,transport,公路车辆,published
+Truck Mounted Crane,随车起重机,transport,公路车辆,published
+Truck Mounted Forklift,车载叉车,transport,公路车辆,published
+Rigid Truck,刚性卡车,transport,公路车辆,published
+Articulated Lorry,铰接式货车,transport,公路车辆,published
+Road Train,公路列车,transport,公路车辆,published
+B-Double,双挂式列车,transport,公路车辆,published
+B-Triple,三挂式列车,transport,公路车辆,published
+Euro Combi,欧洲组合列车,transport,公路车辆,published
+Tandem Axle,串联式车轴,transport,公路车辆,published
+Tri-Axle Trailer,三轴挂车,transport,公路车辆,published
+Tandem Trailer,串联挂车,transport,公路车辆,published
+Dolly Trailer,转向牵引架,transport,公路车辆,published
+Turntable Dolly,转盘式拖车架,transport,公路车辆,published
+Kingpin,牵引销,transport,车辆结构,published
+Fifth Wheel,鞍座,transport,车辆结构,published
+Landing Gear,支腿,transport,车辆结构,published
+Sliding Bogie,滑动式车桥,transport,车辆结构,published
+Steerable Axle,转向车桥,transport,车辆结构,published
+Hydraulic Ramp,液压爬梯,transport,车辆结构,published
+Tail Lift,尾板升降机,transport,车辆结构,published
+Tailgate Lift,货车尾板,transport,车辆结构,published
+Load Securing Straps,货物绑扎带,transport,车辆结构,published
+Side Posts,侧立柱,transport,车辆结构,published
+Header Board,前挡板,transport,车辆结构,published
+Bulkhead,隔板,transport,车辆结构,published
+Floor Anchors,地板固定件,transport,车辆结构,published
+Tarpaulin Cover,苫布,transport,车辆结构,published
+Curtain Rails,侧帘导轨,transport,车辆结构,published
+Air Suspension,空气悬架,transport,车辆结构,published
+Leaf Spring Suspension,钢板弹簧悬架,transport,车辆结构,published
+Onboard Weighing System,车载称重系统,transport,车辆结构,published
+Air Deflector,导流罩,transport,车辆结构,published
+Reefer Unit,制冷机组,transport,冷藏运输车,published
+Transport Refrigeration Unit,运输用制冷机组,transport,冷藏运输车,published
+Diesel Powered Reefer,柴油制冷机组,transport,冷藏运输车,published
+Electric Standby Reefer,电动备电制冷机组,transport,冷藏运输车,published
+Cryogenic Reefer,深冷制冷机组,transport,冷藏运输车,published
+Multi-Temperature Compartment,多温区车厢,transport,冷藏运输车,published
+Trailer Temperature Probe,挂车温度探头,transport,冷藏运输车,published
+Cold Chain Truck,冷链运输车,transport,冷藏运输车,published
+Pharma Truck,医药运输车,transport,冷藏运输车,published
+Validated Trailer,验证合格挂车,transport,冷藏运输车,published
+Trailer Washout,挂车清洗,transport,冷藏运输车,published
+Food Grade Trailer,食品级挂车,transport,冷藏运输车,published
+Live Reefer Monitoring,实时温度监控,transport,冷藏运输车,published
+Setpoint Verification,温度设定校验,transport,冷藏运输车,published
+Precooling of Trailer,挂车预冷,transport,冷藏运输车,published
+Heated Trailer,加热式挂车,transport,冷藏运输车,published
+Vent Trailer,通风挂车,transport,冷藏运输车,published
+Tank Cleaning Station,罐箱清洗站,transport,罐式运输,published
+Food Grade Tanker,食品级罐车,transport,罐式运输,published
+Bitumen Tanker,沥青运输罐车,transport,罐式运输,published
+LPG Road Tanker,液化气公路罐车,transport,罐式运输,published
+Fuel Delivery Truck,燃油配送车,transport,罐式运输,published
+Vacuum Tanker,真空吸污罐车,transport,罐式运输,published
+Dry Bulk Tanker,散装干料罐车,transport,罐式运输,published
+Pneumatic Discharge Trailer,气力卸料挂车,transport,罐式运输,published
+Silo Trailer,料仓挂车,transport,罐式运输,published
+Bottom Discharge Trailer,底部卸料挂车,transport,罐式运输,published
+Rear Tipper Semi-Trailer,后卸式半挂车,transport,自卸与工程,published
+Three-Way Tipper,三面自卸车,transport,自卸与工程,published
+U-Type Dump Trailer,U 型自卸挂车,transport,自卸与工程,published
+End Dump Trailer,尾卸式挂车,transport,自卸与工程,published
+Side Dump Trailer,侧卸式挂车,transport,自卸与工程,published
+Bottom Dump Trailer,底卸式挂车,transport,自卸与工程,published
+Belly Dump Trailer,腹卸式挂车,transport,自卸与工程,published
+Heavy Haul Truck,重载运输卡车,transport,自卸与工程,published
+Mining Dump Truck,矿用自卸车,transport,自卸与工程,published
+Concrete Mixer Truck,混凝土搅拌运输车,transport,自卸与工程,published
 Water Tanker Truck,洒水车,transport,自卸与工程,pending
 Boom Truck,直臂随车吊,transport,自卸与工程,pending
 Knuckle Boom Crane,折臂随车吊,transport,自卸与工程,pending
