@@ -5438,9 +5438,9 @@ Dredging Operation,疏浚作业,transport,疏浚工程,published
 Trailing Suction Hopper Dredger,耙吸式挖泥船,transport,疏浚工程,published
 Cutter Suction Dredger,绞吸式挖泥船,transport,疏浚工程,published
 Bucket Dredger,链斗式挖泥船,transport,疏浚工程,published
-Grab Dredger,抓斗式挖泥船,transport,疏浚工程,pending
-Backhoe Dredger,反铲挖泥船,transport,疏浚工程,pending
-Dipper Dredger,铲斗挖泥船,transport,疏浚工程,pending
+Grab Dredger,抓斗式挖泥船,transport,疏浚工程,published
+Backhoe Dredger,反铲挖泥船,transport,疏浚工程,published
+Dipper Dredger,铲斗挖泥船,transport,疏浚工程,published
 Hopper Barge Dredging,泥驳疏浚,transport,疏浚工程,published
 Suction Pipe,吸泥管,transport,疏浚工程,published
 Trailing Head,耙头,transport,疏浚工程,published
@@ -5538,103 +5538,103 @@ Notice to Mariners,航海通告,transport,海事通信,published
 Radio Navigational Warning,无线电航行警告,transport,海事通信,published
 Coastal Warning,海岸警报,transport,海事通信,published
 Local Warning,地方警告,transport,海事通信,published
-Meteorological Warning,气象警告,transport,海事通信,pending
-Hydrographic Note,水道测量报告,transport,海事通信,pending
-Port Agency,港口代理,transport,港口服务,pending
-Owners Agent,船东代理,transport,港口服务,pending
-Port Representative,港口代表,transport,港口服务,pending
-Husbandry Services,船舶物料供应服务,transport,港口服务,pending
-Husbandry Agent,船舶事务代理,transport,港口服务,pending
-Crew Change Service,船员换班服务,transport,港口服务,pending
-Crew Repatriation,船员遣返,transport,港口服务,pending
-Sign Off Crew,下船船员,transport,港口服务,pending
-Sign On Crew,上船船员,transport,港口服务,pending
-Shore Leave,登岸假,transport,港口服务,pending
-Shore Pass,登岸许可证,transport,港口服务,pending
-Crew Mail Handling,船员邮件代办,transport,港口服务,pending
-Ship Spares Logistics,船备件物流,transport,港口服务,pending
-Spares Clearance,备件通关,transport,港口服务,pending
-Ship Store Supply,船舶物料供应,transport,港口服务,pending
-Provision Supply,伙食供应,transport,港口服务,pending
-Fresh Water Supply,淡水供应,transport,港口服务,pending
-Sludge Removal,污油水接收,transport,港口服务,pending
-Slops Disposal,舱底水接收,transport,港口服务,pending
-Garbage Removal,垃圾接收,transport,港口服务,pending
-Garbage Receipt,垃圾接收单,transport,港口服务,pending
-Sewage Disposal,生活污水接收,transport,港口服务,pending
-Oily Waste Collection,含油废物收集,transport,港口服务,pending
-Noxious Liquid Reception,有毒液体接收,transport,港口服务,pending
-Reception Facility,接收设施,transport,港口服务,pending
-Port Health Service,港口卫生服务,transport,港口服务,pending
-Quarantine Service,检疫服务,transport,港口服务,pending
-Maritime Medical Assistance,海上医疗救助,transport,港口服务,pending
-Signaling Station,信号台,transport,港口服务,pending
-Flag Hoisting Service,信号旗服务,transport,港口服务,pending
-Berth Booking Service,泊位预订服务,transport,港口服务,pending
-Port Charges Settlement,港口使费结算,transport,港口服务,pending
-Port Entry Coordination,进港协调,transport,港口服务,pending
-Anchoring Order,锚泊指令,transport,港口服务,pending
-Port Master Plan,港口总体规划,transport,港口规划,pending
-Port Layout Plan,港区布置规划,transport,港口规划,pending
-Port Zoning,港区功能分区,transport,港口规划,pending
-Terminal Planning,码头规划,transport,港口规划,pending
-Land Use Planning,用地规划,transport,港口规划,pending
-Waterfront Development,滨水开发,transport,港口规划,pending
-Port Hinterland,港口腹地,transport,港口规划,pending
-Port Catchment Area,港口吸引范围,transport,港口规划,pending
-Cargo Forecast,货量预测,transport,港口规划,pending
-Throughput Forecast,吞吐量预测,transport,港口规划,pending
-Design Throughput,设计吞吐量,transport,港口规划,pending
-Berth Demand Analysis,泊位需求分析,transport,港口规划,pending
-Navigation Channel Design,航道设计,transport,港口规划,pending
-Channel Alignment,航道轴线,transport,港口规划,pending
-Basin Layout,港池布置,transport,港口规划,pending
-Breakwater Layout,防波堤布置,transport,港口规划,pending
-Port Infrastructure Plan,港口基础设施规划,transport,港口规划,pending
-Feasibility Study,可行性研究,transport,港口规划,pending
-Engineering Survey,工程测量,transport,港口规划,pending
-Hydrographic Investigation,水文勘察,transport,港口规划,pending
-Geological Investigation,地质勘察,transport,港口规划,pending
-Environmental Impact Assessment,环境影响评估,transport,港口规划,pending
-Port Construction Project,港口建设项目,transport,港口规划,pending
-Port Expansion Plan,港口扩建规划,transport,港口规划,pending
-Port City Integration,港城融合,transport,港口规划,pending
-Safe Manning Document,安全配员文件,transport,船员配员,pending
-Minimum Safe Manning,最低安全配员,transport,船员配员,pending
-Crew List,船员名单,transport,船员配员,pending
-Crew Agreement,船员雇佣协议,transport,船员配员,pending
-Articles of Agreement,船员任用契约,transport,船员配员,pending
-Seafarer Employment Agreement,海员就业协议,transport,船员配员,pending
-Certificate of Competency,适任证书,transport,船员配员,pending
-Certificate of Endorsement,适任签证,transport,船员配员,pending
-Certificate of Proficiency,专业技能证书,transport,船员配员,pending
-Watchkeeping Certificate,值班证书,transport,船员配员,pending
-Radar Observer Certificate,雷达观测员证书,transport,船员配员,pending
-GMDSS Operator Certificate,海事无线电操作员证书,transport,船员配员,pending
-Medical Fitness Certificate,海员健康证明,transport,船员配员,pending
-Seafarer Medical Examination,海员体检,transport,船员配员,pending
-Seaman Passport,海员护照,transport,船员配员,pending
-Seaman Book,海员证,transport,船员配员,pending
-Crew Identity Document,船员身份证件,transport,船员配员,pending
-Flag Endorsement,船旗国签证,transport,船员配员,pending
-Training Record Book,培训记录簿,transport,船员配员,pending
-Sea Service Record,海上资历记录,transport,船员配员,pending
-Crew Manning Agency,船员配给机构,transport,船员配员,pending
-Manning Agency License,配员机构许可证,transport,船员配员,pending
-Crew Wage,船员工资,transport,船员配员,pending
-Crew Attendance,船员上下船登记,transport,船员配员,pending
-Crew Transfer Boat,船员交通艇,transport,船员配员,pending
-Crew Boat,接船员艇,transport,船员配员,pending
-Standby Vessel,守护船,transport,船员配员,pending
-Watch Schedule,值班表,transport,船员配员,pending
-Rest Hour Record,休息时间记录,transport,船员配员,pending
-Salvage Operations,海难救助作业,transport,海事安全,pending
-Lloyd's Open Form,劳氏救助合同格式,transport,海事安全,pending
-Bunkering License,加油作业许可,transport,船舶燃料,pending
-Sludge Barge,污油水接收驳,transport,港口服务,pending
-Tractor Unit,牵引车,transport,公路车辆,pending
-Semi-Trailer,半挂车,transport,公路车辆,pending
-Full Trailer,全挂车,transport,公路车辆,pending
+Meteorological Warning,气象警告,transport,海事通信,published
+Hydrographic Note,水道测量报告,transport,海事通信,published
+Port Agency,港口代理,transport,港口服务,published
+Owners Agent,船东代理,transport,港口服务,published
+Port Representative,港口代表,transport,港口服务,published
+Husbandry Services,船舶物料供应服务,transport,港口服务,published
+Husbandry Agent,船舶事务代理,transport,港口服务,published
+Crew Change Service,船员换班服务,transport,港口服务,published
+Crew Repatriation,船员遣返,transport,港口服务,published
+Sign Off Crew,下船船员,transport,港口服务,published
+Sign On Crew,上船船员,transport,港口服务,published
+Shore Leave,登岸假,transport,港口服务,published
+Shore Pass,登岸许可证,transport,港口服务,published
+Crew Mail Handling,船员邮件代办,transport,港口服务,published
+Ship Spares Logistics,船备件物流,transport,港口服务,published
+Spares Clearance,备件通关,transport,港口服务,published
+Ship Store Supply,船舶物料供应,transport,港口服务,published
+Provision Supply,伙食供应,transport,港口服务,published
+Fresh Water Supply,淡水供应,transport,港口服务,published
+Sludge Removal,污油水接收,transport,港口服务,published
+Slops Disposal,舱底水接收,transport,港口服务,published
+Garbage Removal,垃圾接收,transport,港口服务,published
+Garbage Receipt,垃圾接收单,transport,港口服务,published
+Sewage Disposal,生活污水接收,transport,港口服务,published
+Oily Waste Collection,含油废物收集,transport,港口服务,published
+Noxious Liquid Reception,有毒液体接收,transport,港口服务,published
+Reception Facility,接收设施,transport,港口服务,published
+Port Health Service,港口卫生服务,transport,港口服务,published
+Quarantine Service,检疫服务,transport,港口服务,published
+Maritime Medical Assistance,海上医疗救助,transport,港口服务,published
+Signaling Station,信号台,transport,港口服务,published
+Flag Hoisting Service,信号旗服务,transport,港口服务,published
+Berth Booking Service,泊位预订服务,transport,港口服务,published
+Port Charges Settlement,港口使费结算,transport,港口服务,published
+Port Entry Coordination,进港协调,transport,港口服务,published
+Anchoring Order,锚泊指令,transport,港口服务,published
+Port Master Plan,港口总体规划,transport,港口规划,published
+Port Layout Plan,港区布置规划,transport,港口规划,published
+Port Zoning,港区功能分区,transport,港口规划,published
+Terminal Planning,码头规划,transport,港口规划,published
+Land Use Planning,用地规划,transport,港口规划,published
+Waterfront Development,滨水开发,transport,港口规划,published
+Port Hinterland,港口腹地,transport,港口规划,published
+Port Catchment Area,港口吸引范围,transport,港口规划,published
+Cargo Forecast,货量预测,transport,港口规划,published
+Throughput Forecast,吞吐量预测,transport,港口规划,published
+Design Throughput,设计吞吐量,transport,港口规划,published
+Berth Demand Analysis,泊位需求分析,transport,港口规划,published
+Navigation Channel Design,航道设计,transport,港口规划,published
+Channel Alignment,航道轴线,transport,港口规划,published
+Basin Layout,港池布置,transport,港口规划,published
+Breakwater Layout,防波堤布置,transport,港口规划,published
+Port Infrastructure Plan,港口基础设施规划,transport,港口规划,published
+Feasibility Study,可行性研究,transport,港口规划,published
+Engineering Survey,工程测量,transport,港口规划,published
+Hydrographic Investigation,水文勘察,transport,港口规划,published
+Geological Investigation,地质勘察,transport,港口规划,published
+Environmental Impact Assessment,环境影响评估,transport,港口规划,published
+Port Construction Project,港口建设项目,transport,港口规划,published
+Port Expansion Plan,港口扩建规划,transport,港口规划,published
+Port City Integration,港城融合,transport,港口规划,published
+Safe Manning Document,安全配员文件,transport,船员配员,published
+Minimum Safe Manning,最低安全配员,transport,船员配员,published
+Crew List,船员名单,transport,船员配员,published
+Crew Agreement,船员雇佣协议,transport,船员配员,published
+Articles of Agreement,船员任用契约,transport,船员配员,published
+Seafarer Employment Agreement,海员就业协议,transport,船员配员,published
+Certificate of Competency,适任证书,transport,船员配员,published
+Certificate of Endorsement,适任签证,transport,船员配员,published
+Certificate of Proficiency,专业技能证书,transport,船员配员,published
+Watchkeeping Certificate,值班证书,transport,船员配员,published
+Radar Observer Certificate,雷达观测员证书,transport,船员配员,published
+GMDSS Operator Certificate,海事无线电操作员证书,transport,船员配员,published
+Medical Fitness Certificate,海员健康证明,transport,船员配员,published
+Seafarer Medical Examination,海员体检,transport,船员配员,published
+Seaman Passport,海员护照,transport,船员配员,published
+Seaman Book,海员证,transport,船员配员,published
+Crew Identity Document,船员身份证件,transport,船员配员,published
+Flag Endorsement,船旗国签证,transport,船员配员,published
+Training Record Book,培训记录簿,transport,船员配员,published
+Sea Service Record,海上资历记录,transport,船员配员,published
+Crew Manning Agency,船员配给机构,transport,船员配员,published
+Manning Agency License,配员机构许可证,transport,船员配员,published
+Crew Wage,船员工资,transport,船员配员,published
+Crew Attendance,船员上下船登记,transport,船员配员,published
+Crew Transfer Boat,船员交通艇,transport,船员配员,published
+Crew Boat,接船员艇,transport,船员配员,published
+Standby Vessel,守护船,transport,船员配员,published
+Watch Schedule,值班表,transport,船员配员,published
+Rest Hour Record,休息时间记录,transport,船员配员,published
+Salvage Operations,海难救助作业,transport,海事安全,published
+Lloyd's Open Form,劳氏救助合同格式,transport,海事安全,published
+Bunkering License,加油作业许可,transport,船舶燃料,published
+Sludge Barge,污油水接收驳,transport,港口服务,published
+Tractor Unit,牵引车,transport,公路车辆,published
+Semi-Trailer,半挂车,transport,公路车辆,published
+Full Trailer,全挂车,transport,公路车辆,published
 Box Truck,厢式货车,transport,公路车辆,pending
 Curtainside Trailer,侧帘挂车,transport,公路车辆,pending
 Reefer Trailer,冷藏半挂车,transport,公路车辆,pending
