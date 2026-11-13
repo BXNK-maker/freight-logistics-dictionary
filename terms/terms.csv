@@ -5735,106 +5735,106 @@ Belly Dump Trailer,腹卸式挂车,transport,自卸与工程,published
 Heavy Haul Truck,重载运输卡车,transport,自卸与工程,published
 Mining Dump Truck,矿用自卸车,transport,自卸与工程,published
 Concrete Mixer Truck,混凝土搅拌运输车,transport,自卸与工程,published
-Water Tanker Truck,洒水车,transport,自卸与工程,pending
-Boom Truck,直臂随车吊,transport,自卸与工程,pending
-Knuckle Boom Crane,折臂随车吊,transport,自卸与工程,pending
-Winch Truck,绞车运输车,transport,自卸与工程,pending
-Pole Trailer,长杆材运输挂车,transport,自卸与工程,pending
-Log Trailer,木材运输挂车,transport,自卸与工程,pending
-Bale Trailer,捆包运输挂车,transport,自卸与工程,pending
-Telescopic Pole Trailer,伸缩式杆材挂车,transport,自卸与工程,pending
-Fleet Management,车队管理,transport,车队管理,pending
-Fleet Utilization,车队利用率,transport,车队管理,pending
-Vehicle Tracking System,车辆跟踪系统,transport,车队管理,pending
-Driver Behavior Monitoring,驾驶员行为监控,transport,车队管理,pending
-Harsh Braking Alert,急刹车告警,transport,车队管理,pending
-Speed Governor,限速器,transport,车队管理,pending
-Digital Tachograph,数字式行车记录仪,transport,车队管理,pending
-Driver Hours Compliance,驾驶时长合规,transport,车队管理,pending
-Hours of Service,服务时段规定,transport,车队管理,pending
-Rest Stop Planning,休息停驶计划,transport,车队管理,pending
-Fuel Card Management,加油卡管理,transport,车队管理,pending
-Fuel Consumption Monitoring,油耗监控,transport,车队管理,pending
-Idle Time Reduction,怠速时间控制,transport,车队管理,pending
-Preventive Maintenance Schedule,预防性维护计划,transport,车队管理,pending
-Vehicle Inspection Checklist,车辆检查清单,transport,车队管理,pending
-Daily Walkaround Check,每日环车检查,transport,车队管理,pending
-Tire Pressure Monitoring,胎压监测,transport,车队管理,pending
-Tire Rotation,轮胎换位,transport,车队管理,pending
-Vehicle Downtime,车辆停机时间,transport,车队管理,pending
-Trailer Pool,挂车池,transport,车队管理,pending
-Trailer Yard Management,挂车场管理,transport,车队管理,pending
-Drop Trailer Program,甩挂运输计划,transport,车队管理,pending
-Drop and Hook,甩挂作业,transport,车队管理,pending
-Trailer Interchange,挂车互换使用,transport,车队管理,pending
-Trailer Interchange Agreement,挂车互换协议,transport,车队管理,pending
-Deadhead Mileage,放空里程,transport,车队管理,pending
-Backhaul Matching,回程配载匹配,transport,车队管理,pending
-Freight Consolidation Center,货运集散中心,transport,整车零担,pending
-Less Than Truckload Terminal,零担货运站,transport,整车零担,pending
-LTL Hub-and-Spoke,零担轴辐式网络,transport,整车零担,pending
-LTL Linehaul,零担干线运输,transport,整车零担,pending
-LTL Pallet Network,零担托盘网络,transport,整车零担,pending
-Volume LTL,大宗零担,transport,整车零担,pending
-Partial Truckload,部分整车,transport,整车零担,pending
-Team Driving,双驾驶员轮班,transport,整车零担,pending
-Expedited Trucking,加急公路运输,transport,整车零担,pending
-Hotshot Trucking,紧急小批快运,transport,整车零担,pending
-Dedicated Contract Carriage,专用合同运输,transport,整车零担,pending
-Private Fleet,自有车队,transport,整车零担,pending
-For-Hire Carrier,营业性承运人,transport,整车零担,pending
-Contract Carrier,合同承运人,transport,整车零担,pending
-Common Carrier,公共承运人,transport,整车零担,pending
-Irregular Route Carrier,不固定线路承运人,transport,整车零担,pending
+Water Tanker Truck,洒水车,transport,自卸与工程,published
+Boom Truck,直臂随车吊,transport,自卸与工程,published
+Knuckle Boom Crane,折臂随车吊,transport,自卸与工程,published
+Winch Truck,绞车运输车,transport,自卸与工程,published
+Pole Trailer,长杆材运输挂车,transport,自卸与工程,published
+Log Trailer,木材运输挂车,transport,自卸与工程,published
+Bale Trailer,捆包运输挂车,transport,自卸与工程,published
+Telescopic Pole Trailer,伸缩式杆材挂车,transport,自卸与工程,published
+Fleet Management,车队管理,transport,车队管理,published
+Fleet Utilization,车队利用率,transport,车队管理,published
+Vehicle Tracking System,车辆跟踪系统,transport,车队管理,published
+Driver Behavior Monitoring,驾驶员行为监控,transport,车队管理,published
+Harsh Braking Alert,急刹车告警,transport,车队管理,published
+Speed Governor,限速器,transport,车队管理,published
+Digital Tachograph,数字式行车记录仪,transport,车队管理,published
+Driver Hours Compliance,驾驶时长合规,transport,车队管理,published
+Hours of Service,服务时段规定,transport,车队管理,published
+Rest Stop Planning,休息停驶计划,transport,车队管理,published
+Fuel Card Management,加油卡管理,transport,车队管理,published
+Fuel Consumption Monitoring,油耗监控,transport,车队管理,published
+Idle Time Reduction,怠速时间控制,transport,车队管理,published
+Preventive Maintenance Schedule,预防性维护计划,transport,车队管理,published
+Vehicle Inspection Checklist,车辆检查清单,transport,车队管理,published
+Daily Walkaround Check,每日环车检查,transport,车队管理,published
+Tire Pressure Monitoring,胎压监测,transport,车队管理,published
+Tire Rotation,轮胎换位,transport,车队管理,published
+Vehicle Downtime,车辆停机时间,transport,车队管理,published
+Trailer Pool,挂车池,transport,车队管理,published
+Trailer Yard Management,挂车场管理,transport,车队管理,published
+Drop Trailer Program,甩挂运输计划,transport,车队管理,published
+Drop and Hook,甩挂作业,transport,车队管理,published
+Trailer Interchange,挂车互换使用,transport,车队管理,published
+Trailer Interchange Agreement,挂车互换协议,transport,车队管理,published
+Deadhead Mileage,放空里程,transport,车队管理,published
+Backhaul Matching,回程配载匹配,transport,车队管理,published
+Freight Consolidation Center,货运集散中心,transport,整车零担,published
+Less Than Truckload Terminal,零担货运站,transport,整车零担,published
+LTL Hub-and-Spoke,零担轴辐式网络,transport,整车零担,published
+LTL Linehaul,零担干线运输,transport,整车零担,published
+LTL Pallet Network,零担托盘网络,transport,整车零担,published
+Volume LTL,大宗零担,transport,整车零担,published
+Partial Truckload,部分整车,transport,整车零担,published
+Team Driving,双驾驶员轮班,transport,整车零担,published
+Expedited Trucking,加急公路运输,transport,整车零担,published
+Hotshot Trucking,紧急小批快运,transport,整车零担,published
+Dedicated Contract Carriage,专用合同运输,transport,整车零担,published
+Private Fleet,自有车队,transport,整车零担,published
+For-Hire Carrier,营业性承运人,transport,整车零担,published
+Contract Carrier,合同承运人,transport,整车零担,published
+Common Carrier,公共承运人,transport,整车零担,published
+Irregular Route Carrier,不固定线路承运人,transport,整车零担,published
 Regional Carrier,区域承运人,transport,整车零担,pending
-National Carrier,全国性承运人,transport,整车零担,pending
-Asset-Based Carrier,自有资产承运商,transport,整车零担,pending
-Non-Asset-Based Provider,非资产型服务商,transport,整车零担,pending
-Freight Broker,货运经纪,transport,整车零担,pending
-Freight Auction,货运竞拍,transport,整车零担,pending
-Spot Market Rate,即期市场运价,transport,整车零担,pending
-Lane Commitment,线路运量承诺,transport,整车零担,pending
-Mileage-Based Rate,按里程计费,transport,整车零担,pending
-Weight-Based Rate,按重量计费,transport,整车零担,pending
-Per Pallet Rate,按托盘计费,transport,整车零担,pending
-Detention Charge,滞留费,transport,整车零担,pending
-Layover Charge,过夜费,transport,整车零担,pending
-Stop-off Charge,多点停靠费,transport,整车零担,pending
-Driver Assist Load,需司机协助装卸货物,transport,整车零担,pending
-Live Unload,现场卸货,transport,整车零担,pending
-Drop Yard,甩挂堆场,transport,整车零担,pending
-Appointment Scheduling,预约排班,transport,整车零担,pending
-Load Tender,货运招标,transport,整车零担,pending
-Tender Acceptance,接受委托,transport,整车零担,pending
-Tender Rejection,拒绝委托,transport,整车零担,pending
-Capacity Commitment,运力承诺,transport,整车零担,pending
-Linehaul Network Design,干线网络设计,transport,专线联盟,pending
-Cross-Dock Terminal,越库中转站,transport,专线联盟,pending
-Relay Terminal,接力中转站,transport,专线联盟,pending
-Freight Forwarding Network,货代网络,transport,专线联盟,pending
-Exclusive Line,专属专线,transport,专线联盟,pending
-Timed Delivery Service,定时达服务,transport,专线联盟,pending
-Economy Freight Service,经济型货运服务,transport,专线联盟,pending
-Premium Freight Service,高端加急货运,transport,专线联盟,pending
-White Glove Delivery,高端送货上门,transport,专线联盟,pending
-Room of Choice Delivery,送位上门,transport,专线联盟,pending
-Two-Person Delivery,双人配送,transport,专线联盟,pending
-Reverse Logistics Pickup,退货取件,transport,专线联盟,pending
-Floor Loaded Freight,散装落地货,transport,专线联盟,pending
-Mixed Pallet,混装托盘,transport,专线联盟,pending
-Double Stacked Pallets,双层堆叠托盘,transport,专线联盟,pending
-Freight Class,货物等级,transport,专线联盟,pending
-Density-Based Pricing,按密度计价,transport,专线联盟,pending
-Dimensional Weight for LTL,零担体积重量,transport,专线联盟,pending
-Carrier Liability Limits,承运人责任限额,transport,专线联盟,pending
-Declared Value Coverage,申报价值保障,transport,专线联盟,pending
-Driver Recruitment,司机招聘,transport,司机管理,pending
-Driver Retention,司机留存,transport,司机管理,pending
-Driver Shortage,司机短缺,transport,司机管理,pending
-Small Fleet Operator,小型车队经营者,transport,司机管理,pending
-Driver Pay Per Mile,按里程司机薪酬,transport,司机管理,pending
-Driver Pay Percentage,按流水比例司机薪酬,transport,司机管理,pending
-Detention Pay,滞留补贴,transport,司机管理,pending
+National Carrier,全国性承运人,transport,整车零担,published
+Asset-Based Carrier,自有资产承运商,transport,整车零担,published
+Non-Asset-Based Provider,非资产型服务商,transport,整车零担,published
+Freight Broker,货运经纪,transport,整车零担,published
+Freight Auction,货运竞拍,transport,整车零担,published
+Spot Market Rate,即期市场运价,transport,整车零担,published
+Lane Commitment,线路运量承诺,transport,整车零担,published
+Mileage-Based Rate,按里程计费,transport,整车零担,published
+Weight-Based Rate,按重量计费,transport,整车零担,published
+Per Pallet Rate,按托盘计费,transport,整车零担,published
+Detention Charge,滞留费,transport,整车零担,published
+Layover Charge,过夜费,transport,整车零担,published
+Stop-off Charge,多点停靠费,transport,整车零担,published
+Driver Assist Load,需司机协助装卸货物,transport,整车零担,published
+Live Unload,现场卸货,transport,整车零担,published
+Drop Yard,甩挂堆场,transport,整车零担,published
+Appointment Scheduling,预约排班,transport,整车零担,published
+Load Tender,货运招标,transport,整车零担,published
+Tender Acceptance,接受委托,transport,整车零担,published
+Tender Rejection,拒绝委托,transport,整车零担,published
+Capacity Commitment,运力承诺,transport,整车零担,published
+Linehaul Network Design,干线网络设计,transport,专线联盟,published
+Cross-Dock Terminal,越库中转站,transport,专线联盟,published
+Relay Terminal,接力中转站,transport,专线联盟,published
+Freight Forwarding Network,货代网络,transport,专线联盟,published
+Exclusive Line,专属专线,transport,专线联盟,published
+Timed Delivery Service,定时达服务,transport,专线联盟,published
+Economy Freight Service,经济型货运服务,transport,专线联盟,published
+Premium Freight Service,高端加急货运,transport,专线联盟,published
+White Glove Delivery,高端送货上门,transport,专线联盟,published
+Room of Choice Delivery,送位上门,transport,专线联盟,published
+Two-Person Delivery,双人配送,transport,专线联盟,published
+Reverse Logistics Pickup,退货取件,transport,专线联盟,published
+Floor Loaded Freight,散装落地货,transport,专线联盟,published
+Mixed Pallet,混装托盘,transport,专线联盟,published
+Double Stacked Pallets,双层堆叠托盘,transport,专线联盟,published
+Freight Class,货物等级,transport,专线联盟,published
+Density-Based Pricing,按密度计价,transport,专线联盟,published
+Dimensional Weight for LTL,零担体积重量,transport,专线联盟,published
+Carrier Liability Limits,承运人责任限额,transport,专线联盟,published
+Declared Value Coverage,申报价值保障,transport,专线联盟,published
+Driver Recruitment,司机招聘,transport,司机管理,published
+Driver Retention,司机留存,transport,司机管理,published
+Driver Shortage,司机短缺,transport,司机管理,published
+Small Fleet Operator,小型车队经营者,transport,司机管理,published
+Driver Pay Per Mile,按里程司机薪酬,transport,司机管理,published
+Driver Pay Percentage,按流水比例司机薪酬,transport,司机管理,published
+Detention Pay,滞留补贴,transport,司机管理,published
 Layover Pay,过夜补贴,transport,司机管理,pending
 Stop-off Pay,多点停靠补贴,transport,司机管理,pending
 Tarp Pay,苫盖补贴,transport,司机管理,pending
