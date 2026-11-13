@@ -1,7 +1,7 @@
 ---
 title: "Channel Deepening"
 linkTitle: "航道增深"
-date: 2026-11-12
+date: 2026-11-13
 type: docs
 subcategory: "疏浚工程"
 ---
@@ -10,36 +10,23 @@ subcategory: "疏浚工程"
 
 ## 定义
 
-航道增深（Channel Deepening）是指通过疏浚、岩石爆破或清除沉积物等工程手段，加深港口进港航道、内河或运河水深的技术作业。该工程旨在提高航道的通行能力，确保吃水更深的大型船舶能够安全进出港口。
+航道增深（Channel Deepening）是指通过疏浚、岩石爆破或清除海底沉积物等工程手段，加深港口进港航道、内河或运河水深的技术作业。这项工程旨在提高航道通行能力，允许吃水更深的大型船舶安全进出港口。
 
 ## 详细说明
 
-- 使用场景：主要应用于港口升级改造、应对船舶大型化趋势（如超大型集装箱船 ULCV 和大型散货船），以及疏浚因泥沙淤积变浅的现有航道。
-- 关键规则或数字：航道水深直接决定了船舶的吃水极限（Draft），作业标准需严格遵循国际航协（PIANC）及当地海事局的通航安全规范，通常需保留10%至15%的富余水深（UKC）。
-- 实务注意事项：航道增深工程往往投资巨大且工期较长，施工期间可能会临时封闭或限行，货代与船公司需密切关注港口公告（Notice to Mariners），及时调整船舶排班与载货计划以避免滞期。
+- 使用场景：主要应用于吃水增加的新一代超大型集装箱船、散货船和油轮挂靠港口，或在遭遇泥沙淤积严重、自然水深不足以支撑远洋航线发展的区域进行。
+- 关键规则或数字：航道设计深度通常需要综合考虑船舶最大吃水、龙骨下富余水深（UKC，Under-Keel Clearance）、潮汐变化以及安全余量。工程常以当地最低天文潮位（Chart Datum）为基准进行测量和规划。
+- 实务注意事项：货代与外贸企业需密切关注航道增深工程的施工进度与航行通告（Notice to Mariners），因为施工作业期间可能伴随临时限速、夜间禁航或单向通航，直接影响船期安排。
 
 ## 中英对照
 
-| 英文表达 | 中文翻译 |
+| 中文表达 | 英文表达 |
 | :--- | :--- |
-| Channel Deepening | 航道增深 |
-| Dredging | 疏浚 / 挖泥 |
-| Under-Keel Clearance (UKC) | 富余水深 / 龙骨下净空 |
-| Maximum Permissible Draft | 最大允许吃水 |
-| Port Infrastructure | 港口基础设施 |
-
-## 相关术语
-
-- `Dredging Operation（疏浚作业）`
-- `Under-Keel Clearance（龙骨下净空）`
-- `Draft Restriction（吃水限制）`
-- `Port Congestion（港口拥堵）`
-- `Tidal Window（潮汐窗口）`
-
-## 常见误区
-
-- 误认为航道增深只涉及挖泥，实际上还可能包括水下爆破硬质岩石以及复杂的环保泥沙处理。
-- 认为航道一旦增深就能永久保持，忽视了由于自然淤积需要进行长期的定期维护疏浚（Maintenance Dredging）。
+| 航道增深 | Channel Deepening / Channel Deepening Project |
+| 航道疏浚 | Channel Dredging |
+| 龙骨下富余水深 | Under-Keel Clearance (UKC) |
+| 最大允许吃水 | Maximum Permissible Draft |
+| 潮汐窗口
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Siltation"
 linkTitle: "泥沙淤积"
-date: 2026-11-12
+date: 2026-11-13
 type: docs
 subcategory: "疏浚工程"
 ---
@@ -9,31 +9,37 @@ subcategory: "疏浚工程"
 > 📖 分类：**运输** / 疏浚工程　｜　Siltation = 泥沙淤积
 
 ## 定义
-泥沙淤积是指河流、潮流等水体中的悬浮泥沙在港口、航道、锚地或泊位底部沉降堆积的自然现象。该现象会导致水域实际水深减小，直接影响船舶的正常通行和靠泊安全。
+
+Siltation（泥沙淤积）是指河流、潮汐或洋流携带的泥沙在港口、航道、船闸或锚地等水域沉降堆积的自然现象。对于国际货运与物流而言，它会导致水域变浅，直接威胁船舶进出港安全及航行效率。
 
 ## 详细说明
-- 使用场景：主要出现在河口港、近海港口、枯水期或暴雨洪水过后的航道维护、泊位清淤及船舶吃水管理中。
-- 关键规则或数字：港务当局通常会设定“警戒水深”或“最大允许吃水（Max Allowable Draft）”，当淤积导致水深低于安全标准时，船长必须进行载货限制。
-- 实务注意事项：货代和外贸企业在安排大宗散货或重件货运输时，务必关注目的港的最新水深公告（Bathymetric Survey），提前向船公司或港口确认是否有因泥沙淤积导致的减载（Light-loading）要求，以防搁浅或产生额外的高额清淤、滞期费用。
+
+- 使用场景：主要出现在内河航运、河口港、潮汐港以及疏浚工程规划与航道维护阶段。
+- 关键规则与影响：当水深因泥沙淤积低于船舶的吃水安全线时，港口当局会实施限载（Draft Restriction）或暂时关闭航道。船舶若超吃水进出港，极易发生搁浅（Grounding）事故。
+- 实务注意事项：货代在安排散货船或重载集装箱船靠泊吃水受限的港口时，务必提前向船东或港口查询最新的水深报告（Hydrographic Survey Report），核算潮汐和安全富余水深（Under Keel Clearance, UKC），避免产生巨额的滞期费（Demurrage）或绕航费用。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 泥沙淤积 | Siltation / Sedimentation |
-| 航道水深 | Channel Depth / Water Depth |
-| 疏浚 / 清淤 | Dredging |
-| 允许吃水 | Allowable Draft |
+| 泥沙淤积 | Siltation |
+| 航道疏浚 | Fairway Dredging / Channel Dredging |
+| 吃水限制 | Draft Restriction |
+| 富余水深 | Under Keel Clearance (UKC) |
+| 水深测量报告 | Hydrographic Survey Report |
 
 ## 相关术语
+
 - Draft（吃水）
+- Grounding（搁浅）
 - Dredging（疏浚）
-- Bathymetric Survey（水深测量）
-- Under Keel Clearance, UKC（富余水深/龙骨下净空）
+- Under Keel Clearance（富余水深）
+- Tidal Window（潮汐窗口）
 
 ## 常见误区
-- 认为港口水深是恒定不变的，忽视了季节性暴雨或潮汐变化带来的快速泥沙淤积风险。
-- 混淆了“淤积深度”与“航道实际水深”，导致在计算船舶装载量时出现严重偏差。
+
+- 误区一：认为港口水深是永久不变的。实际上，受季节性降雨、洪水或风暴潮影响，Siltation 的速度极快，枯水期和汛期的吃水限制差异巨大。
+- 误区二：只要看船舶设计吃水就能进港。忽略了 Siltation 导致的实际航道水深变化，未将动态吃水和安全富余水深计算在内。
 
 ---
 

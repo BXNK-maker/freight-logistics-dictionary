@@ -1,7 +1,7 @@
 ---
 title: "DSC Call"
 linkTitle: "数字选择性呼叫"
-date: 2026-11-12
+date: 2026-11-13
 type: docs
 subcategory: "海事通信"
 ---
@@ -9,7 +9,36 @@ subcategory: "海事通信"
 > 📖 分类：**运输** / 海事通信　｜　DSC Call = 数字选择性呼叫
 
 ## 定义
-DSC Call（Digital Selective Calling，数字选择性呼叫）是全球海上遇险和安全系统（GMDSS）的核心组成部分，用于船舶与船舶、船舶与岸台之间通过甚高频（VHF）、中频（MF）和高频（HF）无线电自动发送和
+
+DSC Call 的英文全称为 Digital Selective Calling Call，中文意为数字选择性呼叫。它是国际海事组织（IMO）全球海上遇险和安全系统（GMDSS）的核心组成部分，主要用于船舶与船舶、船舶与岸台之间的高效自动呼叫。
+
+## 详细说明
+
+- 使用场景：主要用于船舶在发生遇险、紧急、安全情况时，或者进行日常商业与港口通信前，通过甚高频（VHF）、中频（MF）或高频（HF）无线电快速建立联系。
+- 关键规则或数字：系统通过特定的频率（如 VHF 70频道，即 156.525 MHz）自动发送数字编码信号，该信号包含船舶身份识别码（MMSI）、呼叫目的及工作频道等关键信息，能实现全天候值守和即时告警。
+- 实务注意事项：船长和大副等值班人员必须熟练掌握 DSC 设备的操作，确保 MMSI 码设置正确，严禁非紧急情况下误发遇险呼叫（Distress Alert），以免造成海上搜救资源的极大浪费。
+
+## 中英对照
+
+| 中文表达 | 英文表达 |
+| :--- | :--- |
+| 数字选择性呼叫 | Digital Selective Calling (DSC) |
+| 遇险呼叫 | Distress Call |
+| 水上移动通信识别码 | Maritime Mobile Service Identity (MMSI) |
+| 全球海上遇险和安全系统 | Global Maritime Distress and Safety System (GMDSS) |
+
+## 相关术语
+
+- GMDSS（全球海上遇险和安全系统）
+- MMSI（水上移动通信识别码）
+- VHF Channel 70（甚高频70频道）
+- EPIRB（应急无线电示位标）
+- SAR（搜救）
+
+## 常见误区
+
+- 误区一：认为 DSC Call 是语音通话。实际上它是一种数字信号传输技术，呼叫成功后，双方便会自动切换到指定的语音频道（如 VHF 16频道）进行通话。
+- 误区二：认为只要按了遇险按钮就是万无一失。如果误发了遇险 DSC Call，船方必须立即通过语音广播进行取消（Cancel），否则会触发岸基搜救机构的紧急响应。
 
 ---
 

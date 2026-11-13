@@ -5441,103 +5441,103 @@ Bucket Dredger,链斗式挖泥船,transport,疏浚工程,published
 Grab Dredger,抓斗式挖泥船,transport,疏浚工程,pending
 Backhoe Dredger,反铲挖泥船,transport,疏浚工程,pending
 Dipper Dredger,铲斗挖泥船,transport,疏浚工程,pending
-Hopper Barge Dredging,泥驳疏浚,transport,疏浚工程,pending
-Suction Pipe,吸泥管,transport,疏浚工程,pending
-Trailing Head,耙头,transport,疏浚工程,pending
-Cutter Head,绞刀头,transport,疏浚工程,pending
-Dredging Pump,泥泵,transport,疏浚工程,pending
-Overflow System,溢流系统,transport,疏浚工程,pending
-Hopper Capacity,泥舱容量,transport,疏浚工程,pending
-Loading Hopper,泥舱装载,transport,疏浚工程,pending
-Rainbowing,喷抛排泥,transport,疏浚工程,pending
-Pump Ashore,吹岸,transport,疏浚工程,pending
-Reclamation Fill,吹填造地,transport,疏浚工程,pending
-Land Reclamation,围海造地,transport,疏浚工程,pending
-Discharge Pipeline,排泥管线,transport,疏浚工程,pending
-Floating Pipeline,浮管,transport,疏浚工程,pending
-Booster Pump,接力泵,transport,疏浚工程,pending
-Silt Curtain,防污帘,transport,疏浚工程,pending
-Turbidity Control,浊度控制,transport,疏浚工程,pending
-Spud Pole,定位桩,transport,疏浚工程,pending
-Swing Bridle,摆动缆,transport,疏浚工程,pending
-Dredging Anchors,挖泥船锚,transport,疏浚工程,pending
-Dredging Area,疏浚区,transport,疏浚工程,pending
-Dredging Depth,疏浚深度,transport,疏浚工程,pending
-Design Depth,设计水深,transport,疏浚工程,pending
-Overdepth Dredging,超深疏浚,transport,疏浚工程,pending
-Pre-Dredge Survey,疏浚前测深,transport,疏浚工程,pending
-Post-Dredge Survey,疏浚后测深,transport,疏浚工程,pending
-Bathymetric Survey,水深测量,transport,疏浚工程,pending
-Echo Sounder Survey,回声测深,transport,疏浚工程,pending
-Multibeam Survey,多波束测量,transport,疏浚工程,pending
-Side Scan Sonar,侧扫声呐,transport,疏浚工程,pending
-Sounding,测深,transport,疏浚工程,pending
-Navigation Channel Dredging,航道疏浚,transport,疏浚工程,pending
-Channel Deepening,航道增深,transport,疏浚工程,pending
-Channel Widening,航道拓宽,transport,疏浚工程,pending
-Maintenance Dredging,维护性疏浚,transport,疏浚工程,pending
-Capital Dredging,基建性疏浚,transport,疏浚工程,pending
-Backfilling,回淤,transport,疏浚工程,pending
-Siltation,泥沙淤积,transport,疏浚工程,pending
-Sand Bypassing,拦沙输沙,transport,疏浚工程,pending
-Disposal Ground,抛泥区,transport,疏浚工程,pending
-Dredged Material Reuse,疏浚土利用,transport,疏浚工程,pending
-Contaminated Sediment,污染底泥,transport,疏浚工程,pending
-Sediment Sampling,底泥取样,transport,疏浚工程,pending
-Environmental Dredging,环保疏浚,transport,疏浚工程,pending
-Dredging Permit,疏浚许可,transport,疏浚工程,pending
-Maritime Communication,海事通信,transport,海事通信,pending
-VHF Marine Band,甚高频海事频段,transport,海事通信,pending
-VHF Channel 16,甚高频16频道,transport,海事通信,pending
-Working Channel,工作频道,transport,海事通信,pending
-DSC Call,数字选择性呼叫,transport,海事通信,pending
-Digital Selective Calling,数字选择呼叫系统,transport,海事通信,pending
-MF Band,中频频段,transport,海事通信,pending
-HF Radio,高频无线电,transport,海事通信,pending
-Navtex Receiver,航行电传接收机,transport,海事通信,pending
-Navtex Message,航行电传真,transport,海事通信,pending
-Inmarsat Terminal,海事卫星终端,transport,海事通信,pending
-Fleet Broadband,海事卫星宽带,transport,海事通信,pending
-VSAT Terminal,船载卫通终端,transport,海事通信,pending
-MF-HF Modem,中高频调制解调器,transport,海事通信,pending
-Marine Radio Operator,船舶无线电员,transport,海事通信,pending
-Radio Watchkeeping,无线电值守,transport,海事通信,pending
-Radio Watch,无线电值班,transport,海事通信,pending
-Calling Frequency,呼叫频率,transport,海事通信,pending
-Distress Frequency,遇险频率,transport,海事通信,pending
-Distress Traffic,遇险通信,transport,海事通信,pending
-Distress Relay,遇险转发,transport,海事通信,pending
-Pan-Pan Message,紧急呼叫信息,transport,海事通信,pending
-Securite Message,安全呼叫信息,transport,海事通信,pending
-Urgency Signal,紧急信号,transport,海事通信,pending
-Safety Signal,安全信号,transport,海事通信,pending
-Silence Period,静默时间,transport,海事通信,pending
-Radio Medical Advice,无线电医疗咨询,transport,海事通信,pending
-Global Maritime Distress and Safety System,全球海上遇险与安全系统,transport,海事通信,pending
-Long Range Identification and Tracking,远程识别与跟踪,transport,海事通信,pending
-Marine Radar,船用雷达,transport,海事通信,pending
-Electronic Chart Display and Information System,电子海图显示与信息系统,transport,海事通信,pending
-Port Operations Service,港口业务通信,transport,海事通信,pending
-Port Radio Station,港口无线电台,transport,海事通信,pending
-Harbor Radiotelephone,港口无线电话,transport,海事通信,pending
-Traffic Channel,通航频道,transport,海事通信,pending
-VTS Broadcast,交管广播,transport,海事通信,pending
-VTS Operator,交管操作员,transport,海事通信,pending
-VTS Center,船舶交通管理中心,transport,海事通信,pending
-Vessel Traffic Service,船舶交通服务,transport,海事通信,pending
-Vessel Traffic Management,船舶交通管理,transport,海事通信,pending
-Traffic Separation Scheme,分道通航制,transport,海事通信,pending
-Traffic Lane,通航分道,transport,海事通信,pending
-Precautionary Area,警戒区,transport,海事通信,pending
-Traffic Organization,交通组织,transport,海事通信,pending
-Sailing Plan Report,航次计划报告,transport,海事通信,pending
-Position Report,船位报告,transport,海事通信,pending
-Arrival Report,抵港报告,transport,海事通信,pending
-Departure Report,离港报告,transport,海事通信,pending
-Notice to Mariners,航海通告,transport,海事通信,pending
-Radio Navigational Warning,无线电航行警告,transport,海事通信,pending
-Coastal Warning,海岸警报,transport,海事通信,pending
-Local Warning,地方警告,transport,海事通信,pending
+Hopper Barge Dredging,泥驳疏浚,transport,疏浚工程,published
+Suction Pipe,吸泥管,transport,疏浚工程,published
+Trailing Head,耙头,transport,疏浚工程,published
+Cutter Head,绞刀头,transport,疏浚工程,published
+Dredging Pump,泥泵,transport,疏浚工程,published
+Overflow System,溢流系统,transport,疏浚工程,published
+Hopper Capacity,泥舱容量,transport,疏浚工程,published
+Loading Hopper,泥舱装载,transport,疏浚工程,published
+Rainbowing,喷抛排泥,transport,疏浚工程,published
+Pump Ashore,吹岸,transport,疏浚工程,published
+Reclamation Fill,吹填造地,transport,疏浚工程,published
+Land Reclamation,围海造地,transport,疏浚工程,published
+Discharge Pipeline,排泥管线,transport,疏浚工程,published
+Floating Pipeline,浮管,transport,疏浚工程,published
+Booster Pump,接力泵,transport,疏浚工程,published
+Silt Curtain,防污帘,transport,疏浚工程,published
+Turbidity Control,浊度控制,transport,疏浚工程,published
+Spud Pole,定位桩,transport,疏浚工程,published
+Swing Bridle,摆动缆,transport,疏浚工程,published
+Dredging Anchors,挖泥船锚,transport,疏浚工程,published
+Dredging Area,疏浚区,transport,疏浚工程,published
+Dredging Depth,疏浚深度,transport,疏浚工程,published
+Design Depth,设计水深,transport,疏浚工程,published
+Overdepth Dredging,超深疏浚,transport,疏浚工程,published
+Pre-Dredge Survey,疏浚前测深,transport,疏浚工程,published
+Post-Dredge Survey,疏浚后测深,transport,疏浚工程,published
+Bathymetric Survey,水深测量,transport,疏浚工程,published
+Echo Sounder Survey,回声测深,transport,疏浚工程,published
+Multibeam Survey,多波束测量,transport,疏浚工程,published
+Side Scan Sonar,侧扫声呐,transport,疏浚工程,published
+Sounding,测深,transport,疏浚工程,published
+Navigation Channel Dredging,航道疏浚,transport,疏浚工程,published
+Channel Deepening,航道增深,transport,疏浚工程,published
+Channel Widening,航道拓宽,transport,疏浚工程,published
+Maintenance Dredging,维护性疏浚,transport,疏浚工程,published
+Capital Dredging,基建性疏浚,transport,疏浚工程,published
+Backfilling,回淤,transport,疏浚工程,published
+Siltation,泥沙淤积,transport,疏浚工程,published
+Sand Bypassing,拦沙输沙,transport,疏浚工程,published
+Disposal Ground,抛泥区,transport,疏浚工程,published
+Dredged Material Reuse,疏浚土利用,transport,疏浚工程,published
+Contaminated Sediment,污染底泥,transport,疏浚工程,published
+Sediment Sampling,底泥取样,transport,疏浚工程,published
+Environmental Dredging,环保疏浚,transport,疏浚工程,published
+Dredging Permit,疏浚许可,transport,疏浚工程,published
+Maritime Communication,海事通信,transport,海事通信,published
+VHF Marine Band,甚高频海事频段,transport,海事通信,published
+VHF Channel 16,甚高频16频道,transport,海事通信,published
+Working Channel,工作频道,transport,海事通信,published
+DSC Call,数字选择性呼叫,transport,海事通信,published
+Digital Selective Calling,数字选择呼叫系统,transport,海事通信,published
+MF Band,中频频段,transport,海事通信,published
+HF Radio,高频无线电,transport,海事通信,published
+Navtex Receiver,航行电传接收机,transport,海事通信,published
+Navtex Message,航行电传真,transport,海事通信,published
+Inmarsat Terminal,海事卫星终端,transport,海事通信,published
+Fleet Broadband,海事卫星宽带,transport,海事通信,published
+VSAT Terminal,船载卫通终端,transport,海事通信,published
+MF-HF Modem,中高频调制解调器,transport,海事通信,published
+Marine Radio Operator,船舶无线电员,transport,海事通信,published
+Radio Watchkeeping,无线电值守,transport,海事通信,published
+Radio Watch,无线电值班,transport,海事通信,published
+Calling Frequency,呼叫频率,transport,海事通信,published
+Distress Frequency,遇险频率,transport,海事通信,published
+Distress Traffic,遇险通信,transport,海事通信,published
+Distress Relay,遇险转发,transport,海事通信,published
+Pan-Pan Message,紧急呼叫信息,transport,海事通信,published
+Securite Message,安全呼叫信息,transport,海事通信,published
+Urgency Signal,紧急信号,transport,海事通信,published
+Safety Signal,安全信号,transport,海事通信,published
+Silence Period,静默时间,transport,海事通信,published
+Radio Medical Advice,无线电医疗咨询,transport,海事通信,published
+Global Maritime Distress and Safety System,全球海上遇险与安全系统,transport,海事通信,published
+Long Range Identification and Tracking,远程识别与跟踪,transport,海事通信,published
+Marine Radar,船用雷达,transport,海事通信,published
+Electronic Chart Display and Information System,电子海图显示与信息系统,transport,海事通信,published
+Port Operations Service,港口业务通信,transport,海事通信,published
+Port Radio Station,港口无线电台,transport,海事通信,published
+Harbor Radiotelephone,港口无线电话,transport,海事通信,published
+Traffic Channel,通航频道,transport,海事通信,published
+VTS Broadcast,交管广播,transport,海事通信,published
+VTS Operator,交管操作员,transport,海事通信,published
+VTS Center,船舶交通管理中心,transport,海事通信,published
+Vessel Traffic Service,船舶交通服务,transport,海事通信,published
+Vessel Traffic Management,船舶交通管理,transport,海事通信,published
+Traffic Separation Scheme,分道通航制,transport,海事通信,published
+Traffic Lane,通航分道,transport,海事通信,published
+Precautionary Area,警戒区,transport,海事通信,published
+Traffic Organization,交通组织,transport,海事通信,published
+Sailing Plan Report,航次计划报告,transport,海事通信,published
+Position Report,船位报告,transport,海事通信,published
+Arrival Report,抵港报告,transport,海事通信,published
+Departure Report,离港报告,transport,海事通信,published
+Notice to Mariners,航海通告,transport,海事通信,published
+Radio Navigational Warning,无线电航行警告,transport,海事通信,published
+Coastal Warning,海岸警报,transport,海事通信,published
+Local Warning,地方警告,transport,海事通信,published
 Meteorological Warning,气象警告,transport,海事通信,pending
 Hydrographic Note,水道测量报告,transport,海事通信,pending
 Port Agency,港口代理,transport,港口服务,pending

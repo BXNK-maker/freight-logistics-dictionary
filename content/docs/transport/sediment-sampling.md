@@ -1,7 +1,7 @@
 ---
 title: "Sediment Sampling"
 linkTitle: "底泥取样"
-date: 2026-11-12
+date: 2026-11-13
 type: docs
 subcategory: "疏浚工程"
 ---
@@ -9,31 +9,32 @@ subcategory: "疏浚工程"
 > 📖 分类：**运输** / 疏浚工程　｜　Sediment Sampling = 底泥取样
 
 ## 定义
-底泥取样（Sediment Sampling）是指在水体（如港口、航道、河流或海洋）底部采集沉积物样本的操作过程。在国际货运与物流领域，该项工作通常与港口工程、疏浚作业、船舶倾倒废弃物审批及环保合规紧密相关。
+Sediment Sampling（底泥取样）是指在水体（如港口、航道、河流或海洋）底部采集沉积物样本的操作过程。在国际物流与航运中，该操作通常用于疏浚工程前的环保评估、船舶压载水管理合规检查或港口建设环境基线调查。
 
 ## 详细说明
-- 使用场景：主要用于港口基建、航道疏浚前的环境评估，或船舶在海上倾倒疏浚物（Dredged Material）前的环保合规审查。
-- 关键规则与数字：取样方案需严格遵守国际公约（如《伦敦倾废公约》）及当地海事与环保部门的法规。实验室分析通常需要检测重金属、多环芳烃（PAHs）、多氯联苯（PCBs）等污染物的浓度，以确定底泥是否属于有害废弃物。
-- 实务注意事项：货代和船东在处理疏浚物运输或抛投项目时，必须提前准备好底泥检测报告（Sediment Test Report）。若底泥被判定为污染土，其转运、卸载和填埋将受到严格限制，产生巨额的特殊处理费和合规延误风险。
+- 使用场景：主要应用于港口航道疏浚工程（Dredging）、新建码头环境影响评价、海事事故污染调查，以及船舶清舱和拆船作业的环境审批。
+- 关键规则或数字：取样深度通常根据项目需求分为表层（如0-10厘米）和柱状深层取样；样本需严格按照国际环保标准（如IMO相关公约或当地海事局法规）进行冷藏、密封和标记，并在规定时效内送交资质实验室检测重金属、多环芳烃等污染物。
+- 实务注意事项：货代和船东在安排此类项目时，必须提前向当地海事局（MSA）和环保部门申办作业许可；同时需注意取样船只的进出港申报、航行安全警戒，并确保取样资质证书在有效期内，以免延误后续的物流或工程节点。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 底泥取样 | Sediment Sampling |
-| 疏浚物 | Dredged Material / Dredged Spoil |
-| 伦敦倾废公约 | London Dumping Convention |
-| 环境影响评估 | Environmental Impact Assessment (EIA) |
+| 疏浚工程 | Dredging Operations |
+| 环境影响评价 | Environmental Impact Assessment (EIA) |
+| 压载水管理 | Ballast Water Management |
+| 港口管理局 | Port Authority |
 
 ## 相关术语
-- Dredging Operations（疏浚作业）
-- Ocean Dumping（海洋倾倒）
-- Environmental Compliance（环保合规）
-- Hazardous Waste（有害废物）
+- Environmental Impact Assessment（环境影响评价）
+- Ballast Water Management Convention（国际压载水管理公约）
+- Port State Control（港口国监督）
+- Dredging Operation（疏浚作业）
 
 ## 常见误区
-- 误以为底泥取样只是简单的水文测量：实际上它属于严格的化学和环境检测，直接关系到货物或工程项目的环保合规审批。
-- 认为疏浚物可以随意倾倒：未经底泥取样和化验合格的沉积物，严禁直接进行海上抛投或岸上倾倒。
+- 认为底泥取样只是简单的水文测量，可以由普通货运代理代为安排，无需专业环保资质。
+- 忽视样本运输的时效性和温控要求，导致样本变质失效而需要重新取样，增加额外物流成本。
 
 ---
 

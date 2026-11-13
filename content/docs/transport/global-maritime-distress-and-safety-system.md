@@ -1,7 +1,7 @@
 ---
 title: "Global Maritime Distress and Safety System"
 linkTitle: "全球海上遇险与安全系统"
-date: 2026-11-12
+date: 2026-11-13
 type: docs
 subcategory: "海事通信"
 ---
@@ -9,12 +9,14 @@ subcategory: "海事通信"
 > 📖 分类：**运输** / 海事通信　｜　Global Maritime Distress and Safety System = 全球海上遇险与安全系统
 
 ## 定义
-Global Maritime Distress and Safety System（简称 GMDSS，中文意为“全球海上遇险与安全系统”）是基于现代电子通信技术建立的国际化海上安全与搜救系统。它由国际海事组织（IMO）推行，旨在确保任何在海上面临危险的船舶都能迅速发出求救信号并得到岸基及周边船只的救援。
+
+全球海上遇险与安全系统（Global Maritime Distress and Safety System，简称 GMDSS）是基于现代电子通讯技术（包括卫星和地面无线电通讯）建立的国际化海上安全通信与救援体系。该系统旨在自动化或半自动化地向搜救机构及附近船舶发出求救信号，从而大幅提高船舶在海上的航行安全与遇险搜救成功率。
 
 ## 详细说明
-- 使用场景：主要应用于国际航行船舶、远洋货轮及海上钻井平台，用于日常气象航行警告播发以及紧急情况下的遇险报警。
-- 关键规则或数字：根据国际海上人命安全公约（SOLAS），所有300总吨及以上的国际航行货船和所有客船必须强制安装 GMDSS 设备。系统通过卫星（如 Inmarsat）和地面无线电（如 VHF、MF/HF）实现全球无缝覆盖，确保全天候24小时监控。
-- 实务注意事项：货代与外贸企业在处理特种货物运输或安排船舶租箱时，需注意船方必须持有有效的 GMDSS 合格证书及设备检验报告，否则港口国监督（PSC）检查时将面临扣船风险。
+
+- 使用场景：主要用于船舶在海上遭遇火灾、碰撞、沉没、严重医疗急救等危及船员和船舶安全的突发紧急情况时，发射遇险报警（Distress Alert），也可用于播发航行安全警告和气象信息。
+- 关键规则或数字：根据国际海约规定，所有 300 总吨及以上的国际航行船舶以及所有客船必须强制配备 GMDSS 设备。系统通过 DSC（数字选择性呼叫）、Inmarsat（国际移动卫星组织）和 NAVTEX（窄带直印电报）等技术，实现了 A1 至 A4 四个不同海区的全球无缝覆盖。
+- 实务注意事项：船员必须持有 GMDSS 操作证书方可上岗操作相关设备；货代和船公司在安排远洋运输时，应确保船舶的 GMDSS 证书在有效期内，且岸基维护协议符合港口国监督（PSC）检查的要求。
 
 ## 中英对照
 
@@ -22,18 +24,20 @@ Global Maritime Distress and Safety System（简称 GMDSS，中文意为“全�
 | :--- | :--- |
 | 全球海上遇险与安全系统 | Global Maritime Distress and Safety System (GMDSS) |
 | 数字选择性呼叫 | Digital Selective Calling (DSC) |
-| 应急无线电示位标 | Emergency Position-Indicating Radio Beacon (EPIRB) |
-| 搜救雷达应答器 | Search and Rescue Transponder (SART) |
+| 搜救雷达应答器 | Search and Rescue Radar Transponder (SART) |
+| 无线电航行警告 | Navigational Telex (NAVTEX) |
 
 ## 相关术语
-- SOLAS（国际海上人命安全公约）
-- EPIRB（应急无线电示位标）
-- Inmarsat（国际海事卫星组织）
-- DSC（数字选择性呼叫）
+
+- `AIS（船舶自动识别系统）`
+- `LRIT（船舶远程识别与跟踪系统）`
+- `EPIRB（应急无线电示位标）`
+- `VDR（航行数据记录仪）`
 
 ## 常见误区
-- 误区一：认为 GMDSS 只是普通的船用对讲机或卫星电话。实际上它是一套集成化的国际通信与搜救标准，包含多种自动化报警设备。
-- 误区二：认为所有船型都必须强制配备 GMDSS。该系统主要针对SOLAS公约适用的国际航行大中型船舶，内河船或小型非公约船通常有不同的地方性法规要求。
+
+- 误区一：认为 GMDSS 只是普通的船用对讲机或卫星电话系统。实际上它是一套集成了多种无线电与卫星技术的综合性国际应急通信标准，对设备的冗余度和岸基配合有极高要求。
+- 误区二：认为只要船上有 GMDSS 设备就不需要进行日常测试。法规要求船员必须按照规定周期对 DSC、EPIRB 和 SART 等设备进行自检和功能测试，以确保遇险时万无一失。
 
 ---
 
