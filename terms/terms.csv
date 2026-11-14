@@ -5837,102 +5837,102 @@ Driver Pay Percentage,按流水比例司机薪酬,transport,司机管理,publish
 Detention Pay,滞留补贴,transport,司机管理,published
 Layover Pay,过夜补贴,transport,司机管理,pending
 Stop-off Pay,多点停靠补贴,transport,司机管理,pending
-Tarp Pay,苫盖补贴,transport,司机管理,pending
-Driver Training Program,驾驶员培训计划,transport,司机管理,pending
-Defensive Driving Course,防御性驾驶课程,transport,司机管理,pending
-Fatigue Management,疲劳管理,transport,司机管理,pending
-Driver Identification,驾驶员身份识别,transport,司机管理,pending
-Subcontracted Driver,分包驾驶员,transport,司机管理,pending
-Owner Driver,自营司机,transport,司机管理,pending
-Driver Visa Compliance,司机签证合规,transport,司机管理,pending
-Driver Medical Examination,驾驶员体检,transport,司机管理,pending
-License Category Compliance,驾照类别合规,transport,司机管理,pending
-Dangerous Goods Driver License,危险品驾驶员资格证,transport,司机管理,pending
-ADR Driver Certificate,ADR 驾驶员证书,transport,司机管理,pending
-Driver App,司机端应用,transport,司机管理,pending
-Dispatch Board,调度看板,transport,司机管理,pending
-Route Assignment,线路指派,transport,司机管理,pending
-Trip Planning,行程规划,transport,司机管理,pending
-Trip Permit,行程许可,transport,司机管理,pending
-Fuel Stop Optimization,加油点优化,transport,司机管理,pending
-Weigh Station Bypass,跳过地磅站点,transport,司机管理,pending
-Weigh Station,公路地磅检查站,transport,司机管理,pending
-Highway Patrol Inspection,公路巡检,transport,司机管理,pending
-Roadside Inspection,路边检查,transport,司机管理,pending
-Out-of-Service Order,停运指令,transport,司机管理,pending
-CSA Score,承运人安全评分,transport,司机管理,pending
-Safety Rating,安全评级,transport,司机管理,pending
-Accident Register,事故登记,transport,司机管理,pending
-Incident Reporting,事故报告,transport,司机管理,pending
-Dash Camera,行车摄像头,transport,司机管理,pending
-Inward Facing Camera,车内朝向摄像头,transport,司机管理,pending
-Collision Avoidance System,碰撞预警系统,transport,司机管理,pending
-Lane Departure Warning,车道偏离预警,transport,司机管理,pending
-Blind Spot Monitoring,盲区监测,transport,司机管理,pending
-Roll Stability Control,侧翻稳定控制,transport,司机管理,pending
-Electronic Stability Control,电子稳定控制,transport,司机管理,pending
-Anti-Lock Braking System,防抱死制动系统,transport,司机管理,pending
-Automatic Emergency Braking,自动紧急制动,transport,司机管理,pending
-Adaptive Cruise Control,自适应巡航,transport,司机管理,pending
-Driver Assistance System,驾驶辅助系统,transport,司机管理,pending
-CMR Consignment Note,CMR 运输单,transport,公路单证,pending
-CMR Insurance,CMR 运输保险,transport,公路单证,pending
-TIR Convention,国际公路运输公约,transport,公路单证,pending
-TIR Holder,国际公路运输证持有人,transport,公路单证,pending
-TIR Transit Procedure,国际公路运输过境程序,transport,公路单证,pending
-Customs Seal for TIR,国际公路运输关封,transport,公路单证,pending
-TIR Termination,国际公路运输终止确认,transport,公路单证,pending
-ATA Carnet for Vehicles,车辆暂准进口册,transport,公路单证,pending
-Carnet de Passages,车辆临时进口通关册,transport,公路单证,pending
-International Driving Permit,国际驾驶证,transport,公路单证,pending
-Vehicle Registration Certificate,车辆登记证书,transport,公路单证,pending
-Road Freight Waybill,公路货运运单,transport,公路单证,pending
-Road Consignment Note,公路托运单,transport,公路单证,pending
-House Road Waybill,公路分运单,transport,公路单证,pending
-Groupage Waybill,拼货运单,transport,公路单证,pending
-Proof of Delivery Document,签收凭证,transport,公路单证,pending
-POD Signature Capture,签收签名采集,transport,公路单证,pending
-POD Photo Capture,签收拍照留存,transport,公路单证,pending
-Signed CMR Copy,CMR 签收联,transport,公路单证,pending
-Dangerous Goods Note,危险品货运单,transport,公路单证,pending
-Waste Transfer Note,废弃物转移单,transport,公路单证,pending
-Livestock Health Certificate for Road,公路牲畜检疫证,transport,公路单证,pending
-Phytosanitary Certificate Road Copy,公路植物检疫副本,transport,公路单证,pending
-Customs Accompanying Document,随附海关单证,transport,公路单证,pending
+Tarp Pay,苫盖补贴,transport,司机管理,published
+Driver Training Program,驾驶员培训计划,transport,司机管理,published
+Defensive Driving Course,防御性驾驶课程,transport,司机管理,published
+Fatigue Management,疲劳管理,transport,司机管理,published
+Driver Identification,驾驶员身份识别,transport,司机管理,published
+Subcontracted Driver,分包驾驶员,transport,司机管理,published
+Owner Driver,自营司机,transport,司机管理,published
+Driver Visa Compliance,司机签证合规,transport,司机管理,published
+Driver Medical Examination,驾驶员体检,transport,司机管理,published
+License Category Compliance,驾照类别合规,transport,司机管理,published
+Dangerous Goods Driver License,危险品驾驶员资格证,transport,司机管理,published
+ADR Driver Certificate,ADR 驾驶员证书,transport,司机管理,published
+Driver App,司机端应用,transport,司机管理,published
+Dispatch Board,调度看板,transport,司机管理,published
+Route Assignment,线路指派,transport,司机管理,published
+Trip Planning,行程规划,transport,司机管理,published
+Trip Permit,行程许可,transport,司机管理,published
+Fuel Stop Optimization,加油点优化,transport,司机管理,published
+Weigh Station Bypass,跳过地磅站点,transport,司机管理,published
+Weigh Station,公路地磅检查站,transport,司机管理,published
+Highway Patrol Inspection,公路巡检,transport,司机管理,published
+Roadside Inspection,路边检查,transport,司机管理,published
+Out-of-Service Order,停运指令,transport,司机管理,published
+CSA Score,承运人安全评分,transport,司机管理,published
+Safety Rating,安全评级,transport,司机管理,published
+Accident Register,事故登记,transport,司机管理,published
+Incident Reporting,事故报告,transport,司机管理,published
+Dash Camera,行车摄像头,transport,司机管理,published
+Inward Facing Camera,车内朝向摄像头,transport,司机管理,published
+Collision Avoidance System,碰撞预警系统,transport,司机管理,published
+Lane Departure Warning,车道偏离预警,transport,司机管理,published
+Blind Spot Monitoring,盲区监测,transport,司机管理,published
+Roll Stability Control,侧翻稳定控制,transport,司机管理,published
+Electronic Stability Control,电子稳定控制,transport,司机管理,published
+Anti-Lock Braking System,防抱死制动系统,transport,司机管理,published
+Automatic Emergency Braking,自动紧急制动,transport,司机管理,published
+Adaptive Cruise Control,自适应巡航,transport,司机管理,published
+Driver Assistance System,驾驶辅助系统,transport,司机管理,published
+CMR Consignment Note,CMR 运输单,transport,公路单证,published
+CMR Insurance,CMR 运输保险,transport,公路单证,published
+TIR Convention,国际公路运输公约,transport,公路单证,published
+TIR Holder,国际公路运输证持有人,transport,公路单证,published
+TIR Transit Procedure,国际公路运输过境程序,transport,公路单证,published
+Customs Seal for TIR,国际公路运输关封,transport,公路单证,published
+TIR Termination,国际公路运输终止确认,transport,公路单证,published
+ATA Carnet for Vehicles,车辆暂准进口册,transport,公路单证,published
+Carnet de Passages,车辆临时进口通关册,transport,公路单证,published
+International Driving Permit,国际驾驶证,transport,公路单证,published
+Vehicle Registration Certificate,车辆登记证书,transport,公路单证,published
+Road Freight Waybill,公路货运运单,transport,公路单证,published
+Road Consignment Note,公路托运单,transport,公路单证,published
+House Road Waybill,公路分运单,transport,公路单证,published
+Groupage Waybill,拼货运单,transport,公路单证,published
+Proof of Delivery Document,签收凭证,transport,公路单证,published
+POD Signature Capture,签收签名采集,transport,公路单证,published
+POD Photo Capture,签收拍照留存,transport,公路单证,published
+Signed CMR Copy,CMR 签收联,transport,公路单证,published
+Dangerous Goods Note,危险品货运单,transport,公路单证,published
+Waste Transfer Note,废弃物转移单,transport,公路单证,published
+Livestock Health Certificate for Road,公路牲畜检疫证,transport,公路单证,published
+Phytosanitary Certificate Road Copy,公路植物检疫副本,transport,公路单证,published
+Customs Accompanying Document,随附海关单证,transport,公路单证,published
 Carrier Risk Note,承运风险批单,transport,公路单证,pending
-Cash on Delivery Note,货到付款单,transport,公路单证,pending
-Fuel Surcharge Index,燃油附加指数,transport,公路费率,pending
-Diesel Price Indexation,柴油价格联动,transport,公路费率,pending
-Fuel Rebate,燃油返点,transport,公路费率,pending
-Toll Reimbursement,通行费报销,transport,公路费率,pending
-Toll System,收费系统,transport,公路费率,pending
-Electronic Toll Collection,电子不停车收费,transport,公路费率,pending
-Toll Violation Notice,通行费违规通知,transport,公路费率,pending
-Congestion Charge,拥堵费,transport,公路费率,pending
-Low Emission Zone Charge,低排放区收费,transport,公路费率,pending
-Ultra Low Emission Zone,超低排放区,transport,公路费率,pending
-Urban Access Charge,城区通行费,transport,公路费率,pending
-Waiting Time Charge,等待费,transport,公路费率,pending
-Free Waiting Time,免费等待时间,transport,公路费率,pending
-Demurrage for Road,公路滞期费,transport,公路费率,pending
-Shunter Fee,场内调动费,transport,公路费率,pending
-Pallet Exchange Fee,托盘交换费,transport,公路费率,pending
-Pallet Deposit,托盘押金,transport,公路费率,pending
-Empty Haul Charge,空驶费,transport,公路费率,pending
-Repositioning Fee,调车费,transport,公路费率,pending
-Cross-Border Road Freight,跨境公路货运,transport,跨境公路,pending
-Cross-Border Trucking Permit,跨境公路运输许可,transport,跨境公路,pending
-Bilateral Road Transport Agreement,双边公路运输协定,transport,跨境公路,pending
-Third Country Haulage,第三国运输权,transport,跨境公路,pending
-Cabotage Rights,境内揽载权,transport,跨境公路,pending
-Community License,共同体运输许可,transport,跨境公路,pending
-EU Market Access License,欧盟市场准入许可,transport,跨境公路,pending
-Bilateral Permit,双边许可证,transport,跨境公路,pending
-Quota Permit,配额许可证,transport,跨境公路,pending
-ECMT Permit,欧共体运输会议许可证,transport,跨境公路,pending
-Multilateral Permit,多边许可证,transport,跨境公路,pending
-Tachograph Card for Foreign Drivers,外籍司机记卡片,transport,跨境公路,pending
-Border Waiting Time,口岸等待时间,transport,跨境公路,pending
+Cash on Delivery Note,货到付款单,transport,公路单证,published
+Fuel Surcharge Index,燃油附加指数,transport,公路费率,published
+Diesel Price Indexation,柴油价格联动,transport,公路费率,published
+Fuel Rebate,燃油返点,transport,公路费率,published
+Toll Reimbursement,通行费报销,transport,公路费率,published
+Toll System,收费系统,transport,公路费率,published
+Electronic Toll Collection,电子不停车收费,transport,公路费率,published
+Toll Violation Notice,通行费违规通知,transport,公路费率,published
+Congestion Charge,拥堵费,transport,公路费率,published
+Low Emission Zone Charge,低排放区收费,transport,公路费率,published
+Ultra Low Emission Zone,超低排放区,transport,公路费率,published
+Urban Access Charge,城区通行费,transport,公路费率,published
+Waiting Time Charge,等待费,transport,公路费率,published
+Free Waiting Time,免费等待时间,transport,公路费率,published
+Demurrage for Road,公路滞期费,transport,公路费率,published
+Shunter Fee,场内调动费,transport,公路费率,published
+Pallet Exchange Fee,托盘交换费,transport,公路费率,published
+Pallet Deposit,托盘押金,transport,公路费率,published
+Empty Haul Charge,空驶费,transport,公路费率,published
+Repositioning Fee,调车费,transport,公路费率,published
+Cross-Border Road Freight,跨境公路货运,transport,跨境公路,published
+Cross-Border Trucking Permit,跨境公路运输许可,transport,跨境公路,published
+Bilateral Road Transport Agreement,双边公路运输协定,transport,跨境公路,published
+Third Country Haulage,第三国运输权,transport,跨境公路,published
+Cabotage Rights,境内揽载权,transport,跨境公路,published
+Community License,共同体运输许可,transport,跨境公路,published
+EU Market Access License,欧盟市场准入许可,transport,跨境公路,published
+Bilateral Permit,双边许可证,transport,跨境公路,published
+Quota Permit,配额许可证,transport,跨境公路,published
+ECMT Permit,欧共体运输会议许可证,transport,跨境公路,published
+Multilateral Permit,多边许可证,transport,跨境公路,published
+Tachograph Card for Foreign Drivers,外籍司机记卡片,transport,跨境公路,published
+Border Waiting Time,口岸等待时间,transport,跨境公路,published
 Border Queue Management,口岸排队管理,transport,跨境公路,pending
 Green Lane Border Crossing,口岸快速通道,transport,跨境公路,pending
 Priority Lane Permit,优先通道许可,transport,跨境公路,pending
