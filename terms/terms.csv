@@ -6029,106 +6029,106 @@ Delay Attribution,延误责任判定,transport,铁路设施,published
 Network Statement,路网说明书,transport,铁路设施,published
 Train Length Restriction,列车长度限制,transport,铁路设施,published
 Axle Load for Rail,铁路轴重,transport,铁路设施,published
-Gauge Compatibility,轨距兼容性,transport,铁路设施,pending
-Loading Gauge,铁路装载限界,transport,铁路设施,pending
-Structure Gauge,建筑限界,transport,铁路设施,pending
-Kinematic Envelope,动态限界,transport,铁路设施,pending
-W22 Gauge,宽限界等级,transport,铁路设施,pending
-Railway Yard,铁路编组站,transport,铁路设施,pending
-Hump Yard,驼峰编组场,transport,铁路设施,pending
-Shunting,调车作业,transport,铁路设施,pending
-Shunting Locomotive,调车机车,transport,铁路设施,pending
-Branch Line,铁路支线,transport,铁路设施,pending
-Sidings,铁路侧线,transport,铁路设施,pending
-Private Siding,企业专用线,transport,铁路设施,pending
-Rail Connected Terminal,铁路连通货场,transport,铁路设施,pending
-On-Dock Rail,码头内铁路,transport,铁路设施,pending
-Near-Dock Rail,码头邻近铁路,transport,铁路设施,pending
-Dry Port Rail Link,旱港铁路连接线,transport,铁路设施,pending
-Rail Siding Container Terminal,铁路集装箱货场,transport,铁路设施,pending
-Rail Loading Gauge Check,铁路装载限界检查,transport,铁路设施,pending
-Train Formation Plan,列车编组计划,transport,铁路设施,pending
-Conventional Train,编组列车,transport,铁路设施,pending
-Single Wagon consignment,单节车厢货物,transport,铁路设施,pending
-Single Wagon Load,整车单节运输,transport,铁路设施,pending
-Intermodal Train,多式联运班列,transport,铁路设施,pending
-Piggyback Train,驮背列车,transport,铁路设施,pending
-Rolling Highway,滚动公路,transport,铁路设施,pending
-Rolling Road Service,滚装铁路服务,transport,铁路设施,pending
-Shuttle Train,穿梭班列,transport,铁路设施,pending
-Scheduled Freight Train,定期货运列车,transport,铁路设施,pending
-Ad Hoc Train,临时加开列车,transport,铁路设施,pending
-Train Reporting Number,列车车次号,transport,铁路设施,pending
-Consignment Note CIM,国际铁路货运单,transport,铁路单证,pending
-COTIF Convention,国际铁路运输公约,transport,铁路单证,pending
-Uniform Rules Concerning CIM,铁路货物运输统一规则,transport,铁路单证,pending
-Electronic Consignment Note,电子货运单,transport,铁路单证,pending
-Consignment Note Counterfoil,运单存根,transport,铁路单证,pending
-Rail Freight Forwarder,铁路货运代理,transport,铁路单证,pending
-Rail Carrier Liability,铁路承运人责任,transport,铁路单证,pending
-Rail Liability Limit per Kilo,铁路按公斤责任限额,transport,铁路单证,pending
-Declared Value Rail,铁路申报价值,transport,铁路单证,pending
-Special Interest in Delivery,特别到货利益声明,transport,铁路单证,pending
-Additional Charges Note,铁路附加费清单,transport,铁路单证,pending
-Freight Charges Prepaid Rail,铁路运费预付,transport,铁路单证,pending
-Freight Charges Collect Rail,铁路运费到付,transport,铁路单证,pending
-Customs Declaration by Rail,铁路报关,transport,铁路单证,pending
-Rail Transit Document,铁路过境单证,transport,铁路单证,pending
-Duty Stamp on Rail Waybill,铁路运单签章,transport,铁路单证,pending
-Seal Record for Rail Wagon,铁路车辆铅封记录,transport,铁路单证,pending
-Wagon Inspection Report,车辆检查报告,transport,铁路单证,pending
-Out of Gauge Declaration,铁路超限申报,transport,铁路单证,pending
-Overload Declaration Rail,铁路超载申报,transport,铁路单证,pending
-Temperature Recorded Rail,铁路温度记录,transport,铁路单证,pending
-GPS Tracking Rail Wagon,铁路车辆定位追踪,transport,铁路单证,pending
-Telemetry for Rail Cargo,铁路货物遥测,transport,铁路单证,pending
-Cargo Manifest Rail,铁路载货清单,transport,铁路单证,pending
-Wagon List,车辆清单,transport,铁路单证,pending
-Train Composition Message,列车编组报文,transport,铁路单证,pending
-Consignment Data Exchange,货运数据交换,transport,铁路单证,pending
-Rail E-Ticketing Freight,铁路货运电子凭证,transport,铁路单证,pending
-Insurance Certificate Rail,铁路货运保险凭证,transport,铁路单证,pending
-Certificate of Origin Rail Shipment,铁路原产地证,transport,铁路单证,pending
-Packing List Rail,铁路装箱单,transport,铁路单证,pending
-Rail Booking Confirmation,铁路订舱确认,transport,铁路单证,pending
-Slot Confirmation Rail,铁路舱位确认,transport,铁路单证,pending
-Customs Status Enquiry Rail,铁路通关状态查询,transport,铁路单证,pending
-Delay Notification Rail,铁路延误通知,transport,铁路单证,pending
-Loss Notification Rail,铁路货损通知,transport,铁路单证,pending
-Damage Report Rail,铁路残损报告,transport,铁路单证,pending
-Survey Report Rail,铁路检验报告,transport,铁路单证,pending
-Claim Form Rail,铁路索赔申请表,transport,铁路单证,pending
-Rebooking Fee Rail,铁路改签费,transport,铁路单证,pending
-Boxcar,棚车,transport,铁路车辆,pending
-Covered Hopper Car,散装漏斗车,transport,铁路车辆,pending
-Open Wagon,敞车,transport,铁路车辆,pending
-Gondola Car,铁路敞车,transport,铁路车辆,pending
-Hopper Wagon,漏斗车,transport,铁路车辆,pending
-Ballast Hopper,道砟漏斗车,transport,铁路车辆,pending
-Tank Car,铁路罐车,transport,铁路车辆,pending
-Pressure Tank Car,压力罐车,transport,铁路车辆,pending
-Cryogenic Tank Car,低温罐车,transport,铁路车辆,pending
-Coil Car,卷钢运输车,transport,铁路车辆,pending
-Well Wagon,凹底平车,transport,铁路车辆,pending
-Schnabel Car,钳夹车,transport,铁路车辆,pending
-Schnabel Car Bridge,钳夹车大梁,transport,铁路车辆,pending
-Depressed Center Flatcar,落下孔车,transport,铁路车辆,pending
-Container Flatcar,集装箱平车,transport,铁路车辆,pending
-Spine Car,骨架式集装箱平车,transport,铁路车辆,pending
-Twin Stack Car,双层集装箱平车,transport,铁路车辆,pending
-Autorack,汽车运输车厢,transport,铁路车辆,pending
-Refrigerated Wagon,铁路冷藏车,transport,铁路车辆,pending
-Insulated Wagon,铁路保温车,transport,铁路车辆,pending
-Mechanical Reefer Car,机械冷藏车,transport,铁路车辆,pending
-Ventilated Wagon,铁路通风车,transport,铁路车辆,pending
-Hopper Car with Rotating Coupler,旋转车钩漏斗车,transport,铁路车辆,pending
-Rotary Dumper Car,翻车机车皮,transport,铁路车辆,pending
-Side Dump Wagon,侧卸车皮,transport,铁路车辆,pending
-Bottom Discharge Wagon,底卸车皮,transport,铁路车辆,pending
-Powder Wagon,粉状货物车皮,transport,铁路车辆,pending
-Cement Wagon,水泥车皮,transport,铁路车辆,pending
-Grain Hopper,粮食漏斗车,transport,铁路车辆,pending
-Aggregate Wagon,砂石车皮,transport,铁路车辆,pending
+Gauge Compatibility,轨距兼容性,transport,铁路设施,published
+Loading Gauge,铁路装载限界,transport,铁路设施,published
+Structure Gauge,建筑限界,transport,铁路设施,published
+Kinematic Envelope,动态限界,transport,铁路设施,published
+W22 Gauge,宽限界等级,transport,铁路设施,published
+Railway Yard,铁路编组站,transport,铁路设施,published
+Hump Yard,驼峰编组场,transport,铁路设施,published
+Shunting,调车作业,transport,铁路设施,published
+Shunting Locomotive,调车机车,transport,铁路设施,published
+Branch Line,铁路支线,transport,铁路设施,published
+Sidings,铁路侧线,transport,铁路设施,published
+Private Siding,企业专用线,transport,铁路设施,published
+Rail Connected Terminal,铁路连通货场,transport,铁路设施,published
+On-Dock Rail,码头内铁路,transport,铁路设施,published
+Near-Dock Rail,码头邻近铁路,transport,铁路设施,published
+Dry Port Rail Link,旱港铁路连接线,transport,铁路设施,published
+Rail Siding Container Terminal,铁路集装箱货场,transport,铁路设施,published
+Rail Loading Gauge Check,铁路装载限界检查,transport,铁路设施,published
+Train Formation Plan,列车编组计划,transport,铁路设施,published
+Conventional Train,编组列车,transport,铁路设施,published
+Single Wagon consignment,单节车厢货物,transport,铁路设施,published
+Single Wagon Load,整车单节运输,transport,铁路设施,published
+Intermodal Train,多式联运班列,transport,铁路设施,published
+Piggyback Train,驮背列车,transport,铁路设施,published
+Rolling Highway,滚动公路,transport,铁路设施,published
+Rolling Road Service,滚装铁路服务,transport,铁路设施,published
+Shuttle Train,穿梭班列,transport,铁路设施,published
+Scheduled Freight Train,定期货运列车,transport,铁路设施,published
+Ad Hoc Train,临时加开列车,transport,铁路设施,published
+Train Reporting Number,列车车次号,transport,铁路设施,published
+Consignment Note CIM,国际铁路货运单,transport,铁路单证,published
+COTIF Convention,国际铁路运输公约,transport,铁路单证,published
+Uniform Rules Concerning CIM,铁路货物运输统一规则,transport,铁路单证,published
+Electronic Consignment Note,电子货运单,transport,铁路单证,published
+Consignment Note Counterfoil,运单存根,transport,铁路单证,published
+Rail Freight Forwarder,铁路货运代理,transport,铁路单证,published
+Rail Carrier Liability,铁路承运人责任,transport,铁路单证,published
+Rail Liability Limit per Kilo,铁路按公斤责任限额,transport,铁路单证,published
+Declared Value Rail,铁路申报价值,transport,铁路单证,published
+Special Interest in Delivery,特别到货利益声明,transport,铁路单证,published
+Additional Charges Note,铁路附加费清单,transport,铁路单证,published
+Freight Charges Prepaid Rail,铁路运费预付,transport,铁路单证,published
+Freight Charges Collect Rail,铁路运费到付,transport,铁路单证,published
+Customs Declaration by Rail,铁路报关,transport,铁路单证,published
+Rail Transit Document,铁路过境单证,transport,铁路单证,published
+Duty Stamp on Rail Waybill,铁路运单签章,transport,铁路单证,published
+Seal Record for Rail Wagon,铁路车辆铅封记录,transport,铁路单证,published
+Wagon Inspection Report,车辆检查报告,transport,铁路单证,published
+Out of Gauge Declaration,铁路超限申报,transport,铁路单证,published
+Overload Declaration Rail,铁路超载申报,transport,铁路单证,published
+Temperature Recorded Rail,铁路温度记录,transport,铁路单证,published
+GPS Tracking Rail Wagon,铁路车辆定位追踪,transport,铁路单证,published
+Telemetry for Rail Cargo,铁路货物遥测,transport,铁路单证,published
+Cargo Manifest Rail,铁路载货清单,transport,铁路单证,published
+Wagon List,车辆清单,transport,铁路单证,published
+Train Composition Message,列车编组报文,transport,铁路单证,published
+Consignment Data Exchange,货运数据交换,transport,铁路单证,published
+Rail E-Ticketing Freight,铁路货运电子凭证,transport,铁路单证,published
+Insurance Certificate Rail,铁路货运保险凭证,transport,铁路单证,published
+Certificate of Origin Rail Shipment,铁路原产地证,transport,铁路单证,published
+Packing List Rail,铁路装箱单,transport,铁路单证,published
+Rail Booking Confirmation,铁路订舱确认,transport,铁路单证,published
+Slot Confirmation Rail,铁路舱位确认,transport,铁路单证,published
+Customs Status Enquiry Rail,铁路通关状态查询,transport,铁路单证,published
+Delay Notification Rail,铁路延误通知,transport,铁路单证,published
+Loss Notification Rail,铁路货损通知,transport,铁路单证,published
+Damage Report Rail,铁路残损报告,transport,铁路单证,published
+Survey Report Rail,铁路检验报告,transport,铁路单证,published
+Claim Form Rail,铁路索赔申请表,transport,铁路单证,published
+Rebooking Fee Rail,铁路改签费,transport,铁路单证,published
+Boxcar,棚车,transport,铁路车辆,published
+Covered Hopper Car,散装漏斗车,transport,铁路车辆,published
+Open Wagon,敞车,transport,铁路车辆,published
+Gondola Car,铁路敞车,transport,铁路车辆,published
+Hopper Wagon,漏斗车,transport,铁路车辆,published
+Ballast Hopper,道砟漏斗车,transport,铁路车辆,published
+Tank Car,铁路罐车,transport,铁路车辆,published
+Pressure Tank Car,压力罐车,transport,铁路车辆,published
+Cryogenic Tank Car,低温罐车,transport,铁路车辆,published
+Coil Car,卷钢运输车,transport,铁路车辆,published
+Well Wagon,凹底平车,transport,铁路车辆,published
+Schnabel Car,钳夹车,transport,铁路车辆,published
+Schnabel Car Bridge,钳夹车大梁,transport,铁路车辆,published
+Depressed Center Flatcar,落下孔车,transport,铁路车辆,published
+Container Flatcar,集装箱平车,transport,铁路车辆,published
+Spine Car,骨架式集装箱平车,transport,铁路车辆,published
+Twin Stack Car,双层集装箱平车,transport,铁路车辆,published
+Autorack,汽车运输车厢,transport,铁路车辆,published
+Refrigerated Wagon,铁路冷藏车,transport,铁路车辆,published
+Insulated Wagon,铁路保温车,transport,铁路车辆,published
+Mechanical Reefer Car,机械冷藏车,transport,铁路车辆,published
+Ventilated Wagon,铁路通风车,transport,铁路车辆,published
+Hopper Car with Rotating Coupler,旋转车钩漏斗车,transport,铁路车辆,published
+Rotary Dumper Car,翻车机车皮,transport,铁路车辆,published
+Side Dump Wagon,侧卸车皮,transport,铁路车辆,published
+Bottom Discharge Wagon,底卸车皮,transport,铁路车辆,published
+Powder Wagon,粉状货物车皮,transport,铁路车辆,published
+Cement Wagon,水泥车皮,transport,铁路车辆,published
+Grain Hopper,粮食漏斗车,transport,铁路车辆,published
+Aggregate Wagon,砂石车皮,transport,铁路车辆,published
 Timber Wagon,木材车皮,transport,铁路车辆,pending
 Steel Coil Wagon,钢卷车皮,transport,铁路车辆,pending
 Slab Wagon,钢板坯车皮,transport,铁路车辆,pending
