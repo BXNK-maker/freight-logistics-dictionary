@@ -5786,7 +5786,7 @@ For-Hire Carrier,营业性承运人,transport,整车零担,published
 Contract Carrier,合同承运人,transport,整车零担,published
 Common Carrier,公共承运人,transport,整车零担,published
 Irregular Route Carrier,不固定线路承运人,transport,整车零担,published
-Regional Carrier,区域承运人,transport,整车零担,pending
+Regional Carrier,区域承运人,transport,整车零担,published
 National Carrier,全国性承运人,transport,整车零担,published
 Asset-Based Carrier,自有资产承运商,transport,整车零担,published
 Non-Asset-Based Provider,非资产型服务商,transport,整车零担,published
@@ -5835,8 +5835,8 @@ Small Fleet Operator,小型车队经营者,transport,司机管理,published
 Driver Pay Per Mile,按里程司机薪酬,transport,司机管理,published
 Driver Pay Percentage,按流水比例司机薪酬,transport,司机管理,published
 Detention Pay,滞留补贴,transport,司机管理,published
-Layover Pay,过夜补贴,transport,司机管理,pending
-Stop-off Pay,多点停靠补贴,transport,司机管理,pending
+Layover Pay,过夜补贴,transport,司机管理,published
+Stop-off Pay,多点停靠补贴,transport,司机管理,published
 Tarp Pay,苫盖补贴,transport,司机管理,published
 Driver Training Program,驾驶员培训计划,transport,司机管理,published
 Defensive Driving Course,防御性驾驶课程,transport,司机管理,published
@@ -5899,7 +5899,7 @@ Waste Transfer Note,废弃物转移单,transport,公路单证,published
 Livestock Health Certificate for Road,公路牲畜检疫证,transport,公路单证,published
 Phytosanitary Certificate Road Copy,公路植物检疫副本,transport,公路单证,published
 Customs Accompanying Document,随附海关单证,transport,公路单证,published
-Carrier Risk Note,承运风险批单,transport,公路单证,pending
+Carrier Risk Note,承运风险批单,transport,公路单证,published
 Cash on Delivery Note,货到付款单,transport,公路单证,published
 Fuel Surcharge Index,燃油附加指数,transport,公路费率,published
 Diesel Price Indexation,柴油价格联动,transport,公路费率,published
@@ -5933,102 +5933,102 @@ ECMT Permit,欧共体运输会议许可证,transport,跨境公路,published
 Multilateral Permit,多边许可证,transport,跨境公路,published
 Tachograph Card for Foreign Drivers,外籍司机记卡片,transport,跨境公路,published
 Border Waiting Time,口岸等待时间,transport,跨境公路,published
-Border Queue Management,口岸排队管理,transport,跨境公路,pending
-Green Lane Border Crossing,口岸快速通道,transport,跨境公路,pending
-Priority Lane Permit,优先通道许可,transport,跨境公路,pending
-Customs Escort for Road,公路海关押运,transport,跨境公路,pending
-Sealed Truck Transit,整车铅封过境,transport,跨境公路,pending
-Bonded Road Carriage,公路保税运输,transport,跨境公路,pending
-Inland Transit Document,内陆运输单证,transport,跨境公路,pending
-Road Customs Declaration,公路报关单,transport,跨境公路,pending
-Exit Summary Declaration Road,公路出境申报,transport,跨境公路,pending
-Entry Summary Declaration Road,公路入境申报,transport,跨境公路,pending
-Pre-Arrival Declaration Road,公路抵港前申报,transport,跨境公路,pending
-Border Inspection Post,口岸检查站,transport,跨境公路,pending
-Veterinary Border Check,口岸动物检疫,transport,跨境公路,pending
-Phytosanitary Border Check,口岸植物检疫,transport,跨境公路,pending
-Sanitary Border Check,口岸卫生检疫,transport,跨境公路,pending
-Weight Limit Enforcement,限重执法,transport,跨境公路,pending
-Axle Load Limit,轴重限制,transport,跨境公路,pending
-Gross Vehicle Weight,车辆总重,transport,跨境公路,pending
-Maximum Authorized Mass,最大允许总质量,transport,跨境公路,pending
-Overload Fine,超载罚款,transport,跨境公路,pending
-Dimensional Limit,外形尺寸限制,transport,跨境公路,pending
-Height Restriction,限高,transport,跨境公路,pending
-Weight and Measurement Inspection,称重检查,transport,跨境公路,pending
-Abnormal Load Notification,异常货物载运通知,transport,跨境公路,pending
-Oversize Permit,超尺寸许可,transport,特种车辆,pending
-Overweight Permit,超重许可,transport,特种车辆,pending
-Abnormal Indivisible Load,异常不可分割货物,transport,特种车辆,pending
-Superload Permit,特大型运输许可,transport,特种车辆,pending
-Police Escort Convoy,警车护送车队,transport,特种车辆,pending
-Bridge Load Analysis,桥梁承载分析,transport,特种车辆,pending
-Bridge Strength Assessment,桥梁强度评估,transport,特种车辆,pending
-Road Closure Permit,道路封闭许可,transport,特种车辆,pending
-Utility Line Lifting,线缆抬升配合,transport,特种车辆,pending
-Night Movement Permit,夜间通行许可,transport,特种车辆,pending
-Curfew Restriction,宵禁通行限制,transport,特种车辆,pending
-SPMT Combination,模块运输车编组,transport,特种车辆,pending
-Girder Bridge for SPMT,模块车钢梁桥,transport,特种车辆,pending
-Goldhofer Trailer,戈德霍费尔挂车,transport,特种车辆,pending
-Nicolas Trailer,尼古拉挂车,transport,特种车辆,pending
-Kamag Transporter,卡马格运输车,transport,特种车辆,pending
-Scheuerle Trailer,朔尔勒挂车,transport,特种车辆,pending
-Generator Transport,发电机组运输,transport,特种车辆,pending
-Blade Lifter,叶片举升车,transport,特种车辆,pending
-Blade Adaptor,叶片适配夹具,transport,特种车辆,pending
-Vessel Hull Transport,船体分段运输,transport,特种车辆,pending
-Industrial Plant Relocation,工厂整体搬迁,transport,特种车辆,pending
-Machinery Moving,设备搬迁,transport,特种车辆,pending
-Press Transport,大型压机运输,transport,特种车辆,pending
-Reactor Vessel Transport,反应器容器运输,transport,特种车辆,pending
-Tower Vessel Transport,塔器设备运输,transport,特种车辆,pending
-Skid Mounted Equipment Transport,撬装设备运输,transport,特种车辆,pending
-Rooftop Unit Lift and Haul,屋顶机组吊运,transport,特种车辆,pending
-Modular Building Transport,模块化建筑运输,transport,特种车辆,pending
-Boat Transport on Road,游艇公路运输,transport,特种车辆,pending
-Locomotive Transport,机车公路运输,transport,特种车辆,pending
-Rail Wagon Transport by Road,铁路车辆公路转运,transport,特种车辆,pending
-Aircraft Fuselage Transport,飞机机身运输,transport,特种车辆,pending
-Aircraft Wing Transport,机翼运输,transport,特种车辆,pending
-Freight Elevator Booking,货运电梯预约,transport,特种车辆,pending
-Crane Hire for Loading,租吊装车,transport,特种车辆,pending
-Gantry Lift at Site,现场龙门吊装,transport,特种车辆,pending
-Heavy Rigging Crew,重型吊装班组,transport,特种车辆,pending
-Lifting Plan Approval,吊装方案审批,transport,特种车辆,pending
-Load Spread Analysis,载荷分布分析,transport,特种车辆,pending
-Ground Pressure Assessment,地面承压评估,transport,特种车辆,pending
-Crane Mats,吊车垫板,transport,特种车辆,pending
-Timber Cribbing,枕木垫层,transport,特种车辆,pending
-Skidding System,滑移系统,transport,特种车辆,pending
-Hydraulic Gantries,液压龙门吊,transport,特种车辆,pending
-Strand Jack Lifting,钢绞线千斤顶吊装,transport,特种车辆,pending
-Turntable Rotation,转台旋转作业,transport,特种车辆,pending
-Transport Frame,运输框架,transport,特种车辆,pending
-Saddle Support,鞍式支座,transport,特种车辆,pending
-Transport Cradle,运输托架,transport,特种车辆,pending
-Shock Indicators for Road,公路防震标签,transport,特种车辆,pending
-Tilt Indicators,防倾标签,transport,特种车辆,pending
-Impact Recorders,冲击记录仪,transport,特种车辆,pending
-Vibration Monitoring Transport,运输振动监测,transport,特种车辆,pending
-Rail Freight Corridor,铁路货运通道,transport,铁路设施,pending
-Rail Freight Corridor Regulation,铁路货运通道规章,transport,铁路设施,pending
-Corridor One-Stop-Shop,通道一站式服务,transport,铁路设施,pending
-Rail Capacity Allocation,铁路运力分配,transport,铁路设施,pending
-Train Path,列车运行线,transport,铁路设施,pending
-Train Path Request,运行线申请,transport,铁路设施,pending
-Train Path Cancellation,运行线取消,transport,铁路设施,pending
-Slot Booking for Trains,列车时刻预订,transport,铁路设施,pending
-Timetable Planning,时刻表规划,transport,铁路设施,pending
-Working Timetable,工作时刻表,transport,铁路设施,pending
-Rail Infrastructure Manager,铁路基础设施管理者,transport,铁路设施,pending
-Track Access Charge,线路使用费,transport,铁路设施,pending
-Track Access Agreement,线路使用协议,transport,铁路设施,pending
-Performance Regime,绩效奖惩机制,transport,铁路设施,pending
-Delay Attribution,延误责任判定,transport,铁路设施,pending
-Network Statement,路网说明书,transport,铁路设施,pending
-Train Length Restriction,列车长度限制,transport,铁路设施,pending
-Axle Load for Rail,铁路轴重,transport,铁路设施,pending
+Border Queue Management,口岸排队管理,transport,跨境公路,published
+Green Lane Border Crossing,口岸快速通道,transport,跨境公路,published
+Priority Lane Permit,优先通道许可,transport,跨境公路,published
+Customs Escort for Road,公路海关押运,transport,跨境公路,published
+Sealed Truck Transit,整车铅封过境,transport,跨境公路,published
+Bonded Road Carriage,公路保税运输,transport,跨境公路,published
+Inland Transit Document,内陆运输单证,transport,跨境公路,published
+Road Customs Declaration,公路报关单,transport,跨境公路,published
+Exit Summary Declaration Road,公路出境申报,transport,跨境公路,published
+Entry Summary Declaration Road,公路入境申报,transport,跨境公路,published
+Pre-Arrival Declaration Road,公路抵港前申报,transport,跨境公路,published
+Border Inspection Post,口岸检查站,transport,跨境公路,published
+Veterinary Border Check,口岸动物检疫,transport,跨境公路,published
+Phytosanitary Border Check,口岸植物检疫,transport,跨境公路,published
+Sanitary Border Check,口岸卫生检疫,transport,跨境公路,published
+Weight Limit Enforcement,限重执法,transport,跨境公路,published
+Axle Load Limit,轴重限制,transport,跨境公路,published
+Gross Vehicle Weight,车辆总重,transport,跨境公路,published
+Maximum Authorized Mass,最大允许总质量,transport,跨境公路,published
+Overload Fine,超载罚款,transport,跨境公路,published
+Dimensional Limit,外形尺寸限制,transport,跨境公路,published
+Height Restriction,限高,transport,跨境公路,published
+Weight and Measurement Inspection,称重检查,transport,跨境公路,published
+Abnormal Load Notification,异常货物载运通知,transport,跨境公路,published
+Oversize Permit,超尺寸许可,transport,特种车辆,published
+Overweight Permit,超重许可,transport,特种车辆,published
+Abnormal Indivisible Load,异常不可分割货物,transport,特种车辆,published
+Superload Permit,特大型运输许可,transport,特种车辆,published
+Police Escort Convoy,警车护送车队,transport,特种车辆,published
+Bridge Load Analysis,桥梁承载分析,transport,特种车辆,published
+Bridge Strength Assessment,桥梁强度评估,transport,特种车辆,published
+Road Closure Permit,道路封闭许可,transport,特种车辆,published
+Utility Line Lifting,线缆抬升配合,transport,特种车辆,published
+Night Movement Permit,夜间通行许可,transport,特种车辆,published
+Curfew Restriction,宵禁通行限制,transport,特种车辆,published
+SPMT Combination,模块运输车编组,transport,特种车辆,published
+Girder Bridge for SPMT,模块车钢梁桥,transport,特种车辆,published
+Goldhofer Trailer,戈德霍费尔挂车,transport,特种车辆,published
+Nicolas Trailer,尼古拉挂车,transport,特种车辆,published
+Kamag Transporter,卡马格运输车,transport,特种车辆,published
+Scheuerle Trailer,朔尔勒挂车,transport,特种车辆,published
+Generator Transport,发电机组运输,transport,特种车辆,published
+Blade Lifter,叶片举升车,transport,特种车辆,published
+Blade Adaptor,叶片适配夹具,transport,特种车辆,published
+Vessel Hull Transport,船体分段运输,transport,特种车辆,published
+Industrial Plant Relocation,工厂整体搬迁,transport,特种车辆,published
+Machinery Moving,设备搬迁,transport,特种车辆,published
+Press Transport,大型压机运输,transport,特种车辆,published
+Reactor Vessel Transport,反应器容器运输,transport,特种车辆,published
+Tower Vessel Transport,塔器设备运输,transport,特种车辆,published
+Skid Mounted Equipment Transport,撬装设备运输,transport,特种车辆,published
+Rooftop Unit Lift and Haul,屋顶机组吊运,transport,特种车辆,published
+Modular Building Transport,模块化建筑运输,transport,特种车辆,published
+Boat Transport on Road,游艇公路运输,transport,特种车辆,published
+Locomotive Transport,机车公路运输,transport,特种车辆,published
+Rail Wagon Transport by Road,铁路车辆公路转运,transport,特种车辆,published
+Aircraft Fuselage Transport,飞机机身运输,transport,特种车辆,published
+Aircraft Wing Transport,机翼运输,transport,特种车辆,published
+Freight Elevator Booking,货运电梯预约,transport,特种车辆,published
+Crane Hire for Loading,租吊装车,transport,特种车辆,published
+Gantry Lift at Site,现场龙门吊装,transport,特种车辆,published
+Heavy Rigging Crew,重型吊装班组,transport,特种车辆,published
+Lifting Plan Approval,吊装方案审批,transport,特种车辆,published
+Load Spread Analysis,载荷分布分析,transport,特种车辆,published
+Ground Pressure Assessment,地面承压评估,transport,特种车辆,published
+Crane Mats,吊车垫板,transport,特种车辆,published
+Timber Cribbing,枕木垫层,transport,特种车辆,published
+Skidding System,滑移系统,transport,特种车辆,published
+Hydraulic Gantries,液压龙门吊,transport,特种车辆,published
+Strand Jack Lifting,钢绞线千斤顶吊装,transport,特种车辆,published
+Turntable Rotation,转台旋转作业,transport,特种车辆,published
+Transport Frame,运输框架,transport,特种车辆,published
+Saddle Support,鞍式支座,transport,特种车辆,published
+Transport Cradle,运输托架,transport,特种车辆,published
+Shock Indicators for Road,公路防震标签,transport,特种车辆,published
+Tilt Indicators,防倾标签,transport,特种车辆,published
+Impact Recorders,冲击记录仪,transport,特种车辆,published
+Vibration Monitoring Transport,运输振动监测,transport,特种车辆,published
+Rail Freight Corridor,铁路货运通道,transport,铁路设施,published
+Rail Freight Corridor Regulation,铁路货运通道规章,transport,铁路设施,published
+Corridor One-Stop-Shop,通道一站式服务,transport,铁路设施,published
+Rail Capacity Allocation,铁路运力分配,transport,铁路设施,published
+Train Path,列车运行线,transport,铁路设施,published
+Train Path Request,运行线申请,transport,铁路设施,published
+Train Path Cancellation,运行线取消,transport,铁路设施,published
+Slot Booking for Trains,列车时刻预订,transport,铁路设施,published
+Timetable Planning,时刻表规划,transport,铁路设施,published
+Working Timetable,工作时刻表,transport,铁路设施,published
+Rail Infrastructure Manager,铁路基础设施管理者,transport,铁路设施,published
+Track Access Charge,线路使用费,transport,铁路设施,published
+Track Access Agreement,线路使用协议,transport,铁路设施,published
+Performance Regime,绩效奖惩机制,transport,铁路设施,published
+Delay Attribution,延误责任判定,transport,铁路设施,published
+Network Statement,路网说明书,transport,铁路设施,published
+Train Length Restriction,列车长度限制,transport,铁路设施,published
+Axle Load for Rail,铁路轴重,transport,铁路设施,published
 Gauge Compatibility,轨距兼容性,transport,铁路设施,pending
 Loading Gauge,铁路装载限界,transport,铁路设施,pending
 Structure Gauge,建筑限界,transport,铁路设施,pending
