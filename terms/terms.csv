@@ -6129,106 +6129,106 @@ Powder Wagon,粉状货物车皮,transport,铁路车辆,published
 Cement Wagon,水泥车皮,transport,铁路车辆,published
 Grain Hopper,粮食漏斗车,transport,铁路车辆,published
 Aggregate Wagon,砂石车皮,transport,铁路车辆,published
-Timber Wagon,木材车皮,transport,铁路车辆,pending
-Steel Coil Wagon,钢卷车皮,transport,铁路车辆,pending
-Slab Wagon,钢板坯车皮,transport,铁路车辆,pending
-Billet Wagon,钢坯车皮,transport,铁路车辆,pending
-Pig Iron Wagon,生铁车皮,transport,铁路车辆,pending
-Scrap Wagon,废钢车皮,transport,铁路车辆,pending
-Bogie,转向架,transport,铁路车辆,pending
-Wheelset Change,换轮对作业,transport,铁路车辆,pending
-Gauge Changer,轨距变换装置,transport,铁路车辆,pending
-Variable Gauge Axle,变轨距转向架,transport,铁路车辆,pending
-Coupler,车钩,transport,铁路车辆,pending
-Automatic Coupler,自动车钩,transport,铁路车辆,pending
-Screw Coupling,螺旋车钩,transport,铁路车辆,pending
-Buffer,缓冲器,transport,铁路车辆,pending
-Air Brake System,空气制动系统,transport,铁路车辆,pending
-Hand Brake Wagon,手制动车皮,transport,铁路车辆,pending
-Wagon Tare Weight,车辆皮重,transport,铁路车辆,pending
-Wagon Load Limit,车辆载重限制,transport,铁路车辆,pending
-Wagon Number,车皮编号,transport,铁路车辆,pending
-Rail Operator,铁路运营人,transport,中欧班列,pending
-Train Operator License,铁路运营许可,transport,中欧班列,pending
-Freight Operating Company,货运运营公司,transport,中欧班列,pending
-Westbound Service,西行班列,transport,中欧班列,pending
-Eastbound Service,东行班列,transport,中欧班列,pending
-Southbound Service,南行班列,transport,中欧班列,pending
-Northbound Service,北行班列,transport,中欧班列,pending
-Zhengzhou-Europe Route,郑欧班列,transport,中欧班列,pending
-Chengdu-Europe Route,蓉欧班列,transport,中欧班列,pending
-Wuhan-Europe Route,汉欧班列,transport,中欧班列,pending
-Changsha-Europe Route,湘欧班列,transport,中欧班列,pending
-Hefei-Europe Route,合新欧班列,transport,中欧班列,pending
-Shenyang-Europe Route,沈满欧班列,transport,中欧班列,pending
-Zabaikalsk Station,后贝加尔斯克站,transport,中欧班列,pending
-Małaszewicze Congestion,马拉舍维奇拥堵,transport,中欧班列,pending
-Duisburg Terminal,杜伊斯堡货场,transport,中欧班列,pending
-Hamburg Rail Terminal,汉堡铁路货场,transport,中欧班列,pending
-Madrid Rail Terminal,马德里铁路货场,transport,中欧班列,pending
-Tilburg Rail Terminal,蒂尔堡铁路货场,transport,中欧班列,pending
-Kaliningrad Route,加里宁格勒线路,transport,中欧班列,pending
-Middle Corridor Rail Route,中间走廊班列,transport,中欧班列,pending
-Cross Caspian Route,跨里海班列,transport,中欧班列,pending
-Baku-Tbilisi-Kars Railway,巴库-第比利斯-卡尔斯铁路,transport,中欧班列,pending
-Mersin Rail Link,梅尔辛铁路连接,transport,中欧班列,pending
-Trans-Siberian Rail Route,西伯利亚大铁路线路,transport,中欧班列,pending
-Trans-Manchurian Route,满洲里过境线路,transport,中欧班列,pending
-Trans-Mongolian Route,蒙古过境线路,transport,中欧班列,pending
-Trans-Kazakhstan Route,哈萨克过境线路,transport,中欧班列,pending
-Broad Gauge Section,宽轨区段,transport,中欧班列,pending
-Standard Gauge Section,准轨区段,transport,中欧班列,pending
-Gauge Break Point,换轨点,transport,中欧班列,pending
-Transshipment at Gauge Break,换轨换装作业,transport,中欧班列,pending
-Rail Transit Time,铁路运输时间,transport,中欧班列,pending
-Train Punctuality Rate,班列准点率,transport,中欧班列,pending
-Cargo Insurance for Rail,班列货运保险,transport,中欧班列,pending
-Customs Clearance at Rail Port,铁路口岸通关,transport,中欧班列,pending
-Pre-Clearance Rail,铁路预清关,transport,中欧班列,pending
-Bonded Rail Transit,铁路保税过境,transport,中欧班列,pending
-Assembly Center for Trains,班列集结中心,transport,中欧班列,pending
-Consolidation Warehouse Rail,班列集货仓,transport,中欧班列,pending
-Return Load Rail,班列回程货,transport,中欧班列,pending
-Empty Container Repositioning Rail,铁路空箱调配,transport,中欧班列,pending
-FCL Rail Service,铁路整箱服务,transport,中欧班列,pending
-LCL Rail Service,铁路拼箱服务,transport,中欧班列,pending
-Cold Train Service,冷藏班列服务,transport,中欧班列,pending
-Reefer Container on Rail,铁路冷藏集装箱,transport,中欧班列,pending
-Power Supply for Reefer Rail,铁路冷藏供电,transport,中欧班列,pending
-DGR Rail Transport,铁路危险品运输,transport,中欧班列,pending
-RID Regulation,国际铁路危险品规程,transport,中欧班列,pending
-RID Class List,铁路危险品类别清单,transport,中欧班列,pending
-Oversized Rail Cargo,铁路超限货物,transport,中欧班列,pending
-Rail Freight Tariff,铁路货运价,transport,中欧班列,pending
-Through Rate Rail,铁路全程运价,transport,中欧班列,pending
-Currency Adjustment Factor Rail,铁路汇率调整费,transport,中欧班列,pending
-Fuel Cost Adjustment Rail,铁路燃油调整费,transport,中欧班列,pending
-Congestion Surcharge Rail,铁路拥堵附加费,transport,中欧班列,pending
-Train Chartering,包租列车,transport,中欧班列,pending
-Wagon Chartering,包租车皮,transport,中欧班列,pending
-Private Wagon Fleet,自备车皮,transport,中欧班列,pending
-Private Container Fleet Rail,自备箱铁路运输,transport,中欧班列,pending
-Wagon Leasing,车皮租赁,transport,中欧班列,pending
-Wagon Pool System,车皮共享池,transport,中欧班列,pending
-Intermodal Operating Company,联运运营公司,transport,多式联运,pending
-MTO Liability Regime,多式联运经营人责任制度,transport,多式联运,pending
-Multimodal Transport Document,多式联运单据,transport,多式联运,pending
-Combined Transport Document,联合运输单据,transport,多式联运,pending
-Through Transport Document,全程运输单据,transport,多式联运,pending
-Through Bill of Lading,全程提单,transport,多式联运,pending
-FIATA Bill of Lading,菲亚塔提单,transport,多式联运,pending
-FIATA Multimodal Transport Rules,菲亚塔多式联运规则,transport,多式联运,pending
-Unimodal Transport,单式运输,transport,多式联运,pending
-Segment Liability,分段责任制,transport,多式联运,pending
-Network Liability System,网状责任制度,transport,多式联运,pending
-Uniform Liability System,统一责任制度,transport,多式联运,pending
-Modified Uniform Liability,修正统一责任制,transport,多式联运,pending
-Intermodal Marketing Company,多式联运营销公司,transport,多式联运,pending
-Intermodal Equipment Provider,联运设备提供商,transport,多式联运,pending
-Chassis Pool,底盘车共享池,transport,多式联运,pending
-Street Turn Container,街道直接还箱,transport,多式联运,pending
-Container Yard Interchange,集装箱堆场交接,transport,多式联运,pending
-Pierce Point,多式联运衔接点,transport,多式联运,pending
+Timber Wagon,木材车皮,transport,铁路车辆,published
+Steel Coil Wagon,钢卷车皮,transport,铁路车辆,published
+Slab Wagon,钢板坯车皮,transport,铁路车辆,published
+Billet Wagon,钢坯车皮,transport,铁路车辆,published
+Pig Iron Wagon,生铁车皮,transport,铁路车辆,published
+Scrap Wagon,废钢车皮,transport,铁路车辆,published
+Bogie,转向架,transport,铁路车辆,published
+Wheelset Change,换轮对作业,transport,铁路车辆,published
+Gauge Changer,轨距变换装置,transport,铁路车辆,published
+Variable Gauge Axle,变轨距转向架,transport,铁路车辆,published
+Coupler,车钩,transport,铁路车辆,published
+Automatic Coupler,自动车钩,transport,铁路车辆,published
+Screw Coupling,螺旋车钩,transport,铁路车辆,published
+Buffer,缓冲器,transport,铁路车辆,published
+Air Brake System,空气制动系统,transport,铁路车辆,published
+Hand Brake Wagon,手制动车皮,transport,铁路车辆,published
+Wagon Tare Weight,车辆皮重,transport,铁路车辆,published
+Wagon Load Limit,车辆载重限制,transport,铁路车辆,published
+Wagon Number,车皮编号,transport,铁路车辆,published
+Rail Operator,铁路运营人,transport,中欧班列,published
+Train Operator License,铁路运营许可,transport,中欧班列,published
+Freight Operating Company,货运运营公司,transport,中欧班列,published
+Westbound Service,西行班列,transport,中欧班列,published
+Eastbound Service,东行班列,transport,中欧班列,published
+Southbound Service,南行班列,transport,中欧班列,published
+Northbound Service,北行班列,transport,中欧班列,published
+Zhengzhou-Europe Route,郑欧班列,transport,中欧班列,published
+Chengdu-Europe Route,蓉欧班列,transport,中欧班列,published
+Wuhan-Europe Route,汉欧班列,transport,中欧班列,published
+Changsha-Europe Route,湘欧班列,transport,中欧班列,published
+Hefei-Europe Route,合新欧班列,transport,中欧班列,published
+Shenyang-Europe Route,沈满欧班列,transport,中欧班列,published
+Zabaikalsk Station,后贝加尔斯克站,transport,中欧班列,published
+Małaszewicze Congestion,马拉舍维奇拥堵,transport,中欧班列,published
+Duisburg Terminal,杜伊斯堡货场,transport,中欧班列,published
+Hamburg Rail Terminal,汉堡铁路货场,transport,中欧班列,published
+Madrid Rail Terminal,马德里铁路货场,transport,中欧班列,published
+Tilburg Rail Terminal,蒂尔堡铁路货场,transport,中欧班列,published
+Kaliningrad Route,加里宁格勒线路,transport,中欧班列,published
+Middle Corridor Rail Route,中间走廊班列,transport,中欧班列,published
+Cross Caspian Route,跨里海班列,transport,中欧班列,published
+Baku-Tbilisi-Kars Railway,巴库-第比利斯-卡尔斯铁路,transport,中欧班列,published
+Mersin Rail Link,梅尔辛铁路连接,transport,中欧班列,published
+Trans-Siberian Rail Route,西伯利亚大铁路线路,transport,中欧班列,published
+Trans-Manchurian Route,满洲里过境线路,transport,中欧班列,published
+Trans-Mongolian Route,蒙古过境线路,transport,中欧班列,published
+Trans-Kazakhstan Route,哈萨克过境线路,transport,中欧班列,published
+Broad Gauge Section,宽轨区段,transport,中欧班列,published
+Standard Gauge Section,准轨区段,transport,中欧班列,published
+Gauge Break Point,换轨点,transport,中欧班列,published
+Transshipment at Gauge Break,换轨换装作业,transport,中欧班列,published
+Rail Transit Time,铁路运输时间,transport,中欧班列,published
+Train Punctuality Rate,班列准点率,transport,中欧班列,published
+Cargo Insurance for Rail,班列货运保险,transport,中欧班列,published
+Customs Clearance at Rail Port,铁路口岸通关,transport,中欧班列,published
+Pre-Clearance Rail,铁路预清关,transport,中欧班列,published
+Bonded Rail Transit,铁路保税过境,transport,中欧班列,published
+Assembly Center for Trains,班列集结中心,transport,中欧班列,published
+Consolidation Warehouse Rail,班列集货仓,transport,中欧班列,published
+Return Load Rail,班列回程货,transport,中欧班列,published
+Empty Container Repositioning Rail,铁路空箱调配,transport,中欧班列,published
+FCL Rail Service,铁路整箱服务,transport,中欧班列,published
+LCL Rail Service,铁路拼箱服务,transport,中欧班列,published
+Cold Train Service,冷藏班列服务,transport,中欧班列,published
+Reefer Container on Rail,铁路冷藏集装箱,transport,中欧班列,published
+Power Supply for Reefer Rail,铁路冷藏供电,transport,中欧班列,published
+DGR Rail Transport,铁路危险品运输,transport,中欧班列,published
+RID Regulation,国际铁路危险品规程,transport,中欧班列,published
+RID Class List,铁路危险品类别清单,transport,中欧班列,published
+Oversized Rail Cargo,铁路超限货物,transport,中欧班列,published
+Rail Freight Tariff,铁路货运价,transport,中欧班列,published
+Through Rate Rail,铁路全程运价,transport,中欧班列,published
+Currency Adjustment Factor Rail,铁路汇率调整费,transport,中欧班列,published
+Fuel Cost Adjustment Rail,铁路燃油调整费,transport,中欧班列,published
+Congestion Surcharge Rail,铁路拥堵附加费,transport,中欧班列,published
+Train Chartering,包租列车,transport,中欧班列,published
+Wagon Chartering,包租车皮,transport,中欧班列,published
+Private Wagon Fleet,自备车皮,transport,中欧班列,published
+Private Container Fleet Rail,自备箱铁路运输,transport,中欧班列,published
+Wagon Leasing,车皮租赁,transport,中欧班列,published
+Wagon Pool System,车皮共享池,transport,中欧班列,published
+Intermodal Operating Company,联运运营公司,transport,多式联运,published
+MTO Liability Regime,多式联运经营人责任制度,transport,多式联运,published
+Multimodal Transport Document,多式联运单据,transport,多式联运,published
+Combined Transport Document,联合运输单据,transport,多式联运,published
+Through Transport Document,全程运输单据,transport,多式联运,published
+Through Bill of Lading,全程提单,transport,多式联运,published
+FIATA Bill of Lading,菲亚塔提单,transport,多式联运,published
+FIATA Multimodal Transport Rules,菲亚塔多式联运规则,transport,多式联运,published
+Unimodal Transport,单式运输,transport,多式联运,published
+Segment Liability,分段责任制,transport,多式联运,published
+Network Liability System,网状责任制度,transport,多式联运,published
+Uniform Liability System,统一责任制度,transport,多式联运,published
+Modified Uniform Liability,修正统一责任制,transport,多式联运,published
+Intermodal Marketing Company,多式联运营销公司,transport,多式联运,published
+Intermodal Equipment Provider,联运设备提供商,transport,多式联运,published
+Chassis Pool,底盘车共享池,transport,多式联运,published
+Street Turn Container,街道直接还箱,transport,多式联运,published
+Container Yard Interchange,集装箱堆场交接,transport,多式联运,published
+Pierce Point,多式联运衔接点,transport,多式联运,published
 Bimodal Trailer,双模式挂车,transport,多式联运,pending
 Roadrailer,公路铁路两用挂车,transport,多式联运,pending
 Iron Highway System,铁路公路两用系统,transport,多式联运,pending
