@@ -1,0 +1,429 @@
+term_en,term_zh,category,subcategory
+International Maritime Organization (IMO),国际海事组织,trade-terms,海事法规公约
+IMO Assembly,IMO 大会,trade-terms,海事法规公约
+IMO Council,IMO 理事会,trade-terms,海事法规公约
+Maritime Safety Committee (MSC),海上安全委员会,trade-terms,海事法规公约
+Marine Environment Protection Committee (MEPC),海洋环境保护委员会,trade-terms,海事法规公约
+Sub-Committee on Ship Design and Construction (SDC),船舶设计与建造分委会,trade-terms,海事法规公约
+Sub-Committee on Navigation Communications and Search and Rescue (NCSR),航行通信与搜救分委会,trade-terms,海事法规公约
+Sub-Committee on Pollution Prevention and Response (PPR),防污染与响应分委会,trade-terms,海事法规公约
+Sub-Committee on Carriage of Cargoes and Containers (CCC),货物运输与集装箱分委会,trade-terms,海事法规公约
+Sub-Committee on Ship Systems and Equipment (SSE),船舶系统与设备分委会,trade-terms,海事法规公约
+Sub-Committee on Human Element Training and Watchkeeping (HTW),人的因素培训与值班分委会,trade-terms,海事法规公约
+Sub-Committee on Implementation of IMO Instruments (III),IMO 文件实施分委会,trade-terms,海事法规公约
+IMO Circulars,IMO 通函,trade-terms,海事法规公约
+IMO Resolutions,IMO 决议,trade-terms,海事法规公约
+International Convention for the Safety of Life at Sea (SOLAS),国际海上人命安全公约,trade-terms,海事法规公约
+SOLAS 1974,1974 年国际海上人命安全公约,trade-terms,海事法规公约
+SOLAS Protocol of 1978,1978 年 SOLAS 议定书,trade-terms,海事法规公约
+SOLAS Protocol of 1988,1988 年 SOLAS 议定书,trade-terms,海事法规公约
+SOLAS Chapter I General Provisions,SOLAS 第 I 章 总则,trade-terms,海事法规公约
+SOLAS Chapter II-1 Construction Subdivision and Stability,SOLAS 第 II-1 章 构造与分舱及稳性,trade-terms,海事法规公约
+SOLAS Chapter II-2 Fire Protection Fire Detection and Fire Extinction,SOLAS 第 II-2 章 防火与探火及灭火,trade-terms,海事法规公约
+SOLAS Chapter III Life-Saving Appliances and Arrangements,SOLAS 第 III 章 救生设备与布置,trade-terms,海事法规公约
+SOLAS Chapter IV Radiocommunications,SOLAS 第 IV 章 无线电通信,trade-terms,海事法规公约
+SOLAS Chapter V Safety of Navigation,SOLAS 第 V 章 航行安全,trade-terms,海事法规公约
+SOLAS Chapter VI Carriage of Cargoes,SOLAS 第 VI 章 货物运输,trade-terms,海事法规公约
+SOLAS Chapter VII Carriage of Dangerous Goods,SOLAS 第 VII 章 危险货物运输,trade-terms,海事法规公约
+SOLAS Chapter VIII Nuclear Ships,SOLAS 第 VIII 章 核动力船舶,trade-terms,海事法规公约
+SOLAS Chapter IX Management for the Safe Operation of Ships,SOLAS 第 IX 章 船舶安全营运管理,trade-terms,海事法规公约
+SOLAS Chapter X Safety Measures for High-Speed Craft,SOLAS 第 X 章 高速船安全措施,trade-terms,海事法规公约
+SOLAS Chapter XI-1 Special Measures to Enhance Maritime Safety,SOLAS 第 XI-1 章 加强海上安全的特别措施,trade-terms,海事法规公约
+SOLAS Chapter XI-2 Special Measures to Enhance Maritime Security,SOLAS 第 XI-2 章 加强海上保安的特别措施,trade-terms,海事法规公约
+SOLAS Chapter XII Additional Safety Measures for Bulk Carriers,SOLAS 第 XII 章 散货船附加安全措施,trade-terms,海事法规公约
+SOLAS Chapter XIII Verification of Compliance,SOLAS 第 XIII 章 符合性验证,trade-terms,海事法规公约
+SOLAS Chapter XIV Safety Measures for Ships Operating in Polar Waters,SOLAS 第 XIV 章 极地水域作业船舶安全措施,trade-terms,海事法规公约
+SOLAS Regulation II-1/3-8 Mooring Arrangements,SOLAS II-1/3-8 系泊布置条款,trade-terms,海事法规公约
+SOLAS Regulation II-1/8 Stability in Damaged Condition,SOLAS II-1/8 破损稳性条款,trade-terms,海事法规公约
+SOLAS Regulation II-1/11 Damage Stability Information,SOLAS II-1/11 破损稳性资料条款,trade-terms,海事法规公约
+SOLAS Regulation II-1/19 Electric Power Supply,SOLAS II-1/19 电力供应条款,trade-terms,海事法规公约
+SOLAS Regulation II-1/29 Steering Gear,SOLAS II-1/29 操舵装置条款,trade-terms,海事法规公约
+SOLAS Regulation II-1/40 Command and Control,SOLAS II-1/40 指挥与控制条款,trade-terms,海事法规公约
+SOLAS Regulation II-2/9 Containment of Fire,SOLAS II-2/9 火灾蔓延控制条款,trade-terms,海事法规公约
+SOLAS Regulation II-2/13 Fire Control Plan,SOLAS II-2/13 消防控制图条款,trade-terms,海事法规公约
+SOLAS Regulation II-2/16 Structural Fire Protection,SOLAS II-2/16 结构防火条款,trade-terms,海事法规公约
+SOLAS Regulation II-2/19 Carriage of Dangerous Goods,SOLAS II-2/19 危险货物运输条款,trade-terms,海事法规公约
+SOLAS Regulation III/6 Communications,SOLAS III/6 救生通信设备条款,trade-terms,海事法规公约
+SOLAS Regulation III/7 Personal Life-Saving Appliances,SOLAS III/7 个人救生设备条款,trade-terms,海事法规公约
+SOLAS Regulation III/19 Emergency Training and Drills,SOLAS III/19 应急训练与演习条款,trade-terms,海事法规公约
+SOLAS Regulation III/20 Operational Readiness,SOLAS III/20 救生设备随时可用性条款,trade-terms,海事法规公约
+SOLAS Regulation III/21 Maintenance of Life-Saving Appliances,SOLAS III/21 救生设备维护条款,trade-terms,海事法规公约
+SOLAS Regulation IV/7 Radio Installations,SOLAS IV/7 无线电设备条款,trade-terms,海事法规公约
+SOLAS Regulation V/4 Nautical Charts and Publications,SOLAS V/4 海图与航海出版物条款,trade-terms,海事法规公约
+SOLAS Regulation V/15 Bridge Design,SOLAS V/15 驾驶室设计条款,trade-terms,海事法规公约
+SOLAS Regulation V/17 Electronic Chart Display and Information System,SOLAS V/17 电子海图显示与信息系统条款,trade-terms,海事法规公约
+SOLAS Regulation V/18 Voyage Data Recorder,SOLAS V/18 航行数据记录仪条款,trade-terms,海事法规公约
+SOLAS Regulation V/19 Carriage Requirements for Nautical Instruments,SOLAS V/19 航海仪器配备要求条款,trade-terms,海事法规公约
+SOLAS Regulation V/23 Pilot Transfer Arrangements,SOLAS V/23 引航员登离船布置条款,trade-terms,海事法规公约
+SOLAS Regulation V/26 Voyage Planning,SOLAS V/26 航次计划条款,trade-terms,海事法规公约
+SOLAS Regulation VI/1 Cargo Information,SOLAS VI/1 货物资料条款,trade-terms,海事法规公约
+SOLAS Regulation VI/2 Cargo Securement Manual,SOLAS VI/2 货物系固手册条款,trade-terms,海事法规公约
+SOLAS Regulation VI/5 Stowage and Securing,SOLAS VI/5 货物积载与系固条款,trade-terms,海事法规公约
+SOLAS Regulation VI/7 Loading of Bulk Cargoes,SOLAS VI/7 散货装载条款,trade-terms,海事法规公约
+SOLAS Regulation VII/2 Classification of Dangerous Goods,SOLAS VII/2 危险货物分类条款,trade-terms,海事法规公约
+SOLAS Regulation VII/5 Documentation of Dangerous Goods,SOLAS VII/5 危险货物单证条款,trade-terms,海事法规公约
+SOLAS Regulation IX/1 Definitions,SOLAS IX/1 定义条款,trade-terms,海事法规公约
+SOLAS Regulation XI-1/3 Ship Identification Number,SOLAS XI-1/3 船舶识别号条款,trade-terms,海事法规公约
+SOLAS Regulation XI-1/4 Continuous Synopsis Record,SOLAS XI-1/4 连续概要记录条款,trade-terms,海事法规公约
+SOLAS Regulation XI-1/5 Long-Range Identification and Tracking,SOLAS XI-1/5 远程识别与跟踪条款,trade-terms,海事法规公约
+SOLAS Regulation XI-2/6 Port Facility Requirements,SOLAS XI-2/6 港口设施要求条款,trade-terms,海事法规公约
+SOLAS Regulation XII/12 Hold Water Level Detectors,SOLAS XII/12 货舱水位探测器条款,trade-terms,海事法规公约
+Harmonized System of Survey and Certification (HSSC),检验与发证协调系统,trade-terms,海事法规公约
+SOLAS 2000 Amendments,2000 年 SOLAS 修正案,trade-terms,海事法规公约
+SOLAS Passenger Ship Safety Amendments,SOLAS 客船安全修正案,trade-terms,海事法规公约
+SOLAS Bulk Carrier Safety Amendments,SOLAS 散货船安全修正案,trade-terms,海事法规公约
+SOLAS Container Mass Verification Amendments,SOLAS 集装箱毛重核实修正案,trade-terms,海事法规公约
+Verified Gross Mass (VGM),集装箱载货总重核实,trade-terms,海事法规公约
+SOLAS Lifeboat On-Load Release Amendments,SOLAS 救生艇带负荷释放装置修正案,trade-terms,海事法规公约
+SOLAS Ro-Ro Space Safety Amendments,SOLAS 滚装处所安全修正案,trade-terms,海事法规公约
+International Convention on Load Lines (LL 66),1966 年国际载重线公约,trade-terms,海事法规公约
+Load Lines Protocol of 1988,1988 年载重线公约议定书,trade-terms,海事法规公约
+Load Line Certificate,载重线证书,trade-terms,海事法规公约
+International Load Line Exemption Certificate,国际载重线免除证书,trade-terms,海事法规公约
+Summer Load Line,夏季载重线,trade-terms,海事法规公约
+Winter Load Line,冬季载重线,trade-terms,海事法规公约
+Tropical Load Line,热带载重线,trade-terms,海事法规公约
+Fresh Water Load Line,淡水载重线,trade-terms,海事法规公约
+Timber Load Line,木材载重线,trade-terms,海事法规公约
+Load Line Marks,载重线标志,trade-terms,海事法规公约
+Convention on the International Regulations for Preventing Collisions at Sea (COLREG 72),1972 年国际海上避碰规则公约,trade-terms,海事法规公约
+COLREG Steering and Sailing Rules,避碰规则 航行与操纵规则,trade-terms,海事法规公约
+COLREG Lights and Shapes,避碰规则 号灯与号型,trade-terms,海事法规公约
+COLREG Sound and Light Signals,避碰规则 声响与灯光信号,trade-terms,海事法规公约
+Traffic Separation Scheme,分道通航制,trade-terms,海事法规公约
+Ships' Routeing Systems,船舶定线制,trade-terms,海事法规公约
+International Convention on Tonnage Measurement of Ships (TONNAGE 69),1969 年国际船舶吨位丈量公约,trade-terms,海事法规公约
+International Tonnage Certificate (1969),国际吨位证书（1969）,trade-terms,海事法规公约
+Gross Tonnage,总吨位,trade-terms,海事法规公约
+Net Tonnage,净吨位,trade-terms,海事法规公约
+Compensated Gross Tonnage (CGT),折算总吨,trade-terms,海事法规公约
+International Convention for the Control and Management of Ships' Ballast Water and Sediments (BWM Convention),2004 年国际船舶压载水及沉积物控制和管理公约,trade-terms,海事法规公约
+Ballast Water Management Plan,压载水管理计划,trade-terms,海事法规公约
+Ballast Water Record Book,压载水记录簿,trade-terms,海事法规公约
+Ballast Water Exchange Standard (D-1),压载水置换标准（D-1）,trade-terms,海事法规公约
+Ballast Water Performance Standard (D-2),压载水排放性能标准（D-2）,trade-terms,海事法规公约
+Ballast Water Treatment System,压载水处理系统,trade-terms,海事法规公约
+Ballast Water Convention Phase-In Schedule,压载水公约分阶段生效安排,trade-terms,海事法规公约
+International Ballast Water Management Certificate,国际压载水管理证书,trade-terms,海事法规公约
+Ballast Water Risk Assessment,压载水风险评估,trade-terms,海事法规公约
+Invasive Aquatic Species,外来水生物种入侵,trade-terms,海事法规公约
+Ballast Water Exemptions,压载水公约豁免,trade-terms,海事法规公约
+Convention on the Control of Harmful Anti-Fouling Systems on Ships (AFS Convention),控制船舶有害防污底系统公约,trade-terms,海事法规公约
+International Anti-Fouling System Certificate,国际防污底系统证书,trade-terms,海事法规公约
+Hong Kong International Convention for the Safe and Environmentally Sound Recycling of Ships (HKC),香港国际安全与无害环境拆船公约,trade-terms,海事法规公约
+Inventory of Hazardous Materials (IHM),有害材料清单,trade-terms,海事法规公约
+International Ready for Recycling Certificate,国际准备拆船证书,trade-terms,海事法规公约
+Document of Authorization to conduct Ship Recycling,拆船作业授权文件,trade-terms,海事法规公约
+Ship Recycling Plan,拆船计划,trade-terms,海事法规公约
+International Convention for the Prevention of Pollution from Ships (MARPOL),国际防止船舶造成污染公约,trade-terms,海事法规公约
+MARPOL Annex I Prevention of Pollution by Oil,MARPOL 附则 I 防止油类污染规则,trade-terms,海事法规公约
+MARPOL Annex II Control of Pollution by Noxious Liquid Substances in Bulk,MARPOL 附则 II 控制散装有毒液体物质污染规则,trade-terms,海事法规公约
+MARPOL Annex III Prevention of Pollution by Harmful Substances Carried in Packaged Form,MARPOL 附则 III 防止海运包装形式有害物质污染规则,trade-terms,海事法规公约
+MARPOL Annex IV Prevention of Pollution by Sewage,MARPOL 附则 IV 防止船舶生活污水污染规则,trade-terms,海事法规公约
+MARPOL Annex V Prevention of Pollution by Garbage,MARPOL 附则 V 防止船舶垃圾污染规则,trade-terms,海事法规公约
+MARPOL Annex VI Prevention of Air Pollution from Ships,MARPOL 附则 VI 防止船舶大气污染规则,trade-terms,海事法规公约
+International Oil Pollution Prevention Certificate (IOPP),国际防止油污证书,trade-terms,海事法规公约
+IOPP Supplement,国际防止油污证书补充资料,trade-terms,海事法规公约
+Oil Record Book Part I,油类记录簿第 I 部分,trade-terms,海事法规公约
+Oil Record Book Part II,油类记录簿第 II 部分,trade-terms,海事法规公约
+Shipboard Oil Pollution Emergency Plan (SOPEP),船上海洋污染应急计划,trade-terms,海事法规公约
+Garbage Record Book,垃圾记录簿,trade-terms,海事法规公约
+Garbage Management Plan,垃圾管理计划,trade-terms,海事法规公约
+Cargo Record Book,货物记录簿,trade-terms,海事法规公约
+Procedure and Arrangements Manual (P&A Manual),程序与布置手册,trade-terms,海事法规公约
+Oily Water Separator (15 ppm),15ppm 油水分离器,trade-terms,海事法规公约
+Oil Discharge Monitoring and Control System (ODMCS),排油监控装置,trade-terms,海事法规公约
+Crude Oil Washing (COW),原油洗舱,trade-terms,海事法规公约
+Inert Gas System,惰性气体系统,trade-terms,海事法规公约
+Segregated Ballast Tanks,专用压载舱,trade-terms,海事法规公约
+Double Hull Requirements,双层船壳要求,trade-terms,海事法规公约
+Emission Control Area (ECA),排放控制区,trade-terms,海事法规公约
+SOx Emission Control Area (SECA),硫氧化物排放控制区,trade-terms,海事法规公约
+NOx Tier III Standards,氮氧化物第三阶段标准,trade-terms,海事法规公约
+0.5% Sulfur Cap,0.5% 燃油硫含量上限,trade-terms,海事法规公约
+Bunker Delivery Note (BDN),燃油交付单,trade-terms,海事法规公约
+Fuel Oil Sample Retention,燃油样品留存要求,trade-terms,海事法规公约
+International Air Pollution Prevention Certificate (IAPP),国际防止大气污染证书,trade-terms,海事法规公约
+International Sewage Pollution Prevention Certificate (ISPP),国际防止生活污水污染证书,trade-terms,海事法规公约
+International Energy Efficiency Certificate (IEEC),国际能效证书,trade-terms,海事法规公约
+Ship Energy Efficiency Management Plan (SEEMP),船舶能效管理计划,trade-terms,海事法规公约
+Energy Efficiency Design Index (EEDI),船舶能效设计指数,trade-terms,海事法规公约
+Energy Efficiency Existing Ship Index (EEXI),现有船能效指数,trade-terms,海事法规公约
+Carbon Intensity Indicator (CII),碳强度指标,trade-terms,海事法规公约
+IMO Data Collection System (DCS),IMO 燃油消耗数据收集系统,trade-terms,海事法规公约
+Statement of Compliance for Fuel Oil Consumption Reporting,燃油消耗报告符合声明,trade-terms,海事法规公约
+Exhaust Gas Cleaning Systems (Scrubbers),废气清洗系统（脱硫塔）,trade-terms,海事法规公约
+Fuel Oil Non-Availability Report (FONAR),无法获得合规燃油告知书,trade-terms,海事法规公约
+Special Area (MARPOL),特殊区域（防污染公约）,trade-terms,海事法规公约
+Particularly Sensitive Sea Area (PSSA),特别敏感海域,trade-terms,海事法规公约
+Port Reception Facilities,港口接收设施,trade-terms,海事法规公约
+Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter (LC 72),1972 年防止倾倒废物及其他物质污染海洋公约,trade-terms,海事法规公约
+London Protocol (1996),1996 年伦敦公约议定书,trade-terms,海事法规公约
+International Convention on Maritime Search and Rescue (SAR 79),1979 年国际海上搜寻救助公约,trade-terms,海事法规公约
+International Convention on Salvage (Salvage 89),1989 年国际救助公约,trade-terms,海事法规公约
+Nairobi International Convention on the Removal of Wrecks (WRC 07),2007 年内罗毕国际残骸清除公约,trade-terms,海事法规公约
+International Convention on Civil Liability for Oil Pollution Damage (CLC 92),1992 年国际油污损害民事责任公约,trade-terms,海事法规公约
+CLC Certificate,油污损害民事责任保险证书,trade-terms,海事法规公约
+International Convention on the Establishment of an International Fund for Compensation for Oil Pollution Damage (FUND 92),1992 年设立国际油污损害赔偿基金公约,trade-terms,海事法规公约
+IOPC Funds,国际油污赔偿基金,trade-terms,海事法规公约
+International Convention on Liability and Compensation for Damage in Connection with the Carriage of Hazardous and Noxious Substances by Sea (HNS Convention),国际海上运输有害有毒物质损害责任及赔偿公约,trade-terms,海事法规公约
+HNS Protocol of 2010,2010 年有害有毒物质公约议定书,trade-terms,海事法规公约
+International Convention on Civil Liability for Bunker Oil Pollution Damage (Bunker Convention 2001),2001 年国际燃油污染损害民事责任公约,trade-terms,海事法规公约
+Convention for the Suppression of Unlawful Acts Against the Safety of Maritime Navigation (SUA Convention),制止危及海上航行安全非法行为公约,trade-terms,海事法规公约
+SUA Protocol of 1988,1988 年制止危及海上航行安全非法行为公约议定书,trade-terms,海事法规公约
+SUA Protocol of 2005,2005 年制止危及海上航行安全非法行为公约议定书,trade-terms,海事法规公约
+Convention Relating to Intervention on the High Seas in Cases of Oil Pollution Casualties (Intervention 69),1969 年国际干预公海油污事故公约,trade-terms,海事法规公约
+Intervention Protocol of 1973,1973 年干预公海非油类物质污染议定书,trade-terms,海事法规公约
+International Convention for Safe Containers (CSC 72),1972 年国际集装箱安全公约,trade-terms,海事法规公约
+CSC Safety Approval Plate,集装箱安全合格牌照,trade-terms,海事法规公约
+CSC Periodic Examination,集装箱定期检验,trade-terms,海事法规公约
+Convention on Facilitation of International Maritime Traffic (FAL 65),1965 年国际便利海上运输公约,trade-terms,海事法规公约
+FAL Committee,便利运输委员会,trade-terms,海事法规公约
+FAL Standard Forms,便利运输公约标准表格,trade-terms,海事法规公约
+Convention on the International Maritime Satellite Organization (IMSO Convention),国际移动卫星组织公约,trade-terms,海事法规公约
+Convention on Limitation of Liability for Maritime Claims (LLMC 76),1976 年海事赔偿责任限制公约,trade-terms,海事法规公约
+Limitation Fund,责任限制基金,trade-terms,海事法规公约
+York-Antwerp Rules,约克-安特卫普规则,trade-terms,海事法规公约
+Hague-Visby Rules,海牙-维斯比规则,trade-terms,海事法规公约
+Hamburg Rules,汉堡规则,trade-terms,海事法规公约
+Rotterdam Rules,鹿特丹规则,trade-terms,海事法规公约
+CMR Convention,国际公路货物运输合同公约,trade-terms,海事法规公约
+CIM Convention,国际铁路货物运输公约,trade-terms,海事法规公约
+UN Convention on International Multimodal Transport (1980),1980 年联合国国际多式联运公约,trade-terms,海事法规公约
+International Convention on Standards of Training Certification and Watchkeeping for Seafarers (STCW 78),1978 年海员培训、发证和值班标准国际公约,trade-terms,海事法规公约
+STCW Code,海员培训、发证和值班标准规则,trade-terms,海事法规公约
+STCW Manila Amendments (2010),STCW 马尼拉修正案（2010）,trade-terms,海事法规公约
+STCW 1995 Amendments,1995 年 STCW 修正案,trade-terms,海事法规公约
+STCW Basic Safety Training,STCW 基本安全培训,trade-terms,海事法规公约
+STCW Certificate of Competency (COC),STCW 适任证书,trade-terms,海事法规公约
+STCW Endorsement Attesting the Issue of a Certificate,STCW 签注,trade-terms,海事法规公约
+STCW White List,STCW 白名单,trade-terms,海事法规公约
+STCW Minimum Rest Hours,STCW 最低休息时间,trade-terms,海事法规公约
+STCW Medical Fitness Standards,STCW 体格检查标准,trade-terms,海事法规公约
+STCW Model Courses,STCW 示范培训课程,trade-terms,海事法规公约
+STCW Chapter II Master and Deck Department,STCW 规则第 II 章 船长与甲板部,trade-terms,海事法规公约
+STCW Chapter III Engine Department,STCW 规则第 III 章 轮机部,trade-terms,海事法规公约
+STCW Chapter IV Radiocommunication Operators,STCW 规则第 IV 章 无线电通信人员,trade-terms,海事法规公约
+STCW Chapter V Special Training Requirements,STCW 规则第 V 章 特殊培训要求,trade-terms,海事法规公约
+STCW Chapter VI Emergency and Safety-Related Training,STCW 规则第 VI 章 应急与安全相关培训,trade-terms,海事法规公约
+STCW Chapter VII Alternative Certification,STCW 规则第 VII 章 替代发证,trade-terms,海事法规公约
+STCW Chapter VIII Watchkeeping Standards,STCW 规则第 VIII 章 值班标准,trade-terms,海事法规公约
+Certificate of Proficiency in Survival Craft and Rescue Boats,救生艇筏与救助艇操纵熟练证书,trade-terms,海事法规公约
+Advanced Fire Fighting Training,高级消防培训,trade-terms,海事法规公约
+Medical First Aid Training,医疗急救培训,trade-terms,海事法规公约
+Basic Training for Oil and Chemical Tanker Cargo Operations,油船与化学品船货物操作基本培训,trade-terms,海事法规公约
+Advanced Training for Oil Tanker Cargo Operations,油船货物操作高级培训,trade-terms,海事法规公约
+Basic Training for Liquefied Gas Tanker Cargo Operations,液化气体船货物操作基本培训,trade-terms,海事法规公约
+GMDSS General Operator Certificate (GOC),全球海上遇险与安全系统通用操作员证书,trade-terms,海事法规公约
+GMDSS Restricted Operator Certificate (ROC),全球海上遇险与安全系统限用操作员证书,trade-terms,海事法规公约
+Maritime Labour Convention (MLC 2006),2006 年海事劳工公约,trade-terms,海事法规公约
+Maritime Labour Certificate,海事劳工证书,trade-terms,海事法规公约
+Declaration of Maritime Labour Compliance (DMLC),海事劳工符合声明,trade-terms,海事法规公约
+DMLC Part I,海事劳工符合声明第 I 部分,trade-terms,海事法规公约
+DMLC Part II,海事劳工符合声明第 II 部分,trade-terms,海事法规公约
+MLC Financial Security Requirements,海事劳工财务担保要求,trade-terms,海事法规公约
+MLC Minimum Age Requirements,海事劳工公约最低年龄要求,trade-terms,海事法规公约
+MLC Medical Certificate,海员健康证书,trade-terms,海事法规公约
+MLC Hours of Work and Hours of Rest,海员工时与休息时间,trade-terms,海事法规公约
+MLC Accommodation Requirements,海员起居舱室要求,trade-terms,海事法规公约
+MLC Repatriation,海员遣返,trade-terms,海事法规公约
+MLC Seafarers Employment Agreement,海员就业协议,trade-terms,海事法规公约
+MLC Wages,海员工资,trade-terms,海事法规公约
+MLC Onboard Complaint Procedures,船上投诉程序,trade-terms,海事法规公约
+MLC Flag State Inspections,船旗国海事劳工检查,trade-terms,海事法规公约
+MLC Port State Control,海事劳工公约港口国监督,trade-terms,海事法规公约
+MLC 2014 Amendments,2014 年海事劳工公约修正案,trade-terms,海事法规公约
+MLC 2022 Amendments,2022 年海事劳工公约修正案,trade-terms,海事法规公约
+ILO Merchant Shipping (Minimum Standards) Convention (C147),国际劳工组织第 147 号商船（最低标准）公约,trade-terms,海事法规公约
+ILO Seafarers Identity Documents Convention (C185),国际劳工组织第 185 号海员身份证件公约,trade-terms,海事法规公约
+International Code for Ships Operating in Polar Waters (Polar Code),国际极地水域营运船舶规则,trade-terms,海事法规公约
+Polar Ship Certificate,极地船舶证书,trade-terms,海事法规公约
+Polar Water Operational Manual (PWOM),极地水域操作手册,trade-terms,海事法规公约
+International Code of Safety for Ships Using Gases or Other Low-Flashpoint Fuels (IGF Code),国际使用气体或其他低闪点燃料船舶安全规则,trade-terms,海事法规公约
+International Code of Safety for High-Speed Craft (HSC Code 2000),2000 年国际高速船安全规则,trade-terms,海事法规公约
+International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk (IGC Code),国际散装运输液化气体船舶构造与设备规则,trade-terms,海事法规公约
+International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk (IBC Code),国际散装运输危险化学品船舶构造与设备规则,trade-terms,海事法规公约
+International Code for the Safe Carriage of Grain in Bulk (International Grain Code),国际散装谷物安全运输规则,trade-terms,海事法规公约
+International Code for Fire Safety Systems (FSS Code),国际消防安全系统规则,trade-terms,海事法规公约
+International Code for Application of Fire Test Procedures (FTP Code),国际耐火试验程序应用规则,trade-terms,海事法规公约
+International Life-Saving Appliance Code (LSA Code),国际救生设备规则,trade-terms,海事法规公约
+International Code on Intact Stability (2008 IS Code),2008 年国际完整稳性规则,trade-terms,海事法规公约
+International Code for the Enhanced Programme of Inspections During Surveys of Bulk Carriers and Oil Tankers (ESP Code),散货船与油船强化检验程序国际规则,trade-terms,海事法规公约
+NOx Technical Code 2008,2008 年氮氧化物技术规则,trade-terms,海事法规公约
+Code of Safe Practice for Cargo Stowage and Securing (CSS Code),货物积载与系固安全操作规范,trade-terms,海事法规公约
+Code of Safe Practice for Ships Carrying Timber Deck Cargoes,木材甲板货运输安全操作规范,trade-terms,海事法规公约
+International Maritime Solid Bulk Cargoes Code (IMSBC Code),国际海运固体散货规则,trade-terms,海事法规公约
+IMSBC Group A Cargoes,IMSBC A 组货物,trade-terms,海事法规公约
+IMSBC Group B Cargoes,IMSBC B 组货物,trade-terms,海事法规公约
+IMSBC Group C Cargoes,IMSBC C 组货物,trade-terms,海事法规公约
+Transportable Moisture Limit (TML),适运水分极限,trade-terms,海事法规公约
+Flow Moisture Point (FMP),流动水分点,trade-terms,海事法规公约
+Cargo Liquefaction,货物液化,trade-terms,海事法规公约
+IMO Standard Marine Communication Phrases (SMCP),IMO 标准航海通信用语,trade-terms,海事法规公约
+International Aeronautical and Maritime Search and Rescue Manual (IAMSAR Manual),国际航空和海上搜寻救助手册,trade-terms,海事法规公约
+IMO/ILO/UNECE Code of Practice for Packing of Cargo Transport Units (CTU Code),IMO/ILO/UNECE 货物运输组件装箱操作规范,trade-terms,海事法规公约
+ISM Code (International Safety Management Code),国际安全管理规则,trade-terms,海事法规公约
+Safety Management System (SMS),安全管理体系,trade-terms,海事法规公约
+Safety and Environmental Protection Policy,安全与环境保护方针,trade-terms,海事法规公约
+Designated Person Ashore (DPA),岸上指定人员,trade-terms,海事法规公约
+Master's Responsibility and Authority,船长责任与权力,trade-terms,海事法规公约
+Master's Overriding Authority,船长绝对权力,trade-terms,海事法规公约
+Safety Management Manual,安全管理手册,trade-terms,海事法规公约
+Document of Compliance (DOC),符合证明,trade-terms,海事法规公约
+Safety Management Certificate (SMC),安全管理证书,trade-terms,海事法规公约
+Interim Document of Compliance,临时符合证明,trade-terms,海事法规公约
+Interim Safety Management Certificate,临时安全管理证书,trade-terms,海事法规公约
+ISM Initial Audit,ISM 初次审核,trade-terms,海事法规公约
+ISM Annual Audit,ISM 年度审核,trade-terms,海事法规公约
+ISM Intermediate Audit,ISM 中间审核,trade-terms,海事法规公约
+ISM Renewal Audit,ISM 换证审核,trade-terms,海事法规公约
+ISM Internal Audit,ISM 内部审核,trade-terms,海事法规公约
+ISM Emergency Preparedness,ISM 应急部署要求,trade-terms,海事法规公约
+ISM Reporting of Non-Conformities Accidents and Hazardous Occurrences,ISM 不符合项事故与险情报告,trade-terms,海事法规公约
+ISM Non-Conformity,ISM 不符合项,trade-terms,海事法规公约
+ISM Major Non-Conformity,ISM 重大不符合项,trade-terms,海事法规公约
+ISM Observation,ISM 审核观察项,trade-terms,海事法规公约
+ISM Corrective Action,ISM 纠正措施,trade-terms,海事法规公约
+ISM Management Review,ISM 管理评审,trade-terms,海事法规公约
+ISM Maintenance of Ship and Equipment,ISM 船舶与设备维护,trade-terms,海事法规公约
+ISPS Code (International Ship and Port Facility Security Code),国际船舶和港口设施保安规则,trade-terms,海事法规公约
+Ship Security Plan (SSP),船舶保安计划,trade-terms,海事法规公约
+Port Facility Security Plan (PFSP),港口设施保安计划,trade-terms,海事法规公约
+Ship Security Assessment (SSA),船舶保安评估,trade-terms,海事法规公约
+Port Facility Security Assessment (PFSA),港口设施保安评估,trade-terms,海事法规公约
+Ship Security Officer (SSO),船舶保安员,trade-terms,海事法规公约
+Company Security Officer (CSO),公司保安员,trade-terms,海事法规公约
+Port Facility Security Officer (PFSO),港口设施保安员,trade-terms,海事法规公约
+Security Levels,保安等级,trade-terms,海事法规公约
+Security Level 1,保安等级 1,trade-terms,海事法规公约
+Security Level 2,保安等级 2,trade-terms,海事法规公约
+Security Level 3,保安等级 3,trade-terms,海事法规公约
+Declaration of Security (DoS),保安声明,trade-terms,海事法规公约
+Ship Security Alert System (SSAS),船舶保安警报系统,trade-terms,海事法规公约
+International Ship Security Certificate (ISSC),国际船舶保安证书,trade-terms,海事法规公约
+Port Facility Statement of Compliance,港口设施符合声明,trade-terms,海事法规公约
+Recognized Security Organization (RSO),经认可的保安组织,trade-terms,海事法规公约
+Security Awareness Training,保安意识培训,trade-terms,海事法规公约
+Designated Security Duties Training,指定保安职责培训,trade-terms,海事法规公约
+Automatic Identification System (AIS),船舶自动识别系统,trade-terms,海事法规公约
+Long-Range Identification and Tracking (LRIT),远程识别与跟踪系统,trade-terms,海事法规公约
+Voyage Data Recorder (VDR),航行数据记录仪,trade-terms,海事法规公约
+Simplified Voyage Data Recorder (S-VDR),简化航行数据记录仪,trade-terms,海事法规公约
+Continuous Synopsis Record (CSR),连续概要记录,trade-terms,海事法规公约
+Ship Identification Number,船舶识别号,trade-terms,海事法规公约
+Global Maritime Distress and Safety System (GMDSS),全球海上遇险与安全系统,trade-terms,海事法规公约
+GMDSS Sea Area A1,海区 A1,trade-terms,海事法规公约
+GMDSS Sea Area A2,海区 A2,trade-terms,海事法规公约
+GMDSS Sea Area A3,海区 A3,trade-terms,海事法规公约
+GMDSS Sea Area A4,海区 A4,trade-terms,海事法规公约
+Emergency Position Indicating Radio Beacon (EPIRB),应急无线电示位标,trade-terms,海事法规公约
+Search and Rescue Radar Transponder (SART),搜救雷达应答器,trade-terms,海事法规公约
+NAVTEX,航行警告接收机,trade-terms,海事法规公约
+Digital Selective Calling (DSC),数字选择性呼叫,trade-terms,海事法规公约
+SafetyNET,国际安全网业务,trade-terms,海事法规公约
+ITU Radio Regulations,国际无线电规则,trade-terms,海事法规公约
+Maritime Mobile Service,水上移动业务,trade-terms,海事法规公约
+Port State Control (PSC),港口国监督,trade-terms,海事法规公约
+Flag State Implementation,船旗国履约,trade-terms,海事法规公约
+PSC Inspection,港口国监督检查,trade-terms,海事法规公约
+PSC Initial Inspection,港口国监督初步检查,trade-terms,海事法规公约
+PSC More Detailed Inspection,港口国监督更详细检查,trade-terms,海事法规公约
+PSC Expanded Inspection,港口国监督扩大检查,trade-terms,海事法规公约
+PSC Deficiency,港口国监督缺陷,trade-terms,海事法规公约
+PSC Detention,港口国监督滞留,trade-terms,海事法规公约
+PSC Detention Release,解除滞留,trade-terms,海事法规公约
+PSC Banning,港口国监督禁入,trade-terms,海事法规公约
+PSC Refusal of Access,拒绝进港,trade-terms,海事法规公约
+PSC Concentrated Inspection Campaign (CIC),集中检查活动,trade-terms,海事法规公约
+Paris Memorandum of Understanding on Port State Control,巴黎港口国监督谅解备忘录,trade-terms,海事法规公约
+Tokyo Memorandum of Understanding on Port State Control,东京港口国监督谅解备忘录,trade-terms,海事法规公约
+Indian Ocean Memorandum of Understanding,印度洋港口国监督谅解备忘录,trade-terms,海事法规公约
+Black Sea Memorandum of Understanding,黑海港口国监督谅解备忘录,trade-terms,海事法规公约
+Caribbean Memorandum of Understanding,加勒比港口国监督谅解备忘录,trade-terms,海事法规公约
+Riyadh Memorandum of Understanding,利雅得港口国监督谅解备忘录,trade-terms,海事法规公约
+Vina del Mar Agreement,比尼亚德尔马协定,trade-terms,海事法规公约
+Abuja Memorandum of Understanding,阿布贾港口国监督谅解备忘录,trade-terms,海事法规公约
+Mediterranean Memorandum of Understanding,地中海港口国监督谅解备忘录,trade-terms,海事法规公约
+US Coast Guard Port State Control,美国海岸警卫队港口国监督,trade-terms,海事法规公约
+Ship Risk Profile,船舶风险等级评定,trade-terms,海事法规公约
+High Risk Ship,高风险船舶,trade-terms,海事法规公约
+Standard Risk Ship,标准风险船舶,trade-terms,海事法规公约
+Low Risk Ship,低风险船舶,trade-terms,海事法规公约
+PSC White Grey and Black Lists,港口国监督白灰黑名单,trade-terms,海事法规公约
+Minimum Safe Manning Certificate,最低安全配员证书,trade-terms,海事法规公约
+PSC Inspection Report,港口国监督检查报告,trade-terms,海事法规公约
+PSC Deficiency Codes,港口国监督缺陷代码,trade-terms,海事法规公约
+PSC Rectification Period,缺陷纠正期限,trade-terms,海事法规公约
+PSC Follow-Up Inspection,港口国监督跟踪检查,trade-terms,海事法规公约
+PSC Guidelines for Inspections,港口国监督检查指南,trade-terms,海事法规公约
+PSC Qualification of Port State Control Officers,港口国监督检查官资格要求,trade-terms,海事法规公约
+PSC Detention Review Panel,滞留复议小组,trade-terms,海事法规公约
+Port State Control Officer,港口国监督检查官,trade-terms,海事法规公约
+Thetis Inspection Database,Thetis 港口国监督检查数据库,trade-terms,海事法规公约
+Directive 2009/16/EC on Port State Control,欧盟港口国监督指令（2009/16/EC）,trade-terms,海事法规公约
+International Association of Classification Societies (IACS),国际船级社协会,trade-terms,海事法规公约
+Classification Society,船级社,trade-terms,海事法规公约
+DNV,挪威船级社 DNV,trade-terms,海事法规公约
+Lloyd's Register (LR),英国劳氏船级社,trade-terms,海事法规公约
+Bureau Veritas (BV),法国船级社,trade-terms,海事法规公约
+American Bureau of Shipping (ABS),美国船级社,trade-terms,海事法规公约
+Nippon Kaiji Kyokai (ClassNK),日本海事协会,trade-terms,海事法规公约
+China Classification Society (CCS),中国船级社,trade-terms,海事法规公约
+Korean Register of Shipping (KR),韩国船级社,trade-terms,海事法规公约
+Registro Italiano Navale (RINA),意大利船级社,trade-terms,海事法规公约
+Russian Maritime Register of Shipping (RS),俄罗斯船级社,trade-terms,海事法规公约
+Indian Register of Shipping (IRS),印度船级社,trade-terms,海事法规公约
+Polski Rejestr Statkow (PRS),波兰船级社,trade-terms,海事法规公约
+Recognized Organization (RO),认可组织,trade-terms,海事法规公约
+Class Certificate,船级证书,trade-terms,海事法规公约
+Class Notation,船级符号,trade-terms,海事法规公约
+Rules for the Classification of Steel Ships,钢质海船入级规范,trade-terms,海事法规公约
+Common Structural Rules for Bulk Carriers and Oil Tankers (CSR),散货船与油船共同结构规范,trade-terms,海事法规公约
+IACS Unified Requirements,国际船级社协会统一要求,trade-terms,海事法规公约
+IACS Unified Interpretations,国际船级社协会统一解释,trade-terms,海事法规公约
+IACS Recommendation,国际船级社协会建议,trade-terms,海事法规公约
+Type Approval Certificate,型式认可证书,trade-terms,海事法规公约
+Statutory Survey,法定检验,trade-terms,海事法规公约
+Class Survey,船级检验,trade-terms,海事法规公约
+Annual Survey,年度检验,trade-terms,海事法规公约
+Intermediate Survey,中间检验,trade-terms,海事法规公约
+Renewal Survey,换证检验,trade-terms,海事法规公约
+Periodical Survey,定期检验,trade-terms,海事法规公约
+Damage Survey,海损检验,trade-terms,海事法规公约
+Condition of Class,船级条件,trade-terms,海事法规公约
+Special Survey,特别检验,trade-terms,海事法规公约
+Bottom Survey,船底检验,trade-terms,海事法规公约
+Machinery Survey,轮机检验,trade-terms,海事法规公约
+Cargo Ship Safety Construction Certificate,货船构造安全证书,trade-terms,海事法规公约
+Cargo Ship Safety Equipment Certificate,货船设备安全证书,trade-terms,海事法规公约
+Cargo Ship Safety Radio Certificate,货船无线电安全证书,trade-terms,海事法规公约
+Passenger Ship Safety Certificate,客船安全证书,trade-terms,海事法规公约
+Record of Equipment,设备记录簿,trade-terms,海事法规公约
+International Certificate of Fitness for the Carriage of Liquefied Gases in Bulk,国际散装运输液化气体适装证书,trade-terms,海事法规公约
+International Certificate of Fitness for the Carriage of Dangerous Chemicals in Bulk,国际散装运输危险化学品适装证书,trade-terms,海事法规公约
+Document of Compliance with the Special Requirements for Ships Carrying Dangerous Goods,危险货物运输船舶特殊要求符合文件,trade-terms,海事法规公约
+Certificate of Registry,船舶登记证书,trade-terms,海事法规公约
+Safe Manning Document,安全配员文件,trade-terms,海事法规公约
+Exemption Certificate (SOLAS I/4),SOLAS 免除证书,trade-terms,海事法规公约
+Muster List,应变部署表,trade-terms,海事法规公约
+Fire Drill,消防演习,trade-terms,海事法规公约
+Abandon Ship Drill,弃船演习,trade-terms,海事法规公约
+Enclosed Space Entry Procedures,封闭处所进入程序,trade-terms,海事法规公约
+Hot Work Permit,热工作业许可,trade-terms,海事法规公约
+Permit to Work System,作业许可制度,trade-terms,海事法规公约
+Risk Assessment,风险评估,trade-terms,海事法规公约
+Casualty Investigation Code,事故调查规则,trade-terms,海事法规公约
+Marine Casualty,海难事故,trade-terms,海事法规公约
+Near Miss,险情未遂事故,trade-terms,海事法规公约
+International Hydrographic Organization (IHO),国际海道测量组织,trade-terms,海事法规公约
+International Association of Marine Aids to Navigation and Lighthouse Authorities (IALA),国际航标协会,trade-terms,海事法规公约
+IALA Maritime Buoyage System,IALA 海上浮标制度,trade-terms,海事法规公约
+World Meteorological Organization (WMO),世界气象组织,trade-terms,海事法规公约
+International Health Regulations (IHR),国际卫生条例,trade-terms,海事法规公约
+Ship Sanitation Control Exemption Certificate,船舶卫生控制免除证书,trade-terms,海事法规公约
+Global Integrated Shipping Information System (GSIS),全球综合航运信息系统,trade-terms,海事法规公约
+Equasis Database,Equasis 船舶信息数据库,trade-terms,海事法规公约
+Special Trade Passenger Ships Agreement (STP 71),1971 年特种业务客船协定,trade-terms,海事法规公约
+Protocol on Space Requirements for Special Trade Passenger Ships (1973),1973 年特种业务客船船舱要求议定书,trade-terms,海事法规公约
+Cape Town Agreement of 2012,2012 年开普敦协定,trade-terms,海事法规公约
+IMO Guidelines on Fatigue,IMO 疲劳管理指南,trade-terms,海事法规公约

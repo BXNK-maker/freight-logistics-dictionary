@@ -1,0 +1,401 @@
+term_en,term_zh,category,subcategory
+Charter Party,租船合同,trade-terms,租船与租箱
+Voyage Charter,航次租船,trade-terms,租船与租箱
+Time Charter,定期租船,trade-terms,租船与租箱
+Bareboat Charter,光船租赁,trade-terms,租船与租箱
+Demise Charter,过户式光租,trade-terms,租船与租箱
+Contract of Affreightment (COA),包运合同,trade-terms,租船与租箱
+Spot Charter,即期租船,trade-terms,租船与租箱
+Trip Charter,单航次租船,trade-terms,租船与租箱
+Round Voyage Charter,往返航次租船,trade-terms,租船与租箱
+Consecutive Voyage Charter,连续航次租船,trade-terms,租船与租箱
+Time Charter Trip (TCT),单航次期租,trade-terms,租船与租箱
+Period Charter,期租合同,trade-terms,租船与租箱
+Long-term Charter,长期租船,trade-terms,租船与租箱
+Short-term Charter,短期租船,trade-terms,租船与租箱
+Sub-charter,转租,trade-terms,租船与租箱
+Relet,再出租,trade-terms,租船与租箱
+Relet Clause,转租条款,trade-terms,租船与租箱
+Slot Charter,舱位租赁,trade-terms,租船与租箱
+Space Charter,舱位租用,trade-terms,租船与租箱
+NYPE Form,纽约土产交易所期租格式,trade-terms,租船与租箱
+NYPE 93 Form,1993年纽约土产格式,trade-terms,租船与租箱
+Baltime Form,波尔的姆期租格式,trade-terms,租船与租箱
+GENCON Form,金康航次租船格式,trade-terms,租船与租箱
+BIMCO Standard Charter Party,BIMCO标准租船合同,trade-terms,租船与租箱
+ASBATANKVOY Form,油轮航次租船格式,trade-terms,租船与租箱
+Charter Party Terms,租约条款,trade-terms,租船与租箱
+Fixture Note,成交备忘录,trade-terms,租船与租箱
+Recap,成交摘要,trade-terms,租船与租箱
+Rider Clauses,附加条款,trade-terms,租船与租箱
+Side Letter,附加函,trade-terms,租船与租箱
+Laytime,装卸时间,trade-terms,租船与租箱
+Laytime Allowance,允许装卸时间,trade-terms,租船与租箱
+Laytime Commencement,装卸时间起算,trade-terms,租船与租箱
+Laytime Calculation,装卸时间计算,trade-terms,租船与租箱
+Statement of Facts (SOF),事实记录,trade-terms,租船与租箱
+Demurrage,滞期费,trade-terms,租船与租箱
+Demurrage Rate,滞期费率,trade-terms,租船与租箱
+Demurrage on Loading,装货滞期费,trade-terms,租船与租箱
+Demurrage on Discharging,卸货滞期费,trade-terms,租船与租箱
+Once on Demurrage Always on Demurrage,一旦滞期永远滞期,trade-terms,租船与租箱
+Demurrage Claim,滞期费索赔,trade-terms,租船与租箱
+Despatch Money,速遣费,trade-terms,租船与租箱
+All Time Saved (ATS),节省全部时间,trade-terms,租船与租箱
+Working Time Saved (WTS),节省工作时间,trade-terms,租船与租箱
+Weather Working Day (WWD),晴天工作日,trade-terms,租船与租箱
+Working Day,工作日,trade-terms,租船与租箱
+Running Days,连续日,trade-terms,租船与租箱
+Sundays and Holidays Excepted (SHEX),星期日节假日除外,trade-terms,租船与租箱
+Sundays and Holidays Included (SHINC),星期日节假日包括,trade-terms,租船与租箱
+Notice of Readiness (NOR),装卸准备就绪通知书,trade-terms,租船与租箱
+WIBON (Whether in Berth or Not),不论是否靠泊,trade-terms,租船与租箱
+WIPON (Whether in Port or Not),不论是否在港,trade-terms,租船与租箱
+WCCON (Whether Customs Cleared or Not),不论是否结关,trade-terms,租船与租箱
+WIFPON (Whether in Free Pratique or Not),不论是否检疫通过,trade-terms,租船与租箱
+Free Pratique,检疫放行,trade-terms,租船与租箱
+Customary Quick Despatch (CQD),惯常快速装卸,trade-terms,租船与租箱
+Always Afloat,始终浮泊,trade-terms,租船与租箱
+Always Accessible,泊位始终可用,trade-terms,租船与租箱
+Loading Rate,装货率,trade-terms,租船与租箱
+Discharging Rate,卸货率,trade-terms,租船与租箱
+Cesser Clause,责任终止条款,trade-terms,租船与租箱
+Cesser and Lien Clause,责任终止与留置权条款,trade-terms,租船与租箱
+Lien on Cargo,货物留置权,trade-terms,租船与租箱
+Off-hire,停租,trade-terms,租船与租箱
+Off-hire Clause,停租条款,trade-terms,租船与租箱
+Off-hire Period,停租期间,trade-terms,租船与租箱
+Deduction from Hire,租金扣减,trade-terms,租船与租箱
+Off-hire Survey,还船检验,trade-terms,租船与租箱
+On-hire,起租,trade-terms,租船与租箱
+On-hire Survey,起租检验,trade-terms,租船与租箱
+On-hire Date,起租日期,trade-terms,租船与租箱
+Hire Rate,租金率,trade-terms,租船与租箱
+Hire Payment,租金支付,trade-terms,租船与租箱
+Advance Hire,预付租金,trade-terms,租船与租箱
+Daily Hire,日租金,trade-terms,租船与租箱
+Delivery Port,交船港,trade-terms,租船与租箱
+Delivery Area,交船区域,trade-terms,租船与租箱
+Redelivery,还船,trade-terms,租船与租箱
+Redelivery Port,还船港,trade-terms,租船与租箱
+Redelivery Area,还船区域,trade-terms,租船与租箱
+Redelivery Condition,还船船况,trade-terms,租船与租箱
+Charter Period,租期,trade-terms,租船与租箱
+Late Redelivery,延迟还船,trade-terms,租船与租箱
+Speed and Consumption Warranty,航速与油耗保证,trade-terms,租船与租箱
+Speed Warranty,航速保证,trade-terms,租船与租箱
+Speed Claim,航速索赔,trade-terms,租船与租箱
+Performance Claim,性能索赔,trade-terms,租船与租箱
+Good Weather Condition,良好天气条件,trade-terms,租船与租箱
+Stevedore,装卸承包商,trade-terms,租船与租箱
+Cargo Handling Rate,货物装卸效率,trade-terms,租船与租箱
+Bunker Clause,燃油条款,trade-terms,租船与租箱
+Bunkers on Delivery,交船燃油,trade-terms,租船与租箱
+Bunkers on Redelivery,还船燃油,trade-terms,租船与租箱
+Bunker Survey,燃油量检验,trade-terms,租船与租箱
+Bunker Delivery Note (BDN),燃油交付单,trade-terms,租船与租箱
+Intermediate Fuel Oil (IFO),中间燃料油,trade-terms,租船与租箱
+Very Low Sulphur Fuel Oil (VLSFO),超低硫燃料油,trade-terms,租船与租箱
+High Sulphur Fuel Oil (HSFO),高硫燃料油,trade-terms,租船与租箱
+Remain on Board (ROB),船上剩余油量,trade-terms,租船与租箱
+Ice Clause,冰冻条款,trade-terms,租船与租箱
+War Risks Clause,战争风险条款,trade-terms,租船与租箱
+Strike Clause,罢工条款,trade-terms,租船与租箱
+Deviation Clause,绕航条款,trade-terms,租船与租箱
+Agency Clause,代理条款,trade-terms,租船与租箱
+Owners Agent,船东代理,trade-terms,租船与租箱
+Charterers Agent,租家代理,trade-terms,租船与租箱
+Freight Clause,运费条款,trade-terms,租船与租箱
+Deadfreight,亏舱费,trade-terms,租船与租箱
+Lumpsum Freight,包干运费,trade-terms,租船与租箱
+Address Commission,账面回佣,trade-terms,租船与租箱
+Brokerage,经纪佣金,trade-terms,租船与租箱
+Dispatch Commission,速遣佣金,trade-terms,租船与租箱
+Cargo Worthiness,适货性,trade-terms,租船与租箱
+Seaworthiness,适航性,trade-terms,租船与租箱
+Trading Limits,航行范围,trade-terms,租船与租箱
+Trading Restrictions,航行限制,trade-terms,租船与租箱
+Hull and Machinery Insurance,船舶保险,trade-terms,租船与租箱
+Protection and Indemnity Insurance (P&I),保赔保险,trade-terms,租船与租箱
+Cargo Claims,货损索赔,trade-terms,租船与租箱
+Inter-Club Agreement,俱乐部间分摊协议,trade-terms,租船与租箱
+Paramount Clause,首要条款,trade-terms,租船与租箱
+Hague-Visby Rules,海牙-维斯比规则,trade-terms,租船与租箱
+Both-to-Blame Collision Clause,双方互有过失碰撞条款,trade-terms,租船与租箱
+New Jason Clause,新杰森条款,trade-terms,租船与租箱
+General Average,共同海损,trade-terms,租船与租箱
+Salvage Clause,救助条款,trade-terms,租船与租箱
+Dry Docking,进坞修理,trade-terms,租船与租箱
+Class Society,船级社,trade-terms,租船与租箱
+Ice Class,冰级,trade-terms,租船与租箱
+Laid-up Vessel,封存船舶,trade-terms,租船与租箱
+Lay-up Clause,封船条款,trade-terms,租船与租箱
+Cold Lay-up,冷封存,trade-terms,租船与租箱
+Reactivation,重新启用,trade-terms,租船与租箱
+Ship-to-Ship Transfer (STS),船对船过驳,trade-terms,租船与租箱
+Lightering,过驳减载,trade-terms,租船与租箱
+Off-port Limits (OPL),港外锚地,trade-terms,租船与租箱
+Bunkering Port,加油港,trade-terms,租船与租箱
+Anchorage,锚地,trade-terms,租船与租箱
+Waiting Time for Berth,等泊时间,trade-terms,租船与租箱
+Port Congestion,港口拥堵,trade-terms,租船与租箱
+Port Time,在港时间,trade-terms,租船与租箱
+Turnaround Time,周转时间,trade-terms,租船与租箱
+Stem,受载确认,trade-terms,租船与租箱
+Stemmed Cargo,已确认受载货物,trade-terms,租船与租箱
+Voyage Instructions,航次指令,trade-terms,租船与租箱
+Nomination,指定,trade-terms,租船与租箱
+Vessel Nomination,指定船舶,trade-terms,租船与租箱
+Cargo Nomination,指定货载,trade-terms,租船与租箱
+Substitute Vessel,替代船舶,trade-terms,租船与租箱
+Draft Survey,水尺计重,trade-terms,租船与租箱
+Final Draft Survey,末次水尺检验,trade-terms,租船与租箱
+Loadline,载重线,trade-terms,租船与租箱
+Plimsoll Mark,载重线标志,trade-terms,租船与租箱
+Deadweight Tonnage (DWT),载重吨,trade-terms,租船与租箱
+Gross Tonnage (GT),总吨位,trade-terms,租船与租箱
+Net Tonnage (NT),净吨位,trade-terms,租船与租箱
+Grain Capacity,谷物舱容,trade-terms,租船与租箱
+Bale Capacity,包装货舱容,trade-terms,租船与租箱
+Cubic Capacity,舱室容积,trade-terms,租船与租箱
+Stowage Factor,积载因数,trade-terms,租船与租箱
+Length Overall (LOA),船舶总长,trade-terms,租船与租箱
+Beam,船宽,trade-terms,租船与租箱
+Draught,吃水,trade-terms,租船与租箱
+Summer Deadweight,夏季载重吨,trade-terms,租船与租箱
+Summer Draft,夏季吃水,trade-terms,租船与租箱
+Scantling Draft,结构吃水,trade-terms,租船与租箱
+Suez Canal Tonnage,苏伊士运河吨位,trade-terms,租船与租箱
+Panama Canal Tonnage,巴拿马运河吨位,trade-terms,租船与租箱
+TEU Capacity,集装箱载量,trade-terms,租船与租箱
+Gearless Vessel,无吊设备船,trade-terms,租船与租箱
+Geared Vessel,有吊设备船,trade-terms,租船与租箱
+Vessel Particulars,船舶规范,trade-terms,租船与租箱
+IMO Number,国际海事组织编号,trade-terms,租船与租箱
+Call Sign,船舶呼号,trade-terms,租船与租箱
+Flag State,船旗国,trade-terms,租船与租箱
+Port of Registry,船籍港,trade-terms,租船与租箱
+Shipbroker,船舶经纪人,trade-terms,租船与租箱
+Chartering Broker,租船经纪人,trade-terms,租船与租箱
+Chartering Manager,租船经理,trade-terms,租船与租箱
+Shipowner,船东,trade-terms,租船与租箱
+Registered Owner,登记船东,trade-terms,租船与租箱
+Disponent Owner,二船东,trade-terms,租船与租箱
+Charterer,租船人,trade-terms,租船与租箱
+Cargo Owner,货主,trade-terms,租船与租箱
+Fixture,成交,trade-terms,租船与租箱
+Main Terms,主要条款,trade-terms,租船与租箱
+Subs (Subjects),附条件成交,trade-terms,租船与租箱
+Subject Details,细节待定,trade-terms,租船与租箱
+Lifting of Subjects,条件解除生效,trade-terms,租船与租箱
+Offer,报盘,trade-terms,租船与租箱
+Counter Offer,还盘,trade-terms,租船与租箱
+Firm Offer,实盘,trade-terms,租船与租箱
+Enquiry,询价,trade-terms,租船与租箱
+Quotation,报价,trade-terms,租船与租箱
+Open Market,公开市场,trade-terms,租船与租箱
+Spot Market,即期市场,trade-terms,租船与租箱
+Period Market,期租市场,trade-terms,租船与租箱
+Dry Market,干散货市场,trade-terms,租船与租箱
+Wet Market,油轮市场,trade-terms,租船与租箱
+Market Rate,市场运价,trade-terms,租船与租箱
+Market Report,市场报告,trade-terms,租船与租箱
+Firm Market,坚挺市场,trade-terms,租船与租箱
+Soft Market,疲软市场,trade-terms,租船与租箱
+Bull Market,上涨行情,trade-terms,租船与租箱
+Bear Market,下跌行情,trade-terms,租船与租箱
+Freight Rate,运价,trade-terms,租船与租箱
+Freight Market,运价市场,trade-terms,租船与租箱
+Peak Season,旺季,trade-terms,租船与租箱
+Low Season,淡季,trade-terms,租船与租箱
+Prompt Ship,即期空船,trade-terms,租船与租箱
+Position List,船位清单,trade-terms,租船与租箱
+Cargo List,货载清单,trade-terms,租船与租箱
+Open Ship,待租空船,trade-terms,租船与租箱
+Ballast Position,压载船位,trade-terms,租船与租箱
+Shipping Position,航运供需态势,trade-terms,租船与租箱
+Tonnage Supply,运力供给,trade-terms,租船与租箱
+Tonnage Demand,运力需求,trade-terms,租船与租箱
+Shipping Pool,航运联营体,trade-terms,租船与租箱
+Pool Agreement,联营协议,trade-terms,租船与租箱
+Pool Manager,联营管理人,trade-terms,租船与租箱
+Pool Earnings,联营收益,trade-terms,租船与租箱
+Commercial Management,商务管理,trade-terms,租船与租箱
+Ship Management,船舶管理,trade-terms,租船与租箱
+Chartering Commission,租船佣金,trade-terms,租船与租箱
+Worldscale (WS),世界油轮运价表,trade-terms,租船与租箱
+Worldscale Rate,世界油轮费率,trade-terms,租船与租箱
+Flat Rate,基准运价,trade-terms,租船与租箱
+Baltic Exchange,波罗的海交易所,trade-terms,租船与租箱
+Baltic Dry Index (BDI),波罗的海干散货指数,trade-terms,租船与租箱
+Baltic Capesize Index (BCI),波罗的海海岬型船指数,trade-terms,租船与租箱
+Baltic Panamax Index (BPI),波罗的海巴拿马型船指数,trade-terms,租船与租箱
+Baltic Supramax Index (BSI),波罗的海超灵便型船指数,trade-terms,租船与租箱
+Baltic Handysize Index (BHSI),波罗的海小灵便型船指数,trade-terms,租船与租箱
+Baltic Dirty Tanker Index (BDTI),波罗的海原油运价指数,trade-terms,租船与租箱
+Baltic Clean Tanker Index (BCTI),波罗的海成品油运价指数,trade-terms,租船与租箱
+Baltic Assessment,波罗的海运价评估,trade-terms,租船与租箱
+Baltic Route,波罗的海评估航线,trade-terms,租船与租箱
+Capesize,海岬型散货船,trade-terms,租船与租箱
+Panamax,巴拿马型散货船,trade-terms,租船与租箱
+Kamsarmax,喀麦隆型散货船,trade-terms,租船与租箱
+Newcastlemax,纽卡斯尔型散货船,trade-terms,租船与租箱
+Supramax,超灵便型散货船,trade-terms,租船与租箱
+Ultramax,极限灵便型散货船,trade-terms,租船与租箱
+Handymax,灵便型散货船,trade-terms,租船与租箱
+Handysize,小灵便型散货船,trade-terms,租船与租箱
+VLCC,超大型原油轮,trade-terms,租船与租箱
+Suezmax,苏伊士型油轮,trade-terms,租船与租箱
+Aframax,阿芙拉型油轮,trade-terms,租船与租箱
+LNG Carrier,液化天然气船,trade-terms,租船与租箱
+LPG Carrier,液化石油气船,trade-terms,租船与租箱
+Very Large Gas Carrier (VLGC),超大型液化气船,trade-terms,租船与租箱
+Chemical Tanker,化学品船,trade-terms,租船与租箱
+Product Tanker,成品油轮,trade-terms,租船与租箱
+Crude Oil Tanker,原油轮,trade-terms,租船与租箱
+Bulk Carrier,散货船,trade-terms,租船与租箱
+Container Vessel,集装箱船,trade-terms,租船与租箱
+General Cargo Vessel,杂货船,trade-terms,租船与租箱
+Ro-Ro Vessel,滚装船,trade-terms,租船与租箱
+Ore Carrier,矿砂船,trade-terms,租船与租箱
+Multipurpose Vessel (MPP),多用途船,trade-terms,租船与租箱
+Heavy Lift Vessel,重吊船,trade-terms,租船与租箱
+Time Charter Equivalent (TCE),等效期租租金,trade-terms,租船与租箱
+TCE Rate,等效期租日租金,trade-terms,租船与租箱
+Shanghai Containerized Freight Index (SCFI),上海出口集装箱运价指数,trade-terms,租船与租箱
+Container Leasing,集装箱租赁,trade-terms,租船与租箱
+Container Leasing Company,租箱公司,trade-terms,租船与租箱
+Container Lessor,集装箱出租人,trade-terms,租船与租箱
+Container Lessee,集装箱承租人,trade-terms,租船与租箱
+Box Owner,箱东,trade-terms,租船与租箱
+Master Lease Agreement,总租箱协议,trade-terms,租船与租箱
+Floating Lease,浮动租箱协议,trade-terms,租船与租箱
+Fixed Term Lease,固定期租箱协议,trade-terms,租船与租箱
+Long-term Lease,长期租箱,trade-terms,租船与租箱
+Short-term Lease,短期租箱,trade-terms,租船与租箱
+Spot Lease,即期租箱,trade-terms,租船与租箱
+One-way Lease,单向租箱协议,trade-terms,租船与租箱
+Round Trip Lease,往返租箱协议,trade-terms,租船与租箱
+Lease Rate,租箱费率,trade-terms,租船与租箱
+Per Diem Rate,日租费率,trade-terms,租船与租箱
+Pickup Charge,提箱费,trade-terms,租船与租箱
+Drop-off Charge,还箱费,trade-terms,租船与租箱
+Repositioning Fee,调箱费,trade-terms,租船与租箱
+Empty Repositioning,空箱调运,trade-terms,租船与租箱
+Leasing Pool,租箱联营池,trade-terms,租船与租箱
+Box Pool,箱池,trade-terms,租船与租箱
+Interchange,箱体交接,trade-terms,租船与租箱
+Interchange Agreement,箱体交接协议,trade-terms,租船与租箱
+Equipment Interchange Receipt (EIR),设备交接单,trade-terms,租船与租箱
+Container On-hire Survey,集装箱起租检验,trade-terms,租船与租箱
+Container Off-hire Survey,集装箱还租检验,trade-terms,租船与租箱
+Container On-hire Date,集装箱起租日期,trade-terms,租船与租箱
+Container Off-hire Date,集装箱还租日期,trade-terms,租船与租箱
+Container Redelivery Survey,集装箱还箱检验,trade-terms,租船与租箱
+Damage Survey,箱损检验,trade-terms,租船与租箱
+Damage Report,箱损报告,trade-terms,租船与租箱
+Damage Liability,箱损责任,trade-terms,租船与租箱
+Wear and Tear,自然损耗,trade-terms,租船与租箱
+Repair Charge,修理费,trade-terms,租船与租箱
+Repair Estimate,修理估价单,trade-terms,租船与租箱
+Container Repair,集装箱修理,trade-terms,租船与租箱
+Maintenance and Repair (M&R),维护与修理,trade-terms,租船与租箱
+Reefer Lease,冷藏箱租赁,trade-terms,租船与租箱
+Leasing Depot,租箱堆场,trade-terms,租船与租箱
+Container Depot,集装箱堆场,trade-terms,租船与租箱
+Depot Survey,堆场检验,trade-terms,租船与租箱
+Storage Charge,堆存费,trade-terms,租船与租箱
+Empty Depot,空箱堆场,trade-terms,租船与租箱
+Container Demurrage,集装箱滞箱费,trade-terms,租船与租箱
+Detention,滞留费,trade-terms,租船与租箱
+Free Time,免费用箱期,trade-terms,租船与租箱
+Combined Free Time,合并免费期,trade-terms,租船与租箱
+Detention and Demurrage (D&D),滞留与滞箱费,trade-terms,租船与租箱
+Lease Termination,租约终止,trade-terms,租船与租箱
+Lease Extension,租约展期,trade-terms,租船与租箱
+Surrender of Container,集装箱交还,trade-terms,租船与租箱
+Buyout,租箱买断,trade-terms,租船与租箱
+Purchase Option,购箱选择权,trade-terms,租船与租箱
+Residual Value,箱体残值,trade-terms,租船与租箱
+Restricted Area,限制流通区域,trade-terms,租船与租箱
+Redelivery Location,还箱地点,trade-terms,租船与租箱
+Container Inventory,集装箱库存,trade-terms,租船与租箱
+Inventory Management,库存管理,trade-terms,租船与租箱
+Container Fleet Management,集装箱箱队管理,trade-terms,租船与租箱
+IICL,国际集装箱出租人协会,trade-terms,租船与租箱
+CSC Plate,集装箱安全公约标牌,trade-terms,租船与租箱
+ACEP,经批准的持续检验计划,trade-terms,租船与租箱
+One-trip Container,一次航程新箱,trade-terms,租船与租箱
+Cargo Worthy,适货状态,trade-terms,租船与租箱
+Cargo Worthy Container,适货集装箱,trade-terms,租船与租箱
+Wind and Watertight,风雨密状态,trade-terms,租船与租箱
+Grade A Container,A级集装箱,trade-terms,租船与租箱
+Container Surveyor,集装箱检验员,trade-terms,租船与租箱
+Pre-trip Inspection (PTI),冷箱行前检验,trade-terms,租船与租箱
+Reefer Genset,冷藏箱发电机组,trade-terms,租船与租箱
+Temperature Recording,温度记录,trade-terms,租船与租箱
+Data Logger,温度记录仪,trade-terms,租船与租箱
+Container Tracking,集装箱追踪,trade-terms,租船与租箱
+Surplus Boxes,富余箱量,trade-terms,租船与租箱
+Container Shortage,缺箱,trade-terms,租船与租箱
+Container Surplus,箱量过剩,trade-terms,租船与租箱
+Equipment Supply,箱源供应,trade-terms,租船与租箱
+Equipment Demand,箱源需求,trade-terms,租船与租箱
+Shipper Owned Container (SOC),货主自有箱,trade-terms,租船与租箱
+Carrier Owned Container (COC),承运人自有箱,trade-terms,租船与租箱
+Sailing Schedule,船期表,trade-terms,租船与租箱
+Voyage Schedule,航次计划,trade-terms,租船与租箱
+Weekly Service,每周班次,trade-terms,租船与租箱
+Service Frequency,班次频率,trade-terms,租船与租箱
+Service Loop,服务环线,trade-terms,租船与租箱
+Port Rotation,挂港顺序,trade-terms,租船与租箱
+Port Call,挂港,trade-terms,租船与租箱
+Direct Call,直挂,trade-terms,租船与租箱
+Transshipment,转船运输,trade-terms,租船与租箱
+Transshipment Port,转运港,trade-terms,租船与租箱
+Hub Port,枢纽港,trade-terms,租船与租箱
+Feeder Service,支线服务,trade-terms,租船与租箱
+Feeder Vessel,支线船,trade-terms,租船与租箱
+Mother Vessel,母船,trade-terms,租船与租箱
+Mainline Vessel,干线船,trade-terms,租船与租箱
+Slot Charter Agreement,舱位租用协议,trade-terms,租船与租箱
+Slot Exchange Agreement,舱位互换协议,trade-terms,租船与租箱
+Slot Exchange,舱位互换,trade-terms,租船与租箱
+Slot Purchase,舱位购买,trade-terms,租船与租箱
+Slot Allocation,舱位分配,trade-terms,租船与租箱
+Vessel Sharing Agreement (VSA),船舶共享协议,trade-terms,租船与租箱
+Space Booking,舱位预订,trade-terms,租船与租箱
+Booking,订舱,trade-terms,租船与租箱
+Booking Confirmation,订舱确认,trade-terms,租船与租箱
+Overbooking,超额订舱,trade-terms,租船与租箱
+Rolled Cargo,甩柜货物,trade-terms,租船与租箱
+Shut-out Cargo,退关货物,trade-terms,租船与租箱
+Cut-off Time,截关时间,trade-terms,租船与租箱
+CY Cut-off,截重柜时间,trade-terms,租船与租箱
+Documentation Cut-off,截单时间,trade-terms,租船与租箱
+SI Cut-off,截提单补料时间,trade-terms,租船与租箱
+VGM Cut-off,截核实载重时间,trade-terms,租船与租箱
+Port Cut-off,截港时间,trade-terms,租船与租箱
+ETA (Estimated Time of Arrival),预计到达时间,trade-terms,租船与租箱
+ETD (Estimated Time of Departure),预计离港时间,trade-terms,租船与租箱
+Berth Window,泊位时间窗,trade-terms,租船与租箱
+Berth Allocation,泊位分配,trade-terms,租船与租箱
+Vessel Delay,船期延误,trade-terms,租船与租箱
+Schedule Reliability,船期可靠性,trade-terms,租船与租箱
+Omission,跳港,trade-terms,租船与租箱
+Voyage Number,航次号,trade-terms,租船与租箱
+Vessel Tracking,船舶跟踪,trade-terms,租船与租箱
+AIS (Automatic Identification System),船舶自动识别系统,trade-terms,租船与租箱
+Service String,航线组,trade-terms,租船与租箱
+Transit Time,航程时间,trade-terms,租船与租箱
+Port of Loading (POL),装货港,trade-terms,租船与租箱
+Port of Discharge (POD),卸货港,trade-terms,租船与租箱
+Pre-carriage,前程运输,trade-terms,租船与租箱
+Liner Terms,班轮条款,trade-terms,租船与租箱
+Stowage Plan,配载图,trade-terms,租船与租箱
+Container Yard (CY),集装箱码头堆场,trade-terms,租船与租箱
+Container Freight Station (CFS),集装箱货运站,trade-terms,租船与租箱
+Blank Sailing,停航跳班,trade-terms,租船与租箱
+Space Utilization,舱位利用率,trade-terms,租船与租箱
+Cargo Manifest,载货清单,trade-terms,租船与租箱
+Shipping Alliance,航运联盟,trade-terms,租船与租箱

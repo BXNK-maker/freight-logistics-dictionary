@@ -1,0 +1,301 @@
+﻿term_en,term_zh,category,subcategory
+Operations,货代操作,roles,岗位与职务
+Operation Specialist,操作专员,roles,岗位与职务
+Operations Supervisor,操作主管,roles,岗位与职务
+Operations Manager,操作经理,roles,岗位与职务
+Documentation Clerk,单证员,roles,岗位与职务
+Documentation Specialist,单证专员,roles,岗位与职务
+Documentation Supervisor,单证主管,roles,岗位与职务
+Documentation Manager,单证经理,roles,岗位与职务
+Customer Service Representative,客服专员,roles,岗位与职务
+Customer Service Supervisor,客服主管,roles,岗位与职务
+Customer Service Manager,客服经理,roles,岗位与职务
+Sales Representative,销售代表,roles,岗位与职务
+Sales Executive,销售专员,roles,岗位与职务
+Sales Manager,销售经理,roles,岗位与职务
+Sales Director,销售总监,roles,岗位与职务
+Overseas Sales,海外销售,roles,岗位与职务
+Domestic Sales,国内销售,roles,岗位与职务
+Sales Support,销售支持,roles,岗位与职务
+Pricing Specialist,运价专员,roles,岗位与职务
+Pricing Manager,运价经理,roles,岗位与职务
+Rate Negotiation Specialist,运价谈判专员,roles,岗位与职务
+Booking Clerk,订舱员,roles,岗位与职务
+Booking Specialist,订舱专员,roles,岗位与职务
+Ocean Export Operator,海运出口操作员,roles,岗位与职务
+Ocean Import Operator,海运进口操作员,roles,岗位与职务
+Air Export Operator,空运出口操作员,roles,岗位与职务
+Air Import Operator,空运进口操作员,roles,岗位与职务
+Air Freight Operations,空运操作,roles,岗位与职务
+Sea Freight Operations,海运操作,roles,岗位与职务
+FCL Coordinator,整箱协调员,roles,岗位与职务
+LCL Coordinator,拼箱协调员,roles,岗位与职务
+Consolidation Specialist,集运专员,roles,岗位与职务
+Air Freight Coordinator,空运协调员,roles,岗位与职务
+Sea Freight Coordinator,海运协调员,roles,岗位与职务
+Trucking Coordinator,拖车协调员,roles,岗位与职务
+Trucking Dispatcher,拖车调度员,roles,岗位与职务
+Container Trucking Coordinator,集卡协调员,roles,岗位与职务
+Telex Release Specialist,电放专员,roles,岗位与职务
+B/L Issuing Clerk,提单签发员,roles,岗位与职务
+AMS Filing Specialist,AMS申报专员,roles,岗位与职务
+ISF Filing Specialist,ISF申报专员,roles,岗位与职务
+Destination Service Coordinator,目的港服务协调员,roles,岗位与职务
+Overseas Agent Coordinator,海外代理协调员,roles,岗位与职务
+Overseas Network Manager,海外网络经理,roles,岗位与职务
+Claims Specialist,理赔专员,roles,岗位与职务
+Freight Auditor,运费审核员,roles,岗位与职务
+Billing Specialist,账单专员,roles,岗位与职务
+Key Account Manager,大客户经理,roles,岗位与职务
+Branch Manager,分公司经理,roles,岗位与职务
+Station Manager,站点经理,roles,岗位与职务
+Freight Forwarding Director,货代业务总监,roles,岗位与职务
+Merchandiser,跟单员,roles,岗位与职务
+Carrier Sales Manager,船公司销售经理,roles,岗位与职务
+Trade Lane Manager,贸易航线经理,roles,岗位与职务
+Trade Manager,贸易经理,roles,岗位与职务
+Line Manager,航线经理,roles,岗位与职务
+Carrier Representative,船公司代表,roles,岗位与职务
+Ship Operator,船舶操作员,roles,岗位与职务
+Vessel Operator,船舶调度员,roles,岗位与职务
+Vessel Scheduler,船期计划员,roles,岗位与职务
+Vessel Planner,船舶配载计划员,roles,岗位与职务
+Stowage Coordinator,配载协调员,roles,岗位与职务
+Fleet Manager,船队经理,roles,岗位与职务
+Marine Superintendent,海务监督,roles,岗位与职务
+Technical Superintendent,机务监督,roles,岗位与职务
+Container Equipment Controller,集装箱设备控制员,roles,岗位与职务
+Container Control Supervisor,集装箱控制主管,roles,岗位与职务
+Empty Container Repositioning Specialist,空箱调运专员,roles,岗位与职务
+Freight Billing Clerk,运费账单员,roles,岗位与职务
+Demurrage and Detention Specialist,滞期滞箱费专员,roles,岗位与职务
+Ship Agent,船务代理,roles,岗位与职务
+Port Agent,港口代理,roles,岗位与职务
+Liner Agent,班轮代理,roles,岗位与职务
+Husbanding Agent,船舶事务代理,roles,岗位与职务
+Agency Operations Manager,船代操作经理,roles,岗位与职务
+Port Agency Coordinator,港口代理协调员,roles,岗位与职务
+Chartering Manager,租船经理,roles,岗位与职务
+Chartering Broker,租船经纪人,roles,岗位与职务
+Airport Cargo Terminal Operator,机场货站操作员,roles,岗位与职务
+Cargo Terminal Supervisor,货站主管,roles,岗位与职务
+Cargo Terminal Manager,货站经理,roles,岗位与职务
+Ramp Agent,机坪操作员,roles,岗位与职务
+Ramp Supervisor,机坪主管,roles,岗位与职务
+Ramp Manager,机坪经理,roles,岗位与职务
+Loadmaster,装载长,roles,岗位与职务
+Load Control Officer,载重平衡员,roles,岗位与职务
+Weight and Balance Officer,载重平衡工程师,roles,岗位与职务
+Cargo Acceptance Agent,货物收运员,roles,岗位与职务
+Export Build-up Agent,出口组板员,roles,岗位与职务
+Import Breakdown Agent,进口拆板员,roles,岗位与职务
+ULD Controller,集装器控制员,roles,岗位与职务
+ULD Supervisor,集装器主管,roles,岗位与职务
+Airway Bill Agent,运单制单员,roles,岗位与职务
+Security Screener,安检员,roles,岗位与职务
+X-ray Screening Operator,安检机操作员,roles,岗位与职务
+Dangerous Goods Acceptance Agent,危险品收运员,roles,岗位与职务
+Live Animals Handler,活体动物处理员,roles,岗位与职务
+Perishables Handler,鲜活货处理员,roles,岗位与职务
+Valuable Cargo Handler,贵重货物处理员,roles,岗位与职务
+Air Cargo Transfer Agent,货物中转员,roles,岗位与职务
+GSA Cargo Manager,总代理货运经理,roles,岗位与职务
+Airline Cargo Coordinator,航空公司货运协调员,roles,岗位与职务
+Warehouse Manager,仓库经理,roles,岗位与职务
+Warehouse Supervisor,仓库主管,roles,岗位与职务
+Warehouse Keeper,仓库保管员,roles,岗位与职务
+Storekeeper,库管员,roles,岗位与职务
+Warehouse Operator,仓管员,roles,岗位与职务
+Inventory Clerk,库存管理员,roles,岗位与职务
+Inventory Control Specialist,库存控制专员,roles,岗位与职务
+Inventory Analyst,库存分析员,roles,岗位与职务
+Receiving Clerk,收货员,roles,岗位与职务
+Shipping and Receiving Clerk,收发货员,roles,岗位与职务
+Outbound Clerk,出库员,roles,岗位与职务
+Picking Operator,拣货员,roles,岗位与职务
+Packing Operator,打包员,roles,岗位与职务
+Palletizing Operator,码盘员,roles,岗位与职务
+Put-away Operator,上架员,roles,岗位与职务
+Cycle Counter,循环盘点员,roles,岗位与职务
+Stocktake Supervisor,盘点主管,roles,岗位与职务
+Forklift Operator,叉车司机,roles,岗位与职务
+Warehouse Systems Specialist,WMS专员,roles,岗位与职务
+Slotting Specialist,货位规划专员,roles,岗位与职务
+Returns Processing Clerk,退货处理员,roles,岗位与职务
+Value-added Services Specialist,增值服务专员,roles,岗位与职务
+Distribution Center Manager,配送中心经理,roles,岗位与职务
+Distribution Supervisor,配送主管,roles,岗位与职务
+Cross-docking Coordinator,越库协调员,roles,岗位与职务
+Cold Storage Manager,冷库经理,roles,岗位与职务
+Cold Chain Specialist,冷链专员,roles,岗位与职务
+Cold Chain Operator,冷链操作员,roles,岗位与职务
+Bonded Warehouse Keeper,保税仓保管员,roles,岗位与职务
+Warehouse Safety Officer,仓库安全员,roles,岗位与职务
+Warehouse Operations Director,仓储运营总监,roles,岗位与职务
+Fulfillment Center Manager,履约中心经理,roles,岗位与职务
+Fulfillment Center Supervisor,履约中心主管,roles,岗位与职务
+Customs Broker,报关员,roles,岗位与职务
+Customs Declarant,报关代理人,roles,岗位与职务
+Customs Clearance Specialist,清关专员,roles,岗位与职务
+Customs Clearance Agent,清关代理,roles,岗位与职务
+Customs Supervisor,报关主管,roles,岗位与职务
+Customs Manager,报关经理,roles,岗位与职务
+Customs Entry Writer,报关单编制员,roles,岗位与职务
+Declaration Clerk,申报员,roles,岗位与职务
+Commodity Classification Specialist,商品归类专员,roles,岗位与职务
+HS Code Classifier,税则归类员,roles,岗位与职务
+Customs Valuation Specialist,关税估价专员,roles,岗位与职务
+Duty Accounting Clerk,关税核算员,roles,岗位与职务
+Inspection and Quarantine Declarant,报检员,roles,岗位与职务
+Quarantine Declaration Officer,检疫申报员,roles,岗位与职务
+CIQ Liaison Officer,检验检疫联络员,roles,岗位与职务
+Commodity Inspector,商检员,roles,岗位与职务
+Customs Inspector,海关查验员,roles,岗位与职务
+Customs Officer,海关关员,roles,岗位与职务
+Quarantine Inspector,检疫查验员,roles,岗位与职务
+Animal and Plant Quarantine Inspector,动植物检疫员,roles,岗位与职务
+Supervised Area Custodian,海关监管仓管理员,roles,岗位与职务
+Bonded Logistics Specialist,保税物流专员,roles,岗位与职务
+Processing Trade Specialist,加工贸易专员,roles,岗位与职务
+AEO Certification Specialist,AEO认证专员,roles,岗位与职务
+Terminal Operations Manager,码头运营经理,roles,岗位与职务
+Terminal Supervisor,码头主管,roles,岗位与职务
+Terminal Operator,码头操作员,roles,岗位与职务
+Terminal Planner,码头计划员,roles,岗位与职务
+Berth Planner,泊位计划员,roles,岗位与职务
+Yard Planner,堆场计划员,roles,岗位与职务
+Gate Clerk,闸口员,roles,岗位与职务
+Crane Operator,桥吊司机,roles,岗位与职务
+RTG Operator,轮胎吊司机,roles,岗位与职务
+RMG Operator,轨道吊司机,roles,岗位与职务
+Reach Stacker Operator,正面吊司机,roles,岗位与职务
+Straddle Carrier Operator,跨运车司机,roles,岗位与职务
+Empty Container Handler Operator,空箱堆高机司机,roles,岗位与职务
+Yard Jockey,码头拖车司机,roles,岗位与职务
+Stevedore,码头装卸工,roles,岗位与职务
+Tally Clerk,理货员,roles,岗位与职务
+Foreman,码头领班,roles,岗位与职务
+Hatch Foreman,舱口领班,roles,岗位与职务
+Lashing Worker,绑扎工,roles,岗位与职务
+Line Handler,带缆工,roles,岗位与职务
+Mooring Crew,系缆工,roles,岗位与职务
+Container Surveyor,集装箱检验员,roles,岗位与职务
+Reefer Container Inspector,冷藏箱检验员,roles,岗位与职务
+Container Repairman,集装箱修箱工,roles,岗位与职务
+Container Washing Worker,洗箱工,roles,岗位与职务
+CFS Supervisor,集装箱货运站主管,roles,岗位与职务
+CFS Keeper,集装箱货运站保管员,roles,岗位与职务
+Container Yard Supervisor,集装箱堆场主管,roles,岗位与职务
+CY Keeper,集装箱堆场保管员,roles,岗位与职务
+Marine Surveyor,海事检验员,roles,岗位与职务
+Transportation Manager,运输经理,roles,岗位与职务
+Transportation Supervisor,运输主管,roles,岗位与职务
+Transportation Coordinator,运输协调员,roles,岗位与职务
+Dispatcher,调度员,roles,岗位与职务
+Fleet Dispatcher,车队调度员,roles,岗位与职务
+Fleet Coordinator,车队协调员,roles,岗位与职务
+Route Planner,线路规划员,roles,岗位与职务
+Carrier Relations Manager,承运商关系经理,roles,岗位与职务
+Truck Driver,卡车司机,roles,岗位与职务
+Container Truck Driver,集卡司机,roles,岗位与职务
+Delivery Driver,配送司机,roles,岗位与职务
+Drayage Driver,短驳司机,roles,岗位与职务
+Heavy Haul Driver,大件运输司机,roles,岗位与职务
+Escort Vehicle Driver,护送车司机,roles,岗位与职务
+Fleet Maintenance Manager,车队维修经理,roles,岗位与职务
+Vehicle Maintenance Technician,车辆维修技师,roles,岗位与职务
+Fleet Safety Manager,车队安全经理,roles,岗位与职务
+Locomotive Engineer,火车司机,roles,岗位与职务
+Freight Train Conductor,货运列车车长,roles,岗位与职务
+Shunting Worker,调车员,roles,岗位与职务
+Rail Freight Operator,铁路货运操作员,roles,岗位与职务
+Rail Container Coordinator,铁路集装箱协调员,roles,岗位与职务
+China Railway Express Operator,中欧班列操作员,roles,岗位与职务
+Freight Yard Master,货场调度长,roles,岗位与职务
+Logistics Director,物流总监,roles,岗位与职务
+Logistics Manager,物流经理,roles,岗位与职务
+Logistics Supervisor,物流主管,roles,岗位与职务
+Logistics Coordinator,物流协调员,roles,岗位与职务
+Logistics Specialist,物流专员,roles,岗位与职务
+Logistics Engineer,物流工程师,roles,岗位与职务
+Logistics Analyst,物流分析师,roles,岗位与职务
+Supply Chain Director,供应链总监,roles,岗位与职务
+Supply Chain Manager,供应链经理,roles,岗位与职务
+Supply Chain Analyst,供应链分析员,roles,岗位与职务
+Supply Chain Planner,供应链计划员,roles,岗位与职务
+Demand Planner,需求计划员,roles,岗位与职务
+Material Planner,物料计划员,roles,岗位与职务
+Production Planner,生产计划员,roles,岗位与职务
+Procurement Specialist,采购专员,roles,岗位与职务
+Procurement Manager,采购经理,roles,岗位与职务
+Freight Procurement Manager,运力采购经理,roles,岗位与职务
+Distribution Manager,配送经理,roles,岗位与职务
+Last-mile Delivery Manager,末端配送经理,roles,岗位与职务
+Intermodal Coordinator,多式联运协调员,roles,岗位与职务
+Intermodal Operations Specialist,多式联运操作专员,roles,岗位与职务
+Project Cargo Manager,项目货经理,roles,岗位与职务
+Project Logistics Specialist,项目物流专员,roles,岗位与职务
+Breakbulk Coordinator,件杂货协调员,roles,岗位与职务
+Bulk Cargo Operator,散货操作员,roles,岗位与职务
+Tank Container Operator,罐箱操作员,roles,岗位与职务
+ISO Tank Coordinator,罐箱协调员,roles,岗位与职务
+Contract Logistics Manager,合同物流经理,roles,岗位与职务
+Freight Cost Analyst,运费成本分析员,roles,岗位与职务
+Warehouse Network Planner,仓网规划师,roles,岗位与职务
+Captain,船长,roles,岗位与职务
+Chief Mate,大副,roles,岗位与职务
+Second Mate,二副,roles,岗位与职务
+Third Mate,三副,roles,岗位与职务
+Officer of the Watch,值班驾驶员,roles,岗位与职务
+Deck Cadet,驾驶实习生,roles,岗位与职务
+Boatswain,水手长,roles,岗位与职务
+Able Seaman,一水,roles,岗位与职务
+Ordinary Seaman,二水,roles,岗位与职务
+Helmsman,舵手,roles,岗位与职务
+Carpenter,木匠,roles,岗位与职务
+Chief Engineer,轮机长,roles,岗位与职务
+Second Engineer,大管轮,roles,岗位与职务
+Third Engineer,二管轮,roles,岗位与职务
+Fourth Engineer,三管轮,roles,岗位与职务
+Motorman,机工,roles,岗位与职务
+Oiler,机舱加油工,roles,岗位与职务
+Wiper,机舱清洁工,roles,岗位与职务
+Fitter,机舱钳工,roles,岗位与职务
+Pumpman,泵工,roles,岗位与职务
+Electro-technical Officer,电机员,roles,岗位与职务
+Refrigeration Engineer,冷藏工程师,roles,岗位与职务
+Radio Officer,报务员,roles,岗位与职务
+GMDSS Operator,GMDSS操作员,roles,岗位与职务
+Purser,事务长,roles,岗位与职务
+Chief Steward,大管事,roles,岗位与职务
+Chief Cook,大厨,roles,岗位与职务
+Second Cook,二厨,roles,岗位与职务
+Messman,船上服务员,roles,岗位与职务
+Ship Security Officer,船舶保安员,roles,岗位与职务
+Ship Safety Officer,船舶安全员,roles,岗位与职务
+Pilot,引航员,roles,岗位与职务
+Tugboat Master,拖轮船长,roles,岗位与职务
+Tugboat Engineer,拖轮轮机员,roles,岗位与职务
+Ferry Captain,渡轮船长,roles,岗位与职务
+Barge Master,驳船船长,roles,岗位与职务
+Dredge Master,挖泥船船长,roles,岗位与职务
+Tanker Master,油轮船长,roles,岗位与职务
+LNG Carrier Master,LNG船船长,roles,岗位与职务
+Container Ship Master,集装箱船船长,roles,岗位与职务
+Bulk Carrier Master,散货船船长,roles,岗位与职务
+Cruise Ship Master,邮轮船长,roles,岗位与职务
+Class Surveyor,船级社验船师,roles,岗位与职务
+Port State Control Officer,港口国监督检查官,roles,岗位与职务
+Seafarer's Certificate of Competency,船员适任证书,roles,岗位与职务
+Master's Certificate of Competency,船长适任证书,roles,岗位与职务
+Chief Engineer Certificate of Competency,轮机长适任证书,roles,岗位与职务
+GMDSS Operator Certificate,GMDSS操作员证书,roles,岗位与职务
+Seafarer's Passport,海员证,roles,岗位与职务
+Pilot Certificate of Competency,引航员适任证书,roles,岗位与职务
+Customs Declarant Qualification Certificate,报关员资格证书,roles,岗位与职务
+Customs Proficiency Test Certificate,报关水平测试证书,roles,岗位与职务
+Inspection and Quarantine Declarant Certificate,报检员资格证书,roles,岗位与职务
+International Freight Forwarder Certificate,国际货运代理从业资格证书,roles,岗位与职务
+FIATA Diploma,菲亚塔货运代理文凭,roles,岗位与职务
+IATA Cargo Introductory Course Certificate,IATA货运入门课程证书,roles,岗位与职务
+IATA DGR Certificate,IATA危险品运输证书,roles,岗位与职务

@@ -1,0 +1,406 @@
+﻿term_en,term_zh,category,subcategory
+Royal Mail,英国皇家邮政,organizations,邮政与快递
+La Poste,法国邮政,organizations,邮政与快递
+Deutsche Post,德国邮政,organizations,邮政与快递
+PostNL,荷兰邮政,organizations,邮政与快递
+bpost,比利时邮政,organizations,邮政与快递
+Swiss Post,瑞士邮政,organizations,邮政与快递
+Österreichische Post,奥地利邮政,organizations,邮政与快递
+Poste Italiane,意大利邮政,organizations,邮政与快递
+Correos,西班牙邮政,organizations,邮政与快递
+CTT,葡萄牙邮政,organizations,邮政与快递
+An Post,爱尔兰邮政,organizations,邮政与快递
+POST Luxembourg,卢森堡邮政,organizations,邮政与快递
+PostNord,北欧邮政,organizations,邮政与快递
+Posten Norge,挪威邮政,organizations,邮政与快递
+Posti,芬兰邮政,organizations,邮政与快递
+Íslandspóstur,冰岛邮政,organizations,邮政与快递
+Česká pošta,捷克邮政,organizations,邮政与快递
+Slovenská pošta,斯洛伐克邮政,organizations,邮政与快递
+Poczta Polska,波兰邮政,organizations,邮政与快递
+Magyar Posta,匈牙利邮政,organizations,邮政与快递
+Poșta Română,罗马尼亚邮政,organizations,邮政与快递
+Bulgarian Posts,保加利亚邮政,organizations,邮政与快递
+Hrvatska pošta,克罗地亚邮政,organizations,邮政与快递
+Pošta Slovenije,斯洛文尼亚邮政,organizations,邮政与快递
+Pošta Srbije,塞尔维亚邮政,organizations,邮政与快递
+Makedonska Pošta,北马其顿邮政,organizations,邮政与快递
+Crnogorska pošta,黑山邮政,organizations,邮政与快递
+Posta Shqiptare,阿尔巴尼亚邮政,organizations,邮政与快递
+Hellenic Post,希腊邮政,organizations,邮政与快递
+Turkish Post (PTT),土耳其邮政,organizations,邮政与快递
+Russian Post,俄罗斯邮政,organizations,邮政与快递
+Ukrposhta,乌克兰邮政,organizations,邮政与快递
+Belposhta,白俄罗斯邮政,organizations,邮政与快递
+Omniva,爱沙尼亚邮政,organizations,邮政与快递
+Latvijas Pasts,拉脱维亚邮政,organizations,邮政与快递
+Lietuvos paštas,立陶宛邮政,organizations,邮政与快递
+Poșta Moldovei,摩尔多瓦邮政,organizations,邮政与快递
+Georgian Post,格鲁吉亚邮政,organizations,邮政与快递
+Haypost,亚美尼亚邮政,organizations,邮政与快递
+Azerpost,阿塞拜疆邮政,organizations,邮政与快递
+Malta Post,马耳他邮政,organizations,邮政与快递
+Cyprus Post,塞浦路斯邮政,organizations,邮政与快递
+Liechtensteinische Post,列支敦士登邮政,organizations,邮政与快递
+La Poste Monaco,摩纳哥邮政,organizations,邮政与快递
+Andorra Post,安道尔邮政,organizations,邮政与快递
+Poste San Marino,圣马力诺邮政,organizations,邮政与快递
+Jersey Post,泽西岛邮政,organizations,邮政与快递
+Guernsey Post,根西岛邮政,organizations,邮政与快递
+Isle of Man Post,马恩岛邮政,organizations,邮政与快递
+Royal Gibraltar Post,直布罗陀邮政,organizations,邮政与快递
+Posta (Faroe Islands),法罗群岛邮政,organizations,邮政与快递
+Post Greenland,格陵兰邮政,organizations,邮政与快递
+Åland Post,奥兰群岛邮政,organizations,邮政与快递
+USPS,美国邮政,organizations,邮政与快递
+Canada Post,加拿大邮政,organizations,邮政与快递
+Correos de México,墨西哥邮政,organizations,邮政与快递
+Correios,巴西邮政,organizations,邮政与快递
+Correo Argentino,阿根廷邮政,organizations,邮政与快递
+Correos de Chile,智利邮政,organizations,邮政与快递
+4-72,哥伦比亚邮政,organizations,邮政与快递
+Serpost,秘鲁邮政,organizations,邮政与快递
+Correos del Ecuador,厄瓜多尔邮政,organizations,邮政与快递
+Ipostel,委内瑞拉邮政,organizations,邮政与快递
+Agencia Boliviana de Correos,玻利维亚邮政,organizations,邮政与快递
+Dinacopa,巴拉圭邮政,organizations,邮政与快递
+Correo Uruguayo,乌拉圭邮政,organizations,邮政与快递
+Correos de Costa Rica,哥斯达黎加邮政,organizations,邮政与快递
+Correos de Panamá,巴拿马邮政,organizations,邮政与快递
+Correos de Guatemala,危地马拉邮政,organizations,邮政与快递
+Honduras Post,洪都拉斯邮政,organizations,邮政与快递
+Correos de El Salvador,萨尔瓦多邮政,organizations,邮政与快递
+Correos de Nicaragua,尼加拉瓜邮政,organizations,邮政与快递
+Correos de Cuba,古巴邮政,organizations,邮政与快递
+Inposdom,多米尼加邮政,organizations,邮政与快递
+Haiti Post,海地邮政,organizations,邮政与快递
+Jamaica Post,牙买加邮政,organizations,邮政与快递
+Trinidad and Tobago Post,特立尼达和多巴哥邮政,organizations,邮政与快递
+Barbados Post,巴巴多斯邮政,organizations,邮政与快递
+Bahamas Post,巴哈马邮政,organizations,邮政与快递
+Guyana Post,圭亚那邮政,organizations,邮政与快递
+Suriname Post,苏里南邮政,organizations,邮政与快递
+Belize Post,伯利兹邮政,organizations,邮政与快递
+Bermuda Post,百慕大邮政,organizations,邮政与快递
+Cayman Islands Post,开曼群岛邮政,organizations,邮政与快递
+China Post,中国邮政,organizations,邮政与快递
+Hongkong Post,香港邮政,organizations,邮政与快递
+Macao Post,澳门邮政,organizations,邮政与快递
+Chunghwa Post,中华邮政,organizations,邮政与快递
+Korea Post,韩国邮政,organizations,邮政与快递
+Japan Post,日本邮政,organizations,邮政与快递
+Singapore Post,新加坡邮政,organizations,邮政与快递
+Pos Malaysia,马来西亚邮政,organizations,邮政与快递
+Thailand Post,泰国邮政,organizations,邮政与快递
+Pos Indonesia,印度尼西亚邮政,organizations,邮政与快递
+PHLPost,菲律宾邮政,organizations,邮政与快递
+VNPost,越南邮政,organizations,邮政与快递
+Lao Post,老挝邮政,organizations,邮政与快递
+Cambodia Post,柬埔寨邮政,organizations,邮政与快递
+Myanmar Post,缅甸邮政,organizations,邮政与快递
+Brunei Post,文莱邮政,organizations,邮政与快递
+India Post,印度邮政,organizations,邮政与快递
+Pakistan Post,巴基斯坦邮政,organizations,邮政与快递
+Bangladesh Post,孟加拉国邮政,organizations,邮政与快递
+Sri Lanka Post,斯里兰卡邮政,organizations,邮政与快递
+Nepal Post,尼泊尔邮政,organizations,邮政与快递
+Bhutan Post,不丹邮政,organizations,邮政与快递
+Maldives Post,马尔代夫邮政,organizations,邮政与快递
+Afghanistan Post,阿富汗邮政,organizations,邮政与快递
+Mongol Post,蒙古邮政,organizations,邮政与快递
+Kazpost,哈萨克斯坦邮政,organizations,邮政与快递
+Uzbekistan Post,乌兹别克斯坦邮政,organizations,邮政与快递
+Kyrgyz Post,吉尔吉斯斯坦邮政,organizations,邮政与快递
+Tajik Post,塔吉克斯坦邮政,organizations,邮政与快递
+Turkmenpost,土库曼斯坦邮政,organizations,邮政与快递
+Iran Post,伊朗邮政,organizations,邮政与快递
+Iraqi Post,伊拉克邮政,organizations,邮政与快递
+Jordan Post,约旦邮政,organizations,邮政与快递
+Israel Post,以色列邮政,organizations,邮政与快递
+Saudi Post,沙特阿拉伯邮政,organizations,邮政与快递
+Emirates Post,阿联酋邮政,organizations,邮政与快递
+Qatar Post,卡塔尔邮政,organizations,邮政与快递
+Bahrain Post,巴林邮政,organizations,邮政与快递
+Oman Post,阿曼邮政,organizations,邮政与快递
+Kuwait Post,科威特邮政,organizations,邮政与快递
+Yemen Post,也门邮政,organizations,邮政与快递
+Lebanon Post,黎巴嫩邮政,organizations,邮政与快递
+Syria Post,叙利亚邮政,organizations,邮政与快递
+Timor-Leste Post,东帝汶邮政,organizations,邮政与快递
+Egypt Post,埃及邮政,organizations,邮政与快递
+Barid Al-Maghrib,摩洛哥邮政,organizations,邮政与快递
+Algérie Poste,阿尔及利亚邮政,organizations,邮政与快递
+La Poste Tunisienne,突尼斯邮政,organizations,邮政与快递
+Libya Post,利比亚邮政,organizations,邮政与快递
+Sudapost,苏丹邮政,organizations,邮政与快递
+Mauritania Post,毛里塔尼亚邮政,organizations,邮政与快递
+Senegal Post,塞内加尔邮政,organizations,邮政与快递
+Mali Post,马里邮政,organizations,邮政与快递
+SONAPOST,布基纳法索邮政,organizations,邮政与快递
+Niger Post,尼日尔邮政,organizations,邮政与快递
+Chad Post,乍得邮政,organizations,邮政与快递
+La Poste de Cote d'Ivoire,科特迪瓦邮政,organizations,邮政与快递
+Guinea Post,几内亚邮政,organizations,邮政与快递
+Sierra Leone Post,塞拉利昂邮政,organizations,邮政与快递
+Liberia Post,利比里亚邮政,organizations,邮政与快递
+Gambia Post,冈比亚邮政,organizations,邮政与快递
+Ghana Post,加纳邮政,organizations,邮政与快递
+Togo Post,多哥邮政,organizations,邮政与快递
+Benin Post,贝宁邮政,organizations,邮政与快递
+NIPOST,尼日利亚邮政,organizations,邮政与快递
+CamPost,喀麦隆邮政,organizations,邮政与快递
+Gabon Post,加蓬邮政,organizations,邮政与快递
+Ethiopia Post,埃塞俄比亚邮政,organizations,邮政与快递
+Djibouti Post,吉布提邮政,organizations,邮政与快递
+Postal Corporation of Kenya,肯尼亚邮政,organizations,邮政与快递
+Uganda Post,乌干达邮政,organizations,邮政与快递
+Tanzania Post,坦桑尼亚邮政,organizations,邮政与快递
+Rwanda Post,卢旺达邮政,organizations,邮政与快递
+Burundi Post,布隆迪邮政,organizations,邮政与快递
+Zambia Post,赞比亚邮政,organizations,邮政与快递
+Zimbabwe Post,津巴布韦邮政,organizations,邮政与快递
+Malawi Post,马拉维邮政,organizations,邮政与快递
+BotswanaPost,博茨瓦纳邮政,organizations,邮政与快递
+Namibia Post,纳米比亚邮政,organizations,邮政与快递
+South African Post Office,南非邮政,organizations,邮政与快递
+Lesotho Post,莱索托邮政,organizations,邮政与快递
+EswatiniPosts,斯威士兰邮政,organizations,邮政与快递
+Correios de Moçambique,莫桑比克邮政,organizations,邮政与快递
+Correios de Angola,安哥拉邮政,organizations,邮政与快递
+Madagascar Post,马达加斯加邮政,organizations,邮政与快递
+Mauritius Post,毛里求斯邮政,organizations,邮政与快递
+Seychelles Post,塞舌尔邮政,organizations,邮政与快递
+Correios de Cabo Verde,佛得角邮政,organizations,邮政与快递
+Australia Post,澳大利亚邮政,organizations,邮政与快递
+New Zealand Post,新西兰邮政,organizations,邮政与快递
+Fiji Post,斐济邮政,organizations,邮政与快递
+Papua New Guinea Post,巴布亚新几内亚邮政,organizations,邮政与快递
+Solomon Islands Post,所罗门群岛邮政,organizations,邮政与快递
+Vanuatu Post,瓦努阿图邮政,organizations,邮政与快递
+SamoaPost,萨摩亚邮政,organizations,邮政与快递
+Tonga Post,汤加邮政,organizations,邮政与快递
+Cook Islands Post,库克群岛邮政,organizations,邮政与快递
+Kiribati Post,基里巴斯邮政,organizations,邮政与快递
+FedEx,联邦快递,organizations,邮政与快递
+UPS,联合包裹,organizations,邮政与快递
+DHL,敦豪,organizations,邮政与快递
+DHL Express,敦豪快递,organizations,邮政与快递
+DHL eCommerce,敦豪电商物流,organizations,邮政与快递
+DHL Global Forwarding,敦豪全球货运,organizations,邮政与快递
+DHL Supply Chain,敦豪供应链,organizations,邮政与快递
+DHL Freight,敦豪货运,organizations,邮政与快递
+TNT,天地物流,organizations,邮政与快递
+FedEx Express,联邦快递航空快件,organizations,邮政与快递
+FedEx Ground,联邦快递陆运,organizations,邮政与快递
+FedEx Freight,联邦快递零担货运,organizations,邮政与快递
+FedEx Cross Border,联邦快递跨境物流,organizations,邮政与快递
+Aramex,安迈世快递,organizations,邮政与快递
+UPU,万国邮政联盟,organizations,邮政与快递
+EMS Cooperative,EMS合作机构,organizations,邮政与快递
+IPC,国际邮政公司,organizations,邮政与快递
+PostEurop,欧洲邮政联盟,organizations,邮政与快递
+APPU,亚洲太平洋邮政联盟,organizations,邮政与快递
+Pan African Postal Union,泛非邮政联盟,organizations,邮政与快递
+SF Express,顺丰速运,organizations,邮政与快递
+SF International,顺丰国际,organizations,邮政与快递
+SF Intra-city,顺丰同城,organizations,邮政与快递
+YTO Express,圆通速递,organizations,邮政与快递
+ZTO Express,中通快递,organizations,邮政与快递
+STO Express,申通快递,organizations,邮政与快递
+Yunda Express,韵达快递,organizations,邮政与快递
+J&T Express,极兔速递,organizations,邮政与快递
+Deppon Express,德邦快递,organizations,邮政与快递
+Best Express,百世快递,organizations,邮政与快递
+Kuayue Express,跨越速运,organizations,邮政与快递
+ANE Logistics,安能物流,organizations,邮政与快递
+Cainiao Network,菜鸟网络,organizations,邮政与快递
+Cainiao Station,菜鸟驿站,organizations,邮政与快递
+JD Logistics,京东物流,organizations,邮政与快递
+Rufengda,如风达,organizations,邮政与快递
+4PX,递四方,organizations,邮政与快递
+Yun Express,云途物流,organizations,邮政与快递
+Yanwen,燕文物流,organizations,邮政与快递
+Yamato Transport,雅玛多运输,organizations,邮政与快递
+Sagawa Express,佐川急便,organizations,邮政与快递
+Nippon Express,日本通运,organizations,邮政与快递
+CJ Logistics,希杰物流,organizations,邮政与快递
+Lotte Global Logistics,乐天全球物流,organizations,邮政与快递
+Kerry Express,嘉里快递,organizations,邮政与快递
+GDEX,GDEX快递,organizations,邮政与快递
+City-Link Express,City-Link快递,organizations,邮政与快递
+Pos Laju,Pos Laju快递,organizations,邮政与快递
+Ninja Van,Ninja Van快递,organizations,邮政与快递
+Qxpress,Qxpress快递,organizations,邮政与快递
+JNE,JNE快递,organizations,邮政与快递
+SiCepat Ekspres,SiCepat快递,organizations,邮政与快递
+AnterAja,AnterAja快递,organizations,邮政与快递
+Lion Parcel,Lion Parcel快递,organizations,邮政与快递
+Giao Hang Nhanh (GHN),GHN快递,organizations,邮政与快递
+GHTK,GHTK快递,organizations,邮政与快递
+Viettel Post,Viettel邮政,organizations,邮政与快递
+JRS Express,JRS快递,organizations,邮政与快递
+LBC Express,LBC快递,organizations,邮政与快递
+Flash Express,Flash Express快递,organizations,邮政与快递
+DTDC,印度DTDC快递,organizations,邮政与快递
+Delhivery,Delhivery快递,organizations,邮政与快递
+Ecom Express,Ecom Express快递,organizations,邮政与快递
+XpressBees,XpressBees快递,organizations,邮政与快递
+Shadowfax,Shadowfax快递,organizations,邮政与快递
+Gati,Gati快递,organizations,邮政与快递
+Blue Dart,Blue Dart快递,organizations,邮政与快递
+TCS Courier,TCS快递,organizations,邮政与快递
+Leopards Courier,Leopards快递,organizations,邮政与快递
+iMile,iMile快递,organizations,邮政与快递
+Fetchr,Fetchr快递,organizations,邮政与快递
+SMSA Express,SMSA快递,organizations,邮政与快递
+Naqel Express,Naqel快递,organizations,邮政与快递
+Zajil Express,Zajil快递,organizations,邮政与快递
+Aras Kargo,Aras快递,organizations,邮政与快递
+Yurtici Kargo,Yurtici快递,organizations,邮政与快递
+MNG Kargo,MNG快递,organizations,邮政与快递
+PTT Kargo,PTT快递,organizations,邮政与快递
+ACS Courier,希腊ACS快递,organizations,邮政与快递
+MRW,西班牙MRW快递,organizations,邮政与快递
+SEUR,西班牙SEUR快递,organizations,邮政与快递
+Correos Express,西班牙邮政快递,organizations,邮政与快递
+Chronopost,法国Chronopost快递,organizations,邮政与快递
+Mondial Relay,法国Mondial Relay,organizations,邮政与快递
+Colis Privé,法国Colis Privé,organizations,邮政与快递
+Evri,英国Evri快递,organizations,邮政与快递
+Yodel,英国Yodel快递,organizations,邮政与快递
+DPD,DPD快递,organizations,邮政与快递
+GLS,GLS快递,organizations,邮政与快递
+InPost,波兰InPost快递,organizations,邮政与快递
+BRT Bartolini,意大利BRT快递,organizations,邮政与快递
+SDA Express Courier,意大利SDA快递,organizations,邮政与快递
+Bring,北欧Bring物流,organizations,邮政与快递
+Toll Group,拓领集团,organizations,邮政与快递
+StarTrack,澳大利亚StarTrack,organizations,邮政与快递
+Sendle,Sendle快递,organizations,邮政与快递
+CouriersPlease,CouriersPlease快递,organizations,邮政与快递
+CourierPost,新西兰CourierPost快递,organizations,邮政与快递
+Purolator,Purolator快递,organizations,邮政与快递
+Canpar,Canpar快递,organizations,邮政与快递
+Intelcom,加拿大Intelcom快递,organizations,邮政与快递
+OnTrac,美国OnTrac快递,organizations,邮政与快递
+LaserShip,LaserShip快递,organizations,邮政与快递
+Spee-Dee Delivery,Spee-Dee快递,organizations,邮政与快递
+Amazon Logistics,亚马逊物流,organizations,邮政与快递
+Roadie,Roadie快递,organizations,邮政与快递
+Estafeta,墨西哥Estafeta快递,organizations,邮政与快递
+Chilexpress,智利Chilexpress快递,organizations,邮政与快递
+Servientrega,哥伦比亚Servientrega快递,organizations,邮政与快递
+Andreani,阿根廷Andreani快递,organizations,邮政与快递
+Total Express,巴西Total Express快递,organizations,邮政与快递
+Loggi,巴西Loggi快递,organizations,邮政与快递
+Mercado Envios,美客多物流,organizations,邮政与快递
+EMS,邮政特快专递,organizations,邮政与快递
+ePacket,e邮宝,organizations,邮政与快递
+Registered Small Packet,挂号航空小包,organizations,邮政与快递
+Ordinary Small Packet,平邮小包,organizations,邮政与快递
+Speedpost,邮政速递(Speedpost),organizations,邮政与快递
+Priority Mail,优先邮件,organizations,邮政与快递
+Priority Mail Express,优先快递,organizations,邮政与快递
+First-Class Mail,一等邮件,organizations,邮政与快递
+Media Mail,媒体邮件,organizations,邮政与快递
+Certified Mail,认证邮件,organizations,邮政与快递
+Registered Mail,挂号邮件,organizations,邮政与快递
+Insured Mail,保价邮件,organizations,邮政与快递
+Global Express Guaranteed,全球保证快递,organizations,邮政与快递
+Postal Money Order,邮政汇票,organizations,邮政与快递
+PO Box,邮政信箱,organizations,邮政与快递
+Poste Restante,存局候领,organizations,邮政与快递
+Mail Forwarding,邮件转寄,organizations,邮政与快递
+Return to Sender,退回寄件人,organizations,邮政与快递
+Undeliverable Mail,无法投递邮件,organizations,邮政与快递
+Dead Letter,死信,organizations,邮政与快递
+Franking,邮资盖印,organizations,邮政与快递
+Postage Stamp,邮票,organizations,邮政与快递
+Postal Code,邮政编码,organizations,邮政与快递
+ZIP Code,美国邮政编码,organizations,邮政与快递
+Hybrid Mail,混合邮件,organizations,邮政与快递
+Direct Mail,直邮,organizations,邮政与快递
+Bulk Mail,大宗邮件,organizations,邮政与快递
+Presorted Mail,预分拣邮件,organizations,邮政与快递
+Business Reply Mail,商业回邮,organizations,邮政与快递
+International Reply Coupon,国际回信券,organizations,邮政与快递
+Prepaid Envelope,预付邮资信封,organizations,邮政与快递
+Air Mail,航空邮件,organizations,邮政与快递
+Surface Mail,水陆路邮件,organizations,邮政与快递
+SAL (Surface Air Lifted),空运水陆路,organizations,邮政与快递
+International Signed For,国际签收挂号件,organizations,邮政与快递
+Royal Mail Special Delivery,皇家邮政特快专递,organizations,邮政与快递
+Royal Mail First Class,皇家邮政一等邮件,organizations,邮政与快递
+Royal Mail Second Class,皇家邮政二等邮件,organizations,邮政与快递
+Yu-Pack,日本邮政包裹(Yu-Pack),organizations,邮政与快递
+UPS Next Day Air,联合包裹次日达,organizations,邮政与快递
+UPS 2nd Day Air,联合包裹两日达,organizations,邮政与快递
+UPS Ground,联合包裹陆运,organizations,邮政与快递
+UPS Worldwide Express,联合包裹全球特快,organizations,邮政与快递
+UPS Mail Innovations,联合包裹邮件创新服务,organizations,邮政与快递
+UPS SurePost,联合包裹末端经济派送,organizations,邮政与快递
+FedEx International Priority,联邦快递国际优先快递,organizations,邮政与快递
+FedEx International Economy,联邦快递国际经济快递,organizations,邮政与快递
+FedEx Ground Economy,联邦快递经济陆运,organizations,邮政与快递
+DHL Express Worldwide,敦豪全球快件,organizations,邮政与快递
+Colissimo,法国邮政Colissimo,organizations,邮政与快递
+Next-Day Delivery,次日达,organizations,邮政与快递
+Same-Day Delivery,当日达,organizations,邮政与快递
+Overnight Delivery,隔夜达,organizations,邮政与快递
+Two-Day Delivery,两日达,organizations,邮政与快递
+Time-Definite Delivery,定时达,organizations,邮政与快递
+Door-to-Door Delivery,门到门配送,organizations,邮政与快递
+Airport-to-Airport Service,机场到机场服务,organizations,邮政与快递
+Last-Mile Delivery,最后一公里配送,organizations,邮政与快递
+First-Mile Pickup,首公里揽收,organizations,邮政与快递
+On-Demand Delivery,即时配送,organizations,邮政与快递
+Crowdsourced Delivery,众包配送,organizations,邮政与快递
+White-Glove Delivery,白手套配送,organizations,邮政与快递
+First Attempt Delivery,首次投递,organizations,邮政与快递
+Out for Delivery,派送中,organizations,邮政与快递
+Delivery Attempted,尝试投递,organizations,邮政与快递
+Delivery Confirmation,投递确认,organizations,邮政与快递
+Proof of Delivery,签收凭证,organizations,邮政与快递
+Signature Required,需签名签收,organizations,邮政与快递
+Adult Signature Required,需成人签名,organizations,邮政与快递
+Direct Signature Required,需直接签名,organizations,邮政与快递
+Hold at Location,网点代收,organizations,邮政与快递
+Pickup Point,自提点,organizations,邮政与快递
+Parcel Locker,包裹柜,organizations,邮政与快递
+Smart Parcel Locker,智能快递柜,organizations,邮政与快递
+Collection Point,代收点,organizations,邮政与快递
+Insured Parcel,保价包裹,organizations,邮政与快递
+Cash on Delivery (COD),货到付款,organizations,邮政与快递
+Track and Trace,全程跟踪查询,organizations,邮政与快递
+Tracking Number,追踪号码,organizations,邮政与快递
+Waybill,运单,organizations,邮政与快递
+Air Waybill,航空运单,organizations,邮政与快递
+Shipping Label,快递面单,organizations,邮政与快递
+Electronic Waybill,电子面单,organizations,邮政与快递
+Customs Declaration,报关申报,organizations,邮政与快递
+CN22 Form,CN22报关单,organizations,邮政与快递
+CN23 Form,CN23报关单,organizations,邮政与快递
+Customs Clearance,清关,organizations,邮政与快递
+Delivered Duty Paid (DDP),完税后交货,organizations,邮政与快递
+Delivered Duty Unpaid (DDU),未完税交货,organizations,邮政与快递
+Delivered at Place (DAP),目的地交货,organizations,邮政与快递
+Volumetric Weight,体积重量,organizations,邮政与快递
+Actual Weight,实际重量,organizations,邮政与快递
+Chargeable Weight,计费重量,organizations,邮政与快递
+Fuel Surcharge,燃油附加费,organizations,邮政与快递
+Remote Area Surcharge,偏远地区附加费,organizations,邮政与快递
+Residential Surcharge,住宅地址附加费,organizations,邮政与快递
+Oversize Surcharge,超大件附加费,organizations,邮政与快递
+Peak Season Surcharge,旺季附加费,organizations,邮政与快递
+Flat-Rate Shipping,固定运费,organizations,邮政与快递
+Returns Management,退货管理,organizations,邮政与快递
+Reverse Logistics,逆向物流,organizations,邮政与快递
+Cross-Border E-Commerce Logistics,跨境电商物流,organizations,邮政与快递
+Parcel Consolidation,包裹集货,organizations,邮政与快递
+Sorting Center,分拣中心,organizations,邮政与快递
+Regional Hub,区域枢纽,organizations,邮政与快递
+Linehaul,干线运输,organizations,邮政与快递
+Hub-and-Spoke Network,轴辐式网络,organizations,邮政与快递
+Express Gateway,快件口岸,organizations,邮政与快递
+Bonded Warehouse,保税仓库,organizations,邮政与快递
+E-commerce Fulfillment,电商履约,organizations,邮政与快递

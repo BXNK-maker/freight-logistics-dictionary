@@ -1,0 +1,401 @@
+term_en,term_zh,category,subcategory
+Heathrow Airport,希思罗机场,transport,欧洲机场
+Gatwick Airport,盖特威克机场,transport,欧洲机场
+Stansted Airport,斯坦斯特德机场,transport,欧洲机场
+Luton Airport,卢顿机场,transport,欧洲机场
+London City Airport,伦敦城市机场,transport,欧洲机场
+Manchester Airport,曼彻斯特机场,transport,欧洲机场
+Birmingham Airport,伯明翰机场,transport,欧洲机场
+Edinburgh Airport,爱丁堡机场,transport,欧洲机场
+Glasgow Airport,格拉斯哥机场,transport,欧洲机场
+Glasgow Prestwick Airport,格拉斯哥普雷斯蒂克机场,transport,欧洲机场
+Bristol Airport,布里斯托尔机场,transport,欧洲机场
+Liverpool John Lennon Airport,利物浦约翰·列侬机场,transport,欧洲机场
+Newcastle Airport,纽卡斯尔机场,transport,欧洲机场
+Leeds Bradford Airport,利兹布拉德福德机场,transport,欧洲机场
+East Midlands Airport,东米德兰兹机场,transport,欧洲机场
+Aberdeen Airport,阿伯丁机场,transport,欧洲机场
+Belfast International Airport,贝尔法斯特国际机场,transport,欧洲机场
+Belfast City Airport,贝尔法斯特城市机场,transport,欧洲机场
+Cardiff Airport,加的夫机场,transport,欧洲机场
+Exeter Airport,埃克塞特机场,transport,欧洲机场
+Southampton Airport,南安普敦机场,transport,欧洲机场
+Norwich Airport,诺威奇机场,transport,欧洲机场
+Teesside International Airport,蒂斯赛德国际机场,transport,欧洲机场
+Inverness Airport,因弗内斯机场,transport,欧洲机场
+Jersey Airport,泽西机场,transport,欧洲机场
+Guernsey Airport,根西机场,transport,欧洲机场
+Isle of Man Airport,马恩岛机场,transport,欧洲机场
+Bournemouth Airport,伯恩茅斯机场,transport,欧洲机场
+Humberside Airport,亨伯赛德机场,transport,欧洲机场
+Dublin Airport,都柏林机场,transport,欧洲机场
+Shannon Airport,香农机场,transport,欧洲机场
+Cork Airport,科克机场,transport,欧洲机场
+Ireland West Airport Knock,爱尔兰西部诺克机场,transport,欧洲机场
+Kerry Airport,凯里机场,transport,欧洲机场
+Donegal Airport,多尼戈尔机场,transport,欧洲机场
+Paris Charles de Gaulle Airport,巴黎戴高乐机场,transport,欧洲机场
+Paris Orly Airport,巴黎奥利机场,transport,欧洲机场
+Paris Le Bourget Airport,巴黎勒布尔热机场,transport,欧洲机场
+Nice Cote d'Azur Airport,尼斯蔚蓝海岸机场,transport,欧洲机场
+Lyon-Saint Exupery Airport,里昂圣埃克苏佩里机场,transport,欧洲机场
+Marseille Provence Airport,马赛普罗旺斯机场,transport,欧洲机场
+Toulouse-Blagnac Airport,图卢兹布拉尼亚克机场,transport,欧洲机场
+Bordeaux-Merignac Airport,波尔多-梅里尼亚克机场,transport,欧洲机场
+Nantes Atlantique Airport,南特大西洋机场,transport,欧洲机场
+Lille Airport,里尔机场,transport,欧洲机场
+Strasbourg Airport,斯特拉斯堡机场,transport,欧洲机场
+Montpellier-Mediterranee Airport,蒙彼利埃机场,transport,欧洲机场
+EuroAirport Basel-Mulhouse-Freiburg,巴塞尔-米卢斯欧洲机场,transport,欧洲机场
+Clermont-Ferrand Airport,克莱蒙费朗机场,transport,欧洲机场
+Paris Beauvais Airport,博韦-蒂耶机场,transport,欧洲机场
+Brest Bretagne Airport,布雷斯特机场,transport,欧洲机场
+Rennes Airport,雷恩机场,transport,欧洲机场
+Biarritz Pays Basque Airport,比亚里茨机场,transport,欧洲机场
+Pau Pyrenees Airport,波城机场,transport,欧洲机场
+Grenoble Alpes-Isere Airport,格勒诺布尔机场,transport,欧洲机场
+Chambery Airport,尚贝里机场,transport,欧洲机场
+Perpignan Airport,佩皮尼昂机场,transport,欧洲机场
+Ajaccio Napoleon Bonaparte Airport,阿雅克肖机场,transport,欧洲机场
+Bastia-Poretta Airport,巴斯蒂亚机场,transport,欧洲机场
+Calvi Sainte-Catherine Airport,卡尔维机场,transport,欧洲机场
+Figari Sud Corse Airport,菲加里机场,transport,欧洲机场
+Carcassonne Airport,卡尔卡松机场,transport,欧洲机场
+Bergerac Dordogne-Perigord Airport,贝尔热拉克机场,transport,欧洲机场
+Metz-Nancy-Lorraine Airport,梅斯-南锡-洛林机场,transport,欧洲机场
+Tarbes-Lourdes-Pyrenees Airport,塔布-卢尔德机场,transport,欧洲机场
+Nimes-Garon Airport,尼姆-加龙机场,transport,欧洲机场
+Limoges Airport,利摩日机场,transport,欧洲机场
+Frankfurt Airport,法兰克福机场,transport,欧洲机场
+Munich Airport,慕尼黑机场,transport,欧洲机场
+Düsseldorf Airport,杜塞尔多夫机场,transport,欧洲机场
+Berlin Brandenburg Airport,柏林勃兰登堡机场,transport,欧洲机场
+Hamburg Airport,汉堡机场,transport,欧洲机场
+Cologne Bonn Airport,科隆-波恩机场,transport,欧洲机场
+Stuttgart Airport,斯图加特机场,transport,欧洲机场
+Hannover Airport,汉诺威机场,transport,欧洲机场
+Leipzig-Halle Airport,莱比锡-哈勒机场,transport,欧洲机场
+Dresden Airport,德累斯顿机场,transport,欧洲机场
+Nuremberg Airport,纽伦堡机场,transport,欧洲机场
+Bremen Airport,不来梅机场,transport,欧洲机场
+Dortmund Airport,多特蒙德机场,transport,欧洲机场
+Münster-Osnabrück International Airport,明斯特-奥斯纳布吕克国际机场,transport,欧洲机场
+Paderborn-Lippstadt Airport,帕德博恩机场,transport,欧洲机场
+Karlsruhe Baden-Baden Airport,卡尔斯鲁厄-巴登-巴登机场,transport,欧洲机场
+Weeze Airport,威泽机场,transport,欧洲机场
+Memmingen Airport,梅明根机场,transport,欧洲机场
+Friedrichshafen Airport,腓特烈港机场,transport,欧洲机场
+Erfurt-Weimar Airport,埃尔富特机场,transport,欧洲机场
+Saarbrücken Airport,萨尔布吕肯机场,transport,欧洲机场
+Kassel-Calden Airport,卡塞尔机场,transport,欧洲机场
+Rostock-Laage Airport,罗斯托克-拉格机场,transport,欧洲机场
+Lübeck Airport,吕贝克机场,transport,欧洲机场
+Hamburg Finkenwerder Airport,汉堡芬肯韦德机场,transport,欧洲机场
+Amsterdam Airport Schiphol,阿姆斯特丹史基浦机场,transport,欧洲机场
+Eindhoven Airport,埃因霍温机场,transport,欧洲机场
+Rotterdam The Hague Airport,鹿特丹-海牙机场,transport,欧洲机场
+Maastricht Aachen Airport,马斯特里赫特-亚琛机场,transport,欧洲机场
+Brussels Airport,布鲁塞尔机场,transport,欧洲机场
+Brussels South Charleroi Airport,布鲁塞尔南部-沙勒罗瓦机场,transport,欧洲机场
+Liège Airport,列日机场,transport,欧洲机场
+Ostend-Bruges International Airport,奥斯坦德-布鲁日国际机场,transport,欧洲机场
+Antwerp International Airport,安特卫普国际机场,transport,欧洲机场
+Luxembourg Airport,卢森堡机场,transport,欧洲机场
+Zurich Airport,苏黎世机场,transport,欧洲机场
+Geneva Airport,日内瓦机场,transport,欧洲机场
+Bern Airport,伯尔尼-贝尔普机场,transport,欧洲机场
+Lugano Airport,卢加诺机场,transport,欧洲机场
+Vienna International Airport,维也纳国际机场,transport,欧洲机场
+Salzburg Airport,萨尔茨堡机场,transport,欧洲机场
+Graz Airport,格拉茨机场,transport,欧洲机场
+Linz Airport,林茨机场,transport,欧洲机场
+Innsbruck Airport,因斯布鲁克机场,transport,欧洲机场
+Klagenfurt Airport,克拉根福机场,transport,欧洲机场
+Adolfo Suárez Madrid-Barajas Airport,马德里-巴拉哈斯机场,transport,欧洲机场
+Josep Tarradellas Barcelona-El Prat Airport,巴塞罗那-埃尔普拉特机场,transport,欧洲机场
+Palma de Mallorca Airport,马略卡岛帕尔马机场,transport,欧洲机场
+Málaga-Costa del Sol Airport,马拉加机场,transport,欧洲机场
+Alicante-Elche Airport,阿利坎特机场,transport,欧洲机场
+Valencia Airport,瓦伦西亚机场,transport,欧洲机场
+Sevilla Airport,塞维利亚机场,transport,欧洲机场
+Bilbao Airport,毕尔巴鄂机场,transport,欧洲机场
+Zaragoza Airport,萨拉戈萨机场,transport,欧洲机场
+Region of Murcia International Airport,穆尔西亚国际机场,transport,欧洲机场
+Granada Airport,格拉纳达机场,transport,欧洲机场
+Vigo Airport,维戈机场,transport,欧洲机场
+A Coruña Airport,拉科鲁尼亚机场,transport,欧洲机场
+Santiago de Compostela Airport,圣地亚哥-德孔波斯特拉机场,transport,欧洲机场
+Asturias Airport,阿斯图里亚斯机场,transport,欧洲机场
+Santander Airport,桑坦德机场,transport,欧洲机场
+San Sebastián Airport,圣塞巴斯蒂安机场,transport,欧洲机场
+Ibiza Airport,伊维萨机场,transport,欧洲机场
+Menorca Airport,梅诺卡机场,transport,欧洲机场
+Fuerteventura Airport,富埃特文图拉机场,transport,欧洲机场
+Gran Canaria Airport,大加那利机场,transport,欧洲机场
+Tenerife North Airport,特内里费北机场,transport,欧洲机场
+Tenerife South Airport,特内里费南机场,transport,欧洲机场
+Lanzarote Airport,兰萨罗特机场,transport,欧洲机场
+La Palma Airport,拉帕尔马机场,transport,欧洲机场
+Almería Airport,阿尔梅里亚机场,transport,欧洲机场
+Jerez Airport,赫雷斯机场,transport,欧洲机场
+Girona-Costa Brava Airport,赫罗纳机场,transport,欧洲机场
+Reus Airport,雷乌斯机场,transport,欧洲机场
+Humberto Delgado Lisbon Airport,里斯本机场,transport,欧洲机场
+Francisco Sá Carneiro Porto Airport,波尔图机场,transport,欧洲机场
+Faro Airport,法鲁机场,transport,欧洲机场
+Madeira Cristiano Ronaldo Airport,马德拉机场,transport,欧洲机场
+Porto Santo Airport,圣港机场,transport,欧洲机场
+Ponta Delgada João Paulo II Airport,蓬塔德尔加达机场,transport,欧洲机场
+Lajes Airport,拉日什机场,transport,欧洲机场
+Horta Airport,奥尔塔机场,transport,欧洲机场
+Rome Fiumicino Airport,罗马菲乌米奇诺机场,transport,欧洲机场
+Rome Ciampino Airport,罗马钱皮诺机场,transport,欧洲机场
+Milan Malpensa Airport,米兰马尔彭萨机场,transport,欧洲机场
+Milan Linate Airport,米兰利纳特机场,transport,欧洲机场
+Milan Bergamo Airport,米兰贝加莫机场,transport,欧洲机场
+Venice Marco Polo Airport,威尼斯马可·波罗机场,transport,欧洲机场
+Treviso Airport,特雷维索机场,transport,欧洲机场
+Verona-Villafranca Airport,维罗纳机场,transport,欧洲机场
+Bologna Guglielmo Marconi Airport,博洛尼亚机场,transport,欧洲机场
+Genoa Cristoforo Colombo Airport,热那亚机场,transport,欧洲机场
+Turin Airport,都灵机场,transport,欧洲机场
+Pisa Galileo Galilei Airport,比萨机场,transport,欧洲机场
+Florence Airport,佛罗伦萨机场,transport,欧洲机场
+Naples International Airport,那不勒斯国际机场,transport,欧洲机场
+Catania-Fontanarossa Airport,卡塔尼亚机场,transport,欧洲机场
+Palermo Falcone-Borsellino Airport,巴勒莫机场,transport,欧洲机场
+Cagliari Elmas Airport,卡利亚里机场,transport,欧洲机场
+Brindisi Airport,布林迪西机场,transport,欧洲机场
+Bari Karol Wojtyla Airport,巴里机场,transport,欧洲机场
+Lamezia Terme Airport,拉默齐亚泰尔梅机场,transport,欧洲机场
+Reggio Calabria Airport,雷焦卡拉布里亚机场,transport,欧洲机场
+Trieste Airport,的里雅斯特机场,transport,欧洲机场
+Rimini Airport,里米尼机场,transport,欧洲机场
+Ancona Airport,安科纳机场,transport,欧洲机场
+Pescara Airport,佩斯卡拉机场,transport,欧洲机场
+Parma Airport,帕尔马机场,transport,欧洲机场
+Olbia Costa Smeralda Airport,奥尔比亚机场,transport,欧洲机场
+Alghero-Fertilia Airport,阿尔盖罗机场,transport,欧洲机场
+Trapani-Birgi Airport,特拉帕尼机场,transport,欧洲机场
+Comiso Airport,科米索机场,transport,欧洲机场
+Brescia Airport,布雷西亚机场,transport,欧洲机场
+Perugia San Francesco d'Assisi Airport,佩鲁贾机场,transport,欧洲机场
+Athens International Airport,雅典国际机场,transport,欧洲机场
+Thessaloniki Makedonia Airport,塞萨洛尼基机场,transport,欧洲机场
+Heraklion Airport,伊拉克利翁机场,transport,欧洲机场
+Chania Airport,干尼亚机场,transport,欧洲机场
+Rhodes Diagoras Airport,罗得岛机场,transport,欧洲机场
+Kos Airport,科斯岛机场,transport,欧洲机场
+Corfu Airport,科孚岛机场,transport,欧洲机场
+Kefalonia Airport,凯法利尼亚岛机场,transport,欧洲机场
+Zakynthos Airport,扎金索斯岛机场,transport,欧洲机场
+Santorini Thira Airport,圣托里尼机场,transport,欧洲机场
+Mykonos Airport,米科诺斯岛机场,transport,欧洲机场
+Samos Airport,萨摩斯岛机场,transport,欧洲机场
+Lesbos Airport,莱斯沃斯岛机场,transport,欧洲机场
+Chios Airport,希俄斯岛机场,transport,欧洲机场
+Skiathos Airport,斯基亚索斯岛机场,transport,欧洲机场
+Kalamata Airport,卡拉马塔机场,transport,欧洲机场
+Alexandroupolis Airport,亚历山德鲁波利斯机场,transport,欧洲机场
+Kavala Airport,卡瓦拉机场,transport,欧洲机场
+Istanbul Airport,伊斯坦布尔机场,transport,欧洲机场
+Sabiha Gökçen International Airport,萨比哈·格克琴国际机场,transport,欧洲机场
+Antalya Airport,安塔利亚机场,transport,欧洲机场
+Ankara Esenboğa Airport,安卡拉埃森博阿国际机场,transport,欧洲机场
+Izmir Adnan Menderes Airport,伊兹密尔阿德南·曼德列斯机场,transport,欧洲机场
+Adana Airport,阿达纳机场,transport,欧洲机场
+Dalaman Airport,达拉曼机场,transport,欧洲机场
+Milas-Bodrum Airport,博德鲁姆机场,transport,欧洲机场
+Trabzon Airport,特拉布宗机场,transport,欧洲机场
+Gaziantep Airport,加济安泰普机场,transport,欧洲机场
+Diyarbakır Airport,迪亚巴克尔机场,transport,欧洲机场
+Erzurum Airport,埃尔祖鲁姆机场,transport,欧洲机场
+Konya Airport,科尼亚机场,transport,欧洲机场
+Kayseri Erkilet Airport,开塞利机场,transport,欧洲机场
+Samsun-Çarşamba Airport,萨姆松机场,transport,欧洲机场
+Van Ferit Melen Airport,凡城机场,transport,欧洲机场
+Malatya Airport,马拉蒂亚机场,transport,欧洲机场
+Hatay Airport,哈塔伊机场,transport,欧洲机场
+Mardin Airport,马尔丁机场,transport,欧洲机场
+Sivas Airport,锡瓦斯机场,transport,欧洲机场
+Nevşehir Kapadokya Airport,内夫谢希尔机场,transport,欧洲机场
+Edremit Körfez Airport,埃德雷米特机场,transport,欧洲机场
+Rize-Artvin Airport,里泽-阿尔特温机场,transport,欧洲机场
+Batman Airport,巴特曼机场,transport,欧洲机场
+Larnaca International Airport,拉纳卡国际机场,transport,欧洲机场
+Paphos International Airport,帕福斯国际机场,transport,欧洲机场
+Malta International Airport,马耳他国际机场,transport,欧洲机场
+Copenhagen Airport,哥本哈根凯斯楚普机场,transport,欧洲机场
+Billund Airport,比隆机场,transport,欧洲机场
+Aalborg Airport,奥尔堡机场,transport,欧洲机场
+Aarhus Airport,奥胡斯机场,transport,欧洲机场
+Oslo Gardermoen Airport,奥斯陆加勒穆恩机场,transport,欧洲机场
+Bergen Flesland Airport,卑尔根机场,transport,欧洲机场
+Stavanger Airport,斯塔万格机场,transport,欧洲机场
+Trondheim Værnes Airport,特隆赫姆机场,transport,欧洲机场
+Tromsø Airport,特罗姆瑟机场,transport,欧洲机场
+Bodø Airport,博德机场,transport,欧洲机场
+Ålesund Airport,奥勒松机场,transport,欧洲机场
+Kristiansand Airport,克里斯蒂安桑机场,transport,欧洲机场
+Sandefjord Airport Torp,桑德尔福德托普机场,transport,欧洲机场
+Harstad Narvik Airport Evenes,哈尔斯塔-纳尔维克机场,transport,欧洲机场
+Alta Airport,阿尔塔机场,transport,欧洲机场
+Svalbard Airport Longyear,斯瓦尔巴朗伊尔机场,transport,欧洲机场
+Stockholm Arlanda Airport,斯德哥尔摩阿兰达机场,transport,欧洲机场
+Stockholm Bromma Airport,斯德哥尔摩布鲁玛机场,transport,欧洲机场
+Göteborg Landvetter Airport,哥德堡兰德维特机场,transport,欧洲机场
+Malmö Airport,马尔默机场,transport,欧洲机场
+Visby Airport,维斯比机场,transport,欧洲机场
+Umeå Airport,于默奥机场,transport,欧洲机场
+Luleå Airport,吕勒奥机场,transport,欧洲机场
+Kiruna Airport,基律纳机场,transport,欧洲机场
+Östersund Airport,厄斯特松德机场,transport,欧洲机场
+Helsinki-Vantaa Airport,赫尔辛基-万塔机场,transport,欧洲机场
+Turku Airport,图尔库机场,transport,欧洲机场
+Tampere-Pirkkala Airport,坦佩雷-皮尔卡拉机场,transport,欧洲机场
+Oulu Airport,奥卢机场,transport,欧洲机场
+Rovaniemi Airport,罗瓦涅米机场,transport,欧洲机场
+Kittilä Airport,基蒂莱机场,transport,欧洲机场
+Ivalo Airport,伊瓦洛机场,transport,欧洲机场
+Kuusamo Airport,库萨莫机场,transport,欧洲机场
+Vaasa Airport,瓦萨机场,transport,欧洲机场
+Kuopio Airport,库奥皮奥机场,transport,欧洲机场
+Joensuu Airport,约恩苏机场,transport,欧洲机场
+Mariehamn Airport,马里厄哈姆机场,transport,欧洲机场
+Keflavík International Airport,凯夫拉维克国际机场,transport,欧洲机场
+Reykjavík Airport,雷克雅未克机场,transport,欧洲机场
+Akureyri Airport,阿克雷里机场,transport,欧洲机场
+Egilsstaðir Airport,埃伊尔斯塔济机场,transport,欧洲机场
+Vágar Airport,沃格机场,transport,欧洲机场
+Warsaw Chopin Airport,华沙肖邦机场,transport,欧洲机场
+Warsaw-Modlin Airport,华沙-莫德林机场,transport,欧洲机场
+Kraków John Paul II International Airport,克拉科夫若望·保禄二世国际机场,transport,欧洲机场
+Gdańsk Lech Wałęsa Airport,格但斯克莱赫·瓦文萨机场,transport,欧洲机场
+Katowice Airport,卡托维兹机场,transport,欧洲机场
+Poznań-Ławica Airport,波兹南机场,transport,欧洲机场
+Wrocław Copernicus Airport,弗罗茨瓦夫哥白尼机场,transport,欧洲机场
+Rzeszów-Jasionka Airport,热舒夫-亚先卡机场,transport,欧洲机场
+Łódź Lublinek Airport,罗兹机场,transport,欧洲机场
+Szczecin-Goleniów Airport,什切青机场,transport,欧洲机场
+Bydgoszcz Airport,比得哥什机场,transport,欧洲机场
+Lublin Airport,卢布林机场,transport,欧洲机场
+Zielona Góra Airport,绿山城机场,transport,欧洲机场
+Olsztyn-Mazury Airport,奥尔什丁马祖里机场,transport,欧洲机场
+Prague Václav Havel Airport,布拉格瓦茨拉夫·哈维尔机场,transport,欧洲机场
+Brno-Tuřany Airport,布尔诺机场,transport,欧洲机场
+Ostrava Leos Janáček Airport,俄斯特拉发莱奥什·亚纳切克机场,transport,欧洲机场
+Karlovy Vary Airport,卡罗维发利机场,transport,欧洲机场
+Bratislava M.R. Štefánik Airport,布拉迪斯拉发机场,transport,欧洲机场
+Košice International Airport,科希策国际机场,transport,欧洲机场
+Poprad-Tatry Airport,波普拉德-塔特拉机场,transport,欧洲机场
+Budapest Ferenc Liszt International Airport,布达佩斯李斯特·费伦茨国际机场,transport,欧洲机场
+Debrecen International Airport,德布勒森国际机场,transport,欧洲机场
+Bucharest Henri Coandă International Airport,布加勒斯特亨利·科安德国际机场,transport,欧洲机场
+Bucharest Băneasa Aurel Vlaicu Airport,布加勒斯特伯尼亚萨机场,transport,欧洲机场
+Cluj-Napoca International Airport,克卢日-纳波卡国际机场,transport,欧洲机场
+Timișoara Traian Vuia International Airport,蒂米什瓦拉国际机场,transport,欧洲机场
+Iași International Airport,雅西国际机场,transport,欧洲机场
+Mihail Kogălniceanu Airport,米哈伊尔·科加尔尼恰努机场,transport,欧洲机场
+Sibiu International Airport,锡比乌国际机场,transport,欧洲机场
+Oradea International Airport,奥拉迪亚国际机场,transport,欧洲机场
+Craiova International Airport,克拉约瓦国际机场,transport,欧洲机场
+Bacău George Enescu Airport,巴克乌机场,transport,欧洲机场
+Suceava Ştefan cel Mare Airport,苏恰瓦机场,transport,欧洲机场
+Satu Mare International Airport,萨图马雷国际机场,transport,欧洲机场
+Sofia Airport,索菲亚机场,transport,欧洲机场
+Varna Airport,瓦尔纳机场,transport,欧洲机场
+Burgas Airport,布尔加斯机场,transport,欧洲机场
+Plovdiv Airport,普罗夫迪夫机场,transport,欧洲机场
+Chișinău International Airport,基希讷乌国际机场,transport,欧洲机场
+Boryspil International Airport,鲍里斯波尔国际机场,transport,欧洲机场
+Kyiv Zhuliany International Airport,基辅茹良尼国际机场,transport,欧洲机场
+Lviv Danylo Halytskyi International Airport,利沃夫丹尼洛·加利茨基国际机场,transport,欧洲机场
+Odesa International Airport,敖德萨国际机场,transport,欧洲机场
+Kharkiv International Airport,哈尔科夫国际机场,transport,欧洲机场
+Dnipro International Airport,第聂伯罗国际机场,transport,欧洲机场
+Zaporizhzhia International Airport,扎波罗热国际机场,transport,欧洲机场
+Vinnytsia International Airport,文尼察国际机场,transport,欧洲机场
+Ivano-Frankivsk International Airport,伊万诺-弗兰科夫斯克国际机场,transport,欧洲机场
+Chernivtsi International Airport,切尔诺夫策国际机场,transport,欧洲机场
+Uzhhorod International Airport,乌日哥罗德国际机场,transport,欧洲机场
+Lutsk Airport,卢茨克机场,transport,欧洲机场
+Riga International Airport,里加国际机场,transport,欧洲机场
+Vilnius International Airport,维尔纽斯国际机场,transport,欧洲机场
+Kaunas Airport,考纳斯机场,transport,欧洲机场
+Palanga International Airport,帕兰加国际机场,transport,欧洲机场
+Tallinn Lennart Meri Airport,塔林机场,transport,欧洲机场
+Tartu Airport,塔尔图机场,transport,欧洲机场
+Ljubljana Jože Pučnik Airport,卢布尔雅那机场,transport,欧洲机场
+Maribor Airport,马里博尔机场,transport,欧洲机场
+Zagreb Franjo Tuđman Airport,萨格勒布机场,transport,欧洲机场
+Split Airport,斯普利特机场,transport,欧洲机场
+Dubrovnik Airport,杜布罗夫尼克机场,transport,欧洲机场
+Zadar Airport,扎达尔机场,transport,欧洲机场
+Pula Airport,普拉机场,transport,欧洲机场
+Rijeka Airport,里耶卡机场,transport,欧洲机场
+Osijek Airport,奥西耶克机场,transport,欧洲机场
+Belgrade Nikola Tesla Airport,贝尔格莱德尼古拉·特斯拉机场,transport,欧洲机场
+Niš Constantine the Great Airport,尼什机场,transport,欧洲机场
+Skopje International Airport,斯科普里国际机场,transport,欧洲机场
+Ohrid St. Paul the Apostle Airport,奥赫里德机场,transport,欧洲机场
+Sarajevo International Airport,萨拉热窝国际机场,transport,欧洲机场
+Banja Luka International Airport,巴尼亚卢卡国际机场,transport,欧洲机场
+Mostar International Airport,莫斯塔尔国际机场,transport,欧洲机场
+Tuzla International Airport,图兹拉国际机场,transport,欧洲机场
+Podgorica Airport,波德戈里察机场,transport,欧洲机场
+Tivat Airport,蒂瓦特机场,transport,欧洲机场
+Tirana International Airport Mother Teresa,地拉那特蕾莎修女国际机场,transport,欧洲机场
+Pristina International Airport Adem Jashari,普里什蒂纳国际机场,transport,欧洲机场
+Moscow Sheremetyevo International Airport,莫斯科谢列梅捷沃国际机场,transport,欧洲机场
+Moscow Domodedovo International Airport,莫斯科多莫杰多沃国际机场,transport,欧洲机场
+Moscow Vnukovo International Airport,莫斯科伏努科沃国际机场,transport,欧洲机场
+Moscow Zhukovsky Airport,莫斯科茹科夫斯基机场,transport,欧洲机场
+St Petersburg Pulkovo Airport,圣彼得堡普尔科沃机场,transport,欧洲机场
+Kaliningrad Khrabrovo Airport,加里宁格勒赫拉布罗沃机场,transport,欧洲机场
+Murmansk Airport,摩尔曼斯克机场,transport,欧洲机场
+Arkhangelsk Talagi Airport,阿尔汉格尔斯克机场,transport,欧洲机场
+Petrozavodsk Besovets Airport,彼得罗扎沃茨克机场,transport,欧洲机场
+Syktyvkar Airport,瑟克特夫卡尔机场,transport,欧洲机场
+Cherepovets Severstal Airport,切列波韦茨机场,transport,欧洲机场
+Kazan International Airport,喀山国际机场,transport,欧洲机场
+Nizhny Novgorod Strigino International Airport,下诺夫哥罗德国际机场,transport,欧洲机场
+Samara Kurumoch International Airport,萨马拉库鲁莫奇国际机场,transport,欧洲机场
+Saratov Gagarin Airport,萨拉托夫加加林机场,transport,欧洲机场
+Volgograd Gumrak Airport,伏尔加格勒机场,transport,欧洲机场
+Astrakhan Airport,阿斯特拉罕机场,transport,欧洲机场
+Rostov-on-Don Platov International Airport,顿河畔罗斯托夫普拉托夫国际机场,transport,欧洲机场
+Krasnodar Pashkovsky Airport,克拉斯诺达尔机场,transport,欧洲机场
+Sochi Adler Airport,索契机场,transport,欧洲机场
+Anapa Vityazevo Airport,阿纳帕机场,transport,欧洲机场
+Mineralnye Vody Airport,矿水城机场,transport,欧洲机场
+Makhachkala Uytash Airport,马哈奇卡拉机场,transport,欧洲机场
+Grozny Airport,格罗兹尼机场,transport,欧洲机场
+Vladikavkaz Beslan Airport,弗拉季高加索机场,transport,欧洲机场
+Nalchik Airport,纳尔奇克机场,transport,欧洲机场
+Voronezh Chertovitskoye Airport,沃罗涅日机场,transport,欧洲机场
+Belgorod Airport,别尔哥罗德机场,transport,欧洲机场
+Kursk Airport,库尔斯克机场,transport,欧洲机场
+Lipetsk Airport,利佩茨克机场,transport,欧洲机场
+Penza Airport,奔萨机场,transport,欧洲机场
+Ulyanovsk Baratayevka Airport,乌里扬诺夫斯克巴拉塔耶夫卡机场,transport,欧洲机场
+Ulyanovsk Vostochny Airport,乌里扬诺夫斯克东方机场,transport,欧洲机场
+Kirov Pobedilovo Airport,基洛夫机场,transport,欧洲机场
+Izhevsk Airport,伊热夫斯克机场,transport,欧洲机场
+Orenburg Airport,奥伦堡机场,transport,欧洲机场
+Perm Bolshoye Savino Airport,彼尔姆机场,transport,欧洲机场
+Ufa International Airport,乌法国际机场,transport,欧洲机场
+Chelyabinsk Balandino Airport,车里雅宾斯克机场,transport,欧洲机场
+Yekaterinburg Koltsovo Airport,叶卡捷琳堡科利佐沃机场,transport,欧洲机场
+Minsk National Airport,明斯克国家机场,transport,欧洲机场
+Brest Airport,布列斯特机场,transport,欧洲机场
+Grodno Airport,格罗德诺机场,transport,欧洲机场
+Gomel Airport,戈梅利机场,transport,欧洲机场
+Vitebsk Airport,维捷布斯克机场,transport,欧洲机场
+Tbilisi International Airport,第比利斯国际机场,transport,欧洲机场
+Batumi International Airport,巴统国际机场,transport,欧洲机场
+Kutaisi David the Builder International Airport,库塔伊西国际机场,transport,欧洲机场
+Yerevan Zvartnots International Airport,埃里温兹瓦尔特诺茨国际机场,transport,欧洲机场
+Gyumri Shirak Airport,久姆里希拉克机场,transport,欧洲机场
+Heydar Aliyev International Airport,巴库盖达尔·阿利耶夫国际机场,transport,欧洲机场
+Ganja International Airport,占贾国际机场,transport,欧洲机场
+Nakhchivan Airport,纳希切万机场,transport,欧洲机场

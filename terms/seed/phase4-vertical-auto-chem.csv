@@ -1,0 +1,566 @@
+term_en,term_zh,category,subcategory
+vehicle logistics,汽车物流,special-cargo,汽车与化工物流
+vehicle logistics management (VLM),整车物流管理,special-cargo,汽车与化工物流
+finished vehicle logistics,成品车物流,special-cargo,汽车与化工物流
+car carrier,轿运车,special-cargo,汽车与化工物流
+car carrier trailer,车辆运输挂车,special-cargo,汽车与化工物流
+double-deck car carrier,双层轿运车,special-cargo,汽车与化工物流
+hybrid car carrier,混合式轿运车,special-cargo,汽车与化工物流
+car hauler,车辆运输车,special-cargo,汽车与化工物流
+truck-away trailer,轿车托运挂车,special-cargo,汽车与化工物流
+auto carrier truck head,轿运车牵引车头,special-cargo,汽车与化工物流
+tridem trailer,三轴挂车,special-cargo,汽车与化工物流
+low-deck trailer,低底板挂车,special-cargo,汽车与化工物流
+pure car carrier (PCC),纯汽车运输船,special-cargo,汽车与化工物流
+pure car and truck carrier (PCTC),汽车与卡车运输船,special-cargo,汽车与化工物流
+finished car carrier,成品汽车运输船,special-cargo,汽车与化工物流
+ro-ro ship,滚装船,special-cargo,汽车与化工物流
+ro-ro cargo space,滚装处所,special-cargo,汽车与化工物流
+ro-ro deck,滚装甲板,special-cargo,汽车与化工物流
+ro-ro passenger terminal,滚装客运码头,special-cargo,汽车与化工物流
+vehicle deck,车辆甲板,special-cargo,汽车与化工物流
+hoistable car deck,升降式车辆甲板,special-cargo,汽车与化工物流
+stern ramp,艉跳板,special-cargo,汽车与化工物流
+bow ramp,艏跳板,special-cargo,汽车与化工物流
+side ramp,舷侧跳板,special-cargo,汽车与化工物流
+quarter ramp,舷角跳板,special-cargo,汽车与化工物流
+internal ramp,内部坡道,special-cargo,汽车与化工物流
+rampway,坡道通道,special-cargo,汽车与化工物流
+lashing point,系固点,special-cargo,汽车与化工物流
+lashing chain,系固链条,special-cargo,汽车与化工物流
+lashing bridge,系固桥架,special-cargo,汽车与化工物流
+lashing manual,系固手册,special-cargo,汽车与化工物流
+wheel chock,轮挡,special-cargo,汽车与化工物流
+wooden chock,木制轮挡,special-cargo,汽车与化工物流
+tire strap,轮胎绑带,special-cargo,汽车与化工物流
+deck height,甲板净高,special-cargo,汽车与化工物流
+deck clear height,甲板有效高度,special-cargo,汽车与化工物流
+hybrid ro-ro vessel,混合式滚装船,special-cargo,汽车与化工物流
+con-ro vessel,集装箱滚装船,special-cargo,汽车与化工物流
+ro-ro terminal,滚装码头,special-cargo,汽车与化工物流
+vehicle terminal,汽车码头,special-cargo,汽车与化工物流
+vehicle yard,车辆堆场,special-cargo,汽车与化工物流
+vehicle storage yard,整车堆场,special-cargo,汽车与化工物流
+vehicle compound,车辆围场,special-cargo,汽车与化工物流
+parking stall,车位,special-cargo,汽车与化工物流
+berth planning,泊位计划,special-cargo,汽车与化工物流
+yard planning,堆场计划,special-cargo,汽车与化工物流
+stowage plan,积载图,special-cargo,汽车与化工物流
+loading sequence,装载顺序,special-cargo,汽车与化工物流
+loading list,装车清单,special-cargo,汽车与化工物流
+driving-on operation,自行驶上船作业,special-cargo,汽车与化工物流
+driving-off operation,自行驶下船作业,special-cargo,汽车与化工物流
+tally,理货,special-cargo,汽车与化工物流
+tally clerk,理货员,special-cargo,汽车与化工物流
+final tally report,最终理货报告,special-cargo,汽车与化工物流
+damage report,残损报告,special-cargo,汽车与化工物流
+pre-carriage damage check,装运前残损检查,special-cargo,汽车与化工物流
+ship-side damage survey,船边残损检验,special-cargo,汽车与化工物流
+vehicle inspection report,车辆检验报告,special-cargo,汽车与化工物流
+vehicle condition report,车辆状况报告,special-cargo,汽车与化工物流
+pre-delivery inspection (PDI),交车前检验,special-cargo,汽车与化工物流
+PDI center,交车前检验中心,special-cargo,汽车与化工物流
+vehicle processing center (VPC),整车处理中心,special-cargo,汽车与化工物流
+vehicle preparation center,车辆整备中心,special-cargo,汽车与化工物流
+body protection film,车身保护膜,special-cargo,汽车与化工物流
+paint protection film,漆面保护膜,special-cargo,汽车与化工物流
+vehicle wrapping,车辆包覆,special-cargo,汽车与化工物流
+wheel net,轮胎网套,special-cargo,汽车与化工物流
+factory-fitted options,出厂选装件,special-cargo,汽车与化工物流
+port-fitted options,港口加装件,special-cargo,汽车与化工物流
+vehicle homologation,车辆型式认证,special-cargo,汽车与化工物流
+WVTA certification,欧盟整车型式认证,special-cargo,汽车与化工物流
+type approval,型式批准,special-cargo,汽车与化工物流
+Certificate of Conformity (CoC),符合性证书,special-cargo,汽车与化工物流
+customs bond for vehicles,车辆海关担保,special-cargo,汽车与化工物流
+temporary admission of vehicles,车辆暂时进口,special-cargo,汽车与化工物流
+ATA carnet,ATA 单证册,special-cargo,汽车与化工物流
+trade plate,商用试车牌,special-cargo,汽车与化工物流
+drive-away service,自驾交付服务,special-cargo,汽车与化工物流
+drive-away claim,自驾事故索赔,special-cargo,汽车与化工物流
+depreciation claim for damaged vehicles,受损车辆折旧索赔,special-cargo,汽车与化工物流
+EV vehicle logistics,电动汽车物流,special-cargo,汽车与化工物流
+EV ro-ro transport,电动汽车滚装运输,special-cargo,汽车与化工物流
+inland vehicle transport,内陆整车运输,special-cargo,汽车与化工物流
+compound transport,堆场间短驳运输,special-cargo,汽车与化工物流
+precarriage,前置运输,special-cargo,汽车与化工物流
+on-carriage,后续运输,special-cargo,汽车与化工物流
+dealer delivery,经销商交付,special-cargo,汽车与化工物流
+last-mile vehicle delivery,整车末端交付,special-cargo,汽车与化工物流
+customer handover,客户交车,special-cargo,汽车与化工物流
+vehicle order management,车辆订单管理,special-cargo,汽车与化工物流
+vehicle tracking system,车辆追踪系统,special-cargo,汽车与化工物流
+automatic vehicle location (AVL),车辆自动定位,special-cargo,汽车与化工物流
+vehicle identification number (VIN),车辆识别代号,special-cargo,汽车与化工物流
+VIN decoding,车架号解析,special-cargo,汽车与化工物流
+vehicle master data,车辆主数据,special-cargo,汽车与化工物流
+logistics service provider (LSP),物流服务提供商,special-cargo,汽车与化工物流
+lead logistics provider (LLP),牵头物流服务商,special-cargo,汽车与化工物流
+fourth-party logistics (4PL),第四方物流,special-cargo,汽车与化工物流
+third-party logistics (3PL),第三方物流,special-cargo,汽车与化工物流
+inbound logistics,入厂物流,special-cargo,汽车与化工物流
+outbound logistics,出厂物流,special-cargo,汽车与化工物流
+parts logistics,零部件物流,special-cargo,汽车与化工物流
+aftermarket logistics,售后配件物流,special-cargo,汽车与化工物流
+spare parts logistics,备件物流,special-cargo,汽车与化工物流
+service parts logistics,维修件物流,special-cargo,汽车与化工物流
+knock-down kit (KD),散件组装套装,special-cargo,汽车与化工物流
+completely knocked down (CKD),全散件组装,special-cargo,汽车与化工物流
+semi knocked down (SKD),半散件组装,special-cargo,汽车与化工物流
+KD parts packing,散件包装,special-cargo,汽车与化工物流
+KD container stuffing,散件装箱,special-cargo,汽车与化工物流
+component logistics,部件物流,special-cargo,汽车与化工物流
+subassembly logistics,分总成物流,special-cargo,汽车与化工物流
+module supply,模块化供货,special-cargo,汽车与化工物流
+module supplier,模块供应商,special-cargo,汽车与化工物流
+system supplier,系统供应商,special-cargo,汽车与化工物流
+tier 1 supplier,一级供应商,special-cargo,汽车与化工物流
+tier 2 supplier,二级供应商,special-cargo,汽车与化工物流
+tier 3 supplier,三级供应商,special-cargo,汽车与化工物流
+supplier park,供应商园区,special-cargo,汽车与化工物流
+supplier industrial cluster,供应商产业集群,special-cargo,汽车与化工物流
+plant-adjacent warehouse,毗邻工厂仓库,special-cargo,汽车与化工物流
+on-site warehouse,厂内仓库,special-cargo,汽车与化工物流
+parts bank,零部件缓冲库,special-cargo,汽车与化工物流
+in-plant logistics,厂内物流,special-cargo,汽车与化工物流
+in-plant milkrun,厂内循环取货,special-cargo,汽车与化工物流
+dock-to-stock,码头到入库,special-cargo,汽车与化工物流
+dock scheduling,月台调度,special-cargo,汽车与化工物流
+yard management system (YMS),堆场管理系统,special-cargo,汽车与化工物流
+trailer yard,挂车堆场,special-cargo,汽车与化工物流
+trailer pool,挂车池,special-cargo,汽车与化工物流
+drop and hook,甩挂运输,special-cargo,汽车与化工物流
+trailer swap,挂车交换,special-cargo,汽车与化工物流
+live unload,现场卸货,special-cargo,汽车与化工物流
+drop trailer unloading,甩箱卸货,special-cargo,汽车与化工物流
+just-in-time (JIT),准时制,special-cargo,汽车与化工物流
+just-in-sequence (JIS),准时化排序供货,special-cargo,汽车与化工物流
+sequenced part supply,排序供货,special-cargo,汽车与化工物流
+sequence center,排序中心,special-cargo,汽车与化工物流
+in-line vehicle sequencing,生产线车辆排序,special-cargo,汽车与化工物流
+JIS delivery,准时化排序交付,special-cargo,汽车与化工物流
+broadcast order,广播式订单,special-cargo,汽车与化工物流
+call-off order,看板呼叫订单,special-cargo,汽车与化工物流
+release order,放行订单,special-cargo,汽车与化工物流
+kanban system,看板系统,special-cargo,汽车与化工物流
+electronic kanban,电子看板,special-cargo,汽车与化工物流
+two-bin system,双箱系统,special-cargo,汽车与化工物流
+milkrun,循环取货,special-cargo,汽车与化工物流
+milkrun truck,循环取货车,special-cargo,汽车与化工物流
+milkrun route,循环取货路线,special-cargo,汽车与化工物流
+milkrun network,循环取货网络,special-cargo,汽车与化工物流
+fixed route shuttle,定点班车,special-cargo,汽车与化工物流
+consolidation center,集货中心,special-cargo,汽车与化工物流
+cross-docking,越库作业,special-cargo,汽车与化工物流
+line-side delivery,线边供货,special-cargo,汽车与化工物流
+line feeding,产线供料,special-cargo,汽车与化工物流
+line-side buffer,线边缓冲区,special-cargo,汽车与化工物流
+supermarket area (in-plant),厂内超市区,special-cargo,汽车与化工物流
+water spider,物料配送员（水蜘蛛）,special-cargo,汽车与化工物流
+tugger train,牵引列车,special-cargo,汽车与化工物流
+tugger train logistics,牵引列车配送,special-cargo,汽车与化工物流
+tow train,拖挂列车,special-cargo,汽车与化工物流
+automated guided vehicle (AGV),自动导引运输车,special-cargo,汽车与化工物流
+autonomous mobile robot (AMR),自主移动机器人,special-cargo,汽车与化工物流
+small lot transport,小批量运输,special-cargo,汽车与化工物流
+small box shipping,小件箱运输,special-cargo,汽车与化工物流
+returnable container,可循环周转箱,special-cargo,汽车与化工物流
+returnable packaging,循环包装,special-cargo,汽车与化工物流
+returnable container pool,周转箱共享池,special-cargo,汽车与化工物流
+container pooling,容器共享,special-cargo,汽车与化工物流
+foldable container,折叠式周转箱,special-cargo,汽车与化工物流
+nestable container,嵌套式周转箱,special-cargo,汽车与化工物流
+container fleet management,容器车队管理,special-cargo,汽车与化工物流
+empty container return,空容器返还,special-cargo,汽车与化工物流
+reverse logistics,逆向物流,special-cargo,汽车与化工物流
+packaging loop,包装闭环,special-cargo,汽车与化工物流
+pallet pool,托盘池,special-cargo,汽车与化工物流
+pallet exchange,托盘交换,special-cargo,汽车与化工物流
+stillage,金属料架,special-cargo,汽车与化工物流
+dunnage,缓冲衬垫,special-cargo,汽车与化工物流
+custom dunnage,定制衬垫,special-cargo,汽车与化工物流
+nestable stillage,可嵌套料架,special-cargo,汽车与化工物流
+folding stillage,折叠料架,special-cargo,汽车与化工物流
+small load carrier (KLT),小载具箱,special-cargo,汽车与化工物流
+large load carrier (GLT),大载具箱,special-cargo,汽车与化工物流
+one-way packaging,一次性包装,special-cargo,汽车与化工物流
+export packaging,出口包装,special-cargo,汽车与化工物流
+honeycomb packaging,蜂窝包装,special-cargo,汽车与化工物流
+flow rack,流利式货架,special-cargo,汽车与化工物流
+small parts storage,小件存储,special-cargo,汽车与化工物流
+miniload,小型自动存取系统,special-cargo,汽车与化工物流
+automated small parts warehouse,自动化小件仓库,special-cargo,汽车与化工物流
+high-bay warehouse,高位立体仓库,special-cargo,汽车与化工物流
+order picking,订单拣选,special-cargo,汽车与化工物流
+batch picking,批量拣选,special-cargo,汽车与化工物流
+pick-to-light,电子标签拣选,special-cargo,汽车与化工物流
+put-to-light,电子标签分播,special-cargo,汽车与化工物流
+kitting,成套备料,special-cargo,汽车与化工物流
+sequencing,排序作业,special-cargo,汽车与化工物流
+pre-assembly,预组装,special-cargo,汽车与化工物流
+sub-assembly,分装作业,special-cargo,汽车与化工物流
+warehouse management system (WMS),仓库管理系统,special-cargo,汽车与化工物流
+supervisor system (SV),监督调度系统,special-cargo,汽车与化工物流
+plant logistics control system,工厂物流控制系统,special-cargo,汽车与化工物流
+material flow system,物料流系统,special-cargo,汽车与化工物流
+supplier collaboration portal,供应商协同门户,special-cargo,汽车与化工物流
+order release management,订单释放管理,special-cargo,汽车与化工物流
+delivery schedule,交付日程,special-cargo,汽车与化工物流
+call-off schedule,呼叫计划,special-cargo,汽车与化工物流
+weekly call-off,周呼叫,special-cargo,汽车与化工物流
+daily call-off,日呼叫,special-cargo,汽车与化工物流
+shipping window,发运时间窗,special-cargo,汽车与化工物流
+delivery time window,交付时间窗,special-cargo,汽车与化工物流
+on-time delivery rate,准时交付率,special-cargo,汽车与化工物流
+on-time-in-full (OTIF),准时足量交付率,special-cargo,汽车与化工物流
+picking accuracy,拣货准确率,special-cargo,汽车与化工物流
+line stoppage,产线停线,special-cargo,汽车与化工物流
+line downtime,产线停机时间,special-cargo,汽车与化工物流
+line downtime penalty,停线违约金,special-cargo,汽车与化工物流
+premium freight,加急运费,special-cargo,汽车与化工物流
+expedited freight,紧急运输,special-cargo,汽车与化工物流
+airfreight escalation,空运升级,special-cargo,汽车与化工物流
+emergency parts supply,紧急件供应,special-cargo,汽车与化工物流
+stock-out,缺料,special-cargo,汽车与化工物流
+shortage list,缺件清单,special-cargo,汽车与化工物流
+safety stock,安全库存,special-cargo,汽车与化工物流
+buffer stock,缓冲库存,special-cargo,汽车与化工物流
+pipeline stock,在途库存,special-cargo,汽车与化工物流
+days of supply,供应天数,special-cargo,汽车与化工物流
+inventory turns,库存周转次数,special-cargo,汽车与化工物流
+throughput time,通过时间,special-cargo,汽车与化工物流
+lead time,交货周期,special-cargo,汽车与化工物流
+supplier lead time,供应商交期,special-cargo,汽车与化工物流
+dock-to-line time,卸货到上线时间,special-cargo,汽车与化工物流
+edging stock,边缘备料,special-cargo,汽车与化工物流
+sequencing buffer,排序缓冲,special-cargo,汽车与化工物流
+deconsolidation point,拆载点,special-cargo,汽车与化工物流
+break-bulk deconsolidation,散货拆分,special-cargo,汽车与化工物流
+order-to-delivery lead time,订单到交付周期,special-cargo,汽车与化工物流
+supplier manual,供应商手册,special-cargo,汽车与化工物流
+MMOG/LE assessment,全球物料管理运营指南评估,special-cargo,汽车与化工物流
+VDA 6.3 process audit,VDA 6.3 过程审核,special-cargo,汽车与化工物流
+VDA KLV standard,德国汽车工业循环包装标准,special-cargo,汽车与化工物流
+VDA 5080 standard,德国小载具标准,special-cargo,汽车与化工物流
+Odette standard,欧洲汽车物流 Odette 标准,special-cargo,汽车与化工物流
+Electronic Data Interchange (EDI),电子数据交换,special-cargo,汽车与化工物流
+EDIFACT,联合国电子数据交换标准,special-cargo,汽车与化工物流
+ANSI X12,美国电子数据交换标准,special-cargo,汽车与化工物流
+VDA 4915,德国汽车 EDI 发运通知标准,special-cargo,汽车与化工物流
+VDA 4995,德国汽车 EDI 装箱单标准,special-cargo,汽车与化工物流
+DESADV message,发运通知报文,special-cargo,汽车与化工物流
+packing slip,装箱单,special-cargo,汽车与化工物流
+delivery note,送货单,special-cargo,汽车与化工物流
+goods receipt,收货确认,special-cargo,汽车与化工物流
+labelling standard,标签标准,special-cargo,汽车与化工物流
+barcode label,条码标签,special-cargo,汽车与化工物流
+2D data matrix code,二维矩阵码,special-cargo,汽车与化工物流
+RFID tag,射频识别标签,special-cargo,汽车与化工物流
+automotive export logistics,汽车出口物流,special-cargo,汽车与化工物流
+vehicle export documentation,整车出口单证,special-cargo,汽车与化工物流
+export vehicle customs clearance,整车出口报关,special-cargo,汽车与化工物流
+bill of lading for ro-ro cargo,滚装货物提单,special-cargo,汽车与化工物流
+booking note,订舱单,special-cargo,汽车与化工物流
+shipping order,托运单,special-cargo,汽车与化工物流
+vanning,装集装箱作业,special-cargo,汽车与化工物流
+devanning,拆箱作业,special-cargo,汽车与化工物流
+containerized vehicle shipment,整车集装箱运输,special-cargo,汽车与化工物流
+vehicle rack for container,集装箱内车辆托架,special-cargo,汽车与化工物流
+40-foot HC container,40 英尺高柜集装箱,special-cargo,汽车与化工物流
+car loading frame,装车框架,special-cargo,汽车与化工物流
+vehicle lashing inside container,箱内车辆绑扎,special-cargo,汽车与化工物流
+ro-ro cargo manifest,滚装货物舱单,special-cargo,汽车与化工物流
+ISO tank container,ISO 罐式集装箱,special-cargo,汽车与化工物流
+tank container operator,罐箱运营商,special-cargo,汽车与化工物流
+tank container leasing,罐箱租赁,special-cargo,汽车与化工物流
+20-foot tank container,20 英尺罐箱,special-cargo,汽车与化工物流
+swap tank,罐式交换箱体,special-cargo,汽车与化工物流
+tank lining,罐体内衬,special-cargo,汽车与化工物流
+PTFE-lined tank,聚四氟乙烯内衬罐,special-cargo,汽车与化工物流
+tank capacity,罐箱容积,special-cargo,汽车与化工物流
+filling ratio,充装率,special-cargo,汽车与化工物流
+filling density,充装密度,special-cargo,汽车与化工物流
+maximum permissible gross mass,最大允许总质量,special-cargo,汽车与化工物流
+testing of tank containers,罐箱检验,special-cargo,汽车与化工物流
+2.5-year intermediate examination,罐箱 2.5 年中间检验,special-cargo,汽车与化工物流
+5-year periodic examination,罐箱 5 年定期检验,special-cargo,汽车与化工物流
+tank container frame,罐箱框架,special-cargo,汽车与化工物流
+top discharge,上卸料,special-cargo,汽车与化工物流
+bottom discharge,下卸料,special-cargo,汽车与化工物流
+sight glass,视镜,special-cargo,汽车与化工物流
+butterfly valve,蝶阀,special-cargo,汽车与化工物流
+foot valve,底阀,special-cargo,汽车与化工物流
+air relief valve,泄压阀,special-cargo,汽车与化工物流
+pressure relief device,泄压装置,special-cargo,汽车与化工物流
+rupture disc,爆破片,special-cargo,汽车与化工物流
+safety valve,安全阀,special-cargo,汽车与化工物流
+spill containment,泄漏围控,special-cargo,汽车与化工物流
+steam heating,蒸汽加热,special-cargo,汽车与化工物流
+electric heating,电加热,special-cargo,汽车与化工物流
+thermal oil heating,导热油加热,special-cargo,汽车与化工物流
+heating jacket,加热夹套,special-cargo,汽车与化工物流
+insulated tank,保温罐,special-cargo,汽车与化工物流
+tank cladding,罐体包覆层,special-cargo,汽车与化工物流
+cryogenic tank container,深冷罐箱,special-cargo,汽车与化工物流
+vacuum insulated tank,真空绝热罐,special-cargo,汽车与化工物流
+cryogenic liquefied gas,低温液化气体,special-cargo,汽车与化工物流
+liquefied natural gas (LNG),液化天然气,special-cargo,汽车与化工物流
+liquefied petroleum gas (LPG),液化石油气,special-cargo,汽车与化工物流
+ethylene,乙烯,special-cargo,汽车与化工物流
+ethylene transport,乙烯运输,special-cargo,汽车与化工物流
+pressure tank,压力罐,special-cargo,汽车与化工物流
+gas tank container,气体罐箱,special-cargo,汽车与化工物流
+multi-layer insulation,多层绝热,special-cargo,汽车与化工物流
+boil-off gas,蒸发气体,special-cargo,汽车与化工物流
+intermediate bulk container (IBC),中型散装容器,special-cargo,汽车与化工物流
+IBC totes,IBC 吨桶,special-cargo,汽车与化工物流
+composite IBC,复合式中型散装容器,special-cargo,汽车与化工物流
+wooden IBC,木制中型散装容器,special-cargo,汽车与化工物流
+steel IBC,钢制中型散装容器,special-cargo,汽车与化工物流
+flexible IBC,柔性中型散装容器,special-cargo,汽车与化工物流
+dangerous goods packaging,危险货物包装,special-cargo,汽车与化工物流
+UN performance packaging,联合国性能包装,special-cargo,汽车与化工物流
+UN specification mark,联合国规格标记,special-cargo,汽车与化工物流
+packaging code,包装代码,special-cargo,汽车与化工物流
+packing instruction,包装说明,special-cargo,汽车与化工物流
+packing group,包装类别,special-cargo,汽车与化工物流
+packing group I,第 I 类包装,special-cargo,汽车与化工物流
+packing group II,第 II 类包装,special-cargo,汽车与化工物流
+packing group III,第 III 类包装,special-cargo,汽车与化工物流
+combination packaging,组合包装,special-cargo,汽车与化工物流
+single packaging,单一包装,special-cargo,汽车与化工物流
+composite packaging,复合包装,special-cargo,汽车与化工物流
+inner packaging,内包装,special-cargo,汽车与化工物流
+outer packaging,外包装,special-cargo,汽车与化工物流
+salvage packaging,救助包装,special-cargo,汽车与化工物流
+intermediate packaging,中间包装,special-cargo,汽车与化工物流
+drop test,跌落试验,special-cargo,汽车与化工物流
+stacking test,堆码试验,special-cargo,汽车与化工物流
+leakproofness test,气密试验,special-cargo,汽车与化工物流
+internal pressure test,内压试验,special-cargo,汽车与化工物流
+vibration test,振动试验,special-cargo,汽车与化工物流
+quality assurance for packaging,包装质量保证,special-cargo,汽车与化工物流
+packaging certification,包装认证,special-cargo,汽车与化工物流
+drum,桶,special-cargo,汽车与化工物流
+steel drum,钢桶,special-cargo,汽车与化工物流
+jerrican,方提桶,special-cargo,汽车与化工物流
+box,箱,special-cargo,汽车与化工物流
+bag,袋,special-cargo,汽车与化工物流
+composite drum,复合桶,special-cargo,汽车与化工物流
+reconditioned packaging,翻新包装,special-cargo,汽车与化工物流
+remanufactured drum,再造桶,special-cargo,汽车与化工物流
+dangerous goods (DG),危险货物,special-cargo,汽车与化工物流
+hazardous materials (HAZMAT),危险物料,special-cargo,汽车与化工物流
+UN number,联合国编号,special-cargo,汽车与化工物流
+hazard class,危险类别,special-cargo,汽车与化工物流
+class 1 explosives,第 1 类爆炸品,special-cargo,汽车与化工物流
+class 2 gases,第 2 类气体,special-cargo,汽车与化工物流
+class 3 flammable liquids,第 3 类易燃液体,special-cargo,汽车与化工物流
+class 4 flammable solids,第 4 类易燃固体,special-cargo,汽车与化工物流
+class 5 oxidizing substances,第 5 类氧化性物质,special-cargo,汽车与化工物流
+class 6 toxic substances,第 6 类毒性物质,special-cargo,汽车与化工物流
+class 7 radioactive material,第 7 类放射性物质,special-cargo,汽车与化工物流
+class 8 corrosives,第 8 类腐蚀性物质,special-cargo,汽车与化工物流
+class 9 miscellaneous dangerous goods,第 9 类杂项危险货物,special-cargo,汽车与化工物流
+organic peroxide,有机过氧化物,special-cargo,汽车与化工物流
+self-reactive substance,自反应物质,special-cargo,汽车与化工物流
+flash point,闪点,special-cargo,汽车与化工物流
+boiling point,沸点,special-cargo,汽车与化工物流
+toxicity,毒性,special-cargo,汽车与化工物流
+infectious substance,感染性物质,special-cargo,汽车与化工物流
+hazard label,危险性标签,special-cargo,汽车与化工物流
+marking,标记,special-cargo,汽车与化工物流
+placard,危险性公告牌,special-cargo,汽车与化工物流
+orientation arrows,方向箭头,special-cargo,汽车与化工物流
+environmentally hazardous substance,环境有害物质,special-cargo,汽车与化工物流
+marine pollutant,海洋污染物,special-cargo,汽车与化工物流
+dangerous goods declaration (DGD),危险货物申报单,special-cargo,汽车与化工物流
+dangerous goods note (DGN),危险货物通知单,special-cargo,汽车与化工物流
+shipping name,运输名称,special-cargo,汽车与化工物流
+proper shipping name (PSN),正确运输名称,special-cargo,汽车与化工物流
+technical name,技术名称,special-cargo,汽车与化工物流
+generic entry,通用条目,special-cargo,汽车与化工物流
+not otherwise specified (N.O.S.),未另列明条目,special-cargo,汽车与化工物流
+dangerous goods list,危险货物一览表,special-cargo,汽车与化工物流
+emergency schedule (EmS),应急措施表,special-cargo,汽车与化工物流
+medical first aid guide (MFAG),医疗急救指南,special-cargo,汽车与化工物流
+segregation,隔离,special-cargo,汽车与化工物流
+segregation table,隔离表,special-cargo,汽车与化工物流
+separation distances,分隔距离,special-cargo,汽车与化工物流
+dangerous goods packer,危险货物包装人,special-cargo,汽车与化工物流
+consignor,托运人,special-cargo,汽车与化工物流
+consignee,收货人,special-cargo,汽车与化工物流
+DG declaration signatory,危险品申报签字人,special-cargo,汽车与化工物流
+Dangerous Goods Safety Adviser (DGSA),危险货物安全顾问,special-cargo,汽车与化工物流
+ADR (European Agreement on the International Carriage of Dangerous Goods by Road),国际公路危险货物运输协定,special-cargo,汽车与化工物流
+ADR transport document,ADR 运输文件,special-cargo,汽车与化工物流
+ADR instructions in writing,ADR 书面指示,special-cargo,汽车与化工物流
+tunnel restriction code,隧道限行代码,special-cargo,汽车与化工物流
+tunnel category,隧道类别,special-cargo,汽车与化工物流
+vehicle for dangerous goods,危险货物运输车辆,special-cargo,汽车与化工物流
+orange plate,橙色标志牌,special-cargo,汽车与化工物流
+ADR safety adviser certificate,ADR 安全顾问证书,special-cargo,汽车与化工物流
+RID (Regulations Concerning the International Carriage of Dangerous Goods by Rail),国际铁路危险货物运输规则,special-cargo,汽车与化工物流
+ADN,欧洲内河航运危险货物协定,special-cargo,汽车与化工物流
+IMDG Code,国际海运危险货物规则,special-cargo,汽车与化工物流
+IMDG Code supplement,IMDG 规则补充本,special-cargo,汽车与化工物流
+IMDG amendments,IMDG 修正案,special-cargo,汽车与化工物流
+IMDG stowage categories,IMDG 积载类别,special-cargo,汽车与化工物流
+IMDG segregation groups,IMDG 隔离组,special-cargo,汽车与化工物流
+multimodal dangerous goods form (MDGF),多式联运危险货物申报表,special-cargo,汽车与化工物流
+container packing certificate,集装箱装箱证明书,special-cargo,汽车与化工物流
+IMDG limited quantities,IMDG 限量危险货物,special-cargo,汽车与化工物流
+IMDG excepted quantities,IMDG 豁免数量,special-cargo,汽车与化工物流
+IMDG control temperature,IMDG 控制温度,special-cargo,汽车与化工物流
+IMDG emergency temperature,IMDG 应急温度,special-cargo,汽车与化工物流
+self-accelerating decomposition temperature (SADT),自加速分解温度,special-cargo,汽车与化工物流
+self-accelerating polymerization temperature (SAPT),自加速聚合温度,special-cargo,汽车与化工物流
+cargo transport unit (CTU),货物运输组件,special-cargo,汽车与化工物流
+IMDG placarding,IMDG 公告牌加贴,special-cargo,汽车与化工物流
+IMDG fumigated cargo transport unit,IMDG 熏蒸货物运输组件,special-cargo,汽车与化工物流
+IMDG transport document,IMDG 运输文件,special-cargo,汽车与化工物流
+IMDG consignment procedures,IMDG 托运程序,special-cargo,汽车与化工物流
+IMDG training requirements,IMDG 培训要求,special-cargo,汽车与化工物流
+IMDG security provisions,IMDG 保安条款,special-cargo,汽车与化工物流
+temperature control label,温控标签,special-cargo,汽车与化工物流
+self-reactive label,自反应物质标签,special-cargo,汽车与化工物流
+organic peroxide label,有机过氧化物标签,special-cargo,汽车与化工物流
+severe marine pollutant,严重海洋污染物,special-cargo,汽车与化工物流
+EmS fire schedule,火灾应急措施表,special-cargo,汽车与化工物流
+EmS spillage schedule,泄漏应急措施表,special-cargo,汽车与化工物流
+IMDG Annex 3,IMDG 附录 3,special-cargo,汽车与化工物流
+cargo transport unit marking,货物运输组件标记,special-cargo,汽车与化工物流
+placard placement,公告牌张贴位置,special-cargo,汽车与化工物流
+packaged dangerous goods consignment,包装危险货物托运,special-cargo,汽车与化工物流
+IMDG Annex 1,IMDG 第 1 附录,special-cargo,汽车与化工物流
+IMDG Annex 2,IMDG 第 2 附录,special-cargo,汽车与化工物流
+IMDG annual amendments,IMDG 年度修正,special-cargo,汽车与化工物流
+packaging conformity assessment,包装符合性评定,special-cargo,汽车与化工物流
+dangerous goods acceptance,危险货物受理,special-cargo,汽车与化工物流
+port authority notification,港口当局通知,special-cargo,汽车与化工物流
+dangerous goods manifest,危险货物舱单,special-cargo,汽车与化工物流
+stowage code,积载代码,special-cargo,汽车与化工物流
+segregation code,隔离代码,special-cargo,汽车与化工物流
+container packing requirements,集装箱装箱要求,special-cargo,汽车与化工物流
+cargo securing manual,货物系固手册,special-cargo,汽车与化工物流
+UN Model Regulations (Orange Book),联合国危险货物运输规章范本（橘皮书）,special-cargo,汽车与化工物流
+IBC Code (International Code for the Construction and Equipment of Ships Carrying Dangerous Chemicals in Bulk),国际散装运输危险化学品船舶构造与设备规范,special-cargo,汽车与化工物流
+IGC Code (International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk),国际散装运输液化气体船舶构造与设备规范,special-cargo,汽车与化工物流
+liquefied gas carrier,液化气体船,special-cargo,汽车与化工物流
+bulk liquid chemicals,散装液体化学品,special-cargo,汽车与化工物流
+cargo hose,货物软管,special-cargo,汽车与化工物流
+cargo tank,货物液舱,special-cargo,汽车与化工物流
+cargo pump room,货物泵舱,special-cargo,汽车与化工物流
+cargo compatibility,货物相容性,special-cargo,汽车与化工物流
+cargo transfer procedures,货物转移程序,special-cargo,汽车与化工物流
+IMO field manual,IMO 现场手册,special-cargo,汽车与化工物流
+MARPOL Annex III harmful substances,防止海运包装形式有害物质污染规则,special-cargo,汽车与化工物流
+hazardous and noxious substances (HNS),危险和有害物质,special-cargo,汽车与化工物流
+chemical logistics,化学品物流,special-cargo,汽车与化工物流
+chemical supply chain,化学品供应链,special-cargo,汽车与化工物流
+chemical distribution,化学品分销,special-cargo,汽车与化工物流
+chemical tanker,化学品船,special-cargo,汽车与化工物流
+palletized liquid cargo,托盘化液体货物,special-cargo,汽车与化工物流
+flexitank,液袋,special-cargo,汽车与化工物流
+flexibag,液体集装袋,special-cargo,汽车与化工物流
+liquid bulk,散装液体,special-cargo,汽车与化工物流
+drumming service,灌桶服务,special-cargo,汽车与化工物流
+decanting,分装,special-cargo,汽车与化工物流
+repackaging service,再包装服务,special-cargo,汽车与化工物流
+blending service,掺混服务,special-cargo,汽车与化工物流
+chemical blending,化学品掺混,special-cargo,汽车与化工物流
+bonded chemical warehouse,保税化学品仓库,special-cargo,汽车与化工物流
+chemical warehouse,化学品仓库,special-cargo,汽车与化工物流
+segregated storage,分区储存,special-cargo,汽车与化工物流
+temperature-controlled chemical storage,控温化学品储存,special-cargo,汽车与化工物流
+chemical handling,化学品搬运,special-cargo,汽车与化工物流
+tank cleaning,洗罐,special-cargo,汽车与化工物流
+tank cleaning station,洗罐站,special-cargo,汽车与化工物流
+cleaning certificate,清洗证书,special-cargo,汽车与化工物流
+pre-shipment tank inspection,装运前罐体检验,special-cargo,汽车与化工物流
+tank container suitability inspection,罐箱适载性检验,special-cargo,汽车与化工物流
+chemical discharge,化学品卸货,special-cargo,汽车与化工物流
+hazard and operability study (HAZOP),危险与可操作性分析,special-cargo,汽车与化工物流
+process safety management,过程安全管理,special-cargo,汽车与化工物流
+responsible care,责任关怀,special-cargo,汽车与化工物流
+safety data sheet (SDS),安全数据单,special-cargo,汽车与化工物流
+GHS label,GHS 标签,special-cargo,汽车与化工物流
+flammable liquid,易燃液体,special-cargo,汽车与化工物流
+flammable solid,易燃固体,special-cargo,汽车与化工物流
+flammable gas,易燃气体,special-cargo,汽车与化工物流
+oxidizing substance,氧化性物质,special-cargo,汽车与化工物流
+toxic substance,毒性物质,special-cargo,汽车与化工物流
+corrosive substance,腐蚀性物质,special-cargo,汽车与化工物流
+inhalation toxicity,吸入毒性,special-cargo,汽车与化工物流
+chronic aquatic toxicity,慢性水生毒性,special-cargo,汽车与化工物流
+acute aquatic toxicity,急性水生毒性,special-cargo,汽车与化工物流
+GHS (Globally Harmonized System of Classification and Labelling of Chemicals),全球化学品统一分类和标签制度,special-cargo,汽车与化工物流
+GHS hazard statement,危险性说明,special-cargo,汽车与化工物流
+GHS precautionary statement,防范说明,special-cargo,汽车与化工物流
+GHS signal word,信号词,special-cargo,汽车与化工物流
+GHS pictogram,象形图,special-cargo,汽车与化工物流
+GHS hazard class,危险性类别,special-cargo,汽车与化工物流
+GHS hazard category,危险性类别等级,special-cargo,汽车与化工物流
+GHS hazard classification,危害分类,special-cargo,汽车与化工物流
+GHS classification criteria,分类判定标准,special-cargo,汽车与化工物流
+GHS labelling element,标签要素,special-cargo,汽车与化工物流
+GHS SDS sections,安全数据单章节,special-cargo,汽车与化工物流
+GHS mixture classification,混合物分类,special-cargo,汽车与化工物流
+GHS bridging principles,桥接原则,special-cargo,汽车与化工物流
+GHS carcinogenicity,致癌性,special-cargo,汽车与化工物流
+GHS reproductive toxicity,生殖毒性,special-cargo,汽车与化工物流
+GHS STOT,特定目标器官毒性,special-cargo,汽车与化工物流
+lithium-ion battery (Li-ion),锂离子电池,special-cargo,汽车与化工物流
+lithium metal battery,锂金属电池,special-cargo,汽车与化工物流
+lithium cell,锂电芯,special-cargo,汽车与化工物流
+lithium battery contained in equipment,设备内锂离子电池,special-cargo,汽车与化工物流
+lithium battery packed with equipment,与设备一起包装的锂电池,special-cargo,汽车与化工物流
+UN 3480,UN 3480（锂离子电池）,special-cargo,汽车与化工物流
+UN 3481,UN 3481（设备内或与设备包装在一起的锂离子电池）,special-cargo,汽车与化工物流
+UN 3090,UN 3090（锂金属电池）,special-cargo,汽车与化工物流
+UN 3091,UN 3091（设备内或与设备包装在一起的锂金属电池）,special-cargo,汽车与化工物流
+UN 2794,UN 2794（湿蓄电池）,special-cargo,汽车与化工物流
+UN 3536,UN 3536（安装在货物运输组件内的锂电池）,special-cargo,汽车与化工物流
+lithium battery test summary,锂电池试验摘要,special-cargo,汽车与化工物流
+UN Manual of Tests and Criteria,联合国试验和标准手册,special-cargo,汽车与化工物流
+UN 38.3 test,UN 38.3 项试验,special-cargo,汽车与化工物流
+state of charge (SoC) limit,荷电状态限制,special-cargo,汽车与化工物流
+battery management system (BMS),电池管理系统,special-cargo,汽车与化工物流
+battery pack,电池包,special-cargo,汽车与化工物流
+battery module,电池模组,special-cargo,汽车与化工物流
+thermal runaway,热失控,special-cargo,汽车与化工物流
+thermal runaway suppression system,热失控抑制系统,special-cargo,汽车与化工物流
+early fire detection system,早期火灾探测系统,special-cargo,汽车与化工物流
+electric vehicle fire blanket,电动汽车灭火毯,special-cargo,汽车与化工物流
+EV transport by sea,电动汽车海运,special-cargo,汽车与化工物流
+EV ro-ro safety guidelines,电动汽车滚装运输安全指南,special-cargo,汽车与化工物流
+EV carrier requirements,电动汽车运输船要求,special-cargo,汽车与化工物流
+damaged defective battery (DDB),损坏或有缺陷的锂电池,special-cargo,汽车与化工物流
+prototype lithium battery,试验用锂电池原型,special-cargo,汽车与化工物流
+lithium battery waste,废弃锂电池,special-cargo,汽车与化工物流
+lithium battery for disposal,待处置锂电池,special-cargo,汽车与化工物流
+battery recycling logistics,电池回收物流,special-cargo,汽车与化工物流
+second-life battery,梯次利用电池,special-cargo,汽车与化工物流
+battery electric vehicle (BEV),纯电动汽车,special-cargo,汽车与化工物流
+plug-in hybrid electric vehicle (PHEV),插电式混合动力汽车,special-cargo,汽车与化工物流
+fuel cell electric vehicle (FCEV),燃料电池电动汽车,special-cargo,汽车与化工物流
+hydrogen fuel cylinder,氢气燃料瓶,special-cargo,汽车与化工物流
+compressed hydrogen,压缩氢气,special-cargo,汽车与化工物流
+hydrogen tank,储氢瓶,special-cargo,汽车与化工物流
+battery handling equipment,电池搬运设备,special-cargo,汽车与化工物流
+battery fire suppression,电池火灾抑制,special-cargo,汽车与化工物流
+battery transport approval,电池运输批准,special-cargo,汽车与化工物流
+lithium battery shipping,锂电池运输,special-cargo,汽车与化工物流
+lithium battery packaging instruction 965,PI 965 锂电池包装说明,special-cargo,汽车与化工物流
+lithium battery packaging instruction 966,PI 966 锂电池包装说明,special-cargo,汽车与化工物流
+lithium battery packaging instruction 967,PI 967 锂电池包装说明,special-cargo,汽车与化工物流
+IATA DGR Section IA,IATA 危险品规则第 IA 节,special-cargo,汽车与化工物流
+IATA DGR Section IB,IATA 危险品规则第 IB 节,special-cargo,汽车与化工物流
+IATA DGR Section II,IATA 危险品规则第 II 节,special-cargo,汽车与化工物流
+battery state of charge 30 percent,锂电池荷电状态不超过 30%,special-cargo,汽车与化工物流
+net quantity per package,单件包装净数量,special-cargo,汽车与化工物流
+gross mass,总质量,special-cargo,汽车与化工物流
+lithium battery mark,锂电池标记,special-cargo,汽车与化工物流
+lithium battery label,锂电池标签,special-cargo,汽车与化工物流
+cargo aircraft only (CAO),仅限货机,special-cargo,汽车与化工物流
+overpack,合成包装件,special-cargo,汽车与化工物流

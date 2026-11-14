@@ -1,0 +1,401 @@
+﻿term_en,term_zh,category,subcategory
+Freight Invoice,运费发票,freight-finance,结算与信用管理
+Master Invoice,主发票,freight-finance,结算与信用管理
+House Invoice,分发票,freight-finance,结算与信用管理
+Debit Note,借记单,freight-finance,结算与信用管理
+Credit Note,贷记单,freight-finance,结算与信用管理
+Proforma Invoice,形式发票,freight-finance,结算与信用管理
+Commercial Invoice,商业发票,freight-finance,结算与信用管理
+Consolidated Invoice,合并发票,freight-finance,结算与信用管理
+Monthly Statement,月结对账单,freight-finance,结算与信用管理
+Reconciliation Statement,对账单,freight-finance,结算与信用管理
+Statement of Account,账户结单,freight-finance,结算与信用管理
+Aging Report,账龄分析表,freight-finance,结算与信用管理
+Credit Note Request,贷记单申请,freight-finance,结算与信用管理
+Invoice Reconciliation,发票核对,freight-finance,结算与信用管理
+Billing Instruction,开票指示,freight-finance,结算与信用管理
+Invoice Party,发票抬头方,freight-finance,结算与信用管理
+Bill-To Party,收单方,freight-finance,结算与信用管理
+Freight Prepaid,运费预付,freight-finance,结算与信用管理
+Freight Collect,运费到付,freight-finance,结算与信用管理
+Prepaid Freight Shipment,预付运费货物,freight-finance,结算与信用管理
+Collect Freight Shipment,到付运费货物,freight-finance,结算与信用管理
+Payment Terms,付款条款,freight-finance,结算与信用管理
+Credit Terms,信用条款,freight-finance,结算与信用管理
+Net 30 Terms,30天净付账期,freight-finance,结算与信用管理
+Net 60 Terms,60天净付账期,freight-finance,结算与信用管理
+Credit Period,信用期限,freight-finance,结算与信用管理
+Due Date,付款到期日,freight-finance,结算与信用管理
+Invoice Date,开票日期,freight-finance,结算与信用管理
+Billing Cycle,账单周期,freight-finance,结算与信用管理
+Month-End Closing,月末关账,freight-finance,结算与信用管理
+Cut-Off Date,结算截数日,freight-finance,结算与信用管理
+Advance Payment,预付款,freight-finance,结算与信用管理
+Partial Payment,部分付款,freight-finance,结算与信用管理
+Full Settlement,全额结清,freight-finance,结算与信用管理
+Short Payment,短付,freight-finance,结算与信用管理
+Overpayment,多付,freight-finance,结算与信用管理
+Payment Voucher,付款凭证,freight-finance,结算与信用管理
+Receipt Acknowledgement,收款确认,freight-finance,结算与信用管理
+Remittance,汇款,freight-finance,结算与信用管理
+Telegraphic Transfer,电汇,freight-finance,结算与信用管理
+Bank Transfer,银行转账,freight-finance,结算与信用管理
+Cross-Border Remittance,跨境汇款,freight-finance,结算与信用管理
+Beneficiary Bank,收款银行,freight-finance,结算与信用管理
+Outstanding Balance,未清余额,freight-finance,结算与信用管理
+Unbilled Revenue,未开单收入,freight-finance,结算与信用管理
+Accrued Freight,应计运费,freight-finance,结算与信用管理
+Freight Accrual,运费计提,freight-finance,结算与信用管理
+Back Charge,追补收费,freight-finance,结算与信用管理
+Retroactive Billing,追溯开单,freight-finance,结算与信用管理
+Invoice Amendment,发票更正,freight-finance,结算与信用管理
+Rate Discrepancy,运价差异,freight-finance,结算与信用管理
+Weight Discrepancy Claim,计费重量差异申诉,freight-finance,结算与信用管理
+Rate Confirmation,运价确认,freight-finance,结算与信用管理
+Quotation Validity,报价有效期,freight-finance,结算与信用管理
+Final Invoice,最终发票,freight-finance,结算与信用管理
+Bunker Adjustment Factor,燃油附加费,freight-finance,结算与信用管理
+Fuel Adjustment Factor,燃油调整附加费,freight-finance,结算与信用管理
+Currency Adjustment Factor,币值附加费,freight-finance,结算与信用管理
+Emergency Bunker Surcharge,应急燃油附加费,freight-finance,结算与信用管理
+Peak Season Surcharge,旺季附加费,freight-finance,结算与信用管理
+Congestion Surcharge,拥堵附加费,freight-finance,结算与信用管理
+Port Congestion Surcharge,港口拥堵附加费,freight-finance,结算与信用管理
+Canal Transit Surcharge,运河通行附加费,freight-finance,结算与信用管理
+Panama Canal Surcharge,巴拿马运河附加费,freight-finance,结算与信用管理
+Suez Canal Surcharge,苏伊士运河附加费,freight-finance,结算与信用管理
+War Risk Surcharge,战争险附加费,freight-finance,结算与信用管理
+Piracy Risk Surcharge,海盗风险附加费,freight-finance,结算与信用管理
+Low Water Surcharge,枯水附加费,freight-finance,结算与信用管理
+Heavy Lift Additional,超重附加费,freight-finance,结算与信用管理
+Extra Length Additional,超长附加费,freight-finance,结算与信用管理
+Oversize Cargo Surcharge,超大件附加费,freight-finance,结算与信用管理
+Dangerous Goods Surcharge,危险品附加费,freight-finance,结算与信用管理
+IMDG Surcharge,国际危规附加费,freight-finance,结算与信用管理
+Reefer Surcharge,冷藏附加费,freight-finance,结算与信用管理
+Reefer Electricity Surcharge,冷藏箱电费附加,freight-finance,结算与信用管理
+Terminal Handling Charge,码头操作费,freight-finance,结算与信用管理
+Origin THC,起运港码头操作费,freight-finance,结算与信用管理
+Destination THC,目的港码头操作费,freight-finance,结算与信用管理
+Documentation Fee,单证费,freight-finance,结算与信用管理
+Bill of Lading Fee,签单费,freight-finance,结算与信用管理
+Telex Release Fee,电放费,freight-finance,结算与信用管理
+Surrender Fee,放单费,freight-finance,结算与信用管理
+Amendment Fee,改单费,freight-finance,结算与信用管理
+Split Bill Fee,拆单费,freight-finance,结算与信用管理
+Sealing Fee,封条费,freight-finance,结算与信用管理
+Container Cleaning Fee,集装箱清洗费,freight-finance,结算与信用管理
+Washing Fee,洗箱费,freight-finance,结算与信用管理
+Customs Inspection Fee,海关查验费,freight-finance,结算与信用管理
+Radiation Inspection Fee,辐射检测费,freight-finance,结算与信用管理
+Agency Fee,代理费,freight-finance,结算与信用管理
+Handling Fee,操作费,freight-finance,结算与信用管理
+Service Charge,服务费,freight-finance,结算与信用管理
+Administrative Fee,手续费,freight-finance,结算与信用管理
+Wharfage,码头费,freight-finance,结算与信用管理
+Pilotage,引航费,freight-finance,结算与信用管理
+Towage Charge,拖轮费,freight-finance,结算与信用管理
+Mooring Fee,系解缆费,freight-finance,结算与信用管理
+Lighterage Fee,驳运费,freight-finance,结算与信用管理
+Stevedoring Charge,装卸费,freight-finance,结算与信用管理
+Delivery Order Fee,提货单费,freight-finance,结算与信用管理
+Forklift Charge,叉车作业费,freight-finance,结算与信用管理
+Palletization Fee,打托费,freight-finance,结算与信用管理
+Strapping Fee,打包带费,freight-finance,结算与信用管理
+Labelling Fee,贴标费,freight-finance,结算与信用管理
+Sorting Fee,分拣费,freight-finance,结算与信用管理
+Weighing Fee,过磅费,freight-finance,结算与信用管理
+Chassis Usage Fee,拖架使用费,freight-finance,结算与信用管理
+Customs Declaration Fee,报关费,freight-finance,结算与信用管理
+Courier Fee,快递费,freight-finance,结算与信用管理
+Late Booking Fee,迟订舱费,freight-finance,结算与信用管理
+Exchange Rate,汇率,freight-finance,结算与信用管理
+Spot Exchange Rate,即期汇率,freight-finance,结算与信用管理
+Forward Exchange Rate,远期汇率,freight-finance,结算与信用管理
+Cross Rate,交叉汇率,freight-finance,结算与信用管理
+Base Currency,基准货币,freight-finance,结算与信用管理
+Quote Currency,报价货币,freight-finance,结算与信用管理
+Settlement Currency,结算货币,freight-finance,结算与信用管理
+Invoice Currency,发票计价货币,freight-finance,结算与信用管理
+Pricing Currency,定价货币,freight-finance,结算与信用管理
+Functional Currency,记账本位币,freight-finance,结算与信用管理
+Reporting Currency,列报货币,freight-finance,结算与信用管理
+Local Currency,当地货币,freight-finance,结算与信用管理
+Hard Currency,硬通货,freight-finance,结算与信用管理
+Convertible Currency,可自由兑换货币,freight-finance,结算与信用管理
+Currency Conversion,货币折算,freight-finance,结算与信用管理
+Foreign Exchange Exposure,外汇敞口,freight-finance,结算与信用管理
+Currency Risk,汇率风险,freight-finance,结算与信用管理
+Exchange Rate Fluctuation,汇率波动,freight-finance,结算与信用管理
+FX Volatility,外汇波动率,freight-finance,结算与信用管理
+Hedging,套期保值,freight-finance,结算与信用管理
+Natural Hedge,自然对冲,freight-finance,结算与信用管理
+Forward Contract,远期外汇合约,freight-finance,结算与信用管理
+FX Forward,外汇远期交易,freight-finance,结算与信用管理
+Currency Swap,货币掉期,freight-finance,结算与信用管理
+FX Option,外汇期权,freight-finance,结算与信用管理
+Currency Mismatch,币种错配,freight-finance,结算与信用管理
+Currency Depreciation,货币贬值,freight-finance,结算与信用管理
+Currency Appreciation,货币升值,freight-finance,结算与信用管理
+Exchange Rate Clause,汇率条款,freight-finance,结算与信用管理
+Exchange Control,外汇管制,freight-finance,结算与信用管理
+Transfer Risk,转移风险,freight-finance,结算与信用管理
+Inconvertibility Risk,兑换风险,freight-finance,结算与信用管理
+Exchange Gain,汇兑收益,freight-finance,结算与信用管理
+Exchange Loss,汇兑损失,freight-finance,结算与信用管理
+Unrealized Exchange Loss,未实现汇兑损失,freight-finance,结算与信用管理
+Realized Exchange Gain,已实现汇兑收益,freight-finance,结算与信用管理
+Middle Rate,中间汇率,freight-finance,结算与信用管理
+Buying Rate,买入价,freight-finance,结算与信用管理
+Selling Rate,卖出价,freight-finance,结算与信用管理
+Official Rate,官方汇率,freight-finance,结算与信用管理
+Market Rate,市场汇率,freight-finance,结算与信用管理
+Reference Rate,参考汇率,freight-finance,结算与信用管理
+Par Value,货币平价,freight-finance,结算与信用管理
+Managed Float Rate,管理浮动汇率,freight-finance,结算与信用管理
+Pegged Exchange Rate,钉住汇率,freight-finance,结算与信用管理
+Currency Basket,货币篮子,freight-finance,结算与信用管理
+Multi-Currency Billing,多币种计费,freight-finance,结算与信用管理
+Currency Revaluation,货币重估,freight-finance,结算与信用管理
+Exchange Settlement,结汇,freight-finance,结算与信用管理
+Foreign Exchange Purchase,购汇,freight-finance,结算与信用管理
+Credit Management,信用管理,freight-finance,结算与信用管理
+Credit Policy,信用政策,freight-finance,结算与信用管理
+Credit Limit,信用额度,freight-finance,结算与信用管理
+Credit Line,授信额度,freight-finance,结算与信用管理
+Credit Assessment,信用评估,freight-finance,结算与信用管理
+Credit Rating,信用评级,freight-finance,结算与信用管理
+Credit Scoring,信用评分,freight-finance,结算与信用管理
+Credit Check,信用审查,freight-finance,结算与信用管理
+Credit Investigation,资信调查,freight-finance,结算与信用管理
+Credit Report,资信报告,freight-finance,结算与信用管理
+Credit Standing,信用状况,freight-finance,结算与信用管理
+Creditworthiness,偿付能力,freight-finance,结算与信用管理
+Customer Credit Profile,客户信用档案,freight-finance,结算与信用管理
+Trade Credit,商业信用,freight-finance,结算与信用管理
+Credit Insurance,信用保险,freight-finance,结算与信用管理
+Trade Credit Insurance,贸易信用保险,freight-finance,结算与信用管理
+Accounts Receivable,应收账款,freight-finance,结算与信用管理
+Accounts Payable,应付账款,freight-finance,结算与信用管理
+Receivable Aging,应收账款账龄,freight-finance,结算与信用管理
+Aging Bucket,账龄区间,freight-finance,结算与信用管理
+Overdue Account,逾期账款,freight-finance,结算与信用管理
+Overdue Payment,逾期付款,freight-finance,结算与信用管理
+Delinquency,账款拖欠,freight-finance,结算与信用管理
+Payment Default,付款违约,freight-finance,结算与信用管理
+Bad Debt,坏账,freight-finance,结算与信用管理
+Bad Debt Provision,坏账准备,freight-finance,结算与信用管理
+Write-Off,账款核销,freight-finance,结算与信用管理
+Debt Collection,债务催收,freight-finance,结算与信用管理
+Collection Letter,催收函,freight-finance,结算与信用管理
+Final Demand,最后催告函,freight-finance,结算与信用管理
+Dunning Notice,催款通知,freight-finance,结算与信用管理
+Payment Reminder,付款提醒,freight-finance,结算与信用管理
+Collection Agency,商账追收机构,freight-finance,结算与信用管理
+Days Sales Outstanding,应收账款周转天数,freight-finance,结算与信用管理
+Days Payable Outstanding,应付账款周转天数,freight-finance,结算与信用管理
+Credit Hold,信用冻结,freight-finance,结算与信用管理
+Stop Credit,停止赊账,freight-finance,结算与信用管理
+Account Suspension,账户暂停,freight-finance,结算与信用管理
+Blacklist,信用黑名单,freight-finance,结算与信用管理
+Watch List,信用监控名单,freight-finance,结算与信用管理
+Credit Review,信用复审,freight-finance,结算与信用管理
+Counterparty Risk,交易对手风险,freight-finance,结算与信用管理
+Late Payment Interest,逾期利息,freight-finance,结算与信用管理
+Late Payment Penalty,逾期违约金,freight-finance,结算与信用管理
+Installment Payment Agreement,分期还款协议,freight-finance,结算与信用管理
+Debt Restructuring,债务重组,freight-finance,结算与信用管理
+Legal Collection Notice,法务催告函,freight-finance,结算与信用管理
+Payment Follow-Up,回款跟进,freight-finance,结算与信用管理
+Cash Collection Forecast,回款预测,freight-finance,结算与信用管理
+Bad Debt Recovery,坏账收回,freight-finance,结算与信用管理
+Letter of Guarantee,保函,freight-finance,结算与信用管理
+Shipping Guarantee,提货担保书,freight-finance,结算与信用管理
+Bank Guarantee,银行担保,freight-finance,结算与信用管理
+Payment Guarantee,付款保函,freight-finance,结算与信用管理
+Performance Guarantee,履约保函,freight-finance,结算与信用管理
+Advance Payment Guarantee,预付款保函,freight-finance,结算与信用管理
+Customs Guarantee,海关保函,freight-finance,结算与信用管理
+Duty Deferment Account,关税递延账户,freight-finance,结算与信用管理
+Standby Letter of Credit,备用信用证,freight-finance,结算与信用管理
+Letter of Credit,信用证,freight-finance,结算与信用管理
+Documentary Credit,跟单信用证,freight-finance,结算与信用管理
+Irrevocable Letter of Credit,不可撤销信用证,freight-finance,结算与信用管理
+Confirmed Letter of Credit,保兑信用证,freight-finance,结算与信用管理
+Sight Letter of Credit,即期信用证,freight-finance,结算与信用管理
+Usance Letter of Credit,远期信用证,freight-finance,结算与信用管理
+Transferable Letter of Credit,可转让信用证,freight-finance,结算与信用管理
+Revolving Letter of Credit,循环信用证,freight-finance,结算与信用管理
+Back-to-Back Letter of Credit,背对背信用证,freight-finance,结算与信用管理
+Deferred Payment Credit,延期付款信用证,freight-finance,结算与信用管理
+Acceptance Credit,承兑信用证,freight-finance,结算与信用管理
+Red Clause Credit,预支条款信用证,freight-finance,结算与信用管理
+Letter of Credit Amendment,信用证修改,freight-finance,结算与信用管理
+Letter of Credit Expiry,信用证有效期,freight-finance,结算与信用管理
+Stale Credit,过期信用证,freight-finance,结算与信用管理
+Issuing Bank,开证行,freight-finance,结算与信用管理
+Advising Bank,通知行,freight-finance,结算与信用管理
+Confirming Bank,保兑行,freight-finance,结算与信用管理
+Paying Bank,付款行,freight-finance,结算与信用管理
+Negotiating Bank,议付行,freight-finance,结算与信用管理
+Beneficiary,信用证受益人,freight-finance,结算与信用管理
+Applicant,信用证申请人,freight-finance,结算与信用管理
+Guarantee Validity,保函有效期,freight-finance,结算与信用管理
+Expiry Date of Guarantee,保函到期日,freight-finance,结算与信用管理
+Counter-Guarantee,反担保函,freight-finance,结算与信用管理
+Counter-Indemnity,反赔偿承诺,freight-finance,结算与信用管理
+Letter of Indemnity,无单放货保函,freight-finance,结算与信用管理
+Indemnity,赔偿保证,freight-finance,结算与信用管理
+Guarantor,担保人,freight-finance,结算与信用管理
+Suretyship,保证担保,freight-finance,结算与信用管理
+Joint and Several Liability,连带责任担保,freight-finance,结算与信用管理
+Security Deposit,保证金,freight-finance,结算与信用管理
+Cash Margin,现金保证金,freight-finance,结算与信用管理
+Collateral,抵押物,freight-finance,结算与信用管理
+Pledge,质押,freight-finance,结算与信用管理
+Mortgage,抵押,freight-finance,结算与信用管理
+Lien,留置权,freight-finance,结算与信用管理
+Maritime Lien,海事留置权,freight-finance,结算与信用管理
+Carrier's Lien,承运人留置权,freight-finance,结算与信用管理
+Warehouseman's Lien,仓储留置权,freight-finance,结算与信用管理
+Possessory Lien,占有留置权,freight-finance,结算与信用管理
+Documentary Collection,跟单托收,freight-finance,结算与信用管理
+Documents Against Payment,付款交单,freight-finance,结算与信用管理
+Documents Against Acceptance,承兑交单,freight-finance,结算与信用管理
+Clean Collection,光票托收,freight-finance,结算与信用管理
+Payment Under Reserve,付款保留,freight-finance,结算与信用管理
+Trade Finance,贸易融资,freight-finance,结算与信用管理
+Supply Chain Finance,供应链金融,freight-finance,结算与信用管理
+Factoring,保理,freight-finance,结算与信用管理
+International Factoring,国际保理,freight-finance,结算与信用管理
+Domestic Factoring,国内保理,freight-finance,结算与信用管理
+With Recourse Factoring,有追索权保理,freight-finance,结算与信用管理
+Without Recourse Factoring,无追索权保理,freight-finance,结算与信用管理
+Reverse Factoring,反向保理,freight-finance,结算与信用管理
+Invoice Discounting,发票贴现,freight-finance,结算与信用管理
+Invoice Financing,发票融资,freight-finance,结算与信用管理
+Receivables Financing,应收账款融资,freight-finance,结算与信用管理
+Receivables Pledge Financing,应收账款质押融资,freight-finance,结算与信用管理
+Freight Invoice Financing,运费发票融资,freight-finance,结算与信用管理
+Freight Financing,运费融资,freight-finance,结算与信用管理
+Bill of Lading Financing,提单融资,freight-finance,结算与信用管理
+Cargo Financing,货物融资,freight-finance,结算与信用管理
+Goods Pledge Financing,货押融资,freight-finance,结算与信用管理
+Warehouse Receipt Financing,仓单融资,freight-finance,结算与信用管理
+Warehouse Receipt Pledge,仓单质押,freight-finance,结算与信用管理
+Inventory Financing,存货融资,freight-finance,结算与信用管理
+Inventory Pledge Financing,存货质押融资,freight-finance,结算与信用管理
+Dynamic Pledge Financing,动态质押融资,freight-finance,结算与信用管理
+Static Pledge Financing,静态质押融资,freight-finance,结算与信用管理
+Floating Charge on Inventory,存货浮动抵押,freight-finance,结算与信用管理
+Export Credit,出口信贷,freight-finance,结算与信用管理
+Export Credit Insurance,出口信用保险,freight-finance,结算与信用管理
+Buyer Credit,买方信贷,freight-finance,结算与信用管理
+Seller Credit,卖方信贷,freight-finance,结算与信用管理
+Forfaiting,福费廷买断,freight-finance,结算与信用管理
+Discounting of Drafts,汇票贴现,freight-finance,结算与信用管理
+Bank Acceptance Bill,银行承兑汇票,freight-finance,结算与信用管理
+Commercial Acceptance Bill,商业承兑汇票,freight-finance,结算与信用管理
+Bill of Exchange,汇票,freight-finance,结算与信用管理
+Sight Draft,即期汇票,freight-finance,结算与信用管理
+Usance Draft,远期汇票,freight-finance,结算与信用管理
+Documentary Bill,跟单汇票,freight-finance,结算与信用管理
+Packing Loan,打包贷款,freight-finance,结算与信用管理
+Pre-Shipment Finance,装运前融资,freight-finance,结算与信用管理
+Post-Shipment Finance,装运后融资,freight-finance,结算与信用管理
+Purchase Order Financing,订单融资,freight-finance,结算与信用管理
+Vendor Financing,供应商融资,freight-finance,结算与信用管理
+Dealer Financing,经销商融资,freight-finance,结算与信用管理
+Channel Financing,渠道融资,freight-finance,结算与信用管理
+Structured Trade Finance,结构性贸易融资,freight-finance,结算与信用管理
+Asset-Based Lending,资产支持贷款,freight-finance,结算与信用管理
+Dynamic Discounting,动态折让,freight-finance,结算与信用管理
+Early Payment Discount,提前付款折扣,freight-finance,结算与信用管理
+Freight Derivatives,运费衍生品,freight-finance,结算与信用管理
+Forward Freight Agreement,远期运费协议,freight-finance,结算与信用管理
+Freight Futures,运费期货,freight-finance,结算与信用管理
+Demurrage,滞期费,freight-finance,结算与信用管理
+Detention,滞箱费,freight-finance,结算与信用管理
+Container Demurrage,集装箱滞港费,freight-finance,结算与信用管理
+Container Detention,集装箱滞箱费,freight-finance,结算与信用管理
+Demurrage Free Days,滞港免费期,freight-finance,结算与信用管理
+Detention Free Days,滞箱免费期,freight-finance,结算与信用管理
+Combined Free Time,免箱免堆合并期,freight-finance,结算与信用管理
+Free Time,免费期,freight-finance,结算与信用管理
+Free Time Extension,免费期延长,freight-finance,结算与信用管理
+Maximum Free Days,最长免费天数,freight-finance,结算与信用管理
+Demurrage Rate,滞港费率,freight-finance,结算与信用管理
+Detention Rate,滞箱费率,freight-finance,结算与信用管理
+Sliding Scale Demurrage,阶梯式滞期费,freight-finance,结算与信用管理
+Tiered Detention Rate,阶梯式滞箱费率,freight-finance,结算与信用管理
+Per Diem Charge,按日费用,freight-finance,结算与信用管理
+Demurrage Invoice,滞期费账单,freight-finance,结算与信用管理
+Detention Invoice,滞箱费账单,freight-finance,结算与信用管理
+Demurrage Waiver,滞期费减免,freight-finance,结算与信用管理
+Detention Waiver,滞箱费减免,freight-finance,结算与信用管理
+Fee Waiver Request,费用减免申请,freight-finance,结算与信用管理
+Goodwill Waiver,通融减免,freight-finance,结算与信用管理
+Port Storage Charge,港口堆存费,freight-finance,结算与信用管理
+Container Yard Storage Charge,堆场堆存费,freight-finance,结算与信用管理
+Container Freight Station Charge,货运站操作费,freight-finance,结算与信用管理
+Warehouse Storage Charge,仓库存储费,freight-finance,结算与信用管理
+Quay Rent,码头堆租,freight-finance,结算与信用管理
+Ground Rent,场地租金,freight-finance,结算与信用管理
+Overstay Surcharge,超期滞留附加费,freight-finance,结算与信用管理
+Idle Container Fee,空箱滞留费,freight-finance,结算与信用管理
+Empty Container Handling Charge,空箱操作费,freight-finance,结算与信用管理
+Container Damage Charge,集装箱破损费,freight-finance,结算与信用管理
+Repair Charge,修箱费,freight-finance,结算与信用管理
+Container Repair Estimate,修箱估价单,freight-finance,结算与信用管理
+Container Survey Report,验箱报告,freight-finance,结算与信用管理
+Laytime,装卸时间,freight-finance,结算与信用管理
+Laytime Statement,装卸时间计算表,freight-finance,结算与信用管理
+Statement of Facts,装卸事实记录,freight-finance,结算与信用管理
+Notice of Readiness,装卸准备就绪通知书,freight-finance,结算与信用管理
+Dispatch Money,速遣费,freight-finance,结算与信用管理
+Demurrage Calculation,滞期费计算,freight-finance,结算与信用管理
+Demurrage Dispute,滞期费争议,freight-finance,结算与信用管理
+Detention Dispute,滞箱费争议,freight-finance,结算与信用管理
+Demurrage Cap,滞期费封顶,freight-finance,结算与信用管理
+Working Days,工作日,freight-finance,结算与信用管理
+Weather Working Days,晴天工作日,freight-finance,结算与信用管理
+Value Added Tax,增值税,freight-finance,结算与信用管理
+Special VAT Invoice,增值税专用发票,freight-finance,结算与信用管理
+Ordinary VAT Invoice,增值税普通发票,freight-finance,结算与信用管理
+Electronic Invoice,电子发票,freight-finance,结算与信用管理
+VAT Number,增值税号,freight-finance,结算与信用管理
+Input VAT,进项税额,freight-finance,结算与信用管理
+Output VAT,销项税额,freight-finance,结算与信用管理
+VAT Refund,增值税退税,freight-finance,结算与信用管理
+Export Tax Rebate,出口退税,freight-finance,结算与信用管理
+Tax Rebate Rate,退税率,freight-finance,结算与信用管理
+Import VAT,进口环节增值税,freight-finance,结算与信用管理
+Import VAT Deferment,进口增值税递延,freight-finance,结算与信用管理
+Customs Duty,关税,freight-finance,结算与信用管理
+Import Duty,进口关税,freight-finance,结算与信用管理
+Export Duty,出口关税,freight-finance,结算与信用管理
+Tariff Heading,税则号列,freight-finance,结算与信用管理
+HS Code,协调制度编码,freight-finance,结算与信用管理
+Customs Valuation,完税价格审定,freight-finance,结算与信用管理
+Declared Value,申报价值,freight-finance,结算与信用管理
+Consumption Tax,消费税,freight-finance,结算与信用管理
+Anti-Dumping Duty,反倾销税,freight-finance,结算与信用管理
+Countervailing Duty,反补贴税,freight-finance,结算与信用管理
+Safeguard Measure Duty,保障措施关税,freight-finance,结算与信用管理
+Preferential Tariff Rate,优惠税率,freight-finance,结算与信用管理
+MFN Duty Rate,最惠国税率,freight-finance,结算与信用管理
+Bonded Warehouse,保税仓库,freight-finance,结算与信用管理
+Bonded Zone,保税区,freight-finance,结算与信用管理
+Duty Exemption,关税豁免,freight-finance,结算与信用管理
+Withholding Tax,预提所得税,freight-finance,结算与信用管理
+Tax Identification Number,纳税人识别号,freight-finance,结算与信用管理
+Unified Social Credit Code,统一社会信用代码,freight-finance,结算与信用管理
+Payment on Behalf,代付款项,freight-finance,结算与信用管理
+Collection on Behalf,代收款项,freight-finance,结算与信用管理
+Disbursement,垫付费用,freight-finance,结算与信用管理
+Disbursement Fee,垫付手续费,freight-finance,结算与信用管理
+Out-of-Pocket Expenses,代垫杂费,freight-finance,结算与信用管理
+Advance and Recovery,垫款与追偿,freight-finance,结算与信用管理
+Agency Advance,代理垫款,freight-finance,结算与信用管理
+Destination Charges Collection,目的地费用代收,freight-finance,结算与信用管理
+Cash on Delivery,货到付款,freight-finance,结算与信用管理

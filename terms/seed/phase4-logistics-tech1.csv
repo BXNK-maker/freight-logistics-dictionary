@@ -1,0 +1,396 @@
+term_en,term_zh,category,subcategory
+Digital Freight Platform,数字货运平台,digital-logistics,物流科技与数字化
+Freight Marketplace,货运交易平台,digital-logistics,物流科技与数字化
+On-Demand Trucking,即时叫车货运,digital-logistics,物流科技与数字化
+Load Board,配载信息板,digital-logistics,物流科技与数字化
+Truckload Spot Market,整车现货市场,digital-logistics,物流科技与数字化
+Spot Rate,现货运价,digital-logistics,物流科技与数字化
+Contract Rate,合约运价,digital-logistics,物流科技与数字化
+Freight Rate Benchmarking,运价基准比较,digital-logistics,物流科技与数字化
+Freight Rate Management,运价管理,digital-logistics,物流科技与数字化
+Dynamic Pricing,动态定价,digital-logistics,物流科技与数字化
+Revenue Management,收益管理,digital-logistics,物流科技与数字化
+Instant Quotation,即时报价,digital-logistics,物流科技与数字化
+Online Booking,在线订舱,digital-logistics,物流科技与数字化
+Freight Booking Platform,货运订舱平台,digital-logistics,物流科技与数字化
+Carrier Selection,承运人选择,digital-logistics,物流科技与数字化
+Carrier Onboarding,承运商入驻,digital-logistics,物流科技与数字化
+Carrier Verification,承运商资质核验,digital-logistics,物流科技与数字化
+FMCSA Registration,美国联邦机动车安全管理局注册,digital-logistics,物流科技与数字化
+Carrier Compliance,承运商合规管理,digital-logistics,物流科技与数字化
+Double Broking,二次转包,digital-logistics,物流科技与数字化
+Freight Fraud,货运欺诈,digital-logistics,物流科技与数字化
+Freight Audit,运费审计,digital-logistics,物流科技与数字化
+Freight Audit and Payment,运费审计与结算,digital-logistics,物流科技与数字化
+Freight Payment,运费支付,digital-logistics,物流科技与数字化
+Freight Invoice,货运发票,digital-logistics,物流科技与数字化
+Invoice Reconciliation,发票对账,digital-logistics,物流科技与数字化
+Freight Settlement,运费结算,digital-logistics,物流科技与数字化
+Factoring,保理融资,digital-logistics,物流科技与数字化
+Quick Pay,快速付款,digital-logistics,物流科技与数字化
+Detention and Demurrage,滞箱费与滞港费,digital-logistics,物流科技与数字化
+Load Tender,运单发标,digital-logistics,物流科技与数字化
+Load Matching,货源匹配,digital-logistics,物流科技与数字化
+Automated Load Matching,自动货源匹配,digital-logistics,物流科技与数字化
+Capacity Marketplace,运力交易市场,digital-logistics,物流科技与数字化
+Available Capacity,可用运力,digital-logistics,物流科技与数字化
+Private Fleet,自有车队,digital-logistics,物流科技与数字化
+For-Hire Carrier,营业性承运人,digital-logistics,物流科技与数字化
+Asset-Based Carrier,实体承运商,digital-logistics,物流科技与数字化
+Asset-Light Model,轻资产模式,digital-logistics,物流科技与数字化
+Freight Broker,货运经纪人,digital-logistics,物流科技与数字化
+3PL,第三方物流,digital-logistics,物流科技与数字化
+4PL,第四方物流,digital-logistics,物流科技与数字化
+5PL,第五方物流,digital-logistics,物流科技与数字化
+Freight Aggregator,货运聚合商,digital-logistics,物流科技与数字化
+Shipper of Choice,优选货主,digital-logistics,物流科技与数字化
+Tender Acceptance Rate,接单接受率,digital-logistics,物流科技与数字化
+Tender Rejection,投标拒绝,digital-logistics,物流科技与数字化
+Freight Tendering,运价招标,digital-logistics,物流科技与数字化
+Annual Bid,年度运价招标,digital-logistics,物流科技与数字化
+Freight Procurement Platform,运力采购平台,digital-logistics,物流科技与数字化
+Shipper Platform,货主平台,digital-logistics,物流科技与数字化
+Shipper Portal,货主门户,digital-logistics,物流科技与数字化
+Customer Portal,客户门户,digital-logistics,物流科技与数字化
+Transportation Marketplace,运输交易市场,digital-logistics,物流科技与数字化
+Ocean Freight Platform,海运订舱平台,digital-logistics,物流科技与数字化
+Freightos平台,Freightos运价与订舱平台,digital-logistics,物流科技与数字化
+Flexport平台,Flexport数字货运代理平台,digital-logistics,物流科技与数字化
+Forto平台,Forto数字货代平台,digital-logistics,物流科技与数字化
+Zencargo平台,Zencargo供应链平台,digital-logistics,物流科技与数字化
+Digital Ocean Freight Booking,海运线上订舱,digital-logistics,物流科技与数字化
+FCL Booking,整箱订舱,digital-logistics,物流科技与数字化
+LCL Booking,拼箱订舱,digital-logistics,物流科技与数字化
+Air Cargo Booking,航空货运订舱,digital-logistics,物流科技与数字化
+Cargo Community System,货运社区系统,digital-logistics,物流科技与数字化
+Port Community System,港口社区系统,digital-logistics,物流科技与数字化
+Single Window,国际贸易单一窗口,digital-logistics,物流科技与数字化
+Smart Port,智慧港口,digital-logistics,物流科技与数字化
+Shipping Instructions,托运指示,digital-logistics,物流科技与数字化
+VGM,核实的集装箱总重,digital-logistics,物流科技与数字化
+E-Manifest,电子舱单,digital-logistics,物流科技与数字化
+E-Waybill,电子运单,digital-logistics,物流科技与数字化
+eCMR,电子公路运单,digital-logistics,物流科技与数字化
+CMR Note,国际公路货物运输合同公约运单,digital-logistics,物流科技与数字化
+Air Waybill,航空运单,digital-logistics,物流科技与数字化
+e-AWB,电子航空运单,digital-logistics,物流科技与数字化
+House Air Waybill,分运单,digital-logistics,物流科技与数字化
+Master Air Waybill,主运单,digital-logistics,物流科技与数字化
+Bill of Lading,海运提单,digital-logistics,物流科技与数字化
+e-BL,电子提单,digital-logistics,物流科技与数字化
+Electronic Bill of Lading,电子提单（全称）,digital-logistics,物流科技与数字化
+FIATA e-BL,国际货运代理协会联合会电子提单,digital-logistics,物流科技与数字化
+FBL,国际货运代理运输责任提单,digital-logistics,物流科技与数字化
+Switch B/L,换签提单,digital-logistics,物流科技与数字化
+Telex Release,电放提单,digital-logistics,物流科技与数字化
+Straight B/L,记名提单,digital-logistics,物流科技与数字化
+Order B/L,指示提单,digital-logistics,物流科技与数字化
+Clean B/L,清洁提单,digital-logistics,物流科技与数字化
+Claused B/L,不清洁提单,digital-logistics,物流科技与数字化
+Sea Waybill,海运单,digital-logistics,物流科技与数字化
+Negotiable Document,可转让单证,digital-logistics,物流科技与数字化
+Document of Title,物权凭证,digital-logistics,物流科技与数字化
+Document Digitization,单证数字化,digital-logistics,物流科技与数字化
+Paperless Trade,无纸化贸易,digital-logistics,物流科技与数字化
+UCP 600,跟单信用证统一惯例,digital-logistics,物流科技与数字化
+Letter of Credit,信用证,digital-logistics,物流科技与数字化
+eUCP,电子跟单信用证统一惯例,digital-logistics,物流科技与数字化
+MLETR,电子可转让记录示范法,digital-logistics,物流科技与数字化
+UK Electronic Trade Documents Act,英国电子贸易文件法案,digital-logistics,物流科技与数字化
+eIDAS Regulation,欧盟电子身份与信任服务条例,digital-logistics,物流科技与数字化
+Qualified Electronic Signature,合格电子签名,digital-logistics,物流科技与数字化
+Digital Signature,数字签名,digital-logistics,物流科技与数字化
+Electronic Seal,电子签章,digital-logistics,物流科技与数字化
+Timestamping,可信时间戳,digital-logistics,物流科技与数字化
+Certificate Authority,证书颁发机构,digital-logistics,物流科技与数字化
+Bolero电子提单平台,Bolero电子提单平台,digital-logistics,物流科技与数字化
+essDOCS电子提单平台,essDOCS电子提单平台,digital-logistics,物流科技与数字化
+CargoX区块链单证平台,CargoX区块链单证平台,digital-logistics,物流科技与数字化
+WAVE BL电子提单平台,WAVE BL电子提单平台,digital-logistics,物流科技与数字化
+TradeLens区块链航运平台,TradeLens区块链航运平台,digital-logistics,物流科技与数字化
+Global Shipping Business Network,全球航运商业网络,digital-logistics,物流科技与数字化
+Container XChange集装箱交易平台,Container XChange集装箱交易平台,digital-logistics,物流科技与数字化
+Blockchain,区块链,digital-logistics,物流科技与数字化
+Distributed Ledger Technology,分布式账本技术,digital-logistics,物流科技与数字化
+Smart Contract,智能合约,digital-logistics,物流科技与数字化
+Blockchain Consensus Mechanism,区块链共识机制,digital-logistics,物流科技与数字化
+Permissioned Blockchain,许可链,digital-logistics,物流科技与数字化
+Consortium Blockchain,联盟链,digital-logistics,物流科技与数字化
+Hyperledger Fabric联盟链框架,Hyperledger Fabric联盟链框架,digital-logistics,物流科技与数字化
+Hash Function,哈希函数,digital-logistics,物流科技与数字化
+Merkle Tree,默克尔树,digital-logistics,物流科技与数字化
+Decentralized Identifier,去中心化身份标识,digital-logistics,物流科技与数字化
+Verifiable Credential,可验证凭证,digital-logistics,物流科技与数字化
+Supply Chain Traceability,供应链溯源,digital-logistics,物流科技与数字化
+Provenance Tracking,来源追踪,digital-logistics,物流科技与数字化
+Counterfeit Prevention,防伪追溯,digital-logistics,物流科技与数字化
+Recall Management,产品召回管理,digital-logistics,物流科技与数字化
+Batch Traceability,批次溯源,digital-logistics,物流科技与数字化
+GS1 Standard,GS1全球统一编码标准,digital-logistics,物流科技与数字化
+GS1 EPCIS 2.0,GS1 EPCIS 2.0事件标准,digital-logistics,物流科技与数字化
+GTIN,全球贸易项目代码,digital-logistics,物流科技与数字化
+SSCC,系列货运包装箱代码,digital-logistics,物流科技与数字化
+Barcode,条形码,digital-logistics,物流科技与数字化
+QR Code,二维码,digital-logistics,物流科技与数字化
+Serialization,序列化管理,digital-logistics,物流科技与数字化
+Track and Trace,追踪与追溯,digital-logistics,物流科技与数字化
+Real-Time Visibility,实时可视化,digital-logistics,物流科技与数字化
+Shipment Visibility,货运可视化,digital-logistics,物流科技与数字化
+Supply Chain Visibility,供应链可视化,digital-logistics,物流科技与数字化
+End-to-End Visibility,端到端可视化,digital-logistics,物流科技与数字化
+Predictive ETAs,预测到达时间,digital-logistics,物流科技与数字化
+ETA Calculation,预计到达时间计算,digital-logistics,物流科技与数字化
+ETD,预计离港时间,digital-logistics,物流科技与数字化
+ATD,实际离港时间,digital-logistics,物流科技与数字化
+ATA,实际到港时间,digital-logistics,物流科技与数字化
+Delay Prediction,延误预测,digital-logistics,物流科技与数字化
+Milestone Tracking,节点追踪,digital-logistics,物流科技与数字化
+In-Transit Visibility,在途可视化,digital-logistics,物流科技与数字化
+Live Tracking Link,实时追踪链接,digital-logistics,物流科技与数字化
+Tracking Page,追踪页面,digital-logistics,物流科技与数字化
+Carrier Tracking API,承运商追踪接口,digital-logistics,物流科技与数字化
+Container Tracking,集装箱追踪,digital-logistics,物流科技与数字化
+Smart Container,智能集装箱,digital-logistics,物流科技与数字化
+project44可视化平台,project44可视化平台,digital-logistics,物流科技与数字化
+FourKites可视化平台,FourKites可视化平台,digital-logistics,物流科技与数字化
+Shippeo可视化平台,Shippeo可视化平台,digital-logistics,物流科技与数字化
+Sensitech监控方案,Sensitech冷链监控方案,digital-logistics,物流科技与数字化
+Everstream Analytics供应链风险分析,Everstream供应链风险分析平台,digital-logistics,物流科技与数字化
+Portcast海运预测平台,Portcast海运预测平台,digital-logistics,物流科技与数字化
+eInvoicing,电子发票,digital-logistics,物流科技与数字化
+Peppol Network,Peppol电子发票网络,digital-logistics,物流科技与数字化
+E-invoicing Mandate,电子发票强制令,digital-logistics,物流科技与数字化
+E-Customs,电子海关,digital-logistics,物流科技与数字化
+Automated Customs Clearing,自动清关,digital-logistics,物流科技与数字化
+HS Code Automation,商品编码自动归类,digital-logistics,物流科技与数字化
+RFID,射频识别,digital-logistics,物流科技与数字化
+RFID Reader,RFID读取器,digital-logistics,物流科技与数字化
+UHF RFID,超高频RFID,digital-logistics,物流科技与数字化
+Active RFID Tag,有源RFID标签,digital-logistics,物流科技与数字化
+Passive RFID Tag,无源RFID标签,digital-logistics,物流科技与数字化
+BLE Beacon,低功耗蓝牙信标,digital-logistics,物流科技与数字化
+Real-Time Location System,实时定位系统,digital-logistics,物流科技与数字化
+GPS,全球定位系统,digital-logistics,物流科技与数字化
+GNSS,全球导航卫星系统,digital-logistics,物流科技与数字化
+BeiDou Navigation Satellite System,北斗卫星导航系统,digital-logistics,物流科技与数字化
+GPS Tracker,GPS追踪器,digital-logistics,物流科技与数字化
+Vehicle Telematics,车载远程信息处理,digital-logistics,物流科技与数字化
+Telematics Data,远程信息数据,digital-logistics,物流科技与数字化
+Fleet Management System,车队管理系统,digital-logistics,物流科技与数字化
+Vehicle Tracking System,车辆追踪系统,digital-logistics,物流科技与数字化
+Geofencing,电子围栏,digital-logistics,物流科技与数字化
+Hours of Service Compliance,驾驶时间合规,digital-logistics,物流科技与数字化
+ELD,电子记录设备,digital-logistics,物流科技与数字化
+Tachograph,行车记录仪,digital-logistics,物流科技与数字化
+Digital Tachograph,数字行车记录仪,digital-logistics,物流科技与数字化
+Dash Camera,行车记录摄像头,digital-logistics,物流科技与数字化
+ADAS,高级驾驶辅助系统,digital-logistics,物流科技与数字化
+Video Telematics,视频远程信息处理,digital-logistics,物流科技与数字化
+Cold Chain Monitoring,冷链监控,digital-logistics,物流科技与数字化
+Temperature Monitoring,温度监控,digital-logistics,物流科技与数字化
+Temperature Data Logger,温度记录仪,digital-logistics,物流科技与数字化
+Temperature Excursion,温度偏移事件,digital-logistics,物流科技与数字化
+Humidity Sensor,湿度传感器,digital-logistics,物流科技与数字化
+Shock Sensor,震动传感器,digital-logistics,物流科技与数字化
+Condition Monitoring,状态监控,digital-logistics,物流科技与数字化
+Smart Sensor,智能传感器,digital-logistics,物流科技与数字化
+IoT,物联网,digital-logistics,物流科技与数字化
+IIoT,工业物联网,digital-logistics,物流科技与数字化
+IoT Device,物联网设备,digital-logistics,物流科技与数字化
+IoT Gateway,物联网网关,digital-logistics,物流科技与数字化
+IoT Platform,物联网平台,digital-logistics,物流科技与数字化
+Edge Computing,边缘计算,digital-logistics,物流科技与数字化
+Over-the-Air Update,空中固件升级,digital-logistics,物流科技与数字化
+MQTT Protocol,MQTT消息协议,digital-logistics,物流科技与数字化
+LoRaWAN,LoRaWAN低功耗广域网络,digital-logistics,物流科技与数字化
+NB-IoT,窄带物联网,digital-logistics,物流科技与数字化
+5G Network,5G网络,digital-logistics,物流科技与数字化
+LPWAN,低功耗广域网络,digital-logistics,物流科技与数字化
+Cellular IoT,蜂窝物联网,digital-logistics,物流科技与数字化
+eSIM,嵌入式SIM卡,digital-logistics,物流科技与数字化
+Battery Life,电池续航,digital-logistics,物流科技与数字化
+Asset Tracking,资产追踪,digital-logistics,物流科技与数字化
+Pallet Tracking,托盘追踪,digital-logistics,物流科技与数字化
+Asset Utilization,资产利用率,digital-logistics,物流科技与数字化
+Big Data,大数据,digital-logistics,物流科技与数字化
+Big Data Analytics,大数据分析,digital-logistics,物流科技与数字化
+Descriptive Analytics,描述性分析,digital-logistics,物流科技与数字化
+Diagnostic Analytics,诊断性分析,digital-logistics,物流科技与数字化
+Predictive Analytics,预测性分析,digital-logistics,物流科技与数字化
+Prescriptive Analytics,规范性分析,digital-logistics,物流科技与数字化
+Data Mining,数据挖掘,digital-logistics,物流科技与数字化
+Data Lake,数据湖,digital-logistics,物流科技与数字化
+Data Warehouse,数据仓库,digital-logistics,物流科技与数字化
+Data Pipeline,数据管道,digital-logistics,物流科技与数字化
+ETL,抽取转换加载,digital-logistics,物流科技与数字化
+Real-Time Data Processing,实时数据处理,digital-logistics,物流科技与数字化
+Batch Processing,批处理,digital-logistics,物流科技与数字化
+Stream Computing,流式计算,digital-logistics,物流科技与数字化
+Apache Kafka,Kafka消息中间件,digital-logistics,物流科技与数字化
+Apache Spark,Spark大数据计算引擎,digital-logistics,物流科技与数字化
+Apache Flink,Flink流处理引擎,digital-logistics,物流科技与数字化
+Time Series Database,时序数据库,digital-logistics,物流科技与数字化
+Time Series Data,时间序列数据,digital-logistics,物流科技与数字化
+Data Visualization,数据可视化,digital-logistics,物流科技与数字化
+Business Intelligence,商业智能,digital-logistics,物流科技与数字化
+KPI Dashboard,关键绩效指标看板,digital-logistics,物流科技与数字化
+Freight Analytics,货运数据分析,digital-logistics,物流科技与数字化
+Lane Analytics,运输线路分析,digital-logistics,物流科技与数字化
+Carrier Analytics,承运商数据分析,digital-logistics,物流科技与数字化
+Control Tower,供应链控制塔,digital-logistics,物流科技与数字化
+Logistics Control Tower,物流控制塔,digital-logistics,物流科技与数字化
+Alert Management,告警管理,digital-logistics,物流科技与数字化
+Anomaly Detection,异常检测,digital-logistics,物流科技与数字化
+Predictive Maintenance,预测性维护,digital-logistics,物流科技与数字化
+Machine Learning,机器学习,digital-logistics,物流科技与数字化
+Deep Learning,深度学习,digital-logistics,物流科技与数字化
+Neural Network,神经网络,digital-logistics,物流科技与数字化
+Training Data,训练数据,digital-logistics,物流科技与数字化
+Computer Vision,计算机视觉,digital-logistics,物流科技与数字化
+Object Detection,目标检测,digital-logistics,物流科技与数字化
+Image Recognition,图像识别,digital-logistics,物流科技与数字化
+Optical Character Recognition,光学字符识别,digital-logistics,物流科技与数字化
+Intelligent Document Processing,智能单据处理,digital-logistics,物流科技与数字化
+Invoice OCR,发票光学识别,digital-logistics,物流科技与数字化
+Natural Language Processing,自然语言处理,digital-logistics,物流科技与数字化
+Large Language Model,大语言模型,digital-logistics,物流科技与数字化
+Generative AI,生成式人工智能,digital-logistics,物流科技与数字化
+AI Agent,智能体,digital-logistics,物流科技与数字化
+Agentic Workflow,智能体工作流,digital-logistics,物流科技与数字化
+Retrieval-Augmented Generation,检索增强生成,digital-logistics,物流科技与数字化
+Prompt Engineering,提示词工程,digital-logistics,物流科技与数字化
+AI Copilot,人工智能副驾驶助手,digital-logistics,物流科技与数字化
+Chatbot,聊天机器人,digital-logistics,物流科技与数字化
+Intelligent Customer Service,智能客服,digital-logistics,物流科技与数字化
+Sentiment Analysis,情感分析,digital-logistics,物流科技与数字化
+Speech Recognition,语音识别,digital-logistics,物流科技与数字化
+Machine Translation,机器翻译,digital-logistics,物流科技与数字化
+Demand Forecasting AI,人工智能需求预测,digital-logistics,物流科技与数字化
+Predictive ETA AI,人工智能到达时间预测,digital-logistics,物流科技与数字化
+AI Route Optimization,人工智能路径优化,digital-logistics,物流科技与数字化
+Dynamic Routing,动态路径规划,digital-logistics,物流科技与数字化
+AI Pricing Engine,人工智能定价引擎,digital-logistics,物流科技与数字化
+Automated Quoting,自动报价,digital-logistics,物流科技与数字化
+Capacity Forecasting,运力预测,digital-logistics,物流科技与数字化
+Autonomous Truck,自动驾驶卡车,digital-logistics,物流科技与数字化
+Autonomous Trucking,自动驾驶货运,digital-logistics,物流科技与数字化
+Autonomous Last-Mile Delivery,无人末端配送,digital-logistics,物流科技与数字化
+Delivery Robot,配送机器人,digital-logistics,物流科技与数字化
+Delivery Drone,配送无人机,digital-logistics,物流科技与数字化
+Drone Delivery,无人机配送,digital-logistics,物流科技与数字化
+Autonomous Mobile Robot,自主移动机器人,digital-logistics,物流科技与数字化
+Automated Guided Vehicle,自动导引车,digital-logistics,物流科技与数字化
+Automated Storage and Retrieval System,自动化存取系统,digital-logistics,物流科技与数字化
+Goods-to-Person System,货到人拣选系统,digital-logistics,物流科技与数字化
+AutoStore立体仓储系统,AutoStore立体仓储系统,digital-logistics,物流科技与数字化
+Robotic Picking,机器人拣选,digital-logistics,物流科技与数字化
+Warehouse Robotics,仓储机器人,digital-logistics,物流科技与数字化
+Robotics-as-a-Service,机器人即服务,digital-logistics,物流科技与数字化
+Digital Twin,数字孪生,digital-logistics,物流科技与数字化
+Network Optimization Model,网络优化模型,digital-logistics,物流科技与数字化
+Mathematical Optimization,数学优化,digital-logistics,物流科技与数字化
+Vehicle Routing Problem,车辆路径问题,digital-logistics,物流科技与数字化
+Load Optimization Algorithm,装载优化算法,digital-logistics,物流科技与数字化
+Slot Booking System,预约排班系统,digital-logistics,物流科技与数字化
+Warehouse Slotting,库位优化,digital-logistics,物流科技与数字化
+Wave Planning,波次规划,digital-logistics,物流科技与数字化
+Labor Management System,劳动力管理系统,digital-logistics,物流科技与数字化
+Warehouse Execution System,仓库执行系统,digital-logistics,物流科技与数字化
+Damage Detection,货损检测,digital-logistics,物流科技与数字化
+API,应用程序接口,digital-logistics,物流科技与数字化
+REST API,REST风格接口,digital-logistics,物流科技与数字化
+SOAP,简单对象访问协议,digital-logistics,物流科技与数字化
+GraphQL,GraphQL查询语言,digital-logistics,物流科技与数字化
+Webhook,网络钩子,digital-logistics,物流科技与数字化
+HTTP,超文本传输协议,digital-logistics,物流科技与数字化
+HTTPS,安全超文本传输协议,digital-logistics,物流科技与数字化
+JSON,JSON数据格式,digital-logistics,物流科技与数字化
+XML,XML标记语言,digital-logistics,物流科技与数字化
+API Endpoint,接口端点,digital-logistics,物流科技与数字化
+API Gateway,接口网关,digital-logistics,物流科技与数字化
+API Rate Limiting,接口限流,digital-logistics,物流科技与数字化
+API Versioning,接口版本管理,digital-logistics,物流科技与数字化
+OpenAPI Specification,OpenAPI接口规范,digital-logistics,物流科技与数字化
+SDK,软件开发工具包,digital-logistics,物流科技与数字化
+Sandbox Environment,沙箱测试环境,digital-logistics,物流科技与数字化
+API Response Time,接口响应时间,digital-logistics,物流科技与数字化
+Latency,延迟,digital-logistics,物流科技与数字化
+Idempotency,幂等性,digital-logistics,物流科技与数字化
+Microservices,微服务架构,digital-logistics,物流科技与数字化
+Integration Platform as a Service,集成平台即服务,digital-logistics,物流科技与数字化
+System Integration,系统集成,digital-logistics,物流科技与数字化
+Single Sign-On,单点登录,digital-logistics,物流科技与数字化
+OAuth 2.0,OAuth 2.0授权框架,digital-logistics,物流科技与数字化
+JWT,JSON网络令牌,digital-logistics,物流科技与数字化
+EDI,电子数据交换,digital-logistics,物流科技与数字化
+EDI Standard,EDI标准,digital-logistics,物流科技与数字化
+ANSI X12,ANSI X12美国EDI标准,digital-logistics,物流科技与数字化
+EDIFACT,联合国EDIFACT标准,digital-logistics,物流科技与数字化
+VDA Standard,德国汽车工业协会EDI标准,digital-logistics,物流科技与数字化
+Message Type,报文类型,digital-logistics,物流科技与数字化
+Segment,EDI字段段,digital-logistics,物流科技与数字化
+Element,EDI数据元,digital-logistics,物流科技与数字化
+EDI 850,EDI 850采购订单报文,digital-logistics,物流科技与数字化
+EDI 855,EDI 855采购订单确认报文,digital-logistics,物流科技与数字化
+EDI 856,EDI 856发货通知报文,digital-logistics,物流科技与数字化
+EDI 810,EDI 810发票报文,digital-logistics,物流科技与数字化
+EDI 820,EDI 820付款指令报文,digital-logistics,物流科技与数字化
+EDI 830,EDI 830规划排程报文,digital-logistics,物流科技与数字化
+EDI 832,EDI 832价格目录报文,digital-logistics,物流科技与数字化
+EDI 940,EDI 940仓库发货指令报文,digital-logistics,物流科技与数字化
+EDI 943,EDI 943仓库库存转移装运通知报文,digital-logistics,物流科技与数字化
+EDI 944,EDI 944仓库库存转移收货通知报文,digital-logistics,物流科技与数字化
+EDI 945,EDI 945仓库发货通知报文,digital-logistics,物流科技与数字化
+EDI 947,EDI 947仓库库存调整通知报文,digital-logistics,物流科技与数字化
+EDI 990,EDI 990装载投标响应报文,digital-logistics,物流科技与数字化
+EDI 997,EDI 997功能确认报文,digital-logistics,物流科技与数字化
+EDI 999,EDI 999实施确认报文,digital-logistics,物流科技与数字化
+EDI 210,EDI 210货运发票报文,digital-logistics,物流科技与数字化
+EDI 214,EDI 214货运装运状态报文,digital-logistics,物流科技与数字化
+EDI 309,EDI 309海关舱单申报报文,digital-logistics,物流科技与数字化
+EDI 310,EDI 310海运发票报文,digital-logistics,物流科技与数字化
+EDI 315,EDI 315运输状态与到港详情报文,digital-logistics,物流科技与数字化
+EDI 322,EDI 322码头作业细节报文,digital-logistics,物流科技与数字化
+ORDERS,EDIFACT订单报文,digital-logistics,物流科技与数字化
+ORDRSP,EDIFACT订单响应报文,digital-logistics,物流科技与数字化
+DESADV,EDIFACT发货通知报文,digital-logistics,物流科技与数字化
+RECADV,EDIFACT收货通知报文,digital-logistics,物流科技与数字化
+INVOIC,EDIFACT发票报文,digital-logistics,物流科技与数字化
+REMADV,EDIFACT汇款通知报文,digital-logistics,物流科技与数字化
+DELFOR,EDIFACT交付计划报文,digital-logistics,物流科技与数字化
+DELJIT,EDIFACT准时交付计划报文,digital-logistics,物流科技与数字化
+PRICAT,EDIFACT价格目录报文,digital-logistics,物流科技与数字化
+IFCSUM,EDIFACT货运汇总报文,digital-logistics,物流科技与数字化
+IFTMIN,EDIFACT运输指令报文,digital-logistics,物流科技与数字化
+IFTMBF,EDIFACT确认预订报文,digital-logistics,物流科技与数字化
+IFTMCS,EDIFACT装运说明报文,digital-logistics,物流科技与数字化
+IFTSTA,EDIFACT运输状态报文,digital-logistics,物流科技与数字化
+COPARN,EDIFACT集装箱通告报文,digital-logistics,物流科技与数字化
+COPRAR,EDIFACT装卸指令报文,digital-logistics,物流科技与数字化
+BAPLIE,EDIFACT船舶积载计划报文,digital-logistics,物流科技与数字化
+CODECO,EDIFACT集装箱进出堆场报告报文,digital-logistics,物流科技与数字化
+VERMAS,EDIFACT核实总重报文,digital-logistics,物流科技与数字化
+Cloud Computing,云计算,digital-logistics,物流科技与数字化
+SaaS,软件即服务,digital-logistics,物流科技与数字化
+PaaS,平台即服务,digital-logistics,物流科技与数字化
+IaaS,基础设施即服务,digital-logistics,物流科技与数字化
+Public Cloud,公有云,digital-logistics,物流科技与数字化
+Scalability,可扩展性,digital-logistics,物流科技与数字化
+Container,容器,digital-logistics,物流科技与数字化
+Docker,Docker容器平台,digital-logistics,物流科技与数字化
+Kubernetes,Kubernetes容器编排系统,digital-logistics,物流科技与数字化
+Data Encryption,数据加密,digital-logistics,物流科技与数字化
+TLS,传输层安全协议,digital-logistics,物流科技与数字化
+VPN,虚拟专用网络,digital-logistics,物流科技与数字化
+Firewall,防火墙,digital-logistics,物流科技与数字化
+DDoS Attack,分布式拒绝服务攻击,digital-logistics,物流科技与数字化
+Two-Factor Authentication,双因素认证,digital-logistics,物流科技与数字化
+Access Control,访问控制,digital-logistics,物流科技与数字化
+Penetration Testing,渗透测试,digital-logistics,物流科技与数字化
+Vulnerability Scanning,漏洞扫描,digital-logistics,物流科技与数字化
+Data Backup,数据备份,digital-logistics,物流科技与数字化
+Disaster Recovery,灾难恢复,digital-logistics,物流科技与数字化
+Load Balancer,负载均衡器,digital-logistics,物流科技与数字化
+High Availability,高可用性,digital-logistics,物流科技与数字化
+RTO,恢复时间目标,digital-logistics,物流科技与数字化
+RPO,恢复点目标,digital-logistics,物流科技与数字化

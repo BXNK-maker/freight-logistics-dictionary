@@ -1,0 +1,401 @@
+﻿term_en,term_zh,category,subcategory
+autonomous truck,无人卡车,digital-logistics,物流科技与数字化
+self-driving truck,自动驾驶卡车,digital-logistics,物流科技与数字化
+driverless truck,无驾驶员卡车,digital-logistics,物流科技与数字化
+autonomous vehicle,自动驾驶车辆,digital-logistics,物流科技与数字化
+automated driving system,自动驾驶系统,digital-logistics,物流科技与数字化
+SAE automation level,SAE自动驾驶分级,digital-logistics,物流科技与数字化
+Level 4 autonomy,L4级自动驾驶,digital-logistics,物流科技与数字化
+truck platooning,卡车编队行驶,digital-logistics,物流科技与数字化
+teleoperation,遥操作,digital-logistics,物流科技与数字化
+teleoperations center,远程驾驶中心,digital-logistics,物流科技与数字化
+remote driving,远程驾驶,digital-logistics,物流科技与数字化
+remote assistance,远程协助,digital-logistics,物流科技与数字化
+safety driver,安全驾驶员,digital-logistics,物流科技与数字化
+operational design domain,设计运行域,digital-logistics,物流科技与数字化
+autonomous freight corridor,自主货运走廊,digital-logistics,物流科技与数字化
+unmanned delivery vehicle,无人配送车,digital-logistics,物流科技与数字化
+autonomous delivery vehicle,自动驾驶配送车,digital-logistics,物流科技与数字化
+delivery robot,配送机器人,digital-logistics,物流科技与数字化
+sidewalk delivery robot,人行道配送机器人,digital-logistics,物流科技与数字化
+autonomous ship,自主航行船舶,digital-logistics,物流科技与数字化
+maritime autonomous surface ship,海上自主水面船舶,digital-logistics,物流科技与数字化
+unmanned cargo ship,无人货船,digital-logistics,物流科技与数字化
+autonomous navigation,自主导航,digital-logistics,物流科技与数字化
+autonomous train,自主列车,digital-logistics,物流科技与数字化
+driverless metro,无人驾驶地铁,digital-logistics,物流科技与数字化
+autonomous bus,自动驾驶巴士,digital-logistics,物流科技与数字化
+autonomous yard tractor,自动驾驶场内牵引车,digital-logistics,物流科技与数字化
+autonomous haul truck,矿用无人驾驶卡车,digital-logistics,物流科技与数字化
+automated parking,自动泊车,digital-logistics,物流科技与数字化
+automated valet parking,自动代客泊车,digital-logistics,物流科技与数字化
+smart parking,智慧停车,digital-logistics,物流科技与数字化
+unmanned forklift,无人叉车,digital-logistics,物流科技与数字化
+sensor fusion,传感器融合,digital-logistics,物流科技与数字化
+LiDAR,激光雷达,digital-logistics,物流科技与数字化
+high-definition map,高精地图,digital-logistics,物流科技与数字化
+SLAM,同步定位与地图构建,digital-logistics,物流科技与数字化
+GNSS,全球卫星导航系统,digital-logistics,物流科技与数字化
+RTK positioning,RTK定位,digital-logistics,物流科技与数字化
+obstacle detection,障碍物检测,digital-logistics,物流科技与数字化
+obstacle avoidance,避障,digital-logistics,物流科技与数字化
+automatic emergency braking,自动紧急制动,digital-logistics,物流科技与数字化
+connected vehicle,网联汽车,digital-logistics,物流科技与数字化
+connected truck,网联卡车,digital-logistics,物流科技与数字化
+V2X,车联网,digital-logistics,物流科技与数字化
+vehicle-to-vehicle communication,车车通信,digital-logistics,物流科技与数字化
+UAV,无人机,digital-logistics,物流科技与数字化
+unmanned aircraft system,无人机系统,digital-logistics,物流科技与数字化
+UAV logistics,无人机物流,digital-logistics,物流科技与数字化
+delivery drone,配送无人机,digital-logistics,物流科技与数字化
+drone delivery,无人机配送,digital-logistics,物流科技与数字化
+cargo drone,货运无人机,digital-logistics,物流科技与数字化
+drone swarm,无人机集群,digital-logistics,物流科技与数字化
+drone corridor,无人机航路,digital-logistics,物流科技与数字化
+drone port,无人机机场,digital-logistics,物流科技与数字化
+drone docking station,无人机自动机巢,digital-logistics,物流科技与数字化
+vertiport,垂直起降机场,digital-logistics,物流科技与数字化
+eVTOL,电动垂直起降飞行器,digital-logistics,物流科技与数字化
+cargo eVTOL,货运电动垂直起降飞行器,digital-logistics,物流科技与数字化
+urban air mobility,城市空中交通,digital-logistics,物流科技与数字化
+advanced air mobility,先进空中交通,digital-logistics,物流科技与数字化
+beyond visual line of sight,超视距飞行,digital-logistics,物流科技与数字化
+unmanned traffic management,无人机交通管理,digital-logistics,物流科技与数字化
+air taxi,空中出租车,digital-logistics,物流科技与数字化
+smart port,智能港口,digital-logistics,物流科技与数字化
+automated container terminal,自动化集装箱码头,digital-logistics,物流科技与数字化
+port community system,港口社区系统,digital-logistics,物流科技与数字化
+single window,单一窗口,digital-logistics,物流科技与数字化
+optical character recognition,光学字符识别,digital-logistics,物流科技与数字化
+unmanned gate,无人闸口,digital-logistics,物流科技与数字化
+automated gate system,自动闸口系统,digital-logistics,物流科技与数字化
+smart gate,智能闸口,digital-logistics,物流科技与数字化
+gate automation,闸口自动化,digital-logistics,物流科技与数字化
+license plate recognition,车牌识别,digital-logistics,物流科技与数字化
+container number recognition,集装箱箱号识别,digital-logistics,物流科技与数字化
+truck appointment system,卡车预约系统,digital-logistics,物流科技与数字化
+truck turnaround time,卡车周转时间,digital-logistics,物流科技与数字化
+weigh-in-motion,动态称重,digital-logistics,物流科技与数字化
+electronic seal,电子铅封,digital-logistics,物流科技与数字化
+container scanning,集装箱扫描,digital-logistics,物流科技与数字化
+non-intrusive inspection,非侵入式查验,digital-logistics,物流科技与数字化
+customs automation,海关自动化,digital-logistics,物流科技与数字化
+paperless customs,无纸化通关,digital-logistics,物流科技与数字化
+paperless trade,无纸化贸易,digital-logistics,物流科技与数字化
+e-declaration,电子申报,digital-logistics,物流科技与数字化
+electronic manifest,电子舱单,digital-logistics,物流科技与数字化
+e-waybill,电子运单,digital-logistics,物流科技与数字化
+e-CMR,电子托运单,digital-logistics,物流科技与数字化
+e-invoice,电子发票,digital-logistics,物流科技与数字化
+electronic bill of lading,电子提单,digital-logistics,物流科技与数字化
+e-booking,电子订舱,digital-logistics,物流科技与数字化
+AIS,船舶自动识别系统,digital-logistics,物流科技与数字化
+vessel traffic management system,船舶交通管理系统,digital-logistics,物流科技与数字化
+berth allocation,泊位分配,digital-logistics,物流科技与数字化
+port call optimization,船舶靠港优化,digital-logistics,物流科技与数字化
+just-in-time arrival,船舶准时到港,digital-logistics,物流科技与数字化
+automated mooring,自动系泊,digital-logistics,物流科技与数字化
+remote-controlled crane,远程遥控起重机,digital-logistics,物流科技与数字化
+quay crane automation,岸桥自动化,digital-logistics,物流科技与数字化
+automated stacking crane,自动化堆垛起重机,digital-logistics,物流科技与数字化
+automated RTG,自动化轮胎式龙门吊,digital-logistics,物流科技与数字化
+IGV,智能引导运输车,digital-logistics,物流科技与数字化
+anti-collision system,防碰撞系统,digital-logistics,物流科技与数字化
+digital yard,数字场站,digital-logistics,物流科技与数字化
+reefer monitoring,冷藏集装箱监控,digital-logistics,物流科技与数字化
+remote reefer monitoring,冷藏箱远程监控,digital-logistics,物流科技与数字化
+smart container,智能集装箱,digital-logistics,物流科技与数字化
+connected container,联网集装箱,digital-logistics,物流科技与数字化
+container tracking device,集装箱跟踪器,digital-logistics,物流科技与数字化
+cold chain IoT monitoring,冷链物联网监控,digital-logistics,物流科技与数字化
+temperature monitoring,温度监控,digital-logistics,物流科技与数字化
+electronic cargo tracking,电子货物跟踪,digital-logistics,物流科技与数字化
+cargo tracking,货物跟踪,digital-logistics,物流科技与数字化
+digital twin,数字孪生,digital-logistics,物流科技与数字化
+supply chain digital twin,供应链数字孪生,digital-logistics,物流科技与数字化
+port digital twin,港口数字孪生,digital-logistics,物流科技与数字化
+warehouse digital twin,仓库数字孪生,digital-logistics,物流科技与数字化
+digital thread,数字线程,digital-logistics,物流科技与数字化
+digital shadow,数字影子,digital-logistics,物流科技与数字化
+cyber-physical system,信息物理系统,digital-logistics,物流科技与数字化
+physical internet,物理互联网,digital-logistics,物流科技与数字化
+virtual commissioning,虚拟调试,digital-logistics,物流科技与数字化
+virtual testing,虚拟测试,digital-logistics,物流科技与数字化
+simulation modeling,仿真建模,digital-logistics,物流科技与数字化
+discrete event simulation,离散事件仿真,digital-logistics,物流科技与数字化
+agent-based simulation,基于智能体的仿真,digital-logistics,物流科技与数字化
+Monte Carlo simulation,蒙特卡罗仿真,digital-logistics,物流科技与数字化
+scenario simulation,情景仿真,digital-logistics,物流科技与数字化
+what-if analysis,假设分析,digital-logistics,物流科技与数字化
+scenario planning,情景规划,digital-logistics,物流科技与数字化
+facility location modeling,设施选址建模,digital-logistics,物流科技与数字化
+capacity planning,产能规划,digital-logistics,物流科技与数字化
+throughput analysis,吞吐量分析,digital-logistics,物流科技与数字化
+bottleneck analysis,瓶颈分析,digital-logistics,物流科技与数字化
+queueing theory,排队论,digital-logistics,物流科技与数字化
+warehouse simulation,仓库仿真,digital-logistics,物流科技与数字化
+logistics simulation,物流仿真,digital-logistics,物流科技与数字化
+traffic simulation,交通仿真,digital-logistics,物流科技与数字化
+material flow simulation,物料流仿真,digital-logistics,物流科技与数字化
+real-time simulation,实时仿真,digital-logistics,物流科技与数字化
+hardware-in-the-loop,硬件在环,digital-logistics,物流科技与数字化
+physics engine,物理引擎,digital-logistics,物流科技与数字化
+synthetic data,合成数据,digital-logistics,物流科技与数字化
+reinforcement learning,强化学习,digital-logistics,物流科技与数字化
+sim-to-real,仿真到现实迁移,digital-logistics,物流科技与数字化
+3D visualization,三维可视化,digital-logistics,物流科技与数字化
+virtual reality training,虚拟现实培训,digital-logistics,物流科技与数字化
+augmented reality picking,增强现实拣选,digital-logistics,物流科技与数字化
+mixed reality,混合现实,digital-logistics,物流科技与数字化
+operations research,运筹学,digital-logistics,物流科技与数字化
+linear programming,线性规划,digital-logistics,物流科技与数字化
+mixed integer programming,混合整数规划,digital-logistics,物流科技与数字化
+mathematical optimization,数学优化,digital-logistics,物流科技与数字化
+optimization solver,优化求解器,digital-logistics,物流科技与数字化
+heuristic algorithm,启发式算法,digital-logistics,物流科技与数字化
+metaheuristic,元启发式算法,digital-logistics,物流科技与数字化
+dynamic programming,动态规划,digital-logistics,物流科技与数字化
+genetic algorithm,遗传算法,digital-logistics,物流科技与数字化
+ant colony optimization,蚁群优化算法,digital-logistics,物流科技与数字化
+simulated annealing,模拟退火算法,digital-logistics,物流科技与数字化
+process mining,流程挖掘,digital-logistics,物流科技与数字化
+control tower,控制塔,digital-logistics,物流科技与数字化
+supply chain control tower,供应链控制塔,digital-logistics,物流科技与数字化
+logistics control tower,物流控制塔,digital-logistics,物流科技与数字化
+shipment tracking,货件跟踪,digital-logistics,物流科技与数字化
+parcel tracking,包裹跟踪,digital-logistics,物流科技与数字化
+vessel tracking,船舶跟踪,digital-logistics,物流科技与数字化
+flight tracking,航班跟踪,digital-logistics,物流科技与数字化
+container visibility,集装箱可视化,digital-logistics,物流科技与数字化
+in-transit visibility,在途可视化,digital-logistics,物流科技与数字化
+end-to-end visibility,端到端可视化,digital-logistics,物流科技与数字化
+real-time visibility,实时可视化,digital-logistics,物流科技与数字化
+track and trace,全程跟踪追溯,digital-logistics,物流科技与数字化
+milestone tracking,物流节点跟踪,digital-logistics,物流科技与数字化
+exception management,异常管理,digital-logistics,物流科技与数字化
+supply chain risk monitoring,供应链风险监控,digital-logistics,物流科技与数字化
+ETA prediction,预计到达时间预测,digital-logistics,物流科技与数字化
+dwell time,停留时间,digital-logistics,物流科技与数字化
+geofencing,地理围栏,digital-logistics,物流科技与数字化
+proof of delivery,交货凭证,digital-logistics,物流科技与数字化
+electronic proof of delivery,电子交货凭证,digital-logistics,物流科技与数字化
+telemetry,遥测,digital-logistics,物流科技与数字化
+telematics,车载远程信息处理,digital-logistics,物流科技与数字化
+electronic logging device,电子行车记录仪,digital-logistics,物流科技与数字化
+driver behavior monitoring,驾驶行为监控,digital-logistics,物流科技与数字化
+cold chain visibility,冷链可视化,digital-logistics,物流科技与数字化
+IoT tracking,物联网跟踪,digital-logistics,物流科技与数字化
+real-time location system,实时定位系统,digital-logistics,物流科技与数字化
+predictive analytics,预测分析,digital-logistics,物流科技与数字化
+supply chain analytics,供应链分析,digital-logistics,物流科技与数字化
+logistics analytics,物流分析,digital-logistics,物流科技与数字化
+data visualization,数据可视化,digital-logistics,物流科技与数字化
+business intelligence,商业智能,digital-logistics,物流科技与数字化
+OTIF,准时足量交付率,digital-logistics,物流科技与数字化
+predictive alerting,预测性告警,digital-logistics,物流科技与数字化
+anomaly detection,异常检测,digital-logistics,物流科技与数字化
+fulfillment center,履约中心,digital-logistics,物流科技与数字化
+e-commerce fulfillment,电商履约,digital-logistics,物流科技与数字化
+fulfillment network,履约网络,digital-logistics,物流科技与数字化
+omnichannel fulfillment,全渠道履约,digital-logistics,物流科技与数字化
+order management system,订单管理系统,digital-logistics,物流科技与数字化
+warehouse management system,仓库管理系统,digital-logistics,物流科技与数字化
+transportation management system,运输管理系统,digital-logistics,物流科技与数字化
+yard management system,场站管理系统,digital-logistics,物流科技与数字化
+labor management system,劳动力管理系统,digital-logistics,物流科技与数字化
+warehouse execution system,仓库执行系统,digital-logistics,物流科技与数字化
+warehouse control system,仓库控制系统,digital-logistics,物流科技与数字化
+distributed order management,分布式订单管理,digital-logistics,物流科技与数字化
+order routing,订单路由,digital-logistics,物流科技与数字化
+order splitting,订单拆分,digital-logistics,物流科技与数字化
+split shipment,拆单发货,digital-logistics,物流科技与数字化
+inventory allocation,库存分配,digital-logistics,物流科技与数字化
+inventory synchronization,库存同步,digital-logistics,物流科技与数字化
+real-time inventory,实时库存,digital-logistics,物流科技与数字化
+inventory visibility,库存可视化,digital-logistics,物流科技与数字化
+available-to-promise,可承诺量,digital-logistics,物流科技与数字化
+safety stock optimization,安全库存优化,digital-logistics,物流科技与数字化
+demand forecasting,需求预测,digital-logistics,物流科技与数字化
+machine learning forecasting,机器学习预测,digital-logistics,物流科技与数字化
+demand sensing,需求感知,digital-logistics,物流科技与数字化
+replenishment automation,自动补货,digital-logistics,物流科技与数字化
+inventory optimization,库存优化,digital-logistics,物流科技与数字化
+multi-echelon inventory optimization,多级库存优化,digital-logistics,物流科技与数字化
+wave picking,波次拣选,digital-logistics,物流科技与数字化
+batch picking,批量拣选,digital-logistics,物流科技与数字化
+zone picking,分区拣选,digital-logistics,物流科技与数字化
+cluster picking,聚合拣选,digital-logistics,物流科技与数字化
+pick path optimization,拣选路径优化,digital-logistics,物流科技与数字化
+pick-to-light,电子标签拣选,digital-logistics,物流科技与数字化
+put-to-light,电子标签播种,digital-logistics,物流科技与数字化
+voice picking,语音拣选,digital-logistics,物流科技与数字化
+slotting,货位优化,digital-logistics,物流科技与数字化
+barcode scanning,条码扫描,digital-logistics,物流科技与数字化
+cartonization,装箱优化,digital-logistics,物流科技与数字化
+packaging automation,包装自动化,digital-logistics,物流科技与数字化
+rate shopping,运费比价,digital-logistics,物流科技与数字化
+ship-from-store,门店发货,digital-logistics,物流科技与数字化
+BOPIS,线上购买门店自提,digital-logistics,物流科技与数字化
+click and collect,线上下单线下自提,digital-logistics,物流科技与数字化
+curbside pickup,路边自提,digital-logistics,物流科技与数字化
+dropshipping,代发货,digital-logistics,物流科技与数字化
+micro fulfillment center,微型履约中心,digital-logistics,物流科技与数字化
+dark store,前置仓,digital-logistics,物流科技与数字化
+same-day fulfillment,当日履约,digital-logistics,物流科技与数字化
+returns management,退货管理,digital-logistics,物流科技与数字化
+order orchestration,订单编排,digital-logistics,物流科技与数字化
+cubing and weighing,体积称量,digital-logistics,物流科技与数字化
+last mile delivery,最后一公里配送,digital-logistics,物流科技与数字化
+smart locker,智能快递柜,digital-logistics,物流科技与数字化
+parcel locker,包裹柜,digital-logistics,物流科技与数字化
+pickup point,自提点,digital-logistics,物流科技与数字化
+parcel shop,代收网点,digital-logistics,物流科技与数字化
+PUDO point,自提投递点,digital-logistics,物流科技与数字化
+route optimization,路径优化,digital-logistics,物流科技与数字化
+route planning,路线规划,digital-logistics,物流科技与数字化
+dynamic routing,动态路径规划,digital-logistics,物流科技与数字化
+routing engine,路径规划引擎,digital-logistics,物流科技与数字化
+vehicle routing problem,车辆路径问题,digital-logistics,物流科技与数字化
+traveling salesman problem,旅行商问题,digital-logistics,物流科技与数字化
+time window constraint,时间窗约束,digital-logistics,物流科技与数字化
+delivery time window,配送时间窗,digital-logistics,物流科技与数字化
+scheduled delivery,预约配送,digital-logistics,物流科技与数字化
+delivery slot booking,配送时段预约,digital-logistics,物流科技与数字化
+crowdshipping,众包配送,digital-logistics,物流科技与数字化
+gig economy delivery,零工经济配送,digital-logistics,物流科技与数字化
+on-demand delivery,按需配送,digital-logistics,物流科技与数字化
+instant delivery,即时配送,digital-logistics,物流科技与数字化
+hyperlocal delivery,超本地配送,digital-logistics,物流科技与数字化
+quick commerce,即时零售配送,digital-logistics,物流科技与数字化
+same-day delivery,当日达,digital-logistics,物流科技与数字化
+redelivery,二次投递,digital-logistics,物流科技与数字化
+first attempt delivery rate,首次投递成功率,digital-logistics,物流科技与数字化
+unattended delivery,无人值守投递,digital-logistics,物流科技与数字化
+micro hub,微枢纽,digital-logistics,物流科技与数字化
+urban consolidation center,城市集配中心,digital-logistics,物流科技与数字化
+city logistics,城市物流,digital-logistics,物流科技与数字化
+night delivery,夜间配送,digital-logistics,物流科技与数字化
+off-peak delivery,非高峰时段配送,digital-logistics,物流科技与数字化
+geocoding,地理编码,digital-logistics,物流科技与数字化
+address verification,地址校验,digital-logistics,物流科技与数字化
+stop sequencing,停靠点排序,digital-logistics,物流科技与数字化
+dispatch optimization,调度优化,digital-logistics,物流科技与数字化
+automatic dispatch,自动调度,digital-logistics,物流科技与数字化
+load planning,装载计划,digital-logistics,物流科技与数字化
+3D load planning,三维装载规划,digital-logistics,物流科技与数字化
+parcel sorting automation,包裹自动分拣,digital-logistics,物流科技与数字化
+automated sorting,自动分拣,digital-logistics,物流科技与数字化
+parcel singulation,包裹单件分离,digital-logistics,物流科技与数字化
+cross-belt sorter,交叉带分拣机,digital-logistics,物流科技与数字化
+tilt-tray sorter,倾斜托盘分拣机,digital-logistics,物流科技与数字化
+sliding shoe sorter,滑块式分拣机,digital-logistics,物流科技与数字化
+loop sorter,环形分拣机,digital-logistics,物流科技与数字化
+put wall,播种墙,digital-logistics,物流科技与数字化
+telescopic conveyor,伸缩皮带机,digital-logistics,物流科技与数字化
+e-cargo bike,电动货运自行车,digital-logistics,物流科技与数字化
+electric delivery van,电动配送车,digital-logistics,物流科技与数字化
+automated guided vehicle,自动导引车,digital-logistics,物流科技与数字化
+autonomous mobile robot,自主移动机器人,digital-logistics,物流科技与数字化
+goods-to-person,货到人,digital-logistics,物流科技与数字化
+person-to-goods,人到货,digital-logistics,物流科技与数字化
+tote-to-person,料箱到人,digital-logistics,物流科技与数字化
+case-to-person,整箱到人,digital-logistics,物流科技与数字化
+tugger AGV,牵引式自动导引车,digital-logistics,物流科技与数字化
+tugger train,牵引列车,digital-logistics,物流科技与数字化
+pallet shuttle system,托盘穿梭车系统,digital-logistics,物流科技与数字化
+shuttle system,穿梭车系统,digital-logistics,物流科技与数字化
+four-way shuttle,四向穿梭车,digital-logistics,物流科技与数字化
+vertical lift module,垂直提升货柜,digital-logistics,物流科技与数字化
+vertical carousel,垂直回转货柜,digital-logistics,物流科技与数字化
+horizontal carousel,水平回转货架,digital-logistics,物流科技与数字化
+automated storage and retrieval system,自动化存取系统,digital-logistics,物流科技与数字化
+mini-load system,料箱自动化存取系统,digital-logistics,物流科技与数字化
+stacker crane,堆垛机,digital-logistics,物流科技与数字化
+cube storage,立方体存储系统,digital-logistics,物流科技与数字化
+intelligent warehouse,智能仓库,digital-logistics,物流科技与数字化
+robotic mobile fulfillment,机器人移动履约,digital-logistics,物流科技与数字化
+robotic arm picking,机械臂拣选,digital-logistics,物流科技与数字化
+piece-picking robot,单件拣选机器人,digital-logistics,物流科技与数字化
+bin picking robot,料箱拣选机器人,digital-logistics,物流科技与数字化
+bin picking,料箱拣选,digital-logistics,物流科技与数字化
+vision-guided robot,视觉引导机器人,digital-logistics,物流科技与数字化
+machine vision,机器视觉,digital-logistics,物流科技与数字化
+depth camera,深度相机,digital-logistics,物流科技与数字化
+robotic palletizer,码垛机器人,digital-logistics,物流科技与数字化
+robotic palletizing,机器人码垛,digital-logistics,物流科技与数字化
+depalletizing robot,拆垛机器人,digital-logistics,物流科技与数字化
+case-packing robot,装箱机器人,digital-logistics,物流科技与数字化
+mobile manipulator,移动操作机器人,digital-logistics,物流科技与数字化
+cobot,协作机器人,digital-logistics,物流科技与数字化
+robot fleet management,机器人集群管理,digital-logistics,物流科技与数字化
+multi-robot coordination,多机器人协同,digital-logistics,物流科技与数字化
+robot as a service,机器人即服务,digital-logistics,物流科技与数字化
+sortation robot,分拣机器人,digital-logistics,物流科技与数字化
+humanoid robot,人形机器人,digital-logistics,物流科技与数字化
+gripper,机器人夹爪,digital-logistics,物流科技与数字化
+end effector,末端执行器,digital-logistics,物流科技与数字化
+smart pallet,智能托盘,digital-logistics,物流科技与数字化
+magnetic guidance,磁导引,digital-logistics,物流科技与数字化
+laser guidance,激光导引,digital-logistics,物流科技与数字化
+natural feature navigation,免标记自然导航,digital-logistics,物流科技与数字化
+safety laser scanner,安全激光扫描仪,digital-logistics,物流科技与数字化
+automated quality inspection,自动质检,digital-logistics,物流科技与数字化
+opportunity charging,机会充电,digital-logistics,物流科技与数字化
+battery swap,换电,digital-logistics,物流科技与数字化
+inventory drone,盘点无人机,digital-logistics,物流科技与数字化
+conveyor system,输送系统,digital-logistics,物流科技与数字化
+automated loading system,自动装车系统,digital-logistics,物流科技与数字化
+exoskeleton,外骨骼机器人,digital-logistics,物流科技与数字化
+wearable device,可穿戴设备,digital-logistics,物流科技与数字化
+low-altitude economy,低空经济,digital-logistics,物流科技与数字化
+cargo airship,货运飞艇,digital-logistics,物流科技与数字化
+hybrid airship,混合式飞艇,digital-logistics,物流科技与数字化
+hyperloop,超级高铁,digital-logistics,物流科技与数字化
+hyperloop cargo,超级高铁货运,digital-logistics,物流科技与数字化
+vacuum tube transport,真空管道运输,digital-logistics,物流科技与数字化
+underground freight transportation,地下货运系统,digital-logistics,物流科技与数字化
+underground logistics,地下物流,digital-logistics,物流科技与数字化
+smart highway,智能公路,digital-logistics,物流科技与数字化
+electrified road,电气化公路,digital-logistics,物流科技与数字化
+electronic toll collection,电子不停车收费,digital-logistics,物流科技与数字化
+dynamic wireless charging,动态无线充电,digital-logistics,物流科技与数字化
+maglev freight,磁悬浮货运,digital-logistics,物流科技与数字化
+personal rapid transit,个人快速交通,digital-logistics,物流科技与数字化
+automated people mover,自动旅客捷运系统,digital-logistics,物流科技与数字化
+high-altitude platform station,高空平台系统,digital-logistics,物流科技与数字化
+autonomous rail rapid transit,智轨列车,digital-logistics,物流科技与数字化
+Internet of Things,物联网,digital-logistics,物流科技与数字化
+Industrial Internet of Things,工业物联网,digital-logistics,物流科技与数字化
+smart sensor,智能传感器,digital-logistics,物流科技与数字化
+RFID,射频识别,digital-logistics,物流科技与数字化
+electronic product code,电子产品编码,digital-logistics,物流科技与数字化
+EPCIS,电子产品编码信息服务,digital-logistics,物流科技与数字化
+blockchain,区块链,digital-logistics,物流科技与数字化
+blockchain traceability,区块链溯源,digital-logistics,物流科技与数字化
+smart contract,智能合约,digital-logistics,物流科技与数字化
+distributed ledger technology,分布式账本技术,digital-logistics,物流科技与数字化
+artificial intelligence,人工智能,digital-logistics,物流科技与数字化
+machine learning,机器学习,digital-logistics,物流科技与数字化
+deep learning,深度学习,digital-logistics,物流科技与数字化
+computer vision,计算机视觉,digital-logistics,物流科技与数字化
+generative AI,生成式人工智能,digital-logistics,物流科技与数字化
+AI agent,智能体,digital-logistics,物流科技与数字化
+predictive maintenance,预测性维护,digital-logistics,物流科技与数字化
+condition monitoring,状态监测,digital-logistics,物流科技与数字化
+object detection,目标检测,digital-logistics,物流科技与数字化
+robotic process automation,机器人流程自动化,digital-logistics,物流科技与数字化
+API,应用程序接口,digital-logistics,物流科技与数字化
+EDI,电子数据交换,digital-logistics,物流科技与数字化
+cloud computing,云计算,digital-logistics,物流科技与数字化
+edge computing,边缘计算,digital-logistics,物流科技与数字化
+big data analytics,大数据分析,digital-logistics,物流科技与数字化
+digital platform,数字平台,digital-logistics,物流科技与数字化
+logistics platform,物流平台,digital-logistics,物流科技与数字化
+digital freight platform,数字货运平台,digital-logistics,物流科技与数字化
+digital freight matching,数字货运匹配,digital-logistics,物流科技与数字化
+freight marketplace,货运交易平台,digital-logistics,物流科技与数字化
+on-demand trucking,按需货运,digital-logistics,物流科技与数字化
+digital freight forwarder,数字货运代理,digital-logistics,物流科技与数字化
+smart freight,智能货运,digital-logistics,物流科技与数字化
+5G network,5G网络,digital-logistics,物流科技与数字化
+narrowband IoT,窄带物联网,digital-logistics,物流科技与数字化

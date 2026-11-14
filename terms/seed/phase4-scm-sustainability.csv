@@ -1,0 +1,401 @@
+term_en,term_zh,category,subcategory
+S&OP,销售与运营计划,supply-chain,供应链管理与可持续
+S&OP Maturity Model,S&OP成熟度模型,supply-chain,供应链管理与可持续
+IBP,集成业务计划,supply-chain,供应链管理与可持续
+Demand Planning,需求计划,supply-chain,供应链管理与可持续
+Demand Planning Process,需求计划流程,supply-chain,供应链管理与可持续
+Demand Forecast,需求预测,supply-chain,供应链管理与可持续
+Forecast Accuracy,预测准确率,supply-chain,供应链管理与可持续
+Forecast Bias,预测偏差,supply-chain,供应链管理与可持续
+Forecast Error,预测误差,supply-chain,供应链管理与可持续
+MAPE,平均绝对百分比误差,supply-chain,供应链管理与可持续
+MAD,平均绝对偏差,supply-chain,供应链管理与可持续
+Forecast Horizon,预测期间,supply-chain,供应链管理与可持续
+Demand Signal,需求信号,supply-chain,供应链管理与可持续
+Demand Sensing,需求感知,supply-chain,供应链管理与可持续
+Demand Shaping,需求塑造,supply-chain,供应链管理与可持续
+Demand Management,需求管理,supply-chain,供应链管理与可持续
+Demand Planning Software,需求计划软件,supply-chain,供应链管理与可持续
+Unconstrained Forecast,无约束预测,supply-chain,供应链管理与可持续
+Constrained Forecast,有约束预测,supply-chain,供应链管理与可持续
+Bottom-Up Forecasting,自下而上预测,supply-chain,供应链管理与可持续
+Top-Down Forecasting,自上而下预测,supply-chain,供应链管理与可持续
+Quantitative Forecasting,定量预测,supply-chain,供应链管理与可持续
+Time Series Forecasting,时间序列预测,supply-chain,供应链管理与可持续
+Moving Average,移动平均法,supply-chain,供应链管理与可持续
+Weighted Moving Average,加权移动平均法,supply-chain,供应链管理与可持续
+Exponential Smoothing,指数平滑法,supply-chain,供应链管理与可持续
+Holt-Winters Model,Holt-Winters模型,supply-chain,供应链管理与可持续
+ARIMA Model,ARIMA模型,supply-chain,供应链管理与可持续
+Causal Forecasting,因果预测法,supply-chain,供应链管理与可持续
+Machine Learning Forecasting,机器学习预测,supply-chain,供应链管理与可持续
+Croston Method,Croston方法,supply-chain,供应链管理与可持续
+Intermittent Demand,间歇性需求,supply-chain,供应链管理与可持续
+Seasonality,季节性,supply-chain,供应链管理与可持续
+Trend Analysis,趋势分析,supply-chain,供应链管理与可持续
+Base Demand,基础需求,supply-chain,供应链管理与可持续
+Lead Time Demand,提前期需求,supply-chain,供应链管理与可持续
+Demand Variability,需求波动性,supply-chain,供应链管理与可持续
+Planning Horizon,计划期间,supply-chain,供应链管理与可持续
+Planning Time Fence,计划时间栏,supply-chain,供应链管理与可持续
+Demand Time Fence,需求时间栏,supply-chain,供应链管理与可持续
+Frozen Zone,冻结区,supply-chain,供应链管理与可持续
+Demand Review,需求评审,supply-chain,供应链管理与可持续
+Supply Review,供应评审,supply-chain,供应链管理与可持续
+Pre-S&OP Meeting,S&OP预备会议,supply-chain,供应链管理与可持续
+Executive S&OP Meeting,S&OP高层会议,supply-chain,供应链管理与可持续
+Consensus Forecast,共识预测,supply-chain,供应链管理与可持续
+Scenario Planning,情景规划,supply-chain,供应链管理与可持续
+What-If Analysis,假设分析,supply-chain,供应链管理与可持续
+S&OP Calendar,S&OP日历,supply-chain,供应链管理与可持续
+Phase-In Product,导入期产品,supply-chain,供应链管理与可持续
+Phase-Out Product,退出期产品,supply-chain,供应链管理与可持续
+CPFR,协同计划预测与补货,supply-chain,供应链管理与可持续
+Collaborative Forecast,协同预测,supply-chain,供应链管理与可持续
+Exception Management,异常管理,supply-chain,供应链管理与可持续
+POS Data,销售终端数据,supply-chain,供应链管理与可持续
+MPS,主生产计划,supply-chain,供应链管理与可持续
+MRP,物料需求计划,supply-chain,供应链管理与可持续
+MRP II,制造资源计划,supply-chain,供应链管理与可持续
+ERP,企业资源计划,supply-chain,供应链管理与可持续
+Master Data,主数据,supply-chain,供应链管理与可持续
+Capacity Planning,产能规划,supply-chain,供应链管理与可持续
+Rough-Cut Capacity Planning,粗能力计划,supply-chain,供应链管理与可持续
+New Product Introduction,新产品导入,supply-chain,供应链管理与可持续
+Safety Stock,安全库存,supply-chain,供应链管理与可持续
+Cycle Stock,周转库存,supply-chain,供应链管理与可持续
+Pipeline Stock,在途库存,supply-chain,供应链管理与可持续
+Decoupling Stock,解耦库存,supply-chain,供应链管理与可持续
+Seasonal Inventory,季节性库存,supply-chain,供应链管理与可持续
+MRO Inventory,MRO库存,supply-chain,供应链管理与可持续
+Dead Stock,呆滞库存,supply-chain,供应链管理与可持续
+Excess Inventory,超额库存,supply-chain,供应链管理与可持续
+Slow-Moving Inventory,慢动库存,supply-chain,供应链管理与可持续
+Inventory Turnover,库存周转率,supply-chain,供应链管理与可持续
+Days of Inventory,库存天数,supply-chain,供应链管理与可持续
+Weeks of Supply,供应周数,supply-chain,供应链管理与可持续
+Inventory Carrying Cost,库存持有成本,supply-chain,供应链管理与可持续
+Holding Cost,持有成本,supply-chain,供应链管理与可持续
+Ordering Cost,订货成本,supply-chain,供应链管理与可持续
+Setup Cost,换装成本,supply-chain,供应链管理与可持续
+Available-to-Promise,可承诺量,supply-chain,供应链管理与可持续
+Inventory Records Accuracy,库存记录准确率,supply-chain,供应链管理与可持续
+Perpetual Inventory,永续盘存,supply-chain,供应链管理与可持续
+Periodic Inventory,定期盘存,supply-chain,供应链管理与可持续
+Cycle Counting,循环盘点,supply-chain,供应链管理与可持续
+Physical Inventory,实物盘点,supply-chain,供应链管理与可持续
+EOQ,经济订货批量,supply-chain,供应链管理与可持续
+Reorder Point,再订货点,supply-chain,供应链管理与可持续
+Min-Max Inventory,最小-最大库存,supply-chain,供应链管理与可持续
+Two-Bin System,双箱系统,supply-chain,供应链管理与可持续
+Periodic Review System,定期盘点系统,supply-chain,供应链管理与可持续
+Continuous Review System,连续盘点系统,supply-chain,供应链管理与可持续
+ABC Classification,ABC分类法,supply-chain,供应链管理与可持续
+XYZ Analysis,XYZ分析,supply-chain,供应链管理与可持续
+Pareto Analysis,帕累托分析,supply-chain,供应链管理与可持续
+Inventory Segmentation,库存细分,supply-chain,供应链管理与可持续
+Inventory Optimization,库存优化,supply-chain,供应链管理与可持续
+Multi-Echelon Inventory Optimization,多级库存优化,supply-chain,供应链管理与可持续
+Inventory Policy,库存策略,supply-chain,供应链管理与可持续
+Service Level,服务水平,supply-chain,供应链管理与可持续
+Fill Rate,满足率,supply-chain,供应链管理与可持续
+OTIF,准时足量交付率,supply-chain,供应链管理与可持续
+Stockout,缺货,supply-chain,供应链管理与可持续
+Backorder,延交订单,supply-chain,供应链管理与可持续
+Bullwhip Effect,牛鞭效应,supply-chain,供应链管理与可持续
+VMI,供应商管理库存,supply-chain,供应链管理与可持续
+Consignment Inventory,寄售库存,supply-chain,供应链管理与可持续
+JIT,准时制,supply-chain,供应链管理与可持续
+JIC,按需冗余库存策略,supply-chain,供应链管理与可持续
+Kanban,看板,supply-chain,供应链管理与可持续
+Cross-Docking,越库配送,supply-chain,供应链管理与可持续
+DRP,配送需求计划,supply-chain,供应链管理与可持续
+Inventory Pooling,库存集中化,supply-chain,供应链管理与可持续
+Risk Pooling,风险共担效应,supply-chain,供应链管理与可持续
+Postponement,延迟策略,supply-chain,供应链管理与可持续
+SKU,最小库存单位,supply-chain,供应链管理与可持续
+Stock-Keeping Policy,库存保有策略,supply-chain,供应链管理与可持续
+Inventory Position,库存位置,supply-chain,供应链管理与可持续
+Capable-to-Promise,可产能承诺,supply-chain,供应链管理与可持续
+Inventory Reconciliation,库存对账,supply-chain,供应链管理与可持续
+Stockout Cost,缺货成本,supply-chain,供应链管理与可持续
+Z-Value,标准分数值,supply-chain,供应链管理与可持续
+Normal Distribution,正态分布,supply-chain,供应链管理与可持续
+Buffer Stock,缓冲库存,supply-chain,供应链管理与可持续
+Procurement,采购,supply-chain,供应链管理与可持续
+Strategic Sourcing,战略采购,supply-chain,供应链管理与可持续
+Category Management,品类管理,supply-chain,供应链管理与可持续
+Spend Analysis,支出分析,supply-chain,供应链管理与可持续
+Spend Cube,支出立方体,supply-chain,供应链管理与可持续
+Spend Under Management,受控支出占比,supply-chain,供应链管理与可持续
+Addressable Spend,可管理支出,supply-chain,供应链管理与可持续
+Tail Spend,长尾支出,supply-chain,供应链管理与可持续
+Maverick Spend,违规采购支出,supply-chain,供应链管理与可持续
+Savings,采购节约额,supply-chain,供应链管理与可持续
+Cost Avoidance,成本规避,supply-chain,供应链管理与可持续
+e-Procurement,电子采购,supply-chain,供应链管理与可持续
+e-Sourcing,电子寻源,supply-chain,供应链管理与可持续
+RFI,信息征询,supply-chain,供应链管理与可持续
+RFQ,报价征询,supply-chain,供应链管理与可持续
+RFP,方案征询,supply-chain,供应链管理与可持续
+Reverse Auction,反向拍卖,supply-chain,供应链管理与可持续
+Tender,招标,supply-chain,供应链管理与可持续
+Negotiation,商务谈判,supply-chain,供应链管理与可持续
+BATNA,最佳替代方案,supply-chain,供应链管理与可持续
+Purchase Requisition,采购申请,supply-chain,供应链管理与可持续
+Purchase Order,采购订单,supply-chain,供应链管理与可持续
+Blanket PO,一揽子采购订单,supply-chain,供应链管理与可持续
+Contract Management,合同管理,supply-chain,供应链管理与可持续
+Framework Agreement,框架协议,supply-chain,供应链管理与可持续
+Call-Off Contract,叫购合同,supply-chain,供应链管理与可持续
+Price Agreement,价格协议,supply-chain,供应链管理与可持续
+Rebate,返利,supply-chain,供应链管理与可持续
+Should-Cost Analysis,应有成本分析,supply-chain,供应链管理与可持续
+TCO,总拥有成本,supply-chain,供应链管理与可持续
+Landed Cost,到岸成本,supply-chain,供应链管理与可持续
+Value Analysis,价值分析,supply-chain,供应链管理与可持续
+Cost Reduction,降本,supply-chain,供应链管理与可持续
+Payment Terms,付款条件,supply-chain,供应链管理与可持续
+Incoterms,国际贸易术语,supply-chain,供应链管理与可持续
+Supplier Management,供应商管理,supply-chain,供应链管理与可持续
+Supplier Lifecycle Management,供应商全生命周期管理,supply-chain,供应链管理与可持续
+Supplier Relationship Management,供应商关系管理,supply-chain,供应链管理与可持续
+Supplier Qualification,供应商资质认证,supply-chain,供应链管理与可持续
+Supplier Assessment,供应商评估,supply-chain,供应链管理与可持续
+Supplier Scorecard,供应商记分卡,supply-chain,供应链管理与可持续
+Supplier Performance,供应商绩效,supply-chain,供应链管理与可持续
+Supplier Audit,供应商审核,supply-chain,供应链管理与可持续
+Supplier Development,供应商发展,supply-chain,供应链管理与可持续
+Approved Vendor List,合格供应商名录,supply-chain,供应链管理与可持续
+Preferred Supplier,优选供应商,supply-chain,供应链管理与可持续
+Single Sourcing,单一来源采购,supply-chain,供应链管理与可持续
+Dual Sourcing,双源采购,supply-chain,供应链管理与可持续
+Multi-Sourcing,多源采购,supply-chain,供应链管理与可持续
+Global Sourcing,全球采购,supply-chain,供应链管理与可持续
+Local Sourcing,本地采购,supply-chain,供应链管理与可持续
+Nearshoring,近岸外包,supply-chain,供应链管理与可持续
+Reshoring,回岸生产,supply-chain,供应链管理与可持续
+Offshoring,离岸外包,supply-chain,供应链管理与可持续
+Outsourcing,业务外包,supply-chain,供应链管理与可持续
+Tier 1 Supplier,一级供应商,supply-chain,供应链管理与可持续
+Tier 2 Supplier,二级供应商,supply-chain,供应链管理与可持续
+Tier 3 Supplier,三级供应商,supply-chain,供应链管理与可持续
+Subcontractor,分包商,supply-chain,供应链管理与可持续
+OEM,原始设备制造商,supply-chain,供应链管理与可持续
+ODM,原始设计制造商,supply-chain,供应链管理与可持续
+Supplier Code of Conduct,供应商行为准则,supply-chain,供应链管理与可持续
+Supplier Risk Management,供应商风险管理,supply-chain,供应链管理与可持续
+Supplier Concentration Risk,供应商集中度风险,supply-chain,供应链管理与可持续
+Supplier Financial Health,供应商财务健康度,supply-chain,供应链管理与可持续
+Dun & Bradstreet Rating,邓白氏评级,supply-chain,供应链管理与可持续
+Conflict Minerals,冲突矿产,supply-chain,供应链管理与可持续
+Responsible Sourcing,负责任采购,supply-chain,供应链管理与可持续
+Ethical Sourcing,道德采购,supply-chain,供应链管理与可持续
+Green Logistics,绿色物流,supply-chain,供应链管理与可持续
+Sustainable Logistics,可持续物流,supply-chain,供应链管理与可持续
+Green Supply Chain,绿色供应链,supply-chain,供应链管理与可持续
+Green Supply Chain Management,绿色供应链管理,supply-chain,供应链管理与可持续
+Sustainable Supply Chain,可持续供应链,supply-chain,供应链管理与可持续
+Carbon Emissions,碳排放,supply-chain,供应链管理与可持续
+Carbon Footprint,碳足迹,supply-chain,供应链管理与可持续
+Product Carbon Footprint,产品碳足迹,supply-chain,供应链管理与可持续
+Corporate Carbon Footprint,企业碳足迹,supply-chain,供应链管理与可持续
+Carbon Accounting,碳核算,supply-chain,供应链管理与可持续
+Carbon Audit,碳盘查,supply-chain,供应链管理与可持续
+Carbon Neutrality,碳中和,supply-chain,供应链管理与可持续
+Net Zero,净零排放,supply-chain,供应链管理与可持续
+Carbon Offset,碳抵消,supply-chain,供应链管理与可持续
+Carbon Credit,碳信用,supply-chain,供应链管理与可持续
+Carbon Allowance,碳配额,supply-chain,供应链管理与可持续
+Carbon Market,碳市场,supply-chain,供应链管理与可持续
+Carbon Trading,碳交易,supply-chain,供应链管理与可持续
+Carbon Pricing,碳定价,supply-chain,供应链管理与可持续
+Internal Carbon Price,内部碳定价,supply-chain,供应链管理与可持续
+Carbon Tax,碳税,supply-chain,供应链管理与可持续
+ETS,碳排放交易体系,supply-chain,供应链管理与可持续
+EU ETS,欧盟碳排放交易体系,supply-chain,供应链管理与可持续
+Emissions Trading,排放权交易,supply-chain,供应链管理与可持续
+Voluntary Carbon Market,自愿碳市场,supply-chain,供应链管理与可持续
+Carbon Removal,碳移除,supply-chain,供应链管理与可持续
+Carbon Capture,碳捕集,supply-chain,供应链管理与可持续
+CO2e,二氧化碳当量,supply-chain,供应链管理与可持续
+GHG,温室气体,supply-chain,供应链管理与可持续
+GHG Protocol,温室气体核算体系,supply-chain,供应链管理与可持续
+Scope 1 Emissions,范围一排放,supply-chain,供应链管理与可持续
+Scope 2 Emissions,范围二排放,supply-chain,供应链管理与可持续
+Scope 3 Emissions,范围三排放,supply-chain,供应链管理与可持续
+Upstream Emissions,上游排放,supply-chain,供应链管理与可持续
+Downstream Emissions,下游排放,supply-chain,供应链管理与可持续
+Category 1 Emissions,外购商品和服务排放,supply-chain,供应链管理与可持续
+Category 4 Emissions,上游运输和配送排放,supply-chain,供应链管理与可持续
+Category 9 Emissions,下游运输和配送排放,supply-chain,供应链管理与可持续
+Emission Factor,排放因子,supply-chain,供应链管理与可持续
+Activity Data,活动数据,supply-chain,供应链管理与可持续
+Fuel Consumption Data,燃料消耗数据,supply-chain,供应链管理与可持续
+Carbon Intensity,碳强度,supply-chain,供应链管理与可持续
+Emission Intensity,排放强度,supply-chain,供应链管理与可持续
+Well-to-Wheel,井到轮,supply-chain,供应链管理与可持续
+Cradle-to-Gate,摇篮到大门,supply-chain,供应链管理与可持续
+LCA,生命周期评估,supply-chain,供应链管理与可持续
+EPD,环境产品声明,supply-chain,供应链管理与可持续
+ISO 14001,ISO 14001环境管理体系,supply-chain,供应链管理与可持续
+ISO 14064,ISO 14064温室气体核算标准,supply-chain,供应链管理与可持续
+ISO 14067,ISO 14067产品碳足迹标准,supply-chain,供应链管理与可持续
+ISO 50001,ISO 50001能源管理体系,supply-chain,供应链管理与可持续
+PAS 2050,PAS 2050碳足迹规范,supply-chain,供应链管理与可持续
+GHG Emission Report,温室气体排放报告,supply-chain,供应链管理与可持续
+Low-Emission Zone,低排放区,supply-chain,供应链管理与可持续
+Ultra Low Emission Zone,超低排放区,supply-chain,供应链管理与可持续
+Euro 7,欧七排放标准,supply-chain,供应链管理与可持续
+Low-Carbon Logistics,低碳物流,supply-chain,供应链管理与可持续
+Zero-Emission Vehicle,零排放车辆,supply-chain,供应链管理与可持续
+Alternative Fuel Vehicle,替代燃料车辆,supply-chain,供应链管理与可持续
+Carbon Label,碳标签,supply-chain,供应链管理与可持续
+Emission Calculation Methodology,排放计算方法学,supply-chain,供应链管理与可持续
+IMO 2020,IMO 2020限硫令,supply-chain,供应链管理与可持续
+IMO GHG Strategy,国际海事组织温室气体减排战略,supply-chain,供应链管理与可持续
+EEXI,现有船能效指数,supply-chain,供应链管理与可持续
+CII,碳强度指标,supply-chain,供应链管理与可持续
+SEEMP,船舶能效管理计划,supply-chain,供应链管理与可持续
+Emission Control Area,排放控制区,supply-chain,供应链管理与可持续
+IMO DCS,国际海事组织燃油数据收集系统,supply-chain,供应链管理与可持续
+EU MRV,欧盟船舶碳排放监测报告核查条例,supply-chain,供应链管理与可持续
+FuelEU Maritime,欧盟航运燃料条例,supply-chain,供应链管理与可持续
+CORSIA,国际航空碳抵消与减排机制,supply-chain,供应链管理与可持续
+CBAM,欧盟碳边境调节机制,supply-chain,供应链管理与可持续
+Embedded Emissions,内含碳排放,supply-chain,供应链管理与可持续
+CBAM Certificate,碳边境调节证书,supply-chain,供应链管理与可持续
+CSRD,欧盟企业可持续发展报告指令,supply-chain,供应链管理与可持续
+CDP,碳信息披露项目,supply-chain,供应链管理与可持续
+TCFD,气候相关财务信息披露工作组,supply-chain,供应链管理与可持续
+SASB,可持续会计准则委员会,supply-chain,供应链管理与可持续
+GRI,全球报告倡议组织,supply-chain,供应链管理与可持续
+SDG,可持续发展目标,supply-chain,供应链管理与可持续
+Science Based Targets,科学碳目标,supply-chain,供应链管理与可持续
+SBTi,科学碳目标倡议,supply-chain,供应链管理与可持续
+1.5°C Pathway,1.5摄氏度路径,supply-chain,供应链管理与可持续
+Paris Agreement,巴黎协定,supply-chain,供应链管理与可持续
+ESG,环境社会治理,supply-chain,供应链管理与可持续
+ESG Reporting,ESG报告,supply-chain,供应链管理与可持续
+ESG Rating,ESG评级,supply-chain,供应链管理与可持续
+ESG Disclosure,ESG披露,supply-chain,供应链管理与可持续
+Sustainability Report,可持续发展报告,supply-chain,供应链管理与可持续
+Double Materiality,双重重要性,supply-chain,供应链管理与可持续
+Materiality Assessment,重要性评估,supply-chain,供应链管理与可持续
+Climate Risk,气候风险,supply-chain,供应链管理与可持续
+Scope 3 Screening,范围三排放筛查,supply-chain,供应链管理与可持续
+Decarbonization Roadmap,脱碳路线图,supply-chain,供应链管理与可持续
+Climate Transition Plan,气候转型计划,supply-chain,供应链管理与可持续
+Diesel,柴油,supply-chain,供应链管理与可持续
+Heavy Fuel Oil,重质燃料油,supply-chain,供应链管理与可持续
+Marine Gas Oil,船用轻柴油,supply-chain,供应链管理与可持续
+LNG,液化天然气,supply-chain,供应链管理与可持续
+Methanol,甲醇,supply-chain,供应链管理与可持续
+Green Methanol,绿色甲醇,supply-chain,供应链管理与可持续
+Ammonia,氨,supply-chain,供应链管理与可持续
+Green Ammonia,绿氨,supply-chain,供应链管理与可持续
+Hydrogen,氢能,supply-chain,供应链管理与可持续
+Green Hydrogen,绿氢,supply-chain,供应链管理与可持续
+Blue Hydrogen,蓝氢,supply-chain,供应链管理与可持续
+Electrolysis,电解水制氢,supply-chain,供应链管理与可持续
+Fuel Cell,燃料电池,supply-chain,供应链管理与可持续
+FCEV,燃料电池电动汽车,supply-chain,供应链管理与可持续
+Biofuel,生物燃料,supply-chain,供应链管理与可持续
+Biodiesel,生物柴油,supply-chain,供应链管理与可持续
+B100,纯生物柴油,supply-chain,供应链管理与可持续
+B7,B7掺混柴油,supply-chain,供应链管理与可持续
+HVO,加氢植物油,supply-chain,供应链管理与可持续
+Renewable Diesel,可再生柴油,supply-chain,供应链管理与可持续
+Ethanol,乙醇,supply-chain,供应链管理与可持续
+First-Generation Biofuel,第一代生物燃料,supply-chain,供应链管理与可持续
+Second-Generation Biofuel,第二代生物燃料,supply-chain,供应链管理与可持续
+Biofuel Blending Mandate,生物燃料掺混义务,supply-chain,供应链管理与可持续
+SAF,可持续航空燃料,supply-chain,供应链管理与可持续
+HEFA,油脂加氢工艺,supply-chain,供应链管理与可持续
+Alcohol-to-Jet,醇制喷气燃料,supply-chain,供应链管理与可持续
+Power-to-Liquid,电制液体燃料,supply-chain,供应链管理与可持续
+E-Fuel,合成燃料,supply-chain,供应链管理与可持续
+LPG,液化石油气,supply-chain,供应链管理与可持续
+CNG,压缩天然气,supply-chain,供应链管理与可持续
+Electric Vehicle,电动汽车,supply-chain,供应链管理与可持续
+BEV,纯电动汽车,supply-chain,供应链管理与可持续
+Electric Truck,电动卡车,supply-chain,供应链管理与可持续
+Electric Van,电动货车,supply-chain,供应链管理与可持续
+Lithium-Ion Battery,锂离子电池,supply-chain,供应链管理与可持续
+Battery Swap Station,换电站,supply-chain,供应链管理与可持续
+Charging Infrastructure,充电基础设施,supply-chain,供应链管理与可持续
+AC Charging,交流充电,supply-chain,供应链管理与可持续
+DC Fast Charging,直流快充,supply-chain,供应链管理与可持续
+Megawatt Charging System,兆瓦级充电系统,supply-chain,供应链管理与可持续
+Smart Charging,智能充电,supply-chain,供应链管理与可持续
+Vehicle-to-Grid,车网互动,supply-chain,供应链管理与可持续
+Range Anxiety,里程焦虑,supply-chain,供应链管理与可持续
+Energy Efficiency,能源效率,supply-chain,供应链管理与可持续
+Eco-Driving,节能驾驶,supply-chain,供应链管理与可持续
+Slow Steaming,低速航行,supply-chain,供应链管理与可持续
+Just-in-Time Arrival,准时到港,supply-chain,供应链管理与可持续
+Cold Ironing,岸电连接,supply-chain,供应链管理与可持续
+Shore Power,岸电,supply-chain,供应链管理与可持续
+Energy Consumption,能源消耗,supply-chain,供应链管理与可持续
+Renewable Energy,可再生能源,supply-chain,供应链管理与可持续
+Modal Shift,运输方式转移,supply-chain,供应链管理与可持续
+Intermodal Transport,多式联运,supply-chain,供应链管理与可持续
+Short Sea Shipping,近洋运输,supply-chain,供应链管理与可持续
+Rail Freight,铁路货运,supply-chain,供应链管理与可持续
+Cargo Bike,货运自行车,supply-chain,供应链管理与可持续
+Urban Consolidation Center,城市配送中心,supply-chain,供应链管理与可持续
+Urban Logistics,城市物流,supply-chain,供应链管理与可持续
+Last-Mile Delivery,最后一公里配送,supply-chain,供应链管理与可持续
+Circular Economy,循环经济,supply-chain,供应链管理与可持续
+Circular Logistics,循环物流,supply-chain,供应链管理与可持续
+Closed-Loop Supply Chain,闭环供应链,supply-chain,供应链管理与可持续
+Open-Loop Supply Chain,开环供应链,supply-chain,供应链管理与可持续
+Reverse Logistics,逆向物流,supply-chain,供应链管理与可持续
+Returns Management,退货管理,supply-chain,供应链管理与可持续
+Return Authorization,退货授权,supply-chain,供应链管理与可持续
+Refurbishment,翻新,supply-chain,供应链管理与可持续
+Remanufacturing,再制造,supply-chain,供应链管理与可持续
+Recycling,回收利用,supply-chain,供应链管理与可持续
+Reuse,再使用,supply-chain,供应链管理与可持续
+Repair,维修,supply-chain,供应链管理与可持续
+Reduce,减量化,supply-chain,供应链管理与可持续
+3R Principle,3R原则,supply-chain,供应链管理与可持续
+Downcycling,降级回收,supply-chain,供应链管理与可持续
+Upcycling,升级再造,supply-chain,供应链管理与可持续
+E-Waste,电子废弃物,supply-chain,供应链管理与可持续
+WEEE,废弃电子电气设备指令,supply-chain,供应链管理与可持续
+Extended Producer Responsibility,生产者责任延伸制度,supply-chain,供应链管理与可持续
+Take-Back System,回收再利用体系,supply-chain,供应链管理与可持续
+Deposit Refund System,押金返还制度,supply-chain,供应链管理与可持续
+Waste Management,废弃物管理,supply-chain,供应链管理与可持续
+Waste Hierarchy,废弃物层级,supply-chain,供应链管理与可持续
+Landfill Diversion,垃圾填埋转移率,supply-chain,供应链管理与可持续
+Zero Waste,零废弃,supply-chain,供应链管理与可持续
+Hazardous Waste,危险废物,supply-chain,供应链管理与可持续
+Scrap,废料,supply-chain,供应链管理与可持续
+Recycled Content,再生材料含量,supply-chain,供应链管理与可持续
+Secondary Material,二次材料,supply-chain,供应链管理与可持续
+Material Recovery Facility,物料回收设施,supply-chain,供应链管理与可持续
+Sustainable Packaging,可持续包装,supply-chain,供应链管理与可持续
+Packaging Waste,包装废弃物,supply-chain,供应链管理与可持续
+Packaging Waste Directive,欧盟包装与包装废弃物指令,supply-chain,供应链管理与可持续
+PPWR,欧盟包装与包装废弃物法规,supply-chain,供应链管理与可持续
+Single-Use Plastic,一次性塑料,supply-chain,供应链管理与可持续
+Single-Use Plastics Directive,欧盟一次性塑料指令,supply-chain,供应链管理与可持续
+Plastic Ban,塑料禁令,supply-chain,供应链管理与可持续
+Plastic Tax,塑料税,supply-chain,供应链管理与可持续
+Recyclable Packaging,可回收包装,supply-chain,供应链管理与可持续
+Compostable Packaging,可堆肥包装,supply-chain,供应链管理与可持续
+Biodegradable Packaging,可生物降解包装,supply-chain,供应链管理与可持续
+Bioplastic,生物基塑料,supply-chain,供应链管理与可持续
+PLA,聚乳酸,supply-chain,供应链管理与可持续
+Pallet Pooling,托盘共享,supply-chain,供应链管理与可持续
+EUR-Pallet,欧标托盘,supply-chain,供应链管理与可持续
+GLEC Framework,全球物流排放理事会核算框架,supply-chain,供应链管理与可持续
+GLEC Declaration,GLEC排放声明,supply-chain,供应链管理与可持续
+ISO 14083,ISO 14083运输链温室气体量化标准,supply-chain,供应链管理与可持续
+SmartWay,美国环保署SmartWay项目,supply-chain,供应链管理与可持续
+FSC,森林管理委员会认证,supply-chain,供应链管理与可持续
+Human Rights Due Diligence,人权尽职调查,supply-chain,供应链管理与可持续
+Water Footprint,水足迹,supply-chain,供应链管理与可持续
+Energy Intensity,能源强度,supply-chain,供应链管理与可持续

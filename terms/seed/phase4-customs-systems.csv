@@ -1,0 +1,401 @@
+﻿term_en,term_zh,category,subcategory
+Authorized Economic Operator,经认证的经营者,customs,海关制度与协定
+AEO Status,AEO 认证状态,customs,海关制度与协定
+AEO Certification,AEO 海关认证,customs,海关制度与协定
+AEO Application,AEO 认证申请,customs,海关制度与协定
+AEO Re-certification,AEO 重新认证,customs,海关制度与协定
+AEO Certification Revocation,AEO 认证撤销,customs,海关制度与协定
+AEO Self-Assessment Questionnaire,AEO 自我评估问卷,customs,海关制度与协定
+AEO Internal Control Criteria,AEO 内部控制标准,customs,海关制度与协定
+AEO Financial Solvency Criteria,AEO 财务状况标准,customs,海关制度与协定
+AEO Compliance Criteria,AEO 守法规范标准,customs,海关制度与协定
+AEO Security Criteria,AEO 贸易安全标准,customs,海关制度与协定
+AEO Benefits,AEO 便利措施,customs,海关制度与协定
+AEO Mutual Recognition Agreement,AEO 互认协定,customs,海关制度与协定
+Customs-Trade Partnership Against Terrorism,海关商贸反恐联盟（C-TPAT）,customs,海关制度与协定
+Partners in Protection,保护伙伴计划,customs,海关制度与协定
+Trusted Trader Program,可信经营者计划,customs,海关制度与协定
+Supply Chain Security,供应链安全,customs,海关制度与协定
+SAFE Framework of Standards,全球贸易安全与便利标准框架,customs,海关制度与协定
+Authorized Supply Chain,授权供应链,customs,海关制度与协定
+Customs-Business Partnership,海关与商界伙伴关系,customs,海关制度与协定
+Advanced Certification Enterprise,高级认证企业,customs,海关制度与协定
+General Certification Enterprise,一般认证企业,customs,海关制度与协定
+Dishonest Enterprise List,失信企业名单,customs,海关制度与协定
+Enterprise Credit Rating,企业信用等级,customs,海关制度与协定
+Expedited Clearance,快速通关,customs,海关制度与协定
+Reduced Inspection Rate,降低查验比率,customs,海关制度与协定
+Processing Trade,加工贸易,customs,海关制度与协定
+Processing with Supplied Materials,来料加工,customs,海关制度与协定
+Processing with Imported Materials,进料加工,customs,海关制度与协定
+Three Come and One Supplement,三来一补,customs,海关制度与协定
+Compensation Trade,补偿贸易,customs,海关制度与协定
+Processing Trade Handbook,加工贸易手册,customs,海关制度与协定
+Enterprise-based Supervision Ledger,以企业为单元的监管账册,customs,海关制度与协定
+Electronic Account Book,电子账册,customs,海关制度与协定
+Electronic Handbook,电子手册,customs,海关制度与协定
+Handbook Filing,手册设立备案,customs,海关制度与协定
+Handbook Alteration,手册变更,customs,海关制度与协定
+Handbook Extension,手册延期,customs,海关制度与协定
+Handbook Cancellation,手册核销,customs,海关制度与协定
+Ledger Write-off,账册核销,customs,海关制度与协定
+Write-off Period,核销周期,customs,海关制度与协定
+Consumption Norm,单耗,customs,海关制度与协定
+Standard Consumption Quota,单耗标准,customs,海关制度与协定
+Loss Rate,损耗率,customs,海关制度与协定
+Surplus Materials,剩余料件,customs,海关制度与协定
+Surplus Material Carryover,余料结转,customs,海关制度与协定
+By-products,副产品,customs,海关制度与协定
+Defective Products,残次品,customs,海关制度与协定
+Edge Trimmings,边角料,customs,海关制度与协定
+Disaster-affected Bonded Goods,受灾保税货物,customs,海关制度与协定
+Bonded Goods,保税货物,customs,海关制度与协定
+Bonded Warehouse,保税仓库,customs,海关制度与协定
+Export Supervised Warehouse,出口监管仓库,customs,海关制度与协定
+Bonded Zone,保税区,customs,海关制度与协定
+Bonded Port Area,保税港区,customs,海关制度与协定
+Bonded Logistics Park,保税物流园区,customs,海关制度与协定
+Bonded Logistics Center Type B,保税物流中心（B型）,customs,海关制度与协定
+Comprehensive Bonded Zone,综合保税区,customs,海关制度与协定
+Export Processing Zone,出口加工区,customs,海关制度与协定
+Special Customs Supervision Area,海关特殊监管区域,customs,海关制度与协定
+Bonded Repair,保税维修,customs,海关制度与协定
+Global Maintenance Service,全球维修业务,customs,海关制度与协定
+Bonded R&D,保税研发,customs,海关制度与协定
+Bonded Testing,保税检测,customs,海关制度与协定
+Bonded Display and Trading,保税展示交易,customs,海关制度与协定
+Bonded Finance Leasing,保税融资租赁,customs,海关制度与协定
+Bonded Processing,保税加工,customs,海关制度与协定
+Bonded Bunkering,保税燃料油加注,customs,海关制度与协定
+Status-based Warehouse Supervision,仓储货物按状态分类监管,customs,海关制度与协定
+Deep Processing Transfer,深加工结转,customs,海关制度与协定
+Inter-zone Goods Transfer,区间流转,customs,海关制度与协定
+Cross-district Goods Transfer,跨关区流转,customs,海关制度与协定
+Processing Trade Domestic Sales,加工贸易内销,customs,海关制度与协定
+Supplementary Duty on Domestic Sales,内销补税,customs,海关制度与协定
+Ledger Deposit Account,加工贸易银行保证金台账,customs,海关制度与协定
+Real-turn Ledger Deposit,台账实转,customs,海关制度与协定
+Empty-turn Ledger Deposit,台账空转,customs,海关制度与协定
+Free-of-charge Equipment,不作价设备,customs,海关制度与协定
+Processing Trade Prohibited Catalog,加工贸易禁止类目录,customs,海关制度与协定
+Processing Trade Restricted Catalog,加工贸易限制类目录,customs,海关制度与协定
+Online Supervision,联网监管,customs,海关制度与协定
+Finished Goods Export under Handbook,手册项下成品出口,customs,海关制度与协定
+Bonded Goods Inventory Verification,保税核查,customs,海关制度与协定
+Mid-term Verification,中期核查,customs,海关制度与协定
+Re-export of Bonded Goods,保税货物复运出境,customs,海关制度与协定
+Outward Processing,境外加工,customs,海关制度与协定
+Entrepot Trade,转口贸易,customs,海关制度与协定
+Free Trade Agreement,自由贸易协定,customs,海关制度与协定
+Rules of Origin,原产地规则,customs,海关制度与协定
+Preferential Rules of Origin,优惠原产地规则,customs,海关制度与协定
+Non-preferential Rules of Origin,非优惠原产地规则,customs,海关制度与协定
+Origin Criteria,原产地标准,customs,海关制度与协定
+Wholly Obtained Goods,完全获得货物,customs,海关制度与协定
+Substantial Transformation,实质性改变,customs,海关制度与协定
+Change of Tariff Classification,税则归类改变,customs,海关制度与协定
+Change of Chapter Rule,章改变规则,customs,海关制度与协定
+Change of Heading Rule,品目改变规则,customs,海关制度与协定
+Change of Subheading Rule,子目改变规则,customs,海关制度与协定
+Change of Tariff Line Rule,税号改变规则,customs,海关制度与协定
+Regional Value Content,区域价值成分,customs,海关制度与协定
+Build-up Method,累加法,customs,海关制度与协定
+Build-down Method,扣减法,customs,海关制度与协定
+Product-Specific Rules,产品特定规则,customs,海关制度与协定
+De Minimis Rule,微量条款,customs,海关制度与协定
+De Minimis Threshold,微量限度,customs,海关制度与协定
+Tolerance Rule,容差规则,customs,海关制度与协定
+Cumulation of Origin,原产地累积,customs,海关制度与协定
+Bilateral Cumulation,双边累积,customs,海关制度与协定
+Diagonal Cumulation,斜向累积,customs,海关制度与协定
+Full Cumulation,完全累积,customs,海关制度与协定
+Pan-Euro-Mediterranean Cumulation,泛欧地中海累积,customs,海关制度与协定
+RCEP,区域全面经济伙伴关系协定,customs,海关制度与协定
+RCEP Rules of Origin,RCEP 原产地规则,customs,海关制度与协定
+RCEP Back-to-back Certificate,RCEP 背对背原产地证书,customs,海关制度与协定
+Certificate of Origin,原产地证书,customs,海关制度与协定
+Preferential Certificate of Origin,优惠原产地证书,customs,海关制度与协定
+Non-preferential Certificate of Origin,非优惠原产地证书,customs,海关制度与协定
+GSP Certificate of Origin,普惠制原产地证书,customs,海关制度与协定
+Form A Certificate,Form A 普惠制原产地证书,customs,海关制度与协定
+Form E Certificate,中国-东盟自贸区原产地证书,customs,海关制度与协定
+Form F Certificate,中国-智利自贸区原产地证书,customs,海关制度与协定
+Form N Certificate,中国-新西兰自贸区原产地证书,customs,海关制度与协定
+Form P Certificate,中国-巴基斯坦自贸区原产地证书,customs,海关制度与协定
+Form R Certificate,RCEP 原产地证书,customs,海关制度与协定
+Retroactive Issuance of Certificate,原产地证书补发,customs,海关制度与协定
+Certificate Validity Period,原产地证书有效期,customs,海关制度与协定
+Post-importation Preference Claim,进口后申请享受协定税率,customs,海关制度与协定
+Refund of Overpaid Duty,多征税款退还,customs,海关制度与协定
+Issuing Authority,原产地证书签证机构,customs,海关制度与协定
+Exporter Self-certification,出口商自我声明,customs,海关制度与协定
+Approved Exporter,经核准出口商,customs,海关制度与协定
+Registered Exporter System,注册出口商制度（REX）,customs,海关制度与协定
+Origin Declaration,原产地声明,customs,海关制度与协定
+Invoice Declaration,发票声明,customs,海关制度与协定
+Origin Verification,原产地核查,customs,海关制度与协定
+Direct Consignment Rule,直运规则,customs,海关制度与协定
+Non-alteration Certificate,未再加工证明,customs,海关制度与协定
+Non-manipulation Rule,不得加工处理规则,customs,海关制度与协定
+Third Country Invoice,第三方发票,customs,海关制度与协定
+Neutral Element,中性成分,customs,海关制度与协定
+Accessories and Tools Rule,附件备件及工具规则,customs,海关制度与协定
+Packaging Materials Origin Rule,包装材料原产地规则,customs,海关制度与协定
+Set or Assortment Rule,成套货品规则,customs,海关制度与协定
+Commingled Materials Rule,混合材料规则,customs,海关制度与协定
+Chemical Reaction Rule,化学反应规则,customs,海关制度与协定
+Yarn Forward Rule,纱线前移规则,customs,海关制度与协定
+Minimum Content Requirement,最低含量要求,customs,海关制度与协定
+Most Favoured Nation Treatment,最惠国待遇,customs,海关制度与协定
+MFN Tariff,最惠国税率,customs,海关制度与协定
+National Treatment,国民待遇,customs,海关制度与协定
+Bound Tariff,约束关税,customs,海关制度与协定
+Applied Tariff,实施关税,customs,海关制度与协定
+Preferential Tariff Rate,协定优惠税率,customs,海关制度与协定
+Preferential Margin,关税优惠幅度,customs,海关制度与协定
+Tariff Concession Schedule,关税减让表,customs,海关制度与协定
+Staged Tariff Reduction,分阶段关税削减,customs,海关制度与协定
+Tariff Elimination Schedule,关税取消时间表,customs,海关制度与协定
+Tariff Rate Quota,关税配额,customs,海关制度与协定
+In-quota Tariff Rate,配额内税率,customs,海关制度与协定
+Out-of-quota Tariff Rate,配额外税率,customs,海关制度与协定
+Provisional Tariff Rate,暂定税率,customs,海关制度与协定
+Export Tariff,出口关税,customs,海关制度与协定
+Electronic Exchange of Origin Data,原产地证书电子联网核查,customs,海关制度与协定
+China-ASEAN FTA,中国-东盟自由贸易区,customs,海关制度与协定
+CAFTA Upgrade Protocol,中国-东盟自贸协定升级议定书,customs,海关制度与协定
+China-Switzerland FTA,中国-瑞士自由贸易协定,customs,海关制度与协定
+China-Korea FTA,中国-韩国自由贸易协定,customs,海关制度与协定
+China-Australia FTA,中国-澳大利亚自由贸易协定,customs,海关制度与协定
+China-Pakistan FTA,中国-巴基斯坦自由贸易协定,customs,海关制度与协定
+China-Chile FTA,中国-智利自由贸易协定,customs,海关制度与协定
+China-Peru FTA,中国-秘鲁自由贸易协定,customs,海关制度与协定
+China-Georgia FTA,中国-格鲁吉亚自由贸易协定,customs,海关制度与协定
+China-Iceland FTA,中国-冰岛自由贸易协定,customs,海关制度与协定
+China-Costa Rica FTA,中国-哥斯达黎加自由贸易协定,customs,海关制度与协定
+China-Mauritius FTA,中国-毛里求斯自由贸易协定,customs,海关制度与协定
+China-Cambodia FTA,中国-柬埔寨自由贸易协定,customs,海关制度与协定
+CPTPP,全面与进步跨太平洋伙伴关系协定,customs,海关制度与协定
+USMCA,美墨加协定,customs,海关制度与协定
+EU-Korea FTA,欧盟-韩国自由贸易协定,customs,海关制度与协定
+EU-Vietnam FTA,欧盟-越南自由贸易协定,customs,海关制度与协定
+EU-Japan EPA,欧盟-日本经济伙伴关系协定,customs,海关制度与协定
+EU-Canada CETA,欧盟-加拿大全面经济贸易协定,customs,海关制度与协定
+AANZFTA,东盟-澳大利亚-新西兰自由贸易协定,customs,海关制度与协定
+KORUS FTA,美韩自由贸易协定,customs,海关制度与协定
+CEPA,内地与香港关于建立更紧密经贸关系的安排,customs,海关制度与协定
+Mainland and Macau CEPA,内地与澳门关于建立更紧密经贸关系的安排,customs,海关制度与协定
+GSP,普惠制待遇,customs,海关制度与协定
+GSP Graduation,普惠制毕业条款,customs,海关制度与协定
+Everything But Arms,除武器外全部免税安排,customs,海关制度与协定
+Ex-factory Price,出厂价格,customs,海关制度与协定
+Non-originating Material,非原产材料,customs,海关制度与协定
+Originating Material,原产材料,customs,海关制度与协定
+Material Value,材料价值,customs,海关制度与协定
+FOB Value,离岸价格,customs,海关制度与协定
+CIF Value,到岸价格,customs,海关制度与协定
+World Customs Organization,世界海关组织,customs,海关制度与协定
+Harmonized System,商品名称及编码协调制度,customs,海关制度与协定
+HS Code,HS 编码,customs,海关制度与协定
+HS Nomenclature,协调制度税则目录,customs,海关制度与协定
+Six-digit Subheading,六位子目,customs,海关制度与协定
+National Tariff Line,本国细目税率,customs,海关制度与协定
+Eight-digit Tariff Line,八位税则号列,customs,海关制度与协定
+Ten-digit Commodity Code,十位商品编码,customs,海关制度与协定
+HS 2022 Version,HS 2022年版,customs,海关制度与协定
+HS Explanatory Notes,协调制度注释,customs,海关制度与协定
+Section Notes,类注释,customs,海关制度与协定
+Chapter Notes,章注释,customs,海关制度与协定
+Subheading Notes,子目注释,customs,海关制度与协定
+General Rules for the Interpretation of HS,HS 归类总规则,customs,海关制度与协定
+Essential Character Rule,基本特征原则,customs,海关制度与协定
+Retail Set Classification,零售成套货品归类,customs,海关制度与协定
+Mixed Goods Classification,混合物归类,customs,海关制度与协定
+Classification Ruling,归类裁定,customs,海关制度与协定
+Advance Classification Ruling,归类预裁定,customs,海关制度与协定
+Advance Ruling,海关预裁定,customs,海关制度与协定
+Binding Tariff Information,具有约束力的税则归类信息,customs,海关制度与协定
+Binding Origin Information,具有约束力的原产地信息,customs,海关制度与协定
+WCO Classification Opinion,WCO 归类意见,customs,海关制度与协定
+WTO Valuation Agreement,WTO 海关估价协定,customs,海关制度与协定
+Transaction Value Method,成交价格方法,customs,海关制度与协定
+Transaction Value,成交价格,customs,海关制度与协定
+Sequential Application of Valuation Methods,估价方法依次适用,customs,海关制度与协定
+Identical Goods Method,相同货物成交价格方法,customs,海关制度与协定
+Similar Goods Method,类似货物成交价格方法,customs,海关制度与协定
+Deductive Method,倒扣价格方法,customs,海关制度与协定
+Computed Method,计算价格方法,customs,海关制度与协定
+Fall-back Method,合理方法,customs,海关制度与协定
+Dutiable Value,完税价格,customs,海关制度与协定
+Customs Value,海关估定价值,customs,海关制度与协定
+Price Additions,成交价格加项调整,customs,海关制度与协定
+Commission and Brokerage Fee,佣金和经纪费,customs,海关制度与协定
+Assist Value,协助费用价值,customs,海关制度与协定
+Royalty and License Fee,特许权使用费,customs,海关制度与协定
+Proceeds of Resale,转售收益,customs,海关制度与协定
+Freight and Insurance Costs,运输及相关费用和保险费,customs,海关制度与协定
+Related Party Transaction,特殊关系交易,customs,海关制度与协定
+Price Influence Test,价格影响测试,customs,海关制度与协定
+Transfer Pricing Adjustment,转移定价调整,customs,海关制度与协定
+Post-clearance Audit,后续稽查,customs,海关制度与协定
+Valuation Query,价格质疑,customs,海关制度与协定
+Price Consultation,价格磋商,customs,海关制度与协定
+Under-declaration of Value,低报价格,customs,海关制度与协定
+First Sale Valuation,首次销售估价方法,customs,海关制度与协定
+Exchange Rate for Duty Calculation,关税计征汇率,customs,海关制度与协定
+Ad Valorem Duty,从价税,customs,海关制度与协定
+Specific Duty,从量税,customs,海关制度与协定
+Compound Duty,复合关税,customs,海关制度与协定
+Sliding Scale Duty,滑准关税,customs,海关制度与协定
+Import Tariff Schedule,进口税则,customs,海关制度与协定
+Customs Transit Procedure,转关运输制度,customs,海关制度与协定
+Transit Declaration,转关申报单,customs,海关制度与协定
+Transit Goods,过境货物,customs,海关制度与协定
+Transshipment Goods,转运货物,customs,海关制度与协定
+Through Goods,通运货物,customs,海关制度与协定
+TIR Convention,国际公路运输公约,customs,海关制度与协定
+TIR Carnet,TIR 单证册,customs,海关制度与协定
+TIR Transport Operation,TIR 运输业务,customs,海关制度与协定
+TIR Guarantee Chain,TIR 国际担保链,customs,海关制度与协定
+ATA Carnet,ATA 单证册,customs,海关制度与协定
+Istanbul Convention,伊斯坦布尔公约,customs,海关制度与协定
+Customs Sealing,海关施封,customs,海关制度与协定
+Seal Integrity Check,关封完整性核验,customs,海关制度与协定
+Customs Escort,海关押运,customs,海关制度与协定
+Union Transit Procedure,欧盟转关程序,customs,海关制度与协定
+Common Transit Convention,共同转关公约,customs,海关制度与协定
+New Computerised Transit System,欧盟新计算机化转关系统,customs,海关制度与协定
+Border Crossing Point,边境通行口岸,customs,海关制度与协定
+Port of Entry,入境口岸,customs,海关制度与协定
+Customs Territory,关境,customs,海关制度与协定
+Single Window,国际贸易单一窗口,customs,海关制度与协定
+National Single Window,国家单一窗口,customs,海关制度与协定
+ASEAN Single Window,东盟单一窗口,customs,海关制度与协定
+WTO Trade Facilitation Agreement,WTO 贸易便利化协定,customs,海关制度与协定
+Trade Facilitation Measures,贸易便利化措施,customs,海关制度与协定
+Pre-arrival Declaration,进口提前申报,customs,海关制度与协定
+Pre-arrival Processing,抵港前处理,customs,海关制度与协定
+Two-step Declaration,两步申报,customs,海关制度与协定
+Summary Declaration,概要申报,customs,海关制度与协定
+Entry Summary Declaration,入境概要申报（ENS）,customs,海关制度与协定
+Advance Manifest Rule,舱单提前申报规则,customs,海关制度与协定
+Importer Security Filing,进口商安全申报（ISF）,customs,海关制度与协定
+Advance Commercial Information,提前商业信息申报（ACI）,customs,海关制度与协定
+Cargo Manifest,货物舱单,customs,海关制度与协定
+Manifest Verification,舱单核销,customs,海关制度与协定
+Green Channel,绿色通道,customs,海关制度与协定
+Customs Cooperation Agreement,海关合作协定,customs,海关制度与协定
+Mutual Administrative Assistance,海关行政互助协议,customs,海关制度与协定
+Customs-to-Customs Data Exchange,海关间数据交换,customs,海关制度与协定
+EORI Number,欧盟经营者注册识别号,customs,海关制度与协定
+One Declaration One Inspection One Release,一次申报一次查验一次放行,customs,海关制度与协定
+Joint Inspection,联合查验,customs,海关制度与协定
+Land Port Customs,陆路口岸海关,customs,海关制度与协定
+China Railway Express,中欧班列,customs,海关制度与协定
+Bonded Transit,保税转关,customs,海关制度与协定
+Cross-district Declaration,跨关区申报,customs,海关制度与协定
+Non-intrusive Inspection,非侵入式查验,customs,海关制度与协定
+Customs Supervision Code,海关监管方式代码,customs,海关制度与协定
+Supervision Code 9610,跨境贸易电子商务监管代码（9610）,customs,海关制度与协定
+Supervision Code 9710,跨境电商B2B直接出口监管代码（9710）,customs,海关制度与协定
+Supervision Code 9810,跨境电商出口海外仓监管代码（9810）,customs,海关制度与协定
+Supervision Code 1210,保税跨境贸易电子商务监管代码（1210）,customs,海关制度与协定
+Supervision Code 1239,保税跨境贸易电子商务A监管代码（1239）,customs,海关制度与协定
+Supervision Code 1039,市场采购贸易监管代码（1039）,customs,海关制度与协定
+Supervision Code 0139,旅游购物商品监管代码（0139）,customs,海关制度与协定
+Supervision Code 0110,一般贸易监管代码（0110）,customs,海关制度与协定
+Supervision Code 0130,易货贸易监管代码（0130）,customs,海关制度与协定
+Cross-border E-commerce Retail Export,跨境电商零售出口,customs,海关制度与协定
+Cross-border E-commerce Retail Import,跨境电商零售进口,customs,海关制度与协定
+Bonded Import Model,网购保税进口模式,customs,海关制度与协定
+Direct Purchase Import Model,直购进口模式,customs,海关制度与协定
+Direct Mail Import Model,直邮进口模式,customs,海关制度与协定
+Overseas Warehouse Export,海外仓出口,customs,海关制度与协定
+Overseas Warehouse Filing,海外仓备案,customs,海关制度与协定
+Consolidation Mode,集货模式,customs,海关制度与协定
+Order Merging and Splitting,订单合单分单,customs,海关制度与协定
+Three-document Matching,三单比对,customs,海关制度与协定
+Three-document Data Push,三单数据推送,customs,海关制度与协定
+E-commerce Enterprise Customs Registration,跨境电商企业海关注册登记,customs,海关制度与协定
+Cross-border E-commerce Comprehensive Pilot Zone,跨境电商综合试验区,customs,海关制度与协定
+Positive List for E-commerce Retail Imports,跨境电商零售进口商品清单,customs,海关制度与协定
+Annual Transaction Limit,跨境电商年度交易限额,customs,海关制度与协定
+Single Transaction Limit,跨境电商单次交易限额,customs,海关制度与协定
+E-commerce Comprehensive Tax,跨境电商综合税,customs,海关制度与协定
+Cross-border E-commerce Return,跨境电商退货,customs,海关制度与协定
+Return Center Warehouse,退货中心仓,customs,海关制度与协定
+E-commerce Export Return,跨境电商出口退货,customs,海关制度与协定
+Consolidated Declaration,汇总申报,customs,海关制度与协定
+Simplified Declaration,简化申报,customs,海关制度与协定
+Personal Postal Articles Clearance,个人邮寄物品清关,customs,海关制度与协定
+E-commerce Clearance Service System,跨境电商通关服务系统,customs,海关制度与协定
+Bonded Warehouse Order Fulfillment,保税仓订单履约,customs,海关制度与协定
+Tax Exemption for Retail Export,跨境电商零售出口免税,customs,海关制度与协定
+No-invoice Tax Exemption,无票免税,customs,海关制度与协定
+Tax Refund for Overseas Warehouse Export,海外仓出口退税,customs,海关制度与协定
+Retail Import Tax Policy,跨境电商零售进口税收政策,customs,海关制度与协定
+Special-zone Retail Export of E-commerce,跨境电商特殊区域出口,customs,海关制度与协定
+Trade Remedy Measures,贸易救济措施,customs,海关制度与协定
+Anti-dumping,反倾销,customs,海关制度与协定
+Anti-dumping Investigation,反倾销调查,customs,海关制度与协定
+Anti-dumping Petition,反倾销申诉,customs,海关制度与协定
+Dumping,倾销,customs,海关制度与协定
+Dumping Margin,倾销幅度,customs,海关制度与协定
+Normal Value,正常价值,customs,海关制度与协定
+Export Price,出口价格,customs,海关制度与协定
+Home Market Price,国内市场价格,customs,海关制度与协定
+Third Country Market Price,第三国市场价格,customs,海关制度与协定
+Constructed Value,结构价格,customs,海关制度与协定
+Analogue Country Method,类比国方法,customs,海关制度与协定
+Injury Determination,损害认定,customs,海关制度与协定
+Material Injury,实质性损害,customs,海关制度与协定
+Serious Injury,严重损害,customs,海关制度与协定
+Threat of Material Injury,实质性损害威胁,customs,海关制度与协定
+Material Retardation,实质性阻碍,customs,海关制度与协定
+Causation Analysis,因果关系认定,customs,海关制度与协定
+Cumulative Assessment of Imports,进口累积评估,customs,海关制度与协定
+De minimis Dumping Margin,微量倾销幅度,customs,海关制度与协定
+Negligible Volume of Imports,可忽略进口量,customs,海关制度与协定
+Provisional Anti-dumping Measures,临时反倾销措施,customs,海关制度与协定
+Anti-dumping Duty,反倾销税,customs,海关制度与协定
+Preliminary Determination,初步裁定,customs,海关制度与协定
+Final Determination,最终裁定,customs,海关制度与协定
+Price Undertaking,价格承诺,customs,海关制度与协定
+Minimum Import Price,最低进口限价,customs,海关制度与协定
+Lesser Duty Rule,较低关税规则,customs,海关制度与协定
+Retrospective Duty Collection,追溯征税,customs,海关制度与协定
+New Shipper Review,新出口商复审,customs,海关制度与协定
+Sunset Review,日落复审,customs,海关制度与协定
+Interim Review,期中复审,customs,海关制度与协定
+Administrative Review,行政复审,customs,海关制度与协定
+Anti-dumping Questionnaire,反倾销调查问卷,customs,海关制度与协定
+On-site Verification,实地核查,customs,海关制度与协定
+Public Hearing,公开听证,customs,海关制度与协定
+Essential Facts Disclosure,基本事实披露,customs,海关制度与协定
+Public Interest Test,公共利益审查,customs,海关制度与协定
+Anti-circumvention Investigation,反规避调查,customs,海关制度与协定
+Circumvention,规避行为,customs,海关制度与协定
+Minor Alteration of Products,产品轻微改变,customs,海关制度与协定
+Third Country Assembly,第三国组装,customs,海关制度与协定
+Post-importation Assembly,进口后组装,customs,海关制度与协定
+Countervailing Duty,反补贴税,customs,海关制度与协定
+Countervailing Investigation,反补贴调查,customs,海关制度与协定
+Subsidy,补贴,customs,海关制度与协定
+Specific Subsidy,专向性补贴,customs,海关制度与协定
+Export Subsidy,出口补贴,customs,海关制度与协定
+Rate of Subsidization,补贴率,customs,海关制度与协定
+Double Remedy,双重救济,customs,海关制度与协定
+Safeguard Measure,保障措施,customs,海关制度与协定
+Safeguard Investigation,保障措施调查,customs,海关制度与协定
+Safeguard Duty,保障措施关税,customs,海关制度与协定
+Provisional Safeguard Measure,临时保障措施,customs,海关制度与协定
+Special Safeguard Measure,特殊保障措施,customs,海关制度与协定
+Section 232 Investigation,232调查,customs,海关制度与协定
+Section 301 Investigation,301调查,customs,海关制度与协定
+Section 201 Investigation,201调查,customs,海关制度与协定
+Tariff Exclusion,关税排除,customs,海关制度与协定
+Exclusion Request,关税排除申请,customs,海关制度与协定
+Retaliatory Measure,报复性措施,customs,海关制度与协定
+WTO Dispute Settlement,WTO 争端解决机制,customs,海关制度与协定
+Anti-dumping Agreement,反倾销协定,customs,海关制度与协定
+Agreement on Subsidies and Countervailing Measures,补贴与反补贴措施协定,customs,海关制度与协定

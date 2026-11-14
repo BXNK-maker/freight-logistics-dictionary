@@ -1,0 +1,398 @@
+﻿term_en,term_zh,category,subcategory
+Letter of Credit,信用证,documents,单证与合规
+Irrevocable Letter of Credit,不可撤销信用证,documents,单证与合规
+Revolving Letter of Credit,循环信用证,documents,单证与合规
+Standby Letter of Credit,备用信用证,documents,单证与合规
+Back-to-Back Letter of Credit,背对背信用证,documents,单证与合规
+Transferable Letter of Credit,可转让信用证,documents,单证与合规
+Confirmed Letter of Credit,保兑信用证,documents,单证与合规
+Sight Letter of Credit,即期信用证,documents,单证与合规
+Usance Letter of Credit,远期信用证,documents,单证与合规
+Red Clause Letter of Credit,红条款信用证,documents,单证与合规
+Green Clause Letter of Credit,绿条款信用证,documents,单证与合规
+Documentary Credit,跟单信用证,documents,单证与合规
+Clean Letter of Credit,光票信用证,documents,单证与合规
+Deferred Payment Credit,延期付款信用证,documents,单证与合规
+Acceptance Credit,承兑信用证,documents,单证与合规
+Negotiation Credit,议付信用证,documents,单证与合规
+UCP 600,跟单信用证统一惯例,documents,单证与合规
+ISBP,国际标准银行实务,documents,单证与合规
+Applicant,开证申请人,documents,单证与合规
+Beneficiary,受益人,documents,单证与合规
+Issuing Bank,开证行,documents,单证与合规
+Advising Bank,通知行,documents,单证与合规
+Confirming Bank,保兑行,documents,单证与合规
+Negotiating Bank,议付行,documents,单证与合规
+Paying Bank,付款行,documents,单证与合规
+Reimbursing Bank,偿付行,documents,单证与合规
+Credit Amendment,信用证修改书,documents,单证与合规
+Documentary Collection,跟单托收,documents,单证与合规
+Documents Against Payment (D/P),付款交单,documents,单证与合规
+Documents Against Acceptance (D/A),承兑交单,documents,单证与合规
+Open Account (O/A),赊销,documents,单证与合规
+Bill of Exchange,汇票,documents,单证与合规
+Sight Bill,即期汇票,documents,单证与合规
+Usance Bill,远期汇票,documents,单证与合规
+Promissory Note,本票,documents,单证与合规
+Cheque,支票,documents,单证与合规
+Clean Bill,光票,documents,单证与合规
+Documentary Bill,跟单汇票,documents,单证与合规
+Banker's Draft,银行汇票,documents,单证与合规
+Remittance,汇付,documents,单证与合规
+Telegraphic Transfer (T/T),电汇,documents,单证与合规
+Mail Transfer (M/T),信汇,documents,单证与合规
+Demand Draft (D/D),票汇,documents,单证与合规
+SWIFT MT700,SWIFT MT700报文,documents,单证与合规
+Collection Order,托收指示书,documents,单证与合规
+Complying Presentation,相符交单,documents,单证与合规
+Discrepant Documents,不符点单据,documents,单证与合规
+Discrepancy,不符点,documents,单证与合规
+Refusal Notice,拒付通知,documents,单证与合规
+Waiver of Discrepancy,不符点放弃,documents,单证与合规
+Negotiation,议付,documents,单证与合规
+Acceptance,承兑,documents,单证与合规
+Maturity Date,到期日,documents,单证与合规
+Tenor,汇票期限,documents,单证与合规
+Forfaiting,福费廷,documents,单证与合规
+International Factoring,国际保理,documents,单证与合规
+Bank Guarantee,银行保函,documents,单证与合规
+Performance Bond,履约保函,documents,单证与合规
+Advance Payment Guarantee,预付款保函,documents,单证与合规
+Bid Bond,投标保函,documents,单证与合规
+Export Credit Insurance,出口信用保险,documents,单证与合规
+Payment Instruction,付款指令,documents,单证与合规
+Rules of Origin,原产地规则,documents,单证与合规
+Preferential Rules of Origin,优惠原产地规则,documents,单证与合规
+Non-Preferential Rules of Origin,非优惠原产地规则,documents,单证与合规
+Certificate of Origin,原产地证书,documents,单证与合规
+Non-Preferential Certificate of Origin,非优惠原产地证书,documents,单证与合规
+Preferential Certificate of Origin,优惠原产地证书,documents,单证与合规
+Generalized System of Preferences (GSP),普惠制,documents,单证与合规
+GSP Certificate of Origin (Form A),普惠制原产地证书Form A,documents,单证与合规
+ASEAN-China FTA Certificate of Origin (Form E),中国-东盟自贸区原产地证书Form E,documents,单证与合规
+Form D Certificate of Origin,东盟自贸区原产地证书Form D,documents,单证与合规
+China-Chile FTA Certificate of Origin (Form F),中国-智利自贸区原产地证书Form F,documents,单证与合规
+China-Pakistan FTA Certificate of Origin (Form P),中国-巴基斯坦自贸区原产地证书Form P,documents,单证与合规
+China-New Zealand FTA Certificate of Origin (Form N),中国-新西兰自贸区原产地证书Form N,documents,单证与合规
+China-Peru FTA Certificate of Origin (Form R),中国-秘鲁自贸区原产地证书Form R,documents,单证与合规
+China-Switzerland FTA Certificate of Origin (Form S),中国-瑞士自贸区原产地证书Form S,documents,单证与合规
+China-Korea FTA Certificate of Origin (Form K),中韩自贸区原产地证书Form K,documents,单证与合规
+China-Australia FTA Certificate of Origin (Form U),中澳自贸区原产地证书Form U,documents,单证与合规
+China-Costa Rica FTA Certificate of Origin (Form L),中国-哥斯达黎加自贸区原产地证书Form L,documents,单证与合规
+China-Iceland FTA Certificate of Origin (Form I),中国-冰岛自贸区原产地证书Form I,documents,单证与合规
+China-Singapore FTA Certificate of Origin (Form X),中国-新加坡自贸区原产地证书Form X,documents,单证与合规
+RCEP Certificate of Origin,RCEP原产地证书,documents,单证与合规
+CPTPP Certificate of Origin,CPTPP原产地证书,documents,单证与合规
+EUR.1 Movement Certificate,EUR.1流动证书,documents,单证与合规
+ATR Certificate,ATR货物流动证书,documents,单证与合规
+Registered Exporter (REX),注册出口商制度,documents,单证与合规
+CEPA Certificate of Origin,CEPA原产地证书,documents,单证与合规
+ECFA Certificate of Origin,ECFA原产地证书,documents,单证与合规
+Approved Exporter,经核准出口商,documents,单证与合规
+Origin Self-Declaration,原产地自我声明,documents,单证与合规
+Back-to-Back Certificate of Origin,背对背原产地证书,documents,单证与合规
+Third-Party Certificate of Origin,第三方原产地证书,documents,单证与合规
+Chamber of Commerce Certified CO,商会认证原产地证书,documents,单证与合规
+Consular Legalization,领事认证,documents,单证与合规
+Certificate of Origin Endorsement,原产地证书签证,documents,单证与合规
+Certificate of Origin Application,原产地证书申请,documents,单证与合规
+Certificate of Origin Verification,原产地证书核查,documents,单证与合规
+Retroactive Issuance of CO,原产地证书补发,documents,单证与合规
+Certificate of Origin Validity,原产地证书有效期,documents,单证与合规
+Origin Criteria,原产地标准,documents,单证与合规
+Wholly Obtained,完全获得,documents,单证与合规
+Substantial Transformation,实质性改变,documents,单证与合规
+Change in Tariff Classification,税则归类改变,documents,单证与合规
+Change in Chapter Rule,章改变规则,documents,单证与合规
+Change in Heading Rule,品目改变规则,documents,单证与合规
+Regional Value Content,区域价值成分,documents,单证与合规
+RVC Threshold,区域价值成分门槛,documents,单证与合规
+Value-Added Rule,增值规则,documents,单证与合规
+De Minimis Rule,微小含量规则,documents,单证与合规
+Cumulation,累积规则,documents,单证与合规
+Bilateral Cumulation,双边累积,documents,单证与合规
+Diagonal Cumulation,对角累积,documents,单证与合规
+Full Cumulation,完全累积,documents,单证与合规
+Direct Consignment Rule,直接运输规则,documents,单证与合规
+Non-Alteration Rule,未经更改规则,documents,单证与合规
+Tariff Preference,关税优惠,documents,单证与合规
+Preferential Tariff Treatment,优惠关税待遇,documents,单证与合规
+Most-Favoured-Nation Tariff,最惠国税率,documents,单证与合规
+Bound Tariff Rate,约束税率,documents,单证与合规
+HS Code,HS编码,documents,单证与合规
+Harmonized System,协调制度,documents,单证与合规
+World Customs Organization (WCO),世界海关组织,documents,单证与合规
+Certificate of Free Sale,自由销售证书,documents,单证与合规
+Certificate of Origin Duplicate,原产地证书副本,documents,单证与合规
+Export Licence,出口许可证,documents,单证与合规
+Import Licence,进口许可证,documents,单证与合规
+Automatic Import Licence,自动进口许可证,documents,单证与合规
+Export Control,出口管制,documents,单证与合规
+Import Control,进口管制,documents,单证与合规
+Dual-Use Item,两用物项,documents,单证与合规
+Dual-Use Export Licence,两用物项出口许可证,documents,单证与合规
+Export Control Law,出口管制法,documents,单证与合规
+Wassenaar Arrangement,瓦森纳安排,documents,单证与合规
+Australia Group,澳大利亚集团,documents,单证与合规
+Missile Technology Control Regime (MTCR),导弹及其技术控制制度,documents,单证与合规
+Nuclear Suppliers Group (NSG),核供应国集团,documents,单证与合规
+Chemical Weapons Convention (CWC),化学武器公约,documents,单证与合规
+Export Administration Regulations (EAR),美国出口管理条例,documents,单证与合规
+Entity List,实体清单,documents,单证与合规
+Denied Persons List,被拒人员清单,documents,单证与合规
+Unverified List,未经核实清单,documents,单证与合规
+Military End User List,军事最终用户清单,documents,单证与合规
+End-User Statement,最终用户声明,documents,单证与合规
+End-Use Certificate,最终用途证明,documents,单证与合规
+End-User Undertaking,最终用户承诺,documents,单证与合规
+Export Control Classification Number (ECCN),出口管制分类编码,documents,单证与合规
+EAR99,EAR99分类,documents,单证与合规
+International Traffic in Arms Regulations (ITAR),国际武器贸易条例,documents,单证与合规
+United States Munitions List (USML),美国军品管制清单,documents,单证与合规
+Deemed Export,视同出口,documents,单证与合规
+Re-export,再出口,documents,单证与合规
+Re-transfer,再转移,documents,单证与合规
+Catch-All Control,全面管制条款,documents,单证与合规
+Foreign Direct Product Rule,外国直接产品规则,documents,单证与合规
+Licence Exception,许可例外,documents,单证与合规
+Licence Determination,许可判定,documents,单证与合规
+Export Licence Application,出口许可申请,documents,单证与合规
+Sanctions Screening,制裁筛查,documents,单证与合规
+Restricted Party Screening,受限方筛查,documents,单证与合规
+Denied Party Screening,被拒方筛查,documents,单证与合规
+Office of Foreign Assets Control (OFAC),美国海外资产控制办公室,documents,单证与合规
+Specially Designated Nationals (SDN) List,特别指定国民清单,documents,单证与合规
+Sectoral Sanctions Identifications List,行业制裁识别清单,documents,单证与合规
+Embargo,禁运,documents,单证与合规
+Trade Embargo,贸易禁运,documents,单证与合规
+Economic Sanctions,经济制裁,documents,单证与合规
+Targeted Sanctions,定向制裁,documents,单证与合规
+Secondary Sanctions,次级制裁,documents,单证与合规
+Sanctioned Country,受制裁国家,documents,单证与合规
+Watch List,监控名单,documents,单证与合规
+Fuzzy Matching,模糊匹配,documents,单证与合规
+False Positive,误报,documents,单证与合规
+Screening Log,筛查日志,documents,单证与合规
+Know Your Customer (KYC),客户尽职调查,documents,单证与合规
+Export Quota,出口配额,documents,单证与合规
+Import Quota,进口配额,documents,单证与合规
+Tariff-Rate Quota,关税配额,documents,单证与合规
+CITES Permit,濒危物种贸易许可证,documents,单证与合规
+Strategic Goods,战略物资,documents,单证与合规
+Non-Proliferation,防扩散,documents,单证与合规
+Export Declaration,出口报关单,documents,单证与合规
+Import Declaration,进口报关单,documents,单证与合规
+Import Control System (ICS),欧盟进口控制系统,documents,单证与合规
+Trade Compliance,贸易合规,documents,单证与合规
+Compliance Audit,合规审计,documents,单证与合规
+Certificate of Inspection,检验证书,documents,单证与合规
+Pre-Shipment Inspection (PSI),装运前检验,documents,单证与合规
+Clean Report of Findings (CRF),清洁检验报告,documents,单证与合规
+Third-Party Inspection,第三方检验,documents,单证与合规
+Survey Report,公证检验报告,documents,单证与合规
+Certificate of Quality,品质证书,documents,单证与合规
+Certificate of Quantity,数量证书,documents,单证与合规
+Certificate of Weight,重量证书,documents,单证与合规
+Certificate of Analysis,分析证书,documents,单证与合规
+Certificate of Measurement,尺码证书,documents,单证与合规
+Certificate of Loading,装货证书,documents,单证与合规
+Phytosanitary Certificate,植物检疫证书,documents,单证与合规
+Veterinary Health Certificate,动物卫生证书,documents,单证与合规
+Sanitary Certificate,卫生证书,documents,单证与合规
+Health Certificate,健康证书,documents,单证与合规
+Fumigation Certificate,熏蒸证书,documents,单证与合规
+Heat Treatment Certificate,热处理证书,documents,单证与合规
+ISPM 15 Certificate,ISPM 15检疫处理证书,documents,单证与合规
+IPPC Mark,IPPC标识,documents,单证与合规
+Wood Packaging Declaration,木质包装声明,documents,单证与合规
+Non-Wood Packaging Declaration,非木质包装声明,documents,单证与合规
+Certificate of Conformity,符合性证书,documents,单证与合规
+Certificate of Safety,安全证书,documents,单证与合规
+Damage Survey Report,货损检验报告,documents,单证与合规
+Tally Report,理货报告,documents,单证与合规
+Draft Survey Report,水尺计重报告,documents,单证与合规
+Landing Survey,卸货检验,documents,单证与合规
+Hold Inspection,货舱检验,documents,单证与合规
+Hold Cleanliness Survey,货舱清洁检验,documents,单证与合规
+Empty Container Inspection,空箱检验,documents,单证与合规
+Container Inspection Certificate,集装箱检验证书,documents,单证与合规
+Cargo Damage Survey,货损鉴定,documents,单证与合规
+Insurance Survey Report,保险检验报告,documents,单证与合规
+Radioactivity Certificate,放射性检测证书,documents,单证与合规
+Sterilization Certificate,消毒证书,documents,单证与合规
+Halal Certificate,清真证书,documents,单证与合规
+Kosher Certificate,犹太洁食认证,documents,单证与合规
+GMP Certificate,GMP证书,documents,单证与合规
+Testing Report,检测报告,documents,单证与合规
+Sealed Sample,封样,documents,单证与合规
+Inspection Application,报检申请,documents,单证与合规
+Commodity Inspection,商品检验,documents,单证与合规
+Inspection and Quarantine,检验检疫,documents,单证与合规
+Quarantine Declaration,检疫申报,documents,单证与合规
+Quarantine Permit,检疫许可证,documents,单证与合规
+Destination Port Inspection,目的港检验,documents,单证与合规
+Re-inspection,复验,documents,单证与合规
+Sampling Inspection,抽样检验,documents,单证与合规
+Full Inspection,全面检验,documents,单证与合规
+CCC Certification,中国强制性产品认证,documents,单证与合规
+CE Marking,CE认证,documents,单证与合规
+FDA Registration,FDA注册,documents,单证与合规
+FDA Prior Notice,FDA预先申报,documents,单证与合规
+Inspection Notice,海关查验通知,documents,单证与合规
+X-Ray Inspection,X光机查验,documents,单证与合规
+ATA Carnet,ATA单证册,documents,单证与合规
+ATA Carnet Holder,ATA单证册持证人,documents,单证与合规
+ATA Issuing Association,ATA单证册出证机构,documents,单证与合规
+ATA Guarantee Chain,ATA国际担保链,documents,单证与合规
+Guaranteeing Association,担保协会,documents,单证与合规
+General List,货物总清单,documents,单证与合规
+Carnet Counterfoil,单证册存根,documents,单证与合规
+Carnet Validation,单证册签注,documents,单证与合规
+Carnet Replacement,单证册补发,documents,单证与合规
+Carnet Claim,单证册索赔,documents,单证与合规
+Temporary Admission,暂时进口,documents,单证与合规
+Temporary Exportation,暂时出口,documents,单证与合规
+Re-exportation,复出口,documents,单证与合规
+Re-importation,复进口,documents,单证与合规
+Temporary Import Bond,暂时进口担保,documents,单证与合规
+CPD Carnet,CPD单证册,documents,单证与合规
+Istanbul Convention,伊斯坦布尔公约,documents,单证与合规
+TIR Carnet,TIR单证册,documents,单证与合规
+TIR Transport,TIR运输,documents,单证与合规
+TIR Convention,TIR公约,documents,单证与合规
+TIR Guarantee Chain,TIR担保链,documents,单证与合规
+Customs Seal,海关封志,documents,单证与合规
+Customs Escort,海关押运,documents,单证与合规
+Electronic Bill of Lading (eBL),电子提单,documents,单证与合规
+Paperless Trade,无纸化贸易,documents,单证与合规
+MLETR,电子可转让记录示范法,documents,单证与合规
+Bolero,Bolero电子提单平台,documents,单证与合规
+essDOCS,essDOCS电子单证平台,documents,单证与合规
+Blockchain Bill of Lading,区块链提单,documents,单证与合规
+Smart Contract,智能合约,documents,单证与合规
+Digital Trade Document,数字贸易单据,documents,单证与合规
+Electronic Air Waybill (e-AWB),电子航空运单,documents,单证与合规
+e-Manifest,电子舱单,documents,单证与合规
+Electronic Customs Declaration,电子报关,documents,单证与合规
+e-Declaration,电子申报,documents,单证与合规
+Single Window,国际贸易单一窗口,documents,单证与合规
+National Single Window,国家单一窗口,documents,单证与合规
+ASEAN Single Window,东盟单一窗口,documents,单证与合规
+Electronic Certificate of Origin (eCO),电子原产地证书,documents,单证与合规
+e-Phyto,电子植物检疫证书,documents,单证与合规
+Digital Signature,数字签名,documents,单证与合规
+Electronic Seal (e-Seal),电子封识,documents,单证与合规
+Electronic Delivery Order (e-D/O),电子提货单,documents,单证与合规
+Telex Release,电放,documents,单证与合规
+Sea Waybill,海运单,documents,单证与合规
+Cargo Community System,货运社区系统,documents,单证与合规
+Port Community System,港口社区系统,documents,单证与合规
+Electronic Data Interchange (EDI),电子数据交换,documents,单证与合规
+UN/EDIFACT,UN/EDIFACT标准,documents,单证与合规
+ANSI X12,ANSI X12标准,documents,单证与合规
+XML Message,XML报文,documents,单证与合规
+API Integration,API接口,documents,单证与合规
+e-Filing,电子递交,documents,单证与合规
+Automated Commercial Environment (ACE),美国自动商业环境系统,documents,单证与合规
+Automated Export System (AES),美国自动出口系统,documents,单证与合规
+Internal Transaction Number (ITN),内部交易编号,documents,单证与合规
+Electronic Export Information (EEI),电子出口信息,documents,单证与合规
+Importer Security Filing (ISF 10+2),进口商安全申报,documents,单证与合规
+Automated Broker Interface (ABI),自动报关行接口,documents,单证与合规
+Export Control System (ECS),欧盟出口控制系统,documents,单证与合规
+Master Reference Number (MRN),主参考编号,documents,单证与合规
+New Computerised Transit System (NCTS),欧盟新型过境系统,documents,单证与合规
+EORI Number,欧盟经营者识别码,documents,单证与合规
+Authorised Economic Operator (AEO),经认证的经营者,documents,单证与合规
+AEO Certification,AEO认证,documents,单证与合规
+Customs-Trade Partnership Against Terrorism (CTPAT),海关商界反恐伙伴计划,documents,单证与合规
+e-Invoice,电子发票,documents,单证与合规
+Peppol,Peppol电子发票网络,documents,单证与合规
+VGM Declaration,VGM申报,documents,单证与合规
+Electronic Dangerous Goods Declaration,电子危险品申报,documents,单证与合规
+Risk Management System,风险管理系统,documents,单证与合规
+Advance Ruling,预裁定,documents,单证与合规
+Binding Tariff Information (BTI),具约束力的关税信息,documents,单证与合规
+Binding Origin Ruling,约束性原产地裁定,documents,单证与合规
+Paperless Clearance,无纸化通关,documents,单证与合规
+Online Duty Payment,线上缴税,documents,单证与合规
+Digital Freight Forwarding,数字货运代理,documents,单证与合规
+Customs Pre-Clearance,预清关,documents,单证与合规
+Green Channel,绿色通道,documents,单证与合规
+Customs Release Message,海关放行报文,documents,单证与合规
+Commercial Invoice,商业发票,documents,单证与合规
+Proforma Invoice,形式发票,documents,单证与合规
+Consular Invoice,领事发票,documents,单证与合规
+Customs Invoice,海关发票,documents,单证与合规
+Certified Invoice,签证发票,documents,单证与合规
+Packing List,装箱单,documents,单证与合规
+Weight List,重量单,documents,单证与合规
+Measurement List,尺码单,documents,单证与合规
+Shipping Order (S/O),装货单,documents,单证与合规
+Booking Confirmation,订舱确认函,documents,单证与合规
+Booking Note,订舱委托书,documents,单证与合规
+Charter Party,租船合同,documents,单证与合规
+Contract of Affreightment,包运合同,documents,单证与合规
+Mate's Receipt,大副收据,documents,单证与合规
+Dock Receipt,场站收据,documents,单证与合规
+Delivery Order,提货单,documents,单证与合规
+Ocean Bill of Lading,海运提单,documents,单证与合规
+House Bill of Lading,货代提单,documents,单证与合规
+Master Bill of Lading,船东提单,documents,单证与合规
+Order Bill of Lading,指示提单,documents,单证与合规
+Straight Bill of Lading,记名提单,documents,单证与合规
+Bearer Bill of Lading,不记名提单,documents,单证与合规
+Clean Bill of Lading,清洁提单,documents,单证与合规
+Claused Bill of Lading,不清洁提单,documents,单证与合规
+On Board Bill of Lading,已装船提单,documents,单证与合规
+Received for Shipment Bill of Lading,备运提单,documents,单证与合规
+Through Bill of Lading,全程提单,documents,单证与合规
+Charter Party Bill of Lading,租船合约提单,documents,单证与合规
+Switch Bill of Lading,换发提单,documents,单证与合规
+Air Waybill,航空运单,documents,单证与合规
+House Air Waybill (HAWB),航空分运单,documents,单证与合规
+Master Air Waybill (MAWB),航空主运单,documents,单证与合规
+Rail Consignment Note,铁路运单,documents,单证与合规
+CIM Consignment Note,国际铁路联运运单,documents,单证与合规
+CMR Consignment Note,CMR公路运单,documents,单证与合规
+Multimodal Transport Document,多式联运单据,documents,单证与合规
+FIATA Bill of Lading (FBL),FIATA多式联运提单,documents,单证与合规
+FIATA Forwarder's Certificate of Receipt (FCR),FIATA货运代理收货凭证,documents,单证与合规
+FIATA Forwarder's Certificate of Transport (FCT),FIATA货运代理运输凭证,documents,单证与合规
+Courier Receipt,快递收据,documents,单证与合规
+CN22 Form,CN22报关签条,documents,单证与合规
+CN23 Form,CN23报关单,documents,单证与合规
+Stowage Plan,配载图,documents,单证与合规
+Loading List,装货清单,documents,单证与合规
+Cargo Manifest,货物舱单,documents,单证与合规
+Import Manifest,进口舱单,documents,单证与合规
+Export Manifest,出口舱单,documents,单证与合规
+Dangerous Goods Declaration,危险品申报单,documents,单证与合规
+Multimodal Dangerous Goods Form,多式联运危险品申报表,documents,单证与合规
+Safety Data Sheet (SDS),化学品安全技术说明书,documents,单证与合规
+Shipper's Letter of Instruction (SLI),托运指示书,documents,单证与合规
+Cargo Insurance Policy,货物保险单,documents,单证与合规
+Insurance Certificate,保险凭证,documents,单证与合规
+Open Policy,预约保险单,documents,单证与合规
+Insurance Claim,保险索赔,documents,单证与合规
+Letter of Indemnity (LOI),赔偿保证书,documents,单证与合规
+Letter of Protest,抗议书,documents,单证与合规
+Notice of Readiness (NOR),装卸准备就绪通知书,documents,单证与合规
+Statement of Facts (SOF),装卸时间事实记录,documents,单证与合规
+Time Sheet,装卸时间表,documents,单证与合规
+Equipment Interchange Receipt (EIR),设备交接单,documents,单证与合规
+Gate Pass,放行条,documents,单证与合规
+Outturn Report,卸货溢短残损单,documents,单证与合规
+Shortlanded Cargo Report,短卸报告,documents,单证与合规
+Overlanded Cargo Report,溢卸报告,documents,单证与合规
+Shipping Advice,装船通知,documents,单证与合规
+Shipped on Board Notation,已装船批注,documents,单证与合规
+Debit Note,借项通知单,documents,单证与合规
+Credit Note,贷项通知单,documents,单证与合规
+Statement of Account,对账单,documents,单证与合规
+Entry Summary (CBP Form 7501),美国进口汇总报关单,documents,单证与合规
+Shipping Bill,印度出口报关单,documents,单证与合规
+Bill of Entry,印度进口报关单,documents,单证与合规
+Customs Broker Power of Attorney,报关委托书,documents,单证与合规
+Importer of Record,进口商备案,documents,单证与合规
+Customs Registration,海关注册登记,documents,单证与合规

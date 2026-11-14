@@ -1,0 +1,401 @@
+term_en,term_zh,category,subcategory
+Marine Insurance,海上保险,insurance-claims,海上保险与理赔
+Ocean Marine Cargo Insurance,海洋运输货物保险,insurance-claims,海上保险与理赔
+Cargo Insurance,货物运输保险,insurance-claims,海上保险与理赔
+Land Transportation Cargo Insurance,陆上运输货物保险,insurance-claims,海上保险与理赔
+Air Transportation Cargo Insurance,航空运输货物保险,insurance-claims,海上保险与理赔
+Parcel Post Insurance,邮包保险,insurance-claims,海上保险与理赔
+Through Transportation Insurance,联运货物保险,insurance-claims,海上保险与理赔
+China Insurance Clauses (CIC),中国保险条款,insurance-claims,海上保险与理赔
+Insurance Policy,保险单,insurance-claims,海上保险与理赔
+Insurance Certificate,保险凭证,insurance-claims,海上保险与理赔
+Cover Note,暂保单,insurance-claims,海上保险与理赔
+Floating Policy,流动保险单,insurance-claims,海上保险与理赔
+Open Cover,预约保险,insurance-claims,海上保险与理赔
+Voyage Policy,航程保险单,insurance-claims,海上保险与理赔
+Time Policy,定期保险单,insurance-claims,海上保险与理赔
+Mixed Policy,混合保险单,insurance-claims,海上保险与理赔
+Valued Policy,定值保险单,insurance-claims,海上保险与理赔
+Unvalued Policy,不定值保险单,insurance-claims,海上保险与理赔
+Blanket Policy,总括保险单,insurance-claims,海上保险与理赔
+Hull Policy,船舶保险单,insurance-claims,海上保险与理赔
+Port Risk Policy,港口保险单,insurance-claims,海上保险与理赔
+Application for Insurance,投保单,insurance-claims,海上保险与理赔
+Insurance Broker,保险经纪人,insurance-claims,海上保险与理赔
+Insurance Slip,承保条,insurance-claims,海上保险与理赔
+Underwriter,承保人,insurance-claims,海上保险与理赔
+Insurer,保险人,insurance-claims,海上保险与理赔
+Insured,被保险人,insurance-claims,海上保险与理赔
+Policyholder,投保人,insurance-claims,海上保险与理赔
+Beneficiary,受益人,insurance-claims,海上保险与理赔
+Insurable Interest,可保利益,insurance-claims,海上保险与理赔
+Insurable Value,保险价值,insurance-claims,海上保险与理赔
+Sum Insured,保险金额,insurance-claims,海上保险与理赔
+Loss Payee,赔款受益人,insurance-claims,海上保险与理赔
+Premium,保险费,insurance-claims,海上保险与理赔
+Premium Rate,保险费率,insurance-claims,海上保险与理赔
+Additional Premium,附加保费,insurance-claims,海上保险与理赔
+Return of Premium,保险费退费,insurance-claims,海上保险与理赔
+Reinsurance,再保险,insurance-claims,海上保险与理赔
+Facultative Reinsurance,临时分保,insurance-claims,海上保险与理赔
+Coinsurance,共同保险,insurance-claims,海上保险与理赔
+Double Insurance,重复保险,insurance-claims,海上保险与理赔
+Endorsement,批单,insurance-claims,海上保险与理赔
+Cancellation Clause,注销条款,insurance-claims,海上保险与理赔
+Period of Cover,保险期间,insurance-claims,海上保险与理赔
+Inception Date,起保日期,insurance-claims,海上保险与理赔
+Expiry Date,保险终止日期,insurance-claims,海上保险与理赔
+Attachment,责任开始,insurance-claims,海上保险与理赔
+Warehouse to Warehouse Clause,仓至仓条款,insurance-claims,海上保险与理赔
+Extended Cover,扩展承保,insurance-claims,海上保险与理赔
+Principle of Indemnity,损失补偿原则,insurance-claims,海上保险与理赔
+Utmost Good Faith,最大诚信原则,insurance-claims,海上保险与理赔
+Material Fact,重要事实,insurance-claims,海上保险与理赔
+Non-Disclosure,未如实告知,insurance-claims,海上保险与理赔
+Misrepresentation,错误告知,insurance-claims,海上保险与理赔
+Proximate Cause,近因,insurance-claims,海上保险与理赔
+Void Policy,无效保单,insurance-claims,海上保险与理赔
+Null and Void,自始无效,insurance-claims,海上保险与理赔
+Waiver,弃权,insurance-claims,海上保险与理赔
+Willful Misconduct,故意不当行为,insurance-claims,海上保险与理赔
+Negligence,过失,insurance-claims,海上保险与理赔
+Exclusion Clause,除外条款,insurance-claims,海上保险与理赔
+Excepted Perils,除外风险,insurance-claims,海上保险与理赔
+Consequential Loss,间接损失,insurance-claims,海上保险与理赔
+Loss of Market,市场损失,insurance-claims,海上保险与理赔
+Delay in Voyage,航程延迟损失,insurance-claims,海上保险与理赔
+Inherent Vice,内在缺陷,insurance-claims,海上保险与理赔
+Ordinary Wear and Tear,自然磨损,insurance-claims,海上保险与理赔
+Abandonment,委付,insurance-claims,海上保险与理赔
+Notice of Abandonment,委付通知,insurance-claims,海上保险与理赔
+Salvage Value,保险标的残值,insurance-claims,海上保险与理赔
+Depreciation,贬值,insurance-claims,海上保险与理赔
+Institute Cargo Clauses (A),协会货物条款（A）,insurance-claims,海上保险与理赔
+Institute Cargo Clauses (B),协会货物条款（B）,insurance-claims,海上保险与理赔
+Institute Cargo Clauses (C),协会货物条款（C）,insurance-claims,海上保险与理赔
+All Risks,一切险,insurance-claims,海上保险与理赔
+With Particular Average (WPA),水渍险,insurance-claims,海上保险与理赔
+Free of Particular Average (FPA),平安险,insurance-claims,海上保险与理赔
+Free of All Average,单独海损不赔,insurance-claims,海上保险与理赔
+Additional Risk,附加险,insurance-claims,海上保险与理赔
+General Additional Risk,一般附加险,insurance-claims,海上保险与理赔
+Special Additional Risk,特殊附加险,insurance-claims,海上保险与理赔
+Fresh Water and Rain Damage Risk,淡水雨淋险,insurance-claims,海上保险与理赔
+Shortage Risk,短量险,insurance-claims,海上保险与理赔
+Intermixture and Contamination Risk,混杂沾污险,insurance-claims,海上保险与理赔
+Leakage Risk,渗漏险,insurance-claims,海上保险与理赔
+Breakage Risk,破损碎裂险,insurance-claims,海上保险与理赔
+Taint of Odour Risk,串味险,insurance-claims,海上保险与理赔
+Hook Damage Risk,钩损险,insurance-claims,海上保险与理赔
+Rust Risk,锈损险,insurance-claims,海上保险与理赔
+Sweat and Heating Risk,受潮受热险,insurance-claims,海上保险与理赔
+Theft Pilferage and Non-Delivery Risk (TPND),偷窃提货不着险,insurance-claims,海上保险与理赔
+Import Duty Risk,进口关税险,insurance-claims,海上保险与理赔
+On Deck Risk,舱面险,insurance-claims,海上保险与理赔
+Rejection Risk,拒收险,insurance-claims,海上保险与理赔
+Failure to Deliver Risk,交货不到险,insurance-claims,海上保险与理赔
+War Risk,战争险,insurance-claims,海上保险与理赔
+Strikes Riots and Civil Commotions Risk (SRCC),罢工暴动民变险,insurance-claims,海上保险与理赔
+Institute War Risks Clauses (Cargo),协会货物战争险条款,insurance-claims,海上保险与理赔
+Institute Strikes Clauses (Cargo),协会货物罢工险条款,insurance-claims,海上保险与理赔
+Institute War and Strikes Clauses,协会战争与罢工险条款,insurance-claims,海上保险与理赔
+Malicious Damage Clause,恶意损害条款,insurance-claims,海上保险与理赔
+Institute Classification Clause,协会船级条款,insurance-claims,海上保险与理赔
+Institute Commodity Trades Clauses,协会大宗商品贸易条款,insurance-claims,海上保险与理赔
+Institute Bulk Oil Clauses,协会散装油类条款,insurance-claims,海上保险与理赔
+Institute Frozen Food Clauses,协会冷冻食品条款,insurance-claims,海上保险与理赔
+Institute Frozen Meat Clauses,协会冻肉条款,insurance-claims,海上保险与理赔
+Institute Coal Trade Clauses,协会煤炭贸易条款,insurance-claims,海上保险与理赔
+Institute Radioactive Contamination Exclusion Clause,协会放射性污染除外条款,insurance-claims,海上保险与理赔
+Nuclear Weapons Exclusion Clause,核武器除外条款,insurance-claims,海上保险与理赔
+Institute Replacement Clause,协会换新条款,insurance-claims,海上保险与理赔
+Institute Warranty Limits,协会保证航区条款,insurance-claims,海上保险与理赔
+Transit Clause,运输条款（风险终止条款）,insurance-claims,海上保险与理赔
+Change of Voyage Clause,变更航程条款,insurance-claims,海上保险与理赔
+Deviation Clause,绕航条款,insurance-claims,海上保险与理赔
+Continuation of Journey Clause,续运条款,insurance-claims,海上保险与理赔
+Suing and Labouring Clause,施救费用条款,insurance-claims,海上保险与理赔
+Notice of Claim Clause,索赔通知条款,insurance-claims,海上保险与理赔
+Claims Co-operation Clause,理赔合作条款,insurance-claims,海上保险与理赔
+Claims Control Clause,理赔控制条款,insurance-claims,海上保险与理赔
+Running Down Clause,碰撞责任条款,insurance-claims,海上保险与理赔
+Both to Blame Collision Clause,互有过失碰撞条款,insurance-claims,海上保险与理赔
+New Jason Clause,新杰森条款,insurance-claims,海上保险与理赔
+Jason Clause,杰森条款,insurance-claims,海上保险与理赔
+Free of Capture and Seizure Clause,捕获扣押除外条款,insurance-claims,海上保险与理赔
+Clause Paramount,首要条款,insurance-claims,海上保险与理赔
+Institute Cargo Clauses (Air),协会航空货物运输条款,insurance-claims,海上保险与理赔
+Institute Time Clauses (Hulls),协会船舶定期条款,insurance-claims,海上保险与理赔
+Institute Voyage Clauses (Hulls),协会船舶航次条款,insurance-claims,海上保险与理赔
+General Average,共同海损,insurance-claims,海上保险与理赔
+Particular Average,单独海损,insurance-claims,海上保险与理赔
+General Average Act,共同海损行为,insurance-claims,海上保险与理赔
+General Average Sacrifice,共同海损牺牲,insurance-claims,海上保险与理赔
+General Average Expenditure,共同海损费用,insurance-claims,海上保险与理赔
+Extraordinary Sacrifice,非常牺牲,insurance-claims,海上保险与理赔
+Extraordinary Expenditure,非常费用,insurance-claims,海上保险与理赔
+Jettison,投弃,insurance-claims,海上保险与理赔
+Jettison of Cargo,抛弃货物,insurance-claims,海上保险与理赔
+General Average Contribution,共同海损分摊,insurance-claims,海上保险与理赔
+Contributory Value,共同海损分摊价值,insurance-claims,海上保险与理赔
+General Average Security,共同海损担保,insurance-claims,海上保险与理赔
+General Average Bond,共同海损担保书,insurance-claims,海上保险与理赔
+General Average Deposit,共同海损保证金,insurance-claims,海上保险与理赔
+Average Agreement,海损协议书,insurance-claims,海上保险与理赔
+Non-Separation Agreement,不分离协议,insurance-claims,海上保险与理赔
+York-Antwerp Rules,约克-安特卫普规则,insurance-claims,海上保险与理赔
+General Average Statement,共同海损理算书,insurance-claims,海上保险与理赔
+Average Adjustment,海损理算,insurance-claims,海上保险与理赔
+Average Adjuster,海损理算师,insurance-claims,海上保险与理赔
+Association of Average Adjusters,海损理算师协会,insurance-claims,海上保险与理赔
+Common Maritime Adventure,共同航程冒险,insurance-claims,海上保险与理赔
+Salvage,海难救助,insurance-claims,海上保险与理赔
+Salvage Award,救助报酬,insurance-claims,海上保险与理赔
+Salvor,救助人,insurance-claims,海上保险与理赔
+Professional Salvor,专业救助人,insurance-claims,海上保险与理赔
+Salvage Vessel,救助船舶,insurance-claims,海上保险与理赔
+Salvage Operation,救助作业,insurance-claims,海上保险与理赔
+Salvage Contract,救助合同,insurance-claims,海上保险与理赔
+Lloyd's Open Form (LOF),劳氏救助格式合同,insurance-claims,海上保险与理赔
+No Cure No Pay,无效果无报酬,insurance-claims,海上保险与理赔
+Special Compensation P&I Clauses (SCOPIC),特殊补偿保赔条款,insurance-claims,海上保险与理赔
+Salvage Lien,救助留置权,insurance-claims,海上保险与理赔
+Salvage Security,救助担保金,insurance-claims,海上保险与理赔
+Salvage Bond,救助担保书,insurance-claims,海上保险与理赔
+Salvage Arbitration,救助仲裁,insurance-claims,海上保险与理赔
+Life Salvage,人命救助,insurance-claims,海上保险与理赔
+Property Salvage,财产救助,insurance-claims,海上保险与理赔
+Assistance,救助协助,insurance-claims,海上保险与理赔
+International Convention on Salvage 1989,1989年国际救助公约,insurance-claims,海上保险与理赔
+Derelict,遗弃船舶,insurance-claims,海上保险与理赔
+Flotsam,海上漂浮物,insurance-claims,海上保险与理赔
+Jetsam,投弃入海货物,insurance-claims,海上保险与理赔
+Wreck,沉船残骸,insurance-claims,海上保险与理赔
+Wreck Removal,沉船清除,insurance-claims,海上保险与理赔
+Wreck Removal Cost,沉船清除费用,insurance-claims,海上保险与理赔
+Protection and Indemnity Insurance,保赔保险,insurance-claims,海上保险与理赔
+P&I Club,保赔协会,insurance-claims,海上保险与理赔
+International Group of P&I Clubs,国际保赔集团,insurance-claims,海上保险与理赔
+Pooling Agreement,保赔集团分摊协议,insurance-claims,海上保险与理赔
+Direct Action Agreement,直接诉讼协议,insurance-claims,海上保险与理赔
+Certificate of Entry,保赔入会证书,insurance-claims,海上保险与理赔
+Entered Vessel,入会船舶,insurance-claims,海上保险与理赔
+Club Rules,保赔协会章程,insurance-claims,海上保险与理赔
+P&I Cover,保赔责任范围,insurance-claims,海上保险与理赔
+P&I Correspondent,保赔协会通讯代理,insurance-claims,海上保险与理赔
+Letter of Undertaking (LOU),保赔承诺书,insurance-claims,海上保险与理赔
+Letter of Guarantee,担保函,insurance-claims,海上保险与理赔
+Calls,保赔会费,insurance-claims,海上保险与理赔
+Advance Call,预付会费,insurance-claims,海上保险与理赔
+Supplementary Call,补充会费,insurance-claims,海上保险与理赔
+Release Call,了结会费,insurance-claims,海上保险与理赔
+Deductible,免赔额,insurance-claims,海上保险与理赔
+Franchise,免赔率,insurance-claims,海上保险与理赔
+Oil Pollution Liability,油污责任,insurance-claims,海上保险与理赔
+Bunker Spill Liability,燃油泄漏污染责任,insurance-claims,海上保险与理赔
+Civil Liability Convention (CLC),油污损害民事责任公约,insurance-claims,海上保险与理赔
+International Oil Pollution Compensation Fund (IOPC Fund),国际油污赔偿基金,insurance-claims,海上保险与理赔
+Bunker Convention,燃油污染损害公约,insurance-claims,海上保险与理赔
+STOPIA 2006,小型油轮油污责任协议,insurance-claims,海上保险与理赔
+TOPIA 2006,油轮油污责任分摊协议,insurance-claims,海上保险与理赔
+Blue Card,蓝卡,insurance-claims,海上保险与理赔
+Convention on Limitation of Liability for Maritime Claims (LLMC),海事赔偿责任限制公约,insurance-claims,海上保险与理赔
+Limitation of Liability,海事赔偿责任限制,insurance-claims,海上保险与理赔
+Limitation Fund,责任限制基金,insurance-claims,海上保险与理赔
+Package Limitation,件数责任限制,insurance-claims,海上保险与理赔
+Crew Claims,船员索赔,insurance-claims,海上保险与理赔
+Crew Repatriation Expense,船员遣返费用,insurance-claims,海上保险与理赔
+Crew Personal Injury,船员人身伤害,insurance-claims,海上保险与理赔
+Stowaway,偷渡者,insurance-claims,海上保险与理赔
+Diversion Expenses,绕航费用,insurance-claims,海上保险与理赔
+Fines and Penalties,罚款罚金,insurance-claims,海上保险与理赔
+Cargo Claims,货物索赔,insurance-claims,海上保险与理赔
+Third Party Liability,第三方责任,insurance-claims,海上保险与理赔
+Collision with Fixed and Floating Objects (FFO),碰撞固定及漂浮物,insurance-claims,海上保险与理赔
+Inter-Club Agreement,俱乐部间分摊协议,insurance-claims,海上保险与理赔
+Knock for Knock Agreement,互不追偿协议,insurance-claims,海上保险与理赔
+Hull and Machinery Insurance (H&M),船舶及机器保险,insurance-claims,海上保险与理赔
+Hull Insurance,船壳保险,insurance-claims,海上保险与理赔
+Freight Insurance,运费保险,insurance-claims,海上保险与理赔
+Freight at Risk,风险运费,insurance-claims,海上保险与理赔
+Disbursements Insurance,船舶费用保险,insurance-claims,海上保险与理赔
+Increased Value Insurance,增值保险,insurance-claims,海上保险与理赔
+Builders' Risks Insurance,船舶建造保险,insurance-claims,海上保险与理赔
+Launching Risk Insurance,船舶下水保险,insurance-claims,海上保险与理赔
+Fishing Vessel Insurance,渔船保险,insurance-claims,海上保险与理赔
+Yacht Insurance,游艇保险,insurance-claims,海上保险与理赔
+Total Loss Only (TLO),全损险,insurance-claims,海上保险与理赔
+Latent Defect,潜在缺陷,insurance-claims,海上保险与理赔
+Machinery Breakdown,机器故障,insurance-claims,海上保险与理赔
+Perils of the Sea,海上风险,insurance-claims,海上保险与理赔
+Barratry,船长船员恶意行为,insurance-claims,海上保险与理赔
+Piracy,海盗行为,insurance-claims,海上保险与理赔
+Heavy Weather,恶劣天气,insurance-claims,海上保险与理赔
+Sinking,沉没,insurance-claims,海上保险与理赔
+Foundering,倾覆沉没,insurance-claims,海上保险与理赔
+Stranding,搁浅,insurance-claims,海上保险与理赔
+Grounding,触礁,insurance-claims,海上保险与理赔
+Capsizing,倾覆,insurance-claims,海上保险与理赔
+Collision,碰撞,insurance-claims,海上保险与理赔
+Contact Damage,触碰损失,insurance-claims,海上保险与理赔
+Fire,火灾,insurance-claims,海上保险与理赔
+Explosion,爆炸,insurance-claims,海上保险与理赔
+Lightning,雷电,insurance-claims,海上保险与理赔
+Tsunami,海啸,insurance-claims,海上保险与理赔
+Volcanic Eruption,火山爆发,insurance-claims,海上保险与理赔
+Washing Overboard,浪击落海,insurance-claims,海上保险与理赔
+Entry of Sea Water into Vessel,海水入舱,insurance-claims,海上保险与理赔
+Missing Vessel,船舶失踪,insurance-claims,海上保险与理赔
+Actual Total Loss,实际全损,insurance-claims,海上保险与理赔
+Constructive Total Loss (CTL),推定全损,insurance-claims,海上保险与理赔
+Compromised Total Loss,协议全损,insurance-claims,海上保险与理赔
+Total Loss,全部损失,insurance-claims,海上保险与理赔
+Partial Loss,部分损失,insurance-claims,海上保险与理赔
+Hull Damage,船体损坏,insurance-claims,海上保险与理赔
+Cargo Damage,货物损失,insurance-claims,海上保险与理赔
+Water Damage,水渍损失,insurance-claims,海上保险与理赔
+Sea Water Damage,海水浸损,insurance-claims,海上保险与理赔
+Fresh Water Damage,淡水浸损,insurance-claims,海上保险与理赔
+Sweat Damage,汗潮湿损,insurance-claims,海上保险与理赔
+Heating Damage,受热损失,insurance-claims,海上保险与理赔
+Spontaneous Combustion,自燃,insurance-claims,海上保险与理赔
+Contamination,沾污,insurance-claims,海上保险与理赔
+Intermixture,混杂,insurance-claims,海上保险与理赔
+Odour Taint,异味沾染,insurance-claims,海上保险与理赔
+Shortage,短量,insurance-claims,海上保险与理赔
+Short Landing,短卸,insurance-claims,海上保险与理赔
+Non-Delivery,提货不着,insurance-claims,海上保险与理赔
+Pilferage,偷窃损失,insurance-claims,海上保险与理赔
+Breakage,破碎损失,insurance-claims,海上保险与理赔
+Crush Damage,压损,insurance-claims,海上保险与理赔
+Dent Damage,凹损,insurance-claims,海上保险与理赔
+Chafing Damage,摩擦损伤,insurance-claims,海上保险与理赔
+Leakage,渗漏损失,insurance-claims,海上保险与理赔
+Rusting,锈损,insurance-claims,海上保险与理赔
+Corrosion,腐蚀,insurance-claims,海上保险与理赔
+Moulding,霉变,insurance-claims,海上保险与理赔
+Putrefaction,腐烂,insurance-claims,海上保险与理赔
+Spoilage,变质,insurance-claims,海上保险与理赔
+Freezing Damage,冻损,insurance-claims,海上保险与理赔
+Insect Damage,虫害损失,insurance-claims,海上保险与理赔
+Rodent Damage,鼠咬损失,insurance-claims,海上保险与理赔
+Mechanical Damage,机械性损坏,insurance-claims,海上保险与理赔
+Handling Damage,装卸损坏,insurance-claims,海上保险与理赔
+Dropping Damage,跌落损坏,insurance-claims,海上保险与理赔
+Torn Packing,包装破裂,insurance-claims,海上保险与理赔
+Damaged Package,受损包装,insurance-claims,海上保险与理赔
+Stevedore Damage,装卸工人作业损坏,insurance-claims,海上保险与理赔
+Cargo Survey,货物检验,insurance-claims,海上保险与理赔
+Damage Survey,货损检验,insurance-claims,海上保险与理赔
+Surveyor,检验人,insurance-claims,海上保险与理赔
+Marine Surveyor,海事检验人,insurance-claims,海上保险与理赔
+Cargo Surveyor,货物检验师,insurance-claims,海上保险与理赔
+Independent Surveyor,独立检验人,insurance-claims,海上保险与理赔
+Joint Survey,联合检验,insurance-claims,海上保险与理赔
+Survey Report,检验报告,insurance-claims,海上保险与理赔
+Condition Survey,状况检验,insurance-claims,海上保险与理赔
+Pre-shipment Inspection,装运前检验,insurance-claims,海上保险与理赔
+Draft Survey,水尺检验,insurance-claims,海上保险与理赔
+Tally Report,理货报告,insurance-claims,海上保险与理赔
+Outturn Report,卸货报告,insurance-claims,海上保险与理赔
+Inspection Certificate,检验证书,insurance-claims,海上保险与理赔
+Certificate of Survey,检验证明书,insurance-claims,海上保险与理赔
+Sampling,取样,insurance-claims,海上保险与理赔
+Assay,化验,insurance-claims,海上保险与理赔
+Letter of Protest,抗议书,insurance-claims,海上保险与理赔
+Insurance Claim,保险索赔,insurance-claims,海上保险与理赔
+Claimant,索赔人,insurance-claims,海上保险与理赔
+Notice of Loss,出险通知,insurance-claims,海上保险与理赔
+Notice of Claim,索赔通知,insurance-claims,海上保险与理赔
+Claim Form,索赔申请表,insurance-claims,海上保险与理赔
+Claim Documents,索赔单证,insurance-claims,海上保险与理赔
+Statement of Claim,索赔清单,insurance-claims,海上保险与理赔
+Proof of Loss,损失证明,insurance-claims,海上保险与理赔
+Loss Report,损失报告,insurance-claims,海上保险与理赔
+Casualty Report,事故报告,insurance-claims,海上保险与理赔
+Marine Casualty,海上事故,insurance-claims,海上保险与理赔
+Claims Handling,理赔处理,insurance-claims,海上保险与理赔
+Claims Settlement,理赔结案,insurance-claims,海上保险与理赔
+Settlement Advice,赔付通知书,insurance-claims,海上保险与理赔
+Amicable Settlement,友好和解,insurance-claims,海上保险与理赔
+Full and Final Settlement,全额最终和解,insurance-claims,海上保险与理赔
+Without Prejudice (W/P),无损权利协商,insurance-claims,海上保险与理赔
+Without Prejudice Save as to Costs,保留费用权利协商,insurance-claims,海上保险与理赔
+Payment in Full and Final Settlement,全额最终赔付,insurance-claims,海上保险与理赔
+Deed of Release,免责契据,insurance-claims,海上保险与理赔
+Discharge Receipt,结案收据,insurance-claims,海上保险与理赔
+Master's Report,船长事故报告,insurance-claims,海上保险与理赔
+Master's Declaration,船长声明,insurance-claims,海上保险与理赔
+Sea Protest,海事声明,insurance-claims,海上保险与理赔
+Extended Protest,延展海事声明,insurance-claims,海上保险与理赔
+Ship's Log Book,航海日志,insurance-claims,海上保险与理赔
+Engine Log Book,轮机日志,insurance-claims,海上保险与理赔
+Mate's Receipt,大副收据,insurance-claims,海上保险与理赔
+Bill of Lading,提单,insurance-claims,海上保险与理赔
+Clean Bill of Lading,清洁提单,insurance-claims,海上保险与理赔
+Commercial Invoice,商业发票,insurance-claims,海上保险与理赔
+Packing List,装箱单,insurance-claims,海上保险与理赔
+Letter of Indemnity (LOI),赔偿保证书,insurance-claims,海上保险与理赔
+Carrier's Liability,承运人责任,insurance-claims,海上保险与理赔
+Claim Presentation,提出索赔,insurance-claims,海上保险与理赔
+Time Bar,索赔时效,insurance-claims,海上保险与理赔
+One Year Time Bar,一年时效,insurance-claims,海上保险与理赔
+Limitation Period,时效期间,insurance-claims,海上保险与理赔
+Prescription,时效,insurance-claims,海上保险与理赔
+Litigation,诉讼,insurance-claims,海上保险与理赔
+Arbitration,仲裁,insurance-claims,海上保险与理赔
+Maritime Arbitration,海事仲裁,insurance-claims,海上保险与理赔
+Loss Adjuster,理赔理算师,insurance-claims,海上保险与理赔
+Subrogation,代位求偿,insurance-claims,海上保险与理赔
+Right of Subrogation,代位求偿权,insurance-claims,海上保险与理赔
+Subrogation Receipt,权益转让书,insurance-claims,海上保险与理赔
+Recovery,追偿,insurance-claims,海上保险与理赔
+Recovery Claim,追偿索赔,insurance-claims,海上保险与理赔
+Recovering Agent,追偿代理人,insurance-claims,海上保险与理赔
+Recovery Action,追偿诉讼,insurance-claims,海上保险与理赔
+Third Party Recovery,第三方追偿,insurance-claims,海上保险与理赔
+Right of Recourse,追索权,insurance-claims,海上保险与理赔
+Transfer of Rights,权益转移,insurance-claims,海上保险与理赔
+Hague Rules,海牙规则,insurance-claims,海上保险与理赔
+Hague-Visby Rules,海牙-维斯比规则,insurance-claims,海上保险与理赔
+Hamburg Rules,汉堡规则,insurance-claims,海上保险与理赔
+Rotterdam Rules,鹿特丹规则,insurance-claims,海上保险与理赔
+Carriage of Goods by Sea Act,海上货物运输法,insurance-claims,海上保险与理赔
+Capture,捕获,insurance-claims,海上保险与理赔
+Seizure,扣押,insurance-claims,海上保险与理赔
+Detention,扣留,insurance-claims,海上保险与理赔
+Restraint of Princes,政府禁制,insurance-claims,海上保险与理赔
+Hostilities,敌对行动,insurance-claims,海上保险与理赔
+Warlike Operations,战争行动,insurance-claims,海上保险与理赔
+Civil War,内战,insurance-claims,海上保险与理赔
+Civil Commotion,民众骚乱,insurance-claims,海上保险与理赔
+Riot,暴动,insurance-claims,海上保险与理赔
+Strike,罢工,insurance-claims,海上保险与理赔
+Lockout,闭厂,insurance-claims,海上保险与理赔
+Labour Disturbance,劳工骚乱,insurance-claims,海上保险与理赔
+Terrorism,恐怖主义行为,insurance-claims,海上保险与理赔
+Sabotage,蓄意破坏,insurance-claims,海上保险与理赔
+Nuclear Exclusion,核风险除外,insurance-claims,海上保险与理赔
+Mine,水雷,insurance-claims,海上保险与理赔
+Torpedo,鱼雷,insurance-claims,海上保险与理赔
+Bomb,炸弹袭击,insurance-claims,海上保险与理赔
+Blockade,封锁,insurance-claims,海上保险与理赔
+Listed Area,列名战争险区域,insurance-claims,海上保险与理赔
+Additional Premium Area,附加保费区域,insurance-claims,海上保险与理赔
+War Risk Premium,战争险保费,insurance-claims,海上保险与理赔
+Cost Insurance and Freight (CIF),成本加保险费加运费,insurance-claims,海上保险与理赔
+110 Percent of Invoice Value,发票金额加一成投保,insurance-claims,海上保险与理赔
+Cover Before Loading,装船前保险,insurance-claims,海上保险与理赔
+Cover After Discharge,卸货后保险,insurance-claims,海上保险与理赔
+Lloyd's of London,伦敦劳合社,insurance-claims,海上保险与理赔
+Lloyd's Underwriter,劳氏承保人,insurance-claims,海上保险与理赔
+Institute of London Underwriters,伦敦承保人协会,insurance-claims,海上保险与理赔
+Shipowner Liability Insurance,船东责任保险,insurance-claims,海上保险与理赔
+Particular Charges,单独费用,insurance-claims,海上保险与理赔
+Salvage Charge,救助费用,insurance-claims,海上保险与理赔
+Sue and Labour Expenses,施救费用,insurance-claims,海上保险与理赔
+Underwriting Year,承保年度,insurance-claims,海上保险与理赔
+Policy Year,保单年度,insurance-claims,海上保险与理赔
+Bona Fide,善意诚信,insurance-claims,海上保险与理赔
+Nautical Fault,航海过失免责,insurance-claims,海上保险与理赔
+Exemption Clause,免责条款,insurance-claims,海上保险与理赔

@@ -1,0 +1,394 @@
+﻿term_en,term_zh,category,subcategory
+Counterbalance Forklift,平衡重式叉车,warehousing,仓储设备与自动化
+Electric Counterbalance Forklift,电动平衡重叉车,warehousing,仓储设备与自动化
+Diesel Forklift,内燃叉车,warehousing,仓储设备与自动化
+LPG Forklift,液化石油气叉车,warehousing,仓储设备与自动化
+Three-Wheel Forklift,三轮叉车,warehousing,仓储设备与自动化
+Reach Truck,前移式叉车,warehousing,仓储设备与自动化
+Stand-On Reach Truck,站驾前移式叉车,warehousing,仓储设备与自动化
+Double-Deep Reach Truck,双深位前移式叉车,warehousing,仓储设备与自动化
+Very Narrow Aisle Truck,窄巷道叉车,warehousing,仓储设备与自动化
+Turret Truck,转叉式叉车,warehousing,仓储设备与自动化
+Man-Up Turret Truck,人上型转叉车,warehousing,仓储设备与自动化
+Man-Down Turret Truck,人下型转叉车,warehousing,仓储设备与自动化
+Articulated Forklift,铰接式叉车,warehousing,仓储设备与自动化
+Side Loader,侧面式叉车,warehousing,仓储设备与自动化
+Multi-Directional Forklift,多向叉车,warehousing,仓储设备与自动化
+Four-Way Forklift,四向叉车,warehousing,仓储设备与自动化
+Rough Terrain Forklift,越野叉车,warehousing,仓储设备与自动化
+Telehandler,伸缩臂叉车,warehousing,仓储设备与自动化
+Container Handling Forklift,集装箱叉车,warehousing,仓储设备与自动化
+Reach Stacker,集装箱正面吊,warehousing,仓储设备与自动化
+Empty Container Handler,空箱堆高机,warehousing,仓储设备与自动化
+Straddle Carrier,跨运车,warehousing,仓储设备与自动化
+Pallet Jack,托盘搬运车,warehousing,仓储设备与自动化
+Hand Pallet Truck,手动托盘搬运车,warehousing,仓储设备与自动化
+Electric Pallet Truck,电动托盘搬运车,warehousing,仓储设备与自动化
+Walkie Pallet Truck,步行式托盘车,warehousing,仓储设备与自动化
+Rider Pallet Truck,站驾式托盘车,warehousing,仓储设备与自动化
+Weighing Pallet Truck,称重托盘车,warehousing,仓储设备与自动化
+Electric Stacker,电动堆高车,warehousing,仓储设备与自动化
+Walkie Stacker,步行式堆高车,warehousing,仓储设备与自动化
+Straddle Stacker,跨腿式堆高车,warehousing,仓储设备与自动化
+Semi-Electric Stacker,半电动堆高车,warehousing,仓储设备与自动化
+Counterbalanced Stacker,平衡重堆高车,warehousing,仓储设备与自动化
+Order Picker,高位拣选车,warehousing,仓储设备与自动化
+Low-Level Order Picker,低位拣选车,warehousing,仓储设备与自动化
+Forklift Mast,叉车门架,warehousing,仓储设备与自动化
+Duplex Mast,两级门架,warehousing,仓储设备与自动化
+Triplex Mast,三级门架,warehousing,仓储设备与自动化
+Free Lift,自由提升,warehousing,仓储设备与自动化
+Side Shifter,侧移器,warehousing,仓储设备与自动化
+Fork Positioner,调距叉,warehousing,仓储设备与自动化
+Rotator,旋转器,warehousing,仓储设备与自动化
+Carton Clamp,纸箱夹,warehousing,仓储设备与自动化
+Bale Clamp,包夹,warehousing,仓储设备与自动化
+Paper Roll Clamp,纸卷夹,warehousing,仓储设备与自动化
+Drum Clamp,圆桶夹,warehousing,仓储设备与自动化
+Tire Clamp,轮胎夹,warehousing,仓储设备与自动化
+Push-Pull Attachment,推拉器,warehousing,仓储设备与自动化
+Slip Sheet Attachment,滑板器,warehousing,仓储设备与自动化
+Load Backrest,挡货架,warehousing,仓储设备与自动化
+Load Stabilizer,货物稳定器,warehousing,仓储设备与自动化
+Fork Extension,加长货叉,warehousing,仓储设备与自动化
+Telescopic Fork,伸缩货叉,warehousing,仓储设备与自动化
+Forklift Scale,叉车秤,warehousing,仓储设备与自动化
+Pallet Inverter,托盘翻转器,warehousing,仓储设备与自动化
+Forklift Battery,叉车蓄电池,warehousing,仓储设备与自动化
+Lithium-Ion Forklift,锂电叉车,warehousing,仓储设备与自动化
+Opportunity Charging,机会充电,warehousing,仓储设备与自动化
+Battery Swap Station,换电站,warehousing,仓储设备与自动化
+Tow Tractor,牵引车,warehousing,仓储设备与自动化
+Platform Truck,平台搬运车,warehousing,仓储设备与自动化
+Tugger Train,牵引列车,warehousing,仓储设备与自动化
+AGV (Automated Guided Vehicle),自动导引车,warehousing,仓储设备与自动化
+AMR (Autonomous Mobile Robot),自主移动机器人,warehousing,仓储设备与自动化
+LGV (Laser-Guided Vehicle),激光导引车,warehousing,仓储设备与自动化
+AGV Forklift,AGV叉车,warehousing,仓储设备与自动化
+AGV Tugger,牵引式AGV,warehousing,仓储设备与自动化
+Unit-Load AGV,单元载荷AGV,warehousing,仓储设备与自动化
+Pallet AGV,托盘AGV,warehousing,仓储设备与自动化
+Underride AGV,潜入式AGV,warehousing,仓储设备与自动化
+Pallet-Moving Robot,托盘搬运机器人,warehousing,仓储设备与自动化
+Magnetic Tape Navigation,磁条导航,warehousing,仓储设备与自动化
+Magnetic Spot Navigation,磁点导航,warehousing,仓储设备与自动化
+Wire Guidance,导线导航,warehousing,仓储设备与自动化
+Laser Navigation,激光导航,warehousing,仓储设备与自动化
+SLAM Navigation,SLAM导航,warehousing,仓储设备与自动化
+QR Code Navigation,二维码导航,warehousing,仓储设备与自动化
+Natural Feature Navigation,自然导航,warehousing,仓储设备与自动化
+Vision Navigation,视觉导航,warehousing,仓储设备与自动化
+AGV Traffic Management,AGV交通调度,warehousing,仓储设备与自动化
+Forklift Telematics,叉车车队管理系统,warehousing,仓储设备与自动化
+Impact Sensor,撞击传感器,warehousing,仓储设备与自动化
+Blue Spot Light,蓝点警示灯,warehousing,仓储设备与自动化
+Red Zone Light,红色区域警示灯,warehousing,仓储设备与自动化
+Fork Camera,货叉摄像头,warehousing,仓储设备与自动化
+Dock Leveller,登车桥,warehousing,仓储设备与自动化
+Dock Bumper,码头防撞垫,warehousing,仓储设备与自动化
+Dock Seal,门封,warehousing,仓储设备与自动化
+Dock Shelter,门罩,warehousing,仓储设备与自动化
+Vehicle Restraint,车辆限动器,warehousing,仓储设备与自动化
+Wheel Chock,轮挡,warehousing,仓储设备与自动化
+Scissor Lift Table,剪叉式升降台,warehousing,仓储设备与自动化
+Hydraulic Lift Table,液压升降台,warehousing,仓储设备与自动化
+Pallet Racking,托盘货架,warehousing,仓储设备与自动化
+Selective Pallet Racking,横梁式托盘货架,warehousing,仓储设备与自动化
+Teardrop Racking,插接式货架,warehousing,仓储设备与自动化
+Structural Pallet Rack,结构式托盘货架,warehousing,仓储设备与自动化
+Drive-In Racking,驶入式货架,warehousing,仓储设备与自动化
+Drive-Through Racking,贯通式货架,warehousing,仓储设备与自动化
+Push-Back Racking,后推式货架,warehousing,仓储设备与自动化
+Pallet Flow Racking,重力式托盘货架,warehousing,仓储设备与自动化
+Gravity Flow Racking,流利式货架,warehousing,仓储设备与自动化
+Carton Flow Racking,纸箱流利货架,warehousing,仓储设备与自动化
+Carton Flow Track,流利条,warehousing,仓储设备与自动化
+Cantilever Racking,悬臂式货架,warehousing,仓储设备与自动化
+Longspan Shelving,中量型货架,warehousing,仓储设备与自动化
+Medium Duty Shelving,中量级货架,warehousing,仓储设备与自动化
+Light Duty Shelving,轻量级货架,warehousing,仓储设备与自动化
+Heavy Duty Racking,重量级货架,warehousing,仓储设备与自动化
+Industrial Shelving,工业货架,warehousing,仓储设备与自动化
+Rivet Shelving,铆钉货架,warehousing,仓储设备与自动化
+Wire Shelving,线网货架,warehousing,仓储设备与自动化
+Mobile Shelving,移动式货架,warehousing,仓储设备与自动化
+Compact Shelving,密集架,warehousing,仓储设备与自动化
+Mobile Pallet Racking,移动式托盘货架,warehousing,仓储设备与自动化
+Multi-Tier Racking,阁楼式货架,warehousing,仓储设备与自动化
+Mezzanine,阁楼平台,warehousing,仓储设备与自动化
+Work Platform,钢平台,warehousing,仓储设备与自动化
+Rack-Supported Warehouse,货架支撑式仓库,warehousing,仓储设备与自动化
+Radio Shuttle Racking,穿梭式货架,warehousing,仓储设备与自动化
+Multi-Deep Racking,多深位货架,warehousing,仓储设备与自动化
+Double-Deep Racking,双深位货架,warehousing,仓储设备与自动化
+Single-Deep Racking,单深位货架,warehousing,仓储设备与自动化
+Narrow Aisle Racking,窄巷道货架,warehousing,仓储设备与自动化
+Back-to-Back Racking,背靠背货架,warehousing,仓储设备与自动化
+Upright Frame,立柱,warehousing,仓储设备与自动化
+Rack Beam,横梁,warehousing,仓储设备与自动化
+Wire Decking,钢网层板,warehousing,仓储设备与自动化
+Chipboard Decking,刨花板层板,warehousing,仓储设备与自动化
+Pallet Support Bar,托盘支撑杆,warehousing,仓储设备与自动化
+Beam Pallet Stop,横梁挡块,warehousing,仓储设备与自动化
+Column Guard,立柱护脚,warehousing,仓储设备与自动化
+Rack Guard,货架防撞栏,warehousing,仓储设备与自动化
+Load Capacity Label,载重标识,warehousing,仓储设备与自动化
+Aisle Sign,巷道标识,warehousing,仓储设备与自动化
+Rack Label,货架标签,warehousing,仓储设备与自动化
+Rack Inspection,货架检测,warehousing,仓储设备与自动化
+Aisle Width,巷道宽度,warehousing,仓储设备与自动化
+Pallet Overhang,托盘外伸,warehousing,仓储设备与自动化
+Belt Conveyor,带式输送机,warehousing,仓储设备与自动化
+Roller Conveyor,辊筒输送机,warehousing,仓储设备与自动化
+Gravity Roller Conveyor,无动力辊筒输送机,warehousing,仓储设备与自动化
+Powered Roller Conveyor,动力辊筒输送机,warehousing,仓储设备与自动化
+Chain Conveyor,链式输送机,warehousing,仓储设备与自动化
+Slat Conveyor,板链输送机,warehousing,仓储设备与自动化
+Modular Belt Conveyor,模块网带输送机,warehousing,仓储设备与自动化
+Flexible Conveyor,柔性输送机,warehousing,仓储设备与自动化
+Expandable Roller Conveyor,可伸缩辊筒输送机,warehousing,仓储设备与自动化
+Telescopic Conveyor,伸缩皮带输送机,warehousing,仓储设备与自动化
+Spiral Conveyor,螺旋输送机,warehousing,仓储设备与自动化
+Vertical Conveyor,垂直输送机,warehousing,仓储设备与自动化
+Vertical Reciprocating Conveyor,垂直往复输送机,warehousing,仓储设备与自动化
+Incline Conveyor,爬坡输送机,warehousing,仓储设备与自动化
+Decline Conveyor,下坡输送机,warehousing,仓储设备与自动化
+Curve Conveyor,转弯输送机,warehousing,仓储设备与自动化
+Merge Conveyor,合流输送机,warehousing,仓储设备与自动化
+Sortation Conveyor,分拣输送机,warehousing,仓储设备与自动化
+Cross-Belt Sorter,交叉带分拣机,warehousing,仓储设备与自动化
+Loop Cross-Belt Sorter,环形交叉带分拣机,warehousing,仓储设备与自动化
+Tilt-Tray Sorter,翻盘分拣机,warehousing,仓储设备与自动化
+Shoe Sorter,滑块分拣机,warehousing,仓储设备与自动化
+Pop-Up Wheel Sorter,顶升轮分拣机,warehousing,仓储设备与自动化
+Pusher Sorter,推板分拣机,warehousing,仓储设备与自动化
+Narrow Belt Sorter,窄带分拣机,warehousing,仓储设备与自动化
+Parcel Sorter,包裹分拣机,warehousing,仓储设备与自动化
+Line Shaft Conveyor,线轴式输送机,warehousing,仓储设备与自动化
+Belt-Driven Live Roller,皮带驱动辊筒输送机,warehousing,仓储设备与自动化
+Chain-Driven Live Roller,链条驱动辊筒输送机,warehousing,仓储设备与自动化
+Accumulation Conveyor,积放输送机,warehousing,仓储设备与自动化
+Zero-Pressure Accumulation,零压力积放,warehousing,仓储设备与自动化
+Minimum Pressure Accumulation,最小压力积放,warehousing,仓储设备与自动化
+Merge Module,合流模块,warehousing,仓储设备与自动化
+Pop-Up Transfer Unit,顶升移载单元,warehousing,仓储设备与自动化
+Chain Transfer,链条移载机,warehousing,仓储设备与自动化
+Transfer Car,移载小车,warehousing,仓储设备与自动化
+Conveyor Turntable,输送转向台,warehousing,仓储设备与自动化
+Rotary Accumulation Table,旋转积放台,warehousing,仓储设备与自动化
+Pneumatic Conveyor,气力输送机,warehousing,仓储设备与自动化
+Vibrating Conveyor,振动输送机,warehousing,仓储设备与自动化
+Bucket Elevator,斗式提升机,warehousing,仓储设备与自动化
+Cleated Belt Conveyor,挡边带输送机,warehousing,仓储设备与自动化
+Skate Wheel Conveyor,滚轮输送机,warehousing,仓储设备与自动化
+Ball Transfer Table,万向球台,warehousing,仓储设备与自动化
+Chute,滑槽,warehousing,仓储设备与自动化
+Gravity Chute,重力滑槽,warehousing,仓储设备与自动化
+Spiral Chute,螺旋滑槽,warehousing,仓储设备与自动化
+Induction Station,分拣供包台,warehousing,仓储设备与自动化
+Photoelectric Sensor,光电传感器,warehousing,仓储设备与自动化
+Proximity Sensor,接近传感器,warehousing,仓储设备与自动化
+Scanner Tunnel,扫描隧道,warehousing,仓储设备与自动化
+DWS (Dimension-Weight-Scan),体积称重扫描一体机,warehousing,仓储设备与自动化
+Checkweigher,检重秤,warehousing,仓储设备与自动化
+PLC (Programmable Logic Controller),可编程逻辑控制器,warehousing,仓储设备与自动化
+VFD (Variable Frequency Drive),变频器,warehousing,仓储设备与自动化
+Palletizer,码垛机,warehousing,仓储设备与自动化
+Robotic Palletizer,机器人码垛机,warehousing,仓储设备与自动化
+Layer Palletizer,层码式码垛机,warehousing,仓储设备与自动化
+High-Level Palletizer,高位码垛机,warehousing,仓储设备与自动化
+Low-Level Palletizer,低位码垛机,warehousing,仓储设备与自动化
+Depalletizer,拆垛机,warehousing,仓储设备与自动化
+Robotic Depalletizer,机器人拆垛机,warehousing,仓储设备与自动化
+Palletizing Robot,码垛机器人,warehousing,仓储设备与自动化
+Articulated Robot,关节机器人,warehousing,仓储设备与自动化
+Cartesian Robot,直角坐标机器人,warehousing,仓储设备与自动化
+Delta Robot,并联机器人,warehousing,仓储设备与自动化
+SCARA Robot,SCARA机器人,warehousing,仓储设备与自动化
+Gantry Robot,龙门式机器人,warehousing,仓储设备与自动化
+Collaborative Robot (Cobot),协作机器人,warehousing,仓储设备与自动化
+End-of-Arm Tooling (EOAT),末端执行器,warehousing,仓储设备与自动化
+Vacuum Gripper,真空吸盘夹具,warehousing,仓储设备与自动化
+Layer Gripper,整层夹具,warehousing,仓储设备与自动化
+Vacuum Tube Lifter,真空管吊,warehousing,仓储设备与自动化
+Vacuum Lifter,真空提升机,warehousing,仓储设备与自动化
+Industrial Manipulator,助力机械手,warehousing,仓储设备与自动化
+Jib Crane,悬臂起重机,warehousing,仓储设备与自动化
+Chain Hoist,环链葫芦,warehousing,仓储设备与自动化
+Case Erector,开箱机,warehousing,仓储设备与自动化
+Case Sealer,封箱机,warehousing,仓储设备与自动化
+Case Packer,装箱机,warehousing,仓储设备与自动化
+Wrap-Around Case Packer,包裹式装箱机,warehousing,仓储设备与自动化
+Strapping Machine,捆扎机,warehousing,仓储设备与自动化
+Stretch Wrapper,缠绕包装机,warehousing,仓储设备与自动化
+Turntable Stretch Wrapper,转盘式缠绕机,warehousing,仓储设备与自动化
+Rotary Arm Stretch Wrapper,悬臂式缠绕机,warehousing,仓储设备与自动化
+Ring Stretch Wrapper,环体缠绕机,warehousing,仓储设备与自动化
+Shrink Wrapper,收缩包装机,warehousing,仓储设备与自动化
+Shrink Tunnel,热收缩炉,warehousing,仓储设备与自动化
+Label Applicator,贴标机,warehousing,仓储设备与自动化
+Print and Apply,打印贴标机,warehousing,仓储设备与自动化
+Void Fill Machine,空隙填充机,warehousing,仓储设备与自动化
+Air Pillow Machine,气枕机,warehousing,仓储设备与自动化
+Bagging Machine,装袋机,warehousing,仓储设备与自动化
+Vacuum Packing Machine,真空包装机,warehousing,仓储设备与自动化
+Sealing Machine,封口机,warehousing,仓储设备与自动化
+Stretch Film,缠绕膜,warehousing,仓储设备与自动化
+Shrink Film,收缩膜,warehousing,仓储设备与自动化
+Carton Sealing Tape,封箱胶带,warehousing,仓储设备与自动化
+Strapping Band,打包带,warehousing,仓储设备与自动化
+Steel Strapping,钢打包带,warehousing,仓储设备与自动化
+PP Strapping,PP打包带,warehousing,仓储设备与自动化
+PET Strapping,PET打包带,warehousing,仓储设备与自动化
+Edge Protector,护角,warehousing,仓储设备与自动化
+Slip Sheet,滑板,warehousing,仓储设备与自动化
+Layer Pad,层垫板,warehousing,仓储设备与自动化
+Layer Pattern,码垛样式,warehousing,仓储设备与自动化
+Pallet Dispenser,托盘分配器,warehousing,仓储设备与自动化
+Pallet Magazine,托盘仓,warehousing,仓储设备与自动化
+Bubble Wrap,气泡膜,warehousing,仓储设备与自动化
+ASRS (Automated Storage and Retrieval System),自动化立体库,warehousing,仓储设备与自动化
+Unit-Load ASRS,单元货格式立体库,warehousing,仓储设备与自动化
+Mini-Load System,箱式自动化立体库,warehousing,仓储设备与自动化
+Stacker Crane,堆垛机,warehousing,仓储设备与自动化
+Single-Mast Stacker Crane,单立柱堆垛机,warehousing,仓储设备与自动化
+Dual-Mast Stacker Crane,双立柱堆垛机,warehousing,仓储设备与自动化
+Shuttle System,穿梭车系统,warehousing,仓储设备与自动化
+Four-Way Shuttle,四向穿梭车,warehousing,仓储设备与自动化
+Pallet Shuttle,托盘穿梭车,warehousing,仓储设备与自动化
+Multi-Tier Shuttle,多层穿梭车,warehousing,仓储设备与自动化
+Mother-Child Shuttle,母子车,warehousing,仓储设备与自动化
+Shuttle Elevator,穿梭车提升机,warehousing,仓储设备与自动化
+RGV (Rail Guided Vehicle),有轨穿梭车,warehousing,仓储设备与自动化
+Vertical Lift Module (VLM),垂直提升货柜,warehousing,仓储设备与自动化
+Vertical Carousel,垂直回转货柜,warehousing,仓储设备与自动化
+Horizontal Carousel,水平回转货柜,warehousing,仓储设备与自动化
+Cube Storage,料箱立体库,warehousing,仓储设备与自动化
+AutoStore,AutoStore系统,warehousing,仓储设备与自动化
+High-Bay Warehouse,高位仓库,warehousing,仓储设备与自动化
+Goods-to-Person (GTP),货到人拣选,warehousing,仓储设备与自动化
+Goods-to-Person Station,货到人工作站,warehousing,仓储设备与自动化
+Pick-to-Light,电子标签拣选,warehousing,仓储设备与自动化
+Put-to-Light,电子标签播种,warehousing,仓储设备与自动化
+Put Wall,播种墙,warehousing,仓储设备与自动化
+Voice Picking,语音拣选,warehousing,仓储设备与自动化
+Pick-by-Vision,视觉拣选,warehousing,仓储设备与自动化
+Picking Robot,拣选机器人,warehousing,仓储设备与自动化
+WMS (Warehouse Management System),仓库管理系统,warehousing,仓储设备与自动化
+WCS (Warehouse Control System),仓库控制系统,warehousing,仓储设备与自动化
+WES (Warehouse Execution System),仓库执行系统,warehousing,仓储设备与自动化
+TMS (Transportation Management System),运输管理系统,warehousing,仓储设备与自动化
+YMS (Yard Management System),堆场管理系统,warehousing,仓储设备与自动化
+ERP (Enterprise Resource Planning),企业资源计划,warehousing,仓储设备与自动化
+OMS (Order Management System),订单管理系统,warehousing,仓储设备与自动化
+Slotting,储位规划,warehousing,仓储设备与自动化
+Slotting Optimization,储位优化,warehousing,仓储设备与自动化
+ABC Classification,ABC分类,warehousing,仓储设备与自动化
+Wave Picking,波次拣选,warehousing,仓储设备与自动化
+Wave Planning,波次计划,warehousing,仓储设备与自动化
+Batch Picking,批量拣选,warehousing,仓储设备与自动化
+Zone Picking,分区拣选,warehousing,仓储设备与自动化
+Cluster Picking,集群拣选,warehousing,仓储设备与自动化
+Discrete Picking,单订单拣选,warehousing,仓储设备与自动化
+Multi-Order Picking,多订单合并拣选,warehousing,仓储设备与自动化
+Piece Picking,摘果式拣选,warehousing,仓储设备与自动化
+Putaway,上架,warehousing,仓储设备与自动化
+Directed Putaway,定向上架,warehousing,仓储设备与自动化
+Putaway Strategy,上架策略,warehousing,仓储设备与自动化
+Replenishment,补货,warehousing,仓储设备与自动化
+Min-Max Replenishment,最小-最大补货,warehousing,仓储设备与自动化
+Inventory Accuracy,库存准确率,warehousing,仓储设备与自动化
+Cycle Counting,循环盘点,warehousing,仓储设备与自动化
+Blind Count,盲盘,warehousing,仓储设备与自动化
+Physical Inventory,全面盘点,warehousing,仓储设备与自动化
+SKU (Stock Keeping Unit),库存单位,warehousing,仓储设备与自动化
+Location Management,库位管理,warehousing,仓储设备与自动化
+Bin Location,货位,warehousing,仓储设备与自动化
+Pick Face,拣货位,warehousing,仓储设备与自动化
+Golden Zone,黄金拣货区,warehousing,仓储设备与自动化
+Pick List,拣货单,warehousing,仓储设备与自动化
+Picking Route,拣货路径,warehousing,仓储设备与自动化
+Packing Station,打包工位,warehousing,仓储设备与自动化
+Shipping Station,发货工位,warehousing,仓储设备与自动化
+Cross-Docking,越库作业,warehousing,仓储设备与自动化
+Kitting,组套作业,warehousing,仓储设备与自动化
+Cartonization,装箱计算,warehousing,仓储设备与自动化
+Task Interleaving,任务交叉,warehousing,仓储设备与自动化
+Labor Management System,劳动力管理系统,warehousing,仓储设备与自动化
+Dock Scheduling,月台调度,warehousing,仓储设备与自动化
+Appointment Scheduling,预约管理,warehousing,仓储设备与自动化
+Inventory Turnover,库存周转率,warehousing,仓储设备与自动化
+Safety Stock,安全库存,warehousing,仓储设备与自动化
+Reorder Point,再订货点,warehousing,仓储设备与自动化
+FIFO (First In First Out),先进先出,warehousing,仓储设备与自动化
+LIFO (Last In First Out),后进先出,warehousing,仓储设备与自动化
+FEFO (First Expired First Out),先到期先出,warehousing,仓储设备与自动化
+Lot Tracking,批次追踪,warehousing,仓储设备与自动化
+Serial Number Tracking,序列号追踪,warehousing,仓储设备与自动化
+Expiry Date Management,效期管理,warehousing,仓储设备与自动化
+Traceability,可追溯性,warehousing,仓储设备与自动化
+Inventory Transfer,库存调拨,warehousing,仓储设备与自动化
+Stock Adjustment,库存调整,warehousing,仓储设备与自动化
+Returns Management,退货管理,warehousing,仓储设备与自动化
+Reverse Logistics,逆向物流,warehousing,仓储设备与自动化
+ASN (Advance Shipping Notice),预到货通知,warehousing,仓储设备与自动化
+Demand Forecasting,需求预测,warehousing,仓储设备与自动化
+Barcode,条形码,warehousing,仓储设备与自动化
+1D Barcode,一维条码,warehousing,仓储设备与自动化
+2D Barcode,二维条码,warehousing,仓储设备与自动化
+QR Code,二维码,warehousing,仓储设备与自动化
+Data Matrix Code,DM码,warehousing,仓储设备与自动化
+Barcode Symbology,条码码制,warehousing,仓储设备与自动化
+Check Digit,校验位,warehousing,仓储设备与自动化
+Code 39,Code 39码,warehousing,仓储设备与自动化
+Code 128,Code 128码,warehousing,仓储设备与自动化
+EAN-13,EAN-13码,warehousing,仓储设备与自动化
+EAN-8,EAN-8码,warehousing,仓储设备与自动化
+UPC-A,UPC-A码,warehousing,仓储设备与自动化
+UPC-E,UPC-E码,warehousing,仓储设备与自动化
+ITF-14,ITF-14码,warehousing,仓储设备与自动化
+Interleaved 2 of 5,交插二五码,warehousing,仓储设备与自动化
+GS1,GS1标准,warehousing,仓储设备与自动化
+GS1-128,GS1-128条码,warehousing,仓储设备与自动化
+SSCC (Serial Shipping Container Code),系列货运包装箱代码,warehousing,仓储设备与自动化
+GTIN (Global Trade Item Number),全球贸易项目代码,warehousing,仓储设备与自动化
+GLN (Global Location Number),全球位置码,warehousing,仓储设备与自动化
+Human Readable,人工可读字符,warehousing,仓储设备与自动化
+Barcode Label,条码标签,warehousing,仓储设备与自动化
+Label Printer,标签打印机,warehousing,仓储设备与自动化
+Thermal Printer,热敏打印机,warehousing,仓储设备与自动化
+Thermal Transfer Printer,热转印打印机,warehousing,仓储设备与自动化
+Direct Thermal Printer,直热式打印机,warehousing,仓储设备与自动化
+Barcode Ribbon,条码碳带,warehousing,仓储设备与自动化
+Handheld Barcode Scanner,手持条码扫描器,warehousing,仓储设备与自动化
+Wireless Scanner,无线扫描枪,warehousing,仓储设备与自动化
+2D Imager,二维影像扫描器,warehousing,仓储设备与自动化
+Fixed-Mount Scanner,固定式扫描器,warehousing,仓储设备与自动化
+Omnidirectional Scanner,全向扫描平台,warehousing,仓储设备与自动化
+Wearable Scanner,穿戴式扫描器,warehousing,仓储设备与自动化
+Ring Scanner,指环扫描器,warehousing,仓储设备与自动化
+Mobile Computer,移动数据终端,warehousing,仓储设备与自动化
+RF Gun,RF手持终端,warehousing,仓储设备与自动化
+Barcode Verifier,条码检测仪,warehousing,仓储设备与自动化
+RFID,射频识别,warehousing,仓储设备与自动化
+RFID Tag,RFID标签,warehousing,仓储设备与自动化
+RFID Inlay,RFID嵌体,warehousing,仓储设备与自动化
+Passive RFID Tag,无源RFID标签,warehousing,仓储设备与自动化
+Active RFID Tag,有源RFID标签,warehousing,仓储设备与自动化
+RFID Reader,RFID读写器,warehousing,仓储设备与自动化
+Fixed RFID Reader,固定式RFID读写器,warehousing,仓储设备与自动化
+Handheld RFID Reader,手持RFID读写器,warehousing,仓储设备与自动化
+RFID Antenna,RFID天线,warehousing,仓储设备与自动化
+RFID Gate,RFID门禁通道,warehousing,仓储设备与自动化
+RFID Printer,RFID打印机,warehousing,仓储设备与自动化
+RFID Middleware,RFID中间件,warehousing,仓储设备与自动化
+UHF RFID,超高频RFID,warehousing,仓储设备与自动化
+HF RFID,高频RFID,warehousing,仓储设备与自动化
+NFC (Near Field Communication),近场通信,warehousing,仓储设备与自动化
+EPC (Electronic Product Code),电子产品编码,warehousing,仓储设备与自动化
+EPC Gen2,EPC Gen2标准,warehousing,仓储设备与自动化
+Read Rate,识读率,warehousing,仓储设备与自动化
+RTLS (Real-Time Location System),实时定位系统,warehousing,仓储设备与自动化
+BLE Beacon,蓝牙信标,warehousing,仓储设备与自动化
+UWB Tracking,UWB定位,warehousing,仓储设备与自动化
+Temperature Data Logger,温度记录仪,warehousing,仓储设备与自动化

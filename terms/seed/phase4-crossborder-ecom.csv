@@ -1,0 +1,401 @@
+﻿term_en,term_zh,category,subcategory
+FBA (Fulfillment by Amazon),亚马逊物流(FBA),digital-logistics,跨境电商物流
+FBM (Fulfillment by Merchant),卖家自发货(FBM),digital-logistics,跨境电商物流
+Amazon Multi-Channel Fulfillment,亚马逊多渠道配送(MCF),digital-logistics,跨境电商物流
+FBA Small and Light,亚马逊小件轻量计划(Small and Light),digital-logistics,跨境电商物流
+Seller Fulfilled Prime,卖家自配送Prime(SFP),digital-logistics,跨境电商物流
+Amazon SEND,亚马逊跨境物流服务(SEND),digital-logistics,跨境电商物流
+Amazon Easy Ship,亚马逊简易配送服务,digital-logistics,跨境电商物流
+Amazon Seller Flex,亚马逊Seller Flex模式,digital-logistics,跨境电商物流
+Amazon Global Logistics,亚马逊头程物流(AGL),digital-logistics,跨境电商物流
+Amazon Partnered Carrier,亚马逊合作承运商,digital-logistics,跨境电商物流
+Amazon Warehousing and Distribution,亚马逊仓储分销服务(AWD),digital-logistics,跨境电商物流
+Supply Chain by Amazon,亚马逊供应链服务,digital-logistics,跨境电商物流
+Amazon Global Selling,亚马逊全球开店,digital-logistics,跨境电商物流
+Walmart Fulfillment Services,沃尔玛履约服务(WFS),digital-logistics,跨境电商物流
+eBay Global Shipping Program,eBay全球递送计划(GSP),digital-logistics,跨境电商物流
+SpeedPAK,SpeedPAK物流方案,digital-logistics,跨境电商物流
+Shopify Fulfillment Network,Shopify履约网络(SFN),digital-logistics,跨境电商物流
+Shopify Shipping,Shopify物流服务,digital-logistics,跨境电商物流
+Wish Express,Wish快速配送,digital-logistics,跨境电商物流
+WishPost,Wish邮,digital-logistics,跨境电商物流
+AliExpress Standard Shipping,全球速卖通标准物流,digital-logistics,跨境电商物流
+Cainiao Super Economy,菜鸟超级经济全球,digital-logistics,跨境电商物流
+Cainiao Network,菜鸟网络,digital-logistics,跨境电商物流
+Lazada Global Shipping,Lazada全球配送(LGS),digital-logistics,跨境电商物流
+Shopee Logistics Service,Shopee物流服务(SLS),digital-logistics,跨境电商物流
+Shopee Xpress,Shopee自营物流(SPX),digital-logistics,跨境电商物流
+Fulfilled by TikTok,TikTok官方物流(FBT),digital-logistics,跨境电商物流
+Temu full consignment,Temu全托管模式,digital-logistics,跨境电商物流
+Temu semi-consignment,Temu半托管模式,digital-logistics,跨境电商物流
+Temu local warehouse,Temu本地仓,digital-logistics,跨境电商物流
+Wayfair CastleGate,Wayfair仓储物流(CastleGate),digital-logistics,跨境电商物流
+Mercado Libre Fulfillment,美客多仓储配送,digital-logistics,跨境电商物流
+Mercado Envios,美客多物流(Envios),digital-logistics,跨境电商物流
+Jumia Fulfillment,Jumia物流履约,digital-logistics,跨境电商物流
+Coupang Rocket Delivery,酷澎火箭配送,digital-logistics,跨境电商物流
+Coupang Rocket Growth,酷澎火箭成长计划,digital-logistics,跨境电商物流
+Rakuten Super Logistics,乐天超级物流(RSL),digital-logistics,跨境电商物流
+Zalando ZEOS,Zalando运营服务(ZEOS),digital-logistics,跨境电商物流
+JD Worldwide,京东全球售,digital-logistics,跨境电商物流
+JD Logistics,京东物流,digital-logistics,跨境电商物流
+Tmall Global,天猫国际,digital-logistics,跨境电商物流
+cross-border direct mail,跨境直邮,digital-logistics,跨境电商物流
+direct shipping model,直发模式,digital-logistics,跨境电商物流
+bonded stocking model,保税备货模式,digital-logistics,跨境电商物流
+direct purchase import,直购进口,digital-logistics,跨境电商物流
+online purchase bonded import,网购保税进口,digital-logistics,跨境电商物流
+cross-border e-commerce import,跨境电商进口,digital-logistics,跨境电商物流
+white customs clearance,白关,digital-logistics,跨境电商物流
+gray customs clearance,灰关,digital-logistics,跨境电商物流
+overseas warehouse,海外仓,digital-logistics,跨境电商物流
+bonded warehouse,保税仓,digital-logistics,跨境电商物流
+self-operated overseas warehouse,自营海外仓,digital-logistics,跨境电商物流
+third-party overseas warehouse,第三方海外仓,digital-logistics,跨境电商物流
+platform overseas warehouse,平台海外仓,digital-logistics,跨境电商物流
+virtual overseas warehouse,虚拟海外仓,digital-logistics,跨境电商物流
+overseas warehouse final-mile delivery,海外仓尾程配送,digital-logistics,跨境电商物流
+overseas warehouse stocking,海外仓备货,digital-logistics,跨境电商物流
+one-piece dropshipping,一件代发,digital-logistics,跨境电商物流
+dropshipping,代发货模式,digital-logistics,跨境电商物流
+transfer warehouse,中转仓,digital-logistics,跨境电商物流
+FBA transfer warehouse,FBA中转仓,digital-logistics,跨境电商物流
+FBA shipment,FBA货件,digital-logistics,跨境电商物流
+FBA delivery appointment,FBA入仓预约,digital-logistics,跨境电商物流
+first-mile logistics,头程物流,digital-logistics,跨境电商物流
+overseas warehouse stock transfer,海外仓调拨,digital-logistics,跨境电商物流
+Amazon removal order,亚马逊移除订单,digital-logistics,跨境电商物流
+removal and disposal,移除弃置,digital-logistics,跨境电商物流
+FBA return,FBA退货,digital-logistics,跨境电商物流
+FBA return processing,FBA退货处理,digital-logistics,跨境电商物流
+returns warehouse,退货仓,digital-logistics,跨境电商物流
+relabeling service,换标服务,digital-logistics,跨境电商物流
+repackaging service,重新包装服务,digital-logistics,跨境电商物流
+refurbishment service,翻新服务,digital-logistics,跨境电商物流
+Amazon Renewed,亚马逊官方翻新计划(Renewed),digital-logistics,跨境电商物流
+quality inspection,质检,digital-logistics,跨境电商物流
+FBA inventory,FBA库存,digital-logistics,跨境电商物流
+IPI (Inventory Performance Index),库存绩效指标(IPI),digital-logistics,跨境电商物流
+restock limit,补货限制,digital-logistics,跨境电商物流
+excess inventory,冗余库存,digital-logistics,跨境电商物流
+aged inventory,滞销库存,digital-logistics,跨境电商物流
+long-term storage fee,长期仓储费,digital-logistics,跨境电商物流
+monthly storage fee,月度仓储费,digital-logistics,跨境电商物流
+fulfillment fee,履约费,digital-logistics,跨境电商物流
+removal fee,移除费,digital-logistics,跨境电商物流
+disposal fee,弃置费,digital-logistics,跨境电商物流
+FBA inbound fee,FBA入库费,digital-logistics,跨境电商物流
+oversized surcharge,超大件附加费,digital-logistics,跨境电商物流
+prep center,预处理中心,digital-logistics,跨境电商物流
+prep service,预处理服务,digital-logistics,跨境电商物流
+poly-bagging,塑封包装,digital-logistics,跨境电商物流
+labeling requirement,贴标要求,digital-logistics,跨境电商物流
+FNSKU,亚马逊商品标签码(FNSKU),digital-logistics,跨境电商物流
+ASIN,亚马逊标准识别码(ASIN),digital-logistics,跨境电商物流
+SKU,最小库存单位(SKU),digital-logistics,跨境电商物流
+UPC,通用产品代码(UPC),digital-logistics,跨境电商物流
+EAN,欧洲商品码(EAN),digital-logistics,跨境电商物流
+barcode,条形码,digital-logistics,跨境电商物流
+pick and pack,拣货打包,digital-logistics,跨境电商物流
+kitting,组套加工,digital-logistics,跨境电商物流
+bundling,捆绑销售套装,digital-logistics,跨境电商物流
+first in first out,先进先出(FIFO),digital-logistics,跨境电商物流
+cycle count,循环盘点,digital-logistics,跨境电商物流
+stocktaking,库存盘点,digital-logistics,跨境电商物流
+bin location,库位,digital-logistics,跨境电商物流
+wave picking,波次拣货,digital-logistics,跨境电商物流
+order picking,订单拣货,digital-logistics,跨境电商物流
+picking,拣货,digital-logistics,跨境电商物流
+packing,打包,digital-logistics,跨境电商物流
+labeling,贴标,digital-logistics,跨境电商物流
+inbound receiving,入库收货,digital-logistics,跨境电商物流
+putaway,上架,digital-logistics,跨境电商物流
+WMS (warehouse management system),仓库管理系统(WMS),digital-logistics,跨境电商物流
+OMS (order management system),订单管理系统(OMS),digital-logistics,跨境电商物流
+ERP system,企业资源计划系统(ERP),digital-logistics,跨境电商物流
+dedicated line logistics,专线物流,digital-logistics,跨境电商物流
+dedicated line small parcel,专线小包,digital-logistics,跨境电商物流
+US dedicated line,美国专线,digital-logistics,跨境电商物流
+Europe dedicated line,欧洲专线,digital-logistics,跨境电商物流
+UK dedicated line,英国专线,digital-logistics,跨境电商物流
+Germany dedicated line,德国专线,digital-logistics,跨境电商物流
+Middle East dedicated line,中东专线,digital-logistics,跨境电商物流
+UAE dedicated line,阿联酋专线,digital-logistics,跨境电商物流
+Saudi Arabia dedicated line,沙特专线,digital-logistics,跨境电商物流
+Japan dedicated line,日本专线,digital-logistics,跨境电商物流
+Korea dedicated line,韩国专线,digital-logistics,跨境电商物流
+Australia dedicated line,澳洲专线,digital-logistics,跨境电商物流
+New Zealand dedicated line,新西兰专线,digital-logistics,跨境电商物流
+Southeast Asia dedicated line,东南亚专线,digital-logistics,跨境电商物流
+Thailand dedicated line,泰国专线,digital-logistics,跨境电商物流
+Vietnam dedicated line,越南专线,digital-logistics,跨境电商物流
+Malaysia dedicated line,马来西亚专线,digital-logistics,跨境电商物流
+Singapore dedicated line,新加坡专线,digital-logistics,跨境电商物流
+Philippines dedicated line,菲律宾专线,digital-logistics,跨境电商物流
+Indonesia dedicated line,印尼专线,digital-logistics,跨境电商物流
+Mexico dedicated line,墨西哥专线,digital-logistics,跨境电商物流
+Brazil dedicated line,巴西专线,digital-logistics,跨境电商物流
+Chile dedicated line,智利专线,digital-logistics,跨境电商物流
+Canada dedicated line,加拿大专线,digital-logistics,跨境电商物流
+Russia dedicated line,俄罗斯专线,digital-logistics,跨境电商物流
+China-Europe railway dedicated line,中欧铁路专线,digital-logistics,跨境电商物流
+double clearance with tax included,双清包税,digital-logistics,跨境电商物流
+double clearance,双清,digital-logistics,跨境电商物流
+sensitive goods dedicated line,敏感货专线,digital-logistics,跨境电商物流
+battery-goods dedicated line,带电专线,digital-logistics,跨境电商物流
+pure battery dedicated line,纯电池专线,digital-logistics,跨境电商物流
+cosmetics dedicated line,化妆品专线,digital-logistics,跨境电商物流
+food dedicated line,食品专线,digital-logistics,跨境电商物流
+sensitive goods,敏感货,digital-logistics,跨境电商物流
+general goods,普货,digital-logistics,跨境电商物流
+magnetic inspection,磁检,digital-logistics,跨境电商物流
+international small packet,国际小包,digital-logistics,跨境电商物流
+postal channel,邮政渠道,digital-logistics,跨境电商物流
+registered small packet,挂号小包,digital-logistics,跨境电商物流
+unregistered small packet,平邮小包,digital-logistics,跨境电商物流
+ordinary mail,平邮,digital-logistics,跨境电商物流
+surface mail,水陆路邮件,digital-logistics,跨境电商物流
+SAL,空运水陆路(SAL),digital-logistics,跨境电商物流
+eEMS,e邮宝,digital-logistics,跨境电商物流
+EMS,国际特快专递(EMS),digital-logistics,跨境电商物流
+UPU,万国邮政联盟,digital-logistics,跨境电商物流
+designated operator,邮政指定经营者,digital-logistics,跨境电商物流
+EMS Cooperative,EMS合作计划,digital-logistics,跨境电商物流
+IPC (International Post Corporation),国际邮政公司,digital-logistics,跨境电商物流
+S10 standard,S10追踪号标准,digital-logistics,跨境电商物流
+CN22 form,CN22报关签条,digital-logistics,跨境电商物流
+CN23 form,CN23报关单,digital-logistics,跨境电商物流
+postal EDI,邮政电子数据交换,digital-logistics,跨境电商物流
+ICS2,欧盟进境舱单预申报系统(ICS2),digital-logistics,跨境电商物流
+international mail exchange office,国际邮件互换局,digital-logistics,跨境电商物流
+China Post,中国邮政,digital-logistics,跨境电商物流
+Hongkong Post,香港邮政,digital-logistics,跨境电商物流
+Singapore Post,新加坡邮政,digital-logistics,跨境电商物流
+international express,国际快递,digital-logistics,跨境电商物流
+commercial express channel,商业快递渠道,digital-logistics,跨境电商物流
+Big Four international express,四大国际快递,digital-logistics,跨境电商物流
+DHL Express,敦豪快递(DHL),digital-logistics,跨境电商物流
+UPS,联合包裹(UPS),digital-logistics,跨境电商物流
+FedEx,联邦快递(FedEx),digital-logistics,跨境电商物流
+TNT,天地快运(TNT),digital-logistics,跨境电商物流
+SF International,顺丰国际,digital-logistics,跨境电商物流
+Yanwen,燕文物流,digital-logistics,跨境电商物流
+4PX,递四方,digital-logistics,跨境电商物流
+YunExpress,云途物流,digital-logistics,跨境电商物流
+UBI,联宇物流(UBI),digital-logistics,跨境电商物流
+Joom Logistics,Joom物流,digital-logistics,跨境电商物流
+Winit,万邑通,digital-logistics,跨境电商物流
+CDEK,俄罗斯CDEK快递,digital-logistics,跨境电商物流
+Boxberry,俄罗斯Boxberry快递,digital-logistics,跨境电商物流
+Russian Post,俄罗斯邮政,digital-logistics,跨境电商物流
+Asendia,瑞士邮政Asendia,digital-logistics,跨境电商物流
+Spring GDS,荷兰Spring GDS物流,digital-logistics,跨境电商物流
+Landmark Global,Landmark Global物流,digital-logistics,跨境电商物流
+Sinotrans,中外运,digital-logistics,跨境电商物流
+air freight,空运,digital-logistics,跨境电商物流
+sea freight,海运,digital-logistics,跨境电商物流
+rail freight,铁路运输,digital-logistics,跨境电商物流
+FCL,整柜,digital-logistics,跨境电商物流
+LCL,拼箱(LCL),digital-logistics,跨境电商物流
+charter flight,包机,digital-logistics,跨境电商物流
+cargo consolidation,集运,digital-logistics,跨境电商物流
+pickup service,上门取件,digital-logistics,跨境电商物流
+door-to-door,门到门,digital-logistics,跨境电商物流
+ETD,预计离港时间,digital-logistics,跨境电商物流
+ETA,预计到达时间,digital-logistics,跨境电商物流
+return and exchange,退换货,digital-logistics,跨境电商物流
+international returns,国际退货,digital-logistics,跨境电商物流
+cross-border returns,跨境退货,digital-logistics,跨境电商物流
+local returns,本地退货,digital-logistics,跨境电商物流
+overseas warehouse returns,海外仓退货,digital-logistics,跨境电商物流
+return label,退货标签,digital-logistics,跨境电商物流
+prepaid return label,预付退货标签,digital-logistics,跨境电商物流
+return shipping fee,退货运费,digital-logistics,跨境电商物流
+RMA,退货授权(RMA),digital-logistics,跨境电商物流
+return reason code,退货原因代码,digital-logistics,跨境电商物流
+refund without return,退款不退货,digital-logistics,跨境电商物流
+return abuse,退货滥用,digital-logistics,跨境电商物流
+customer return,顾客退货,digital-logistics,跨境电商物流
+liquidation,清货处理,digital-logistics,跨境电商物流
+disposal,销毁处理,digital-logistics,跨境电商物流
+donation processing,捐赠处理,digital-logistics,跨境电商物流
+resale of returns,退货再销售,digital-logistics,跨境电商物流
+eBay Money Back Guarantee,eBay退款保证,digital-logistics,跨境电商物流
+return window,退货期限,digital-logistics,跨境电商物流
+reverse logistics,逆向物流,digital-logistics,跨境电商物流
+returns management,退货管理,digital-logistics,跨境电商物流
+unsellable inventory,不可售库存,digital-logistics,跨境电商物流
+sellable inventory,可售库存,digital-logistics,跨境电商物流
+IOSS,欧盟进口一站式申报(IOSS),digital-logistics,跨境电商物流
+OSS,欧盟一站式申报(OSS),digital-logistics,跨境电商物流
+VOEC,挪威增值税申报制度(VOEC),digital-logistics,跨境电商物流
+EU VAT,欧盟增值税,digital-logistics,跨境电商物流
+UK VAT,英国增值税,digital-logistics,跨境电商物流
+VAT registration,增值税注册,digital-logistics,跨境电商物流
+VAT filing,增值税申报,digital-logistics,跨境电商物流
+VAT number,增值税号,digital-logistics,跨境电商物流
+EORI number,欧盟经营者识别号(EORI),digital-logistics,跨境电商物流
+IOR (Importer of Record),进口记录人(IOR),digital-logistics,跨境电商物流
+fiscal representative,税务代表,digital-logistics,跨境电商物流
+tax agent,税务代理,digital-logistics,跨境电商物流
+tax number,税号,digital-logistics,跨境电商物流
+US sales tax,美国销售税,digital-logistics,跨境电商物流
+economic nexus,经济关联(economic nexus),digital-logistics,跨境电商物流
+marketplace facilitator tax,平台代扣代缴税,digital-logistics,跨境电商物流
+withholding tax,预扣税,digital-logistics,跨境电商物流
+HS code,海关编码(HS Code),digital-logistics,跨境电商物流
+customs value,完税价格,digital-logistics,跨境电商物流
+customs duty,关税,digital-logistics,跨境电商物流
+import VAT,进口增值税,digital-logistics,跨境电商物流
+excise tax,消费税,digital-logistics,跨境电商物流
+de minimis,低值免税门槛,digital-logistics,跨境电商物流
+Section 321,美国关税法第321条,digital-logistics,跨境电商物流
+USD 800 de minimis,800美元免税额度,digital-logistics,跨境电商物流
+Type 86 entry,86类申报(T86),digital-logistics,跨境电商物流
+formal entry,正式报关,digital-logistics,跨境电商物流
+informal entry,非正式报关,digital-logistics,跨境电商物流
+Section 301 tariff,301条款关税,digital-logistics,跨境电商物流
+reciprocal tariff,对等关税,digital-logistics,跨境电商物流
+destination country clearance,目的国清关,digital-logistics,跨境电商物流
+customs clearance agent,清关代理,digital-logistics,跨境电商物流
+customs broker,报关行,digital-logistics,跨境电商物流
+export declaration,出口报关单,digital-logistics,跨境电商物流
+import declaration,进口报关单,digital-logistics,跨境电商物流
+customs inspection,海关查验,digital-logistics,跨境电商物流
+customs release,海关放行,digital-logistics,跨境电商物流
+customs detention,海关扣货,digital-logistics,跨境电商物流
+customs confiscation,海关没收,digital-logistics,跨境电商物流
+CE marking,欧盟CE认证,digital-logistics,跨境电商物流
+UKCA marking,英国UKCA认证,digital-logistics,跨境电商物流
+RoHS,电子电气设备有害物质限制(RoHS),digital-logistics,跨境电商物流
+REACH,欧盟化学品注册评估法规(REACH),digital-logistics,跨境电商物流
+FCC certification,美国FCC认证,digital-logistics,跨境电商物流
+FDA registration,美国FDA注册,digital-logistics,跨境电商物流
+CPC certificate,儿童产品证书(CPC),digital-logistics,跨境电商物流
+CPSIA,美国消费品安全改进法案(CPSIA),digital-logistics,跨境电商物流
+Prop 65,加州65号提案(Prop 65),digital-logistics,跨境电商物流
+GPSR,欧盟通用产品安全法规(GPSR),digital-logistics,跨境电商物流
+declaration of conformity,符合性声明,digital-logistics,跨境电商物流
+EPR,生产者责任延伸(EPR),digital-logistics,跨境电商物流
+LUCID,德国包装注册(LUCID),digital-logistics,跨境电商物流
+VerpackG,德国包装法(VerpackG),digital-logistics,跨境电商物流
+WEEE,废弃电子电气设备指令(WEEE),digital-logistics,跨境电商物流
+EU Battery Regulation,欧盟电池法规,digital-logistics,跨境电商物流
+UK Plastic Packaging Tax,英国塑料包装税,digital-logistics,跨境电商物流
+Triman logo,法国Triman标识,digital-logistics,跨境电商物流
+GDPR,欧盟通用数据保护条例(GDPR),digital-logistics,跨境电商物流
+DAC7,欧盟DAC7指令,digital-logistics,跨境电商物流
+ISF (10+2),美国进口安全申报(ISF),digital-logistics,跨境电商物流
+CBP,美国海关与边境保护局,digital-logistics,跨境电商物流
+HMRC,英国税务海关总署(HMRC),digital-logistics,跨境电商物流
+certificate of origin,原产地证书,digital-logistics,跨境电商物流
+anti-dumping duty,反倾销税,digital-logistics,跨境电商物流
+countervailing duty,反补贴税,digital-logistics,跨境电商物流
+prohibited and restricted items,禁限运物品,digital-logistics,跨境电商物流
+export control,出口管制,digital-logistics,跨境电商物流
+dual-use items,两用物项,digital-logistics,跨境电商物流
+DGD (dangerous goods declaration),危险品申报(DGD),digital-logistics,跨境电商物流
+UN38.3,锂电池UN38.3测试,digital-logistics,跨境电商物流
+MSDS,化学品安全技术说明书(MSDS),digital-logistics,跨境电商物流
+IATA DGR,国际航空运输协会危险品规则(DGR),digital-logistics,跨境电商物流
+PI965,锂电池空运包装指令PI965,digital-logistics,跨境电商物流
+PI967,锂电池随货空运指令PI967,digital-logistics,跨境电商物流
+lithium battery mark,锂电池标记,digital-logistics,跨境电商物流
+product recall,产品召回,digital-logistics,跨境电商物流
+product compliance,产品合规,digital-logistics,跨境电商物流
+labeling compliance,标签合规,digital-logistics,跨境电商物流
+supervision code 9610,监管代码9610(直购进口),digital-logistics,跨境电商物流
+supervision code 1210,监管代码1210(保税备货),digital-logistics,跨境电商物流
+supervision code 9710,监管代码9710(B2B直接出口),digital-logistics,跨境电商物流
+supervision code 9810,监管代码9810(出口海外仓),digital-logistics,跨境电商物流
+supervision code 1039,监管代码1039(市场采购),digital-logistics,跨境电商物流
+supervision code 0110,监管代码0110(一般贸易),digital-logistics,跨境电商物流
+market procurement trade,市场采购贸易,digital-logistics,跨境电商物流
+cross-border e-commerce comprehensive pilot zone,跨境电商综合试验区,digital-logistics,跨境电商物流
+bonded logistics center (Type B),保税物流中心(B型),digital-logistics,跨境电商物流
+comprehensive bonded zone,综合保税区,digital-logistics,跨境电商物流
+last-mile delivery,最后一公里配送,digital-logistics,跨境电商物流
+last-mile carrier,尾程派送商,digital-logistics,跨境电商物流
+USPS,美国邮政(USPS),digital-logistics,跨境电商物流
+USPS Ground Advantage,USPS经济地面服务,digital-logistics,跨境电商物流
+USPS Priority Mail International,USPS国际优先邮件,digital-logistics,跨境电商物流
+First-Class Package International Service,USPS国际经济小包,digital-logistics,跨境电商物流
+UPS SurePost,UPS电商末端服务(SurePost),digital-logistics,跨境电商物流
+UPS Mail Innovations,UPS邮件创新服务(UMI),digital-logistics,跨境电商物流
+FedEx Ground Economy,联邦快递经济地面服务,digital-logistics,跨境电商物流
+DHL eCommerce,DHL电商物流,digital-logistics,跨境电商物流
+DHL Paket,DHL德国包裹,digital-logistics,跨境电商物流
+DPD,DPD快递,digital-logistics,跨境电商物流
+Evri,Evri快递(原Hermes),digital-logistics,跨境电商物流
+GLS,GLS快递,digital-logistics,跨境电商物流
+Royal Mail,英国皇家邮政,digital-logistics,跨境电商物流
+PostNL,荷兰邮政(PostNL),digital-logistics,跨境电商物流
+La Poste,法国邮政(La Poste),digital-logistics,跨境电商物流
+Colissimo,法国Colissimo包裹服务,digital-logistics,跨境电商物流
+Chronopost,法国Chronopost快递,digital-logistics,跨境电商物流
+Bpost,比利时邮政(Bpost),digital-logistics,跨境电商物流
+PostNord,北欧邮政(PostNord),digital-logistics,跨境电商物流
+Deutsche Post,德国邮政,digital-logistics,跨境电商物流
+Austrian Post,奥地利邮政,digital-logistics,跨境电商物流
+Swiss Post,瑞士邮政,digital-logistics,跨境电商物流
+Correos,西班牙邮政(Correos),digital-logistics,跨境电商物流
+SEUR,西班牙SEUR快递,digital-logistics,跨境电商物流
+Poste Italiane,意大利邮政,digital-logistics,跨境电商物流
+InPost,波兰InPost快递,digital-logistics,跨境电商物流
+Australia Post,澳大利亚邮政,digital-logistics,跨境电商物流
+Canada Post,加拿大邮政,digital-logistics,跨境电商物流
+Purolator,加拿大Purolator快递,digital-logistics,跨境电商物流
+Japan Post,日本邮政,digital-logistics,跨境电商物流
+Yu-Pack,日本邮政包裹(Yu-Pack),digital-logistics,跨境电商物流
+Sagawa Express,佐川急便,digital-logistics,跨境电商物流
+Yamato Transport,雅玛多运输(黑猫宅急便),digital-logistics,跨境电商物流
+Korea Post,韩国邮政,digital-logistics,跨境电商物流
+CJ Logistics,韩国CJ物流,digital-logistics,跨境电商物流
+Correios,巴西邮政(Correios),digital-logistics,跨境电商物流
+Aramex,中东Aramex快递,digital-logistics,跨境电商物流
+iMile,iMile快递,digital-logistics,跨境电商物流
+J&T Express,极兔速递,digital-logistics,跨境电商物流
+Ninja Van,东南亚Ninja Van快递,digital-logistics,跨境电商物流
+Flash Express,泰国Flash快递,digital-logistics,跨境电商物流
+Kerry Express,泰国嘉里快递(Kerry Express),digital-logistics,跨境电商物流
+Best Express,百世快递(东南亚),digital-logistics,跨境电商物流
+JNE,印尼JNE快递,digital-logistics,跨境电商物流
+Giao Hang Nhanh,越南GHN快递,digital-logistics,跨境电商物流
+Viettel Post,越南军队邮政(Viettel Post),digital-logistics,跨境电商物流
+proof of delivery,签收凭证(POD),digital-logistics,跨境电商物流
+delivery confirmation,妥投确认,digital-logistics,跨境电商物流
+delivered,妥投,digital-logistics,跨境电商物流
+delivery attempt,投递尝试,digital-logistics,跨境电商物流
+failed delivery,投递失败,digital-logistics,跨境电商物流
+redelivery,再次投递,digital-logistics,跨境电商物流
+delivery notification,投递通知,digital-logistics,跨境电商物流
+RTS (Return to Sender),退回发件人(RTS),digital-logistics,跨境电商物流
+pickup point,自提点,digital-logistics,跨境电商物流
+parcel locker,智能快递柜,digital-logistics,跨境电商物流
+PUDO,自提代收点(PUDO),digital-logistics,跨境电商物流
+Amazon Locker,亚马逊自提柜,digital-logistics,跨境电商物流
+address correction fee,地址修正费,digital-logistics,跨境电商物流
+remote area,偏远地区,digital-logistics,跨境电商物流
+parcel insurance,包裹保险,digital-logistics,跨境电商物流
+declared value,申报价值,digital-logistics,跨境电商物流
+lost parcel,丢件,digital-logistics,跨境电商物流
+damaged parcel,破损件,digital-logistics,跨境电商物流
+tracking number,运单号,digital-logistics,跨境电商物流
+parcel tracking,包裹追踪,digital-logistics,跨境电商物流
+COD (cash on delivery),货到付款(COD),digital-logistics,跨境电商物流
+delivery lead time,配送时效,digital-logistics,跨境电商物流
+delivery promise,配送承诺,digital-logistics,跨境电商物流
+SLA,服务时效承诺(SLA),digital-logistics,跨境电商物流
+white glove delivery,白手套配送,digital-logistics,跨境电商物流
+appointment delivery,预约配送,digital-logistics,跨境电商物流
+self pickup,自提,digital-logistics,跨境电商物流
+volumetric weight,体积重量,digital-logistics,跨境电商物流
+fuel surcharge,燃油附加费,digital-logistics,跨境电商物流
+peak season surcharge,旺季附加费,digital-logistics,跨境电商物流
+first weight,首重,digital-logistics,跨境电商物流
+additional weight,续重,digital-logistics,跨境电商物流
+material fee,材料费,digital-logistics,跨境电商物流
+registration fee,挂号费,digital-logistics,跨境电商物流
+oversized parcel,超尺寸包裹,digital-logistics,跨境电商物流
+last-mile logistics,尾程物流,digital-logistics,跨境电商物流
+courier,快递员,digital-logistics,跨境电商物流

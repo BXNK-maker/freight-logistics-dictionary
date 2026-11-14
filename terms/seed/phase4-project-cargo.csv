@@ -1,0 +1,401 @@
+﻿term_en,term_zh,category,subcategory
+project cargo,项目物流货物,special-cargo,项目物流与特种货
+heavy lift cargo,重大件货物,special-cargo,项目物流与特种货
+out of gauge cargo,超限货物,special-cargo,项目物流与特种货
+breakbulk cargo,件杂货,special-cargo,项目物流与特种货
+abnormal load,超常载荷,special-cargo,项目物流与特种货
+abnormal indivisible load,不可分割超限载荷,special-cargo,项目物流与特种货
+indivisible load,不可分割货物,special-cargo,项目物流与特种货
+superload,超大件运输,special-cargo,项目物流与特种货
+over dimensional cargo,超尺寸货物,special-cargo,项目物流与特种货
+excess height,超高,special-cargo,项目物流与特种货
+excess width,超宽,special-cargo,项目物流与特种货
+excess length,超长,special-cargo,项目物流与特种货
+excess weight,超重,special-cargo,项目物流与特种货
+heavy lift vessel,重大件运输船,special-cargo,项目物流与特种货
+semi-submersible vessel,半潜船,special-cargo,项目物流与特种货
+module carrier,模块运输船,special-cargo,项目物流与特种货
+breakbulk carrier,件杂货船,special-cargo,项目物流与特种货
+deck cargo,甲板货,special-cargo,项目物流与特种货
+weather deck stowage,露天甲板积载,special-cargo,项目物流与特种货
+under deck stowage,舱内积载,special-cargo,项目物流与特种货
+crane barge,起重驳船,special-cargo,项目物流与特种货
+sheerleg crane vessel,人字架起重船,special-cargo,项目物流与特种货
+floating crane,浮吊,special-cargo,项目物流与特种货
+heavy lift crane ship,重大件起重船,special-cargo,项目物流与特种货
+lifting point,吊点,special-cargo,项目物流与特种货
+lifting lug,吊耳,special-cargo,项目物流与特种货
+lifting beam,吊梁,special-cargo,项目物流与特种货
+spreader bar,吊排,special-cargo,项目物流与特种货
+spreader frame,吊架,special-cargo,项目物流与特种货
+shackle,卸扣,special-cargo,项目物流与特种货
+bow shackle,弓形卸扣,special-cargo,项目物流与特种货
+sling,吊索,special-cargo,项目物流与特种货
+wire rope sling,钢丝绳吊索,special-cargo,项目物流与特种货
+chain sling,链条吊索,special-cargo,项目物流与特种货
+webbing sling,织带吊索,special-cargo,项目物流与特种货
+round sling,环形吊带,special-cargo,项目物流与特种货
+master link,主链接环,special-cargo,项目物流与特种货
+eye bolt,吊环螺栓,special-cargo,项目物流与特种货
+pad eye,眼板,special-cargo,项目物流与特种货
+derrick crane,桅杆式起重机,special-cargo,项目物流与特种货
+gantry crane,龙门起重机,special-cargo,项目物流与特种货
+tower crane,塔式起重机,special-cargo,项目物流与特种货
+crawler crane,履带式起重机,special-cargo,项目物流与特种货
+all terrain crane,全地面起重机,special-cargo,项目物流与特种货
+truck crane,汽车起重机,special-cargo,项目物流与特种货
+lattice boom crane,桁架臂起重机,special-cargo,项目物流与特种货
+telescopic crane,伸缩臂起重机,special-cargo,项目物流与特种货
+boom length,起重臂长度,special-cargo,项目物流与特种货
+load radius,起重幅度,special-cargo,项目物流与特种货
+load chart,起重机载荷表,special-cargo,项目物流与特种货
+rated capacity,额定起重量,special-cargo,项目物流与特种货
+superlift,超起装置,special-cargo,项目物流与特种货
+counterweight,配重,special-cargo,项目物流与特种货
+outrigger,起重机支腿,special-cargo,项目物流与特种货
+outrigger pad,支腿垫板,special-cargo,项目物流与特种货
+crane mat,吊车垫板,special-cargo,项目物流与特种货
+ground bearing pressure,地面承载力,special-cargo,项目物流与特种货
+crane pad design,吊车站位地基设计,special-cargo,项目物流与特种货
+rigging,索具,special-cargo,项目物流与特种货
+rigger,索具工,special-cargo,项目物流与特种货
+rigging plan,吊装索具方案,special-cargo,项目物流与特种货
+lift plan,吊装方案,special-cargo,项目物流与特种货
+critical lift,关键吊装作业,special-cargo,项目物流与特种货
+tandem lift,双机抬吊,special-cargo,项目物流与特种货
+tailing,溜尾作业,special-cargo,项目物流与特种货
+tailing crane,溜尾吊车,special-cargo,项目物流与特种货
+upending,竖立翻身作业,special-cargo,项目物流与特种货
+load test,载荷试验,special-cargo,项目物流与特种货
+proof load test,验证载荷试验,special-cargo,项目物流与特种货
+weighing,设备称重,special-cargo,项目物流与特种货
+weight witness,称重见证,special-cargo,项目物流与特种货
+center of gravity,重心,special-cargo,项目物流与特种货
+vertical center of gravity,垂直重心,special-cargo,项目物流与特种货
+center of gravity mark,重心标记,special-cargo,项目物流与特种货
+load distribution,载荷分布,special-cargo,项目物流与特种货
+lashing,绑扎,special-cargo,项目物流与特种货
+lashing plan,绑扎方案,special-cargo,项目物流与特种货
+sea fastening,海上固定,special-cargo,项目物流与特种货
+sea fastening design,海上固定设计,special-cargo,项目物流与特种货
+lashing chain,绑扎链,special-cargo,项目物流与特种货
+turnbuckle,螺旋扣,special-cargo,项目物流与特种货
+chain binder,紧链器,special-cargo,项目物流与特种货
+twistlock,转锁,special-cargo,项目物流与特种货
+stacking cone,堆叠锥,special-cargo,项目物流与特种货
+bridge fitting,桥型连接件,special-cargo,项目物流与特种货
+cribbing,垫木,special-cargo,项目物流与特种货
+dunnage,垫料,special-cargo,项目物流与特种货
+securing,货物固定,special-cargo,项目物流与特种货
+welded stop,焊接止挡,special-cargo,项目物流与特种货
+buttress support,支撑托架,special-cargo,项目物流与特种货
+flat rack,框架箱,special-cargo,项目物流与特种货
+20ft flat rack,20英尺框架箱,special-cargo,项目物流与特种货
+40ft flat rack,40英尺框架箱,special-cargo,项目物流与特种货
+collapsible flat rack,可折叠框架箱,special-cargo,项目物流与特种货
+fixed end flat rack,固定端框架箱,special-cargo,项目物流与特种货
+open top container,开顶箱,special-cargo,项目物流与特种货
+hard top container,硬顶箱,special-cargo,项目物流与特种货
+open side container,侧开式集装箱,special-cargo,项目物流与特种货
+platform container,平台箱,special-cargo,项目物流与特种货
+half height container,半高箱,special-cargo,项目物流与特种货
+high cube container,超高集装箱,special-cargo,项目物流与特种货
+pallet wide container,托盘宽箱,special-cargo,项目物流与特种货
+gooseneck container,鹅颈箱,special-cargo,项目物流与特种货
+tunnel container,隧道箱,special-cargo,项目物流与特种货
+ventilated container,通风集装箱,special-cargo,项目物流与特种货
+tank container,罐式集装箱,special-cargo,项目物流与特种货
+swap body,交换箱体,special-cargo,项目物流与特种货
+bitumen tank,沥青运输罐,special-cargo,项目物流与特种货
+gas tank container,气体罐箱,special-cargo,项目物流与特种货
+cryogenic tank container,深冷罐式集装箱,special-cargo,项目物流与特种货
+flexitank,集装箱液袋,special-cargo,项目物流与特种货
+liner bag,集装箱内衬袋,special-cargo,项目物流与特种货
+FIBC,吨袋,special-cargo,项目物流与特种货
+bulk container,散货集装箱,special-cargo,项目物流与特种货
+heavy lift flat rack,重大件专用框架箱,special-cargo,项目物流与特种货
+lowbed trailer,低平板挂车,special-cargo,项目物流与特种货
+extendable lowbed,可加长低平板挂车,special-cargo,项目物流与特种货
+modular trailer,模块化平板挂车,special-cargo,项目物流与特种货
+self-propelled modular transporter,自行式模块运输车,special-cargo,项目物流与特种货
+axle line,轴线,special-cargo,项目物流与特种货
+pendulum axle,摆动轴线,special-cargo,项目物流与特种货
+hydraulic suspension,液压悬挂,special-cargo,项目物流与特种货
+hydraulic steering,液压转向,special-cargo,项目物流与特种货
+module combination,模块组合编组,special-cargo,项目物流与特种货
+bridge girder,桥式梁,special-cargo,项目物流与特种货
+tower adapter,塔接装置,special-cargo,项目物流与特种货
+beam bridge configuration,梁桥组合编组,special-cargo,项目物流与特种货
+dolly,片车,special-cargo,项目物流与特种货
+gooseneck trailer,鹅颈挂车,special-cargo,项目物流与特种货
+detachable gooseneck trailer,可拆式鹅颈挂车,special-cargo,项目物流与特种货
+hydraulic gooseneck,液压鹅颈,special-cargo,项目物流与特种货
+steerable trailer,可转向平板车,special-cargo,项目物流与特种货
+multi-wheel trailer,多轮平板车,special-cargo,项目物流与特种货
+hydraulic platform trailer,液压平板车,special-cargo,项目物流与特种货
+push pull configuration,前拉后推编组,special-cargo,项目物流与特种货
+tractor unit,牵引车,special-cargo,项目物流与特种货
+heavy haul tractor,重型牵引车,special-cargo,项目物流与特种货
+escort vehicle,护送车,special-cargo,项目物流与特种货
+pilot car,引导车,special-cargo,项目物流与特种货
+police escort,警车护送,special-cargo,项目物流与特种货
+route survey,线路勘察,special-cargo,项目物流与特种货
+route approval,线路审批,special-cargo,项目物流与特种货
+axle load,轴荷,special-cargo,项目物流与特种货
+gross vehicle weight,车辆总重,special-cargo,项目物流与特种货
+gross combination weight,汽车列车总重,special-cargo,项目物流与特种货
+bridge formula,桥梁轴重公式,special-cargo,项目物流与特种货
+bridge capacity assessment,桥梁承载力评估,special-cargo,项目物流与特种货
+bridge reinforcement,桥梁加固,special-cargo,项目物流与特种货
+temporary bridge,临时便桥,special-cargo,项目物流与特种货
+bailey bridge,贝雷桥,special-cargo,项目物流与特种货
+culvert crossing,涵洞穿越,special-cargo,项目物流与特种货
+level crossing,铁路平交道口,special-cargo,项目物流与特种货
+rail crossing agreement,铁路道口穿越协议,special-cargo,项目物流与特种货
+utility relocation,地下管线迁移,special-cargo,项目物流与特种货
+power line lift,电力线路抬线,special-cargo,项目物流与特种货
+overhead clearance,道路上空净空,special-cargo,项目物流与特种货
+horizontal clearance,道路横向净空,special-cargo,项目物流与特种货
+road gradient,道路纵坡,special-cargo,项目物流与特种货
+gradeability,爬坡能力,special-cargo,项目物流与特种货
+swept path analysis,转弯扫掠路径分析,special-cargo,项目物流与特种货
+turning radius,转弯半径,special-cargo,项目物流与特种货
+ground clearance,车辆离地间隙,special-cargo,项目物流与特种货
+load transfer platform,载荷换装平台,special-cargo,项目物流与特种货
+jacking and skidding,顶升滑移作业,special-cargo,项目物流与特种货
+skid shoe,滑靴,special-cargo,项目物流与特种货
+skidding,滑移运输,special-cargo,项目物流与特种货
+strand jack,穿心式液压千斤顶,special-cargo,项目物流与特种货
+strand jacking,穿心千斤顶提升作业,special-cargo,项目物流与特种货
+hydraulic gantry,液压门式起重系统,special-cargo,项目物流与特种货
+gantry lift system,门式提升系统,special-cargo,项目物流与特种货
+transport trolley,搬运平车,special-cargo,项目物流与特种货
+remote control steering,遥控转向系统,special-cargo,项目物流与特种货
+kingpin,牵引销,special-cargo,项目物流与特种货
+fifth wheel,第五轮鞍座,special-cargo,项目物流与特种货
+wheelbase,轴距,special-cargo,项目物流与特种货
+weighbridge,地磅,special-cargo,项目物流与特种货
+oversize permit,超限运输许可证,special-cargo,项目物流与特种货
+overweight permit,超重运输许可证,special-cargo,项目物流与特种货
+special transport permit,特种车辆运输许可,special-cargo,项目物流与特种货
+superload permit,超大件运输许可,special-cargo,项目物流与特种货
+permit application,运输许可申请,special-cargo,项目物流与特种货
+escort requirement,护送要求,special-cargo,项目物流与特种货
+travel time window,通行时间窗口,special-cargo,项目物流与特种货
+night transport,夜间运输,special-cargo,项目物流与特种货
+road closure,道路封闭,special-cargo,项目物流与特种货
+traffic management plan,交通组织方案,special-cargo,项目物流与特种货
+temporary road works,临时道路工程,special-cargo,项目物流与特种货
+road repair commitment,道路修复承诺,special-cargo,项目物流与特种货
+permit validity,许可有效期,special-cargo,项目物流与特种货
+multi-jurisdiction permit,跨区域运输许可,special-cargo,项目物流与特种货
+height gauge,限高杆,special-cargo,项目物流与特种货
+obstacle removal,障碍物清除,special-cargo,项目物流与特种货
+ro-ro transport,滚装运输,special-cargo,项目物流与特种货
+ro-ro vessel,滚装船,special-cargo,项目物流与特种货
+ro-ro ramp,滚装跳板,special-cargo,项目物流与特种货
+stern ramp,尾跳板,special-cargo,项目物流与特种货
+bow ramp,首跳板,special-cargo,项目物流与特种货
+side ramp,舷侧跳板,special-cargo,项目物流与特种货
+internal ramp,内部跳板,special-cargo,项目物流与特种货
+ramp load capacity,跳板承载能力,special-cargo,项目物流与特种货
+ramp angle,跳板坡角,special-cargo,项目物流与特种货
+hoistable deck,升降甲板,special-cargo,项目物流与特种货
+car carrier,汽车运输船,special-cargo,项目物流与特种货
+pure car and truck carrier,纯汽车和卡车运输船,special-cargo,项目物流与特种货
+con-ro vessel,集装箱滚装船,special-cargo,项目物流与特种货
+ro-lo vessel,滚装吊装两用船,special-cargo,项目物流与特种货
+lift on lift off,吊上吊下作业,special-cargo,项目物流与特种货
+mafi trailer,滚装低平板拖车,special-cargo,项目物流与特种货
+roll trailer,滚装挂车,special-cargo,项目物流与特种货
+tow tractor,场内牵引车,special-cargo,项目物流与特种货
+lashing of vehicles,车辆绑扎,special-cargo,项目物流与特种货
+wheel load,轮载,special-cargo,项目物流与特种货
+drive away delivery,自行驾驶交付,special-cargo,项目物流与特种货
+loading master,装载作业长,special-cargo,项目物流与特种货
+port captain,港口船长,special-cargo,项目物流与特种货
+mooring,系泊作业,special-cargo,项目物流与特种货
+berthing,靠泊作业,special-cargo,项目物流与特种货
+load out,装船出运,special-cargo,项目物流与特种货
+load out ramp,装船滑道,special-cargo,项目物流与特种货
+heavy lift quayside,重件码头,special-cargo,项目物流与特种货
+grating,格栅板,special-cargo,项目物流与特种货
+EPC contractor,工程总承包商,special-cargo,项目物流与特种货
+EPC contract,工程总承包合同,special-cargo,项目物流与特种货
+FEED study,前端工程设计研究,special-cargo,项目物流与特种货
+PMC,项目管理承包商,special-cargo,项目物流与特种货
+owner's engineer,业主工程师,special-cargo,项目物流与特种货
+main contractor,主承包商,special-cargo,项目物流与特种货
+subcontractor,分包商,special-cargo,项目物流与特种货
+project forwarder,项目物流承运商,special-cargo,项目物流与特种货
+freight forwarder,货运代理,special-cargo,项目物流与特种货
+logistics service provider,物流服务提供商,special-cargo,项目物流与特种货
+heavy lift operator,重件吊装作业商,special-cargo,项目物流与特种货
+transport contractor,运输承包商,special-cargo,项目物流与特种货
+lifting engineer,吊装工程师,special-cargo,项目物流与特种货
+transport engineer,运输工程师,special-cargo,项目物流与特种货
+HSE manager,健康安全环保经理,special-cargo,项目物流与特种货
+method statement,施工方法陈述,special-cargo,项目物流与特种货
+job hazard analysis,作业危害分析,special-cargo,项目物流与特种货
+risk register,风险登记册,special-cargo,项目物流与特种货
+toolbox talk,班前安全会,special-cargo,项目物流与特种货
+permit to work,作业许可证,special-cargo,项目物流与特种货
+lifting supervisor,吊装监督员,special-cargo,项目物流与特种货
+banksman,吊装信号指挥员,special-cargo,项目物流与特种货
+load test certificate,载荷试验证书,special-cargo,项目物流与特种货
+lifting certificate,吊装作业证书,special-cargo,项目物流与特种货
+inspection certificate,检验证书,special-cargo,项目物流与特种货
+material certificate,材料证明书,special-cargo,项目物流与特种货
+mill test certificate,工厂试验证书,special-cargo,项目物流与特种货
+certificate of conformity,合格证书,special-cargo,项目物流与特种货
+packing list,装箱单,special-cargo,项目物流与特种货
+commercial invoice,商业发票,special-cargo,项目物流与特种货
+bill of lading,提单,special-cargo,项目物流与特种货
+mate's receipt,大副收据,special-cargo,项目物流与特种货
+shipping order,装货单,special-cargo,项目物流与特种货
+delivery order,提货单,special-cargo,项目物流与特种货
+cargo manifest,货物舱单,special-cargo,项目物流与特种货
+stowage plan,积载图,special-cargo,项目物流与特种货
+lashing certificate,绑扎检验证书,special-cargo,项目物流与特种货
+seaworthiness survey,适航性检验,special-cargo,项目物流与特种货
+cargo condition survey,货况检验,special-cargo,项目物流与特种货
+marine surveyor,海事检验师,special-cargo,项目物流与特种货
+independent surveyor,独立检验人,special-cargo,项目物流与特种货
+warranty surveyor,海事保证检验师,special-cargo,项目物流与特种货
+marine warranty survey,海事保证检验,special-cargo,项目物流与特种货
+pre-loading survey,装船前检验,special-cargo,项目物流与特种货
+sail away certificate,开航证书,special-cargo,项目物流与特种货
+marine cargo insurance,海运货物保险,special-cargo,项目物流与特种货
+cargo insurance certificate,货物保险单,special-cargo,项目物流与特种货
+institute cargo clauses,协会货物条款,special-cargo,项目物流与特种货
+all risks coverage,一切险,special-cargo,项目物流与特种货
+carrier liability,承运人责任,special-cargo,项目物流与特种货
+package limitation,单位责任限额,special-cargo,项目物流与特种货
+charter party,租船合同,special-cargo,项目物流与特种货
+voyage charter,航次租船,special-cargo,项目物流与特种货
+time charter,定期租船,special-cargo,项目物流与特种货
+fixture note,订租确认书,special-cargo,项目物流与特种货
+laycan,受载期,special-cargo,项目物流与特种货
+laytime,装卸时间,special-cargo,项目物流与特种货
+demurrage,滞期费,special-cargo,项目物流与特种货
+despatch money,速遣费,special-cargo,项目物流与特种货
+notice of readiness,装卸准备就绪通知书,special-cargo,项目物流与特种货
+statement of facts,装卸事实记录,special-cargo,项目物流与特种货
+dangerous goods declaration,危险货物申报单,special-cargo,项目物流与特种货
+CTU Code,货物运输单元装载操作规范,special-cargo,项目物流与特种货
+CSS Code,货物积载与绑扎操作规范,special-cargo,项目物流与特种货
+stowage and securing manual,积载与绑扎手册,special-cargo,项目物流与特种货
+multimodal transport document,多式联运单据,special-cargo,项目物流与特种货
+FIATA bill of lading,FIATA多式联运提单,special-cargo,项目物流与特种货
+house bill of lading,货运代理提单,special-cargo,项目物流与特种货
+master bill of lading,船东提单,special-cargo,项目物流与特种货
+switch bill of lading,换发提单,special-cargo,项目物流与特种货
+through bill of lading,全程联运提单,special-cargo,项目物流与特种货
+clean bill of lading,清洁提单,special-cargo,项目物流与特种货
+shipped on board bill of lading,已装船提单,special-cargo,项目物流与特种货
+oil and gas logistics,油气工程物流,special-cargo,项目物流与特种货
+upstream logistics,上游油气物流,special-cargo,项目物流与特种货
+drilling rig transport,钻井设备运输,special-cargo,项目物流与特种货
+rig move,钻机搬迁,special-cargo,项目物流与特种货
+drill pipe,钻杆,special-cargo,项目物流与特种货
+casing pipe,套管,special-cargo,项目物流与特种货
+OCTG,油井专用管材,special-cargo,项目物流与特种货
+wellhead equipment,井口装置,special-cargo,项目物流与特种货
+christmas tree,采油树,special-cargo,项目物流与特种货
+mud pump,泥浆泵,special-cargo,项目物流与特种货
+shale shaker,泥浆振动筛,special-cargo,项目物流与特种货
+drillship,钻井船,special-cargo,项目物流与特种货
+jack-up rig,自升式钻井平台,special-cargo,项目物流与特种货
+semi-submersible platform,半潜式平台,special-cargo,项目物流与特种货
+tension leg platform,张力腿平台,special-cargo,项目物流与特种货
+spar platform,单柱式平台,special-cargo,项目物流与特种货
+offshore platform,海上油气平台,special-cargo,项目物流与特种货
+platform jacket,导管架,special-cargo,项目物流与特种货
+jacket transport,导管架运输,special-cargo,项目物流与特种货
+topside module,上部组块,special-cargo,项目物流与特种货
+module transport,模块运输,special-cargo,项目物流与特种货
+topside integration,上部组块集成,special-cargo,项目物流与特种货
+FPSO,浮式生产储卸油装置,special-cargo,项目物流与特种货
+FLNG,浮式液化天然气装置,special-cargo,项目物流与特种货
+LNG tank,LNG储罐,special-cargo,项目物流与特种货
+LNG module,LNG液化模块,special-cargo,项目物流与特种货
+pressure vessel,压力容器,special-cargo,项目物流与特种货
+separator vessel,分离器,special-cargo,项目物流与特种货
+heat exchanger,换热器,special-cargo,项目物流与特种货
+distillation column,精馏塔,special-cargo,项目物流与特种货
+reactor vessel,反应器,special-cargo,项目物流与特种货
+regenerator,再生器,special-cargo,项目物流与特种货
+spherical tank,球罐,special-cargo,项目物流与特种货
+cryogenic sphere,深冷球罐,special-cargo,项目物流与特种货
+bullet tank,卧式储罐,special-cargo,项目物流与特种货
+storage tank,储罐,special-cargo,项目物流与特种货
+tank farm,罐区,special-cargo,项目物流与特种货
+skid mounted unit,撬装机组,special-cargo,项目物流与特种货
+skid installation,撬装设备安装,special-cargo,项目物流与特种货
+modular refinery,模块化炼油装置,special-cargo,项目物流与特种货
+modular construction,模块化建造,special-cargo,项目物流与特种货
+pipeline spool,管段,special-cargo,项目物流与特种货
+manifold,管汇,special-cargo,项目物流与特种货
+pipe laying vessel,铺管船,special-cargo,项目物流与特种货
+cable laying vessel,铺缆船,special-cargo,项目物流与特种货
+subsea equipment,水下生产设备,special-cargo,项目物流与特种货
+subsea tree,水下采油树,special-cargo,项目物流与特种货
+wind turbine component,风电机组部件,special-cargo,项目物流与特种货
+wind blade transport,风机叶片运输,special-cargo,项目物流与特种货
+blade extender,叶片加长杆,special-cargo,项目物流与特种货
+blade adapter,叶片举升转接夹具,special-cargo,项目物流与特种货
+tower section,塔筒段,special-cargo,项目物流与特种货
+nacelle,机舱罩,special-cargo,项目物流与特种货
+hub,轮毂,special-cargo,项目物流与特种货
+turbine rotor,汽轮机转子,special-cargo,项目物流与特种货
+generator stator,发电机定子,special-cargo,项目物流与特种货
+stator transport,定子运输,special-cargo,项目物流与特种货
+power transformer transport,电力变压器运输,special-cargo,项目物流与特种货
+transformer bushing,变压器套管,special-cargo,项目物流与特种货
+switchgear,开关柜,special-cargo,项目物流与特种货
+gas insulated switchgear,气体绝缘开关设备,special-cargo,项目物流与特种货
+HVDC equipment,高压直流输电设备,special-cargo,项目物流与特种货
+boiler drum,锅炉汽包,special-cargo,项目物流与特种货
+steam turbine,蒸汽轮机,special-cargo,项目物流与特种货
+gas turbine,燃气轮机,special-cargo,项目物流与特种货
+HRSG,余热锅炉,special-cargo,项目物流与特种货
+solar module logistics,光伏组件物流,special-cargo,项目物流与特种货
+inverter,逆变器,special-cargo,项目物流与特种货
+hydrogen electrolyzer,电解槽,special-cargo,项目物流与特种货
+ammonia plant module,合成氨装置模块,special-cargo,项目物流与特种货
+turnkey project,交钥匙工程,special-cargo,项目物流与特种货
+feasibility study,可行性研究,special-cargo,项目物流与特种货
+logistics plan,物流总体规划,special-cargo,项目物流与特种货
+transport analysis,运输方案分析,special-cargo,项目物流与特种货
+expediting,设备催交,special-cargo,项目物流与特种货
+vendor inspection,设备供应商检验,special-cargo,项目物流与特种货
+procurement logistics,采购物流,special-cargo,项目物流与特种货
+staging area,集结堆场,special-cargo,项目物流与特种货
+laydown area,大件堆放场,special-cargo,项目物流与特种货
+storage yard,堆场,special-cargo,项目物流与特种货
+bonded warehouse,保税仓库,special-cargo,项目物流与特种货
+temporary admission,暂准进口,special-cargo,项目物流与特种货
+ATA carnet,ATA单证册,special-cargo,项目物流与特种货
+customs broker,报关行,special-cargo,项目物流与特种货
+import license,进口许可证,special-cargo,项目物流与特种货
+export license,出口许可证,special-cargo,项目物流与特种货
+duty exemption,关税减免,special-cargo,项目物流与特种货
+Incoterms,国际贸易术语,special-cargo,项目物流与特种货
+ex works,工厂交货,special-cargo,项目物流与特种货
+FCA,货交承运人,special-cargo,项目物流与特种货
+FOB,船上交货,special-cargo,项目物流与特种货
+CIF,成本加保险费加运费,special-cargo,项目物流与特种货
+DAP,目的地交货,special-cargo,项目物流与特种货
+DDP,完税后交货,special-cargo,项目物流与特种货
+lump sum freight,包干运费,special-cargo,项目物流与特种货
+freight quotation,运费报价,special-cargo,项目物流与特种货
+heavy lift surcharge,重件附加费,special-cargo,项目物流与特种货
+OOG surcharge,超限附加费,special-cargo,项目物流与特种货
+port handling charge,港口作业费,special-cargo,项目物流与特种货
+stevedoring,码头装卸,special-cargo,项目物流与特种货
+tallying,理货,special-cargo,项目物流与特种货
+tally clerk,理货员,special-cargo,项目物流与特种货
+hatch cover,舱口盖,special-cargo,项目物流与特种货
+tween deck,二层甲板,special-cargo,项目物流与特种货
+cargo hold,货舱,special-cargo,项目物流与特种货
+hold cleaning,货舱清扫,special-cargo,项目物流与特种货

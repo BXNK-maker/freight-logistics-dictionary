@@ -1,0 +1,369 @@
+﻿term_en,term_zh,category,subcategory
+Transpacific Eastbound,太平洋东行航线,transport,贸易航线
+Transpacific Westbound,太平洋西行航线,transport,贸易航线
+Far East-US West Coast,远东-美西航线,transport,贸易航线
+Far East-US East Coast,远东-美东航线,transport,贸易航线
+Far East-Pacific Northwest,远东-太平洋西北航线,transport,贸易航线
+Far East-Pacific Southwest,远东-太平洋西南航线,transport,贸易航线
+Asia-North America West Coast,亚洲-北美西岸航线,transport,贸易航线
+Asia-North America East Coast,亚洲-北美东岸航线,transport,贸易航线
+Asia-US East Coast All-Water,亚洲-美东全水路航线,transport,贸易航线
+All-Water via Panama,经巴拿马运河全水路航线,transport,贸易航线
+Asia-Canada,亚洲-加拿大航线,transport,贸易航线
+China-Canada,中国-加拿大航线,transport,贸易航线
+Japan-Canada,日本-加拿大航线,transport,贸易航线
+Korea-Canada,韩国-加拿大航线,transport,贸易航线
+China-US West Coast,中国-美国西岸航线,transport,贸易航线
+China-US East Coast,中国-美国东岸航线,transport,贸易航线
+Japan-North America,日本-北美航线,transport,贸易航线
+Korea-North America,韩国-北美航线,transport,贸易航线
+Vietnam-North America,越南-北美航线,transport,贸易航线
+Southeast Asia-North America,东南亚-北美航线,transport,贸易航线
+China-Mexico,中国-墨西哥航线,transport,贸易航线
+Asia-Mexico,亚洲-墨西哥航线,transport,贸易航线
+Asia-US Gulf,亚洲-美国墨西哥湾航线,transport,贸易航线
+Asia-Central America,亚洲-中美洲航线,transport,贸易航线
+Asia-Caribbean,亚洲-加勒比航线,transport,贸易航线
+Asia-Europe Westbound,亚欧西行航线,transport,贸易航线
+Asia-Europe Eastbound,亚欧东行航线,transport,贸易航线
+Far East-North Europe,远东-北欧航线,transport,贸易航线
+Far East-Mediterranean,远东-地中海航线,transport,贸易航线
+Asia-East Mediterranean,亚洲-东地中海航线,transport,贸易航线
+Asia-West Mediterranean,亚洲-西地中海航线,transport,贸易航线
+Asia-Black Sea,亚洲-黑海航线,transport,贸易航线
+Asia-Adriatic,亚洲-亚得里亚海航线,transport,贸易航线
+Asia-Turkey,亚洲-土耳其航线,transport,贸易航线
+Turkey-Europe,土耳其-欧洲航线,transport,贸易航线
+Asia-Egypt,亚洲-埃及航线,transport,贸易航线
+Asia-North Africa,亚洲-北非航线,transport,贸易航线
+Asia-Red Sea,亚洲-红海航线,transport,贸易航线
+Asia-Middle East,亚洲-中东航线,transport,贸易航线
+Asia-Persian Gulf,亚洲-波斯湾航线,transport,贸易航线
+Asia-Indian Subcontinent,亚洲-南亚航线,transport,贸易航线
+China-India,中国-印度航线,transport,贸易航线
+Japan-Europe,日本-欧洲航线,transport,贸易航线
+Korea-Europe,韩国-欧洲航线,transport,贸易航线
+Southeast Asia-Europe,东南亚-欧洲航线,transport,贸易航线
+China-Europe,中国-欧洲航线,transport,贸易航线
+China-Mediterranean,中国-地中海航线,transport,贸易航线
+Japan-Middle East,日本-中东航线,transport,贸易航线
+Transatlantic Eastbound,跨大西洋东行航线,transport,贸易航线
+Transatlantic Westbound,跨大西洋西行航线,transport,贸易航线
+Europe-North America,欧洲-北美航线,transport,贸易航线
+US Gulf-Europe,美国墨西哥湾-欧洲航线,transport,贸易航线
+US Gulf-Mediterranean,美国墨西哥湾-地中海航线,transport,贸易航线
+US East Coast-Mediterranean,美国东岸-地中海航线,transport,贸易航线
+Mediterranean-North America,地中海-北美航线,transport,贸易航线
+Canada-Europe,加拿大-欧洲航线,transport,贸易航线
+Middle East-Europe,中东-欧洲航线,transport,贸易航线
+Middle East-North America,中东-北美航线,transport,贸易航线
+Middle East-Southeast Asia,中东-东南亚航线,transport,贸易航线
+Middle East-Africa,中东-非洲航线,transport,贸易航线
+Middle East-Australia,中东-澳大利亚航线,transport,贸易航线
+India-Europe,印度-欧洲航线,transport,贸易航线
+India-North America,印度-北美航线,transport,贸易航线
+North America-India,北美-南亚航线,transport,贸易航线
+India-Australia,印度-澳大利亚航线,transport,贸易航线
+India-East Africa,印度-东非航线,transport,贸易航线
+India-West Africa,印度-西非航线,transport,贸易航线
+Indian Subcontinent-Middle East,南亚-中东航线,transport,贸易航线
+Indian Subcontinent-Southeast Asia,南亚-东南亚航线,transport,贸易航线
+Red Sea-Europe,红海-欧洲航线,transport,贸易航线
+Persian Gulf-East Africa,波斯湾-东非航线,transport,贸易航线
+Persian Gulf-Mediterranean,波斯湾-地中海航线,transport,贸易航线
+Intra-Asia,亚洲区域内航线,transport,贸易航线
+Japan-China,中日航线,transport,贸易航线
+Korea-China,中韩航线,transport,贸易航线
+Japan-Korea,日韩航线,transport,贸易航线
+China-Southeast Asia,中国-东南亚航线,transport,贸易航线
+Japan-Southeast Asia,日本-东南亚航线,transport,贸易航线
+Korea-Southeast Asia,韩国-东南亚航线,transport,贸易航线
+Taiwan-Southeast Asia,台湾-东南亚航线,transport,贸易航线
+Cross-Strait,海峡两岸航线,transport,贸易航线
+Japan-Russia Far East,日本-俄罗斯远东航线,transport,贸易航线
+Korea-Russia Far East,韩国-俄罗斯远东航线,transport,贸易航线
+China-Russian Far East,中国-俄罗斯远东航线,transport,贸易航线
+Intra-Southeast Asia,东南亚区域内航线,transport,贸易航线
+Intra-Indian Subcontinent,南亚区域内航线,transport,贸易航线
+Intra-Middle East,中东区域内航线,transport,贸易航线
+Intra-Persian Gulf,波斯湾区域内航线,transport,贸易航线
+China-South America,中国-南美航线,transport,贸易航线
+China-Brazil,中国-巴西航线,transport,贸易航线
+China-Latin America,中国-拉美航线,transport,贸易航线
+China-West Africa,中国-西非航线,transport,贸易航线
+Asia-South America East Coast,亚洲-南美东岸航线,transport,贸易航线
+Asia-South America West Coast,亚洲-南美西岸航线,transport,贸易航线
+Asia-East Africa,亚洲-东非航线,transport,贸易航线
+Asia-West Africa,亚洲-西非航线,transport,贸易航线
+Asia-South Africa,亚洲-南非航线,transport,贸易航线
+Asia-Africa,亚洲-非洲航线,transport,贸易航线
+China-Africa,中国-非洲航线,transport,贸易航线
+China-Middle East,中国-中东航线,transport,贸易航线
+Asia-Oceania,亚洲-澳新航线,transport,贸易航线
+China-Australia,中国-澳大利亚航线,transport,贸易航线
+China-New Zealand,中国-新西兰航线,transport,贸易航线
+Japan-Australia,日本-澳大利亚航线,transport,贸易航线
+Korea-Australia,韩国-澳大利亚航线,transport,贸易航线
+Southeast Asia-Australia,东南亚-澳大利亚航线,transport,贸易航线
+Australia-North Asia,澳大利亚-北亚航线,transport,贸易航线
+New Zealand-Asia,新西兰-亚洲航线,transport,贸易航线
+Trans-Tasman,跨塔斯曼航线,transport,贸易航线
+Intra-Oceania,大洋洲区域内航线,transport,贸易航线
+Oceania-Pacific Islands,大洋洲-太平洋岛国航线,transport,贸易航线
+Australia-North America,澳大利亚-北美航线,transport,贸易航线
+North America-New Zealand,北美-新西兰航线,transport,贸易航线
+Australia-US East Coast,澳大利亚-美国东岸航线,transport,贸易航线
+Australia-Europe,澳大利亚-欧洲航线,transport,贸易航线
+New Zealand-Europe,新西兰-欧洲航线,transport,贸易航线
+Europe-South America East Coast,欧洲-南美东岸航线,transport,贸易航线
+Europe-South America West Coast,欧洲-南美西岸航线,transport,贸易航线
+Europe-West Africa,欧洲-西非航线,transport,贸易航线
+Europe-North Africa,欧洲-北非航线,transport,贸易航线
+Europe-East Africa,欧洲-东非航线,transport,贸易航线
+Europe-Southern Africa,欧洲-南部非洲航线,transport,贸易航线
+Europe-Africa,欧洲-非洲航线,transport,贸易航线
+Europe-Southeast Asia,欧洲-东南亚航线,transport,贸易航线
+Europe-Caribbean,欧洲-加勒比航线,transport,贸易航线
+Europe-Central America,欧洲-中美洲航线,transport,贸易航线
+Europe-Mexico,欧洲-墨西哥航线,transport,贸易航线
+North America-Central America,北美-中美洲航线,transport,贸易航线
+North America-Caribbean,北美-加勒比航线,transport,贸易航线
+North America-West Coast South America,北美-南美西岸航线,transport,贸易航线
+North America-East Coast South America,北美-南美东岸航线,transport,贸易航线
+North America-West Africa,北美-西非航线,transport,贸易航线
+US-South Africa,美国-南非航线,transport,贸易航线
+North America-Middle East,北美-中东航线,transport,贸易航线
+US Gulf-South America,美国墨西哥湾-南美航线,transport,贸易航线
+Intra-Caribbean,加勒比区域内航线,transport,贸易航线
+Intra-Central America,中美洲区域内航线,transport,贸易航线
+Intra-South America,南美区域内航线,transport,贸易航线
+Intra-Latin America,拉美区域内航线,transport,贸易航线
+Intra-Africa,非洲区域内航线,transport,贸易航线
+Intra-West Africa,西非区域内航线,transport,贸易航线
+Intra-East Africa,东非区域内航线,transport,贸易航线
+Intra-Southern Africa,南部非洲区域内航线,transport,贸易航线
+Intra-Mediterranean,地中海区域内航线,transport,贸易航线
+Intra-Baltic,波罗的海区域内航线,transport,贸易航线
+Intra-Black Sea,黑海区域内航线,transport,贸易航线
+North Europe-Mediterranean,北欧-地中海航线,transport,贸易航线
+Mediterranean-Black Sea,地中海-黑海航线,transport,贸易航线
+Intra-European Shortsea,欧洲短海航线,transport,贸易航线
+Europe-Russia,欧洲-俄罗斯航线,transport,贸易航线
+US Coastwise,美国沿海航线,transport,贸易航线
+US Mainland-Hawaii,美国本土-夏威夷航线,transport,贸易航线
+US West Coast-Alaska,美国西岸-阿拉斯加航线,transport,贸易航线
+Suez Canal,苏伊士运河,transport,海峡与运河
+Panama Canal,巴拿马运河,transport,海峡与运河
+Kiel Canal,基尔运河,transport,海峡与运河
+Corinth Canal,科林斯运河,transport,海峡与运河
+Welland Canal,韦兰运河,transport,海峡与运河
+Erie Canal,伊利运河,transport,海峡与运河
+Cape Cod Canal,科德角运河,transport,海峡与运河
+Manchester Ship Canal,曼彻斯特运河,transport,海峡与运河
+Saimaa Canal,塞马运河,transport,海峡与运河
+White Sea-Baltic Canal,白海-波罗的海运河,transport,海峡与运河
+Volga-Don Canal,伏尔加-顿河运河,transport,海峡与运河
+Volga-Baltic Waterway,伏尔加-波罗的海水道,transport,海峡与运河
+Rhine-Main-Danube Canal,莱茵-美因-多瑙运河,transport,海峡与运河
+Amsterdam-Rhine Canal,阿姆斯特丹-莱茵运河,transport,海峡与运河
+Mittelland Canal,中德运河,transport,海峡与运河
+Ghent-Terneuzen Canal,根特-泰尔讷曾运河,transport,海峡与运河
+Albert Canal,阿尔贝特运河,transport,海峡与运河
+Houston Ship Channel,休斯顿航道,transport,海峡与运河
+Soo Locks,苏圣玛丽船闸,transport,海峡与运河
+Strait of Malacca,马六甲海峡,transport,海峡与运河
+Singapore Strait,新加坡海峡,transport,海峡与运河
+Strait of Hormuz,霍尔木兹海峡,transport,海峡与运河
+Bab-el-Mandeb Strait,曼德海峡,transport,海峡与运河
+Bosphorus Strait,博斯普鲁斯海峡,transport,海峡与运河
+Dardanelles Strait,达达尼尔海峡,transport,海峡与运河
+Strait of Gibraltar,直布罗陀海峡,transport,海峡与运河
+Strait of Tiran,蒂朗海峡,transport,海峡与运河
+Sunda Strait,巽他海峡,transport,海峡与运河
+Lombok Strait,龙目海峡,transport,海峡与运河
+Alas Strait,阿拉斯海峡,transport,海峡与运河
+Sape Strait,萨佩海峡,transport,海峡与运河
+Ombai Strait,翁拜海峡,transport,海峡与运河
+Wetar Strait,韦塔海峡,transport,海峡与运河
+Makassar Strait,望加锡海峡,transport,海峡与运河
+Karimata Strait,卡里马塔海峡,transport,海峡与运河
+Gaspar Strait,加斯帕海峡,transport,海峡与运河
+Bangka Strait,邦加海峡,transport,海峡与运河
+Torres Strait,托雷斯海峡,transport,海峡与运河
+Bass Strait,巴斯海峡,transport,海峡与运河
+Cook Strait,库克海峡,transport,海峡与运河
+Foveaux Strait,福沃海峡,transport,海峡与运河
+Taiwan Strait,台湾海峡,transport,海峡与运河
+Miyako Strait,宫古海峡,transport,海峡与运河
+Luzon Strait,吕宋海峡,transport,海峡与运河
+Bashi Channel,巴士海峡,transport,海峡与运河
+Korea Strait,朝鲜海峡,transport,海峡与运河
+Tsushima Strait,对马海峡,transport,海峡与运河
+Tsugaru Strait,津轻海峡,transport,海峡与运河
+Soya Strait,宗谷海峡,transport,海峡与运河
+Osumi Strait,大隅海峡,transport,海峡与运河
+Kanmon Strait,关门海峡,transport,海峡与运河
+Akashi Strait,明石海峡,transport,海峡与运河
+Uraga Channel,浦贺水道,transport,海峡与运河
+Kii Channel,纪伊水道,transport,海峡与运河
+Bohai Strait,渤海海峡,transport,海峡与运河
+Qiongzhou Strait,琼州海峡,transport,海峡与运河
+Laotieshan Channel,老铁山水道,transport,海峡与运河
+Bering Strait,白令海峡,transport,海峡与运河
+Strait of Juan de Fuca,胡安·德富卡海峡,transport,海峡与运河
+Strait of Georgia,乔治亚海峡,transport,海峡与运河
+Dixon Entrance,狄克森海峡,transport,海峡与运河
+Unimak Pass,尤尼马克水道,transport,海峡与运河
+Shelikof Strait,谢利科夫海峡,transport,海峡与运河
+Drake Passage,德雷克海峡,transport,海峡与运河
+Strait of Magellan,麦哲伦海峡,transport,海峡与运河
+Beagle Channel,比格尔海峡,transport,海峡与运河
+Le Maire Strait,勒梅尔海峡,transport,海峡与运河
+Yucatan Channel,尤卡坦海峡,transport,海峡与运河
+Florida Straits,佛罗里达海峡,transport,海峡与运河
+Old Bahama Channel,老巴哈马水道,transport,海峡与运河
+Windward Passage,向风海峡,transport,海峡与运河
+Mona Passage,莫纳海峡,transport,海峡与运河
+Anegada Passage,阿内加达海峡,transport,海峡与运河
+Cabot Strait,卡博特海峡,transport,海峡与运河
+Strait of Canso,坎索海峡,transport,海峡与运河
+Northumberland Strait,诺森伯兰海峡,transport,海峡与运河
+Strait of Belle Isle,贝尔岛海峡,transport,海峡与运河
+Hudson Strait,哈得孙海峡,transport,海峡与运河
+Davis Strait,戴维斯海峡,transport,海峡与运河
+Denmark Strait,丹麦海峡,transport,海峡与运河
+Skagerrak,斯卡格拉克海峡,transport,海峡与运河
+Kattegat,卡特加特海峡,transport,海峡与运河
+Øresund,厄勒海峡,transport,海峡与运河
+Great Belt,大贝尔特海峡,transport,海峡与运河
+Little Belt,小贝尔特海峡,transport,海峡与运河
+Fehmarn Belt,费马恩海峡,transport,海峡与运河
+English Channel,英吉利海峡,transport,海峡与运河
+Strait of Dover,多佛尔海峡,transport,海峡与运河
+The Minch,明奇海峡,transport,海峡与运河
+Pentland Firth,彭特兰海峡,transport,海峡与运河
+St George's Channel,圣乔治海峡,transport,海峡与运河
+North Channel,北海峡,transport,海峡与运河
+Strait of Bonifacio,博尼法乔海峡,transport,海峡与运河
+Strait of Messina,墨西拿海峡,transport,海峡与运河
+Strait of Otranto,奥特朗托海峡,transport,海峡与运河
+Strait of Sicily,西西里海峡,transport,海峡与运河
+Strait of Sardinia,撒丁海峡,transport,海峡与运河
+Corsica Channel,科西嘉海峡,transport,海峡与运河
+Malta Channel,马耳他海峡,transport,海峡与运河
+Kythira Strait,基西拉海峡,transport,海峡与运河
+Antikythira Strait,安迪基西拉海峡,transport,海峡与运河
+Corfu Channel,科孚海峡,transport,海峡与运河
+Kerch Strait,刻赤海峡,transport,海峡与运河
+Mozambique Channel,莫桑比克海峡,transport,海峡与运河
+Palk Strait,保克海峡,transport,海峡与运河
+Ten Degree Channel,十度海峡,transport,海峡与运河
+Nine Degree Channel,九度海峡,transport,海峡与运河
+Surigao Strait,苏里高海峡,transport,海峡与运河
+San Bernardino Strait,圣贝纳迪诺海峡,transport,海峡与运河
+Balabac Strait,巴拉巴克海峡,transport,海峡与运河
+Mindoro Strait,民都洛海峡,transport,海峡与运河
+Palawan Passage,巴拉望水道,transport,海峡与运河
+Tatar Strait,鞑靼海峡,transport,海峡与运河
+Nevelskoy Strait,涅韦尔斯科伊海峡,transport,海峡与运河
+Vilkitsky Strait,维利基茨基海峡,transport,海峡与运河
+Sannikov Strait,桑尼科夫海峡,transport,海峡与运河
+Rhine River,莱茵河,transport,国际航道
+Danube River,多瑙河,transport,国际航道
+Main River,美因河,transport,国际航道
+Moselle River,摩泽尔河,transport,国际航道
+Seine River,塞纳河,transport,国际航道
+Rhone River,罗讷河,transport,国际航道
+Guadalquivir River,瓜达尔基维尔河,transport,国际航道
+Elbe River,易北河,transport,国际航道
+Weser River,威悉河,transport,国际航道
+Scheldt River,斯海尔德河,transport,国际航道
+Thames River,泰晤士河,transport,国际航道
+Mersey River,默西河,transport,国际航道
+Po River,波河,transport,国际航道
+Oder River,奥得河,transport,国际航道
+Vistula River,维斯瓦河,transport,国际航道
+Neva River,涅瓦河,transport,国际航道
+Volga River,伏尔加河,transport,国际航道
+Don River,顿河,transport,国际航道
+Dnieper River,第聂伯河,transport,国际航道
+Danube-Black Sea Canal,多瑙河-黑海运河,transport,国际航道
+Nieuwe Waterweg,鹿特丹新水道,transport,国际航道
+North Sea Canal,北海运河,transport,国际航道
+Mississippi River,密西西比河,transport,国际航道
+Ohio River,俄亥俄河,transport,国际航道
+Illinois Waterway,伊利诺伊水道,transport,国际航道
+Tennessee-Tombigbee Waterway,田纳西-汤比格比水道,transport,国际航道
+Detroit River,底特律河,transport,国际航道
+St Clair River,圣克莱尔河,transport,国际航道
+Great Lakes,五大湖,transport,国际航道
+Saint Lawrence Seaway,圣劳伦斯海道,transport,国际航道
+Hudson River,哈得孙河,transport,国际航道
+Delaware River,特拉华河,transport,国际航道
+Columbia River,哥伦比亚河,transport,国际航道
+Fraser River,弗雷泽河,transport,国际航道
+Amur River,黑龙江,transport,国际航道
+Ob River,鄂毕河,transport,国际航道
+Yenisei River,叶尼塞河,transport,国际航道
+Lena River,勒拿河,transport,国际航道
+Pearl River,珠江,transport,国际航道
+Huangpu River,黄浦江,transport,国际航道
+Yangtze Estuary Deepwater Channel,长江口深水航道,transport,国际航道
+Yangtze River Foreign Trade Section,长江外贸段,transport,国际航道
+Mekong River,湄公河,transport,国际航道
+Red River,红河,transport,国际航道
+Chao Phraya River,湄南河,transport,国际航道
+Irrawaddy River,伊洛瓦底江,transport,国际航道
+Ganges River,恒河,transport,国际航道
+Hooghly River,胡格利河,transport,国际航道
+Indus River,印度河,transport,国际航道
+Shatt al-Arab,阿拉伯河,transport,国际航道
+Nile River,尼罗河,transport,国际航道
+Congo River,刚果河,transport,国际航道
+Niger River,尼日尔河,transport,国际航道
+Senegal River,塞内加尔河,transport,国际航道
+Zambezi River,赞比西河,transport,国际航道
+Amazon River,亚马孙河,transport,国际航道
+Orinoco River,奥里诺科河,transport,国际航道
+Rio de la Plata,拉普拉塔河水道,transport,国际航道
+Parana River,巴拉那河,transport,国际航道
+Paraguay River,巴拉圭河,transport,国际航道
+Uruguay River,乌拉圭河,transport,国际航道
+Parana-Paraguay Waterway,巴拉那-巴拉圭水道,transport,国际航道
+Magdalena River,马格达莱纳河,transport,国际航道
+Dover Strait TSS,多佛尔海峡分道通航制,transport,国际航道
+Off Ushant TSS,韦桑岛分道通航制,transport,国际航道
+Finisterre TSS,菲尼斯特雷角分道通航制,transport,国际航道
+Cape St Vincent TSS,圣文森特角分道通航制,transport,国际航道
+Gibraltar TSS,直布罗陀海峡分道通航制,transport,国际航道
+Malacca Strait TSS,马六甲海峡分道通航制,transport,国际航道
+Singapore Strait TSS,新加坡海峡分道通航制,transport,国际航道
+Lombok Strait TSS,龙目海峡分道通航制,transport,国际航道
+Torres Strait TSS,托雷斯海峡分道通航制,transport,国际航道
+Great Barrier Reef TSS,大堡礁分道通航制,transport,国际航道
+Cape of Good Hope TSS,好望角分道通航制,transport,国际航道
+Gulf of Suez TSS,苏伊士湾分道通航制,transport,国际航道
+Bab-el-Mandeb TSS,曼德海峡分道通航制,transport,国际航道
+Dardanelles TSS,达达尼尔海峡分道通航制,transport,国际航道
+Turkish Straits VTS,土耳其海峡船舶交通服务,transport,国际航道
+Gulf of Finland TSS,芬兰湾分道通航制,transport,国际航道
+Skagen TSS,斯卡恩分道通航制,transport,国际航道
+Great Belt TSS,大贝尔特海峡分道通航制,transport,国际航道
+Øresund TSS,厄勒海峡分道通航制,transport,国际航道
+River Plate TSS,拉普拉塔河口分道通航制,transport,国际航道
+Tokyo Bay TSS,东京湾分道通航制,transport,国际航道
+Kanmon Strait TSS,关门海峡分道通航制,transport,国际航道
+Juan de Fuca TSS,胡安·德富卡海峡分道通航制,transport,国际航道
+Northern Sea Route,北方海航道,transport,国际航道
+Northeast Passage,东北航道,transport,国际航道
+Northwest Passage,西北航道,transport,国际航道
+Cape of Good Hope Route,好望角航线,transport,国际航道
+Great Circle Route,大圆航线,transport,国际航道
+Indonesian Archipelagic Sea Lanes,印尼群岛海道,transport,国际航道
+Great Barrier Reef Inner Route,大堡礁内航道,transport,国际航道
+South China Sea,南海,transport,国际航道
+Red Sea,红海,transport,国际航道
+Gulf of Aden,亚丁湾,transport,国际航道
+Gulf of Tonkin (Beibu Gulf),北部湾,transport,国际航道
+Caspian Sea,里海,transport,国际航道
+Seto Inland Sea,濑户内海,transport,国际航道

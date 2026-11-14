@@ -1,0 +1,401 @@
+﻿term_en,term_zh,category,subcategory
+refrigerated container,冷藏集装箱,special-cargo,冷链物流
+reefer container,冷藏箱,special-cargo,冷链物流
+insulated container,隔热集装箱,special-cargo,冷链物流
+thermal container,保温集装箱,special-cargo,冷链物流
+active temperature controlled container,主动温控集装箱,special-cargo,冷链物流
+passive temperature controlled container,被动温控集装箱,special-cargo,冷链物流
+passive shipper,被动式运输箱,special-cargo,冷链物流
+active shipper,主动式运输箱,special-cargo,冷链物流
+insulated pallet shipper,隔热托盘运输箱,special-cargo,冷链物流
+insulated shipper,隔热运输箱,special-cargo,冷链物流
+pallet shipper,托盘运输箱,special-cargo,冷链物流
+half pallet shipper,半托运输箱,special-cargo,冷链物流
+quarter pallet shipper,四分之一托运输箱,special-cargo,冷链物流
+euro pallet shipper,欧标托运输箱,special-cargo,冷链物流
+single-use shipper,一次性运输箱,special-cargo,冷链物流
+reusable shipper,可重复使用运输箱,special-cargo,冷链物流
+roll cage,滚动笼车,special-cargo,冷链物流
+insulated roll cage,隔热笼车,special-cargo,冷链物流
+refrigerated truck,冷藏车,special-cargo,冷链物流
+refrigerated trailer,冷藏挂车,special-cargo,冷链物流
+refrigerated van,冷藏厢式车,special-cargo,冷链物流
+multi-temperature vehicle,多温区车辆,special-cargo,冷链物流
+insulated truck body,隔热车厢,special-cargo,冷链物流
+refrigerated rail wagon,铁路冷藏车皮,special-cargo,冷链物流
+refrigerated air container,航空冷藏集装箱,special-cargo,冷链物流
+temperature controlled air ULD,温控航空集装器,special-cargo,冷链物流
+cool dolly,航空温控拖车,special-cargo,冷链物流
+cold plate,冷板,special-cargo,冷链物流
+eutectic plate,共晶蓄冷板,special-cargo,冷链物流
+eutectic solution,共晶溶液,special-cargo,冷链物流
+phase change material,相变材料,special-cargo,冷链物流
+PCM panel,相变蓄冷板,special-cargo,冷链物流
+PCM blanket,相变保温毯,special-cargo,冷链物流
+PCM packout,相变材料装箱配置,special-cargo,冷链物流
+gel pack,凝胶冰袋,special-cargo,冷链物流
+ice pack,冰袋,special-cargo,冷链物流
+gel brick,凝胶蓄冷砖,special-cargo,冷链物流
+dry ice,干冰,special-cargo,冷链物流
+dry ice container,干冰储运容器,special-cargo,冷链物流
+liquid nitrogen,液氮,special-cargo,冷链物流
+liquid nitrogen dewar,液氮杜瓦瓶,special-cargo,冷链物流
+cryogenic dewar,深冷杜瓦瓶,special-cargo,冷链物流
+vacuum insulated panel,真空隔热板,special-cargo,冷链物流
+insulated liner,隔热内衬,special-cargo,冷链物流
+thermal blanket,保温毯,special-cargo,冷链物流
+thermal pallet cover,托盘保温罩,special-cargo,冷链物流
+insulated drum,隔热桶,special-cargo,冷链物流
+thermobox,保温箱,special-cargo,冷链物流
+vaccine carrier,疫苗保温箱,special-cargo,冷链物流
+cold box,冷藏保温箱,special-cargo,冷链物流
+WHO prequalified cold box,WHO预认证冷藏箱,special-cargo,冷链物流
+coolant pack,蓄冷剂包,special-cargo,冷链物流
+conditioning,蓄冷预调节,special-cargo,冷链物流
+conditioning room,预调节间,special-cargo,冷链物流
+refrigeration unit,制冷机组,special-cargo,冷链物流
+transport refrigeration unit,运输制冷机组,special-cargo,冷链物流
+reefer genset,冷藏箱发电机组,special-cargo,冷链物流
+clip-on genset,挂式发电机组,special-cargo,冷链物流
+undercarriage genset,底挂发电机组,special-cargo,冷链物流
+compressor,压缩机,special-cargo,冷链物流
+condenser,冷凝器,special-cargo,冷链物流
+evaporator,蒸发器,special-cargo,冷链物流
+refrigerant,制冷剂,special-cargo,冷链物流
+CO2 refrigerant,二氧化碳制冷剂,special-cargo,冷链物流
+ammonia refrigerant,氨制冷剂,special-cargo,冷链物流
+glycol chiller,乙二醇冷水机组,special-cargo,冷链物流
+blast freezer,速冻装置,special-cargo,冷链物流
+blast chiller,急冷柜,special-cargo,冷链物流
+air curtain,风幕,special-cargo,冷链物流
+strip curtain,软门帘,special-cargo,冷链物流
+insulated door,冷库隔热门,special-cargo,冷链物流
+rapid roll door,快速卷帘门,special-cargo,冷链物流
+dock seal,月台门封,special-cargo,冷链物流
+dock shelter,月台门罩,special-cargo,冷链物流
+airlock,气闸缓冲间,special-cargo,冷链物流
+cold chain,冷链,special-cargo,冷链物流
+unbroken cold chain,不断链,special-cargo,冷链物流
+cold chain integrity,冷链完整性,special-cargo,冷链物流
+Good Distribution Practice,药品良好分销规范,special-cargo,冷链物流
+GDP compliance,GDP合规,special-cargo,冷链物流
+GDP audit,GDP审计,special-cargo,冷链物流
+Good Supply Practice,药品经营质量管理规范,special-cargo,冷链物流
+GMP,药品生产质量管理规范,special-cargo,冷链物流
+HACCP,危害分析与关键控制点,special-cargo,冷链物流
+critical control point,关键控制点,special-cargo,冷链物流
+FSMA,美国食品安全现代化法案,special-cargo,冷链物流
+sanitary transportation rule,卫生运输规则,special-cargo,冷链物流
+IATA Temperature Control Regulations,IATA温控运输规则,special-cargo,冷链物流
+IATA CEIV Pharma,IATA药品冷链认证,special-cargo,冷链物流
+IATA CEIV Fresh,IATA鲜活产品认证,special-cargo,冷链物流
+temperature recorder,温度记录仪,special-cargo,冷链物流
+data logger,数据记录仪,special-cargo,冷链物流
+temperature data logger,温度数据记录仪,special-cargo,冷链物流
+humidity data logger,湿度数据记录仪,special-cargo,冷链物流
+USB data logger,USB数据记录仪,special-cargo,冷链物流
+PDF data logger,PDF数据记录仪,special-cargo,冷链物流
+real-time data logger,实时数据记录仪,special-cargo,冷链物流
+wireless temperature sensor,无线温度传感器,special-cargo,冷链物流
+IoT temperature monitor,物联网温度监控器,special-cargo,冷链物流
+temperature probe,温度探头,special-cargo,冷链物流
+thermocouple,热电偶,special-cargo,冷链物流
+thermistor,热敏电阻,special-cargo,冷链物流
+resistance temperature detector,热电阻温度传感器,special-cargo,冷链物流
+infrared thermometer,红外测温仪,special-cargo,冷链物流
+calibrated thermometer,校准温度计,special-cargo,冷链物流
+calibration certificate,校准证书,special-cargo,冷链物流
+calibration offset,校准偏移量,special-cargo,冷链物流
+traceable calibration,溯源校准,special-cargo,冷链物流
+temperature excursion,温度偏移,special-cargo,冷链物流
+excursion report,温度偏移报告,special-cargo,冷链物流
+deviation report,偏差报告,special-cargo,冷链物流
+alert limit,警戒限,special-cargo,冷链物流
+action limit,行动限,special-cargo,冷链物流
+out of tolerance,超出容差,special-cargo,冷链物流
+mean kinetic temperature,平均动力学温度,special-cargo,冷链物流
+MKT calculation,平均动力学温度计算,special-cargo,冷链物流
+temperature profile,温度曲线,special-cargo,冷链物流
+temperature record,温度记录,special-cargo,冷链物流
+temperature report,温度报告,special-cargo,冷链物流
+temperature mapping,温度分布测绘,special-cargo,冷链物流
+temperature mapping study,温度分布测绘研究,special-cargo,冷链物流
+installation qualification,安装确认,special-cargo,冷链物流
+operational qualification,运行确认,special-cargo,冷链物流
+performance qualification,性能确认,special-cargo,冷链物流
+validation protocol,验证方案,special-cargo,冷链物流
+validation report,验证报告,special-cargo,冷链物流
+lane qualification,线路验证,special-cargo,冷链物流
+seasonal qualification,季节性验证,special-cargo,冷链物流
+reefer set point,冷藏箱设定温度,special-cargo,冷链物流
+set point verification,设定温度核验,special-cargo,冷链物流
+ventilation setting,通风档位设定,special-cargo,冷链物流
+fresh air exchange,新风换气,special-cargo,冷链物流
+dehumidification,除湿,special-cargo,冷链物流
+humidity control,湿度控制,special-cargo,冷链物流
+controlled atmosphere,气调控制,special-cargo,冷链物流
+CA container,气调冷藏集装箱,special-cargo,冷链物流
+cold treatment,运输冷处理,special-cargo,冷链物流
+heat treatment,检疫热处理,special-cargo,冷链物流
+tropicalization,热带化设定,special-cargo,冷链物流
+chilling injury,冷害,special-cargo,冷链物流
+freezing injury,冻伤,special-cargo,冷链物流
+supercooling,过冷,special-cargo,冷链物流
+ultralow temperature,超低温,special-cargo,冷链物流
+cryogenic temperature,深冷温度,special-cargo,冷链物流
+controlled room temperature,室温控制,special-cargo,冷链物流
+ambient shipping,常温运输,special-cargo,冷链物流
+traceability,可追溯性,special-cargo,冷链物流
+chain of custody,监管链,special-cargo,冷链物流
+temperature compliance rate,温度合格率,special-cargo,冷链物流
+summer knock down,夏季温控降载,special-cargo,冷链物流
+reefer vessel,冷藏船,special-cargo,冷链物流
+refrigerated shipping,冷藏海运,special-cargo,冷链物流
+reefer booking,冷藏箱订舱,special-cargo,冷链物流
+reefer plug,冷藏箱插座,special-cargo,冷链物流
+plug-in fee,冷藏箱插电费,special-cargo,冷链物流
+monitoring fee,冷藏箱监控费,special-cargo,冷链物流
+pre-trip inspection,冷藏箱行前检查,special-cargo,冷链物流
+cool down time,降温时间,special-cargo,冷链物流
+pre-cooling,货物预冷,special-cargo,冷链物流
+reefer stuffing,冷藏箱装货,special-cargo,冷链物流
+reefer stowage,冷藏箱积载,special-cargo,冷链物流
+airflow management,冷藏箱气流管理,special-cargo,冷链物流
+temperature controlled sea freight,温控海运,special-cargo,冷链物流
+reefer LCL,冷藏拼箱,special-cargo,冷链物流
+temperature controlled LCL,温控拼箱,special-cargo,冷链物流
+reefer trucking,冷藏陆运,special-cargo,冷链物流
+temperature controlled trucking,温控陆运,special-cargo,冷链物流
+last mile cold delivery,最后一公里冷链配送,special-cargo,冷链物流
+refrigerated intermodal,冷藏多式联运,special-cargo,冷链物流
+cold chain rail transport,冷链铁路运输,special-cargo,冷链物流
+bulk liquid temperature control,散装液体温控,special-cargo,冷链物流
+flexitank with heating,加热型液袋,special-cargo,冷链物流
+heated tank container,加热罐式集装箱,special-cargo,冷链物流
+cryogenic transport,深冷运输,special-cargo,冷链物流
+cryogenic tank,深冷储罐,special-cargo,冷链物流
+dry ice shipment,干冰运输,special-cargo,冷链物流
+dry ice sublimation loss,干冰升华损耗,special-cargo,冷链物流
+dry ice replenishment,干冰途中补充,special-cargo,冷链物流
+cold chain air freight,航空冷链运输,special-cargo,冷链物流
+temperature controlled air freight,温控空运,special-cargo,冷链物流
+active air freight solution,主动温控空运方案,special-cargo,冷链物流
+passive air freight solution,被动温控空运方案,special-cargo,冷链物流
+airport cold room,机场冷库,special-cargo,冷链物流
+airport transient storage,机场中转储存,special-cargo,冷链物流
+tarmac transfer,停机坪转运,special-cargo,冷链物流
+thermal cover removal,保温罩摘除作业,special-cargo,冷链物流
+freighter aircraft,全货机,special-cargo,冷链物流
+belly cargo,客机腹舱货,special-cargo,冷链物流
+charter flight,包机运输,special-cargo,冷链物流
+sea air solution,海空联运方案,special-cargo,冷链物流
+cold chain corridor,冷链运输通道,special-cargo,冷链物流
+lane risk assessment,线路风险评估,special-cargo,冷链物流
+transit temperature management,在途温度管理,special-cargo,冷链物流
+customs delay risk,清关延误风险,special-cargo,冷链物流
+quarantine hold,检疫扣留,special-cargo,冷链物流
+cold chain warehouse transfer,冷链仓库间转运,special-cargo,冷链物流
+pharmaceutical cold chain,医药冷链,special-cargo,冷链物流
+temperature sensitive pharmaceutical,温敏性药品,special-cargo,冷链物流
+biologic product,生物制品,special-cargo,冷链物流
+vaccine,疫苗,special-cargo,冷链物流
+vaccine distribution,疫苗分销,special-cargo,冷链物流
+ultra-cold chain,超低温冷链,special-cargo,冷链物流
+mRNA vaccine,mRNA疫苗,special-cargo,冷链物流
+insulin,胰岛素,special-cargo,冷链物流
+blood plasma,血浆,special-cargo,冷链物流
+plasma logistics,血浆物流,special-cargo,冷链物流
+blood bank logistics,血库物流,special-cargo,冷链物流
+whole blood transport,全血运输,special-cargo,冷链物流
+red blood cell shipment,红细胞运输,special-cargo,冷链物流
+platelet shipment,血小板运输,special-cargo,冷链物流
+cryoprecipitate,冷沉淀,special-cargo,冷链物流
+stem cell transport,干细胞运输,special-cargo,冷链物流
+cell and gene therapy logistics,细胞与基因治疗物流,special-cargo,冷链物流
+clinical trial logistics,临床试验物流,special-cargo,冷链物流
+clinical trial supply chain,临床试验供应链,special-cargo,冷链物流
+investigational medicinal product,临床试验用药品,special-cargo,冷链物流
+comparator drug,对照药品,special-cargo,冷链物流
+API cold storage,原料药冷藏,special-cargo,冷链物流
+lyophilized product,冻干粉针产品,special-cargo,冷链物流
+lyophilization,冻干工艺,special-cargo,冷链物流
+vial,西林瓶,special-cargo,冷链物流
+ampoule,安瓿瓶,special-cargo,冷链物流
+pre-filled syringe,预充式注射器,special-cargo,冷链物流
+autoinjector,自动注射笔,special-cargo,冷链物流
+qualified container,合格运输容器,special-cargo,冷链物流
+payload capacity,有效载荷容量,special-cargo,冷链物流
+hold time,运输箱持温时长,special-cargo,冷链物流
+runtime validation,持效时间验证,special-cargo,冷链物流
+stability data,稳定性数据,special-cargo,冷链物流
+product stability,产品稳定性,special-cargo,冷链物流
+shelf life,贮存期,special-cargo,冷链物流
+expiry date,有效期,special-cargo,冷链物流
+batch record,批生产记录,special-cargo,冷链物流
+lot number,生产批号,special-cargo,冷链物流
+qualified person,质量受权人,special-cargo,冷链物流
+NMPA,国家药品监督管理局,special-cargo,冷链物流
+FDA,美国食品药品监督管理局,special-cargo,冷链物流
+EMA,欧洲药品管理局,special-cargo,冷链物流
+PMDA,日本药品医疗器械综合机构,special-cargo,冷链物流
+hospital pharmacy,医院药房,special-cargo,冷链物流
+specialty pharmacy distribution,专科药房配送,special-cargo,冷链物流
+home infusion delivery,居家输液配送,special-cargo,冷链物流
+medication delivery,药品配送,special-cargo,冷链物流
+direct to pharmacy distribution,直接配送至药房,special-cargo,冷链物流
+3PL cold chain provider,冷链第三方物流服务商,special-cargo,冷链物流
+GDP compliant warehouse,GDP合规仓库,special-cargo,冷链物流
+qualified cold room,合格冷间,special-cargo,冷链物流
+walk-in cold room,步入式冷间,special-cargo,冷链物流
+quarantine storage,隔离储存,special-cargo,冷链物流
+product release,产品放行,special-cargo,冷链物流
+batch release,批放行,special-cargo,冷链物流
+CAPA,纠正与预防措施,special-cargo,冷链物流
+root cause analysis,根本原因分析,special-cargo,冷链物流
+quality agreement,质量协议,special-cargo,冷链物流
+quality manual,质量手册,special-cargo,冷链物流
+standard operating procedure,标准操作规程,special-cargo,冷链物流
+risk assessment,风险评估,special-cargo,冷链物流
+risk-based approach,基于风险的管理方法,special-cargo,冷链物流
+change control,变更控制,special-cargo,冷链物流
+mock recall,模拟召回,special-cargo,冷链物流
+product recall,产品召回,special-cargo,冷链物流
+excursion disposition,温度偏移处置,special-cargo,冷链物流
+stability budget,稳定性预算,special-cargo,冷链物流
+time out of refrigeration,脱冷时间,special-cargo,冷链物流
+blood derivative,血液制品,special-cargo,冷链物流
+immunoglobulin,免疫球蛋白,special-cargo,冷链物流
+antiserum,抗血清,special-cargo,冷链物流
+culture medium,培养基,special-cargo,冷链物流
+reagent logistics,试剂物流,special-cargo,冷链物流
+diagnostic reagent,诊断试剂,special-cargo,冷链物流
+specimen transport,样本运输,special-cargo,冷链物流
+biospecimen shipping,生物样本运输,special-cargo,冷链物流
+dry shipper,干式液氮运输罐,special-cargo,冷链物流
+vapor phase liquid nitrogen,气相液氮,special-cargo,冷链物流
+cell therapy courier,细胞治疗专人专递,special-cargo,冷链物流
+dedicated courier service,专人专递服务,special-cargo,冷链物流
+next flight out,最快航班递送,special-cargo,冷链物流
+temperature controlled packaging,温控包装,special-cargo,冷链物流
+validated packaging system,验证包装系统,special-cargo,冷链物流
+payload configuration,载荷配置方案,special-cargo,冷链物流
+food cold chain,食品冷链,special-cargo,冷链物流
+fresh produce,生鲜农产品,special-cargo,冷链物流
+fruit and vegetable logistics,果蔬物流,special-cargo,冷链物流
+dairy cold chain,乳制品冷链,special-cargo,冷链物流
+milk collection route,牛奶收集线路,special-cargo,冷链物流
+chilled meat,冷却肉,special-cargo,冷链物流
+frozen meat,冷冻肉,special-cargo,冷链物流
+poultry,禽肉,special-cargo,冷链物流
+seafood,海鲜,special-cargo,冷链物流
+fresh fish logistics,鲜鱼物流,special-cargo,冷链物流
+live seafood transport,活海鲜运输,special-cargo,冷链物流
+live fish tank,活鱼水舱,special-cargo,冷链物流
+oxygenation system,增氧系统,special-cargo,冷链物流
+aquaculture cold chain,水产养殖冷链,special-cargo,冷链物流
+sashimi tuna transport,金枪鱼刺身级运输,special-cargo,冷链物流
+super freezer,超低温金枪鱼冷冻柜,special-cargo,冷链物流
+ice glazing,镀冰衣,special-cargo,冷链物流
+IQF,个体速冻,special-cargo,冷链物流
+quick freezing,快速冻结,special-cargo,冷链物流
+freezer burn,冻藏灼伤,special-cargo,冷链物流
+thawing,解冻,special-cargo,冷链物流
+chocolate transport,巧克力运输,special-cargo,冷链物流
+chocolate bloom,巧克力起霜,special-cargo,冷链物流
+ice cream distribution,冰淇淋配送,special-cargo,冷链物流
+floriculture cold chain,花卉冷链,special-cargo,冷链物流
+cut flower logistics,切花物流,special-cargo,冷链物流
+ethylene sensitivity,乙烯敏感性,special-cargo,冷链物流
+ethylene scrubbing,乙烯脱除,special-cargo,冷链物流
+ripening,催熟,special-cargo,冷链物流
+ripening room,催熟间,special-cargo,冷链物流
+banana ripening,香蕉催熟,special-cargo,冷链物流
+degreening,脱绿处理,special-cargo,冷链物流
+hydrocooling,水冷预冷,special-cargo,冷链物流
+forced air cooling,强制通风预冷,special-cargo,冷链物流
+vacuum cooling,真空预冷,special-cargo,冷链物流
+top icing,碎冰覆盖保鲜,special-cargo,冷链物流
+flake ice,片冰,special-cargo,冷链物流
+ice slurry,冰浆,special-cargo,冷链物流
+egg transport,鸡蛋冷链运输,special-cargo,冷链物流
+frozen egg product,冷冻蛋制品,special-cargo,冷链物流
+potato storage,马铃薯储藏,special-cargo,冷链物流
+onion storage,洋葱储藏,special-cargo,冷链物流
+juice cold chain,果汁冷链,special-cargo,冷链物流
+beer cold chain,啤酒冷链,special-cargo,冷链物流
+wine temperature control,葡萄酒温控运输,special-cargo,冷链物流
+wine shipping container,葡萄酒恒温运输箱,special-cargo,冷链物流
+grocery distribution,生鲜配送,special-cargo,冷链物流
+online grocery cold chain,生鲜电商冷链,special-cargo,冷链物流
+community group buying cold chain,社区团购冷链,special-cargo,冷链物流
+food service cold chain,餐饮供应链冷链,special-cargo,冷链物流
+central kitchen,中央厨房,special-cargo,冷链物流
+cold chain retail display,冷链零售陈列柜,special-cargo,冷链物流
+frozen food retail,冷冻食品零售,special-cargo,冷链物流
+refrigerated locker,冷藏自提柜,special-cargo,冷链物流
+food loss reduction,食物损耗控制,special-cargo,冷链物流
+hot food delivery,热链配送,special-cargo,冷链物流
+frozen dessert transport,冷冻甜品运输,special-cargo,冷链物流
+cold storage warehouse,冷藏仓库,special-cargo,冷链物流
+frozen warehouse,冷冻仓库,special-cargo,冷链物流
+cold chain distribution center,冷链分拨中心,special-cargo,冷链物流
+cross docking,越库作业,special-cargo,冷链物流
+cold cross docking,冷链越库作业,special-cargo,冷链物流
+loading dock,装卸月台,special-cargo,冷链物流
+receiving dock,收货月台,special-cargo,冷链物流
+dock leveler,月台调节板,special-cargo,冷链物流
+temperature zone,温区,special-cargo,冷链物流
+multi-temperature warehouse,多温区仓库,special-cargo,冷链物流
+deep freeze chamber,深冷库房,special-cargo,冷链物流
+chill room,冷却间,special-cargo,冷链物流
+freezer room,冷冻间,special-cargo,冷链物流
+blast freezer room,速冻间,special-cargo,冷链物流
+controlled atmosphere storage,气调储藏库,special-cargo,冷链物流
+modified atmosphere packaging,改性气体包装,special-cargo,冷链物流
+automated cold storage,自动化冷库,special-cargo,冷链物流
+automated storage and retrieval system,自动化存取系统,special-cargo,冷链物流
+pallet racking,托盘货架,special-cargo,冷链物流
+drive-in racking,贯通式货架,special-cargo,冷链物流
+mobile racking,移动式货架,special-cargo,冷链物流
+FIFO,先进先出,special-cargo,冷链物流
+FEFO,先到期先出,special-cargo,冷链物流
+batch picking,批次拣选,special-cargo,冷链物流
+slotting,货位优化,special-cargo,冷链物流
+staging area,待发区,special-cargo,冷链物流
+load consolidation,集货作业,special-cargo,冷链物流
+cold store clothing,冷库作业服,special-cargo,冷链物流
+freezer suit,防寒服,special-cargo,冷链物流
+freezer gloves,防寒手套,special-cargo,冷链物流
+work hour limit in freezer,冷库作业时限,special-cargo,冷链物流
+hot gas defrost,热气除霜,special-cargo,冷链物流
+defrost cycle,除霜循环,special-cargo,冷链物流
+electric defrost,电热除霜,special-cargo,冷链物流
+frost heave,地基冻胀,special-cargo,冷链物流
+insulated panel,冷库保温板,special-cargo,冷链物流
+PU panel,聚氨酯保温板,special-cargo,冷链物流
+PIR panel,聚异氰脲酸酯保温板,special-cargo,冷链物流
+cold store floor,冷库地坪,special-cargo,冷链物流
+refrigeration plant room,制冷机房,special-cargo,冷链物流
+compressor rack,并联压缩机组,special-cargo,冷链物流
+condensing unit,冷凝机组,special-cargo,冷链物流
+cooling tower,冷却塔,special-cargo,冷链物流
+refrigeration capacity,制冷量,special-cargo,冷链物流
+energy monitoring,冷库能耗监控,special-cargo,冷链物流
+standby generator,备用发电机组,special-cargo,冷链物流
+refrigerant leak detection,制冷剂泄漏检测,special-cargo,冷链物流
+F-gas regulation,含氟气体法规,special-cargo,冷链物流
+ammonia detector,氨气泄漏探测器,special-cargo,冷链物流
+CO2 cascade system,二氧化碳复叠制冷系统,special-cargo,冷链物流
+warehouse management system,仓储管理系统,special-cargo,冷链物流
+inventory accuracy,库存准确率,special-cargo,冷链物流
+pallet exchange,托盘交换,special-cargo,冷链物流
+returnable pallet,可循环托盘,special-cargo,冷链物流
+returnable crate,可循环周转箱,special-cargo,冷链物流
+cold chain KPI,冷链绩效指标,special-cargo,冷链物流
+on-time in-full,准时足量交付,special-cargo,冷链物流
+order fulfillment,订单履约,special-cargo,冷链物流
+cold chain carbon footprint,冷链碳足迹,special-cargo,冷链物流
+solar powered refrigeration,太阳能制冷系统,special-cargo,冷链物流
+reefer monitoring service,冷藏箱远程监控服务,special-cargo,冷链物流
+temperature alarm notification,温度报警通知,special-cargo,冷链物流
+cold chain training,冷链操作培训,special-cargo,冷链物流
