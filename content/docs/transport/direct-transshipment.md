@@ -1,7 +1,7 @@
 ---
 title: "Direct Transshipment"
 linkTitle: "直接换装"
-date: 2026-11-14
+date: 2026-11-15
 type: docs
 subcategory: "多式联运"
 ---
@@ -10,35 +10,34 @@ subcategory: "多式联运"
 
 ## 定义
 
-Direct Transshipment（中文：直接换装）是指货物在转运港口从一艘运输工具（如船舶、飞机）直接卸下并装载到另一艘前往目的港的运输工具上的物流操作。在此过程中，货物通常不在港口或机场的仓库进行长期存储，而是以最快的速度完成衔接。
+Direct Transshipment（直接换装）是指货物在转运港从一艘运输工具直接卸下并装上另一艘运输工具运往目的地，期间不经过码头仓库暂存或理货的物流操作方式。这种模式多用于减少货损风险、加速班轮衔接或处理特殊货物。
 
 ## 详细说明
 
-- 使用场景：常用于远洋航线中因航道限制大船无法直达、航班衔接优化，或航空快件为了抢时效而进行的快捷转运。
-- 关键规则或数字：国际海运中，直接换装通常要求船期高度衔接，前后两程船的间隔时间（Laytime）极短，部分港口对直转货物的堆存时间有严格限制（如海关监管区内停留一般不超过24-48小时）。
-- 实务注意事项：操作时必须确保前后两程船的舱单信息、海关转关申报（In-transit/Transshipment Customs Declaration）无缝对接，否则极易因海关查验或单证滞后导致货物滞港，产生高昂的滞箱费和码头操作费。
+- 使用场景：常用于冷藏危险品、大件超限货物，或船期衔接极紧凑的高效干支线互转。
+- 关键规则：要求两艘衔接的船舶靠泊时间高度契合，通常需要在卸船前完成海关转关申报或具备有效的直转许可，以实现无缝对接。
+- 实务注意事项：对港口吊力、现场作业效率及船公司之间的协同要求极高；若因前序航班延误导致无法直转，货物可能被迫落地转为普通中转，产生额外移位费和滞箱费。
 
 ## 中英对照
 
-| 英文表达 | 中文翻译 |
+| 中文表达 | 英文表达 |
 | :--- | :--- |
-| Direct Transshipment | 直接换装 / 直接转运 |
-| Port of Transshipment | 转运港 |
-| Connecting Vessel | 衔接船舶 / 二程船 |
-| Transshipment Bill of Lading | 转运提单 |
+| 直接换装 | Direct Transshipment |
+| 船到船转运 | Ship-to-Ship Transfer (STS) |
+| 直转提单 | Direct Transshipment Bill of Lading |
+| 转运港 | Port of Transshipment |
 
 ## 相关术语
 
 - Indirect Transshipment（间接换装）
+- Hub Port（枢纽港）
 - Through Bill of Lading（联运提单）
-- Transshipment Port（转运港）
-- Cut-off Time（截单时间/截货时间）
-- Connecting Carrier（承运人续运段）
+- Feeder Vessel（驳船）
 
 ## 常见误区
 
-- 误区一：认为直接换装不需要向海关申报。实际上，即使货物不落地入库，仍需在转运港办理严格的中转海关手续。
-- 误区二：将直接换装与“直航”（Direct Shipment）混淆。直接换装涉及中途更换运输工具，而直航是指货物自起运港至目的港中途不换船。
+- 误以为直接换装不需要向海关申报转关，实际上大多数国际中转港仍需依规进行海关电子舱单比对和换装确认。
+- 混淆了直接换装与普通中转（Indirect Transshipment），后者包含在港区堆场落地、仓储及重新集拼的环节。
 
 ---
 

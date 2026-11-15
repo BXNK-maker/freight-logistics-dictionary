@@ -6230,105 +6230,105 @@ Street Turn Container,街道直接还箱,transport,多式联运,published
 Container Yard Interchange,集装箱堆场交接,transport,多式联运,published
 Pierce Point,多式联运衔接点,transport,多式联运,published
 Bimodal Trailer,双模式挂车,transport,多式联运,pending
-Roadrailer,公路铁路两用挂车,transport,多式联运,pending
+Roadrailer,公路铁路两用挂车,transport,多式联运,published
 Iron Highway System,铁路公路两用系统,transport,多式联运,pending
-Modalohr System,罗罗尔驮背系统,transport,多式联运,pending
-CargoDomino System,多米诺驮背系统,transport,多式联运,pending
-Low Loader Wagon for Road Trailers,驮背低板车,transport,多式联运,pending
-Roll-on Roll-off Train,滚装列车,transport,多式联运,pending
-Truck-on-Train Service,货车搭载列车服务,transport,多式联运,pending
-Combi Road-Rail Vehicle,公铁两用车,transport,多式联运,pending
-Intermodal Container Transfer Facility,集装箱转运设施,transport,多式联运,pending
-CTF Terminal,集装箱转运码头,transport,多式联运,pending
-Direct Transshipment,直接换装,transport,多式联运,pending
-Cross-Docking in Intermodal,联运越库,transport,多式联运,pending
-Inland Waterway Intermodal,内河联运,transport,多式联运,pending
-Barge Intermodal Service,驳船联运服务,transport,多式联运,pending
-Feeder Rail Service,铁路接驳服务,transport,多式联运,pending
-Feeder Vessel Service,支线船接驳服务,transport,多式联运,pending
-Mother Vessel Feeding,干线船喂给,transport,多式联运,pending
-Hub-and-Spoke Intermodal,轴辐式联运,transport,多式联运,pending
-Point-to-Point Intermodal,点对点联运,transport,多式联运,pending
-Door-to-Door Intermodal,门到门联运,transport,多式联运,pending
-One-Stop Intermodal Booking,联运一站订舱,transport,多式联运,pending
-Single Window Intermodal Data,联运单一窗口数据,transport,多式联运,pending
-Seamless Intermodal Transfer,无缝联运换乘,transport,多式联运,pending
-Transit Time Guarantee,运输时间保证,transport,多式联运,pending
-Guaranteed Capacity Agreement,运力保证协议,transport,多式联运,pending
-Volume Commitment Contract,货量承诺合同,transport,多式联运,pending
-Take-or-Pay Clause,照付不议条款,transport,多式联运,pending
-Free Time at Transshipment,转运免费堆存期,transport,多式联运,pending
-Demurrage in Intermodal,联运场站滞期费,transport,多式联运,pending
-Detention in Intermodal,联运箱体滞留费,transport,多式联运,pending
-Combined Transport Surcharge,联运附加费,transport,多式联运,pending
-Modal Shift Subsidy,运输方式转换补贴,transport,多式联运,pending
-Modal Shift Incentive,多式联运激励政策,transport,多式联运,pending
-Intermodal Carbon Saving,联运碳减排,transport,多式联运,pending
-Landbridge Service,陆桥运输服务,transport,大陆桥运输,pending
-Landbridge Rate,陆桥运价,transport,大陆桥运输,pending
-Micro-Landbridge,微陆桥运输,transport,大陆桥运输,pending
-Siberian Landbridge,西伯利亚大陆桥,transport,大陆桥运输,pending
-New Eurasian Landbridge,新亚欧大陆桥,transport,大陆桥运输,pending
-North American Landbridge,北美陆桥运输,transport,大陆桥运输,pending
-Trans-American Rail Landbridge,横贯美洲铁路陆桥,transport,大陆桥运输,pending
-Double-Stack Landbridge Train,双层陆桥列车,transport,大陆桥运输,pending
-Iberian Landbridge,伊比利亚陆桥,transport,大陆桥运输,pending
-Italian Landbridge,意大利陆桥,transport,大陆桥运输,pending
-Caucasus Landbridge,高加索陆桥,transport,大陆桥运输,pending
-Middle Corridor Landbridge,中间走廊陆桥,transport,大陆桥运输,pending
-Southern Corridor Route,南部走廊线路,transport,大陆桥运输,pending
-Northern Corridor Route,北部走廊线路,transport,大陆桥运输,pending
-Central Corridor Route,中部走廊线路,transport,大陆桥运输,pending
-Eastern Landbridge,东部陆桥,transport,大陆桥运输,pending
-Bridge Transit Time,陆桥过境时间,transport,大陆桥运输,pending
-Landbridge Competitiveness,陆桥竞争力分析,transport,大陆桥运输,pending
-Corridor Selection Model,走廊选择模型,transport,大陆桥运输,pending
-Multicriteria Route Evaluation,多准则路线评估,transport,大陆桥运输,pending
-Cost-Time-Carbon Tradeoff,成本时间碳权衡,transport,大陆桥运输,pending
-Routing Flexibility Clause,路线灵活条款,transport,大陆桥运输,pending
-Deviation Clause in Landbridge,陆桥绕航条款,transport,大陆桥运输,pending
-Transit Visa Requirement,过境签证要求,transport,大陆桥运输,pending
-Transit Customs Regime,过境海关制度,transport,大陆桥运输,pending
-Carnet Transit System,通关册过境制度,transport,大陆桥运输,pending
-NCTS Transit System,新计算机化过境系统,transport,大陆桥运输,pending
-Common Transit Procedure,共同过境程序,transport,大陆桥运输,pending
-Union Transit Procedure,联盟过境程序,transport,大陆桥运输,pending
-External Transit Procedure,外部过境程序,transport,大陆桥运输,pending
-Internal Transit Procedure,内部过境程序,transport,大陆桥运输,pending
-Guarantor for Transit,过境担保人,transport,大陆桥运输,pending
-Transit Guarantee Bond,过境保证金,transport,大陆桥运输,pending
-Transit Accompanying Document Number,过境随附单证号,transport,大陆桥运输,pending
-Transit Declaration,过境申报,transport,大陆桥运输,pending
-Transit Release,过境放行,transport,大陆桥运输,pending
-Pipeline Transport,管道运输,transport,管道运输,pending
-Crude Oil Pipeline,原油管道,transport,管道运输,pending
-Product Pipeline,成品油管道,transport,管道运输,pending
-Natural Gas Pipeline,天然气管道,transport,管道运输,pending
-Slurry Pipeline,浆体管道,transport,管道运输,pending
-Ore Slurry Pipeline,矿浆输送管道,transport,管道运输,pending
-Batching in Pipeline,管道顺序输送,transport,管道运输,pending
-Pipeline Pigging,管道清管作业,transport,管道运输,pending
-Intelligent Pigging,智能清管检测,transport,管道运输,pending
-Pipeline Pig Signaler,清管器通过指示器,transport,管道运输,pending
-Compressor Station,压缩机站,transport,管道运输,pending
-Pumping Station,泵站,transport,管道运输,pending
-Metering Station,计量站,transport,管道运输,pending
-Pressure Reduction Station,调压站,transport,管道运输,pending
-City Gate Station,城市门站,transport,管道运输,pending
-Pipeline Emergency Shutdown System,管道紧急切断系统,transport,管道运输,pending
-Pipeline Leak Detection,管道泄漏检测,transport,管道运输,pending
-Fiber Optic Leak Detection,光纤泄漏检测,transport,管道运输,pending
-Pipeline Right of Way,管道用地权,transport,管道运输,pending
-Pipeline Third-Party Damage,管道第三方损坏,transport,管道运输,pending
-Throughput Agreement,输送量协议,transport,管道运输,pending
-Take-or-Pay Pipeline Contract,管道照付不议合同,transport,管道运输,pending
-Pipeline Tariff,管道输送费率,transport,管道运输,pending
-Pipeline Interconnection,管道互联互通,transport,管道运输,pending
-LNG Regasification Terminal,液化天然气再气化终端,transport,管道运输,pending
-Truck-to-Ship Bunkering,船对船岸加油,transport,多式联运衔接,pending
-Intermodal Terminal,多式联运枢纽,transport,多式联运衔接,pending
-Extended Gate,延伸闸口,transport,多式联运衔接,pending
-Virtual Port,虚拟港口,transport,多式联运衔接,pending
+Modalohr System,罗罗尔驮背系统,transport,多式联运,published
+CargoDomino System,多米诺驮背系统,transport,多式联运,published
+Low Loader Wagon for Road Trailers,驮背低板车,transport,多式联运,published
+Roll-on Roll-off Train,滚装列车,transport,多式联运,published
+Truck-on-Train Service,货车搭载列车服务,transport,多式联运,published
+Combi Road-Rail Vehicle,公铁两用车,transport,多式联运,published
+Intermodal Container Transfer Facility,集装箱转运设施,transport,多式联运,published
+CTF Terminal,集装箱转运码头,transport,多式联运,published
+Direct Transshipment,直接换装,transport,多式联运,published
+Cross-Docking in Intermodal,联运越库,transport,多式联运,published
+Inland Waterway Intermodal,内河联运,transport,多式联运,published
+Barge Intermodal Service,驳船联运服务,transport,多式联运,published
+Feeder Rail Service,铁路接驳服务,transport,多式联运,published
+Feeder Vessel Service,支线船接驳服务,transport,多式联运,published
+Mother Vessel Feeding,干线船喂给,transport,多式联运,published
+Hub-and-Spoke Intermodal,轴辐式联运,transport,多式联运,published
+Point-to-Point Intermodal,点对点联运,transport,多式联运,published
+Door-to-Door Intermodal,门到门联运,transport,多式联运,published
+One-Stop Intermodal Booking,联运一站订舱,transport,多式联运,published
+Single Window Intermodal Data,联运单一窗口数据,transport,多式联运,published
+Seamless Intermodal Transfer,无缝联运换乘,transport,多式联运,published
+Transit Time Guarantee,运输时间保证,transport,多式联运,published
+Guaranteed Capacity Agreement,运力保证协议,transport,多式联运,published
+Volume Commitment Contract,货量承诺合同,transport,多式联运,published
+Take-or-Pay Clause,照付不议条款,transport,多式联运,published
+Free Time at Transshipment,转运免费堆存期,transport,多式联运,published
+Demurrage in Intermodal,联运场站滞期费,transport,多式联运,published
+Detention in Intermodal,联运箱体滞留费,transport,多式联运,published
+Combined Transport Surcharge,联运附加费,transport,多式联运,published
+Modal Shift Subsidy,运输方式转换补贴,transport,多式联运,published
+Modal Shift Incentive,多式联运激励政策,transport,多式联运,published
+Intermodal Carbon Saving,联运碳减排,transport,多式联运,published
+Landbridge Service,陆桥运输服务,transport,大陆桥运输,published
+Landbridge Rate,陆桥运价,transport,大陆桥运输,published
+Micro-Landbridge,微陆桥运输,transport,大陆桥运输,published
+Siberian Landbridge,西伯利亚大陆桥,transport,大陆桥运输,published
+New Eurasian Landbridge,新亚欧大陆桥,transport,大陆桥运输,published
+North American Landbridge,北美陆桥运输,transport,大陆桥运输,published
+Trans-American Rail Landbridge,横贯美洲铁路陆桥,transport,大陆桥运输,published
+Double-Stack Landbridge Train,双层陆桥列车,transport,大陆桥运输,published
+Iberian Landbridge,伊比利亚陆桥,transport,大陆桥运输,published
+Italian Landbridge,意大利陆桥,transport,大陆桥运输,published
+Caucasus Landbridge,高加索陆桥,transport,大陆桥运输,published
+Middle Corridor Landbridge,中间走廊陆桥,transport,大陆桥运输,published
+Southern Corridor Route,南部走廊线路,transport,大陆桥运输,published
+Northern Corridor Route,北部走廊线路,transport,大陆桥运输,published
+Central Corridor Route,中部走廊线路,transport,大陆桥运输,published
+Eastern Landbridge,东部陆桥,transport,大陆桥运输,published
+Bridge Transit Time,陆桥过境时间,transport,大陆桥运输,published
+Landbridge Competitiveness,陆桥竞争力分析,transport,大陆桥运输,published
+Corridor Selection Model,走廊选择模型,transport,大陆桥运输,published
+Multicriteria Route Evaluation,多准则路线评估,transport,大陆桥运输,published
+Cost-Time-Carbon Tradeoff,成本时间碳权衡,transport,大陆桥运输,published
+Routing Flexibility Clause,路线灵活条款,transport,大陆桥运输,published
+Deviation Clause in Landbridge,陆桥绕航条款,transport,大陆桥运输,published
+Transit Visa Requirement,过境签证要求,transport,大陆桥运输,published
+Transit Customs Regime,过境海关制度,transport,大陆桥运输,published
+Carnet Transit System,通关册过境制度,transport,大陆桥运输,published
+NCTS Transit System,新计算机化过境系统,transport,大陆桥运输,published
+Common Transit Procedure,共同过境程序,transport,大陆桥运输,published
+Union Transit Procedure,联盟过境程序,transport,大陆桥运输,published
+External Transit Procedure,外部过境程序,transport,大陆桥运输,published
+Internal Transit Procedure,内部过境程序,transport,大陆桥运输,published
+Guarantor for Transit,过境担保人,transport,大陆桥运输,published
+Transit Guarantee Bond,过境保证金,transport,大陆桥运输,published
+Transit Accompanying Document Number,过境随附单证号,transport,大陆桥运输,published
+Transit Declaration,过境申报,transport,大陆桥运输,published
+Transit Release,过境放行,transport,大陆桥运输,published
+Pipeline Transport,管道运输,transport,管道运输,published
+Crude Oil Pipeline,原油管道,transport,管道运输,published
+Product Pipeline,成品油管道,transport,管道运输,published
+Natural Gas Pipeline,天然气管道,transport,管道运输,published
+Slurry Pipeline,浆体管道,transport,管道运输,published
+Ore Slurry Pipeline,矿浆输送管道,transport,管道运输,published
+Batching in Pipeline,管道顺序输送,transport,管道运输,published
+Pipeline Pigging,管道清管作业,transport,管道运输,published
+Intelligent Pigging,智能清管检测,transport,管道运输,published
+Pipeline Pig Signaler,清管器通过指示器,transport,管道运输,published
+Compressor Station,压缩机站,transport,管道运输,published
+Pumping Station,泵站,transport,管道运输,published
+Metering Station,计量站,transport,管道运输,published
+Pressure Reduction Station,调压站,transport,管道运输,published
+City Gate Station,城市门站,transport,管道运输,published
+Pipeline Emergency Shutdown System,管道紧急切断系统,transport,管道运输,published
+Pipeline Leak Detection,管道泄漏检测,transport,管道运输,published
+Fiber Optic Leak Detection,光纤泄漏检测,transport,管道运输,published
+Pipeline Right of Way,管道用地权,transport,管道运输,published
+Pipeline Third-Party Damage,管道第三方损坏,transport,管道运输,published
+Throughput Agreement,输送量协议,transport,管道运输,published
+Take-or-Pay Pipeline Contract,管道照付不议合同,transport,管道运输,published
+Pipeline Tariff,管道输送费率,transport,管道运输,published
+Pipeline Interconnection,管道互联互通,transport,管道运输,published
+LNG Regasification Terminal,液化天然气再气化终端,transport,管道运输,published
+Truck-to-Ship Bunkering,船对船岸加油,transport,多式联运衔接,published
+Intermodal Terminal,多式联运枢纽,transport,多式联运衔接,published
+Extended Gate,延伸闸口,transport,多式联运衔接,published
+Virtual Port,虚拟港口,transport,多式联运衔接,published
 CFS in Intermodal,联运拼箱站,transport,多式联运衔接,pending
 Inland Clearance Depot,内陆清关站,transport,多式联运衔接,pending
 Free Trade Zone Depot,自贸区堆场,transport,多式联运衔接,pending

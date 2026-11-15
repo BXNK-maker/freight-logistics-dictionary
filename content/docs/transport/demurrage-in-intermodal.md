@@ -1,7 +1,7 @@
 ---
 title: "Demurrage in Intermodal"
 linkTitle: "联运场站滞期费"
-date: 2026-11-14
+date: 2026-11-15
 type: docs
 subcategory: "多式联运"
 ---
@@ -10,15 +10,13 @@ subcategory: "多式联运"
 
 ## 定义
 
-Demurrage in Intermodal（联运场站滞期费）是指在多式联运过程中，集装箱或拖车在铁路场站、内陆港或多式联运中心（Intermodal Terminal）停留超期，而产生的场地占用费或设备滞留费。该费用由铁路公司或场站运营方对实际货主或承运人征收，旨在加速场站周转、避免运力堵塞。
-
+联运场站滞期费（Demurrage in Intermodal）是指在集装箱多式联运过程中，货主或收货人未能按时将集装箱从铁路场站、内陆港或多式联运枢纽提出并运走，而向场站经营方支付的超时占用费。该费用的主要目的是促使货物快速流转，防止场站集装箱积压。
 
 ## 详细说明
 
-- 使用场景：主要发生在海铁联运（Intermodal Rail）或公路铁路结合的长途运输中，当集装箱卸下重箱或等待装车重箱时，超出场站规定的免费堆存期（Free Time）便会产生此费用。
-- 关键规则或数字：不同铁路局和场站的免费期政策差异较大，通常为24至48小时不等。一旦超期，计费标准按天累进，且周末和节假日通常不予扣除。
-- 实务注意事项：货代和外贸企业应密切关注铁路运单状态，提前安排车队提货或还箱，避免因清关延误或拖车短缺导致高昂的滞期罚金。
-
+- 使用场景：主要发生在海铁联运或纯铁路联运中，当集装箱卸在铁路或内陆场站后，未能在规定的免费堆存期（Free Time）内提货。
+- 关键规则或数字：各铁路局或内陆场站通常提供 24 至 48 小时的免费堆存期。一旦超期，费率将按天累进计算，且随堆存时间延长而显著增加。
+- 实务注意事项：内陆场站的 Demurrage 规则通常比港口码头更为严苛，且免费时间较短；节假日通常不扣减免费天数，操作时需密切关注铁路线路和提货预约状态。
 
 ## 中英对照
 
@@ -26,22 +24,20 @@ Demurrage in Intermodal（联运场站滞期费）是指在多式联运过程中
 | :--- | :--- |
 | 联运场站滞期费 | Intermodal Demurrage |
 | 免费堆存期 | Free Time |
-| 铁路场站 | Intermodal Rail Ramp |
-| 箱底费 / 留置费 | Equipment Detention |
-
+| 铁路场站 | Rail Ramp / Intermodal Terminal |
+| 提货单 | Delivery Order (D/O) |
 
 ## 相关术语
 
-- Detention（滞箱费）
-- Free Time（免费期）
-- Intermodal Rail Ramp（铁路多式联运坡道/场站）
-- Per Diem（日租费）
-
+- `Detention in Intermodal（联运集装箱超期使用费）`
+- `Free Time（免费期）`
+- `Per Diem（每日租箱费）`
+- `Intermodal Equipment Provider, IEP（多式联运设备运营商）`
 
 ## 常见误区
 
-- 认为Demurrage只存在于港口码头：忽视了内陆铁路场站和多式联运中心同样会产生严格的滞期费。
-- 混淆Demurrage和Detention：误将场站内堆存超期产生的费作集装箱超期使用费。
+- 认为 Demurrage 只存在于海运码头，忽视了铁路和内陆场站同样存在高额的滞期风险。
+- 将联运场站的 Demurrage 与船公司收取的 Demurrage 混为一谈，两者由不同的主体收取，且适用完全独立的规则。
 
 ---
 

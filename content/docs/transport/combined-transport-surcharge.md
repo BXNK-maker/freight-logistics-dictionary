@@ -1,7 +1,7 @@
 ---
 title: "Combined Transport Surcharge"
 linkTitle: "联运附加费"
-date: 2026-11-14
+date: 2026-11-15
 type: docs
 subcategory: "多式联运"
 ---
@@ -10,34 +10,34 @@ subcategory: "多式联运"
 
 ## 定义
 
-联运附加费（Combined Transport Surcharge，简称 CTS）是指当货物运输涉及两种或两种以上不同的运输方式（如海运与陆运、空运与陆运等）组合时，承运人或物流公司因增加的中转操作、多程衔接及协调成本而加收的费用。该费用常见于集装箱多式联运及复杂门到门运输服务中。
+联运附加费（Combined Transport Surcharge，简称 CTS）是指当货物运输涉及两种或两种以上不同的运输方式（如海运与陆运、空运与陆运等）组合时，承运人因转运、操作及多式联运协调而加收的费用。该费用通常由船公司或物流服务商在海运费之外单独列明收取。
 
 ## 详细说明
 
-- 使用场景：主要适用于从内陆工厂出发经港口出口，或经海运到达港口后再转内陆铁路/公路派送的“门到门”或“点到点”综合物流服务。
-- 关键规则或数字：该费用通常由船公司或多式联运经营人在订舱时确认，计费单位多以每自然箱（Per Container）计收，具体金额根据内陆延伸的距离、运输方式转换的复杂程度以及当地基础设施状况而浮动。
-- 实务注意事项：货代在接受客户委托时，需向船公司或车队确认内陆段是否包含在基础海运费中，避免漏报此项附加费；同时应注意油价波动或节假日可能引起的费率临时调整。
+- 使用场景：主要适用于门到门（Door-to-Door）或海铁联运（Sea-Rail Intermodal）、驳船转运等复杂运输路线，当起运地或目的地需要延伸陆运服务时产生。
+- 关键规则或数字：该费用没有统一的固定标准，完全取决于货物的最终交付地点、所涉及的中转次数、运输距离以及不同运输方式之间的衔接成本。船公司通常会根据燃油价格波动和地面交通状况按季度或月度进行调整。
+- 实务注意事项：在向客户报价时，货代人员必须提前向船公司或内陆车队确认是否包含 CTS，以免产生未曾预料的地面附加成本；同时需在提单（B/L）或服务合同中明确责任划分，确保多式联运条款清晰。
 
 ## 中英对照
 
-| 英文表达 | 中文翻译 |
+| 中文表达 | 英文表达 |
 | :--- | :--- |
-| Combined Transport Surcharge | 联运附加费 |
-| Combined Transport Bill of Lading | 联运提单 |
-| Intermodal Transport | 多式联运 |
-| Inland Haulage Charge | 内陆拖卡费 |
+| 联运附加费 | Combined Transport Surcharge (CTS) |
+| 多式联运 | Multimodal Transport / Combined Transport |
+| 海铁联运费 | Sea-Rail Intermodal Freight |
+| 转运费 | Transshipment Fee |
 
 ## 相关术语
 
-- `Intermodal Transport（多式联运）`
+- `Multimodal Transport Document（多式联运单据）`
 - `Through Bill of Lading（全程提单）`
-- `Inland Haulage Charge（内陆运输费）`
-- `Multimodal Transport Operator（多式联运经营人）`
+- `Intermodal Transportation（互换式多式联运）`
+- `Door-to-Door Service（门到门服务）`
 
 ## 常见误区
 
-- 误区一：认为联运附加费就是传统的海运费。实际上它涵盖了非海运段（如公路或铁路）的操作与服务成本。
-- 误区二：混淆内陆拖卡费与联运附加费。内陆拖卡费通常指单一的点对点短途陆运费，而联运附加费多指多式联运体系中因多程转换产生的综合性加收费。
+- 误认为联运附加费就是内陆运费（Inland Haulage）：实际上 CTS 侧重于多式联运过程中的综合操作与协调成本，有时会与纯粹的点对点陆运费分开计收。
+- 认为所有海运拼箱（LCL）或整箱（FCL）都会自动包含此费用：若非门到门条款（如CY-CY港到港），通常不会产生该项附加费。
 
 ---
 

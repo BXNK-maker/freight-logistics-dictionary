@@ -1,7 +1,7 @@
 ---
 title: "CTF Terminal"
 linkTitle: "集装箱转运码头"
-date: 2026-11-14
+date: 2026-11-15
 type: docs
 subcategory: "多式联运"
 ---
@@ -10,34 +10,35 @@ subcategory: "多式联运"
 
 ## 定义
 
-CTF Terminal（全称：Container Freight Terminal，集装箱转运码头）是指专门从事集装箱换装、短期存放、拆箱及拼箱作业的物流节点设施。它通常连接内陆运输与远洋运输，是优化多式联运效率和实现货物集散的核心枢纽。
+CTF Terminal（全称为 Container Freight Terminal，即集装箱转运码头）是专门用于集装箱货物装卸、中转、暂存及陆海联运衔接的物流节点设施。它在国际供应链中扮演着枢纽角色，主要负责将集装箱从远洋船舶、内支线船、卡车或火车上卸下，并高效分拨至最终目的地或下一个运输区段。
 
 ## 详细说明
 
-- 使用场景：广泛应用于港口后方、内陆无水港及多式联运枢纽，主要用于处理集装箱的陆水联运、铁路与公路转运，以及货物的分拨与集拼。
-- 关键规则与运作：根据国际航运惯例，CTF Terminal 实行严格的闸口（Gate）进出登记制度，集装箱堆存通常享有规定的免堆期（Demurrage Free Time），超期需支付滞箱费。
-- 实务注意事项：在安排集装箱转运至 CTF 码头时，货代必须提前确认场站的作业能力、截单时间（CY Closing Time）及设备交接单（EIR）流转程序，避免因信息滞后产生额外滞港费。
+- 使用场景：广泛应用于海港、内河港及内陆物流园区，常用于处理拼箱（LCL）与整箱（FCL）货物的集疏运、海铁联运以及多式联运的中转作业。
+- 关键规则与数字：码头运营通常实行24/7全天候预约制，进出闸必须严格核对设备交接单（EIR）和集装箱封号；货载在场站内享有一定期限的免费堆存期（Demurrage），超时则需按标准缴纳超期堆存费。
+- 实务注意事项：货代和操作人员需密切关注码头的截港时间（Closing Time / SI Cut-off），提前安排拖车进港；同时应注意码头对危险品及特种箱（如冷藏箱）的特殊申报要求和插电费标准。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 集装箱转运码头 | Container Freight Terminal (CTF) |
-| 设备交接单 | Equipment Interchange Receipt (EIR) |
-| 拼箱货业务 | Less than Container Load (LCL) Operation |
-| 多式联运枢纽 | Multimodal Transport Hub |
+| 集装箱转运码头 | Container Freight Terminal (CTF Terminal) |
+| 闸口作业 | Gate Operations |
+| 免费堆存期 | Free Storage Period / Demurrage-free Period |
+| 截港时间 | Closing Time / CY Cut-off |
+| 多式联运 | Intermodal Transport / Multimodal Transport |
 
 ## 相关术语
 
-- ICD (Inland Container Depot，内陆集装箱堆场)
-- CFS (Container Freight Station，集装箱货运站)
 - CY (Container Yard，集装箱堆场)
-- TEU (Twenty-foot Equivalent Unit，二十英尺标准箱)
+- CFS (Container Freight Station，集装箱货运站)
+- EIR (Equipment Interchange Receipt，设备交接单)
+- EDI (Electronic Data Interchange，电子数据交换)
 
 ## 常见误区
 
-- 误区一：认为 CTF Terminal 等同于传统的海洋码头（Marine Terminal）。实际上，CTF 侧重于内陆转运、拼箱及多式联运衔接，并不直接停靠远洋大型集装箱船舶。
-- 误区二：将 CTF 与 CFS 混淆。虽然两者都处理集装箱货物，但 CTF 拥有更大的堆存和转运功能，常涉及海关监管与多种运输方式的转换，而 CFS 更专注于装箱和拆箱作业。
+- 误以为 CTF Terminal 就是堆场（CY）或货运站（CFS），忽视了它作为综合性转运枢纽的整体调度和多式联运功能。
+- 认为货物到达 CTF Terminal 后就可以随时提货，忽略了必须先办结海关放行手续及码头内部理货流程的行业规则。
 
 ---
 
