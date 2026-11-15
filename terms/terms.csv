@@ -6527,106 +6527,106 @@ Voyage Instructions,航次指示,transport,租约条款,published
 Employment Orders,雇佣指示,transport,租约条款,published
 Trading Limits,航行区域限制,transport,租约条款,published
 War Risk Clause,战争险条款,transport,租约条款,published
-Breach of Warranty,违反保证条款,transport,租约条款,pending
-Warranty of Seaworthiness,适航保证,transport,租约条款,pending
-Implied Warranty,默示保证,transport,租约条款,pending
-Safe Port Provision,安全港条款,transport,租约条款,pending
-Exemption Clause,免责条款,transport,租约条款,pending
-Loss of Hire,停租损失,transport,租约条款,pending
-Off-hire Period,停租期间,transport,租约条款,pending
-Off-hire Deduction,扣减租金,transport,租约条款,pending
-Off-hire Clause,停租条款,transport,租约条款,pending
-Hire Payment,租金支付,transport,租约条款,pending
-Hire Statement,租金账单,transport,租约条款,pending
-Hire Calculation,租金计算,transport,租约条款,pending
-Semi-monthly Hire,半月租金,transport,租约条款,pending
-Advance Hire,预付租金,transport,租约条款,pending
-Withholding of Hire,拒付租金,transport,租约条款,pending
-Redelivery Notice,还船通知,transport,租约条款,pending
-Redelivery Survey,还船检验,transport,租约条款,pending
-Redelivery of Vessel,船舶还船,transport,租约条款,pending
-Early Redelivery,提前还船,transport,租约条款,pending
-Late Redelivery,超期还船,transport,租约条款,pending
-Expected Redelivery Date,预计还船日期,transport,租约条款,pending
-Dry Dock Clause,坞修条款,transport,租约条款,pending
-Maintenance Clause,保养条款,transport,租约条款,pending
-Nautical Fault Clause,航行过失免责条款,transport,租约条款,pending
-Liberty to Deviate,自由绕航权,transport,租约条款,pending
-Quarantine Clause,检疫条款,transport,租约条款,pending
-Strike Clause,罢工条款,transport,租约条款,pending
-Lock-out Clause,停工条款,transport,租约条款,pending
-General Exception Clause,一般例外条款,transport,租约条款,pending
-Free of Capture and Seizure,捕获扣押不赔条款,transport,租约条款,pending
-Condemnation Clause,没收条款,transport,租约条款,pending
-Underpayment of Hire,少付租金,transport,租约条款,pending
-Withdrawal of Vessel,撤船,transport,租约条款,pending
-Anti-technicality Clause,反技术性条款,transport,租约条款,pending
-Anti-technicality Notice,反技术性通知,transport,租约条款,pending
-Cancellation Clause,解约条款,transport,租约条款,pending
-Cancellation Date,解约日期,transport,租约条款,pending
-Layday Canceling Date,受载解约日,transport,租约条款,pending
-Interpellation Clause,催告条款,transport,租约条款,pending
-Notice of Cancellation,取消通知,transport,租约条款,pending
-Vessel Description,船舶规范,transport,租约条款,pending
-Redelivery Notice Period,还船通知期,transport,租约条款,pending
-Fuel on Delivery,交船燃油,transport,租约条款,pending
-Bunker Receipt,燃油收据,transport,租约条款,pending
-Bunker Sounding,燃油测深,transport,租约条款,pending
-ROB,剩余燃油量,transport,租约条款,pending
-Remaining on Board,在船剩余量,transport,租约条款,pending
-Loss of Time,时间损失,transport,租约条款,pending
-Deductions from Hire,租金扣减,transport,租约条款,pending
-Charterers Voyage Instruction,租家航次指示,transport,租约条款,pending
-Fuel Saving Clause,节油条款,transport,租约条款,pending
-Economical Speed,经济航速,transport,租约条款,pending
-Virtual Arrival,虚拟到港,transport,租约条款,pending
-Speed Optimization,航速优化,transport,租约条款,pending
-Weather Routing Clause,气象导航条款,transport,租约条款,pending
-Full Away,海上全速,transport,租约条款,pending
-Commencement of Voyage,航次开始,transport,租约条款,pending
-Commencement of Charter,租期开始,transport,租约条款,pending
-Charter Period,租期,transport,租约条款,pending
-Reversible Laytime,可调剂装卸时间,transport,租约条款,pending
-Irreversible Laytime,不可调剂装卸时间,transport,租约条款,pending
-All Purpose Laytime,总装卸时间,transport,租约条款,pending
-Suspension of Laytime,装卸时间中止,transport,租约条款,pending
-Voyage Estimation,航次估算,transport,航次估算,pending
-Voyage Result,航次收益,transport,航次估算,pending
-Voyage Profit and Loss Statement,航次损益表,transport,航次估算,pending
-Voyage Cost,航次成本,transport,航次估算,pending
-Daily Running Cost,日营运成本,transport,航次估算,pending
-Running Cost,营运成本,transport,航次估算,pending
-Daily Consumption at Sea,海上日耗油量,transport,航次估算,pending
-Daily Consumption in Port,港内日耗油量,transport,航次估算,pending
-Heavy Weather Allowance,恶劣天气附加耗油量,transport,航次估算,pending
-Distance Table,航程表,transport,航次估算,pending
-Discharge Rate,卸货效率,transport,航次估算,pending
-Daily Hire,日租金,transport,航次估算,pending
-Earnings per Day,日收益,transport,航次估算,pending
-Time Charter Equivalent,等价期租租金,transport,航次估算,pending
-TCE Rate,等价期租租金率,transport,航次估算,pending
-Round Voyage TCE,往返航次等价期租租金,transport,航次估算,pending
-Breakeven Rate,保本费率,transport,航次估算,pending
-Cash Breakeven Point,现金盈亏平衡点,transport,航次估算,pending
-Operating Cost Ratio,营运成本比率,transport,航次估算,pending
-Depreciation Expense,折旧费用,transport,航次估算,pending
-Capital Expenditure,资本性支出,transport,航次估算,pending
-Deadweight Constant,船舶常数,transport,航次估算,pending
-Freight Factor,运费系数,transport,航次估算,pending
-Port Turnaround Time,港口周转时间,transport,航次估算,pending
-Ballast Distance,空放航程,transport,航次估算,pending
-Laden Distance,重载航程,transport,航次估算,pending
-Sea Days,海上天数,transport,航次估算,pending
-Port Days,港口天数,transport,航次估算,pending
-Waiting Time,等待时间,transport,航次估算,pending
-Idle Days,闲置天数,transport,航次估算,pending
-Off-hire Days,停租天数,transport,航次估算,pending
-Hire Days,租用天数,transport,航次估算,pending
-Daily Consumption,日消耗量,transport,航次估算,pending
-Consumption at Sea,海上油耗,transport,航次估算,pending
-Consumption in Port,港内油耗,transport,航次估算,pending
-Lub Oil Consumption,滑油消耗,transport,航次估算,pending
-Fresh Water Consumption,淡水消耗,transport,航次估算,pending
+Breach of Warranty,违反保证条款,transport,租约条款,published
+Warranty of Seaworthiness,适航保证,transport,租约条款,published
+Implied Warranty,默示保证,transport,租约条款,published
+Safe Port Provision,安全港条款,transport,租约条款,published
+Exemption Clause,免责条款,transport,租约条款,published
+Loss of Hire,停租损失,transport,租约条款,published
+Off-hire Period,停租期间,transport,租约条款,published
+Off-hire Deduction,扣减租金,transport,租约条款,published
+Off-hire Clause,停租条款,transport,租约条款,published
+Hire Payment,租金支付,transport,租约条款,published
+Hire Statement,租金账单,transport,租约条款,published
+Hire Calculation,租金计算,transport,租约条款,published
+Semi-monthly Hire,半月租金,transport,租约条款,published
+Advance Hire,预付租金,transport,租约条款,published
+Withholding of Hire,拒付租金,transport,租约条款,published
+Redelivery Notice,还船通知,transport,租约条款,published
+Redelivery Survey,还船检验,transport,租约条款,published
+Redelivery of Vessel,船舶还船,transport,租约条款,published
+Early Redelivery,提前还船,transport,租约条款,published
+Late Redelivery,超期还船,transport,租约条款,published
+Expected Redelivery Date,预计还船日期,transport,租约条款,published
+Dry Dock Clause,坞修条款,transport,租约条款,published
+Maintenance Clause,保养条款,transport,租约条款,published
+Nautical Fault Clause,航行过失免责条款,transport,租约条款,published
+Liberty to Deviate,自由绕航权,transport,租约条款,published
+Quarantine Clause,检疫条款,transport,租约条款,published
+Strike Clause,罢工条款,transport,租约条款,published
+Lock-out Clause,停工条款,transport,租约条款,published
+General Exception Clause,一般例外条款,transport,租约条款,published
+Free of Capture and Seizure,捕获扣押不赔条款,transport,租约条款,published
+Condemnation Clause,没收条款,transport,租约条款,published
+Underpayment of Hire,少付租金,transport,租约条款,published
+Withdrawal of Vessel,撤船,transport,租约条款,published
+Anti-technicality Clause,反技术性条款,transport,租约条款,published
+Anti-technicality Notice,反技术性通知,transport,租约条款,published
+Cancellation Clause,解约条款,transport,租约条款,published
+Cancellation Date,解约日期,transport,租约条款,published
+Layday Canceling Date,受载解约日,transport,租约条款,published
+Interpellation Clause,催告条款,transport,租约条款,published
+Notice of Cancellation,取消通知,transport,租约条款,published
+Vessel Description,船舶规范,transport,租约条款,published
+Redelivery Notice Period,还船通知期,transport,租约条款,published
+Fuel on Delivery,交船燃油,transport,租约条款,published
+Bunker Receipt,燃油收据,transport,租约条款,published
+Bunker Sounding,燃油测深,transport,租约条款,published
+ROB,剩余燃油量,transport,租约条款,published
+Remaining on Board,在船剩余量,transport,租约条款,published
+Loss of Time,时间损失,transport,租约条款,published
+Deductions from Hire,租金扣减,transport,租约条款,published
+Charterers Voyage Instruction,租家航次指示,transport,租约条款,published
+Fuel Saving Clause,节油条款,transport,租约条款,published
+Economical Speed,经济航速,transport,租约条款,published
+Virtual Arrival,虚拟到港,transport,租约条款,published
+Speed Optimization,航速优化,transport,租约条款,published
+Weather Routing Clause,气象导航条款,transport,租约条款,published
+Full Away,海上全速,transport,租约条款,published
+Commencement of Voyage,航次开始,transport,租约条款,published
+Commencement of Charter,租期开始,transport,租约条款,published
+Charter Period,租期,transport,租约条款,published
+Reversible Laytime,可调剂装卸时间,transport,租约条款,published
+Irreversible Laytime,不可调剂装卸时间,transport,租约条款,published
+All Purpose Laytime,总装卸时间,transport,租约条款,published
+Suspension of Laytime,装卸时间中止,transport,租约条款,published
+Voyage Estimation,航次估算,transport,航次估算,published
+Voyage Result,航次收益,transport,航次估算,published
+Voyage Profit and Loss Statement,航次损益表,transport,航次估算,published
+Voyage Cost,航次成本,transport,航次估算,published
+Daily Running Cost,日营运成本,transport,航次估算,published
+Running Cost,营运成本,transport,航次估算,published
+Daily Consumption at Sea,海上日耗油量,transport,航次估算,published
+Daily Consumption in Port,港内日耗油量,transport,航次估算,published
+Heavy Weather Allowance,恶劣天气附加耗油量,transport,航次估算,published
+Distance Table,航程表,transport,航次估算,published
+Discharge Rate,卸货效率,transport,航次估算,published
+Daily Hire,日租金,transport,航次估算,published
+Earnings per Day,日收益,transport,航次估算,published
+Time Charter Equivalent,等价期租租金,transport,航次估算,published
+TCE Rate,等价期租租金率,transport,航次估算,published
+Round Voyage TCE,往返航次等价期租租金,transport,航次估算,published
+Breakeven Rate,保本费率,transport,航次估算,published
+Cash Breakeven Point,现金盈亏平衡点,transport,航次估算,published
+Operating Cost Ratio,营运成本比率,transport,航次估算,published
+Depreciation Expense,折旧费用,transport,航次估算,published
+Capital Expenditure,资本性支出,transport,航次估算,published
+Deadweight Constant,船舶常数,transport,航次估算,published
+Freight Factor,运费系数,transport,航次估算,published
+Port Turnaround Time,港口周转时间,transport,航次估算,published
+Ballast Distance,空放航程,transport,航次估算,published
+Laden Distance,重载航程,transport,航次估算,published
+Sea Days,海上天数,transport,航次估算,published
+Port Days,港口天数,transport,航次估算,published
+Waiting Time,等待时间,transport,航次估算,published
+Idle Days,闲置天数,transport,航次估算,published
+Off-hire Days,停租天数,transport,航次估算,published
+Hire Days,租用天数,transport,航次估算,published
+Daily Consumption,日消耗量,transport,航次估算,published
+Consumption at Sea,海上油耗,transport,航次估算,published
+Consumption in Port,港内油耗,transport,航次估算,published
+Lub Oil Consumption,滑油消耗,transport,航次估算,published
+Fresh Water Consumption,淡水消耗,transport,航次估算,published
 Ballast Passage,压载航次,transport,航次估算,pending
 Laden Passage,重载航次,transport,航次估算,pending
 Round Voyage Distance,往返航程,transport,航次估算,pending
