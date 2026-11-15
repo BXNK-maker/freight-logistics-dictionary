@@ -6229,9 +6229,9 @@ Chassis Pool,底盘车共享池,transport,多式联运,published
 Street Turn Container,街道直接还箱,transport,多式联运,published
 Container Yard Interchange,集装箱堆场交接,transport,多式联运,published
 Pierce Point,多式联运衔接点,transport,多式联运,published
-Bimodal Trailer,双模式挂车,transport,多式联运,pending
+Bimodal Trailer,双模式挂车,transport,多式联运,published
 Roadrailer,公路铁路两用挂车,transport,多式联运,published
-Iron Highway System,铁路公路两用系统,transport,多式联运,pending
+Iron Highway System,铁路公路两用系统,transport,多式联运,published
 Modalohr System,罗罗尔驮背系统,transport,多式联运,published
 CargoDomino System,多米诺驮背系统,transport,多式联运,published
 Low Loader Wagon for Road Trailers,驮背低板车,transport,多式联运,published
@@ -6329,104 +6329,104 @@ Truck-to-Ship Bunkering,船对船岸加油,transport,多式联运衔接,publishe
 Intermodal Terminal,多式联运枢纽,transport,多式联运衔接,published
 Extended Gate,延伸闸口,transport,多式联运衔接,published
 Virtual Port,虚拟港口,transport,多式联运衔接,published
-CFS in Intermodal,联运拼箱站,transport,多式联运衔接,pending
-Inland Clearance Depot,内陆清关站,transport,多式联运衔接,pending
-Free Trade Zone Depot,自贸区堆场,transport,多式联运衔接,pending
-Customs Bonded Yard,海关监管堆场,transport,多式联运衔接,pending
-Intermodal Drayage,联运短驳运输,transport,多式联运衔接,pending
-Drayage Carrier,短驳承运人,transport,多式联运衔接,pending
-Drayage Move,短驳作业,transport,多式联运衔接,pending
-Dray-Off,掏箱短驳,transport,多式联运衔接,pending
-Transload Facility,转运换装设施,transport,多式联运衔接,pending
-Rail-to-Truck Transfer,铁转公换装,transport,多式联运衔接,pending
-Truck-to-Rail Transfer,公转铁换装,transport,多式联运衔接,pending
-Ship-to-Rail Transfer,船转铁换装,transport,多式联运衔接,pending
-Transshipment Node,换装节点,transport,多式联运衔接,pending
-Milestone Event Tracking,节点事件追踪,transport,多式联运衔接,pending
-Gate-In Event,进场事件,transport,多式联运衔接,pending
-Gate-Out Event,出场事件,transport,多式联运衔接,pending
-Loaded on Rail Event,装车事件,transport,多式联运衔接,pending
-Ramp Event,装卸场站事件,transport,多式联运衔接,pending
-Last Free Day,最后免费日,transport,多式联运衔接,pending
-Per Diem Charge,每日箱租费,transport,多式联运衔接,pending
-Precool in Transit,在途预冷,transport,多式联运衔接,pending
-Gen-Set for Reefer Truck,冷藏车发电机组,transport,多式联运衔接,pending
-Thermo King Unit,冷王制冷机组,transport,多式联运衔接,pending
-Carrier Transicold,开利冷王机组,transport,多式联运衔接,pending
-Reefer Fuel Level Check,冷藏机组油量检查,transport,多式联运衔接,pending
-Customs Pre-Clearance Program,预清关计划,transport,多式联运衔接,pending
-Single Transportation Contract,单一运输合同,transport,多式联运衔接,pending
-Unified Freight Quote,统一运价报价,transport,多式联运衔接,pending
-End-to-End Visibility,端到端可视化,transport,多式联运衔接,pending
-Control Tower Service,物流控制塔服务,transport,多式联运衔接,pending
-Exception Management,异常管理,transport,多式联运衔接,pending
-ETA Notification,预计到达通知,transport,多式联运衔接,pending
-Transit Milestone Alert,运输节点告警,transport,多式联运衔接,pending
-Freight Audit Service,运费审计服务,transport,多式联运衔接,pending
-Invoice Dispute Management,发票争议处理,transport,多式联运衔接,pending
-Settlement Portal,结算门户,transport,多式联运衔接,pending
-Freight Payment Provider,运费支付服务商,transport,多式联运衔接,pending
-Contract Management System,合同管理系统,transport,多式联运衔接,pending
-Tender Management Platform,招标管理平台,transport,多式联运衔接,pending
-Bid Optimization,投标优化,transport,多式联运衔接,pending
-Carrier Selection Criteria,承运商选择标准,transport,多式联运衔接,pending
-On-Time Performance Score,准时率评分,transport,多式联运衔接,pending
-Claim Rate Score,货损索赔率评分,transport,多式联运衔接,pending
-Tender Acceptance Rate,接单率,transport,多式联运衔接,pending
-Lane Coverage,线路覆盖度,transport,多式联运衔接,pending
-Network Balancing,运力网络平衡,transport,多式联运衔接,pending
-Imbalance Surcharge,运力不平衡附加费,transport,多式联运衔接,pending
-Peak Season Surcharge Road,公路旺季附加费,transport,多式联运衔接,pending
-Bunker Related Surcharge Truck,卡车燃油调整系数,transport,多式联运衔接,pending
-Refrigerated Surcharge,冷藏附加费,transport,多式联运衔接,pending
-Hazardous Surcharge Road,公路危险品附加费,transport,多式联运衔接,pending
-Overnight Surcharge,过夜附加费,transport,多式联运衔接,pending
-Weekend Delivery Surcharge,周末配送附加费,transport,多式联运衔接,pending
-Out-of-Gauge Surcharge,超限附加费,transport,多式联运衔接,pending
-Limited Access Surcharge,限行区域附加费,transport,多式联运衔接,pending
-Liftgate Delivery Surcharge,尾板卸货附加费,transport,多式联运衔接,pending
-Inside Delivery Charge,入室送货费,transport,多式联运衔接,pending
-Residential Delivery Surcharge,住宅配送附加费,transport,多式联运衔接,pending
-Redelivery Charge,二次投递费,transport,多式联运衔接,pending
-Reweigh and Inspection,复重与查验,transport,多式联运衔接,pending
-Density Recalculation Charge,密度重算费用,transport,多式联运衔接,pending
-Dimensional Recheck,尺寸复核费,transport,多式联运衔接,pending
-Minimum Pick-Up Charge,最低取件费,transport,多式联运衔接,pending
-Fuel Surcharge Air-Road,空陆联运燃油附加,transport,多式联运衔接,pending
-Trucking Capacity Crunch,运力紧张期,transport,多式联运衔接,pending
-Capacity Procurement,运力采购,transport,多式联运衔接,pending
-Spot Procurement Platform,即期运力采购平台,transport,多式联运衔接,pending
-Automated Load Matching,自动配载匹配,transport,多式联运衔接,pending
-Algorithmic Pricing,算法定价,transport,多式联运衔接,pending
-Dynamic Pricing Trucking,公路动态定价,transport,多式联运衔接,pending
-Predictive Capacity Pricing,运力预测定价,transport,多式联运衔接,pending
-Market Rate Index Trucking,公路运价指数,transport,多式联运衔接,pending
-Drewry Road Freight Rate Index,德路里公路运价指数,transport,多式联运衔接,pending
-Cass Freight Index,卡斯货运指数,transport,多式联运衔接,pending
-ATA Truck Tonnage Index,美国卡车运量指数,transport,多式联运衔接,pending
-Repositioning Cost,空箱调运成本,transport,多式联运衔接,pending
-Relocation Order,调箱指令,transport,多式联运衔接,pending
-Container Leasing Company,集装箱租赁公司,transport,多式联运衔接,pending
-Operating Lease Container,集装箱经营性租赁,transport,多式联运衔接,pending
-Finance Lease Container,集装箱融资租赁,transport,多式联运衔接,pending
-Long Term Lease Container,集装箱长期租赁,transport,多式联运衔接,pending
-Master Lease Agreement,主租赁协议,transport,多式联运衔接,pending
-Container Damage Survey,集装箱残损检验,transport,多式联运衔接,pending
-Wear and Tear Charge,自然磨损扣费,transport,多式联运衔接,pending
-EIR Interchange Charge,设备交接单扣费,transport,多式联运衔接,pending
-Photograph at Interchange,交接拍照取证,transport,多式联运衔接,pending
-Seal Number Verification,铅封号核对,transport,多式联运衔接,pending
-VGM for Road Leg,公路段核实总重,transport,多式联运衔接,pending
-Cargo Weighing Dispute,称重争议,transport,多式联运衔接,pending
-Load Plan Compliance,装载图合规,transport,多式联运衔接,pending
-Axle Weight Distribution,轴重分布,transport,多式联运衔接,pending
-Load Distribution Plan,载荷分布计划,transport,多式联运衔接,pending
-Weight Distribution Software,配载称重软件,transport,多式联运衔接,pending
-Container Packing Standard,集装箱装箱标准,transport,多式联运衔接,pending
-CTU Packing Code,货物运输组件装箱规程,transport,多式联运衔接,pending
-Cargo Restraint Certificate,货物系固证书,transport,多式联运衔接,pending
-Lashing Certificate for Road,公路系固证书,transport,多式联运衔接,pending
-Cargo Securing Manual,货物系固手册,transport,多式联运衔接,pending
+CFS in Intermodal,联运拼箱站,transport,多式联运衔接,published
+Inland Clearance Depot,内陆清关站,transport,多式联运衔接,published
+Free Trade Zone Depot,自贸区堆场,transport,多式联运衔接,published
+Customs Bonded Yard,海关监管堆场,transport,多式联运衔接,published
+Intermodal Drayage,联运短驳运输,transport,多式联运衔接,published
+Drayage Carrier,短驳承运人,transport,多式联运衔接,published
+Drayage Move,短驳作业,transport,多式联运衔接,published
+Dray-Off,掏箱短驳,transport,多式联运衔接,published
+Transload Facility,转运换装设施,transport,多式联运衔接,published
+Rail-to-Truck Transfer,铁转公换装,transport,多式联运衔接,published
+Truck-to-Rail Transfer,公转铁换装,transport,多式联运衔接,published
+Ship-to-Rail Transfer,船转铁换装,transport,多式联运衔接,published
+Transshipment Node,换装节点,transport,多式联运衔接,published
+Milestone Event Tracking,节点事件追踪,transport,多式联运衔接,published
+Gate-In Event,进场事件,transport,多式联运衔接,published
+Gate-Out Event,出场事件,transport,多式联运衔接,published
+Loaded on Rail Event,装车事件,transport,多式联运衔接,published
+Ramp Event,装卸场站事件,transport,多式联运衔接,published
+Last Free Day,最后免费日,transport,多式联运衔接,published
+Per Diem Charge,每日箱租费,transport,多式联运衔接,published
+Precool in Transit,在途预冷,transport,多式联运衔接,published
+Gen-Set for Reefer Truck,冷藏车发电机组,transport,多式联运衔接,published
+Thermo King Unit,冷王制冷机组,transport,多式联运衔接,published
+Carrier Transicold,开利冷王机组,transport,多式联运衔接,published
+Reefer Fuel Level Check,冷藏机组油量检查,transport,多式联运衔接,published
+Customs Pre-Clearance Program,预清关计划,transport,多式联运衔接,published
+Single Transportation Contract,单一运输合同,transport,多式联运衔接,published
+Unified Freight Quote,统一运价报价,transport,多式联运衔接,published
+End-to-End Visibility,端到端可视化,transport,多式联运衔接,published
+Control Tower Service,物流控制塔服务,transport,多式联运衔接,published
+Exception Management,异常管理,transport,多式联运衔接,published
+ETA Notification,预计到达通知,transport,多式联运衔接,published
+Transit Milestone Alert,运输节点告警,transport,多式联运衔接,published
+Freight Audit Service,运费审计服务,transport,多式联运衔接,published
+Invoice Dispute Management,发票争议处理,transport,多式联运衔接,published
+Settlement Portal,结算门户,transport,多式联运衔接,published
+Freight Payment Provider,运费支付服务商,transport,多式联运衔接,published
+Contract Management System,合同管理系统,transport,多式联运衔接,published
+Tender Management Platform,招标管理平台,transport,多式联运衔接,published
+Bid Optimization,投标优化,transport,多式联运衔接,published
+Carrier Selection Criteria,承运商选择标准,transport,多式联运衔接,published
+On-Time Performance Score,准时率评分,transport,多式联运衔接,published
+Claim Rate Score,货损索赔率评分,transport,多式联运衔接,published
+Tender Acceptance Rate,接单率,transport,多式联运衔接,published
+Lane Coverage,线路覆盖度,transport,多式联运衔接,published
+Network Balancing,运力网络平衡,transport,多式联运衔接,published
+Imbalance Surcharge,运力不平衡附加费,transport,多式联运衔接,published
+Peak Season Surcharge Road,公路旺季附加费,transport,多式联运衔接,published
+Bunker Related Surcharge Truck,卡车燃油调整系数,transport,多式联运衔接,published
+Refrigerated Surcharge,冷藏附加费,transport,多式联运衔接,published
+Hazardous Surcharge Road,公路危险品附加费,transport,多式联运衔接,published
+Overnight Surcharge,过夜附加费,transport,多式联运衔接,published
+Weekend Delivery Surcharge,周末配送附加费,transport,多式联运衔接,published
+Out-of-Gauge Surcharge,超限附加费,transport,多式联运衔接,published
+Limited Access Surcharge,限行区域附加费,transport,多式联运衔接,published
+Liftgate Delivery Surcharge,尾板卸货附加费,transport,多式联运衔接,published
+Inside Delivery Charge,入室送货费,transport,多式联运衔接,published
+Residential Delivery Surcharge,住宅配送附加费,transport,多式联运衔接,published
+Redelivery Charge,二次投递费,transport,多式联运衔接,published
+Reweigh and Inspection,复重与查验,transport,多式联运衔接,published
+Density Recalculation Charge,密度重算费用,transport,多式联运衔接,published
+Dimensional Recheck,尺寸复核费,transport,多式联运衔接,published
+Minimum Pick-Up Charge,最低取件费,transport,多式联运衔接,published
+Fuel Surcharge Air-Road,空陆联运燃油附加,transport,多式联运衔接,published
+Trucking Capacity Crunch,运力紧张期,transport,多式联运衔接,published
+Capacity Procurement,运力采购,transport,多式联运衔接,published
+Spot Procurement Platform,即期运力采购平台,transport,多式联运衔接,published
+Automated Load Matching,自动配载匹配,transport,多式联运衔接,published
+Algorithmic Pricing,算法定价,transport,多式联运衔接,published
+Dynamic Pricing Trucking,公路动态定价,transport,多式联运衔接,published
+Predictive Capacity Pricing,运力预测定价,transport,多式联运衔接,published
+Market Rate Index Trucking,公路运价指数,transport,多式联运衔接,published
+Drewry Road Freight Rate Index,德路里公路运价指数,transport,多式联运衔接,published
+Cass Freight Index,卡斯货运指数,transport,多式联运衔接,published
+ATA Truck Tonnage Index,美国卡车运量指数,transport,多式联运衔接,published
+Repositioning Cost,空箱调运成本,transport,多式联运衔接,published
+Relocation Order,调箱指令,transport,多式联运衔接,published
+Container Leasing Company,集装箱租赁公司,transport,多式联运衔接,published
+Operating Lease Container,集装箱经营性租赁,transport,多式联运衔接,published
+Finance Lease Container,集装箱融资租赁,transport,多式联运衔接,published
+Long Term Lease Container,集装箱长期租赁,transport,多式联运衔接,published
+Master Lease Agreement,主租赁协议,transport,多式联运衔接,published
+Container Damage Survey,集装箱残损检验,transport,多式联运衔接,published
+Wear and Tear Charge,自然磨损扣费,transport,多式联运衔接,published
+EIR Interchange Charge,设备交接单扣费,transport,多式联运衔接,published
+Photograph at Interchange,交接拍照取证,transport,多式联运衔接,published
+Seal Number Verification,铅封号核对,transport,多式联运衔接,published
+VGM for Road Leg,公路段核实总重,transport,多式联运衔接,published
+Cargo Weighing Dispute,称重争议,transport,多式联运衔接,published
+Load Plan Compliance,装载图合规,transport,多式联运衔接,published
+Axle Weight Distribution,轴重分布,transport,多式联运衔接,published
+Load Distribution Plan,载荷分布计划,transport,多式联运衔接,published
+Weight Distribution Software,配载称重软件,transport,多式联运衔接,published
+Container Packing Standard,集装箱装箱标准,transport,多式联运衔接,published
+CTU Packing Code,货物运输组件装箱规程,transport,多式联运衔接,published
+Cargo Restraint Certificate,货物系固证书,transport,多式联运衔接,published
+Lashing Certificate for Road,公路系固证书,transport,多式联运衔接,published
+Cargo Securing Manual,货物系固手册,transport,多式联运衔接,published
 Air Ride Suspension Trailer,气垫悬挂挂车,transport,多式联运衔接,pending
 Vibration Damped Trailer,减振挂车,transport,多式联运衔接,pending
 Shelf-Stable Transit,运输货架稳定,transport,多式联运衔接,pending
