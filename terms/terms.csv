@@ -6427,106 +6427,106 @@ CTU Packing Code,货物运输组件装箱规程,transport,多式联运衔接,pub
 Cargo Restraint Certificate,货物系固证书,transport,多式联运衔接,published
 Lashing Certificate for Road,公路系固证书,transport,多式联运衔接,published
 Cargo Securing Manual,货物系固手册,transport,多式联运衔接,published
-Air Ride Suspension Trailer,气垫悬挂挂车,transport,多式联运衔接,pending
-Vibration Damped Trailer,减振挂车,transport,多式联运衔接,pending
-Shelf-Stable Transit,运输货架稳定,transport,多式联运衔接,pending
-Transit Damage Prevention,运输货损预防,transport,多式联运衔接,pending
-Cargo Handling Instructions,货物装卸指示,transport,多式联运衔接,pending
-This Side Up Marking,向上标记,transport,多式联运衔接,pending
-Fragile Marking,易碎标记,transport,多式联运衔接,pending
-Stacking Limit Marking,堆码极限标记,transport,多式联运衔接,pending
-Keep Dry Marking,防潮标记,transport,多式联运衔接,pending
-Centre of Gravity Marking,重心标记,transport,多式联运衔接,pending
-Voyage Charter Party,航次租船合同,transport,租船业务,pending
-Time Charter Party,定期租船合同,transport,租船业务,pending
-Bareboat Charter Party,光船租船合同,transport,租船业务,pending
-Trip Time Charter,航次期租,transport,租船业务,pending
-COA,包运合同,transport,租船业务,pending
-Contract of Affreightment,货运量合同,transport,租船业务,pending
-Consecutive Voyage Charter,连续航次租船,transport,租船业务,pending
-Round Voyage Charter,往返航次租船,transport,租船业务,pending
-Spot Charter,即期租船,transport,租船业务,pending
-Long Term Time Charter,长期期租,transport,租船业务,pending
-Short Term Charter,短期租船,transport,租船业务,pending
-Fixture Recap,成交摘录,transport,租船业务,pending
-Chartering Order,租船订舱委托,transport,租船业务,pending
-Owners Position,船东报盘,transport,租船业务,pending
-Charterers Position,租家报盘,transport,租船业务,pending
-Subject to Details,以细节为准,transport,租船业务,pending
-Subject to Subs,以落实为准,transport,租船业务,pending
-Subject to Stem,以货源落实为准,transport,租船业务,pending
-Subject to Board Approval,以董事会批准为准,transport,租船业务,pending
-Firm Order,确定订单,transport,租船业务,pending
-Bareboat Charter Out,光租出,transport,租船业务,pending
-Charter Party Form,租船合同格式,transport,租船业务,pending
-NYPE,纽约土产交易所期租格式,transport,租船业务,pending
-BALTIME,波尔的摩期租格式,transport,租船业务,pending
-Asbatankvoy,油轮航次租船条款范本,transport,租船业务,pending
-Dry Cargo Chartering,干货租船,transport,租船业务,pending
-Tanker Chartering,油轮租船,transport,租船业务,pending
-LNG Chartering,液化天然气船租船,transport,租船业务,pending
-LPG Chartering,液化石油气船租船,transport,租船业务,pending
-Container Chartering,集装箱船租船,transport,租船业务,pending
-Reefer Chartering,冷藏船租船,transport,租船业务,pending
-Heavy Lift Vessel Chartering,重吊船租船,transport,租船业务,pending
-Offshore Support Vessel Chartering,海工船租船,transport,租船业务,pending
-Tug Chartering,拖轮租用,transport,租船业务,pending
-Barge Chartering,驳船租用,transport,租船业务,pending
-Cargo Owner,货主,transport,租船业务,pending
-Charterer,租船人,transport,租船业务,pending
-Disponent Owner,二船东,transport,租船业务,pending
-Head Owner,注册船东,transport,租船业务,pending
-Sub-charterer,转租人,transport,租船业务,pending
-Sub-let,转租,transport,租船业务,pending
-Back to Back Charter,背靠背租约,transport,租船业务,pending
-Ballast Bonus,空放补贴,transport,租船业务,pending
-Ice Bonus,冰区附加费,transport,租船业务,pending
-Ice Class Bonus,冰级附加费,transport,租船业务,pending
-Heating Bonus,加温附加费,transport,租船业务,pending
-Cleaning Charge,洗舱费,transport,租船业务,pending
-Fumigation Charge,熏蒸费,transport,租船业务,pending
-Draught Survey Charge,水尺计量费,transport,租船业务,pending
-Hold Inspection Fee,验舱费,transport,租船业务,pending
-War Risk Premium,战争险保费,transport,租船业务,pending
-Extra Premium,附加保费,transport,租船业务,pending
-De-hire,终止租约还船,transport,租船业务,pending
-Re-hire,续租,transport,租船业务,pending
-Nominated Vessel,指定船舶,transport,租船业务,pending
-Substitute Vessel,替代船舶,transport,租船业务,pending
-Substitute Clause,替代船条款,transport,租船业务,pending
-Declaration of Vessel,宣布船名,transport,租船业务,pending
-Intended Vessel,预期船舶,transport,租船业务,pending
-Bulk Carrier Chartering,散货船租船,transport,租船业务,pending
-MPP Chartering,多用途船租船,transport,租船业务,pending
-Car Carrier Chartering,汽车船租船,transport,租船业务,pending
-Speed and Consumption Warranty,航速油耗保证条款,transport,租约条款,pending
-Weather Working Day,晴天工作日,transport,租约条款,pending
-Weather Working Day of 24 Hours,连续24小时晴天工作日,transport,租约条款,pending
-Shex,晴天工作日节假日除外,transport,租约条款,pending
-FHex,节假日除外,transport,租约条款,pending
-FIO,船方不管装卸,transport,租约条款,pending
-Gross Terms,总承运条款,transport,租约条款,pending
-Free In,船方不管装货,transport,租约条款,pending
-Free Out,船方不管卸货,transport,租约条款,pending
-Laytime Expiry,装卸时间届满,transport,租约条款,pending
-Laydays,受载日期,transport,租约条款,pending
-Laytime Commencement,装卸时间起算,transport,租约条款,pending
-NOR Tendered,递交装卸准备就绪通知书,transport,租约条款,pending
-NOR Accepted,接受装卸准备就绪通知书,transport,租约条款,pending
-NOR Rejected,拒绝装卸准备就绪通知书,transport,租约条款,pending
-Free Pratique,无疫通行,transport,租约条款,pending
-Turn Time,起算时间,transport,租约条款,pending
-Demurrage Half Despatch,滞期费一半速遣,transport,租约条款,pending
-Once on Demurrage Always on Demurrage,一旦滞期永远滞期,transport,租约条款,pending
-Demurrage Liability,滞期费责任,transport,租约条款,pending
-Demurrage Claim,滞期费索赔,transport,租约条款,pending
-Bunker on Delivery,交船存油,transport,租约条款,pending
-Bunker Price,燃油价格,transport,租约条款,pending
-Deducting Expenses,扣除费用条款,transport,租约条款,pending
-Voyage Instructions,航次指示,transport,租约条款,pending
-Employment Orders,雇佣指示,transport,租约条款,pending
-Trading Limits,航行区域限制,transport,租约条款,pending
-War Risk Clause,战争险条款,transport,租约条款,pending
+Air Ride Suspension Trailer,气垫悬挂挂车,transport,多式联运衔接,published
+Vibration Damped Trailer,减振挂车,transport,多式联运衔接,published
+Shelf-Stable Transit,运输货架稳定,transport,多式联运衔接,published
+Transit Damage Prevention,运输货损预防,transport,多式联运衔接,published
+Cargo Handling Instructions,货物装卸指示,transport,多式联运衔接,published
+This Side Up Marking,向上标记,transport,多式联运衔接,published
+Fragile Marking,易碎标记,transport,多式联运衔接,published
+Stacking Limit Marking,堆码极限标记,transport,多式联运衔接,published
+Keep Dry Marking,防潮标记,transport,多式联运衔接,published
+Centre of Gravity Marking,重心标记,transport,多式联运衔接,published
+Voyage Charter Party,航次租船合同,transport,租船业务,published
+Time Charter Party,定期租船合同,transport,租船业务,published
+Bareboat Charter Party,光船租船合同,transport,租船业务,published
+Trip Time Charter,航次期租,transport,租船业务,published
+COA,包运合同,transport,租船业务,published
+Contract of Affreightment,货运量合同,transport,租船业务,published
+Consecutive Voyage Charter,连续航次租船,transport,租船业务,published
+Round Voyage Charter,往返航次租船,transport,租船业务,published
+Spot Charter,即期租船,transport,租船业务,published
+Long Term Time Charter,长期期租,transport,租船业务,published
+Short Term Charter,短期租船,transport,租船业务,published
+Fixture Recap,成交摘录,transport,租船业务,published
+Chartering Order,租船订舱委托,transport,租船业务,published
+Owners Position,船东报盘,transport,租船业务,published
+Charterers Position,租家报盘,transport,租船业务,published
+Subject to Details,以细节为准,transport,租船业务,published
+Subject to Subs,以落实为准,transport,租船业务,published
+Subject to Stem,以货源落实为准,transport,租船业务,published
+Subject to Board Approval,以董事会批准为准,transport,租船业务,published
+Firm Order,确定订单,transport,租船业务,published
+Bareboat Charter Out,光租出,transport,租船业务,published
+Charter Party Form,租船合同格式,transport,租船业务,published
+NYPE,纽约土产交易所期租格式,transport,租船业务,published
+BALTIME,波尔的摩期租格式,transport,租船业务,published
+Asbatankvoy,油轮航次租船条款范本,transport,租船业务,published
+Dry Cargo Chartering,干货租船,transport,租船业务,published
+Tanker Chartering,油轮租船,transport,租船业务,published
+LNG Chartering,液化天然气船租船,transport,租船业务,published
+LPG Chartering,液化石油气船租船,transport,租船业务,published
+Container Chartering,集装箱船租船,transport,租船业务,published
+Reefer Chartering,冷藏船租船,transport,租船业务,published
+Heavy Lift Vessel Chartering,重吊船租船,transport,租船业务,published
+Offshore Support Vessel Chartering,海工船租船,transport,租船业务,published
+Tug Chartering,拖轮租用,transport,租船业务,published
+Barge Chartering,驳船租用,transport,租船业务,published
+Cargo Owner,货主,transport,租船业务,published
+Charterer,租船人,transport,租船业务,published
+Disponent Owner,二船东,transport,租船业务,published
+Head Owner,注册船东,transport,租船业务,published
+Sub-charterer,转租人,transport,租船业务,published
+Sub-let,转租,transport,租船业务,published
+Back to Back Charter,背靠背租约,transport,租船业务,published
+Ballast Bonus,空放补贴,transport,租船业务,published
+Ice Bonus,冰区附加费,transport,租船业务,published
+Ice Class Bonus,冰级附加费,transport,租船业务,published
+Heating Bonus,加温附加费,transport,租船业务,published
+Cleaning Charge,洗舱费,transport,租船业务,published
+Fumigation Charge,熏蒸费,transport,租船业务,published
+Draught Survey Charge,水尺计量费,transport,租船业务,published
+Hold Inspection Fee,验舱费,transport,租船业务,published
+War Risk Premium,战争险保费,transport,租船业务,published
+Extra Premium,附加保费,transport,租船业务,published
+De-hire,终止租约还船,transport,租船业务,published
+Re-hire,续租,transport,租船业务,published
+Nominated Vessel,指定船舶,transport,租船业务,published
+Substitute Vessel,替代船舶,transport,租船业务,published
+Substitute Clause,替代船条款,transport,租船业务,published
+Declaration of Vessel,宣布船名,transport,租船业务,published
+Intended Vessel,预期船舶,transport,租船业务,published
+Bulk Carrier Chartering,散货船租船,transport,租船业务,published
+MPP Chartering,多用途船租船,transport,租船业务,published
+Car Carrier Chartering,汽车船租船,transport,租船业务,published
+Speed and Consumption Warranty,航速油耗保证条款,transport,租约条款,published
+Weather Working Day,晴天工作日,transport,租约条款,published
+Weather Working Day of 24 Hours,连续24小时晴天工作日,transport,租约条款,published
+Shex,晴天工作日节假日除外,transport,租约条款,published
+FHex,节假日除外,transport,租约条款,published
+FIO,船方不管装卸,transport,租约条款,published
+Gross Terms,总承运条款,transport,租约条款,published
+Free In,船方不管装货,transport,租约条款,published
+Free Out,船方不管卸货,transport,租约条款,published
+Laytime Expiry,装卸时间届满,transport,租约条款,published
+Laydays,受载日期,transport,租约条款,published
+Laytime Commencement,装卸时间起算,transport,租约条款,published
+NOR Tendered,递交装卸准备就绪通知书,transport,租约条款,published
+NOR Accepted,接受装卸准备就绪通知书,transport,租约条款,published
+NOR Rejected,拒绝装卸准备就绪通知书,transport,租约条款,published
+Free Pratique,无疫通行,transport,租约条款,published
+Turn Time,起算时间,transport,租约条款,published
+Demurrage Half Despatch,滞期费一半速遣,transport,租约条款,published
+Once on Demurrage Always on Demurrage,一旦滞期永远滞期,transport,租约条款,published
+Demurrage Liability,滞期费责任,transport,租约条款,published
+Demurrage Claim,滞期费索赔,transport,租约条款,published
+Bunker on Delivery,交船存油,transport,租约条款,published
+Bunker Price,燃油价格,transport,租约条款,published
+Deducting Expenses,扣除费用条款,transport,租约条款,published
+Voyage Instructions,航次指示,transport,租约条款,published
+Employment Orders,雇佣指示,transport,租约条款,published
+Trading Limits,航行区域限制,transport,租约条款,published
+War Risk Clause,战争险条款,transport,租约条款,published
 Breach of Warranty,违反保证条款,transport,租约条款,pending
 Warranty of Seaworthiness,适航保证,transport,租约条款,pending
 Implied Warranty,默示保证,transport,租约条款,pending
