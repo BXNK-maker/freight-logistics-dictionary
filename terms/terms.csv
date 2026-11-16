@@ -6824,106 +6824,106 @@ Web Frame,强肋骨,transport,船舶结构,published
 Deck Beam,甲板横梁,transport,船舶结构,published
 Longitudinal Bulkhead,纵舱壁,transport,船舶结构,published
 Transverse Bulkhead,横舱壁,transport,船舶结构,published
-Collision Bulkhead,防撞舱壁,transport,船舶结构,pending
-Corrugated Bulkhead,槽形舱壁,transport,船舶结构,pending
-Bulkhead Stool,舱壁凳,transport,船舶结构,pending
-Hopper Tank,底边舱,transport,船舶结构,pending
-Topside Tank,顶边舱,transport,船舶结构,pending
-Double Bottom,双层底,transport,船舶结构,pending
-Fore Peak Tank,艏尖舱,transport,船舶结构,pending
-After Peak Tank,艉尖舱,transport,船舶结构,pending
-Cofferdam,隔离空舱,transport,船舶结构,pending
-Pump Room,泵舱,transport,船舶结构,pending
-Engine Room,机舱,transport,船舶结构,pending
-Steering Gear Room,舵机间,transport,船舶结构,pending
-Camber,梁拱,transport,船舶结构,pending
-Sheer,舷弧,transport,船舶结构,pending
-Flare,外飘,transport,船舶结构,pending
-Freeboard Deck,干舷甲板,transport,船舶结构,pending
-Strength Deck,强力甲板,transport,船舶结构,pending
-Weather Deck,露天甲板,transport,船舶结构,pending
-Tween Deck,二层舱,transport,船舶结构,pending
-Keel,龙骨,transport,船舶结构,pending
-Flat Keel,平板龙骨,transport,船舶结构,pending
-Bilge Keel,减摇龙骨,transport,船舶结构,pending
-Stem,艏柱,transport,船舶结构,pending
-Stern Frame,艉柱,transport,船舶结构,pending
-Girder,纵桁,transport,船舶结构,pending
-Stringer,舷侧纵桁,transport,船舶结构,pending
-Floor Plate,肋板,transport,船舶结构,pending
-Bracket,肘板,transport,船舶结构,pending
-Pillar,支柱,transport,船舶结构,pending
-Garboard Strake,龙骨翼板,transport,船舶结构,pending
-Bilge Strake,舭部列板,transport,船舶结构,pending
-Sheer Strake,舷顶列板,transport,船舶结构,pending
-Transverse Framing,横骨架式,transport,船舶结构,pending
-Longitudinal Framing,纵骨架式,transport,船舶结构,pending
-Scantling,构件尺寸,transport,船舶结构,pending
-Hull Vibration,船体振动,transport,船舶结构,pending
-Hatchway,舱口,transport,船舶结构,pending
-Sounding Pipe,测深管,transport,船舶结构,pending
-Air Pipe,空气管,transport,船舶结构,pending
-Ventilator,通风筒,transport,船舶结构,pending
-Cargo Hold Ventilation,货舱通风,transport,船舶结构,pending
-Warping End,卷缆绞盘,transport,船舶设备,pending
-Kenter Shackle,肯特卸扣,transport,船舶设备,pending
-Swivel Shackle,转环卸扣,transport,船舶设备,pending
-Anchor Buoy,锚标,transport,船舶设备,pending
-Chain Pipe,锚链管,transport,船舶设备,pending
-Shortening Cable,绞锚,transport,船舶设备,pending
-Cable on the Bottom,锚链卧底,transport,船舶设备,pending
-Heaving Line,撇缆绳,transport,船舶设备,pending
-Spring Line,倒缆,transport,船舶设备,pending
-Breast Line,横缆,transport,船舶设备,pending
-Fairlead,导缆器,transport,船舶设备,pending
-Closed Fairlead,闭式导缆孔,transport,船舶设备,pending
-Panama Lead Hole,巴拿马导缆孔,transport,船舶设备,pending
-Pontoon Hatch Cover,箱形舱盖,transport,船舶设备,pending
-Folding Hatch Cover,折叠式舱盖,transport,船舶设备,pending
-Rolling Hatch Cover,滚动式舱盖,transport,船舶设备,pending
-Lift-away Hatch Cover,吊移式舱盖,transport,船舶设备,pending
-Hatch Cover Gasket,舱盖密封垫,transport,船舶设备,pending
-Hatch Cover Cleat,舱盖压紧装置,transport,船舶设备,pending
-Deck Crane,甲板吊机,transport,船舶设备,pending
-Cargo Winch,起货机,transport,船舶设备,pending
-Derrick,吊杆,transport,船舶设备,pending
-Heavy Lift Derrick,重吊,transport,船舶设备,pending
-Bilge Pump,舱底水泵,transport,船舶设备,pending
-Ballast Pump,压载泵,transport,船舶设备,pending
-Oily Water Separator,油水分离器,transport,船舶设备,pending
-Incinerator,焚烧炉,transport,船舶设备,pending
-Cargo Pump,货物泵,transport,船舶设备,pending
-Cargo Pumping System,货物泵送系统,transport,船舶设备,pending
-Inert Gas System,惰性气体系统,transport,船舶设备,pending
-Air Conditioning Plant,空调装置,transport,船舶设备,pending
-Provision Refrigerating Plant,伙食冷藏装置,transport,船舶设备,pending
-Sewage Treatment Plant,生活污水处理装置,transport,船舶设备,pending
-Fresh Water Generator,造水机,transport,船舶设备,pending
-Steering Gear,舵机,transport,船舶设备,pending
-Rudder Stock,舵杆,transport,船舶设备,pending
-Rudder Blade,舵叶,transport,船舶设备,pending
-Balanced Rudder,平衡舵,transport,船舶设备,pending
-Semi-balanced Rudder,半平衡舵,transport,船舶设备,pending
-Flap Rudder,襟翼舵,transport,船舶设备,pending
-Rudder Carrier,舵承,transport,船舶设备,pending
-Rudder Pintle,舵销,transport,船舶设备,pending
-Skeg,挂舵臂,transport,船舶设备,pending
-Emergency Steering,应急操舵,transport,船舶设备,pending
-Hydraulic Steering System,液压舵机系统,transport,船舶设备,pending
-Rudder Trunk,舵杆围阱,transport,船舶设备,pending
-Inflatable Life Raft,气胀式救生筏,transport,救生消防,pending
-Marine Evacuation System,海上撤离系统,transport,救生消防,pending
-Anti-exposure Suit,防暴露服,transport,救生消防,pending
-Water Light,自亮浮灯,transport,救生消防,pending
-Lifebuoy Smoke Signal,救生圈烟雾信号,transport,救生消防,pending
-SART,搜救雷达应答器,transport,救生消防,pending
-EPIRB,应急无线电示位标,transport,救生消防,pending
-Two-way VHF,双向甚高频无线电话,transport,救生消防,pending
-Lifeboat Launching Gear,救生艇降落装置,transport,救生消防,pending
-On-load Release Gear,带负荷脱钩装置,transport,救生消防,pending
-Off-load Release Gear,无负荷脱钩装置,transport,救生消防,pending
-Hydrostatic Release Unit,静水压力释放器,transport,救生消防,pending
-Lifeboat Engine,救生艇发动机,transport,救生消防,pending
+Collision Bulkhead,防撞舱壁,transport,船舶结构,published
+Corrugated Bulkhead,槽形舱壁,transport,船舶结构,published
+Bulkhead Stool,舱壁凳,transport,船舶结构,published
+Hopper Tank,底边舱,transport,船舶结构,published
+Topside Tank,顶边舱,transport,船舶结构,published
+Double Bottom,双层底,transport,船舶结构,published
+Fore Peak Tank,艏尖舱,transport,船舶结构,published
+After Peak Tank,艉尖舱,transport,船舶结构,published
+Cofferdam,隔离空舱,transport,船舶结构,published
+Pump Room,泵舱,transport,船舶结构,published
+Engine Room,机舱,transport,船舶结构,published
+Steering Gear Room,舵机间,transport,船舶结构,published
+Camber,梁拱,transport,船舶结构,published
+Sheer,舷弧,transport,船舶结构,published
+Flare,外飘,transport,船舶结构,published
+Freeboard Deck,干舷甲板,transport,船舶结构,published
+Strength Deck,强力甲板,transport,船舶结构,published
+Weather Deck,露天甲板,transport,船舶结构,published
+Tween Deck,二层舱,transport,船舶结构,published
+Keel,龙骨,transport,船舶结构,published
+Flat Keel,平板龙骨,transport,船舶结构,published
+Bilge Keel,减摇龙骨,transport,船舶结构,published
+Stem,艏柱,transport,船舶结构,published
+Stern Frame,艉柱,transport,船舶结构,published
+Girder,纵桁,transport,船舶结构,published
+Stringer,舷侧纵桁,transport,船舶结构,published
+Floor Plate,肋板,transport,船舶结构,published
+Bracket,肘板,transport,船舶结构,published
+Pillar,支柱,transport,船舶结构,published
+Garboard Strake,龙骨翼板,transport,船舶结构,published
+Bilge Strake,舭部列板,transport,船舶结构,published
+Sheer Strake,舷顶列板,transport,船舶结构,published
+Transverse Framing,横骨架式,transport,船舶结构,published
+Longitudinal Framing,纵骨架式,transport,船舶结构,published
+Scantling,构件尺寸,transport,船舶结构,published
+Hull Vibration,船体振动,transport,船舶结构,published
+Hatchway,舱口,transport,船舶结构,published
+Sounding Pipe,测深管,transport,船舶结构,published
+Air Pipe,空气管,transport,船舶结构,published
+Ventilator,通风筒,transport,船舶结构,published
+Cargo Hold Ventilation,货舱通风,transport,船舶结构,published
+Warping End,卷缆绞盘,transport,船舶设备,published
+Kenter Shackle,肯特卸扣,transport,船舶设备,published
+Swivel Shackle,转环卸扣,transport,船舶设备,published
+Anchor Buoy,锚标,transport,船舶设备,published
+Chain Pipe,锚链管,transport,船舶设备,published
+Shortening Cable,绞锚,transport,船舶设备,published
+Cable on the Bottom,锚链卧底,transport,船舶设备,published
+Heaving Line,撇缆绳,transport,船舶设备,published
+Spring Line,倒缆,transport,船舶设备,published
+Breast Line,横缆,transport,船舶设备,published
+Fairlead,导缆器,transport,船舶设备,published
+Closed Fairlead,闭式导缆孔,transport,船舶设备,published
+Panama Lead Hole,巴拿马导缆孔,transport,船舶设备,published
+Pontoon Hatch Cover,箱形舱盖,transport,船舶设备,published
+Folding Hatch Cover,折叠式舱盖,transport,船舶设备,published
+Rolling Hatch Cover,滚动式舱盖,transport,船舶设备,published
+Lift-away Hatch Cover,吊移式舱盖,transport,船舶设备,published
+Hatch Cover Gasket,舱盖密封垫,transport,船舶设备,published
+Hatch Cover Cleat,舱盖压紧装置,transport,船舶设备,published
+Deck Crane,甲板吊机,transport,船舶设备,published
+Cargo Winch,起货机,transport,船舶设备,published
+Derrick,吊杆,transport,船舶设备,published
+Heavy Lift Derrick,重吊,transport,船舶设备,published
+Bilge Pump,舱底水泵,transport,船舶设备,published
+Ballast Pump,压载泵,transport,船舶设备,published
+Oily Water Separator,油水分离器,transport,船舶设备,published
+Incinerator,焚烧炉,transport,船舶设备,published
+Cargo Pump,货物泵,transport,船舶设备,published
+Cargo Pumping System,货物泵送系统,transport,船舶设备,published
+Inert Gas System,惰性气体系统,transport,船舶设备,published
+Air Conditioning Plant,空调装置,transport,船舶设备,published
+Provision Refrigerating Plant,伙食冷藏装置,transport,船舶设备,published
+Sewage Treatment Plant,生活污水处理装置,transport,船舶设备,published
+Fresh Water Generator,造水机,transport,船舶设备,published
+Steering Gear,舵机,transport,船舶设备,published
+Rudder Stock,舵杆,transport,船舶设备,published
+Rudder Blade,舵叶,transport,船舶设备,published
+Balanced Rudder,平衡舵,transport,船舶设备,published
+Semi-balanced Rudder,半平衡舵,transport,船舶设备,published
+Flap Rudder,襟翼舵,transport,船舶设备,published
+Rudder Carrier,舵承,transport,船舶设备,published
+Rudder Pintle,舵销,transport,船舶设备,published
+Skeg,挂舵臂,transport,船舶设备,published
+Emergency Steering,应急操舵,transport,船舶设备,published
+Hydraulic Steering System,液压舵机系统,transport,船舶设备,published
+Rudder Trunk,舵杆围阱,transport,船舶设备,published
+Inflatable Life Raft,气胀式救生筏,transport,救生消防,published
+Marine Evacuation System,海上撤离系统,transport,救生消防,published
+Anti-exposure Suit,防暴露服,transport,救生消防,published
+Water Light,自亮浮灯,transport,救生消防,published
+Lifebuoy Smoke Signal,救生圈烟雾信号,transport,救生消防,published
+SART,搜救雷达应答器,transport,救生消防,published
+EPIRB,应急无线电示位标,transport,救生消防,published
+Two-way VHF,双向甚高频无线电话,transport,救生消防,published
+Lifeboat Launching Gear,救生艇降落装置,transport,救生消防,published
+On-load Release Gear,带负荷脱钩装置,transport,救生消防,published
+Off-load Release Gear,无负荷脱钩装置,transport,救生消防,published
+Hydrostatic Release Unit,静水压力释放器,transport,救生消防,published
+Lifeboat Engine,救生艇发动机,transport,救生消防,published
 Gravity Davit,重力倒臂式吊艇架,transport,救生消防,pending
 Fast Rescue Boat,快速救助艇,transport,救生消防,pending
 Free-fall Lifeboat,自由降落式救生艇,transport,救生消防,pending
