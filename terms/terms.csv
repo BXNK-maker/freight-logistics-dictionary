@@ -6924,106 +6924,106 @@ On-load Release Gear,带负荷脱钩装置,transport,救生消防,published
 Off-load Release Gear,无负荷脱钩装置,transport,救生消防,published
 Hydrostatic Release Unit,静水压力释放器,transport,救生消防,published
 Lifeboat Engine,救生艇发动机,transport,救生消防,published
-Gravity Davit,重力倒臂式吊艇架,transport,救生消防,pending
-Fast Rescue Boat,快速救助艇,transport,救生消防,pending
-Free-fall Lifeboat,自由降落式救生艇,transport,救生消防,pending
-Totally Enclosed Lifeboat,全封闭式救生艇,transport,救生消防,pending
-Buoyant Apparatus,浮具,transport,救生消防,pending
-Rescue Net,直升机救助网,transport,救生消防,pending
-International Shore Connection,国际通岸接头,transport,救生消防,pending
-Fire Pump,消防泵,transport,救生消防,pending
-Emergency Fire Pump,应急消防泵,transport,救生消防,pending
-Fire Hydrant,消防栓,transport,救生消防,pending
-Fire Hose,消防水带,transport,救生消防,pending
-Foam Concentrate,泡沫浓缩液,transport,救生消防,pending
-Water Mist System,细水雾系统,transport,救生消防,pending
-CO2 Flooding System,二氧化碳灭火系统,transport,救生消防,pending
-High Expansion Foam,高倍泡沫,transport,救生消防,pending
-Fire Detection and Alarm System,火灾探测报警系统,transport,救生消防,pending
-Heat Detector,感温探测器,transport,救生消防,pending
-Flame Detector,感光探测器,transport,救生消防,pending
-Manual Call Point,手动报警按钮,transport,救生消防,pending
-Quick Closing Valve,速闭阀,transport,救生消防,pending
-Remote Fuel Oil Shut-off,燃油遥控切断,transport,救生消防,pending
-Fire Damper,防火挡板,transport,救生消防,pending
-Fire Door,防火门,transport,救生消防,pending
-A Class Division,甲级分隔,transport,救生消防,pending
-B Class Division,乙级分隔,transport,救生消防,pending
-Fire Insulation,防火绝缘,transport,救生消防,pending
-Non-combustible Material,不燃材料,transport,救生消防,pending
-Fire Control Plan,防火控制图,transport,救生消防,pending
-Fire Drill,消防演习,transport,救生消防,pending
-Fire Patrol,防火巡逻,transport,救生消防,pending
-Flammable Gas Detector,可燃气体探测器,transport,救生消防,pending
-Portable Foam Applicator,手提式泡沫喷枪,transport,救生消防,pending
-Fire Axe,消防斧,transport,救生消防,pending
-Fire Blanket,消防毯,transport,救生消防,pending
-EEBD,紧急逃生呼吸器,transport,救生消防,pending
-Fireman's Outfit,消防员装备,transport,救生消防,pending
-Fire Extinguisher,灭火器,transport,救生消防,pending
-Portable Extinguisher,手提式灭火器,transport,救生消防,pending
-Lifeboat Davit,吊艇架,transport,救生消防,pending
-Launching Appliance,降落设备,transport,救生消防,pending
-Lifejacket Light,救生衣灯,transport,救生消防,pending
-Breathing Apparatus,呼吸器,transport,救生消防,pending
-SCBA,自给式呼吸器,transport,救生消防,pending
-Foam Monitor,泡沫炮,transport,救生消防,pending
-Sprinkler System,洒水系统,transport,救生消防,pending
-Fixed Fire Fighting System,固定灭火系统,transport,救生消防,pending
-Powder Extinguishing System,干粉灭火系统,transport,救生消防,pending
-MAN B&W Engine,曼恩柴油机,transport,船舶主机,pending
-WinGD Engine,温特图尔柴油机,transport,船舶主机,pending
-Two-stroke Diesel Engine,二冲程柴油机,transport,船舶主机,pending
-Four-stroke Diesel Engine,四冲程柴油机,transport,船舶主机,pending
-Medium Speed Diesel Engine,中速柴油机,transport,船舶主机,pending
-Low Speed Diesel Engine,低速柴油机,transport,船舶主机,pending
-V-type Engine,V型柴油机,transport,船舶主机,pending
-In-line Engine,直列式柴油机,transport,船舶主机,pending
-Crosshead Engine,十字头式柴油机,transport,船舶主机,pending
-Super Long Stroke Engine,超长冲程柴油机,transport,船舶主机,pending
-Turbocharger,涡轮增压器,transport,船舶主机,pending
-Constant Pressure Turbocharging,定压涡轮增压,transport,船舶主机,pending
-Pulse Turbocharging,脉冲涡轮增压,transport,船舶主机,pending
-Exhaust Gas Boiler,废气锅炉,transport,船舶主机,pending
-Shaft Generator,轴带发电机,transport,船舶主机,pending
-PTO,轴带发电输出,transport,船舶主机,pending
-PTI,轴带电动机输入,transport,船舶主机,pending
-Flywheel,飞轮,transport,船舶主机,pending
-Crankshaft,曲轴,transport,船舶主机,pending
-Main Bearing,主轴承,transport,船舶主机,pending
-Connecting Rod,连杆,transport,船舶主机,pending
-Crosshead Bearing,十字头轴承,transport,船舶主机,pending
-Piston Crown,活塞头,transport,船舶主机,pending
-Piston Ring,活塞环,transport,船舶主机,pending
-Cylinder Liner,气缸套,transport,船舶主机,pending
-Cylinder Head,气缸盖,transport,船舶主机,pending
-Cylinder Lubrication,气缸润滑,transport,船舶主机,pending
-Fuel Injection System,燃油喷射系统,transport,船舶主机,pending
-Fuel Injector,喷油器,transport,船舶主机,pending
-Fuel Injection Pump,喷油泵,transport,船舶主机,pending
-Unit Injector,单体泵,transport,船舶主机,pending
-Air Distributor,空气分配器,transport,船舶主机,pending
-Main Starting Valve,主启动阀,transport,船舶主机,pending
-Turning Gear,盘车机,transport,船舶主机,pending
-Turning Gear Interlock,盘车机联锁,transport,船舶主机,pending
-Reversing Mechanism,换向机构,transport,船舶主机,pending
-Compression Ratio,压缩比,transport,船舶主机,pending
-Firing Order,发火顺序,transport,船舶主机,pending
-Rated Power,额定功率,transport,船舶主机,pending
-Rated Speed,额定转速,transport,船舶主机,pending
-Mean Effective Pressure,平均有效压力,transport,船舶主机,pending
-Maximum Combustion Pressure,最高燃烧压力,transport,船舶主机,pending
-Scavenging Efficiency,扫气效率,transport,船舶主机,pending
-Exhaust Temperature,排气温度,transport,船舶主机,pending
-Exhaust Valve Rotator,排气阀旋转器,transport,船舶主机,pending
-Valve Seat Ring,阀座圈,transport,船舶主机,pending
-Valve Spindle,阀杆,transport,船舶主机,pending
-Hydraulic Nut,液压螺母,transport,船舶主机,pending
-Air Spring,空气弹簧,transport,船舶主机,pending
-Common Rail System,共轨系统,transport,船舶主机,pending
-Electronic Control Engine,电子控制柴油机,transport,船舶主机,pending
-Alpha Cylinder Lubrication,阿尔法气缸润滑系统,transport,船舶主机,pending
-Fixed Pitch Propeller,定距桨,transport,船舶主机,pending
+Gravity Davit,重力倒臂式吊艇架,transport,救生消防,published
+Fast Rescue Boat,快速救助艇,transport,救生消防,published
+Free-fall Lifeboat,自由降落式救生艇,transport,救生消防,published
+Totally Enclosed Lifeboat,全封闭式救生艇,transport,救生消防,published
+Buoyant Apparatus,浮具,transport,救生消防,published
+Rescue Net,直升机救助网,transport,救生消防,published
+International Shore Connection,国际通岸接头,transport,救生消防,published
+Fire Pump,消防泵,transport,救生消防,published
+Emergency Fire Pump,应急消防泵,transport,救生消防,published
+Fire Hydrant,消防栓,transport,救生消防,published
+Fire Hose,消防水带,transport,救生消防,published
+Foam Concentrate,泡沫浓缩液,transport,救生消防,published
+Water Mist System,细水雾系统,transport,救生消防,published
+CO2 Flooding System,二氧化碳灭火系统,transport,救生消防,published
+High Expansion Foam,高倍泡沫,transport,救生消防,published
+Fire Detection and Alarm System,火灾探测报警系统,transport,救生消防,published
+Heat Detector,感温探测器,transport,救生消防,published
+Flame Detector,感光探测器,transport,救生消防,published
+Manual Call Point,手动报警按钮,transport,救生消防,published
+Quick Closing Valve,速闭阀,transport,救生消防,published
+Remote Fuel Oil Shut-off,燃油遥控切断,transport,救生消防,published
+Fire Damper,防火挡板,transport,救生消防,published
+Fire Door,防火门,transport,救生消防,published
+A Class Division,甲级分隔,transport,救生消防,published
+B Class Division,乙级分隔,transport,救生消防,published
+Fire Insulation,防火绝缘,transport,救生消防,published
+Non-combustible Material,不燃材料,transport,救生消防,published
+Fire Control Plan,防火控制图,transport,救生消防,published
+Fire Drill,消防演习,transport,救生消防,published
+Fire Patrol,防火巡逻,transport,救生消防,published
+Flammable Gas Detector,可燃气体探测器,transport,救生消防,published
+Portable Foam Applicator,手提式泡沫喷枪,transport,救生消防,published
+Fire Axe,消防斧,transport,救生消防,published
+Fire Blanket,消防毯,transport,救生消防,published
+EEBD,紧急逃生呼吸器,transport,救生消防,published
+Fireman's Outfit,消防员装备,transport,救生消防,published
+Fire Extinguisher,灭火器,transport,救生消防,published
+Portable Extinguisher,手提式灭火器,transport,救生消防,published
+Lifeboat Davit,吊艇架,transport,救生消防,published
+Launching Appliance,降落设备,transport,救生消防,published
+Lifejacket Light,救生衣灯,transport,救生消防,published
+Breathing Apparatus,呼吸器,transport,救生消防,published
+SCBA,自给式呼吸器,transport,救生消防,published
+Foam Monitor,泡沫炮,transport,救生消防,published
+Sprinkler System,洒水系统,transport,救生消防,published
+Fixed Fire Fighting System,固定灭火系统,transport,救生消防,published
+Powder Extinguishing System,干粉灭火系统,transport,救生消防,published
+MAN B&W Engine,曼恩柴油机,transport,船舶主机,published
+WinGD Engine,温特图尔柴油机,transport,船舶主机,published
+Two-stroke Diesel Engine,二冲程柴油机,transport,船舶主机,published
+Four-stroke Diesel Engine,四冲程柴油机,transport,船舶主机,published
+Medium Speed Diesel Engine,中速柴油机,transport,船舶主机,published
+Low Speed Diesel Engine,低速柴油机,transport,船舶主机,published
+V-type Engine,V型柴油机,transport,船舶主机,published
+In-line Engine,直列式柴油机,transport,船舶主机,published
+Crosshead Engine,十字头式柴油机,transport,船舶主机,published
+Super Long Stroke Engine,超长冲程柴油机,transport,船舶主机,published
+Turbocharger,涡轮增压器,transport,船舶主机,published
+Constant Pressure Turbocharging,定压涡轮增压,transport,船舶主机,published
+Pulse Turbocharging,脉冲涡轮增压,transport,船舶主机,published
+Exhaust Gas Boiler,废气锅炉,transport,船舶主机,published
+Shaft Generator,轴带发电机,transport,船舶主机,published
+PTO,轴带发电输出,transport,船舶主机,published
+PTI,轴带电动机输入,transport,船舶主机,published
+Flywheel,飞轮,transport,船舶主机,published
+Crankshaft,曲轴,transport,船舶主机,published
+Main Bearing,主轴承,transport,船舶主机,published
+Connecting Rod,连杆,transport,船舶主机,published
+Crosshead Bearing,十字头轴承,transport,船舶主机,published
+Piston Crown,活塞头,transport,船舶主机,published
+Piston Ring,活塞环,transport,船舶主机,published
+Cylinder Liner,气缸套,transport,船舶主机,published
+Cylinder Head,气缸盖,transport,船舶主机,published
+Cylinder Lubrication,气缸润滑,transport,船舶主机,published
+Fuel Injection System,燃油喷射系统,transport,船舶主机,published
+Fuel Injector,喷油器,transport,船舶主机,published
+Fuel Injection Pump,喷油泵,transport,船舶主机,published
+Unit Injector,单体泵,transport,船舶主机,published
+Air Distributor,空气分配器,transport,船舶主机,published
+Main Starting Valve,主启动阀,transport,船舶主机,published
+Turning Gear,盘车机,transport,船舶主机,published
+Turning Gear Interlock,盘车机联锁,transport,船舶主机,published
+Reversing Mechanism,换向机构,transport,船舶主机,published
+Compression Ratio,压缩比,transport,船舶主机,published
+Firing Order,发火顺序,transport,船舶主机,published
+Rated Power,额定功率,transport,船舶主机,published
+Rated Speed,额定转速,transport,船舶主机,published
+Mean Effective Pressure,平均有效压力,transport,船舶主机,published
+Maximum Combustion Pressure,最高燃烧压力,transport,船舶主机,published
+Scavenging Efficiency,扫气效率,transport,船舶主机,published
+Exhaust Temperature,排气温度,transport,船舶主机,published
+Exhaust Valve Rotator,排气阀旋转器,transport,船舶主机,published
+Valve Seat Ring,阀座圈,transport,船舶主机,published
+Valve Spindle,阀杆,transport,船舶主机,published
+Hydraulic Nut,液压螺母,transport,船舶主机,published
+Air Spring,空气弹簧,transport,船舶主机,published
+Common Rail System,共轨系统,transport,船舶主机,published
+Electronic Control Engine,电子控制柴油机,transport,船舶主机,published
+Alpha Cylinder Lubrication,阿尔法气缸润滑系统,transport,船舶主机,published
+Fixed Pitch Propeller,定距桨,transport,船舶主机,published
 Controllable Pitch Propeller,调距桨,transport,船舶主机,pending
 Ducted Propeller,导管桨,transport,船舶主机,pending
 Propeller Blade,螺旋桨叶,transport,船舶主机,pending
