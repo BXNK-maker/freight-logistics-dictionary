@@ -1,7 +1,7 @@
 ---
 title: "Voyage Account"
 linkTitle: "航次账单"
-date: 2026-11-15
+date: 2026-11-16
 type: docs
 subcategory: "运费支付"
 ---
@@ -10,37 +10,34 @@ subcategory: "运费支付"
 
 ## 定义
 
-航次账单（Voyage Account，简称 V/A）是指船舶在完成一个特定航次的运输任务后，由船舶所有人或其指定的船舶代理人编制的、详细记录该航次所有收入与支出的财务清算报表。它是评估航次盈亏、进行航运经济核算的核心依据。
+航次账单（Voyage Account）是指船舶在完成一个特定航次后，船东或船舶经营人对该航次所产生的全部收入与支出进行集中核算与结算的财务报表。它全面反映了该航次在商业运营上的盈利或亏损状况，是航运企业进行单航次经济效益评估的核心凭证。
 
 ## 详细说明
 
-- 使用场景：主要应用于班轮运输和不定期船（租船）运输中。当一个航次（从装货港到卸货港）结束后，操作或财务人员会汇总各项单据进行决算。
-- 关键规则与项目：
-  - 收入方：通常包括运费（Freight）、滞期费（Demurrage）等。
-  - 支出方：包括港口速遣费（Dispatch）、港口使费（Port Dues/Port Charges）、燃油费（Bunker Costs）、引航费（Pilotage）、拖轮费（Towage）以及装卸费（Loading/Discharging Expenses）等。
-- 实务注意事项：编制航次账单时，必须核对所有原始单据（如港口收据、燃油交接单等），确保每笔费用的真实性和准确性。同时，需关注汇率波动对最终结算结果的影响。
+- 使用场景：主要用于租船航次（Voyage Charter）或班轮航次结束后，由船东、船舶经纪人或运营人员编制，用于与租船人、合作伙伴或公司财务部门进行最终清算。
+- 关键规则与项目：账单收入端主要包括运费（Freight）、滞期费（Demurrage）等；支出端则涵盖港口费（Port Dues）、燃料费（Bunker Costs）、引航费（Pilotage）、运河费（Canal Dues）以及装卸费（Loading/Discharging Expenses）等航次可变成本。
+- 实务注意事项：编制时必须严格核对各项单据（如SOF事实记录事实、港口收据），准确计算速遣费（Despatch）与滞期费的增减，并注意不同货币之间的汇率折算风险。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 航次盈亏 | Voyage Profit and Loss |
-| 港口使费 | Port Disbursements / Port Charges |
-| 滞期费 | Demurrage |
-| 速遣费 | Dispatch |
-| 决算 | Final Accounting |
+| 航次盈亏计算 | Voyage Profit and Loss Calculation |
+| 航次毛利 | Voyage Gross Margin |
+| 港口速遣费 | Despatch Money |
+| 航次可变成本 | Voyage Variable Costs |
 
 ## 相关术语
 
-- `Disbursement Account（港口经费账目）`
-- `Time Charter Equivalent（租金等值）`
-- `Demurrage and Despatch（滞期与速遣）`
-- `Bunker Adjustment Factor（燃油附加费）`
+- Voyage Charter（航次租船）
+- Demurrage and Despatch（滞期费与速遣费）
+- Statement of Facts (SOF)（事实记录）
+- Time Charter Equivalent (TCE)（租船等价收入）
 
 ## 常见误区
 
-- 误认为航次账单等同于整年的公司财务报表：航次账单仅针对单一航次的独立核算，而非整个航运公司的年度财务报表。
-- 忽略潜在的隐性支出：在计算航次成本时，容易漏算船舶在港期间的淡水费、垃圾处理费等零星港口使费。
+- 误区一：认为航次账单包含了船舶的折旧和管理费等固定成本。实际上，航次账单主要核算该航次直接相关的变动收支，固定成本通常由公司总部统筹。
+- 误区二：将航次账单等同于普通企业的月度利润表。它不是按日历时间划分，而是以“航次”为独立核算周期。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Laytime Saved"
 linkTitle: "节省的装卸时间"
-date: 2026-11-15
+date: 2026-11-16
 type: docs
 subcategory: "运费支付"
 ---
@@ -9,12 +9,14 @@ subcategory: "运费支付"
 > 📖 分类：**运输** / 运费支付　｜　Laytime Saved = 节省的装卸时间
 
 ## 定义
-Laytime Saved（节省的装卸时间）是指在航次租船合同中，船舶实际装卸货所用的时间少于合同规定的允许装卸时间（Laytime）的时间差。当出现这种情况时，船舶出租人通常需要向承租人支付一笔奖金，称为速遣费（Despatch Money）。
+
+Laytime Saved（节省的装卸时间）是指在航次租船合同中，船舶在装货港或卸货港实际使用的装卸时间少于合同规定的允许装卸时间（Laytime）的那部分时间。这通常发生在货物装卸效率高于预期的情况下，是计算速遣费（Despatch）的基础。
 
 ## 详细说明
-- 使用场景：主要适用于大宗散杂货运输的航次租船（Voyage Charter）业务，常见于煤炭、矿石、粮食等货物的装卸作业中。
-- 关键规则或数字：节省的时间通常按日或按小时计算，具体的计算标准和奖金费率（Despatch Rate）必须在租船合同（如Gencon格式）中明确约定。通常，速遣费率设为滞 demurrage 费率的一半。
-- 实务注意事项：计算 Laytime Saved 时，必须严格区分合同条款是 "All Working Days Saved"（所有工作日节省）还是 "All Working Days Saved, except Sundays and Holidays"（除周日和节假日外节省），这直接关系到奖金金额的多少。
+
+- 使用场景：主要适用于散杂货运输的航次租船（Voyage Charter）业务，特别是租船人和船东在合同中约定了速遣费条款的情况。
+- 关键规则：节省的时间可以通过“所有Saved时间”或“Working time saved”等不同方式计算，具体取决于租船合同（如 Gencon 或 Asbatime 格式）的约定。
+- 实务注意事项：货代和操作人员必须精确核对船舶的《事实记录》（Statement of Facts, SOF），确保装卸时间的起算和中止时间准确无误，否则会直接影响速遣费的结算金额。
 
 ## 中英对照
 
@@ -22,19 +24,19 @@ Laytime Saved（节省的装卸时间）是指在航次租船合同中，船舶�
 | :--- | :--- |
 | Laytime Saved | 节省的装卸时间 |
 | Despatch Money | 速遣费 |
-| Despatch Rate | 速遣费率 |
-| All Working Days Saved | 节省的所有工作日 |
+| Working Time Saved | 节省的工作时间 |
+| All Time Saved | 节省的全部时间 |
 
 ## 相关术语
-- `Laytime（装卸时间）`
-- `Demurrage（滞期费）`
-- `Despatch（速遣）`
-- `Notice of Readiness (NOR)（准备就绪通知书）`
-- `Voyage Charter（航次租船）`
+
+- Laytime（装卸期）
+- Despatch（速遣）
+- Demurrage（滞期费）
+- Statement of Facts (SOF)（事实记录）
 
 ## 常见误区
-- 误区一：认为只要装卸快就有速遣费。如果没有在租船合同中明确约定 Despatch 条款，即使节省了时间，船东也没有义务支付奖金。
-- 误区二：将 Laytime Saved 与 Demurrage 混淆。Laytime Saved 是指提前完成获得奖励，而 Demurrage 是指超时完成需要支付赔偿。
+
+- 误区一：认为只要装卸提前完成就一定能获得速遣费。实际上，只有在租船合同明确约定了 Despatch 条款且符合计算
 
 ---
 

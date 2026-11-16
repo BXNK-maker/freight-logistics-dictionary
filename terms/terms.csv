@@ -6630,103 +6630,103 @@ Fresh Water Consumption,淡水消耗,transport,航次估算,published
 Ballast Passage,压载航次,transport,航次估算,pending
 Laden Passage,重载航次,transport,航次估算,pending
 Round Voyage Distance,往返航程,transport,航次估算,pending
-Estimated Time of Completion,预计完工时间,transport,航次估算,pending
-Brokerage,经纪人佣金,transport,运费支付,pending
-Freight Payment Term,运费支付条款,transport,运费支付,pending
-Freight Invoicing,运费开票,transport,运费支付,pending
-Freight Settlement,运费结算,transport,运费支付,pending
-Demurrage Invoice,滞期费发票,transport,运费支付,pending
-Despatch Invoice,速遣费发票,transport,运费支付,pending
-Time Bar Clause,时效条款,transport,运费支付,pending
-Time Bar,时效届满,transport,运费支付,pending
-Demurrage Time Bar,滞期费时效,transport,运费支付,pending
-Time Charter Hire Invoice,期租租金发票,transport,运费支付,pending
-Voyage Account,航次账单,transport,运费支付,pending
-Port Disbursement,港口使费,transport,运费支付,pending
-Proforma Disbursement Account,预估港口使费账单,transport,运费支付,pending
-Freight Rebate,运费回扣,transport,运费支付,pending
-Bank Remittance,银行汇款,transport,运费支付,pending
-Documentary Credit,跟单信用证,transport,运费支付,pending
-Payment upon B/L Issuance,签单后付款,transport,运费支付,pending
-Balance Freight,运费余款,transport,运费支付,pending
-Full Freight,全额运费,transport,运费支付,pending
-Overpayment,多付运费,transport,运费支付,pending
-Assumed Freight,假定运费,transport,运费支付,pending
-Assumed Laytime,假定装卸时间,transport,运费支付,pending
-Laytime Saved,节省的装卸时间,transport,运费支付,pending
-Laytime Used,使用的装卸时间,transport,运费支付,pending
-Laytime Exceeded,超时装卸时间,transport,运费支付,pending
-Freight Tax,运费税,transport,运费支付,pending
-Deadfreight Rate,亏舱费率,transport,运费支付,pending
-Open Rate,开放运价,transport,运费支付,pending
-Charter Hire,租金,transport,运费支付,pending
-Bareboat Hire,光租租金,transport,运费支付,pending
-Hire Free of Expense,租金不含费用,transport,运费支付,pending
-Net Freight,净运费,transport,运费支付,pending
-Gross Freight,毛运费,transport,运费支付,pending
-Freight Net Net,净净运费,transport,运费支付,pending
-Deadfreight Compensation,亏舱费补偿,transport,运费支付,pending
-Freight Guarantee,运费担保,transport,运费支付,pending
-Payment in USD,美元付款,transport,运费支付,pending
-Payment within 3 banking days,三个银行工作日内付款,transport,运费支付,pending
-Freight Due Date,运费到期日,transport,运费支付,pending
-Working Account,往来账目,transport,运费支付,pending
-Bearer Bill of Lading,不记名提单,transport,提单与单证,pending
-Claused Bill of Lading,批注提单,transport,提单与单证,pending
-Ante-dated Bill of Lading,倒签提单,transport,提单与单证,pending
-Switch Bill of Lading,转换提单,transport,提单与单证,pending
-Short Form Bill of Lading,简式提单,transport,提单与单证,pending
-Transshipment Bill of Lading,转船提单,transport,提单与单证,pending
-Presentation of Bill of Lading,提单提示,transport,提单与单证,pending
-Booking Note,订舱单,transport,提单与单证,pending
-Draft Survey Report,水尺计重报告,transport,提单与单证,pending
-Hold Inspection Certificate,货舱检验证书,transport,提单与单证,pending
-Hold Cleanliness Certificate,货舱清洁证书,transport,提单与单证,pending
-Hatch Sealing,封舱,transport,提单与单证,pending
-Cargo Plan,货物积载图,transport,提单与单证,pending
-Container Packing Certificate,集装箱装箱证明书,transport,提单与单证,pending
-Tender of Documents,单据提示,transport,提单与单证,pending
-Shipper's Load and Count,托运人装箱计数,transport,提单与单证,pending
-Said to Contain,据称内装,transport,提单与单证,pending
-Contents Unknown,内容不知条款,transport,提单与单证,pending
-LOI for Delivery Without B/L,无提单交货保函,transport,提单与单证,pending
-Letter of Indemnity for Clean B/L,清洁提单保函,transport,提单与单证,pending
-Over Landing,溢卸,transport,提单与单证,pending
-Exception Report,异常报告,transport,提单与单证,pending
-Cargo Shortage Report,货差报告,transport,提单与单证,pending
-Independent Surveyor,独立检验师,transport,提单与单证,pending
-Pre-load Survey,装货前检验,transport,提单与单证,pending
-Loading Plan,装货计划,transport,提单与单证,pending
-Discharge Plan,卸货计划,transport,提单与单证,pending
-Tally Company,理货公司,transport,提单与单证,pending
-Supercargo,货运押运员,transport,提单与单证,pending
-Stevedore Damage,装卸工人损坏,transport,提单与单证,pending
-Claim Submission,提交索赔,transport,提单与单证,pending
-Certificate of Quality,品质证书,transport,提单与单证,pending
-Cargo Inspection Certificate,货物检验证书,transport,提单与单证,pending
-SGS Inspection,通用公证行检验,transport,提单与单证,pending
-Cargo Measurement,货物丈量,transport,提单与单证,pending
-Measurement Certificate,丈量证书,transport,提单与单证,pending
-Tank Calibration Table,油舱计量表,transport,提单与单证,pending
-Ullage Report,空距报告,transport,提单与单证,pending
-Cargo Sample,货样,transport,提单与单证,pending
-Moisture Certificate,水分证书,transport,提单与单证,pending
-Transportable Moisture Limit,适运水分极限,transport,提单与单证,pending
-Carriers Obligation,承运人义务,transport,海商法,pending
-Carrier's Immunities,承运人免责,transport,海商法,pending
-Limitation of Liability,赔偿责任限制,transport,海商法,pending
-Limitation Fund,责任限制基金,transport,海商法,pending
-Global Limitation,总责任限制,transport,海商法,pending
-Ton Limitation,吨位责任限制,transport,海商法,pending
-Notice of Loss or Damage,货损通知,transport,海商法,pending
-Forum Non Convenience,不方便法院原则,transport,海商法,pending
-Wrongful Arrest,错误扣船,transport,海商法,pending
-Statutory Lien,法定留置权,transport,海商法,pending
-Possessory Lien,占有留置权,transport,海商法,pending
-Freight Lien,运费留置权,transport,海商法,pending
-Cargo Lien,货物留置权,transport,海商法,pending
-Tort Claim,侵权索赔,transport,海商法,pending
-Contract of Carriage,运输合同,transport,海商法,pending
+Estimated Time of Completion,预计完工时间,transport,航次估算,published
+Brokerage,经纪人佣金,transport,运费支付,published
+Freight Payment Term,运费支付条款,transport,运费支付,published
+Freight Invoicing,运费开票,transport,运费支付,published
+Freight Settlement,运费结算,transport,运费支付,published
+Demurrage Invoice,滞期费发票,transport,运费支付,published
+Despatch Invoice,速遣费发票,transport,运费支付,published
+Time Bar Clause,时效条款,transport,运费支付,published
+Time Bar,时效届满,transport,运费支付,published
+Demurrage Time Bar,滞期费时效,transport,运费支付,published
+Time Charter Hire Invoice,期租租金发票,transport,运费支付,published
+Voyage Account,航次账单,transport,运费支付,published
+Port Disbursement,港口使费,transport,运费支付,published
+Proforma Disbursement Account,预估港口使费账单,transport,运费支付,published
+Freight Rebate,运费回扣,transport,运费支付,published
+Bank Remittance,银行汇款,transport,运费支付,published
+Documentary Credit,跟单信用证,transport,运费支付,published
+Payment upon B/L Issuance,签单后付款,transport,运费支付,published
+Balance Freight,运费余款,transport,运费支付,published
+Full Freight,全额运费,transport,运费支付,published
+Overpayment,多付运费,transport,运费支付,published
+Assumed Freight,假定运费,transport,运费支付,published
+Assumed Laytime,假定装卸时间,transport,运费支付,published
+Laytime Saved,节省的装卸时间,transport,运费支付,published
+Laytime Used,使用的装卸时间,transport,运费支付,published
+Laytime Exceeded,超时装卸时间,transport,运费支付,published
+Freight Tax,运费税,transport,运费支付,published
+Deadfreight Rate,亏舱费率,transport,运费支付,published
+Open Rate,开放运价,transport,运费支付,published
+Charter Hire,租金,transport,运费支付,published
+Bareboat Hire,光租租金,transport,运费支付,published
+Hire Free of Expense,租金不含费用,transport,运费支付,published
+Net Freight,净运费,transport,运费支付,published
+Gross Freight,毛运费,transport,运费支付,published
+Freight Net Net,净净运费,transport,运费支付,published
+Deadfreight Compensation,亏舱费补偿,transport,运费支付,published
+Freight Guarantee,运费担保,transport,运费支付,published
+Payment in USD,美元付款,transport,运费支付,published
+Payment within 3 banking days,三个银行工作日内付款,transport,运费支付,published
+Freight Due Date,运费到期日,transport,运费支付,published
+Working Account,往来账目,transport,运费支付,published
+Bearer Bill of Lading,不记名提单,transport,提单与单证,published
+Claused Bill of Lading,批注提单,transport,提单与单证,published
+Ante-dated Bill of Lading,倒签提单,transport,提单与单证,published
+Switch Bill of Lading,转换提单,transport,提单与单证,published
+Short Form Bill of Lading,简式提单,transport,提单与单证,published
+Transshipment Bill of Lading,转船提单,transport,提单与单证,published
+Presentation of Bill of Lading,提单提示,transport,提单与单证,published
+Booking Note,订舱单,transport,提单与单证,published
+Draft Survey Report,水尺计重报告,transport,提单与单证,published
+Hold Inspection Certificate,货舱检验证书,transport,提单与单证,published
+Hold Cleanliness Certificate,货舱清洁证书,transport,提单与单证,published
+Hatch Sealing,封舱,transport,提单与单证,published
+Cargo Plan,货物积载图,transport,提单与单证,published
+Container Packing Certificate,集装箱装箱证明书,transport,提单与单证,published
+Tender of Documents,单据提示,transport,提单与单证,published
+Shipper's Load and Count,托运人装箱计数,transport,提单与单证,published
+Said to Contain,据称内装,transport,提单与单证,published
+Contents Unknown,内容不知条款,transport,提单与单证,published
+LOI for Delivery Without B/L,无提单交货保函,transport,提单与单证,published
+Letter of Indemnity for Clean B/L,清洁提单保函,transport,提单与单证,published
+Over Landing,溢卸,transport,提单与单证,published
+Exception Report,异常报告,transport,提单与单证,published
+Cargo Shortage Report,货差报告,transport,提单与单证,published
+Independent Surveyor,独立检验师,transport,提单与单证,published
+Pre-load Survey,装货前检验,transport,提单与单证,published
+Loading Plan,装货计划,transport,提单与单证,published
+Discharge Plan,卸货计划,transport,提单与单证,published
+Tally Company,理货公司,transport,提单与单证,published
+Supercargo,货运押运员,transport,提单与单证,published
+Stevedore Damage,装卸工人损坏,transport,提单与单证,published
+Claim Submission,提交索赔,transport,提单与单证,published
+Certificate of Quality,品质证书,transport,提单与单证,published
+Cargo Inspection Certificate,货物检验证书,transport,提单与单证,published
+SGS Inspection,通用公证行检验,transport,提单与单证,published
+Cargo Measurement,货物丈量,transport,提单与单证,published
+Measurement Certificate,丈量证书,transport,提单与单证,published
+Tank Calibration Table,油舱计量表,transport,提单与单证,published
+Ullage Report,空距报告,transport,提单与单证,published
+Cargo Sample,货样,transport,提单与单证,published
+Moisture Certificate,水分证书,transport,提单与单证,published
+Transportable Moisture Limit,适运水分极限,transport,提单与单证,published
+Carriers Obligation,承运人义务,transport,海商法,published
+Carrier's Immunities,承运人免责,transport,海商法,published
+Limitation of Liability,赔偿责任限制,transport,海商法,published
+Limitation Fund,责任限制基金,transport,海商法,published
+Global Limitation,总责任限制,transport,海商法,published
+Ton Limitation,吨位责任限制,transport,海商法,published
+Notice of Loss or Damage,货损通知,transport,海商法,published
+Forum Non Convenience,不方便法院原则,transport,海商法,published
+Wrongful Arrest,错误扣船,transport,海商法,published
+Statutory Lien,法定留置权,transport,海商法,published
+Possessory Lien,占有留置权,transport,海商法,published
+Freight Lien,运费留置权,transport,海商法,published
+Cargo Lien,货物留置权,transport,海商法,published
+Tort Claim,侵权索赔,transport,海商法,published
+Contract of Carriage,运输合同,transport,海商法,published
 Bailment,寄托关系,transport,海商法,pending
 Bailee,受托人,transport,海商法,pending
 Prima Facie Evidence,初步证据,transport,海商法,pending

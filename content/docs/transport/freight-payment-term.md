@@ -1,7 +1,7 @@
 ---
 title: "Freight Payment Term"
 linkTitle: "运费支付条款"
-date: 2026-11-15
+date: 2026-11-16
 type: docs
 subcategory: "运费支付"
 ---
@@ -9,31 +9,20 @@ subcategory: "运费支付"
 > 📖 分类：**运输** / 运费支付　｜　Freight Payment Term = 运费支付条款
 
 ## 定义
-运费支付条款（Freight Payment Term）是指买卖双方或货主与承运人在运输合同中约定的，关于运费由谁支付、何时支付以及如何支付的具体规定。它是国际贸易合同和国际货运代理协议中的核心条款，直接决定了物流费用的结算方式和责任归属。
+Freight Payment Term（运费支付条款）是指国际货物运输合同中，关于运费由谁支付、何时支付以及如何支付的具体约定。它明确了托运人、收货人或第三方在物流过程中的财务责任，是保障运费顺利结算的核心商业条款。
 
 ## 详细说明
-- 使用场景：广泛应用于海运、空运和陆运等各种国际货物运输中，通常在订舱（Booking）阶段即需明确。
-- 关键规则或数字：常见的支付节点分为预付（Prepaid）和到付（Collect）。预付指托运人在发货地装运前付清运费，通常对应 FOB、CFR 等贸易术语；到付指收货人在目的地提货前支付运费，常见于 EXW 或特定的买方指定货代业务。
-- 实务注意事项：在签发提单（Bill of Lading）时，运费条款必须与实际财务安排一致。若操作“运费到付”，货代必须确保目的地代理能够顺利收到款项后方可放货，否则会面临货物滞港和资金无法回收的风险。
+- 使用场景：广泛应用于海运、空运及陆运的订舱与运单签发中，通常在货运委托书（Booking Note）或提单（Bill of Lading）上有明确标注。
+- 关键规则或数字：常见的支付方式分为预付（Freight Prepaid）和到付（Freight Collect）两大类；部分航线或特殊大宗货物支持分期支付（如30%预付，70%尾款在提单签发前付清）。
+- 实务注意事项：必须在货物装运前与船公司或货代确认好支付条款，避免因条款不清导致目的港放货受阻或产生额外的滞箱费和仓储费。
 
 ## 中英对照
-
-| 中文表达 | 英文表达 |
+| 英文表达 | 中文翻译 |
 | :--- | :--- |
-| 运费预付 | Freight Prepaid |
-| 运费到付 | Freight Collect |
-| 运费第三方支付 | Freight Payable Elsewhere / Third Party Billing |
-| 运费及附加费 | Freight and Surcharges |
-
-## 相关术语
-- `Incoterms（国际贸易术语）`
-- `Bill of Lading（提单）`
-- `Freight Forwarder（货运代理）`
-- `Prepaid or Collect（预付或到付）`
-
-## 常见误区
-- 误区一：认为运费支付条款由贸易术语自动决定。虽然贸易术语划分了运费的最终承担方，但在实际操作中，买卖双方仍需明确具体的支付地点和时间。
-- 误区二：混淆运费预付与发货时间。预付是指支付动作发生在货物运输前，而不是指在工厂生产前付款。
+| Freight Prepaid | 运费预付 |
+| Freight Collect | 运费到付 |
+| Freight Payable at Destination | 运费目的地支付 |
+| Freight Prepaid as Arr
 
 ---
 
