@@ -6627,9 +6627,9 @@ Consumption at Sea,海上油耗,transport,航次估算,published
 Consumption in Port,港内油耗,transport,航次估算,published
 Lub Oil Consumption,滑油消耗,transport,航次估算,published
 Fresh Water Consumption,淡水消耗,transport,航次估算,published
-Ballast Passage,压载航次,transport,航次估算,pending
-Laden Passage,重载航次,transport,航次估算,pending
-Round Voyage Distance,往返航程,transport,航次估算,pending
+Ballast Passage,压载航次,transport,航次估算,published
+Laden Passage,重载航次,transport,航次估算,published
+Round Voyage Distance,往返航程,transport,航次估算,published
 Estimated Time of Completion,预计完工时间,transport,航次估算,published
 Brokerage,经纪人佣金,transport,运费支付,published
 Freight Payment Term,运费支付条款,transport,运费支付,published
@@ -6727,103 +6727,103 @@ Freight Lien,运费留置权,transport,海商法,published
 Cargo Lien,货物留置权,transport,海商法,published
 Tort Claim,侵权索赔,transport,海商法,published
 Contract of Carriage,运输合同,transport,海商法,published
-Bailment,寄托关系,transport,海商法,pending
-Bailee,受托人,transport,海商法,pending
-Prima Facie Evidence,初步证据,transport,海商法,pending
-Conclusive Evidence,最终证据,transport,海商法,pending
-Demise Clause,光船租赁条款,transport,海商法,pending
-Identity of Carrier Clause,承运人识别条款,transport,海商法,pending
-Period of Responsibility,责任期间,transport,海商法,pending
-Deviation,绕航,transport,海商法,pending
-Unreasonable Deviation,不合理绕航,transport,海商法,pending
-Contributory Negligence,共同过失,transport,海商法,pending
-Collision Liability,碰撞责任,transport,海商法,pending
-Oil Pollution Liability,油污责任,transport,海商法,pending
-CLC,油污损害民事责任公约,transport,海商法,pending
-COGSA,美国海上货物运输法,transport,海商法,pending
-Jones Act,琼斯法案,transport,海商法,pending
-Maritime Law,海商法,transport,海商法,pending
-Protection and Indemnity Insurance,保赔保险,transport,海商法,pending
-P&I Correspondent,保赔通讯代理,transport,海商法,pending
-Marine Insurance Act,海上保险法,transport,海商法,pending
-Institute Time Clauses Hulls,协会船舶定期险条款,transport,海商法,pending
-Insured Amount,保险金额,transport,海商法,pending
-General Average Guarantee,共同海损担保函,transport,共同海损,pending
-General Average Sacrifice,共同海损牺牲,transport,共同海损,pending
-General Average Expenditure,共同海损费用,transport,共同海损,pending
-General Average Statement,共同海损理算书,transport,共同海损,pending
-General Average Security,共同海损担保,transport,共同海损,pending
-Salvage Contract,救助合同,transport,共同海损,pending
-No Cure No Pay,无效果无报酬,transport,共同海损,pending
-Special Compensation,特别补偿,transport,共同海损,pending
-Salvor,救助人,transport,共同海损,pending
-Life Salvage,人命救助,transport,共同海损,pending
-Salvage Lien,救助留置权,transport,共同海损,pending
-Emergency Towage,紧急拖带,transport,共同海损,pending
-Sale and Purchase,船舶买卖,transport,船舶买卖,pending
-S&P Memorandum of Agreement,船舶买卖协议,transport,船舶买卖,pending
-Ship Valuation,船舶估价,transport,船舶买卖,pending
-Free Delivery,交船交货,transport,船舶买卖,pending
-Delivery,交船,transport,船舶买卖,pending
-Taking Over,接船,transport,船舶买卖,pending
-Pre-purchase Condition Survey,购船前状况检验,transport,船舶买卖,pending
-Purchase Money Escrow,购船款托管,transport,船舶买卖,pending
-Class Certificate Transfer,船级证书转让,transport,船舶买卖,pending
-Closing Documents,交割文件,transport,船舶买卖,pending
-Newbuilding Contract,新造船合同,transport,船舶买卖,pending
-Newbuilding Supervision,新造船监造,transport,船舶买卖,pending
-Scrap Value,拆解价值,transport,船舶买卖,pending
-Demolition Sale,拆船出售,transport,船舶买卖,pending
-Scrap Market,拆船市场,transport,船舶买卖,pending
-Sale Extra Survey,出售附加检验,transport,船舶买卖,pending
-Open Registry,开放登记,transport,船舶登记,pending
-Bareboat Charter Registration,光船租赁登记,transport,船舶登记,pending
-Ship Mortgage Registration,船舶抵押登记,transport,船舶登记,pending
-Certificate of Registry,船舶登记证书,transport,船舶登记,pending
-Provisional Certificate of Registry,临时船舶登记证书,transport,船舶登记,pending
-International Tonnage Certificate,国际吨位证书,transport,船舶登记,pending
-Tonnage Measurement,吨位丈量,transport,船舶登记,pending
-Call Sign,呼号,transport,船舶登记,pending
-Port of Registry,船籍港,transport,船舶登记,pending
-Master,船长,transport,船员管理,pending
-Chief Officer,大副,transport,船员管理,pending
-Second Officer,二副,transport,船员管理,pending
-Third Officer,三副,transport,船员管理,pending
-Chief Engineer,轮机长,transport,船员管理,pending
-Second Engineer,大管轮,transport,船员管理,pending
-Third Engineer,二管轮,transport,船员管理,pending
-Fourth Engineer,三管轮,transport,船员管理,pending
-Bosun,水手长,transport,船员管理,pending
-Able Seaman,一级水手,transport,船员管理,pending
-Ordinary Seaman,普通水手,transport,船员管理,pending
-Motorman,机工,transport,船员管理,pending
-Electrician,电机员,transport,船员管理,pending
-STCW Certificate,海员培训发证值班标准公约证书,transport,船员管理,pending
-Minimum Safe Manning Certificate,最低安全配员证书,transport,船员管理,pending
-Baltic Dirty Tanker Index,波罗的海原油运价指数,transport,航运市场指标,pending
-Baltic Clean Tanker Index,波罗的海成品油运价指数,transport,航运市场指标,pending
-China Containerized Freight Index,中国出口集装箱运价指数,transport,航运市场指标,pending
-FFA Market,远期运费协议市场,transport,航运市场指标,pending
-Worldscale Rate,世界油轮运价表费率,transport,航运市场指标,pending
-Newbuilding Price,新造船价格,transport,航运市场指标,pending
-Secondhand Price,二手船价格,transport,航运市场指标,pending
-Demolition Price,拆船价格,transport,航运市场指标,pending
-Shipping Cycle,航运周期,transport,航运市场指标,pending
-Seaborne Trade,海运贸易量,transport,航运市场指标,pending
-Bow,船首,transport,船舶结构,pending
-Stern,船尾,transport,船舶结构,pending
-Midship,船中,transport,船舶结构,pending
-Forecastle,艏楼,transport,船舶结构,pending
-Poop,艉楼,transport,船舶结构,pending
-Bulwark,舷墙,transport,船舶结构,pending
-Transom,艉封板,transport,船舶结构,pending
-Bilge,舱底,transport,船舶结构,pending
-Shell Plating,船壳板,transport,船舶结构,pending
-Frame,肋骨,transport,船舶结构,pending
-Web Frame,强肋骨,transport,船舶结构,pending
-Deck Beam,甲板横梁,transport,船舶结构,pending
-Longitudinal Bulkhead,纵舱壁,transport,船舶结构,pending
-Transverse Bulkhead,横舱壁,transport,船舶结构,pending
+Bailment,寄托关系,transport,海商法,published
+Bailee,受托人,transport,海商法,published
+Prima Facie Evidence,初步证据,transport,海商法,published
+Conclusive Evidence,最终证据,transport,海商法,published
+Demise Clause,光船租赁条款,transport,海商法,published
+Identity of Carrier Clause,承运人识别条款,transport,海商法,published
+Period of Responsibility,责任期间,transport,海商法,published
+Deviation,绕航,transport,海商法,published
+Unreasonable Deviation,不合理绕航,transport,海商法,published
+Contributory Negligence,共同过失,transport,海商法,published
+Collision Liability,碰撞责任,transport,海商法,published
+Oil Pollution Liability,油污责任,transport,海商法,published
+CLC,油污损害民事责任公约,transport,海商法,published
+COGSA,美国海上货物运输法,transport,海商法,published
+Jones Act,琼斯法案,transport,海商法,published
+Maritime Law,海商法,transport,海商法,published
+Protection and Indemnity Insurance,保赔保险,transport,海商法,published
+P&I Correspondent,保赔通讯代理,transport,海商法,published
+Marine Insurance Act,海上保险法,transport,海商法,published
+Institute Time Clauses Hulls,协会船舶定期险条款,transport,海商法,published
+Insured Amount,保险金额,transport,海商法,published
+General Average Guarantee,共同海损担保函,transport,共同海损,published
+General Average Sacrifice,共同海损牺牲,transport,共同海损,published
+General Average Expenditure,共同海损费用,transport,共同海损,published
+General Average Statement,共同海损理算书,transport,共同海损,published
+General Average Security,共同海损担保,transport,共同海损,published
+Salvage Contract,救助合同,transport,共同海损,published
+No Cure No Pay,无效果无报酬,transport,共同海损,published
+Special Compensation,特别补偿,transport,共同海损,published
+Salvor,救助人,transport,共同海损,published
+Life Salvage,人命救助,transport,共同海损,published
+Salvage Lien,救助留置权,transport,共同海损,published
+Emergency Towage,紧急拖带,transport,共同海损,published
+Sale and Purchase,船舶买卖,transport,船舶买卖,published
+S&P Memorandum of Agreement,船舶买卖协议,transport,船舶买卖,published
+Ship Valuation,船舶估价,transport,船舶买卖,published
+Free Delivery,交船交货,transport,船舶买卖,published
+Delivery,交船,transport,船舶买卖,published
+Taking Over,接船,transport,船舶买卖,published
+Pre-purchase Condition Survey,购船前状况检验,transport,船舶买卖,published
+Purchase Money Escrow,购船款托管,transport,船舶买卖,published
+Class Certificate Transfer,船级证书转让,transport,船舶买卖,published
+Closing Documents,交割文件,transport,船舶买卖,published
+Newbuilding Contract,新造船合同,transport,船舶买卖,published
+Newbuilding Supervision,新造船监造,transport,船舶买卖,published
+Scrap Value,拆解价值,transport,船舶买卖,published
+Demolition Sale,拆船出售,transport,船舶买卖,published
+Scrap Market,拆船市场,transport,船舶买卖,published
+Sale Extra Survey,出售附加检验,transport,船舶买卖,published
+Open Registry,开放登记,transport,船舶登记,published
+Bareboat Charter Registration,光船租赁登记,transport,船舶登记,published
+Ship Mortgage Registration,船舶抵押登记,transport,船舶登记,published
+Certificate of Registry,船舶登记证书,transport,船舶登记,published
+Provisional Certificate of Registry,临时船舶登记证书,transport,船舶登记,published
+International Tonnage Certificate,国际吨位证书,transport,船舶登记,published
+Tonnage Measurement,吨位丈量,transport,船舶登记,published
+Call Sign,呼号,transport,船舶登记,published
+Port of Registry,船籍港,transport,船舶登记,published
+Master,船长,transport,船员管理,published
+Chief Officer,大副,transport,船员管理,published
+Second Officer,二副,transport,船员管理,published
+Third Officer,三副,transport,船员管理,published
+Chief Engineer,轮机长,transport,船员管理,published
+Second Engineer,大管轮,transport,船员管理,published
+Third Engineer,二管轮,transport,船员管理,published
+Fourth Engineer,三管轮,transport,船员管理,published
+Bosun,水手长,transport,船员管理,published
+Able Seaman,一级水手,transport,船员管理,published
+Ordinary Seaman,普通水手,transport,船员管理,published
+Motorman,机工,transport,船员管理,published
+Electrician,电机员,transport,船员管理,published
+STCW Certificate,海员培训发证值班标准公约证书,transport,船员管理,published
+Minimum Safe Manning Certificate,最低安全配员证书,transport,船员管理,published
+Baltic Dirty Tanker Index,波罗的海原油运价指数,transport,航运市场指标,published
+Baltic Clean Tanker Index,波罗的海成品油运价指数,transport,航运市场指标,published
+China Containerized Freight Index,中国出口集装箱运价指数,transport,航运市场指标,published
+FFA Market,远期运费协议市场,transport,航运市场指标,published
+Worldscale Rate,世界油轮运价表费率,transport,航运市场指标,published
+Newbuilding Price,新造船价格,transport,航运市场指标,published
+Secondhand Price,二手船价格,transport,航运市场指标,published
+Demolition Price,拆船价格,transport,航运市场指标,published
+Shipping Cycle,航运周期,transport,航运市场指标,published
+Seaborne Trade,海运贸易量,transport,航运市场指标,published
+Bow,船首,transport,船舶结构,published
+Stern,船尾,transport,船舶结构,published
+Midship,船中,transport,船舶结构,published
+Forecastle,艏楼,transport,船舶结构,published
+Poop,艉楼,transport,船舶结构,published
+Bulwark,舷墙,transport,船舶结构,published
+Transom,艉封板,transport,船舶结构,published
+Bilge,舱底,transport,船舶结构,published
+Shell Plating,船壳板,transport,船舶结构,published
+Frame,肋骨,transport,船舶结构,published
+Web Frame,强肋骨,transport,船舶结构,published
+Deck Beam,甲板横梁,transport,船舶结构,published
+Longitudinal Bulkhead,纵舱壁,transport,船舶结构,published
+Transverse Bulkhead,横舱壁,transport,船舶结构,published
 Collision Bulkhead,防撞舱壁,transport,船舶结构,pending
 Corrugated Bulkhead,槽形舱壁,transport,船舶结构,pending
 Bulkhead Stool,舱壁凳,transport,船舶结构,pending
