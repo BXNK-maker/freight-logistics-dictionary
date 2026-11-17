@@ -7024,106 +7024,106 @@ Common Rail System,共轨系统,transport,船舶主机,published
 Electronic Control Engine,电子控制柴油机,transport,船舶主机,published
 Alpha Cylinder Lubrication,阿尔法气缸润滑系统,transport,船舶主机,published
 Fixed Pitch Propeller,定距桨,transport,船舶主机,published
-Controllable Pitch Propeller,调距桨,transport,船舶主机,pending
-Ducted Propeller,导管桨,transport,船舶主机,pending
-Propeller Blade,螺旋桨叶,transport,船舶主机,pending
-Propeller Hub,螺旋桨毂,transport,船舶主机,pending
-Propeller Shaft,螺旋桨轴,transport,船舶主机,pending
-Intermediate Shaft,中间轴,transport,船舶主机,pending
-Thrust Shaft,推力轴,transport,船舶主机,pending
-Thrust Bearing,推力轴承,transport,船舶主机,pending
-Stern Tube Bearing,艉轴管轴承,transport,船舶主机,pending
-Stern Tube Seal,艉轴管密封,transport,船舶主机,pending
-Shaft Grounding Device,轴接地装置,transport,船舶主机,pending
-CPP Hydraulic System,调距桨液压系统,transport,船舶主机,pending
-Propeller Slip Ratio,滑失率,transport,船舶主机,pending
-Propeller Cavitation,螺旋桨空泡,transport,船舶主机,pending
-Shaft Alignment,轴系校中,transport,船舶主机,pending
-Torsional Vibration,扭转振动,transport,船舶主机,pending
-Reduction Gearbox,减速齿轮箱,transport,船舶主机,pending
-Elastic Coupling,弹性联轴节,transport,船舶主机,pending
-Diesel Electric Propulsion,柴电推进,transport,船舶主机,pending
-Podded Propulsion,吊舱推进,transport,船舶主机,pending
-Bow Thruster,艏侧推,transport,船舶主机,pending
-Azimuth Thruster,全回转推进器,transport,船舶主机,pending
-Waterjet Propulsion,喷水推进,transport,船舶主机,pending
-Voith Schneider Propeller,摆线推进器,transport,船舶主机,pending
-Shaft Tunnel,轴隧,transport,船舶主机,pending
-Steam Turbine,汽轮机,transport,船舶主机,pending
-Gas Turbine,燃气轮机,transport,船舶主机,pending
-Auxiliary Engine,副机,transport,轮机设备,pending
-Diesel Generator,柴油发电机,transport,轮机设备,pending
-Emergency Generator,应急发电机,transport,轮机设备,pending
-Emergency Switchboard,应急配电板,transport,轮机设备,pending
-Main Switchboard,主配电板,transport,轮机设备,pending
-Boiler,锅炉,transport,轮机设备,pending
-Economizer,经济器,transport,轮机设备,pending
-Superheater,过热器,transport,轮机设备,pending
-Burner,燃烧器,transport,轮机设备,pending
-Fuel Oil Supply Unit,燃油供给单元,transport,轮机设备,pending
-Separator,分油机,transport,轮机设备,pending
-Purifier,净油机,transport,轮机设备,pending
-Fuel Oil Blending Unit,燃油混调单元,transport,轮机设备,pending
-Low Sulfur Fuel,低硫燃油,transport,轮机设备,pending
-HFO,重质燃料油,transport,轮机设备,pending
-Fuel Viscosity,燃油黏度,transport,轮机设备,pending
-Fuel Heating,燃油加热,transport,轮机设备,pending
-Scrubber,脱硫塔,transport,轮机设备,pending
-Open Loop Scrubber,开式脱硫塔,transport,轮机设备,pending
-Closed Loop Scrubber,闭式脱硫塔,transport,轮机设备,pending
-Hybrid Scrubber,混合式脱硫塔,transport,轮机设备,pending
-Selective Catalytic Reduction,选择性催化还原,transport,轮机设备,pending
-Exhaust Gas Recirculation,废气再循环,transport,轮机设备,pending
-Gas Supply System,气体供给系统,transport,轮机设备,pending
-Methanol Dual Fuel,甲醇双燃料,transport,轮机设备,pending
-Hydrogen Fuel Cell,氢燃料电池,transport,轮机设备,pending
-Battery Power,电池动力,transport,轮机设备,pending
-Shore Power Connection,岸电连接,transport,轮机设备,pending
-Air Compressor,空气压缩机,transport,轮机设备,pending
-Starting Air Receiver,启动空气瓶,transport,轮机设备,pending
-Bilge System,舱底水系统,transport,轮机设备,pending
-Ballast System,压载水系统,transport,轮机设备,pending
-Sea Water Cooling System,海水冷却系统,transport,轮机设备,pending
-Fresh Water Cooling System,淡水冷却系统,transport,轮机设备,pending
-Fuel Oil Transfer Pump,燃油驳运泵,transport,轮机设备,pending
-Reverse Osmosis Plant,反渗透造水装置,transport,轮机设备,pending
-Refrigerating Compressor,冷藏压缩机,transport,轮机设备,pending
-Hydrophore,压力水柜,transport,轮机设备,pending
-Expansion Tank,膨胀柜,transport,轮机设备,pending
-Settling Tank,沉淀柜,transport,轮机设备,pending
-Service Tank,日用柜,transport,轮机设备,pending
-Sludge Tank,油渣柜,transport,轮机设备,pending
-Bilge Well,污水井,transport,轮机设备,pending
-Grey Water Tank,灰水舱,transport,轮机设备,pending
-Evaporator,蒸发器,transport,轮机设备,pending
-Condenser,冷凝器,transport,轮机设备,pending
-Heat Exchanger,热交换器,transport,轮机设备,pending
-Centrifugal Pump,离心泵,transport,轮机设备,pending
-Reciprocating Pump,往复泵,transport,轮机设备,pending
-Gear Pump,齿轮泵,transport,轮机设备,pending
-Screw Pump,螺杆泵,transport,轮机设备,pending
-Eductor,喷射泵,transport,轮机设备,pending
-Fresh Water Pump,淡水泵,transport,轮机设备,pending
-Sea Water Pump,海水泵,transport,轮机设备,pending
-Lube Oil Purifier,滑油分油机,transport,轮机设备,pending
-Lube Oil Storage Tank,滑油储存柜,transport,轮机设备,pending
-Fuel Oil Heater,燃油加热器,transport,轮机设备,pending
-Air Receiver,空气瓶,transport,轮机设备,pending
-Fuel Oil Settling Tank,燃油沉淀柜,transport,轮机设备,pending
-Daily Service Tank,日用燃油柜,transport,轮机设备,pending
-Oil Mist Detector,油雾探测器,transport,轮机设备,pending
-Crankcase Explosion Relief Valve,曲轴箱防爆门,transport,轮机设备,pending
-Crankcase,曲轴箱,transport,轮机设备,pending
-Tie Rod,贯穿螺栓,transport,轮机设备,pending
-Bedplate,机座,transport,轮机设备,pending
-Frame Box,机架,transport,轮机设备,pending
-Cylinder Block,气缸体,transport,轮机设备,pending
-Thrust Block,推力轴承座,transport,轮机设备,pending
-Stern Tube,艉轴管,transport,轮机设备,pending
-Stern Tube Lubricating Oil,艉轴管润滑油,transport,轮机设备,pending
-Propeller Cone Nut,桨帽,transport,轮机设备,pending
-Intermediate Bearing,中间轴承,transport,轮机设备,pending
-Air Cooler,空气冷却器,transport,轮机设备,pending
+Controllable Pitch Propeller,调距桨,transport,船舶主机,published
+Ducted Propeller,导管桨,transport,船舶主机,published
+Propeller Blade,螺旋桨叶,transport,船舶主机,published
+Propeller Hub,螺旋桨毂,transport,船舶主机,published
+Propeller Shaft,螺旋桨轴,transport,船舶主机,published
+Intermediate Shaft,中间轴,transport,船舶主机,published
+Thrust Shaft,推力轴,transport,船舶主机,published
+Thrust Bearing,推力轴承,transport,船舶主机,published
+Stern Tube Bearing,艉轴管轴承,transport,船舶主机,published
+Stern Tube Seal,艉轴管密封,transport,船舶主机,published
+Shaft Grounding Device,轴接地装置,transport,船舶主机,published
+CPP Hydraulic System,调距桨液压系统,transport,船舶主机,published
+Propeller Slip Ratio,滑失率,transport,船舶主机,published
+Propeller Cavitation,螺旋桨空泡,transport,船舶主机,published
+Shaft Alignment,轴系校中,transport,船舶主机,published
+Torsional Vibration,扭转振动,transport,船舶主机,published
+Reduction Gearbox,减速齿轮箱,transport,船舶主机,published
+Elastic Coupling,弹性联轴节,transport,船舶主机,published
+Diesel Electric Propulsion,柴电推进,transport,船舶主机,published
+Podded Propulsion,吊舱推进,transport,船舶主机,published
+Bow Thruster,艏侧推,transport,船舶主机,published
+Azimuth Thruster,全回转推进器,transport,船舶主机,published
+Waterjet Propulsion,喷水推进,transport,船舶主机,published
+Voith Schneider Propeller,摆线推进器,transport,船舶主机,published
+Shaft Tunnel,轴隧,transport,船舶主机,published
+Steam Turbine,汽轮机,transport,船舶主机,published
+Gas Turbine,燃气轮机,transport,船舶主机,published
+Auxiliary Engine,副机,transport,轮机设备,published
+Diesel Generator,柴油发电机,transport,轮机设备,published
+Emergency Generator,应急发电机,transport,轮机设备,published
+Emergency Switchboard,应急配电板,transport,轮机设备,published
+Main Switchboard,主配电板,transport,轮机设备,published
+Boiler,锅炉,transport,轮机设备,published
+Economizer,经济器,transport,轮机设备,published
+Superheater,过热器,transport,轮机设备,published
+Burner,燃烧器,transport,轮机设备,published
+Fuel Oil Supply Unit,燃油供给单元,transport,轮机设备,published
+Separator,分油机,transport,轮机设备,published
+Purifier,净油机,transport,轮机设备,published
+Fuel Oil Blending Unit,燃油混调单元,transport,轮机设备,published
+Low Sulfur Fuel,低硫燃油,transport,轮机设备,published
+HFO,重质燃料油,transport,轮机设备,published
+Fuel Viscosity,燃油黏度,transport,轮机设备,published
+Fuel Heating,燃油加热,transport,轮机设备,published
+Scrubber,脱硫塔,transport,轮机设备,published
+Open Loop Scrubber,开式脱硫塔,transport,轮机设备,published
+Closed Loop Scrubber,闭式脱硫塔,transport,轮机设备,published
+Hybrid Scrubber,混合式脱硫塔,transport,轮机设备,published
+Selective Catalytic Reduction,选择性催化还原,transport,轮机设备,published
+Exhaust Gas Recirculation,废气再循环,transport,轮机设备,published
+Gas Supply System,气体供给系统,transport,轮机设备,published
+Methanol Dual Fuel,甲醇双燃料,transport,轮机设备,published
+Hydrogen Fuel Cell,氢燃料电池,transport,轮机设备,published
+Battery Power,电池动力,transport,轮机设备,published
+Shore Power Connection,岸电连接,transport,轮机设备,published
+Air Compressor,空气压缩机,transport,轮机设备,published
+Starting Air Receiver,启动空气瓶,transport,轮机设备,published
+Bilge System,舱底水系统,transport,轮机设备,published
+Ballast System,压载水系统,transport,轮机设备,published
+Sea Water Cooling System,海水冷却系统,transport,轮机设备,published
+Fresh Water Cooling System,淡水冷却系统,transport,轮机设备,published
+Fuel Oil Transfer Pump,燃油驳运泵,transport,轮机设备,published
+Reverse Osmosis Plant,反渗透造水装置,transport,轮机设备,published
+Refrigerating Compressor,冷藏压缩机,transport,轮机设备,published
+Hydrophore,压力水柜,transport,轮机设备,published
+Expansion Tank,膨胀柜,transport,轮机设备,published
+Settling Tank,沉淀柜,transport,轮机设备,published
+Service Tank,日用柜,transport,轮机设备,published
+Sludge Tank,油渣柜,transport,轮机设备,published
+Bilge Well,污水井,transport,轮机设备,published
+Grey Water Tank,灰水舱,transport,轮机设备,published
+Evaporator,蒸发器,transport,轮机设备,published
+Condenser,冷凝器,transport,轮机设备,published
+Heat Exchanger,热交换器,transport,轮机设备,published
+Centrifugal Pump,离心泵,transport,轮机设备,published
+Reciprocating Pump,往复泵,transport,轮机设备,published
+Gear Pump,齿轮泵,transport,轮机设备,published
+Screw Pump,螺杆泵,transport,轮机设备,published
+Eductor,喷射泵,transport,轮机设备,published
+Fresh Water Pump,淡水泵,transport,轮机设备,published
+Sea Water Pump,海水泵,transport,轮机设备,published
+Lube Oil Purifier,滑油分油机,transport,轮机设备,published
+Lube Oil Storage Tank,滑油储存柜,transport,轮机设备,published
+Fuel Oil Heater,燃油加热器,transport,轮机设备,published
+Air Receiver,空气瓶,transport,轮机设备,published
+Fuel Oil Settling Tank,燃油沉淀柜,transport,轮机设备,published
+Daily Service Tank,日用燃油柜,transport,轮机设备,published
+Oil Mist Detector,油雾探测器,transport,轮机设备,published
+Crankcase Explosion Relief Valve,曲轴箱防爆门,transport,轮机设备,published
+Crankcase,曲轴箱,transport,轮机设备,published
+Tie Rod,贯穿螺栓,transport,轮机设备,published
+Bedplate,机座,transport,轮机设备,published
+Frame Box,机架,transport,轮机设备,published
+Cylinder Block,气缸体,transport,轮机设备,published
+Thrust Block,推力轴承座,transport,轮机设备,published
+Stern Tube,艉轴管,transport,轮机设备,published
+Stern Tube Lubricating Oil,艉轴管润滑油,transport,轮机设备,published
+Propeller Cone Nut,桨帽,transport,轮机设备,published
+Intermediate Bearing,中间轴承,transport,轮机设备,published
+Air Cooler,空气冷却器,transport,轮机设备,published
 Jacket Cooling Water,缸套冷却水,transport,轮机设备,pending
 Radar,雷达,transport,航海技术,pending
 ARPA,自动雷达标绘仪,transport,航海技术,pending

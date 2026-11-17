@@ -1,7 +1,7 @@
 ---
 title: "CPP Hydraulic System"
 linkTitle: "调距桨液压系统"
-date: 2026-11-16
+date: 2026-11-17
 type: docs
 subcategory: "船舶主机"
 ---
@@ -10,34 +10,37 @@ subcategory: "船舶主机"
 
 ## 定义
 
-CPP Hydraulic System（Controllable Pitch Propeller Hydraulic System，调距桨液压系统）是船舶推进系统的重要组成部分，通过液压油的压力来改变可控距螺旋桨（CPP）桨叶的角度。该系统直接控制船舶的推进方向和推力大小，对船舶的机动性能和航行安全起着决定性作用。
+CPP Hydraulic System 是船舶“可调螺距螺旋桨液压系统”（Controllable Pitch Propeller Hydraulic System）的简称。它是利用高压液压油驱动轮毂内的机械连杆机构，以实时改变螺旋桨叶片倾斜角度的核心控制系统。该系统使船舶在发动机维持最佳转速的情况下，仅需改变桨叶角度即可实现航速无级调节、原地悬停或进退转向，显著提升了船舶的机动性能。
 
 ## 详细说明
 
-- 使用场景：广泛应用于各类需要频繁变向、调速或进行精确定位的船舶，如拖轮、破冰船、多用途货船以及配备动力定位（DP）系统的海工船。
-- 关键规则或数字：系统工作压力通常维持在特定标准（常见如 5-10 MPa 范围，视船型而定），以确保桨叶角度调整迅速且精准；液压油的清洁度和粘度指数必须严格符合制造商的技术规范，以防止阀门卡阻。
-- 实务注意事项：在船舶进行坞修、年审或液压管路大修时，货代及船东需提前安排特种润滑油和备件的报关与跨境运输；由于液压油属于潜在环保敏感货物，航运操作中需严格遵守防污染公约，防止油品泄漏。
+- **使用场景**：常见于需要频繁靠离泊、减速避让及复杂操纵的商船与特种船，如滚装船（Ro-Ro）、集装箱支线船、拖轮、海工支持船（OSV）以及客滚渡轮。
+- **关键规则与参数**：系统工作油压一般维持在 5 至 15 MPa 之间；按照国际船级社（如 DNV、ABS）规范，液压系统必须具备快速响应能力，通常要求在数十秒内实现从“全速前进”（Full Ahead）到“全速倒车”（Full Astern）的螺距转换，并配备双联备份泵和应急手动调节装置。
+- **实务注意事项**：
+  - **备件紧急物流（Ship Spares）**：CPP 液压系统的伺服阀、密封件圈、配油器等属于高精密度专用部件。一旦故障将导致船舶失去推力甚至停航（Off-hire），此类备件常以“Ship Spares in Transit”（在途船舶备件）形式走空运加急通道，货代需协助完成机场快速清关并直送码头舷外交付。
+  - **辅料品类监管**：系统补充液压油运输时需核对化学品安全技术说明书（MSDS），虽然多数为普通润滑油，但进入港区补给时须严格符合防污染与海事绿色通关规定。
 
 ## 中英对照
 
-| 中文表达 | 英文表达 |
+| 英文表达 | 中文释义 |
 | :--- | :--- |
-| 调距桨液压系统 | CPP Hydraulic System |
-| 可控距螺旋桨 | Controllable Pitch Propeller (CPP) |
-| 液压油泵 | Hydraulic Oil Pump |
-| 桨叶角度反馈装置 | Blade Angle Feedback Unit |
+| Controllable Pitch Propeller (CPP) | 可调螺距螺旋桨 |
+| Fixed Pitch Propeller (FPP) | 固定螺距螺旋桨 |
+| Oil Distribution Box (OD Box) | 配油器 / 配油箱 |
+| Pitch Control Lever | 桨距控制手柄 |
+| Ship Spares in Transit | 运输中的船舶备件 / 船用急件 |
 
 ## 相关术语
 
-- FPP（Fixed Pitch Propeller，定距桨）
-- Azimuth Thruster（全回转推进器）
-- Dynamic Positioning System（动力定位系统）
-- Marine Gas Oil (MGO)（船用轻柴油）
+- Fixed Pitch Propeller（固定螺距螺旋桨）
+- Bow Thruster（艏侧推器）
+- Dynamic Positioning（动力定位系统）
+- Off-hire（停租 / 停航）
 
 ## 常见误区
 
-- 误以为 CPP Hydraulic System 仅用于调节航行速度，忽视了它在实现船舶快速倒车和无级变速中的核心作用。
-- 混淆了定距桨（FPP）与调距桨（CPP）的维护要求，误认为调距桨系统不需要复杂的液压管路和专用的液压油过滤装置。
+- **误以为倒车必须反转发动机**：配备 CPP 的船舶无需主机反转或熄火重启动，在发动机转速与转向完全恒定的状态下，仅通过液压调整桨叶至负角度即可实现倒车。
+- **将 CPP 核心备件当做常规普货操作**：CPP 液压元件货值高、配合精度严且船期不等人，若按普通商业货物申报和陆运排期，极易因口岸查验或仓储延误引发数额高昂的船舶滞港费。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Reverse Osmosis Plant"
 linkTitle: "反渗透造水装置"
-date: 2026-11-16
+date: 2026-11-17
 type: docs
 subcategory: "轮机设备"
 ---
@@ -9,30 +9,31 @@ subcategory: "轮机设备"
 > 📖 分类：**运输** / 轮机设备　｜　Reverse Osmosis Plant = 反渗透造水装置
 
 ## 定义
-Reverse Osmosis Plant（反渗透造水装置）是一种利用半透膜过滤技术将海水或苦咸水淡化为淡水的船用或岸基核心水处理设备。在国际海运和船舶管理中，该装置是保障远洋船舶自给自足、维持船员长期海上生活及机器运行用水的关键系统。
+Reverse Osmosis Plant（反渗透造水装置）是一种利用半透膜过滤技术将海水或苦咸水淡化为淡水的船用或岸基设备。在国际物流中，它通常作为大型船舶的重型机械设备进行远洋运输和项目申报。
 
 ## 详细说明
-- 使用场景：主要安装在各类远洋商船、FPSO（浮式生产储卸油装置）、豪华游轮以及远离陆地的海洋工程钻井平台上，用于解决船舶在航行途中的淡水补给难题。
-- 关键规则或数字：现代船舶反渗透造水装置的产水率通常根据船员编制和航线需求配置，常见中小型商船日产淡水能力在 5 至 25 吨之间；出水水质的电导率或总溶解固体（TDS）必须严格控制在饮用水标准范围内（通常低于 500 ppm）。
-- 实务注意事项：在船舶备件报关与国际物流运输中，该装置的高压泵、反渗透膜组件及紫外线杀菌器属于高价值且易损的船用备件（Ship's Spares），发货时需注意防潮、防震包装，并准确向海关申报为船舶专用物料以享受相关税收优惠。
+- 使用场景：主要安装在远洋货轮、FPSO（浮式生产储卸油装置）、豪华游轮以及远离大陆的海洋工程项目中，用于保障船员生活用水和锅炉补给水。
+- 关键规则或数字：在进行海运操作时，该设备通常被归类为船用配套机械（Ship Machinery）。由于内部精密滤膜对温湿度有要求，设备往往需要进行防潮、防锈的特殊木箱包装（Seaworthy Packing），且在吊装时需严格遵守重心平衡（Center of Gravity）原则。
+- 实务注意事项：该装置包含高压泵和精密膜组件，货代在订舱时需向船公司确认是否属于特种货物。若设备体积庞大，通常需按照件杂货（Break Bulk Cargo）或框架箱（Flat Rack Container）操作，报关时需准确归入相应的海关编码。
 
 ## 中英对照
-| 英文表达 | 中文翻译 |
+
+| 中文表达 | 英文表达 |
 | :--- | :--- |
-| Reverse Osmosis (RO) Water Maker | 反渗透造水机 / 淡水发生器 |
-| Permeate Water | 渗透水 / 产出淡水 |
-| High Pressure Pump | 高压泵 |
-| Salinity Sensor | 盐度传感器 |
+| 反渗透造水装置 | Reverse Osmosis Plant |
+| 淡水发生器 | Fresh Water Generator |
+| 船用机械设备 | Marine Machinery and Equipment |
+| 海水淡化 | Seawater Desalination |
 
 ## 相关术语
-- Fresh Water Generator（造水机）
-- Potable Water Tank（淡水舱）
-- Ship's Spares in Transit（在途船用备件）
-- Desalination Plant（海水淡化厂）
+- Break Bulk Cargo（散杂货）
+- Flat Rack Container（框架集装箱）
+- Marine Insurance（海洋运输保险）
+- Bill of Lading（提单）
 
 ## 常见误区
-- 误认为反渗透造水装置仅需物理过滤即可饮用，实际上产出的淡水通常需要经过矿化和二次消毒（如紫外线或加氯）后方可作为生活饮用水。
-- 在办理船舶备件物流时，常将其与普通工业水处理设备混淆，忽略了船用设备对抗震动、防腐蚀的特殊船级社（Class）认证要求。
+- 误认为该装置属于普通船用备件（Ship's Spares），从而忽视了大型设备超限尺寸的测量与绑扎加固。
+- 忽略了设备
 
 ---
 

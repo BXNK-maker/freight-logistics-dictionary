@@ -1,7 +1,7 @@
 ---
 title: "Shore Power Connection"
 linkTitle: "岸电连接"
-date: 2026-11-16
+date: 2026-11-17
 type: docs
 subcategory: "轮机设备"
 ---
@@ -10,35 +10,34 @@ subcategory: "轮机设备"
 
 ## 定义
 
-岸电连接（Shore Power Connection），又称冷铁（Cold Ironing）或高压岸电（High Voltage Shore Connection, HVSC），是指船舶在靠泊港口期间，关闭船上自带的燃油发电机，转而接入港口陆地电网获取所需电力的技术。这项技术旨在减少船舶在港期间的废气排放和噪音污染。
+岸电连接（英文全称：Shore Power Connection，通常简称为 SPC），是指船舶在靠港期间关闭船上自带的燃油辅机发电，转而通过码头岸上的电力设施为其提供生活和运营所需电力的技术。该技术也常被称为“冷铁（Cold Ironing）”。
 
 ## 详细说明
 
-- 使用场景：主要应用于大型集装箱船、邮轮、滚装船等在靠港装卸货物或旅客期间，需要长时间维持船上照明、空调、冷藏集装箱等设备运转的场景。
-- 关键规则或数字：目前国际上广泛采用国际电工委员会（IEC）制定的 IEC/IEEE 80005 标准，岸电电压通常为高压（如 6.6kV 或 11kV），频率需与船舶电力系统相匹配（通常为 50Hz 或 60Hz）。
-- 实务注意事项：货代和船公司在安排挂靠特定环保港口（如洛杉矶港、盐田港等）时，需提前确认船舶是否具备岸电接收改造资质、港口码头是否提供对应的岸电设施，以及双方的插头型号和电缆规格是否兼容。
+- 使用场景：主要应用于集装箱船、大型邮轮以及滚装船等在港口停泊时间较长、靠泊期间电力消耗巨大的船舶。
+- 关键规则或数字：国际标准通常采用 IEC/IEEE 80005 标准。目前全球主要港口（如中国沿海主要港口、欧洲罗特丹港等）都在推行靠港船舶强制或优先使用岸电，部分区域对违规船舶处以环保罚款。
+- 实务注意事项：由于不同国家和船型的电压、频率（如 50Hz 与 60Hz）可能存在差异，船舶在进港前需确认码头是否具备匹配的岸电插头及变频设备；同时操作人员必须严格遵守高压岸电连接的安全标准（HVSC），防止发生触电或设备损坏事故。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 岸电连接 | Shore Power Connection |
-| 冷铁（冷船状态） | Cold Ironing |
-| 岸电系统 | Onshore Power Supply (OPS) |
-| 船舶能效指数 | Energy Efficiency Design Index (EEDI) |
-| 碳强度指标 | Carbon Intensity Indicator (CII) |
+| 岸电连接 | Shore Power Connection / High Voltage Shore Connection (HVSC) |
+| 冷铁（岸电别称） | Cold Ironing |
+| 岸电系统 | Shore Power System |
+| 船舶能效指数 | Ship Energy Efficiency Management Plan (SEEMP) |
 
 ## 相关术语
 
 - Green Port（绿色港口）
-- Zero Emission（零排放）
-- Bunker Adjustment Factor（燃油附加费）
-- Vessel Efficiency（船舶能效）
+- Carbon Intensity Indicator (CII)（碳强度指标）
+- Energy Efficiency Existing Ship Index (EEXI)（现有船能效指数）
+- Bunker Adjustment Factor (BAF)（燃油附加费）
 
 ## 常见误区
 
-- 误区一：认为岸电连接只是简单的“插上电线”，实际上高压岸电的对接涉及复杂的电压转换、相位同步和安全联锁通讯，操作要求极高。
-- 误区二：认为所有港口都必须强制使用岸电，目前全球仅有部分环保重点港口强制或半强制推行，且并非所有老旧船舶都完成了岸电系统改造。
+- 误区一：认为所有靠港船舶都可以随时随地接入任意码头的岸电。实际上，岸电系统对船舶电气改造、插头型号及码头供电功率有严格的匹配要求，并非“即插即用”。
+- 误区二：认为使用岸电只是为了环保。虽然它能显著减少港口城市的碳排放和空气污染，但从长远来看，它也是船公司应对日益严格的国际海事组织（IMO）脱碳法规的重要合规手段。
 
 ---
 
