@@ -7124,106 +7124,106 @@ Stern Tube Lubricating Oil,艉轴管润滑油,transport,轮机设备,published
 Propeller Cone Nut,桨帽,transport,轮机设备,published
 Intermediate Bearing,中间轴承,transport,轮机设备,published
 Air Cooler,空气冷却器,transport,轮机设备,published
-Jacket Cooling Water,缸套冷却水,transport,轮机设备,pending
-Radar,雷达,transport,航海技术,pending
-ARPA,自动雷达标绘仪,transport,航海技术,pending
-ENC,电子航海图,transport,航海技术,pending
-GPS,全球定位系统,transport,航海技术,pending
-DGPS,差分全球定位系统,transport,航海技术,pending
-GLONASS,格洛纳斯卫星导航系统,transport,航海技术,pending
-BeiDou,北斗卫星导航系统,transport,航海技术,pending
-Galileo,伽利略卫星导航系统,transport,航海技术,pending
-VDR,航行数据记录仪,transport,航海技术,pending
-Autopilot,自动舵,transport,航海技术,pending
-Gyrocompass,电罗经,transport,航海技术,pending
-Magnetic Compass,磁罗经,transport,航海技术,pending
-Compass Deviation,自差,transport,航海技术,pending
-Compass Error,罗经差,transport,航海技术,pending
-Variation,磁差,transport,航海技术,pending
-Deviation Table,自差表,transport,航海技术,pending
-Azimuth Mirror,方位镜,transport,航海技术,pending
-Bearing Repeater,方位复示器,transport,航海技术,pending
-Course Repeater,航向复示器,transport,航海技术,pending
-Doppler Log,多普勒计程仪,transport,航海技术,pending
-Electromagnetic Log,电磁计程仪,transport,航海技术,pending
-Ground Speed,对地速度,transport,航海技术,pending
-Speed Through Water,对水速度,transport,航海技术,pending
-Echo Sounder,测深仪,transport,航海技术,pending
-NAVTEX,航行警告接收机,transport,航海技术,pending
-Inmarsat C,国际海事卫星C站,transport,航海技术,pending
-Ship Earth Station,船舶地球站,transport,航海技术,pending
-COSPAS-SARSAT,全球卫星搜救系统,transport,航海技术,pending
-Sea Area A1,A1海区,transport,航海技术,pending
-Sea Area A2,A2海区,transport,航海技术,pending
-Sea Area A3,A3海区,transport,航海技术,pending
-Sea Area A4,A4海区,transport,航海技术,pending
-Sextant,六分仪,transport,航海技术,pending
-Sextant Altitude,六分仪高度,transport,航海技术,pending
-Celestial Fix,天测船位,transport,航海技术,pending
-Nautical Almanac,航海天文历,transport,航海技术,pending
-Zone Time,区时,transport,航海技术,pending
-Date Line,日界线,transport,航海技术,pending
-Tide Table,潮汐表,transport,航海技术,pending
-Tidal Stream,潮流,transport,航海技术,pending
-Ocean Current,洋流,transport,航海技术,pending
-Drift Angle,漂角,transport,航海技术,pending
-Beaufort Scale,蒲福风级,transport,航海技术,pending
-Douglas Sea State,道格拉斯海况级,transport,航海技术,pending
-Significant Wave Height,有效波高,transport,航海技术,pending
-Wave Period,波浪周期,transport,航海技术,pending
-Swell,涌浪,transport,航海技术,pending
-Wind Wave,风浪,transport,航海技术,pending
-Rogue Wave,疯狗浪,transport,航海技术,pending
-Ship Squat,船体下沉,transport,航海技术,pending
-Bank Effect,岸壁效应,transport,航海技术,pending
-Ship-ship Interaction,船间效应,transport,航海技术,pending
-Speed Loss in Weather,失速,transport,航海技术,pending
-Great Circle Sailing,大圆航行,transport,航海技术,pending
-Radar Beacon,雷达信标,transport,航海技术,pending
-Racon,雷达应答标,transport,航海技术,pending
-Buoyage System,浮标制度,transport,航海技术,pending
-Lateral Buoyage,侧面标示制,transport,航海技术,pending
-Cardinal Buoyage,方位标示制,transport,航海技术,pending
-Lighthouse,灯塔,transport,航海技术,pending
-Leading Lights,导灯,transport,航海技术,pending
-Range Lights,叠标,transport,航海技术,pending
-Daymark,立标,transport,航海技术,pending
-Light Characteristics,灯质,transport,航海技术,pending
-Nominal Range,名义射程,transport,航海技术,pending
-Chart Correction,海图改正,transport,航海技术,pending
-Sailing Directions,航路指南,transport,航海技术,pending
-List of Lights,灯标表,transport,航海技术,pending
-Chart Datum,海图基准面,transport,航海技术,pending
-Course Over Ground,对地航向,transport,航海技术,pending
-Heading,船首向,transport,航海技术,pending
-Course to Steer,计划航向,transport,航海技术,pending
-Waypoint,转向点,transport,航海技术,pending
-Parallel Indexing,平行标绘,transport,航海技术,pending
-Bridge Watchkeeping,驾驶台值班,transport,航海技术,pending
-Man Overboard,人员落水,transport,航海技术,pending
-Composite Sailing,混合航线,transport,气象航路,pending
-Planetary Wind Belt,行星风带,transport,气象航路,pending
-Monsoon,季风,transport,气象航路,pending
-Land and Sea Breeze,海陆风,transport,气象航路,pending
-Typhoon,台风,transport,气象航路,pending
-Typhoon Eye,台风眼,transport,气象航路,pending
-Dangerous Semi-circle,危险半圆,transport,气象航路,pending
-Navigable Semi-circle,可航半圆,transport,气象航路,pending
-Typhoon Avoidance,避台,transport,气象航路,pending
-Tropical Cyclone,热带气旋,transport,气象航路,pending
-Extratropical Cyclone,温带气旋,transport,气象航路,pending
-Tornado,龙卷风,transport,气象航路,pending
-Squall Line,飑线,transport,气象航路,pending
-Cold Front,冷锋,transport,气象航路,pending
-Warm Front,暖锋,transport,气象航路,pending
-Stationary Front,静止锋,transport,气象航路,pending
-Occluded Front,锢囚锋,transport,气象航路,pending
-Subtropical High,副热带高压,transport,气象航路,pending
-Steering Flow,引导气流,transport,气象航路,pending
-Foehn Wind,焚风,transport,气象航路,pending
-Blizzard,暴风雪,transport,气象航路,pending
-Sea Fog,海雾,transport,气象航路,pending
-Advection Fog,平流雾,transport,气象航路,pending
+Jacket Cooling Water,缸套冷却水,transport,轮机设备,published
+Radar,雷达,transport,航海技术,published
+ARPA,自动雷达标绘仪,transport,航海技术,published
+ENC,电子航海图,transport,航海技术,published
+GPS,全球定位系统,transport,航海技术,published
+DGPS,差分全球定位系统,transport,航海技术,published
+GLONASS,格洛纳斯卫星导航系统,transport,航海技术,published
+BeiDou,北斗卫星导航系统,transport,航海技术,published
+Galileo,伽利略卫星导航系统,transport,航海技术,published
+VDR,航行数据记录仪,transport,航海技术,published
+Autopilot,自动舵,transport,航海技术,published
+Gyrocompass,电罗经,transport,航海技术,published
+Magnetic Compass,磁罗经,transport,航海技术,published
+Compass Deviation,自差,transport,航海技术,published
+Compass Error,罗经差,transport,航海技术,published
+Variation,磁差,transport,航海技术,published
+Deviation Table,自差表,transport,航海技术,published
+Azimuth Mirror,方位镜,transport,航海技术,published
+Bearing Repeater,方位复示器,transport,航海技术,published
+Course Repeater,航向复示器,transport,航海技术,published
+Doppler Log,多普勒计程仪,transport,航海技术,published
+Electromagnetic Log,电磁计程仪,transport,航海技术,published
+Ground Speed,对地速度,transport,航海技术,published
+Speed Through Water,对水速度,transport,航海技术,published
+Echo Sounder,测深仪,transport,航海技术,published
+NAVTEX,航行警告接收机,transport,航海技术,published
+Inmarsat C,国际海事卫星C站,transport,航海技术,published
+Ship Earth Station,船舶地球站,transport,航海技术,published
+COSPAS-SARSAT,全球卫星搜救系统,transport,航海技术,published
+Sea Area A1,A1海区,transport,航海技术,published
+Sea Area A2,A2海区,transport,航海技术,published
+Sea Area A3,A3海区,transport,航海技术,published
+Sea Area A4,A4海区,transport,航海技术,published
+Sextant,六分仪,transport,航海技术,published
+Sextant Altitude,六分仪高度,transport,航海技术,published
+Celestial Fix,天测船位,transport,航海技术,published
+Nautical Almanac,航海天文历,transport,航海技术,published
+Zone Time,区时,transport,航海技术,published
+Date Line,日界线,transport,航海技术,published
+Tide Table,潮汐表,transport,航海技术,published
+Tidal Stream,潮流,transport,航海技术,published
+Ocean Current,洋流,transport,航海技术,published
+Drift Angle,漂角,transport,航海技术,published
+Beaufort Scale,蒲福风级,transport,航海技术,published
+Douglas Sea State,道格拉斯海况级,transport,航海技术,published
+Significant Wave Height,有效波高,transport,航海技术,published
+Wave Period,波浪周期,transport,航海技术,published
+Swell,涌浪,transport,航海技术,published
+Wind Wave,风浪,transport,航海技术,published
+Rogue Wave,疯狗浪,transport,航海技术,published
+Ship Squat,船体下沉,transport,航海技术,published
+Bank Effect,岸壁效应,transport,航海技术,published
+Ship-ship Interaction,船间效应,transport,航海技术,published
+Speed Loss in Weather,失速,transport,航海技术,published
+Great Circle Sailing,大圆航行,transport,航海技术,published
+Radar Beacon,雷达信标,transport,航海技术,published
+Racon,雷达应答标,transport,航海技术,published
+Buoyage System,浮标制度,transport,航海技术,published
+Lateral Buoyage,侧面标示制,transport,航海技术,published
+Cardinal Buoyage,方位标示制,transport,航海技术,published
+Lighthouse,灯塔,transport,航海技术,published
+Leading Lights,导灯,transport,航海技术,published
+Range Lights,叠标,transport,航海技术,published
+Daymark,立标,transport,航海技术,published
+Light Characteristics,灯质,transport,航海技术,published
+Nominal Range,名义射程,transport,航海技术,published
+Chart Correction,海图改正,transport,航海技术,published
+Sailing Directions,航路指南,transport,航海技术,published
+List of Lights,灯标表,transport,航海技术,published
+Chart Datum,海图基准面,transport,航海技术,published
+Course Over Ground,对地航向,transport,航海技术,published
+Heading,船首向,transport,航海技术,published
+Course to Steer,计划航向,transport,航海技术,published
+Waypoint,转向点,transport,航海技术,published
+Parallel Indexing,平行标绘,transport,航海技术,published
+Bridge Watchkeeping,驾驶台值班,transport,航海技术,published
+Man Overboard,人员落水,transport,航海技术,published
+Composite Sailing,混合航线,transport,气象航路,published
+Planetary Wind Belt,行星风带,transport,气象航路,published
+Monsoon,季风,transport,气象航路,published
+Land and Sea Breeze,海陆风,transport,气象航路,published
+Typhoon,台风,transport,气象航路,published
+Typhoon Eye,台风眼,transport,气象航路,published
+Dangerous Semi-circle,危险半圆,transport,气象航路,published
+Navigable Semi-circle,可航半圆,transport,气象航路,published
+Typhoon Avoidance,避台,transport,气象航路,published
+Tropical Cyclone,热带气旋,transport,气象航路,published
+Extratropical Cyclone,温带气旋,transport,气象航路,published
+Tornado,龙卷风,transport,气象航路,published
+Squall Line,飑线,transport,气象航路,published
+Cold Front,冷锋,transport,气象航路,published
+Warm Front,暖锋,transport,气象航路,published
+Stationary Front,静止锋,transport,气象航路,published
+Occluded Front,锢囚锋,transport,气象航路,published
+Subtropical High,副热带高压,transport,气象航路,published
+Steering Flow,引导气流,transport,气象航路,published
+Foehn Wind,焚风,transport,气象航路,published
+Blizzard,暴风雪,transport,气象航路,published
+Sea Fog,海雾,transport,气象航路,published
+Advection Fog,平流雾,transport,气象航路,published
 Radiation Fog,辐射雾,transport,气象航路,pending
 Frontal Fog,锋面雾,transport,气象航路,pending
 Steam Fog,蒸汽雾,transport,气象航路,pending
