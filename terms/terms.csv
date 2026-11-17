@@ -7224,106 +7224,106 @@ Foehn Wind,焚风,transport,气象航路,published
 Blizzard,暴风雪,transport,气象航路,published
 Sea Fog,海雾,transport,气象航路,published
 Advection Fog,平流雾,transport,气象航路,published
-Radiation Fog,辐射雾,transport,气象航路,pending
-Frontal Fog,锋面雾,transport,气象航路,pending
-Steam Fog,蒸汽雾,transport,气象航路,pending
-Visibility,能见度,transport,气象航路,pending
-Weather Report,气象报告,transport,气象航路,pending
-Navigational Warning,航行警告,transport,气象航路,pending
-NAVTEX Broadcast,航行电传广播,transport,气象航路,pending
-Weather Facsimile,气象传真,transport,气象航路,pending
-Surface Synoptic Chart,地面天气图,transport,气象航路,pending
-Isobar,等压线,transport,气象航路,pending
-Atmospheric Pressure,气压,transport,气象航路,pending
-Wind Force,风力,transport,气象航路,pending
-Wind Direction,风向,transport,气象航路,pending
-Gust,阵风,transport,气象航路,pending
-Lightning,雷电,transport,气象航路,pending
-Thunderstorm,雷暴,transport,气象航路,pending
-Hail,冰雹,transport,气象航路,pending
-Ice Accretion,甲板结冰,transport,气象航路,pending
-Icing,结冰,transport,气象航路,pending
-Fog Bank,雾堤,transport,气象航路,pending
-Tropical Depression,热带低压,transport,气象航路,pending
-Load Line Convention,国际载重线公约,transport,海事安全,pending
-STCW Convention,海员培训发证值班标准公约,transport,海事安全,pending
-COLREG,国际海上避碰规则,transport,海事安全,pending
-PSC Inspection,港口国监督检查,transport,海事安全,pending
-Docking Survey,坞内检验,transport,海事安全,pending
-In-water Survey,水下检验,transport,海事安全,pending
-Continuous Survey,循环检验,transport,海事安全,pending
-Class Surveyor,船级社验船师,transport,海事安全,pending
-Safety Equipment Certificate,设备安全证书,transport,海事安全,pending
-Safety Construction Certificate,结构安全证书,transport,海事安全,pending
-Safety Radio Certificate,无线电安全证书,transport,海事安全,pending
-Load Line Certificate,载重线证书,transport,海事安全,pending
-MARPOL Annex I,防污公约附则一,transport,海事安全,pending
-MARPOL Annex V,防污公约附则五,transport,海事安全,pending
-Emission Control Area,排放控制区,transport,海事安全,pending
-SOx Emission Control Area,硫排放控制区,transport,海事安全,pending
-IOPP Certificate,国际防油污证书,transport,海事安全,pending
-Ballast Water Management Certificate,压载水管理证书,transport,海事安全,pending
-Extended Protest,延伸海事声明,transport,海商法,pending
-Log Book,航海日志,transport,海商法,pending
-Deck Log Book,驾驶台日志,transport,海商法,pending
-Engine Log Book,机舱日志,transport,海商法,pending
-Bell Book,车钟记录簿,transport,海商法,pending
-Course Recorder,航向记录仪,transport,海商法,pending
-Evidence of Fault,过失证据,transport,海商法,pending
-Fault Allocation,过失比例,transport,海商法,pending
-Damage Assessment,损坏评估,transport,海商法,pending
-Release Letter,免责函,transport,海商法,pending
-Marine Casualty,海上事故,transport,海商法,pending
-Accident Investigation,事故调查,transport,海商法,pending
-London Arbitration,伦敦仲裁,transport,海商法,pending
-LMAA,伦敦海事仲裁员协会,transport,海商法,pending
-CMAC,中国海事仲裁委员会,transport,海商法,pending
-New York Convention,纽约公约,transport,海商法,pending
-Statement of Claim,起诉状,transport,海商法,pending
-Burden of Proof,举证责任,transport,海商法,pending
-Class 1.1 Mass Explosion Hazard,第1.1类 整体爆炸危险,special-cargo,危险品分类,pending
-Class 1.2 Projection Hazard,第1.2类 抛射危险,special-cargo,危险品分类,pending
-Class 1.3 Fire Hazard with Minor Blast,第1.3类 燃烧并轻微爆炸危险,special-cargo,危险品分类,pending
-Class 1.4 Minor Explosion Hazard,第1.4类 轻微爆炸危险,special-cargo,危险品分类,pending
-Class 1.5 Very Insensitive Explosive,第1.5类 极不敏感爆炸品,special-cargo,危险品分类,pending
-Class 1.6 Extremely Insensitive Article,第1.6类 极端不敏感物品,special-cargo,危险品分类,pending
-Class 2.2 Non-Flammable Non-Toxic Gas,第2.2类 非易燃无毒气体,special-cargo,危险品分类,pending
-Class 4.2 Substances Liable to Spontaneous Combustion,第4.2类 易自燃物质,special-cargo,危险品分类,pending
-Class 4.3 Substances Emitting Flammable Gas in Contact with Water,第4.3类 遇水放出易燃气体物质,special-cargo,危险品分类,pending
-Class 8 Corrosive Substances,第8类 腐蚀性物质,special-cargo,危险品分类,pending
-Class 9 Miscellaneous Dangerous Substances,第9类 杂项危险物质,special-cargo,危险品分类,pending
-Class 9 Lithium Batteries,第9类 锂电池,special-cargo,危险品分类,pending
-Class 9 Environmentally Hazardous Substance,第9类 危害环境物质,special-cargo,危险品分类,pending
-Packing Group III,Ⅲ类包装,special-cargo,危险品分类,pending
-Autoignition Temperature,自燃温度,special-cargo,危险品分类,pending
-Explosive Limits,爆炸极限,special-cargo,危险品分类,pending
-Boiling Point,沸点,special-cargo,危险品分类,pending
-Toxicity Classification,毒性分级,special-cargo,危险品分类,pending
-Self-Accelerating Decomposition Temperature,自加速分解温度,special-cargo,危险品分类,pending
-Control Temperature,控制温度,special-cargo,危险品分类,pending
-Emergency Temperature,应急温度,special-cargo,危险品分类,pending
-Marine Pollutant,海洋污染物,special-cargo,危险品分类,pending
-Consumer Commodity,消费性商品,special-cargo,危险品分类,pending
-ID Number,临时识别编号,special-cargo,危险品分类,pending
-Generic Proper Shipping Name,通用正确运输名称,special-cargo,危险品分类,pending
-Not Otherwise Specified,未另作规定的,special-cargo,危险品分类,pending
-Technical Name,技术名称,special-cargo,危险品分类,pending
-Tunnel Restriction Code,隧道限制代码,special-cargo,危险品分类,pending
-Transport Category,运输类别,special-cargo,危险品分类,pending
-Segregation Group,隔离组,special-cargo,危险品分类,pending
-Incompatible Goods,配装禁忌货物,special-cargo,危险品分类,pending
-Compatibility Group,相容性组别,special-cargo,危险品分类,pending
-Division,项别,special-cargo,危险品分类,pending
-Subsidiary Risk,次要危险性,special-cargo,危险品分类,pending
-Flashpoint Group,闪点组别,special-cargo,危险品分类,pending
-Corrosivity,腐蚀性分级,special-cargo,危险品分类,pending
-Radioactive Material Category,放射性物质类别,special-cargo,危险品分类,pending
-Transport Index,运输指数,special-cargo,危险品分类,pending
-Criticality Safety Index,临界安全指数,special-cargo,危险品分类,pending
-Surface Contaminated Object,表面污染物体,special-cargo,危险品分类,pending
-Pyrophoric Substance,自燃性物质,special-cargo,危险品分类,pending
-Oxidizer,氧化剂,special-cargo,危险品分类,pending
-Desensitized Explosive,钝感爆炸品,special-cargo,危险品分类,pending
+Radiation Fog,辐射雾,transport,气象航路,published
+Frontal Fog,锋面雾,transport,气象航路,published
+Steam Fog,蒸汽雾,transport,气象航路,published
+Visibility,能见度,transport,气象航路,published
+Weather Report,气象报告,transport,气象航路,published
+Navigational Warning,航行警告,transport,气象航路,published
+NAVTEX Broadcast,航行电传广播,transport,气象航路,published
+Weather Facsimile,气象传真,transport,气象航路,published
+Surface Synoptic Chart,地面天气图,transport,气象航路,published
+Isobar,等压线,transport,气象航路,published
+Atmospheric Pressure,气压,transport,气象航路,published
+Wind Force,风力,transport,气象航路,published
+Wind Direction,风向,transport,气象航路,published
+Gust,阵风,transport,气象航路,published
+Lightning,雷电,transport,气象航路,published
+Thunderstorm,雷暴,transport,气象航路,published
+Hail,冰雹,transport,气象航路,published
+Ice Accretion,甲板结冰,transport,气象航路,published
+Icing,结冰,transport,气象航路,published
+Fog Bank,雾堤,transport,气象航路,published
+Tropical Depression,热带低压,transport,气象航路,published
+Load Line Convention,国际载重线公约,transport,海事安全,published
+STCW Convention,海员培训发证值班标准公约,transport,海事安全,published
+COLREG,国际海上避碰规则,transport,海事安全,published
+PSC Inspection,港口国监督检查,transport,海事安全,published
+Docking Survey,坞内检验,transport,海事安全,published
+In-water Survey,水下检验,transport,海事安全,published
+Continuous Survey,循环检验,transport,海事安全,published
+Class Surveyor,船级社验船师,transport,海事安全,published
+Safety Equipment Certificate,设备安全证书,transport,海事安全,published
+Safety Construction Certificate,结构安全证书,transport,海事安全,published
+Safety Radio Certificate,无线电安全证书,transport,海事安全,published
+Load Line Certificate,载重线证书,transport,海事安全,published
+MARPOL Annex I,防污公约附则一,transport,海事安全,published
+MARPOL Annex V,防污公约附则五,transport,海事安全,published
+Emission Control Area,排放控制区,transport,海事安全,published
+SOx Emission Control Area,硫排放控制区,transport,海事安全,published
+IOPP Certificate,国际防油污证书,transport,海事安全,published
+Ballast Water Management Certificate,压载水管理证书,transport,海事安全,published
+Extended Protest,延伸海事声明,transport,海商法,published
+Log Book,航海日志,transport,海商法,published
+Deck Log Book,驾驶台日志,transport,海商法,published
+Engine Log Book,机舱日志,transport,海商法,published
+Bell Book,车钟记录簿,transport,海商法,published
+Course Recorder,航向记录仪,transport,海商法,published
+Evidence of Fault,过失证据,transport,海商法,published
+Fault Allocation,过失比例,transport,海商法,published
+Damage Assessment,损坏评估,transport,海商法,published
+Release Letter,免责函,transport,海商法,published
+Marine Casualty,海上事故,transport,海商法,published
+Accident Investigation,事故调查,transport,海商法,published
+London Arbitration,伦敦仲裁,transport,海商法,published
+LMAA,伦敦海事仲裁员协会,transport,海商法,published
+CMAC,中国海事仲裁委员会,transport,海商法,published
+New York Convention,纽约公约,transport,海商法,published
+Statement of Claim,起诉状,transport,海商法,published
+Burden of Proof,举证责任,transport,海商法,published
+Class 1.1 Mass Explosion Hazard,第1.1类 整体爆炸危险,special-cargo,危险品分类,published
+Class 1.2 Projection Hazard,第1.2类 抛射危险,special-cargo,危险品分类,published
+Class 1.3 Fire Hazard with Minor Blast,第1.3类 燃烧并轻微爆炸危险,special-cargo,危险品分类,published
+Class 1.4 Minor Explosion Hazard,第1.4类 轻微爆炸危险,special-cargo,危险品分类,published
+Class 1.5 Very Insensitive Explosive,第1.5类 极不敏感爆炸品,special-cargo,危险品分类,published
+Class 1.6 Extremely Insensitive Article,第1.6类 极端不敏感物品,special-cargo,危险品分类,published
+Class 2.2 Non-Flammable Non-Toxic Gas,第2.2类 非易燃无毒气体,special-cargo,危险品分类,published
+Class 4.2 Substances Liable to Spontaneous Combustion,第4.2类 易自燃物质,special-cargo,危险品分类,published
+Class 4.3 Substances Emitting Flammable Gas in Contact with Water,第4.3类 遇水放出易燃气体物质,special-cargo,危险品分类,published
+Class 8 Corrosive Substances,第8类 腐蚀性物质,special-cargo,危险品分类,published
+Class 9 Miscellaneous Dangerous Substances,第9类 杂项危险物质,special-cargo,危险品分类,published
+Class 9 Lithium Batteries,第9类 锂电池,special-cargo,危险品分类,published
+Class 9 Environmentally Hazardous Substance,第9类 危害环境物质,special-cargo,危险品分类,published
+Packing Group III,Ⅲ类包装,special-cargo,危险品分类,published
+Autoignition Temperature,自燃温度,special-cargo,危险品分类,published
+Explosive Limits,爆炸极限,special-cargo,危险品分类,published
+Boiling Point,沸点,special-cargo,危险品分类,published
+Toxicity Classification,毒性分级,special-cargo,危险品分类,published
+Self-Accelerating Decomposition Temperature,自加速分解温度,special-cargo,危险品分类,published
+Control Temperature,控制温度,special-cargo,危险品分类,published
+Emergency Temperature,应急温度,special-cargo,危险品分类,published
+Marine Pollutant,海洋污染物,special-cargo,危险品分类,published
+Consumer Commodity,消费性商品,special-cargo,危险品分类,published
+ID Number,临时识别编号,special-cargo,危险品分类,published
+Generic Proper Shipping Name,通用正确运输名称,special-cargo,危险品分类,published
+Not Otherwise Specified,未另作规定的,special-cargo,危险品分类,published
+Technical Name,技术名称,special-cargo,危险品分类,published
+Tunnel Restriction Code,隧道限制代码,special-cargo,危险品分类,published
+Transport Category,运输类别,special-cargo,危险品分类,published
+Segregation Group,隔离组,special-cargo,危险品分类,published
+Incompatible Goods,配装禁忌货物,special-cargo,危险品分类,published
+Compatibility Group,相容性组别,special-cargo,危险品分类,published
+Division,项别,special-cargo,危险品分类,published
+Subsidiary Risk,次要危险性,special-cargo,危险品分类,published
+Flashpoint Group,闪点组别,special-cargo,危险品分类,published
+Corrosivity,腐蚀性分级,special-cargo,危险品分类,published
+Radioactive Material Category,放射性物质类别,special-cargo,危险品分类,published
+Transport Index,运输指数,special-cargo,危险品分类,published
+Criticality Safety Index,临界安全指数,special-cargo,危险品分类,published
+Surface Contaminated Object,表面污染物体,special-cargo,危险品分类,published
+Pyrophoric Substance,自燃性物质,special-cargo,危险品分类,published
+Oxidizer,氧化剂,special-cargo,危险品分类,published
+Desensitized Explosive,钝感爆炸品,special-cargo,危险品分类,published
 Ammonium Nitrate,硝酸铵,special-cargo,危险品分类,pending
 Lithium Battery State of Charge,锂电池荷电状态,special-cargo,危险品分类,pending
 Battery-Powered Equipment,电池供电设备,special-cargo,危险品分类,pending
