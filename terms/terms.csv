@@ -7324,106 +7324,106 @@ Surface Contaminated Object,表面污染物体,special-cargo,危险品分类,pub
 Pyrophoric Substance,自燃性物质,special-cargo,危险品分类,published
 Oxidizer,氧化剂,special-cargo,危险品分类,published
 Desensitized Explosive,钝感爆炸品,special-cargo,危险品分类,published
-Ammonium Nitrate,硝酸铵,special-cargo,危险品分类,pending
-Lithium Battery State of Charge,锂电池荷电状态,special-cargo,危险品分类,pending
-Battery-Powered Equipment,电池供电设备,special-cargo,危险品分类,pending
-Fuel-Powered Equipment,燃油动力设备,special-cargo,危险品分类,pending
-Forbidden for Air Transport,空运禁运货物,special-cargo,危险品分类,pending
-Hazard Classification Code,危险性分类代码,special-cargo,危险品分类,pending
-Low Specific Activity Material,低比活度放射性物质,special-cargo,危险品分类,pending
-UN Packaging Mark,联合国包装标记,special-cargo,危险品包装,pending
-Packaging Specification Code,包装规格代码,special-cargo,危险品包装,pending
-Combination Packaging,组合包装,special-cargo,危险品包装,pending
-Single Packaging,单一包装,special-cargo,危险品包装,pending
-Composite Packaging,复合包装,special-cargo,危险品包装,pending
-Inner Packaging,内包装,special-cargo,危险品包装,pending
-Outer Packaging,外包装,special-cargo,危险品包装,pending
-Intermediate Packaging,中层包装,special-cargo,危险品包装,pending
-Portable Tank,可移动罐柜,special-cargo,危险品包装,pending
-Intermediate Bulk Container,中型散装容器,special-cargo,危险品包装,pending
-Jerrican,方罐容器,special-cargo,危险品包装,pending
-Box,箱装容器,special-cargo,危险品包装,pending
-Bag,袋装容器,special-cargo,危险品包装,pending
-Pressure Vessel,压力容器,special-cargo,危险品包装,pending
-Performance Test,包装性能试验,special-cargo,危险品包装,pending
-Stack Test,堆码试验,special-cargo,危险品包装,pending
-Leakproofness Test,渗漏试验,special-cargo,危险品包装,pending
-Internal Pressure Test,内压试验,special-cargo,危险品包装,pending
-Vibration Test,振动试验,special-cargo,危险品包装,pending
-Maximum Net Weight,最大净重,special-cargo,危险品包装,pending
-Maximum Gross Mass,最大毛重,special-cargo,危险品包装,pending
-Net Quantity Per Package,单件净量,special-cargo,危险品包装,pending
-Hazard Label,危险性标签,special-cargo,危险品包装,pending
-Class Label,类别标签,special-cargo,危险品包装,pending
-Orientation Arrows,方向箭头标识,special-cargo,危险品包装,pending
-Cargo Aircraft Only Label,仅限货机标签,special-cargo,危险品包装,pending
-Lithium Battery Mark,锂电池标记,special-cargo,危险品包装,pending
-Magnetic Field Warning Label,磁场警示标签,special-cargo,危险品包装,pending
-Radioactive Package Label,放射性包装标签,special-cargo,危险品包装,pending
-Package Reference Number,包装件参考编号,special-cargo,危险品包装,pending
-Package Test Report,包装试验报告,special-cargo,危险品包装,pending
-Packaging Certificate,包装检验证书,special-cargo,危险品包装,pending
-Dangerous Goods Packing Certificate,危险品包装证明,special-cargo,危险品包装,pending
-Empty Uncleaned Packaging,未清洁空包装,special-cargo,危险品包装,pending
-Insulated Packaging,隔热包装,special-cargo,危险品包装,pending
-Shockproof Packaging,防震包装,special-cargo,危险品包装,pending
-Cushioning Material,缓冲材料,special-cargo,危险品包装,pending
-Absorbent Material,吸附材料,special-cargo,危险品包装,pending
-Sealing Gasket,密封垫圈,special-cargo,危险品包装,pending
-Vent Closure,通风闭口装置,special-cargo,危险品包装,pending
-Pressure Relief Device,泄压装置,special-cargo,危险品包装,pending
-Receptacle,包装容器,special-cargo,危险品包装,pending
-Multimodal DG Form,多式联运危险品申报表,special-cargo,危险品单证,pending
-IMDG Code Declaration,国际海运危规申报,special-cargo,危险品单证,pending
-IATA DGR Declaration,空运危规申报,special-cargo,危险品单证,pending
-ADR Transport Document,陆运危规运输单证,special-cargo,危险品单证,pending
-Emergency Contact Sheet,应急联系单,special-cargo,危险品单证,pending
-Dangerous Goods Acceptance Checklist,危险品收运检查单,special-cargo,危险品单证,pending
-DG Training Certificate,危险品培训证书,special-cargo,危险品单证,pending
-Carrier Acceptance Statement,承运人接收声明,special-cargo,危险品单证,pending
-Explosives Transport License,爆炸品运输许可证,special-cargo,危险品单证,pending
-Radioactive Transport Permit,放射性运输许可证,special-cargo,危险品单证,pending
-Toxic Substance Transport Permit,毒害品运输许可,special-cargo,危险品单证,pending
-Pressure Vessel Inspection Certificate,压力容器检验证书,special-cargo,危险品单证,pending
-Container DG Declaration,集装箱危险品申报,special-cargo,危险品单证,pending
-Port Authority Notification,港口主管机关通报,special-cargo,危险品单证,pending
-Emergency Response Guidebook,应急响应指南,special-cargo,危险品单证,pending
-Spill Response Procedure,泄漏应急处理程序,special-cargo,危险品单证,pending
-Segregation Plan,隔离配载计划,special-cargo,危险品单证,pending
-DG Stowage Plan,危险品配载图,special-cargo,危险品单证,pending
-Emergency Schedule,应急措施表,special-cargo,危险品单证,pending
-Medical First Aid Guide,医疗急救指南,special-cargo,危险品单证,pending
-Classification Certificate,危险性分类鉴定证书,special-cargo,危险品单证,pending
-Third-Party Test Report,第三方检测报告,special-cargo,危险品单证,pending
-Transport Approval Document,运输批准文件,special-cargo,危险品单证,pending
-Competent Authority Approval,主管机关批准书,special-cargo,危险品单证,pending
-Exemption Certificate,豁免证书,special-cargo,危险品单证,pending
-DG Booking Note,危险品订舱单,special-cargo,危险品单证,pending
-DG Booking Acceptance,危险品订舱确认,special-cargo,危险品单证,pending
-Dangerous Goods Stowage Notice,危险品积载通知,special-cargo,危险品单证,pending
-Port Clearance for Dangerous Goods,危险品出港许可,special-cargo,危险品单证,pending
-DG Handling Instruction,危险品操作指引,special-cargo,危险品单证,pending
-Pre-Trip Inspection,开机前检测,special-cargo,冷链设备,pending
-Set Point Temperature,设定温度,special-cargo,冷链设备,pending
-Temperature Probe,温度探头,special-cargo,冷链设备,pending
-Return Air Temperature,回风温度,special-cargo,冷链设备,pending
-Supply Air Temperature,送风温度,special-cargo,冷链设备,pending
-Ventilation Rate,通风率,special-cargo,冷链设备,pending
-Fresh Air Exchange,新风换气,special-cargo,冷链设备,pending
-Relative Humidity Setting,相对湿度设定,special-cargo,冷链设备,pending
-Dehumidification Mode,除湿模式,special-cargo,冷链设备,pending
-Compressor,压缩机,special-cargo,冷链设备,pending
-Expansion Valve,膨胀阀,special-cargo,冷链设备,pending
-Refrigerant,制冷剂,special-cargo,冷链设备,pending
-Refrigerant Leak,制冷剂泄漏,special-cargo,冷链设备,pending
-Defrost Cycle,除霜循环,special-cargo,冷链设备,pending
-Clip-On Generator,挂装式发电机,special-cargo,冷链设备,pending
-Fuel Tank Capacity,油箱容量,special-cargo,冷链设备,pending
-Power Plug Change,电源插头转换,special-cargo,冷链设备,pending
-USB Temperature Download,温度数据下载,special-cargo,冷链设备,pending
-Temperature Recording Chart,温度记录纸,special-cargo,冷链设备,pending
-Remote Reefer Monitoring,冷柜远程监控,special-cargo,冷链设备,pending
-Temperature Alarm,温度报警,special-cargo,冷链设备,pending
+Ammonium Nitrate,硝酸铵,special-cargo,危险品分类,published
+Lithium Battery State of Charge,锂电池荷电状态,special-cargo,危险品分类,published
+Battery-Powered Equipment,电池供电设备,special-cargo,危险品分类,published
+Fuel-Powered Equipment,燃油动力设备,special-cargo,危险品分类,published
+Forbidden for Air Transport,空运禁运货物,special-cargo,危险品分类,published
+Hazard Classification Code,危险性分类代码,special-cargo,危险品分类,published
+Low Specific Activity Material,低比活度放射性物质,special-cargo,危险品分类,published
+UN Packaging Mark,联合国包装标记,special-cargo,危险品包装,published
+Packaging Specification Code,包装规格代码,special-cargo,危险品包装,published
+Combination Packaging,组合包装,special-cargo,危险品包装,published
+Single Packaging,单一包装,special-cargo,危险品包装,published
+Composite Packaging,复合包装,special-cargo,危险品包装,published
+Inner Packaging,内包装,special-cargo,危险品包装,published
+Outer Packaging,外包装,special-cargo,危险品包装,published
+Intermediate Packaging,中层包装,special-cargo,危险品包装,published
+Portable Tank,可移动罐柜,special-cargo,危险品包装,published
+Intermediate Bulk Container,中型散装容器,special-cargo,危险品包装,published
+Jerrican,方罐容器,special-cargo,危险品包装,published
+Box,箱装容器,special-cargo,危险品包装,published
+Bag,袋装容器,special-cargo,危险品包装,published
+Pressure Vessel,压力容器,special-cargo,危险品包装,published
+Performance Test,包装性能试验,special-cargo,危险品包装,published
+Stack Test,堆码试验,special-cargo,危险品包装,published
+Leakproofness Test,渗漏试验,special-cargo,危险品包装,published
+Internal Pressure Test,内压试验,special-cargo,危险品包装,published
+Vibration Test,振动试验,special-cargo,危险品包装,published
+Maximum Net Weight,最大净重,special-cargo,危险品包装,published
+Maximum Gross Mass,最大毛重,special-cargo,危险品包装,published
+Net Quantity Per Package,单件净量,special-cargo,危险品包装,published
+Hazard Label,危险性标签,special-cargo,危险品包装,published
+Class Label,类别标签,special-cargo,危险品包装,published
+Orientation Arrows,方向箭头标识,special-cargo,危险品包装,published
+Cargo Aircraft Only Label,仅限货机标签,special-cargo,危险品包装,published
+Lithium Battery Mark,锂电池标记,special-cargo,危险品包装,published
+Magnetic Field Warning Label,磁场警示标签,special-cargo,危险品包装,published
+Radioactive Package Label,放射性包装标签,special-cargo,危险品包装,published
+Package Reference Number,包装件参考编号,special-cargo,危险品包装,published
+Package Test Report,包装试验报告,special-cargo,危险品包装,published
+Packaging Certificate,包装检验证书,special-cargo,危险品包装,published
+Dangerous Goods Packing Certificate,危险品包装证明,special-cargo,危险品包装,published
+Empty Uncleaned Packaging,未清洁空包装,special-cargo,危险品包装,published
+Insulated Packaging,隔热包装,special-cargo,危险品包装,published
+Shockproof Packaging,防震包装,special-cargo,危险品包装,published
+Cushioning Material,缓冲材料,special-cargo,危险品包装,published
+Absorbent Material,吸附材料,special-cargo,危险品包装,published
+Sealing Gasket,密封垫圈,special-cargo,危险品包装,published
+Vent Closure,通风闭口装置,special-cargo,危险品包装,published
+Pressure Relief Device,泄压装置,special-cargo,危险品包装,published
+Receptacle,包装容器,special-cargo,危险品包装,published
+Multimodal DG Form,多式联运危险品申报表,special-cargo,危险品单证,published
+IMDG Code Declaration,国际海运危规申报,special-cargo,危险品单证,published
+IATA DGR Declaration,空运危规申报,special-cargo,危险品单证,published
+ADR Transport Document,陆运危规运输单证,special-cargo,危险品单证,published
+Emergency Contact Sheet,应急联系单,special-cargo,危险品单证,published
+Dangerous Goods Acceptance Checklist,危险品收运检查单,special-cargo,危险品单证,published
+DG Training Certificate,危险品培训证书,special-cargo,危险品单证,published
+Carrier Acceptance Statement,承运人接收声明,special-cargo,危险品单证,published
+Explosives Transport License,爆炸品运输许可证,special-cargo,危险品单证,published
+Radioactive Transport Permit,放射性运输许可证,special-cargo,危险品单证,published
+Toxic Substance Transport Permit,毒害品运输许可,special-cargo,危险品单证,published
+Pressure Vessel Inspection Certificate,压力容器检验证书,special-cargo,危险品单证,published
+Container DG Declaration,集装箱危险品申报,special-cargo,危险品单证,published
+Port Authority Notification,港口主管机关通报,special-cargo,危险品单证,published
+Emergency Response Guidebook,应急响应指南,special-cargo,危险品单证,published
+Spill Response Procedure,泄漏应急处理程序,special-cargo,危险品单证,published
+Segregation Plan,隔离配载计划,special-cargo,危险品单证,published
+DG Stowage Plan,危险品配载图,special-cargo,危险品单证,published
+Emergency Schedule,应急措施表,special-cargo,危险品单证,published
+Medical First Aid Guide,医疗急救指南,special-cargo,危险品单证,published
+Classification Certificate,危险性分类鉴定证书,special-cargo,危险品单证,published
+Third-Party Test Report,第三方检测报告,special-cargo,危险品单证,published
+Transport Approval Document,运输批准文件,special-cargo,危险品单证,published
+Competent Authority Approval,主管机关批准书,special-cargo,危险品单证,published
+Exemption Certificate,豁免证书,special-cargo,危险品单证,published
+DG Booking Note,危险品订舱单,special-cargo,危险品单证,published
+DG Booking Acceptance,危险品订舱确认,special-cargo,危险品单证,published
+Dangerous Goods Stowage Notice,危险品积载通知,special-cargo,危险品单证,published
+Port Clearance for Dangerous Goods,危险品出港许可,special-cargo,危险品单证,published
+DG Handling Instruction,危险品操作指引,special-cargo,危险品单证,published
+Pre-Trip Inspection,开机前检测,special-cargo,冷链设备,published
+Set Point Temperature,设定温度,special-cargo,冷链设备,published
+Temperature Probe,温度探头,special-cargo,冷链设备,published
+Return Air Temperature,回风温度,special-cargo,冷链设备,published
+Supply Air Temperature,送风温度,special-cargo,冷链设备,published
+Ventilation Rate,通风率,special-cargo,冷链设备,published
+Fresh Air Exchange,新风换气,special-cargo,冷链设备,published
+Relative Humidity Setting,相对湿度设定,special-cargo,冷链设备,published
+Dehumidification Mode,除湿模式,special-cargo,冷链设备,published
+Compressor,压缩机,special-cargo,冷链设备,published
+Expansion Valve,膨胀阀,special-cargo,冷链设备,published
+Refrigerant,制冷剂,special-cargo,冷链设备,published
+Refrigerant Leak,制冷剂泄漏,special-cargo,冷链设备,published
+Defrost Cycle,除霜循环,special-cargo,冷链设备,published
+Clip-On Generator,挂装式发电机,special-cargo,冷链设备,published
+Fuel Tank Capacity,油箱容量,special-cargo,冷链设备,published
+Power Plug Change,电源插头转换,special-cargo,冷链设备,published
+USB Temperature Download,温度数据下载,special-cargo,冷链设备,published
+Temperature Recording Chart,温度记录纸,special-cargo,冷链设备,published
+Remote Reefer Monitoring,冷柜远程监控,special-cargo,冷链设备,published
+Temperature Alarm,温度报警,special-cargo,冷链设备,published
 Alarm Code List,报警代码表,special-cargo,冷链设备,pending
 Chill Mode,冷藏模式,special-cargo,冷链设备,pending
 Frozen Mode,冷冻模式,special-cargo,冷链设备,pending
