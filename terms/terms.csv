@@ -7621,106 +7621,106 @@ Confidential Shipment,保密货运,special-cargo,贵重物品,published
 Proof of Delivery for Valuables,贵重品签收凭证,special-cargo,贵重物品,published
 Two-Person Rule,双人操作规则,special-cargo,贵重物品,published
 Background-Checked Crew,背景审查操作人员,special-cargo,贵重物品,published
-Secure Van,安保专用车,special-cargo,贵重物品,pending
-High-Value Storage Safe,贵重品保险柜,special-cargo,贵重物品,pending
-Total Loss Only,全损险,insurance-claims,承保险别,pending
-Institute War Clauses (Cargo),协会战争险条款(货物),insurance-claims,承保险别,pending
-Institute Strikes Clauses (Cargo),协会罢工险条款(货物),insurance-claims,承保险别,pending
-Institute Commodity Clauses,协会大宗商品条款,insurance-claims,承保险别,pending
-Institute Frozen Food Clauses,协会冷冻食品条款,insurance-claims,承保险别,pending
-Institute Frozen Meat Clauses,协会冻肉条款,insurance-claims,承保险别,pending
-Institute Bulk Oil Clauses,协会散装油类条款,insurance-claims,承保险别,pending
-Institute Coal Clauses,协会煤炭条款,insurance-claims,承保险别,pending
-Institute Radioactive Contamination Exclusion Clause,协会放射性污染除外条款,insurance-claims,承保险别,pending
-Institute Warranty Limits,协会保证航区条款,insurance-claims,承保险别,pending
-Land Transit Insurance,陆运险,insurance-claims,承保险别,pending
-Land Transit All Risks,陆运一切险,insurance-claims,承保险别,pending
-Air Cargo Insurance,航空货运险,insurance-claims,承保险别,pending
-Air Cargo All Risks,航空货运一切险,insurance-claims,承保险别,pending
-Parcel Post Insurance,邮包险,insurance-claims,承保险别,pending
-Parcel Post All Risks,邮包一切险,insurance-claims,承保险别,pending
-Port to Port Coverage,港至港承保,insurance-claims,承保险别,pending
-Multimodal Transport Coverage,多式联运承保,insurance-claims,承保险别,pending
-Pre-Shipment Insurance,出运前保险,insurance-claims,承保险别,pending
-Contingency Insurance,或有利益保险,insurance-claims,承保险别,pending
-Increased Value Insurance,增值险,insurance-claims,承保险别,pending
-Customs Duty Insurance,关税保险,insurance-claims,承保险别,pending
-Delay in Start-Up Insurance,延期开工保险,insurance-claims,承保险别,pending
-Consequential Loss Insurance,间接损失保险,insurance-claims,承保险别,pending
-Extra Expense Coverage,额外费用保障,insurance-claims,承保险别,pending
-Reconditioning Cost Coverage,整理修复费用保障,insurance-claims,承保险别,pending
-Lost or Not Lost Clause,灭失与否条款,insurance-claims,承保险别,pending
-Held Covered Clause,视同承保条款,insurance-claims,承保险别,pending
-Free of Capture and Seizure Clause,捕获扣押除外条款,insurance-claims,承保险别,pending
-Notice of Loss Clause,损失通知条款,insurance-claims,承保险别,pending
-Fraudulent Claims Exclusion,欺诈索赔除外条款,insurance-claims,承保险别,pending
-Malicious Damage Clause,恶意损坏条款,insurance-claims,承保险别,pending
-Inherent Vice Exclusion,固有缺陷除外条款,insurance-claims,承保险别,pending
-Ordinary Leakage and Shrinkage Exclusion,自然渗漏短量除外条款,insurance-claims,承保险别,pending
-Carrier Insolvency Exclusion,承运人破产除外条款,insurance-claims,承保险别,pending
-Cyber Exclusion Clause,网络除外条款,insurance-claims,承保险别,pending
-Sanctions Limitation Clause,制裁限制条款,insurance-claims,承保险别,pending
-Pollution Exclusion Clause,污染除外条款,insurance-claims,承保险别,pending
-Strike Exclusion,罢工除外条款,insurance-claims,承保险别,pending
-Ice Clause,冰冻条款,insurance-claims,承保险别,pending
-Container Clause,集装箱条款,insurance-claims,承保险别,pending
-Termination of Risk Clause,责任终止条款,insurance-claims,承保险别,pending
-Duty of Assured Clause,被保险人义务条款,insurance-claims,承保险别,pending
-Running Down Clause,碰撞责任条款,insurance-claims,承保险别,pending
-Inland Leg Extension,内陆段扩展承保,insurance-claims,承保险别,pending
-Transit Extension Clause,卸货后扩展期条款,insurance-claims,承保险别,pending
-Deductible Clause,免赔额条款,insurance-claims,承保险别,pending
-Excess Clause,绝对免赔条款,insurance-claims,承保险别,pending
-Special Cargo Coverage,特种货物保险,insurance-claims,承保险别,pending
-Live Animals Cover,活动物运输保险,insurance-claims,承保险别,pending
-Charterers' Interest Insurance,租船人利益险,insurance-claims,承保险别,pending
-Assignment Clause,保险权益转让条款,insurance-claims,承保险别,pending
-Reefer Machinery Damage Exclusion,冷藏机损除外条款,insurance-claims,承保险别,pending
-Pro Rata Condition,比例分摊条款,insurance-claims,承保险别,pending
-Concealed Damage,隐藏性损坏,insurance-claims,承保险别,pending
-Temporary Storage Clause,临时仓储条款,insurance-claims,承保险别,pending
-War Exclusion,战争除外条款,insurance-claims,承保险别,pending
-Odour Contamination Exclusion,串味除外条款,insurance-claims,承保险别,pending
-Fumigation Damage Exclusion,熏蒸损坏除外条款,insurance-claims,承保险别,pending
-Rejection Exclusion,拒收除外条款,insurance-claims,承保险别,pending
-Natural Calamity,自然灾害,insurance-claims,海上风险,pending
-Fortuitous Accident,意外事故,insurance-claims,海上风险,pending
-Heavy Weather,恶劣天气,insurance-claims,海上风险,pending
-Stranding,搁浅,insurance-claims,海上风险,pending
-Sinking,沉没,insurance-claims,海上风险,pending
-Capsizing,倾覆,insurance-claims,海上风险,pending
-Fire on Board,船上火灾,insurance-claims,海上风险,pending
-Explosion on Board,船上爆炸,insurance-claims,海上风险,pending
-Washing Overboard,浪击落海,insurance-claims,海上风险,pending
-Seawater Damage,海水浸损,insurance-claims,海上风险,pending
-Fresh Water Damage,淡水浸损,insurance-claims,海上风险,pending
-Sweating,汗湿,insurance-claims,海上风险,pending
-Heating Damage,受热损失,insurance-claims,海上风险,pending
-Freezing Damage,冻损,insurance-claims,海上风险,pending
-Spontaneous Combustion Loss,自燃损失,insurance-claims,海上风险,pending
-Evaporation Loss,蒸发损耗,insurance-claims,海上风险,pending
-Crushing Damage,挤压损坏,insurance-claims,海上风险,pending
-Hatch Leakage,舱口漏水,insurance-claims,海上风险,pending
-Bilge Water Damage,舱底水浸损,insurance-claims,海上风险,pending
-Salt Water Corrosion,盐水锈蚀,insurance-claims,海上风险,pending
-Mould in Transit,运输霉变,insurance-claims,海上风险,pending
-Warlike Operations,战争行为,insurance-claims,海上风险,pending
-Civil War,内战,insurance-claims,海上风险,pending
-Hostilities,敌对行为,insurance-claims,海上风险,pending
-Capture and Seizure,捕获扣押,insurance-claims,海上风险,pending
-Vessel Detention,船舶被扣,insurance-claims,海上风险,pending
-Blockade,封锁,insurance-claims,海上风险,pending
-Riot,暴乱,insurance-claims,海上风险,pending
-Civil Commotion,民变,insurance-claims,海上风险,pending
-Terrorist Act,恐怖主义行为,insurance-claims,海上风险,pending
-Vandalism,恶意破坏,insurance-claims,海上风险,pending
-Malicious Act,恶意行为,insurance-claims,海上风险,pending
-Ordinary Wear and Tear,自然磨损,insurance-claims,海上风险,pending
-Delay in Transit,运输延误,insurance-claims,海上风险,pending
-Market Loss,市价跌落损失,insurance-claims,海上风险,pending
-Rejection by Import Authority,进口国拒收,insurance-claims,海上风险,pending
-Negligence of Crew,船员疏忽,insurance-claims,海上风险,pending
-Error in Navigation,航行过失,insurance-claims,海上风险,pending
+Secure Van,安保专用车,special-cargo,贵重物品,published
+High-Value Storage Safe,贵重品保险柜,special-cargo,贵重物品,published
+Total Loss Only,全损险,insurance-claims,承保险别,published
+Institute War Clauses (Cargo),协会战争险条款(货物),insurance-claims,承保险别,published
+Institute Strikes Clauses (Cargo),协会罢工险条款(货物),insurance-claims,承保险别,published
+Institute Commodity Clauses,协会大宗商品条款,insurance-claims,承保险别,published
+Institute Frozen Food Clauses,协会冷冻食品条款,insurance-claims,承保险别,published
+Institute Frozen Meat Clauses,协会冻肉条款,insurance-claims,承保险别,published
+Institute Bulk Oil Clauses,协会散装油类条款,insurance-claims,承保险别,published
+Institute Coal Clauses,协会煤炭条款,insurance-claims,承保险别,published
+Institute Radioactive Contamination Exclusion Clause,协会放射性污染除外条款,insurance-claims,承保险别,published
+Institute Warranty Limits,协会保证航区条款,insurance-claims,承保险别,published
+Land Transit Insurance,陆运险,insurance-claims,承保险别,published
+Land Transit All Risks,陆运一切险,insurance-claims,承保险别,published
+Air Cargo Insurance,航空货运险,insurance-claims,承保险别,published
+Air Cargo All Risks,航空货运一切险,insurance-claims,承保险别,published
+Parcel Post Insurance,邮包险,insurance-claims,承保险别,published
+Parcel Post All Risks,邮包一切险,insurance-claims,承保险别,published
+Port to Port Coverage,港至港承保,insurance-claims,承保险别,published
+Multimodal Transport Coverage,多式联运承保,insurance-claims,承保险别,published
+Pre-Shipment Insurance,出运前保险,insurance-claims,承保险别,published
+Contingency Insurance,或有利益保险,insurance-claims,承保险别,published
+Increased Value Insurance,增值险,insurance-claims,承保险别,published
+Customs Duty Insurance,关税保险,insurance-claims,承保险别,published
+Delay in Start-Up Insurance,延期开工保险,insurance-claims,承保险别,published
+Consequential Loss Insurance,间接损失保险,insurance-claims,承保险别,published
+Extra Expense Coverage,额外费用保障,insurance-claims,承保险别,published
+Reconditioning Cost Coverage,整理修复费用保障,insurance-claims,承保险别,published
+Lost or Not Lost Clause,灭失与否条款,insurance-claims,承保险别,published
+Held Covered Clause,视同承保条款,insurance-claims,承保险别,published
+Free of Capture and Seizure Clause,捕获扣押除外条款,insurance-claims,承保险别,published
+Notice of Loss Clause,损失通知条款,insurance-claims,承保险别,published
+Fraudulent Claims Exclusion,欺诈索赔除外条款,insurance-claims,承保险别,published
+Malicious Damage Clause,恶意损坏条款,insurance-claims,承保险别,published
+Inherent Vice Exclusion,固有缺陷除外条款,insurance-claims,承保险别,published
+Ordinary Leakage and Shrinkage Exclusion,自然渗漏短量除外条款,insurance-claims,承保险别,published
+Carrier Insolvency Exclusion,承运人破产除外条款,insurance-claims,承保险别,published
+Cyber Exclusion Clause,网络除外条款,insurance-claims,承保险别,published
+Sanctions Limitation Clause,制裁限制条款,insurance-claims,承保险别,published
+Pollution Exclusion Clause,污染除外条款,insurance-claims,承保险别,published
+Strike Exclusion,罢工除外条款,insurance-claims,承保险别,published
+Ice Clause,冰冻条款,insurance-claims,承保险别,published
+Container Clause,集装箱条款,insurance-claims,承保险别,published
+Termination of Risk Clause,责任终止条款,insurance-claims,承保险别,published
+Duty of Assured Clause,被保险人义务条款,insurance-claims,承保险别,published
+Running Down Clause,碰撞责任条款,insurance-claims,承保险别,published
+Inland Leg Extension,内陆段扩展承保,insurance-claims,承保险别,published
+Transit Extension Clause,卸货后扩展期条款,insurance-claims,承保险别,published
+Deductible Clause,免赔额条款,insurance-claims,承保险别,published
+Excess Clause,绝对免赔条款,insurance-claims,承保险别,published
+Special Cargo Coverage,特种货物保险,insurance-claims,承保险别,published
+Live Animals Cover,活动物运输保险,insurance-claims,承保险别,published
+Charterers' Interest Insurance,租船人利益险,insurance-claims,承保险别,published
+Assignment Clause,保险权益转让条款,insurance-claims,承保险别,published
+Reefer Machinery Damage Exclusion,冷藏机损除外条款,insurance-claims,承保险别,published
+Pro Rata Condition,比例分摊条款,insurance-claims,承保险别,published
+Concealed Damage,隐藏性损坏,insurance-claims,承保险别,published
+Temporary Storage Clause,临时仓储条款,insurance-claims,承保险别,published
+War Exclusion,战争除外条款,insurance-claims,承保险别,published
+Odour Contamination Exclusion,串味除外条款,insurance-claims,承保险别,published
+Fumigation Damage Exclusion,熏蒸损坏除外条款,insurance-claims,承保险别,published
+Rejection Exclusion,拒收除外条款,insurance-claims,承保险别,published
+Natural Calamity,自然灾害,insurance-claims,海上风险,published
+Fortuitous Accident,意外事故,insurance-claims,海上风险,published
+Heavy Weather,恶劣天气,insurance-claims,海上风险,published
+Stranding,搁浅,insurance-claims,海上风险,published
+Sinking,沉没,insurance-claims,海上风险,published
+Capsizing,倾覆,insurance-claims,海上风险,published
+Fire on Board,船上火灾,insurance-claims,海上风险,published
+Explosion on Board,船上爆炸,insurance-claims,海上风险,published
+Washing Overboard,浪击落海,insurance-claims,海上风险,published
+Seawater Damage,海水浸损,insurance-claims,海上风险,published
+Fresh Water Damage,淡水浸损,insurance-claims,海上风险,published
+Sweating,汗湿,insurance-claims,海上风险,published
+Heating Damage,受热损失,insurance-claims,海上风险,published
+Freezing Damage,冻损,insurance-claims,海上风险,published
+Spontaneous Combustion Loss,自燃损失,insurance-claims,海上风险,published
+Evaporation Loss,蒸发损耗,insurance-claims,海上风险,published
+Crushing Damage,挤压损坏,insurance-claims,海上风险,published
+Hatch Leakage,舱口漏水,insurance-claims,海上风险,published
+Bilge Water Damage,舱底水浸损,insurance-claims,海上风险,published
+Salt Water Corrosion,盐水锈蚀,insurance-claims,海上风险,published
+Mould in Transit,运输霉变,insurance-claims,海上风险,published
+Warlike Operations,战争行为,insurance-claims,海上风险,published
+Civil War,内战,insurance-claims,海上风险,published
+Hostilities,敌对行为,insurance-claims,海上风险,published
+Capture and Seizure,捕获扣押,insurance-claims,海上风险,published
+Vessel Detention,船舶被扣,insurance-claims,海上风险,published
+Blockade,封锁,insurance-claims,海上风险,published
+Riot,暴乱,insurance-claims,海上风险,published
+Civil Commotion,民变,insurance-claims,海上风险,published
+Terrorist Act,恐怖主义行为,insurance-claims,海上风险,published
+Vandalism,恶意破坏,insurance-claims,海上风险,published
+Malicious Act,恶意行为,insurance-claims,海上风险,published
+Ordinary Wear and Tear,自然磨损,insurance-claims,海上风险,published
+Delay in Transit,运输延误,insurance-claims,海上风险,published
+Market Loss,市价跌落损失,insurance-claims,海上风险,published
+Rejection by Import Authority,进口国拒收,insurance-claims,海上风险,published
+Negligence of Crew,船员疏忽,insurance-claims,海上风险,published
+Error in Navigation,航行过失,insurance-claims,海上风险,published
 Barratry,船员恶意行为,insurance-claims,海上风险,pending
 Piracy,海盗行为,insurance-claims,海上风险,pending
 Armed Robbery at Sea,海上武装抢劫,insurance-claims,海上风险,pending
