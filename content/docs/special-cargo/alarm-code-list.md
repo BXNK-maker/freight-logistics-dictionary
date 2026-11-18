@@ -1,7 +1,7 @@
 ---
 title: "Alarm Code List"
 linkTitle: "报警代码表"
-date: 2026-11-17
+date: 2026-11-18
 type: docs
 subcategory: "冷链设备"
 ---
@@ -9,30 +9,31 @@ subcategory: "冷链设备"
 > 📖 分类：**特殊货物** / 冷链设备　｜　Alarm Code List = 报警代码表
 
 ## 定义
-报警代码表（Alarm Code List）是冷链物流与特种货物运输中，用于记录、解释和排查设备（如冷藏箱、温控车等）在运行过程中产生各种故障和异常警报代码的技术文档。该列表详细说明了每个代码所代表的设备故障类型、严重程度及建议的处理对策。
+Alarm Code List（报警代码表）是冷链物流与特种货物运输中，用于记录和解释制冷设备、温控集装箱（Reefer Container）或车载监控系统在运行中产生的各种异常报警代码的技术文档。该表通过将复杂的数字或字母代码转化为具体的故障原因，帮助操作人员快速定位设备隐患。它是保障生鲜、医药等温敏货物运输安全的核心参考工具。
 
 ## 详细说明
-- 使用场景：主要应用于冷藏集运（Reefer Container）、冷链卡车运输以及温控仓库的设备监控与异常处理。当设备面板显示诸如 "AL 01" 或 "ERR 05" 等代码时，操作人员需对照此表进行故障识别。
-- 关键规则或数字：代码通常由字母和数字组合（如系统错误、传感器故障、温度超限等），部分高级温控设备会根据故障等级划分不同颜色或数字代码（如 Level 1 为轻微警告，Level 3 为紧急停机）。
-- 实务注意事项：货代与操作人员在货物交接和装载前，必须向船公司或设备供应商索取最新的报警代码表，确保在发生温度异常时能够快速指导现场司机或码头工人进行排查，避免因延误处理导致货物变质。
+- 使用场景：广泛应用于冷藏集装箱海运、冷链卡车运输及仓库温控设备的日常监控与故障排查。
+- 关键规则：当冷机出现故障时，显示屏通常只显示代码（如AL01、ERR5），相关人员必须查阅对应的报警代码表以确认问题性质，例如区分是压缩机过载、除霜故障还是传感器失灵。
+- 实务注意事项：不同品牌（如Carrier, Daikin, Thermo King）的冷机报警代码系统存在差异，操作时必须使用对应型号的Alarm Code List，切勿混用。
 
 ## 中英对照
+
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 报警代码表 | Alarm Code List |
-| 冷藏箱监控 | Reefer Monitoring |
-| 温度超限报警 | Temperature Deviation Alarm |
-| 故障排除指南 | Troubleshooting Guide |
+| 冷藏集装箱 | Refrigerated Container (Reefer) |
+| 温度异常报警 | Temperature Deviation Alarm |
+| 故障排查 | Trouble Shooting / Fault Diagnosis |
+| 预冷测试 | Pre-Trip Inspection (PTI) |
 
 ## 相关术语
-- Reefer Container（冷藏集运箱）
-- Temperature Data Logger（温度记录仪）
-- PTI - Pre-Trip Inspection（装箱前预检）
-- Set Point（设定温度）
+- Reefer Container（冷藏集装箱）
+- Temperature Log（温度记录）
+- Pre-Trip Inspection（装箱前预冷检查）
+- Data Logger（数据记录仪）
 
 ## 常见误区
-- 认为报警代码表只是一份普通的说明书，在货物发生温度异常时仅凭经验盲目调节，而忽略了对照代码进行精准排查。
-- 混淆不同品牌冷机（如 Daikin, Carrier, Thermo King）的报警代码，认为所有设备的错误代码通用。
+- 误以为所有冷藏设备的报警代码都是
 
 ---
 

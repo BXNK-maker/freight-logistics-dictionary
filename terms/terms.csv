@@ -7424,9 +7424,9 @@ USB Temperature Download,温度数据下载,special-cargo,冷链设备,published
 Temperature Recording Chart,温度记录纸,special-cargo,冷链设备,published
 Remote Reefer Monitoring,冷柜远程监控,special-cargo,冷链设备,published
 Temperature Alarm,温度报警,special-cargo,冷链设备,published
-Alarm Code List,报警代码表,special-cargo,冷链设备,pending
-Chill Mode,冷藏模式,special-cargo,冷链设备,pending
-Frozen Mode,冷冻模式,special-cargo,冷链设备,pending
+Alarm Code List,报警代码表,special-cargo,冷链设备,published
+Chill Mode,冷藏模式,special-cargo,冷链设备,published
+Frozen Mode,冷冻模式,special-cargo,冷链设备,published
 Deep Frozen Mode,深冷模式,special-cargo,冷链设备,published
 Super Frozen Mode,超低温冷冻,special-cargo,冷链设备,published
 Container Pre-Cooling,集装箱预冷,special-cargo,冷链设备,published
@@ -7524,103 +7524,103 @@ Final Disposition,展品最终处置,special-cargo,展品物流,published
 Sale of Exhibits,展品现场销售,special-cargo,展品物流,published
 Abandonment of Exhibits,展品放弃处理,special-cargo,展品物流,published
 Duty-Free Temporary Entry,免税暂准入境,special-cargo,展品物流,published
-Household Goods Moving,家居搬迁运输,special-cargo,展品物流,pending
-Relocation Shipping,移民搬迁海运,special-cargo,展品物流,pending
-Bonded Storage for Exhibits,展品保税仓储,special-cargo,展品物流,pending
-On-Site Handling,现场操作,special-cargo,展品物流,pending
-Venue Delivery,场馆交付,special-cargo,展品物流,pending
-Pre-Show Delivery,开展前进场,special-cargo,展品物流,pending
-Post-Show Removal,撤展外运,special-cargo,展品物流,pending
-Empty Packaging Return,空包装回运,special-cargo,展品物流,pending
-Carnet Validation,单证册核验,special-cargo,展品物流,pending
-Carnet Loss Penalty,单证册遗失罚金,special-cargo,展品物流,pending
-ATA General List,ATA总清单,special-cargo,展品物流,pending
-Sample Goods,样品货物,special-cargo,展品物流,pending
-Commercial Sample,贸易样品,special-cargo,展品物流,pending
-Returning Exhibits,回运展品,special-cargo,展品物流,pending
-Art Exhibition Logistics,艺术展物流,special-cargo,展品物流,pending
-Pure Car Carrier,纯汽车运输船,special-cargo,汽车物流,pending
-Pure Car and Truck Carrier,汽车及卡车运输船,special-cargo,汽车物流,pending
-Deck Lashing,甲板绑扎,special-cargo,汽车物流,pending
-Car Ramp,车辆坡道,special-cargo,汽车物流,pending
-Wheel-Driven Loading,自行驶上船,special-cargo,汽车物流,pending
-Vehicle Yard,车辆堆场,special-cargo,汽车物流,pending
-Car Key Management,车钥匙管理,special-cargo,汽车物流,pending
-Pre-Delivery Inspection,交付前检验,special-cargo,汽车物流,pending
-Vehicle Condition Report,车辆状况报告,special-cargo,汽车物流,pending
-Damage Report at Loading,装车破损报告,special-cargo,汽车物流,pending
-Fuel Level Check,油量检查,special-cargo,汽车物流,pending
-Battery Disconnection,电瓶断电,special-cargo,汽车物流,pending
-New Energy Vehicle Shipping,新能源汽车运输,special-cargo,汽车物流,pending
-EV Fire Safety,电动汽车消防安全,special-cargo,汽车物流,pending
-Lithium Battery Transport for Vehicles,整车锂电池运输,special-cargo,汽车物流,pending
-Knock-Down Parts,散件组装件,special-cargo,汽车物流,pending
-Complete Knock-Down,全散件组装,special-cargo,汽车物流,pending
-Semi Knock-Down,半散件组装,special-cargo,汽车物流,pending
-Rack Packing,支架包装,special-cargo,汽车物流,pending
-Returnable Rack,周转料架,special-cargo,汽车物流,pending
-Steel Rack,钢制料架,special-cargo,汽车物流,pending
-Wooden Crate for KD Parts,散件木箱包装,special-cargo,汽车物流,pending
-Kitted Parts,成套件,special-cargo,汽车物流,pending
-Glass Rack,玻璃料架,special-cargo,汽车物流,pending
-Body Panel Packaging,车身覆盖件包装,special-cargo,汽车物流,pending
-Complete Vehicle,整车,special-cargo,汽车物流,pending
-Finished Vehicle Logistics,整车物流,special-cargo,汽车物流,pending
-Containerized Vehicle Shipping,集装箱整车运输,special-cargo,汽车物流,pending
-Vehicle Loading Plan,车辆配载图,special-cargo,汽车物流,pending
-Loading Sequence Plan,装船顺序表,special-cargo,汽车物流,pending
-Vehicle Tracking,车辆追踪,special-cargo,汽车物流,pending
-Vehicle Processing Center,车辆整备中心,special-cargo,汽车物流,pending
-Vehicle Pre-Shipment Inspection,车辆出运前检验,special-cargo,汽车物流,pending
-Homologation,车型认证,special-cargo,汽车物流,pending
-Vehicle VIN Verification,车辆VIN核验,special-cargo,汽车物流,pending
-Chassis Number,底盘号,special-cargo,汽车物流,pending
-Trailer and Truck Transport,挂车与卡车运输,special-cargo,汽车物流,pending
-Agricultural Machinery Export,农业机械出口,special-cargo,汽车物流,pending
-Motorcycle Shipping,摩托车运输,special-cargo,汽车物流,pending
-Power Battery Export,动力电池出口,special-cargo,汽车物流,pending
-UN38.3 Test Summary,电池UN38.3测试摘要,special-cargo,汽车物流,pending
-Battery Temperature Control,电池温度管控,special-cargo,汽车物流,pending
-Prototype Vehicle Export,试制车出口,special-cargo,汽车物流,pending
-Race Car Transport,赛车运输,special-cargo,汽车物流,pending
-Classic Car Shipping,老爷车运输,special-cargo,汽车物流,pending
-Vehicle Auction Logistics,拍卖车物流,special-cargo,汽车物流,pending
-High-Value Cargo,高价值货物,special-cargo,贵重物品,pending
-Precious Metal Transport,贵金属运输,special-cargo,贵重物品,pending
-Banknote Logistics,钞票物流,special-cargo,贵重物品,pending
-Armed Escort,武装押运,special-cargo,贵重物品,pending
-Secure Warehouse,安保仓库,special-cargo,贵重物品,pending
-Vault Storage,金库仓储,special-cargo,贵重物品,pending
-Sealed Container,铅封箱,special-cargo,贵重物品,pending
-Security Seal Number,封条编号,special-cargo,贵重物品,pending
-Diamond Parcel,钻石包裹,special-cargo,贵重物品,pending
-Watch Shipment,名表运输,special-cargo,贵重物品,pending
-Artwork Handling,艺术品搬运,special-cargo,贵重物品,pending
-Museum Standard Packing,博物馆级包装,special-cargo,贵重物品,pending
-Museum-Quality Crate,博物馆级木箱,special-cargo,贵重物品,pending
-Double Crate,双层木箱,special-cargo,贵重物品,pending
-Climate-Controlled Art Case,恒温艺术箱,special-cargo,贵重物品,pending
-Shock and Tilt Indicator,震动倾斜记录仪,special-cargo,贵重物品,pending
-Artwork Condition Report,艺术品状况报告,special-cargo,贵重物品,pending
-Pre-Export Condition Check,出运前状态检查,special-cargo,贵重物品,pending
-Art Courier,艺术品随行押运,special-cargo,贵重物品,pending
-Accompanied Cargo,随身押运货物,special-cargo,贵重物品,pending
-Custom Crating,定制木箱,special-cargo,贵重物品,pending
-Cultural Relics Export License,文物出境许可,special-cargo,贵重物品,pending
-Antiquities Transport,古董运输,special-cargo,贵重物品,pending
-Sculpture Handling,雕塑搬运,special-cargo,贵重物品,pending
-Painting Crating,画作装箱,special-cargo,贵重物品,pending
-Acid-Free Wrapping,无酸纸包装,special-cargo,贵重物品,pending
-Museum Loan Agreement,博物馆借展协议,special-cargo,贵重物品,pending
-Discreet Packaging,低调包装,special-cargo,贵重物品,pending
-Armed Convoy,武装车队护送,special-cargo,贵重物品,pending
-GPS Tracking for Valuables,贵重货物GPS追踪,special-cargo,贵重物品,pending
-Secure Corridor Transport,安全通道运输,special-cargo,贵重物品,pending
-Cash in Transit,在途现金,special-cargo,贵重物品,pending
-Confidential Shipment,保密货运,special-cargo,贵重物品,pending
-Proof of Delivery for Valuables,贵重品签收凭证,special-cargo,贵重物品,pending
-Two-Person Rule,双人操作规则,special-cargo,贵重物品,pending
-Background-Checked Crew,背景审查操作人员,special-cargo,贵重物品,pending
+Household Goods Moving,家居搬迁运输,special-cargo,展品物流,published
+Relocation Shipping,移民搬迁海运,special-cargo,展品物流,published
+Bonded Storage for Exhibits,展品保税仓储,special-cargo,展品物流,published
+On-Site Handling,现场操作,special-cargo,展品物流,published
+Venue Delivery,场馆交付,special-cargo,展品物流,published
+Pre-Show Delivery,开展前进场,special-cargo,展品物流,published
+Post-Show Removal,撤展外运,special-cargo,展品物流,published
+Empty Packaging Return,空包装回运,special-cargo,展品物流,published
+Carnet Validation,单证册核验,special-cargo,展品物流,published
+Carnet Loss Penalty,单证册遗失罚金,special-cargo,展品物流,published
+ATA General List,ATA总清单,special-cargo,展品物流,published
+Sample Goods,样品货物,special-cargo,展品物流,published
+Commercial Sample,贸易样品,special-cargo,展品物流,published
+Returning Exhibits,回运展品,special-cargo,展品物流,published
+Art Exhibition Logistics,艺术展物流,special-cargo,展品物流,published
+Pure Car Carrier,纯汽车运输船,special-cargo,汽车物流,published
+Pure Car and Truck Carrier,汽车及卡车运输船,special-cargo,汽车物流,published
+Deck Lashing,甲板绑扎,special-cargo,汽车物流,published
+Car Ramp,车辆坡道,special-cargo,汽车物流,published
+Wheel-Driven Loading,自行驶上船,special-cargo,汽车物流,published
+Vehicle Yard,车辆堆场,special-cargo,汽车物流,published
+Car Key Management,车钥匙管理,special-cargo,汽车物流,published
+Pre-Delivery Inspection,交付前检验,special-cargo,汽车物流,published
+Vehicle Condition Report,车辆状况报告,special-cargo,汽车物流,published
+Damage Report at Loading,装车破损报告,special-cargo,汽车物流,published
+Fuel Level Check,油量检查,special-cargo,汽车物流,published
+Battery Disconnection,电瓶断电,special-cargo,汽车物流,published
+New Energy Vehicle Shipping,新能源汽车运输,special-cargo,汽车物流,published
+EV Fire Safety,电动汽车消防安全,special-cargo,汽车物流,published
+Lithium Battery Transport for Vehicles,整车锂电池运输,special-cargo,汽车物流,published
+Knock-Down Parts,散件组装件,special-cargo,汽车物流,published
+Complete Knock-Down,全散件组装,special-cargo,汽车物流,published
+Semi Knock-Down,半散件组装,special-cargo,汽车物流,published
+Rack Packing,支架包装,special-cargo,汽车物流,published
+Returnable Rack,周转料架,special-cargo,汽车物流,published
+Steel Rack,钢制料架,special-cargo,汽车物流,published
+Wooden Crate for KD Parts,散件木箱包装,special-cargo,汽车物流,published
+Kitted Parts,成套件,special-cargo,汽车物流,published
+Glass Rack,玻璃料架,special-cargo,汽车物流,published
+Body Panel Packaging,车身覆盖件包装,special-cargo,汽车物流,published
+Complete Vehicle,整车,special-cargo,汽车物流,published
+Finished Vehicle Logistics,整车物流,special-cargo,汽车物流,published
+Containerized Vehicle Shipping,集装箱整车运输,special-cargo,汽车物流,published
+Vehicle Loading Plan,车辆配载图,special-cargo,汽车物流,published
+Loading Sequence Plan,装船顺序表,special-cargo,汽车物流,published
+Vehicle Tracking,车辆追踪,special-cargo,汽车物流,published
+Vehicle Processing Center,车辆整备中心,special-cargo,汽车物流,published
+Vehicle Pre-Shipment Inspection,车辆出运前检验,special-cargo,汽车物流,published
+Homologation,车型认证,special-cargo,汽车物流,published
+Vehicle VIN Verification,车辆VIN核验,special-cargo,汽车物流,published
+Chassis Number,底盘号,special-cargo,汽车物流,published
+Trailer and Truck Transport,挂车与卡车运输,special-cargo,汽车物流,published
+Agricultural Machinery Export,农业机械出口,special-cargo,汽车物流,published
+Motorcycle Shipping,摩托车运输,special-cargo,汽车物流,published
+Power Battery Export,动力电池出口,special-cargo,汽车物流,published
+UN38.3 Test Summary,电池UN38.3测试摘要,special-cargo,汽车物流,published
+Battery Temperature Control,电池温度管控,special-cargo,汽车物流,published
+Prototype Vehicle Export,试制车出口,special-cargo,汽车物流,published
+Race Car Transport,赛车运输,special-cargo,汽车物流,published
+Classic Car Shipping,老爷车运输,special-cargo,汽车物流,published
+Vehicle Auction Logistics,拍卖车物流,special-cargo,汽车物流,published
+High-Value Cargo,高价值货物,special-cargo,贵重物品,published
+Precious Metal Transport,贵金属运输,special-cargo,贵重物品,published
+Banknote Logistics,钞票物流,special-cargo,贵重物品,published
+Armed Escort,武装押运,special-cargo,贵重物品,published
+Secure Warehouse,安保仓库,special-cargo,贵重物品,published
+Vault Storage,金库仓储,special-cargo,贵重物品,published
+Sealed Container,铅封箱,special-cargo,贵重物品,published
+Security Seal Number,封条编号,special-cargo,贵重物品,published
+Diamond Parcel,钻石包裹,special-cargo,贵重物品,published
+Watch Shipment,名表运输,special-cargo,贵重物品,published
+Artwork Handling,艺术品搬运,special-cargo,贵重物品,published
+Museum Standard Packing,博物馆级包装,special-cargo,贵重物品,published
+Museum-Quality Crate,博物馆级木箱,special-cargo,贵重物品,published
+Double Crate,双层木箱,special-cargo,贵重物品,published
+Climate-Controlled Art Case,恒温艺术箱,special-cargo,贵重物品,published
+Shock and Tilt Indicator,震动倾斜记录仪,special-cargo,贵重物品,published
+Artwork Condition Report,艺术品状况报告,special-cargo,贵重物品,published
+Pre-Export Condition Check,出运前状态检查,special-cargo,贵重物品,published
+Art Courier,艺术品随行押运,special-cargo,贵重物品,published
+Accompanied Cargo,随身押运货物,special-cargo,贵重物品,published
+Custom Crating,定制木箱,special-cargo,贵重物品,published
+Cultural Relics Export License,文物出境许可,special-cargo,贵重物品,published
+Antiquities Transport,古董运输,special-cargo,贵重物品,published
+Sculpture Handling,雕塑搬运,special-cargo,贵重物品,published
+Painting Crating,画作装箱,special-cargo,贵重物品,published
+Acid-Free Wrapping,无酸纸包装,special-cargo,贵重物品,published
+Museum Loan Agreement,博物馆借展协议,special-cargo,贵重物品,published
+Discreet Packaging,低调包装,special-cargo,贵重物品,published
+Armed Convoy,武装车队护送,special-cargo,贵重物品,published
+GPS Tracking for Valuables,贵重货物GPS追踪,special-cargo,贵重物品,published
+Secure Corridor Transport,安全通道运输,special-cargo,贵重物品,published
+Cash in Transit,在途现金,special-cargo,贵重物品,published
+Confidential Shipment,保密货运,special-cargo,贵重物品,published
+Proof of Delivery for Valuables,贵重品签收凭证,special-cargo,贵重物品,published
+Two-Person Rule,双人操作规则,special-cargo,贵重物品,published
+Background-Checked Crew,背景审查操作人员,special-cargo,贵重物品,published
 Secure Van,安保专用车,special-cargo,贵重物品,pending
 High-Value Storage Safe,贵重品保险柜,special-cargo,贵重物品,pending
 Total Loss Only,全损险,insurance-claims,承保险别,pending
