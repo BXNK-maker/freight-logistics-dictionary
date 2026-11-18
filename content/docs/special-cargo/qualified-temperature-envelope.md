@@ -1,7 +1,7 @@
 ---
 title: "Qualified Temperature Envelope"
 linkTitle: "合格温度区间"
-date: 2026-11-17
+date: 2026-11-18
 type: docs
 subcategory: "医药冷链"
 ---
@@ -10,34 +10,22 @@ subcategory: "医药冷链"
 
 ## 定义
 
-合格温度区间（Qualified Temperature Envelope）是指在医药、生鲜等温控货物运输与仓储过程中，经过验证、能够确保货物始终处于其特定温控要求范围内的物理空间或包装边界。该概念广泛应用于冷链物流中，用以证明整个供应链环节具备维持规定温度的能力。
+合格温度区间（Qualified Temperature Envelope）是指在医药品、生鲜食品等温敏货物的运输、储存及装卸过程中，经过验证能够确保货物始终处于其特定温控要求之内的安全温度范围。它不仅是一个简单的温度上下限数值，更是通过风险评估和性能验证后确定的、具有合规保障的物流操作标准。
 
 ## 详细说明
 
-- 使用场景：主要用于生物制品、疫苗、血液制品以及高附加值生鲜食品的航空运输、冷藏车运输及机场暂存阶段。
-- 关键规则或数字：区间的设计必须基于严格的热力学测试和验证（Validation），通常需覆盖四季极端天气及最长运输时效，常见温控区间包括 +2℃ 至 +8℃、-20℃ 或 -15℃ 以下等。
-- 实务注意事项：货代在操作时必须核对温湿度记录仪的数据，确保实际运输环境未曾超出该区间；任何偏离（Temperature Excursion）都需要立即通知发货人并出具偏差评估报告。
+- 使用场景：广泛应用于冷链物流（Cold Chain Logistics）、医药冷链（Pharma Cold Chain）以及生物制品（如疫苗、血液制品）的航空运输与跨境海运中。
+- 关键规则或数字：该区间必须通过热测绘（Thermal Mapping）和验证（Qualification）得出，通常精确到具体范围（如 +2°C 至 +8°C 或 -20°C ±5°C），且在温控设备（如主动式或被动式集装箱）的标称性能之内。
+- 实务注意事项：货代和操作人员必须实时监控数据记录仪（Data Logger）的读数；若温度短暂偏离但未超出验证的极限（Excursion），需依据SOP进行偏差评估，确认是否影响货物效力。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 合格温度区间 | Qualified Temperature Envelope |
-| 温度偏离 | Temperature Excursion |
-| 冷链验证 | Cold Chain Validation |
-| 主动式温控集装箱 | Active Temperature-Controlled Container |
-
-## 相关术语
-
-- `Temperature Excursion（温度偏离）`
-- `Cold Chain Validation（冷链验证）`
-- `Active Container（主动式温控集装箱）`
-- `Thermal Packaging（保温包装）`
-
-## 常见误区
-
-- 误区一：认为只要开启了冷藏设备就自然拥有合格温度区间。实际上，区间必须经过标准化的性能验证和数据支持，而非仅凭设备设定温度。
-- 误区二：将合格温度区间等同于设定温度。区间是一个允许的波动范围，而设定温度通常是其中的一个目标值。
+| 温度偏差 | Temperature Excursion |
+| 热测绘 / 温度测绘 | Thermal Mapping |
+| 被动式保温箱 | Passive Packaging /
 
 ---
 

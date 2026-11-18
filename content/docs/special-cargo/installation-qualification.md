@@ -1,7 +1,7 @@
 ---
 title: "Installation Qualification"
 linkTitle: "安装确认"
-date: 2026-11-17
+date: 2026-11-18
 type: docs
 subcategory: "医药冷链"
 ---
@@ -10,15 +10,13 @@ subcategory: "医药冷链"
 
 ## 定义
 
-Installation Qualification（简称 IQ，中文意为“安装确认”）是验证制药、医疗器械和精密仪器等冷链货物所用的温控设备、仓储设施或运输车辆是否按照制造商的设计规范和要求正确安装的程序。它是整个验证（Validation）流程的第一步，旨在确保硬件环境完全具备运行的基础条件。
-
+Installation Qualification（简称 IQ，中文意为“安装确认”）是验证新设备或系统是否正确安装在指定地点的标准作业程序。在国际货运与物流领域，它是医疗器械、生物制药及精密冷链设备供应链合规管理的核心环节。
 
 ## 详细说明
 
-- 使用场景：主要应用于医药冷链物流、生物制品运输以及高价值精密设备的国际货运中，特别是在新购置冷库、冷藏车或验证温控包装箱时必须执行。
-- 关键规则或数字：IQ 通常基于设备制造商（OEM）的规格说明书进行，其核心检查项目必须覆盖 100% 的关键组件（如传感器探头、制冷机组、电源供应及安全装置），且所有偏差在进入下一步前必须记录并清零。
-- 实务注意事项：货代和物流服务商在承运合规要求严格的医药产品时，必须向客户索取最新的 IQ 报告，以证明其温控资产具备交付能力，否则将面临通关受阻或货物失效的风险。
-
+- 使用场景：主要用于高价值、高敏感度的特种货物物流，如制药机械、大型医疗影像设备、精密实验室仪器及恒温冷藏系统的现场交付。
+- 关键规则或数字：必须严格遵循 GDP（药品良好分销规范）或 GMP 标准。通常要求在设备通电调试前的 24-48 小时内完成文件核对与物理检查，确保所有组件、软件版本和环境条件（如温湿度、电源）完全符合制造商的官方技术规格书。
+- 实务注意事项：货代在安排此类项目物流时，需协助清关并确保现场工程师、海关查验人员及收货方三方在 IQ 报告上共同签字，任何运输过程中的震动或包装破损记录都可能导致安装确认失败。
 
 ## 中英对照
 
@@ -27,23 +25,21 @@ Installation Qualification（简称 IQ，中文意为“安装确认”）是验
 | 安装确认 | Installation Qualification (IQ) |
 | 运行确认 | Operational Qualification (OQ) |
 | 性能确认 | Performance Qualification (PQ) |
-| 设计确认 | Design Qualification (DQ) |
-| 温控设备验证 | Temperature Controlled Equipment Validation |
-
+| 验证主计划 | Validation Master Plan (VMP) |
+| 现场验收测试 | Site Acceptance Testing (SAT) |
 
 ## 相关术语
 
-- Operational Qualification（运行确认）
-- Performance Qualification（性能确认）
-- Good Distribution Practice（药品经营质量管理规范）
-- Cold Chain Management（冷链管理）
-- Temperature Mapping（温度映射/温场测试）
-
+- OQ（Operational Qualification，运行确认）
+- PQ（Performance Qualification，性能确认）
+- SAT（Site Acceptance Testing，现场验收测试）
+- GDP（Good Distribution Practice，药品良好分销规范）
+- Cold Chain（冷链物流）
 
 ## 常见误区
 
-- 认为安装确认（IQ）就是简单的设备通电测试，忽略了对图纸、序列号核对和校准证书的系统性文件审核。
-- 混淆 IQ 与 OQ（运行确认），误以为设备刚装好就能直接测试其空载运行性能，跳过了静态安装条件的确认步骤。
+- 误区一：认为安装确认（IQ）只是简单的货物送达和开箱验货。实际上它是一项严谨的科学验证流程，重在核对设备图纸、序列号及安装环境的合规性，而不仅是数量清点。
+- 误区二：将 IQ 与 OQ（运行确认）混为一谈。IQ 关注的是“设备有没有安对地方、部件是否齐全”，而 OQ 关注的是“设备通电后各项功能能不能正常运转”。
 
 ---
 

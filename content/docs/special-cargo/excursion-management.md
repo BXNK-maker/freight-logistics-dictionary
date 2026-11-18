@@ -1,7 +1,7 @@
 ---
 title: "Excursion Management"
 linkTitle: "温度偏差管理"
-date: 2026-11-17
+date: 2026-11-18
 type: docs
 subcategory: "医药冷链"
 ---
@@ -9,33 +9,36 @@ subcategory: "医药冷链"
 > 📖 分类：**特殊货物** / 医药冷链　｜　Excursion Management = 温度偏差管理
 
 ## 定义
-温度偏差管理（Excursion Management）是指在冷链物流运输过程中，当货物温度超出预设的安全范围时所采取的一系列监控、评估与纠正机制。该机制旨在确保冷敏货物（如疫苗、生物制剂、生鲜食品等）的质量与安全性，并为后续的责任认定提供数据支持。
+
+温度偏差管理（英文全称：Temperature Excursion Management）是指在冷链物流过程中，当货物的实际存储或运输温度超出预设的安全范围时，所采取的识别、记录、评估、纠正和预防的一系列规范化管理流程。该机制旨在最大程度降低温差对医药、生鲜等高敏货物质量的影响，并满足合规审计要求。
 
 ## 详细说明
-- 使用场景：主要应用于医药冷链、高端生鲜及航空冷链运输中，尤其是使用主动式或被动式温控集装箱（Active/Passive Containers）的场景。
-- 关键规则或数字：国际冷链标准中，常见的偏差评估需关注“超温时长”（如连续超温超过2小时）和“累积热效应”（如MKT均动温度），必须在温控数据下载后的24至48小时内完成初步评估。
-- 实务注意事项：货代和操作人员在收到温控报警时，切勿盲目直接放行货物；必须先收集完整的温度记录仪（Data Logger）数据，由质量保证（QA）部门出具偏差调查报告后，方可决定接收、隔离还是销毁。
+
+- 使用场景：主要应用于生物制药、疫苗、血液制品以及高附加值生鲜食品的国际冷链运输中，涵盖航空冷藏箱、冷藏车、冷藏船及温控仓库等环节。
+- 关键规则与数据：一旦温度记录仪显示温度超出既定范围（例如疫苗通常要求 +2°C 至 +8°C），必须立即触发偏差报告机制；货代和承运人通常需要在收到偏差通知的 24 至 48 小时内提交初步的偏差调查报告。
+- 实务注意事项：操作人员必须确保温控设备的校准记录完整；发生偏差时，切勿擅自放行货物，须由质量保证（QA）部门基于稳定性数据进行风险评估后，方可决定放行、返工或报废。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 温度偏差管理 | Temperature Excursion Management |
-| 温度偏差 | Temperature Excursion |
-| 温度数据记录仪 | Temperature Data Logger |
-| 均动温度 | Mean Kinetic Temperature (MKT) |
-| 偏差调查报告 | Excursion Investigation Report |
+| 冷链物流 | Cold Chain Logistics |
+| 温度超标 / 偏差 | Temperature Excursion |
+| 稳定性数据 | Stability Data |
+| 纠正和预防措施 | Corrective and Preventive Action (CAPA) |
 
 ## 相关术语
-- Cold Chain Logistics（冷链物流）
-- Mean Kinetic Temperature (MKT)（均动温度）
-- Temperature Data Logger（温度数据记录仪）
-- Active Container（主动式温控集装箱）
-- Good Distribution Practice (GDP)（药品流通质量管理规范）
+
+- `Cold Chain (冷链)`
+- `Temperature Data Logger (温度数据记录仪)`
+- `Good Distribution Practice (良好分发规范，GDP)`
+- `Thermal Blanket (保温毯)`
 
 ## 常见误区
-- 只要温度超标一分钟就等于货物报废：实际操作中，短时微小的温度波动可能在产品的安全裕度（Stability Budget）之内，需经科学评估后再做决定。
-- 仅依赖司机或航司口头汇报温度情况：温度偏差管理必须基于独立校准过的数据记录仪或物联网（IoT）实时监控平台的
+
+- 误区一：认为只要温度短暂超标几分钟就会导致货物完全失效。实际上，许多产品具备短期耐受性（Temperature Excursion Profile），需通过科学评估来判定，而非直接报废。
+- 误区二：将温度偏差管理单纯等同于事后赔偿索赔。它更侧重于全流程的风险预防、偏差调查以及后续的纠正和预防措施（CAPA）闭环。
 
 ---
 

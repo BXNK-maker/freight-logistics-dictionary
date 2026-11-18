@@ -7427,103 +7427,103 @@ Temperature Alarm,温度报警,special-cargo,冷链设备,published
 Alarm Code List,报警代码表,special-cargo,冷链设备,pending
 Chill Mode,冷藏模式,special-cargo,冷链设备,pending
 Frozen Mode,冷冻模式,special-cargo,冷链设备,pending
-Deep Frozen Mode,深冷模式,special-cargo,冷链设备,pending
-Super Frozen Mode,超低温冷冻,special-cargo,冷链设备,pending
-Container Pre-Cooling,集装箱预冷,special-cargo,冷链设备,pending
-Air Circulation,空气循环,special-cargo,冷链设备,pending
-Airflow Spacer,气流垫板,special-cargo,冷链设备,pending
-Bulking Factor,装载膨胀系数,special-cargo,冷链设备,pending
-Cooling Capacity,制冷量,special-cargo,冷链设备,pending
-Pull-Down Time,降温时间,special-cargo,冷链设备,pending
-Thermostat,恒温器,special-cargo,冷链设备,pending
-Temperature Fluctuation Tolerance,温度波动容差,special-cargo,冷链设备,pending
-Blast Freezer,速冻库,special-cargo,冷链设备,pending
-Bonded Cold Storage,保税冷库,special-cargo,冷链设备,pending
-Cold Chain Validation,冷链验证,special-cargo,医药冷链,pending
-Thermal Mapping,热性能测试,special-cargo,医药冷链,pending
-Qualification Protocol,确认方案,special-cargo,医药冷链,pending
-Installation Qualification,安装确认,special-cargo,医药冷链,pending
-Operational Qualification,运行确认,special-cargo,医药冷链,pending
-Performance Qualification,性能确认,special-cargo,医药冷链,pending
-Validation Report,验证报告,special-cargo,医药冷链,pending
-Temperature Profile,温度曲线,special-cargo,医药冷链,pending
-Summer Profile,夏季工况验证,special-cargo,医药冷链,pending
-Winter Profile,冬季工况验证,special-cargo,医药冷链,pending
-Active Cooling Container,主动式冷链箱,special-cargo,医药冷链,pending
-Passive Cooling Container,被动式冷链箱,special-cargo,医药冷链,pending
-Dry Ice Sublimation Rate,干冰升华率,special-cargo,医药冷链,pending
-Coolant Conditioning,蓄冷剂预调温,special-cargo,医药冷链,pending
-Conditioned Shipper,预调温保温箱,special-cargo,医药冷链,pending
-Insulated Shipper,保温箱,special-cargo,医药冷链,pending
-Pallet Shipper,托盘保温箱,special-cargo,医药冷链,pending
-Qualified Temperature Envelope,合格温度区间,special-cargo,医药冷链,pending
-Stability Data,稳定性数据,special-cargo,医药冷链,pending
-Excursion Management,温度偏差管理,special-cargo,医药冷链,pending
-Deviation Report,偏差报告,special-cargo,医药冷链,pending
-Quality Release,质量放行,special-cargo,医药冷链,pending
-Qualified Person,质量受权人,special-cargo,医药冷链,pending
-Responsible Person,责任人,special-cargo,医药冷链,pending
-Batch Record,批记录,special-cargo,医药冷链,pending
-Cold Chain SOP,冷链标准操作规程,special-cargo,医药冷链,pending
-Time and Temperature Sensitive Product,时间温度敏感药品,special-cargo,医药冷链,pending
-2-8 Degrees Cold Chain,2至8度冷链,special-cargo,医药冷链,pending
-Frozen Pharmaceutical,冷冻药品,special-cargo,医药冷链,pending
-Cryogenic Shipping,深冷运输,special-cargo,医药冷链,pending
-Cell and Gene Therapy Logistics,细胞与基因治疗物流,special-cargo,医药冷链,pending
-Clinical Trial Supplies Logistics,临床试验用药物流,special-cargo,医药冷链,pending
-Investigational Medicinal Product,试验用药品,special-cargo,医药冷链,pending
-Biological Sample Shipping,生物样本运输,special-cargo,医药冷链,pending
-Patient Sample,人体样本,special-cargo,医药冷链,pending
-Blood Product Transport,血液制品运输,special-cargo,医药冷链,pending
-Vaccine Distribution,疫苗配送,special-cargo,医药冷链,pending
-Cold Chain Monitoring Device,冷链监测设备,special-cargo,医药冷链,pending
-Disposable Data Logger,一次性温度记录仪,special-cargo,医药冷链,pending
-Pharma Track and Trace,药品追溯,special-cargo,医药冷链,pending
-Oversize Cargo,超尺寸货物,special-cargo,项目物流,pending
-Mafi Trailer,滚装板车,special-cargo,项目物流,pending
-Axle Line,轴线,special-cargo,项目物流,pending
-Hydraulic Suspension,液压悬挂,special-cargo,项目物流,pending
-Turntable,回转盘,special-cargo,项目物流,pending
-Strand Jack,钢绞线千斤顶,special-cargo,项目物流,pending
-Tower Crane,塔式起重机,special-cargo,项目物流,pending
-Crawler Crane,履带吊,special-cargo,项目物流,pending
-Mobile Crane,汽车吊,special-cargo,项目物流,pending
-Deck Cargo,甲板货,special-cargo,项目物流,pending
-Deck Strength Check,甲板强度校核,special-cargo,项目物流,pending
-Lashing Calculation,绑扎计算,special-cargo,项目物流,pending
-Securing Plan,系固方案,special-cargo,项目物流,pending
-Lashing and Securing,绑扎系固,special-cargo,项目物流,pending
-Welded Sea Fastening,焊接式海运固定,special-cargo,项目物流,pending
-Wire Rope Sling,钢丝绳吊索,special-cargo,项目物流,pending
-Synthetic Sling,合成纤维吊带,special-cargo,项目物流,pending
-Lifting Frame,吊架,special-cargo,项目物流,pending
-Lifting Plan,吊装方案,special-cargo,项目物流,pending
-Load Test,载荷试验,special-cargo,项目物流,pending
-Proof Load Test,验证载荷试验,special-cargo,项目物流,pending
-Crane Capacity Chart,吊机性能表,special-cargo,项目物流,pending
-Load Moment Indicator,力矩限制器,special-cargo,项目物流,pending
-Rigging Engineer,索具工程师,special-cargo,项目物流,pending
-Lifting Supervisor,吊装指挥,special-cargo,项目物流,pending
-Ro-Ro Ramp,滚装跳板,special-cargo,项目物流,pending
-Load-In,上岸作业,special-cargo,项目物流,pending
-Cargo Weight Verification,货物称重核验,special-cargo,项目物流,pending
-Load Cell,称重传感器,special-cargo,项目物流,pending
-Transport Route Survey,运输路线勘察,special-cargo,项目物流,pending
-Bridge Load Assessment,桥梁承载评估,special-cargo,项目物流,pending
-ATA Carnet Holder,ATA单证册持证人,special-cargo,展品物流,pending
-ATA Carnet Guarantee Chain,ATA单证册担保链,special-cargo,展品物流,pending
-Temporary Import Bond,临时进口担保,special-cargo,展品物流,pending
-Exhibition Goods,展会货物,special-cargo,展品物流,pending
-Trade Show Logistics,商展物流,special-cargo,展品物流,pending
-Event Logistics,活动物流,special-cargo,展品物流,pending
-Exhibition Stand Material,展台搭建材料,special-cargo,展品物流,pending
-Demonstration Goods,演示用展品,special-cargo,展品物流,pending
-Exhibition Consumables,展会消耗品,special-cargo,展品物流,pending
-Giveaway Items,赠送礼品,special-cargo,展品物流,pending
-Final Disposition,展品最终处置,special-cargo,展品物流,pending
-Sale of Exhibits,展品现场销售,special-cargo,展品物流,pending
-Abandonment of Exhibits,展品放弃处理,special-cargo,展品物流,pending
-Duty-Free Temporary Entry,免税暂准入境,special-cargo,展品物流,pending
+Deep Frozen Mode,深冷模式,special-cargo,冷链设备,published
+Super Frozen Mode,超低温冷冻,special-cargo,冷链设备,published
+Container Pre-Cooling,集装箱预冷,special-cargo,冷链设备,published
+Air Circulation,空气循环,special-cargo,冷链设备,published
+Airflow Spacer,气流垫板,special-cargo,冷链设备,published
+Bulking Factor,装载膨胀系数,special-cargo,冷链设备,published
+Cooling Capacity,制冷量,special-cargo,冷链设备,published
+Pull-Down Time,降温时间,special-cargo,冷链设备,published
+Thermostat,恒温器,special-cargo,冷链设备,published
+Temperature Fluctuation Tolerance,温度波动容差,special-cargo,冷链设备,published
+Blast Freezer,速冻库,special-cargo,冷链设备,published
+Bonded Cold Storage,保税冷库,special-cargo,冷链设备,published
+Cold Chain Validation,冷链验证,special-cargo,医药冷链,published
+Thermal Mapping,热性能测试,special-cargo,医药冷链,published
+Qualification Protocol,确认方案,special-cargo,医药冷链,published
+Installation Qualification,安装确认,special-cargo,医药冷链,published
+Operational Qualification,运行确认,special-cargo,医药冷链,published
+Performance Qualification,性能确认,special-cargo,医药冷链,published
+Validation Report,验证报告,special-cargo,医药冷链,published
+Temperature Profile,温度曲线,special-cargo,医药冷链,published
+Summer Profile,夏季工况验证,special-cargo,医药冷链,published
+Winter Profile,冬季工况验证,special-cargo,医药冷链,published
+Active Cooling Container,主动式冷链箱,special-cargo,医药冷链,published
+Passive Cooling Container,被动式冷链箱,special-cargo,医药冷链,published
+Dry Ice Sublimation Rate,干冰升华率,special-cargo,医药冷链,published
+Coolant Conditioning,蓄冷剂预调温,special-cargo,医药冷链,published
+Conditioned Shipper,预调温保温箱,special-cargo,医药冷链,published
+Insulated Shipper,保温箱,special-cargo,医药冷链,published
+Pallet Shipper,托盘保温箱,special-cargo,医药冷链,published
+Qualified Temperature Envelope,合格温度区间,special-cargo,医药冷链,published
+Stability Data,稳定性数据,special-cargo,医药冷链,published
+Excursion Management,温度偏差管理,special-cargo,医药冷链,published
+Deviation Report,偏差报告,special-cargo,医药冷链,published
+Quality Release,质量放行,special-cargo,医药冷链,published
+Qualified Person,质量受权人,special-cargo,医药冷链,published
+Responsible Person,责任人,special-cargo,医药冷链,published
+Batch Record,批记录,special-cargo,医药冷链,published
+Cold Chain SOP,冷链标准操作规程,special-cargo,医药冷链,published
+Time and Temperature Sensitive Product,时间温度敏感药品,special-cargo,医药冷链,published
+2-8 Degrees Cold Chain,2至8度冷链,special-cargo,医药冷链,published
+Frozen Pharmaceutical,冷冻药品,special-cargo,医药冷链,published
+Cryogenic Shipping,深冷运输,special-cargo,医药冷链,published
+Cell and Gene Therapy Logistics,细胞与基因治疗物流,special-cargo,医药冷链,published
+Clinical Trial Supplies Logistics,临床试验用药物流,special-cargo,医药冷链,published
+Investigational Medicinal Product,试验用药品,special-cargo,医药冷链,published
+Biological Sample Shipping,生物样本运输,special-cargo,医药冷链,published
+Patient Sample,人体样本,special-cargo,医药冷链,published
+Blood Product Transport,血液制品运输,special-cargo,医药冷链,published
+Vaccine Distribution,疫苗配送,special-cargo,医药冷链,published
+Cold Chain Monitoring Device,冷链监测设备,special-cargo,医药冷链,published
+Disposable Data Logger,一次性温度记录仪,special-cargo,医药冷链,published
+Pharma Track and Trace,药品追溯,special-cargo,医药冷链,published
+Oversize Cargo,超尺寸货物,special-cargo,项目物流,published
+Mafi Trailer,滚装板车,special-cargo,项目物流,published
+Axle Line,轴线,special-cargo,项目物流,published
+Hydraulic Suspension,液压悬挂,special-cargo,项目物流,published
+Turntable,回转盘,special-cargo,项目物流,published
+Strand Jack,钢绞线千斤顶,special-cargo,项目物流,published
+Tower Crane,塔式起重机,special-cargo,项目物流,published
+Crawler Crane,履带吊,special-cargo,项目物流,published
+Mobile Crane,汽车吊,special-cargo,项目物流,published
+Deck Cargo,甲板货,special-cargo,项目物流,published
+Deck Strength Check,甲板强度校核,special-cargo,项目物流,published
+Lashing Calculation,绑扎计算,special-cargo,项目物流,published
+Securing Plan,系固方案,special-cargo,项目物流,published
+Lashing and Securing,绑扎系固,special-cargo,项目物流,published
+Welded Sea Fastening,焊接式海运固定,special-cargo,项目物流,published
+Wire Rope Sling,钢丝绳吊索,special-cargo,项目物流,published
+Synthetic Sling,合成纤维吊带,special-cargo,项目物流,published
+Lifting Frame,吊架,special-cargo,项目物流,published
+Lifting Plan,吊装方案,special-cargo,项目物流,published
+Load Test,载荷试验,special-cargo,项目物流,published
+Proof Load Test,验证载荷试验,special-cargo,项目物流,published
+Crane Capacity Chart,吊机性能表,special-cargo,项目物流,published
+Load Moment Indicator,力矩限制器,special-cargo,项目物流,published
+Rigging Engineer,索具工程师,special-cargo,项目物流,published
+Lifting Supervisor,吊装指挥,special-cargo,项目物流,published
+Ro-Ro Ramp,滚装跳板,special-cargo,项目物流,published
+Load-In,上岸作业,special-cargo,项目物流,published
+Cargo Weight Verification,货物称重核验,special-cargo,项目物流,published
+Load Cell,称重传感器,special-cargo,项目物流,published
+Transport Route Survey,运输路线勘察,special-cargo,项目物流,published
+Bridge Load Assessment,桥梁承载评估,special-cargo,项目物流,published
+ATA Carnet Holder,ATA单证册持证人,special-cargo,展品物流,published
+ATA Carnet Guarantee Chain,ATA单证册担保链,special-cargo,展品物流,published
+Temporary Import Bond,临时进口担保,special-cargo,展品物流,published
+Exhibition Goods,展会货物,special-cargo,展品物流,published
+Trade Show Logistics,商展物流,special-cargo,展品物流,published
+Event Logistics,活动物流,special-cargo,展品物流,published
+Exhibition Stand Material,展台搭建材料,special-cargo,展品物流,published
+Demonstration Goods,演示用展品,special-cargo,展品物流,published
+Exhibition Consumables,展会消耗品,special-cargo,展品物流,published
+Giveaway Items,赠送礼品,special-cargo,展品物流,published
+Final Disposition,展品最终处置,special-cargo,展品物流,published
+Sale of Exhibits,展品现场销售,special-cargo,展品物流,published
+Abandonment of Exhibits,展品放弃处理,special-cargo,展品物流,published
+Duty-Free Temporary Entry,免税暂准入境,special-cargo,展品物流,published
 Household Goods Moving,家居搬迁运输,special-cargo,展品物流,pending
 Relocation Shipping,移民搬迁海运,special-cargo,展品物流,pending
 Bonded Storage for Exhibits,展品保税仓储,special-cargo,展品物流,pending
