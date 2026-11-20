@@ -7721,9 +7721,9 @@ Market Loss,市价跌落损失,insurance-claims,海上风险,published
 Rejection by Import Authority,进口国拒收,insurance-claims,海上风险,published
 Negligence of Crew,船员疏忽,insurance-claims,海上风险,published
 Error in Navigation,航行过失,insurance-claims,海上风险,published
-Barratry,船员恶意行为,insurance-claims,海上风险,pending
-Piracy,海盗行为,insurance-claims,海上风险,pending
-Armed Robbery at Sea,海上武装抢劫,insurance-claims,海上风险,pending
+Barratry,船员恶意行为,insurance-claims,海上风险,published
+Piracy,海盗行为,insurance-claims,海上风险,published
+Armed Robbery at Sea,海上武装抢劫,insurance-claims,海上风险,published
 Non-Delivery,提货不着,insurance-claims,海上风险,published
 Loss of Package,整件灭失,insurance-claims,海上风险,published
 Contact Damage,触碰损失,insurance-claims,海上风险,published
@@ -7733,7 +7733,7 @@ Risk of Breakage,破碎险,insurance-claims,附加险,published
 Risk of Mould,霉损险,insurance-claims,附加险,published
 Risk of Chill Damage,冷藏冻损险,insurance-claims,附加险,published
 Aflatoxin Risk,黄曲霉素险,insurance-claims,附加险,published
-Failure to Deliver Risk,提货不着险,insurance-claims,附加险,pending
+Failure to Deliver Risk,提货不着险,insurance-claims,附加险,published
 Fire Risk Extension Clause,存仓火险扩展条款,insurance-claims,附加险,published
 War on Deck Risk,舱面战争险,insurance-claims,附加险,published
 Inland Transit Extension,内陆运输扩展,insurance-claims,附加险,published
@@ -7760,7 +7760,7 @@ Additional Insured Endorsement,附加被保险人批单,insurance-claims,附加�
 Currency Clause,赔付货币条款,insurance-claims,附加险,published
 Interest Clause,利息条款,insurance-claims,附加险,published
 Door to Door Cover,门到门承保,insurance-claims,附加险,published
-York-Antwerp Rules 2016,约克-安特卫普规则2016,insurance-claims,共同海损,pending
+York-Antwerp Rules 2016,约克-安特卫普规则2016,insurance-claims,共同海损,published
 General Average Act,共同海损行为,insurance-claims,共同海损,published
 General Average Contribution,共同海损分摊,insurance-claims,共同海损,published
 General Average Bond,共同海损协议书,insurance-claims,共同海损,published
@@ -7821,101 +7821,101 @@ Assured,被保险人,insurance-claims,理赔实务,published
 Co-Assured,共同被保险人,insurance-claims,理赔实务,published
 Photographic Evidence,照片证据,insurance-claims,理赔实务,published
 Quantity Discrepancy,数量不符,insurance-claims,理赔实务,published
-Quality Discrepancy,质量不符,insurance-claims,理赔实务,pending
-Packing Damage,包装破损,insurance-claims,理赔实务,pending
-Wetting Damage,水湿损失,insurance-claims,理赔实务,pending
-Investigation Report,调查报告,insurance-claims,理赔实务,pending
-Liability Investigation,责任调查,insurance-claims,理赔实务,pending
-Carrier Liability Verification,承运人责任认定,insurance-claims,理赔实务,pending
-Letter of Protest,抗议函,insurance-claims,理赔实务,pending
-Letter of Undertaking,扣船担保函,insurance-claims,理赔实务,pending
-Security for Claims,索赔担保,insurance-claims,理赔实务,pending
-Settlement,理赔结案,insurance-claims,理赔实务,pending
-Full Settlement,全额赔付,insurance-claims,理赔实务,pending
-Partial Settlement,部分赔付,insurance-claims,理赔实务,pending
-Compromise Settlement,协商和解,insurance-claims,理赔实务,pending
-Claims Paid Amount,已付赔款,insurance-claims,理赔实务,pending
-Outstanding Claims,未决赔款,insurance-claims,理赔实务,pending
-Claims Reserve,赔款准备金,insurance-claims,理赔实务,pending
-Incurred but Not Reported,已发生未报告赔款,insurance-claims,理赔实务,pending
-Claims Frequency,出险频率,insurance-claims,理赔实务,pending
-Amount Claimed,索赔金额,insurance-claims,理赔实务,pending
-Claim Settlement Amount,赔付金额,insurance-claims,理赔实务,pending
-Depreciation Deduction,折旧扣减,insurance-claims,理赔实务,pending
-Replacement Cost,重置成本,insurance-claims,理赔实务,pending
-Open Policy,预约保险单,insurance-claims,投保实务,pending
-Floating Policy,流动保险单,insurance-claims,投保实务,pending
-Voyage Policy,航程保险单,insurance-claims,投保实务,pending
-Time Policy,定期保险单,insurance-claims,投保实务,pending
-Valued Policy,定值保险单,insurance-claims,投保实务,pending
-Unvalued Policy,不定值保险单,insurance-claims,投保实务,pending
-Mixed Policy,混合保险单,insurance-claims,投保实务,pending
-Annual Policy,年度保险单,insurance-claims,投保实务,pending
-Blanket Policy,总括保险单,insurance-claims,投保实务,pending
-Insurance Application,投保申请,insurance-claims,投保实务,pending
-Broker's Note,经纪人投保通知,insurance-claims,投保实务,pending
-Insurance Quotation,保险报价,insurance-claims,投保实务,pending
-Premium Payment,保费缴纳,insurance-claims,投保实务,pending
-Minimum Premium,最低保费,insurance-claims,投保实务,pending
-Adjustable Premium,可调保费,insurance-claims,投保实务,pending
-Declaration Under Open Cover,预约保险申报,insurance-claims,投保实务,pending
-Monthly Declaration,按月申报,insurance-claims,投保实务,pending
-Declaration of Shipment,出运申报,insurance-claims,投保实务,pending
-Duty of Disclosure,如实告知义务,insurance-claims,投保实务,pending
-Material Fact,重要事实,insurance-claims,投保实务,pending
-Misrepresentation,误述,insurance-claims,投保实务,pending
-Non-Disclosure,未告知,insurance-claims,投保实务,pending
-Insurance Warranty,保险合同保证,insurance-claims,投保实务,pending
-Coverage Confirmation,承保确认,insurance-claims,投保实务,pending
-Underwriting Decision,核保决定,insurance-claims,投保实务,pending
-Risk Survey,风险勘察,insurance-claims,投保实务,pending
-Risk Classification,风险分类,insurance-claims,投保实务,pending
-Special Acceptance,特殊承保,insurance-claims,投保实务,pending
-Declined Risk,拒保风险,insurance-claims,投保实务,pending
-Subject Matter Insured,保险标的,insurance-claims,投保实务,pending
-Insured Cargo Description,承保货物明细,insurance-claims,投保实务,pending
-Rating Basis,定价基础,insurance-claims,投保实务,pending
-Vessel Age Limitation,船龄限制,insurance-claims,投保实务,pending
-Banned Vessel List,禁用船舶名单,insurance-claims,投保实务,pending
-Banned Flag List,禁用船旗名单,insurance-claims,投保实务,pending
-Coverage Effective Date,保险起保日,insurance-claims,投保实务,pending
-Coverage Expiry Date,保险到期日,insurance-claims,投保实务,pending
-Policy Number,保险单号,insurance-claims,投保实务,pending
-Insurance Renewal,保险续保,insurance-claims,投保实务,pending
-Cancellation of Policy,保单注销,insurance-claims,投保实务,pending
-Weight-Based Limitation,重量责任限额,insurance-claims,责任限额,pending
-Special Drawing Right,特别提款权,insurance-claims,责任限额,pending
-666.67 SDR Per Package,每件666.67特别提款权,insurance-claims,责任限额,pending
-2 SDR Per Kilogram,每公斤2特别提款权,insurance-claims,责任限额,pending
-Higher Limitation by Declaration,申报价值提高限额,insurance-claims,责任限额,pending
-Declared Value,申报价值,insurance-claims,责任限额,pending
-Ad Valorem Declaration,从价申报,insurance-claims,责任限额,pending
-Carriage of Goods by Sea Act,海上货物运输法,insurance-claims,责任限额,pending
-COGSA 1971,英国1971年海上货物运输法,insurance-claims,责任限额,pending
-Multimodal Limitation,多式联运责任限额,insurance-claims,责任限额,pending
-Limitation of Liability for Maritime Claims,海事赔偿责任限制,insurance-claims,责任限额,pending
-Constitution of Limitation Fund,设立责任限制基金,insurance-claims,责任限额,pending
-Breaking of Limitation,责任限制丧失,insurance-claims,责任限额,pending
-Actual Fault or Privity,实际过失或知情,insurance-claims,责任限额,pending
-Willful Misconduct,故意不当行为,insurance-claims,责任限额,pending
-Reckless Conduct,轻率行为,insurance-claims,责任限额,pending
-Perils Exemption,危险免责,insurance-claims,责任限额,pending
-Contractual Carrier,契约承运人,insurance-claims,责任限额,pending
-Performing Party,履约方,insurance-claims,责任限额,pending
-Non-Vessel Operating Common Carrier,无船公共承运人,insurance-claims,责任限额,pending
-Freight Forwarder Liability,货运代理责任,insurance-claims,责任限额,pending
-Bailee Liability,受托保管责任,insurance-claims,责任限额,pending
-Warehouse Keeper Liability,仓储保管人责任,insurance-claims,责任限额,pending
-Terminal Operator Liability,码头经营人责任,insurance-claims,责任限额,pending
-Stevedore Liability,装卸工人责任,insurance-claims,责任限额,pending
-Fault of Carrier,承运人过失,insurance-claims,责任限额,pending
-Cargo Care Obligation,货物照管义务,insurance-claims,责任限额,pending
-Reasonable Despatch,合理速遣义务,insurance-claims,责任限额,pending
-Duty to Provide Seaworthy Vessel,适航义务,insurance-claims,责任限额,pending
-Cargoworthiness,适货性,insurance-claims,责任限额,pending
-Deviation Breach,绕航违约,insurance-claims,责任限额,pending
-Delay in Delivery Liability,迟延交付责任,insurance-claims,责任限额,pending
-Loss of or Damage to Cargo,货物灭失或损坏,insurance-claims,责任限额,pending
+Quality Discrepancy,质量不符,insurance-claims,理赔实务,published
+Packing Damage,包装破损,insurance-claims,理赔实务,published
+Wetting Damage,水湿损失,insurance-claims,理赔实务,published
+Investigation Report,调查报告,insurance-claims,理赔实务,published
+Liability Investigation,责任调查,insurance-claims,理赔实务,published
+Carrier Liability Verification,承运人责任认定,insurance-claims,理赔实务,published
+Letter of Protest,抗议函,insurance-claims,理赔实务,published
+Letter of Undertaking,扣船担保函,insurance-claims,理赔实务,published
+Security for Claims,索赔担保,insurance-claims,理赔实务,published
+Settlement,理赔结案,insurance-claims,理赔实务,published
+Full Settlement,全额赔付,insurance-claims,理赔实务,published
+Partial Settlement,部分赔付,insurance-claims,理赔实务,published
+Compromise Settlement,协商和解,insurance-claims,理赔实务,published
+Claims Paid Amount,已付赔款,insurance-claims,理赔实务,published
+Outstanding Claims,未决赔款,insurance-claims,理赔实务,published
+Claims Reserve,赔款准备金,insurance-claims,理赔实务,published
+Incurred but Not Reported,已发生未报告赔款,insurance-claims,理赔实务,published
+Claims Frequency,出险频率,insurance-claims,理赔实务,published
+Amount Claimed,索赔金额,insurance-claims,理赔实务,published
+Claim Settlement Amount,赔付金额,insurance-claims,理赔实务,published
+Depreciation Deduction,折旧扣减,insurance-claims,理赔实务,published
+Replacement Cost,重置成本,insurance-claims,理赔实务,published
+Open Policy,预约保险单,insurance-claims,投保实务,published
+Floating Policy,流动保险单,insurance-claims,投保实务,published
+Voyage Policy,航程保险单,insurance-claims,投保实务,published
+Time Policy,定期保险单,insurance-claims,投保实务,published
+Valued Policy,定值保险单,insurance-claims,投保实务,published
+Unvalued Policy,不定值保险单,insurance-claims,投保实务,published
+Mixed Policy,混合保险单,insurance-claims,投保实务,published
+Annual Policy,年度保险单,insurance-claims,投保实务,published
+Blanket Policy,总括保险单,insurance-claims,投保实务,published
+Insurance Application,投保申请,insurance-claims,投保实务,published
+Broker's Note,经纪人投保通知,insurance-claims,投保实务,published
+Insurance Quotation,保险报价,insurance-claims,投保实务,published
+Premium Payment,保费缴纳,insurance-claims,投保实务,published
+Minimum Premium,最低保费,insurance-claims,投保实务,published
+Adjustable Premium,可调保费,insurance-claims,投保实务,published
+Declaration Under Open Cover,预约保险申报,insurance-claims,投保实务,published
+Monthly Declaration,按月申报,insurance-claims,投保实务,published
+Declaration of Shipment,出运申报,insurance-claims,投保实务,published
+Duty of Disclosure,如实告知义务,insurance-claims,投保实务,published
+Material Fact,重要事实,insurance-claims,投保实务,published
+Misrepresentation,误述,insurance-claims,投保实务,published
+Non-Disclosure,未告知,insurance-claims,投保实务,published
+Insurance Warranty,保险合同保证,insurance-claims,投保实务,published
+Coverage Confirmation,承保确认,insurance-claims,投保实务,published
+Underwriting Decision,核保决定,insurance-claims,投保实务,published
+Risk Survey,风险勘察,insurance-claims,投保实务,published
+Risk Classification,风险分类,insurance-claims,投保实务,published
+Special Acceptance,特殊承保,insurance-claims,投保实务,published
+Declined Risk,拒保风险,insurance-claims,投保实务,published
+Subject Matter Insured,保险标的,insurance-claims,投保实务,published
+Insured Cargo Description,承保货物明细,insurance-claims,投保实务,published
+Rating Basis,定价基础,insurance-claims,投保实务,published
+Vessel Age Limitation,船龄限制,insurance-claims,投保实务,published
+Banned Vessel List,禁用船舶名单,insurance-claims,投保实务,published
+Banned Flag List,禁用船旗名单,insurance-claims,投保实务,published
+Coverage Effective Date,保险起保日,insurance-claims,投保实务,published
+Coverage Expiry Date,保险到期日,insurance-claims,投保实务,published
+Policy Number,保险单号,insurance-claims,投保实务,published
+Insurance Renewal,保险续保,insurance-claims,投保实务,published
+Cancellation of Policy,保单注销,insurance-claims,投保实务,published
+Weight-Based Limitation,重量责任限额,insurance-claims,责任限额,published
+Special Drawing Right,特别提款权,insurance-claims,责任限额,published
+666.67 SDR Per Package,每件666.67特别提款权,insurance-claims,责任限额,published
+2 SDR Per Kilogram,每公斤2特别提款权,insurance-claims,责任限额,published
+Higher Limitation by Declaration,申报价值提高限额,insurance-claims,责任限额,published
+Declared Value,申报价值,insurance-claims,责任限额,published
+Ad Valorem Declaration,从价申报,insurance-claims,责任限额,published
+Carriage of Goods by Sea Act,海上货物运输法,insurance-claims,责任限额,published
+COGSA 1971,英国1971年海上货物运输法,insurance-claims,责任限额,published
+Multimodal Limitation,多式联运责任限额,insurance-claims,责任限额,published
+Limitation of Liability for Maritime Claims,海事赔偿责任限制,insurance-claims,责任限额,published
+Constitution of Limitation Fund,设立责任限制基金,insurance-claims,责任限额,published
+Breaking of Limitation,责任限制丧失,insurance-claims,责任限额,published
+Actual Fault or Privity,实际过失或知情,insurance-claims,责任限额,published
+Willful Misconduct,故意不当行为,insurance-claims,责任限额,published
+Reckless Conduct,轻率行为,insurance-claims,责任限额,published
+Perils Exemption,危险免责,insurance-claims,责任限额,published
+Contractual Carrier,契约承运人,insurance-claims,责任限额,published
+Performing Party,履约方,insurance-claims,责任限额,published
+Non-Vessel Operating Common Carrier,无船公共承运人,insurance-claims,责任限额,published
+Freight Forwarder Liability,货运代理责任,insurance-claims,责任限额,published
+Bailee Liability,受托保管责任,insurance-claims,责任限额,published
+Warehouse Keeper Liability,仓储保管人责任,insurance-claims,责任限额,published
+Terminal Operator Liability,码头经营人责任,insurance-claims,责任限额,published
+Stevedore Liability,装卸工人责任,insurance-claims,责任限额,published
+Fault of Carrier,承运人过失,insurance-claims,责任限额,published
+Cargo Care Obligation,货物照管义务,insurance-claims,责任限额,published
+Reasonable Despatch,合理速遣义务,insurance-claims,责任限额,published
+Duty to Provide Seaworthy Vessel,适航义务,insurance-claims,责任限额,published
+Cargoworthiness,适货性,insurance-claims,责任限额,published
+Deviation Breach,绕航违约,insurance-claims,责任限额,published
+Delay in Delivery Liability,迟延交付责任,insurance-claims,责任限额,published
+Loss of or Damage to Cargo,货物灭失或损坏,insurance-claims,责任限额,published
 One Year Time Bar,一年诉讼时效,insurance-claims,责任限额,pending
 Two Year Time Bar,两年诉讼时效,insurance-claims,责任限额,pending
 Claim Notice Period,索赔通知期限,insurance-claims,责任限额,pending
