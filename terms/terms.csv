@@ -7724,103 +7724,103 @@ Error in Navigation,航行过失,insurance-claims,海上风险,published
 Barratry,船员恶意行为,insurance-claims,海上风险,pending
 Piracy,海盗行为,insurance-claims,海上风险,pending
 Armed Robbery at Sea,海上武装抢劫,insurance-claims,海上风险,pending
-Non-Delivery,提货不着,insurance-claims,海上风险,pending
-Loss of Package,整件灭失,insurance-claims,海上风险,pending
-Contact Damage,触碰损失,insurance-claims,海上风险,pending
-Contamination by Seawater,海水污染,insurance-claims,海上风险,pending
-Risk of Intermixture,混杂险,insurance-claims,附加险,pending
-Risk of Breakage,破碎险,insurance-claims,附加险,pending
-Risk of Mould,霉损险,insurance-claims,附加险,pending
-Risk of Chill Damage,冷藏冻损险,insurance-claims,附加险,pending
-Aflatoxin Risk,黄曲霉素险,insurance-claims,附加险,pending
+Non-Delivery,提货不着,insurance-claims,海上风险,published
+Loss of Package,整件灭失,insurance-claims,海上风险,published
+Contact Damage,触碰损失,insurance-claims,海上风险,published
+Contamination by Seawater,海水污染,insurance-claims,海上风险,published
+Risk of Intermixture,混杂险,insurance-claims,附加险,published
+Risk of Breakage,破碎险,insurance-claims,附加险,published
+Risk of Mould,霉损险,insurance-claims,附加险,published
+Risk of Chill Damage,冷藏冻损险,insurance-claims,附加险,published
+Aflatoxin Risk,黄曲霉素险,insurance-claims,附加险,published
 Failure to Deliver Risk,提货不着险,insurance-claims,附加险,pending
-Fire Risk Extension Clause,存仓火险扩展条款,insurance-claims,附加险,pending
-War on Deck Risk,舱面战争险,insurance-claims,附加险,pending
-Inland Transit Extension,内陆运输扩展,insurance-claims,附加险,pending
-Storage Extension,仓储责任扩展,insurance-claims,附加险,pending
-Reefer Machinery Breakdown Cover,冷藏机损扩展条款,insurance-claims,附加险,pending
-Temperature Control Endorsement,温控货物附加条款,insurance-claims,附加险,pending
-Fumigation Cost Coverage,熏蒸费用保障,insurance-claims,附加险,pending
-Survey Cost Coverage,检验费用保障,insurance-claims,附加险,pending
-Mitigation Expenses Cover,减损费用保障,insurance-claims,附加险,pending
-Diversion Expenses Cover,绕航改道费用保障,insurance-claims,附加险,pending
-Pair and Set Clause,成对成套条款,insurance-claims,附加险,pending
-Irrespective of Percentage Clause,不计免赔率条款,insurance-claims,附加险,pending
-Salvage Clause,救助条款,insurance-claims,附加险,pending
-Service of Suit Clause,诉讼管辖条款,insurance-claims,附加险,pending
-Governing Law Clause,适用法律条款,insurance-claims,附加险,pending
-Lashing Warranty,绑扎保证条款,insurance-claims,附加险,pending
-Pre-Cooling Warranty,预冷保证条款,insurance-claims,附加险,pending
-Best Industry Practice Warranty,最佳行业操作保证条款,insurance-claims,附加险,pending
-Charterparty Deviation Warranty,租船绕航保证条款,insurance-claims,附加险,pending
-Coinsurance Clause,共同保险条款,insurance-claims,附加险,pending
-Automatic Reinstatement Clause,自动恢复保额条款,insurance-claims,附加险,pending
-Loss Payee Clause,赔款受益人条款,insurance-claims,附加险,pending
-Additional Insured Endorsement,附加被保险人批单,insurance-claims,附加险,pending
-Currency Clause,赔付货币条款,insurance-claims,附加险,pending
-Interest Clause,利息条款,insurance-claims,附加险,pending
-Door to Door Cover,门到门承保,insurance-claims,附加险,pending
+Fire Risk Extension Clause,存仓火险扩展条款,insurance-claims,附加险,published
+War on Deck Risk,舱面战争险,insurance-claims,附加险,published
+Inland Transit Extension,内陆运输扩展,insurance-claims,附加险,published
+Storage Extension,仓储责任扩展,insurance-claims,附加险,published
+Reefer Machinery Breakdown Cover,冷藏机损扩展条款,insurance-claims,附加险,published
+Temperature Control Endorsement,温控货物附加条款,insurance-claims,附加险,published
+Fumigation Cost Coverage,熏蒸费用保障,insurance-claims,附加险,published
+Survey Cost Coverage,检验费用保障,insurance-claims,附加险,published
+Mitigation Expenses Cover,减损费用保障,insurance-claims,附加险,published
+Diversion Expenses Cover,绕航改道费用保障,insurance-claims,附加险,published
+Pair and Set Clause,成对成套条款,insurance-claims,附加险,published
+Irrespective of Percentage Clause,不计免赔率条款,insurance-claims,附加险,published
+Salvage Clause,救助条款,insurance-claims,附加险,published
+Service of Suit Clause,诉讼管辖条款,insurance-claims,附加险,published
+Governing Law Clause,适用法律条款,insurance-claims,附加险,published
+Lashing Warranty,绑扎保证条款,insurance-claims,附加险,published
+Pre-Cooling Warranty,预冷保证条款,insurance-claims,附加险,published
+Best Industry Practice Warranty,最佳行业操作保证条款,insurance-claims,附加险,published
+Charterparty Deviation Warranty,租船绕航保证条款,insurance-claims,附加险,published
+Coinsurance Clause,共同保险条款,insurance-claims,附加险,published
+Automatic Reinstatement Clause,自动恢复保额条款,insurance-claims,附加险,published
+Loss Payee Clause,赔款受益人条款,insurance-claims,附加险,published
+Additional Insured Endorsement,附加被保险人批单,insurance-claims,附加险,published
+Currency Clause,赔付货币条款,insurance-claims,附加险,published
+Interest Clause,利息条款,insurance-claims,附加险,published
+Door to Door Cover,门到门承保,insurance-claims,附加险,published
 York-Antwerp Rules 2016,约克-安特卫普规则2016,insurance-claims,共同海损,pending
-General Average Act,共同海损行为,insurance-claims,共同海损,pending
-General Average Contribution,共同海损分摊,insurance-claims,共同海损,pending
-General Average Bond,共同海损协议书,insurance-claims,共同海损,pending
-Adjustment Fee,理算费用,insurance-claims,共同海损,pending
-Jettison for Common Safety,为共同安全抛货,insurance-claims,共同海损,pending
-Voluntary Stranding,有意搁浅,insurance-claims,共同海损,pending
-Refloating Expenses,脱浅费用,insurance-claims,共同海损,pending
-Port of Refuge,避难港,insurance-claims,共同海损,pending
-Deviation to Port of Refuge,驶往避难港绕航,insurance-claims,共同海损,pending
-Port of Refuge Expenses,避难港费用,insurance-claims,共同海损,pending
-Discharge at Port of Refuge,避难港卸货,insurance-claims,共同海损,pending
-Reloading Expenses,重装费用,insurance-claims,共同海损,pending
-Temporary Repairs,临时修理,insurance-claims,共同海损,pending
-Permanent Repairs,永久修理,insurance-claims,共同海损,pending
-Cargo Removal for Repair,移货修理费用,insurance-claims,共同海损,pending
-Freight Sacrifice,运费牺牲,insurance-claims,共同海损,pending
-Contributory Value,分摊价值,insurance-claims,共同海损,pending
-Ship Contributory Value,船舶分摊价值,insurance-claims,共同海损,pending
-Cargo Contributory Value,货物分摊价值,insurance-claims,共同海损,pending
-Freight Contributory Value,运费分摊价值,insurance-claims,共同海损,pending
-Common Safety,共同安全,insurance-claims,共同海损,pending
-Common Maritime Adventure,海上共同航次,insurance-claims,共同海损,pending
-Extraordinary Sacrifice or Expenditure,特殊牺牲或费用,insurance-claims,共同海损,pending
-Flood Damage from Firefighting,灭火进水损失,insurance-claims,共同海损,pending
-Firefighting Expenses,灭火费用,insurance-claims,共同海损,pending
-Salvage Expenses,救助费用,insurance-claims,共同海损,pending
-Salvage Agreement,救助协议,insurance-claims,共同海损,pending
-Extended Sea Protest,补充海事声明,insurance-claims,共同海损,pending
-Noting Protest,海事声明签注,insurance-claims,共同海损,pending
-Casualty Investigation,海难事故调查,insurance-claims,共同海损,pending
-General Average Absorption Clause,共同海损吸收条款,insurance-claims,共同海损,pending
-Claim,索赔,insurance-claims,理赔实务,pending
-Claimant,索赔人,insurance-claims,理赔实务,pending
-Limitation Period,诉讼时效,insurance-claims,理赔实务,pending
-Claim Documents,索赔单证,insurance-claims,理赔实务,pending
-Claim Form,索赔申请书,insurance-claims,理赔实务,pending
-Claim File,索赔案卷,insurance-claims,理赔实务,pending
-Damaged Cargo List,残损清单,insurance-claims,理赔实务,pending
-Extent of Damage,损失程度,insurance-claims,理赔实务,pending
-Cause of Loss,损失原因,insurance-claims,理赔实务,pending
-Loss Event,保险事故,insurance-claims,理赔实务,pending
-Proximate Cause,近因,insurance-claims,理赔实务,pending
-Principle of Indemnity,损失补偿原则,insurance-claims,理赔实务,pending
-Principle of Insurable Interest,保险利益原则,insurance-claims,理赔实务,pending
-Principle of Utmost Good Faith,最大诚信原则,insurance-claims,理赔实务,pending
-Principle of Contribution,重复保险分摊原则,insurance-claims,理赔实务,pending
-Right of Subrogation,代位求偿权,insurance-claims,理赔实务,pending
-Subrogation Receipt,代位求偿收据,insurance-claims,理赔实务,pending
-Acceptance of Abandonment,接受委付,insurance-claims,理赔实务,pending
-Salvage Sale,残值处理,insurance-claims,理赔实务,pending
-Damaged Cargo Sale,残损货物变卖,insurance-claims,理赔实务,pending
-Claims Handler,理赔专员,insurance-claims,理赔实务,pending
-Claims Adjuster,理赔理算师,insurance-claims,理赔实务,pending
-Independent Adjuster,独立理算师,insurance-claims,理赔实务,pending
-Loss Assessor,损失评估师,insurance-claims,理赔实务,pending
-Insurance Agent,保险代理人,insurance-claims,理赔实务,pending
-Assured,被保险人,insurance-claims,理赔实务,pending
-Co-Assured,共同被保险人,insurance-claims,理赔实务,pending
-Photographic Evidence,照片证据,insurance-claims,理赔实务,pending
-Quantity Discrepancy,数量不符,insurance-claims,理赔实务,pending
+General Average Act,共同海损行为,insurance-claims,共同海损,published
+General Average Contribution,共同海损分摊,insurance-claims,共同海损,published
+General Average Bond,共同海损协议书,insurance-claims,共同海损,published
+Adjustment Fee,理算费用,insurance-claims,共同海损,published
+Jettison for Common Safety,为共同安全抛货,insurance-claims,共同海损,published
+Voluntary Stranding,有意搁浅,insurance-claims,共同海损,published
+Refloating Expenses,脱浅费用,insurance-claims,共同海损,published
+Port of Refuge,避难港,insurance-claims,共同海损,published
+Deviation to Port of Refuge,驶往避难港绕航,insurance-claims,共同海损,published
+Port of Refuge Expenses,避难港费用,insurance-claims,共同海损,published
+Discharge at Port of Refuge,避难港卸货,insurance-claims,共同海损,published
+Reloading Expenses,重装费用,insurance-claims,共同海损,published
+Temporary Repairs,临时修理,insurance-claims,共同海损,published
+Permanent Repairs,永久修理,insurance-claims,共同海损,published
+Cargo Removal for Repair,移货修理费用,insurance-claims,共同海损,published
+Freight Sacrifice,运费牺牲,insurance-claims,共同海损,published
+Contributory Value,分摊价值,insurance-claims,共同海损,published
+Ship Contributory Value,船舶分摊价值,insurance-claims,共同海损,published
+Cargo Contributory Value,货物分摊价值,insurance-claims,共同海损,published
+Freight Contributory Value,运费分摊价值,insurance-claims,共同海损,published
+Common Safety,共同安全,insurance-claims,共同海损,published
+Common Maritime Adventure,海上共同航次,insurance-claims,共同海损,published
+Extraordinary Sacrifice or Expenditure,特殊牺牲或费用,insurance-claims,共同海损,published
+Flood Damage from Firefighting,灭火进水损失,insurance-claims,共同海损,published
+Firefighting Expenses,灭火费用,insurance-claims,共同海损,published
+Salvage Expenses,救助费用,insurance-claims,共同海损,published
+Salvage Agreement,救助协议,insurance-claims,共同海损,published
+Extended Sea Protest,补充海事声明,insurance-claims,共同海损,published
+Noting Protest,海事声明签注,insurance-claims,共同海损,published
+Casualty Investigation,海难事故调查,insurance-claims,共同海损,published
+General Average Absorption Clause,共同海损吸收条款,insurance-claims,共同海损,published
+Claim,索赔,insurance-claims,理赔实务,published
+Claimant,索赔人,insurance-claims,理赔实务,published
+Limitation Period,诉讼时效,insurance-claims,理赔实务,published
+Claim Documents,索赔单证,insurance-claims,理赔实务,published
+Claim Form,索赔申请书,insurance-claims,理赔实务,published
+Claim File,索赔案卷,insurance-claims,理赔实务,published
+Damaged Cargo List,残损清单,insurance-claims,理赔实务,published
+Extent of Damage,损失程度,insurance-claims,理赔实务,published
+Cause of Loss,损失原因,insurance-claims,理赔实务,published
+Loss Event,保险事故,insurance-claims,理赔实务,published
+Proximate Cause,近因,insurance-claims,理赔实务,published
+Principle of Indemnity,损失补偿原则,insurance-claims,理赔实务,published
+Principle of Insurable Interest,保险利益原则,insurance-claims,理赔实务,published
+Principle of Utmost Good Faith,最大诚信原则,insurance-claims,理赔实务,published
+Principle of Contribution,重复保险分摊原则,insurance-claims,理赔实务,published
+Right of Subrogation,代位求偿权,insurance-claims,理赔实务,published
+Subrogation Receipt,代位求偿收据,insurance-claims,理赔实务,published
+Acceptance of Abandonment,接受委付,insurance-claims,理赔实务,published
+Salvage Sale,残值处理,insurance-claims,理赔实务,published
+Damaged Cargo Sale,残损货物变卖,insurance-claims,理赔实务,published
+Claims Handler,理赔专员,insurance-claims,理赔实务,published
+Claims Adjuster,理赔理算师,insurance-claims,理赔实务,published
+Independent Adjuster,独立理算师,insurance-claims,理赔实务,published
+Loss Assessor,损失评估师,insurance-claims,理赔实务,published
+Insurance Agent,保险代理人,insurance-claims,理赔实务,published
+Assured,被保险人,insurance-claims,理赔实务,published
+Co-Assured,共同被保险人,insurance-claims,理赔实务,published
+Photographic Evidence,照片证据,insurance-claims,理赔实务,published
+Quantity Discrepancy,数量不符,insurance-claims,理赔实务,published
 Quality Discrepancy,质量不符,insurance-claims,理赔实务,pending
 Packing Damage,包装破损,insurance-claims,理赔实务,pending
 Wetting Damage,水湿损失,insurance-claims,理赔实务,pending
