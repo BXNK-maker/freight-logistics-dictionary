@@ -7916,106 +7916,106 @@ Cargoworthiness,适货性,insurance-claims,责任限额,published
 Deviation Breach,绕航违约,insurance-claims,责任限额,published
 Delay in Delivery Liability,迟延交付责任,insurance-claims,责任限额,published
 Loss of or Damage to Cargo,货物灭失或损坏,insurance-claims,责任限额,published
-One Year Time Bar,一年诉讼时效,insurance-claims,责任限额,pending
-Two Year Time Bar,两年诉讼时效,insurance-claims,责任限额,pending
-Claim Notice Period,索赔通知期限,insurance-claims,责任限额,pending
-Harter Act,哈特法,insurance-claims,责任限额,pending
-Chinese Maritime Code,中国海商法,insurance-claims,责任限额,pending
-Protection and Indemnity Cover,保赔险承保范围,insurance-claims,责任限额,pending
-P&I Membership,保赔协会会员资格,insurance-claims,责任限额,pending
-P&I Rule,保赔协会规则,insurance-claims,责任限额,pending
-P&I Cover Note,保赔承保凭证,insurance-claims,责任限额,pending
-Mutual Insurance,互助保险,insurance-claims,责任限额,pending
-Pooling Agreement,联营协议,insurance-claims,责任限额,pending
-Overspill Arrangement,溢额分保安排,insurance-claims,责任限额,pending
-Excess of Loss Reinsurance,超赔分保,insurance-claims,责任限额,pending
-Cargo Contingency Cover,货物或有责任险,insurance-claims,责任限额,pending
-Improper Stowage,积载不当,insurance-claims,责任限额,pending
-Jason Clause,杰森条款,insurance-claims,责任限额,pending
-Integrated Business Planning (IBP),整合业务计划,supply-chain,计划体系,pending
-Supply Planning,供应计划,supply-chain,计划体系,pending
-Time Series Forecasting,时间序列预测,supply-chain,计划体系,pending
-Moving Average Forecast,移动平均预测,supply-chain,计划体系,pending
-Exponential Smoothing,指数平滑法,supply-chain,计划体系,pending
-Holt-Winters Model,霍尔特-温特斯模型,supply-chain,计划体系,pending
-ARIMA Model,ARIMA模型,supply-chain,计划体系,pending
-Machine Learning Forecasting,机器学习预测,supply-chain,计划体系,pending
-Causal Forecasting,因果预测法,supply-chain,计划体系,pending
-Baseline Demand,基线需求,supply-chain,计划体系,pending
-Demand Signal,需求信号,supply-chain,计划体系,pending
-Forecast Accuracy,预测准确率,supply-chain,计划体系,pending
-Mean Absolute Percentage Error (MAPE),平均绝对百分比误差,supply-chain,计划体系,pending
-Weighted Absolute Percentage Error (WAPE),加权绝对百分比误差,supply-chain,计划体系,pending
-Tracking Signal,跟踪信号,supply-chain,计划体系,pending
-Forecast Value Added (FVA),预测增值分析,supply-chain,计划体系,pending
-Demand Distortion,需求失真,supply-chain,计划体系,pending
-Order Batching,订单批量放大,supply-chain,计划体系,pending
-Forward Buying,提前购买,supply-chain,计划体系,pending
-Rationing Game,短缺博弈,supply-chain,计划体系,pending
-Price Fluctuation,价格波动,supply-chain,计划体系,pending
-Consensus Forecast,共识预测,supply-chain,计划体系,pending
-Sales Forecast,销售预测,supply-chain,计划体系,pending
-Statistical Forecast,统计预测,supply-chain,计划体系,pending
-Qualitative Forecasting,定性预测法,supply-chain,计划体系,pending
-Delphi Method,德尔菲法,supply-chain,计划体系,pending
-Market Survey Forecast,市场调查预测,supply-chain,计划体系,pending
-Leading Indicator Forecast,领先指标预测,supply-chain,计划体系,pending
-Master Production Schedule (MPS),主生产计划,supply-chain,计划体系,pending
-Manufacturing Resource Planning (MRP II),制造资源计划,supply-chain,计划体系,pending
-Rough-Cut Capacity Planning (RCCP),粗能力计划,supply-chain,计划体系,pending
-Capacity Requirements Planning (CRP),能力需求计划,supply-chain,计划体系,pending
-Advanced Planning and Scheduling (APS),高级计划与排程,supply-chain,计划体系,pending
-Finite Capacity Scheduling,有限产能排程,supply-chain,计划体系,pending
-Infinite Capacity Planning,无限产能计划,supply-chain,计划体系,pending
-Available-to-Promise (ATP),可承诺量,supply-chain,计划体系,pending
-Capable-to-Promise (CTP),可生产能力承诺,supply-chain,计划体系,pending
-Capable-to-Deliver,可交付能力承诺,supply-chain,计划体系,pending
-Multi-Level ATP,多层可承诺量,supply-chain,计划体系,pending
-Allocated ATP,分配可承诺量,supply-chain,计划体系,pending
-Planning Horizon,计划展望期,supply-chain,计划体系,pending
-Firm Zone,固定期,supply-chain,计划体系,pending
-Slushy Zone,半冻结期,supply-chain,计划体系,pending
-Time Fence,时界,supply-chain,计划体系,pending
-Demand Time Fence (DTF),需求时界,supply-chain,计划体系,pending
-Planning Time Fence (PTF),计划时界,supply-chain,计划体系,pending
-Bucketless Planning,无时段计划,supply-chain,计划体系,pending
-Lot-for-Lot,按需订货法,supply-chain,计划体系,pending
-Period Order Quantity,期间订货量法,supply-chain,计划体系,pending
-Part Period Balancing,部件期间平衡法,supply-chain,计划体系,pending
-Least Unit Cost,最小单位成本法,supply-chain,计划体系,pending
-Silver-Meal Heuristic,银餐启发式算法,supply-chain,计划体系,pending
-Wagner-Whitin Algorithm,瓦格纳-惠廷算法,supply-chain,计划体系,pending
-Drum-Buffer-Rope (DBR),鼓-缓冲-绳法,supply-chain,计划体系,pending
-Theory of Constraints (TOC),约束理论,supply-chain,计划体系,pending
-Weekly S&OP Meeting,周度产销协同会议,supply-chain,计划体系,pending
-Demand Review,需求评审会,supply-chain,计划体系,pending
-Supply Review,供应评审会,supply-chain,计划体系,pending
-Reconciliation Meeting,协同平衡会议,supply-chain,计划体系,pending
-Executive S&OP,高层产销协同决策会,supply-chain,计划体系,pending
-Planning Bucket,计划时段,supply-chain,计划体系,pending
-Safety Lead Time,安全提前期,supply-chain,计划体系,pending
-Planned Order,计划订单,supply-chain,计划体系,pending
-Firm Planned Order,确认计划订单,supply-chain,计划体系,pending
-Scheduled Receipt,在途接收量,supply-chain,计划体系,pending
-Projected On-Hand Inventory,预计可用库存,supply-chain,计划体系,pending
-Net Requirements,净需求,supply-chain,计划体系,pending
-Gross Requirements,毛需求,supply-chain,计划体系,pending
-Pegging,需求溯源,supply-chain,计划体系,pending
-Where-Used Report,用途追溯报表,supply-chain,计划体系,pending
-Low-Level Code,低位码,supply-chain,计划体系,pending
-Planning Bill of Material,计划物料清单,supply-chain,计划体系,pending
-Super Bill,超级物料清单,supply-chain,计划体系,pending
-Two-Level Master Scheduling,两级主计划,supply-chain,计划体系,pending
-Final Assembly Schedule (FAS),最终装配计划,supply-chain,计划体系,pending
-New Product Introduction Planning,新品导入计划,supply-chain,计划体系,pending
-Seasonal Profile,季节性曲线,supply-chain,计划体系,pending
-Calendarization,预测日历化,supply-chain,计划体系,pending
-Top-Down Forecast,自上而下预测,supply-chain,计划体系,pending
-Bottom-Up Forecast,自下而上预测,supply-chain,计划体系,pending
-Out-of-Sample Testing,样本外测试,supply-chain,计划体系,pending
-Forecastability Analysis,需求可预测性分析,supply-chain,计划体系,pending
-Intermittent Demand Forecasting,间歇性需求预测,supply-chain,计划体系,pending
-Croston's Method,克罗斯顿法,supply-chain,计划体系,pending
+One Year Time Bar,一年诉讼时效,insurance-claims,责任限额,published
+Two Year Time Bar,两年诉讼时效,insurance-claims,责任限额,published
+Claim Notice Period,索赔通知期限,insurance-claims,责任限额,published
+Harter Act,哈特法,insurance-claims,责任限额,published
+Chinese Maritime Code,中国海商法,insurance-claims,责任限额,published
+Protection and Indemnity Cover,保赔险承保范围,insurance-claims,责任限额,published
+P&I Membership,保赔协会会员资格,insurance-claims,责任限额,published
+P&I Rule,保赔协会规则,insurance-claims,责任限额,published
+P&I Cover Note,保赔承保凭证,insurance-claims,责任限额,published
+Mutual Insurance,互助保险,insurance-claims,责任限额,published
+Pooling Agreement,联营协议,insurance-claims,责任限额,published
+Overspill Arrangement,溢额分保安排,insurance-claims,责任限额,published
+Excess of Loss Reinsurance,超赔分保,insurance-claims,责任限额,published
+Cargo Contingency Cover,货物或有责任险,insurance-claims,责任限额,published
+Improper Stowage,积载不当,insurance-claims,责任限额,published
+Jason Clause,杰森条款,insurance-claims,责任限额,published
+Integrated Business Planning (IBP),整合业务计划,supply-chain,计划体系,published
+Supply Planning,供应计划,supply-chain,计划体系,published
+Time Series Forecasting,时间序列预测,supply-chain,计划体系,published
+Moving Average Forecast,移动平均预测,supply-chain,计划体系,published
+Exponential Smoothing,指数平滑法,supply-chain,计划体系,published
+Holt-Winters Model,霍尔特-温特斯模型,supply-chain,计划体系,published
+ARIMA Model,ARIMA模型,supply-chain,计划体系,published
+Machine Learning Forecasting,机器学习预测,supply-chain,计划体系,published
+Causal Forecasting,因果预测法,supply-chain,计划体系,published
+Baseline Demand,基线需求,supply-chain,计划体系,published
+Demand Signal,需求信号,supply-chain,计划体系,published
+Forecast Accuracy,预测准确率,supply-chain,计划体系,published
+Mean Absolute Percentage Error (MAPE),平均绝对百分比误差,supply-chain,计划体系,published
+Weighted Absolute Percentage Error (WAPE),加权绝对百分比误差,supply-chain,计划体系,published
+Tracking Signal,跟踪信号,supply-chain,计划体系,published
+Forecast Value Added (FVA),预测增值分析,supply-chain,计划体系,published
+Demand Distortion,需求失真,supply-chain,计划体系,published
+Order Batching,订单批量放大,supply-chain,计划体系,published
+Forward Buying,提前购买,supply-chain,计划体系,published
+Rationing Game,短缺博弈,supply-chain,计划体系,published
+Price Fluctuation,价格波动,supply-chain,计划体系,published
+Consensus Forecast,共识预测,supply-chain,计划体系,published
+Sales Forecast,销售预测,supply-chain,计划体系,published
+Statistical Forecast,统计预测,supply-chain,计划体系,published
+Qualitative Forecasting,定性预测法,supply-chain,计划体系,published
+Delphi Method,德尔菲法,supply-chain,计划体系,published
+Market Survey Forecast,市场调查预测,supply-chain,计划体系,published
+Leading Indicator Forecast,领先指标预测,supply-chain,计划体系,published
+Master Production Schedule (MPS),主生产计划,supply-chain,计划体系,published
+Manufacturing Resource Planning (MRP II),制造资源计划,supply-chain,计划体系,published
+Rough-Cut Capacity Planning (RCCP),粗能力计划,supply-chain,计划体系,published
+Capacity Requirements Planning (CRP),能力需求计划,supply-chain,计划体系,published
+Advanced Planning and Scheduling (APS),高级计划与排程,supply-chain,计划体系,published
+Finite Capacity Scheduling,有限产能排程,supply-chain,计划体系,published
+Infinite Capacity Planning,无限产能计划,supply-chain,计划体系,published
+Available-to-Promise (ATP),可承诺量,supply-chain,计划体系,published
+Capable-to-Promise (CTP),可生产能力承诺,supply-chain,计划体系,published
+Capable-to-Deliver,可交付能力承诺,supply-chain,计划体系,published
+Multi-Level ATP,多层可承诺量,supply-chain,计划体系,published
+Allocated ATP,分配可承诺量,supply-chain,计划体系,published
+Planning Horizon,计划展望期,supply-chain,计划体系,published
+Firm Zone,固定期,supply-chain,计划体系,published
+Slushy Zone,半冻结期,supply-chain,计划体系,published
+Time Fence,时界,supply-chain,计划体系,published
+Demand Time Fence (DTF),需求时界,supply-chain,计划体系,published
+Planning Time Fence (PTF),计划时界,supply-chain,计划体系,published
+Bucketless Planning,无时段计划,supply-chain,计划体系,published
+Lot-for-Lot,按需订货法,supply-chain,计划体系,published
+Period Order Quantity,期间订货量法,supply-chain,计划体系,published
+Part Period Balancing,部件期间平衡法,supply-chain,计划体系,published
+Least Unit Cost,最小单位成本法,supply-chain,计划体系,published
+Silver-Meal Heuristic,银餐启发式算法,supply-chain,计划体系,published
+Wagner-Whitin Algorithm,瓦格纳-惠廷算法,supply-chain,计划体系,published
+Drum-Buffer-Rope (DBR),鼓-缓冲-绳法,supply-chain,计划体系,published
+Theory of Constraints (TOC),约束理论,supply-chain,计划体系,published
+Weekly S&OP Meeting,周度产销协同会议,supply-chain,计划体系,published
+Demand Review,需求评审会,supply-chain,计划体系,published
+Supply Review,供应评审会,supply-chain,计划体系,published
+Reconciliation Meeting,协同平衡会议,supply-chain,计划体系,published
+Executive S&OP,高层产销协同决策会,supply-chain,计划体系,published
+Planning Bucket,计划时段,supply-chain,计划体系,published
+Safety Lead Time,安全提前期,supply-chain,计划体系,published
+Planned Order,计划订单,supply-chain,计划体系,published
+Firm Planned Order,确认计划订单,supply-chain,计划体系,published
+Scheduled Receipt,在途接收量,supply-chain,计划体系,published
+Projected On-Hand Inventory,预计可用库存,supply-chain,计划体系,published
+Net Requirements,净需求,supply-chain,计划体系,published
+Gross Requirements,毛需求,supply-chain,计划体系,published
+Pegging,需求溯源,supply-chain,计划体系,published
+Where-Used Report,用途追溯报表,supply-chain,计划体系,published
+Low-Level Code,低位码,supply-chain,计划体系,published
+Planning Bill of Material,计划物料清单,supply-chain,计划体系,published
+Super Bill,超级物料清单,supply-chain,计划体系,published
+Two-Level Master Scheduling,两级主计划,supply-chain,计划体系,published
+Final Assembly Schedule (FAS),最终装配计划,supply-chain,计划体系,published
+New Product Introduction Planning,新品导入计划,supply-chain,计划体系,published
+Seasonal Profile,季节性曲线,supply-chain,计划体系,published
+Calendarization,预测日历化,supply-chain,计划体系,published
+Top-Down Forecast,自上而下预测,supply-chain,计划体系,published
+Bottom-Up Forecast,自下而上预测,supply-chain,计划体系,published
+Out-of-Sample Testing,样本外测试,supply-chain,计划体系,published
+Forecastability Analysis,需求可预测性分析,supply-chain,计划体系,published
+Intermittent Demand Forecasting,间歇性需求预测,supply-chain,计划体系,published
+Croston's Method,克罗斯顿法,supply-chain,计划体系,published
 Lifecycle Modeling,生命周期建模,supply-chain,计划体系,pending
 What-If Simulation,假设情景模拟,supply-chain,计划体系,pending
 Strategic Sourcing,战略寻源,supply-chain,采购管理,pending
