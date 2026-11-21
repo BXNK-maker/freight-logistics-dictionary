@@ -8214,106 +8214,106 @@ Lines Picked per Hour,每小时拣货行数,supply-chain,绩效指标,published
 Throughput,吞吐量,supply-chain,绩效指标,published
 Balanced Scorecard,平衡计分卡,supply-chain,绩效指标,published
 Key Performance Indicator (KPI),关键绩效指标,supply-chain,绩效指标,published
-Supply Chain Maturity Model,供应链成熟度模型,supply-chain,绩效指标,pending
-Value Stream Mapping,价值流图析,supply-chain,绩效指标,pending
-Overall Equipment Effectiveness (OEE),设备综合效率,supply-chain,绩效指标,pending
-Total Landed Cost,总到岸成本,supply-chain,绩效指标,pending
-Lean Supply Chain,精益供应链,supply-chain,绩效指标,pending
-Supply Chain Vulnerability,供应链脆弱性,supply-chain,风险管理,pending
-Risk Exposure,风险敞口,supply-chain,风险管理,pending
-Risk Assessment Matrix,风险评估矩阵,supply-chain,风险管理,pending
-Probability-Impact Matrix,概率-影响矩阵,supply-chain,风险管理,pending
-Failure Mode and Effects Analysis (FMEA),失效模式与影响分析,supply-chain,风险管理,pending
-Disaster Recovery,灾难恢复,supply-chain,风险管理,pending
-Single Point of Failure,单点故障,supply-chain,风险管理,pending
-Choke Point,瓶颈要道,supply-chain,风险管理,pending
-Panama Canal Draft Restriction,巴拿马运河吃水限制,supply-chain,风险管理,pending
-Red Sea Rerouting,红海绕航,supply-chain,风险管理,pending
-Geopolitical Risk,地缘政治风险,supply-chain,风险管理,pending
-Trade Sanctions Compliance,贸易制裁合规,supply-chain,风险管理,pending
-Tariff Risk,关税风险,supply-chain,风险管理,pending
-Trade War Impact,贸易战影响,supply-chain,风险管理,pending
-China Plus One,中国+1战略,supply-chain,风险管理,pending
-Just-in-Case Strategy,以防万一策略,supply-chain,风险管理,pending
-De-Risking,去风险化,supply-chain,风险管理,pending
-Supply Base Diversification,供应基础多元化,supply-chain,风险管理,pending
-Supplier Bankruptcy Monitoring,供应商破产监控,supply-chain,风险管理,pending
-Multi-Tier Supply Chain Visibility,多级供应链可视性,supply-chain,风险管理,pending
-N-Tier Mapping,N级供应图谱,supply-chain,风险管理,pending
-Sub-Tier Supplier Risk,下级供应商风险,supply-chain,风险管理,pending
-Cyber Supply Chain Risk,供应链网络安全风险,supply-chain,风险管理,pending
-Logistics Disruption,物流中断,supply-chain,风险管理,pending
-Berth Waiting Time,泊位等待时间,supply-chain,风险管理,pending
-Labor Strike Risk,码头罢工风险,supply-chain,风险管理,pending
-Pandemic Disruption,疫情中断,supply-chain,风险管理,pending
-Natural Disaster Risk,自然灾害风险,supply-chain,风险管理,pending
-Extreme Weather Disruption,极端天气中断,supply-chain,风险管理,pending
-Climate Risk Exposure,气候风险敞口,supply-chain,风险管理,pending
-Demand Shock,需求冲击,supply-chain,风险管理,pending
-Supply Shock,供给冲击,supply-chain,风险管理,pending
-Disruption Recovery Time,中断恢复时间,supply-chain,风险管理,pending
-Time-to-Recover (TTR),恢复时间,supply-chain,风险管理,pending
-Time-to-Survive (TTS),存续时间,supply-chain,风险管理,pending
-Risk Quantification,风险量化,supply-chain,风险管理,pending
-Risk Mitigation,风险缓释,supply-chain,风险管理,pending
-Trade Credit Insurance,贸易信用保险,supply-chain,风险管理,pending
-Supply Chain Insurance,供应链保险,supply-chain,风险管理,pending
-Stress Testing,压力测试,supply-chain,风险管理,pending
-Backup Supplier Qualification,备用供应商认证,supply-chain,风险管理,pending
-Carbon Footprint,碳足迹,supply-chain,可持续物流,pending
-CO2 Equivalent (CO2e),二氧化碳当量,supply-chain,可持续物流,pending
-Net Zero,净零排放,supply-chain,可持续物流,pending
-Carbon Neutrality,碳中和,supply-chain,可持续物流,pending
-Carbon Intensity,碳强度,supply-chain,可持续物流,pending
-Carbon Border Adjustment Mechanism (CBAM),碳边境调节机制,supply-chain,可持续物流,pending
-Emissions Trading System (ETS),碳排放交易体系,supply-chain,可持续物流,pending
-Carbon Credit,碳信用,supply-chain,可持续物流,pending
-Carbon Offset,碳抵消,supply-chain,可持续物流,pending
-Insetting,价值链内减排,supply-chain,可持续物流,pending
-Internal Carbon Pricing,内部碳定价,supply-chain,可持续物流,pending
-Green Freight Program,绿色货运计划,supply-chain,可持续物流,pending
-SmartWay Program,智慧货运认证计划,supply-chain,可持续物流,pending
-Clean Truck Program,清洁卡车计划,supply-chain,可持续物流,pending
-Electric Truck,电动卡车,supply-chain,可持续物流,pending
-Battery Electric Vehicle (BEV),纯电动汽车,supply-chain,可持续物流,pending
-Fuel Cell Electric Vehicle (FCEV),燃料电池汽车,supply-chain,可持续物流,pending
-Hydrogen Refueling Station,加氢站,supply-chain,可持续物流,pending
-LNG Bunker Fuel,LNG船用燃料,supply-chain,可持续物流,pending
-Green Ammonia Fuel,绿氨燃料,supply-chain,可持续物流,pending
-Biofuel,生物燃料,supply-chain,可持续物流,pending
-Sustainable Aviation Fuel (SAF),可持续航空燃料,supply-chain,可持续物流,pending
-Biodiesel,生物柴油,supply-chain,可持续物流,pending
-HVO Diesel,加氢植物油柴油,supply-chain,可持续物流,pending
-E-Fuel,电制燃料,supply-chain,可持续物流,pending
-Zero-Emission Vessel,零排放船舶,supply-chain,可持续物流,pending
-CII Rating,碳强度指标评级,supply-chain,可持续物流,pending
-IMO 2050 Decarbonization,国际海事组织2050脱碳目标,supply-chain,可持续物流,pending
-EU ETS for Maritime,欧盟航运碳交易,supply-chain,可持续物流,pending
-ESG Reporting,ESG报告,supply-chain,可持续物流,pending
-ESG Rating,ESG评级,supply-chain,可持续物流,pending
-CSRD Directive,欧盟企业可持续发展报告指令,supply-chain,可持续物流,pending
-Sustainability Disclosure,可持续信息披露,supply-chain,可持续物流,pending
-Circular Packaging,循环包装,supply-chain,可持续物流,pending
-Returnable Transport Item (RTI),可循环运输器具,supply-chain,可持续物流,pending
-Reusable Pallet,可循环托盘,supply-chain,可持续物流,pending
-Pallet Pooling,托盘共用,supply-chain,可持续物流,pending
-Reusable Plastic Crate,可循环塑料周转箱,supply-chain,可持续物流,pending
-Packaging Waste Regulation,包装废弃物法规,supply-chain,可持续物流,pending
-Extended Producer Responsibility (EPR),生产者责任延伸,supply-chain,可持续物流,pending
-Product Lifecycle Assessment (LCA),产品生命周期评估,supply-chain,可持续物流,pending
-Cradle-to-Gate Assessment,摇篮到大门评估,supply-chain,可持续物流,pending
-Rooftop Solar Logistics Park,物流园区屋顶光伏,supply-chain,可持续物流,pending
-Rail Freight Decarbonization,铁路货运脱碳,supply-chain,可持续物流,pending
-Urban Consolidation Center,城市集配中心,supply-chain,可持续物流,pending
-Low Emission Zone (LEZ),低排放区,supply-chain,可持续物流,pending
-Supplier Carbon Disclosure,供应商碳信息披露,supply-chain,可持续物流,pending
-Digital Freight Platform,数字货运平台,digital-logistics,物流平台,pending
-Truckload Marketplace,整车货运平台,digital-logistics,物流平台,pending
-Freight Bidding Platform,货运竞价平台,digital-logistics,物流平台,pending
-Freight Rate Benchmarking,运价基准对标,digital-logistics,物流平台,pending
-Dynamic Pricing,动态定价,digital-logistics,物流平台,pending
-Surge Pricing,动态加价,digital-logistics,物流平台,pending
-On-Demand Trucking,即时货运,digital-logistics,物流平台,pending
+Supply Chain Maturity Model,供应链成熟度模型,supply-chain,绩效指标,published
+Value Stream Mapping,价值流图析,supply-chain,绩效指标,published
+Overall Equipment Effectiveness (OEE),设备综合效率,supply-chain,绩效指标,published
+Total Landed Cost,总到岸成本,supply-chain,绩效指标,published
+Lean Supply Chain,精益供应链,supply-chain,绩效指标,published
+Supply Chain Vulnerability,供应链脆弱性,supply-chain,风险管理,published
+Risk Exposure,风险敞口,supply-chain,风险管理,published
+Risk Assessment Matrix,风险评估矩阵,supply-chain,风险管理,published
+Probability-Impact Matrix,概率-影响矩阵,supply-chain,风险管理,published
+Failure Mode and Effects Analysis (FMEA),失效模式与影响分析,supply-chain,风险管理,published
+Disaster Recovery,灾难恢复,supply-chain,风险管理,published
+Single Point of Failure,单点故障,supply-chain,风险管理,published
+Choke Point,瓶颈要道,supply-chain,风险管理,published
+Panama Canal Draft Restriction,巴拿马运河吃水限制,supply-chain,风险管理,published
+Red Sea Rerouting,红海绕航,supply-chain,风险管理,published
+Geopolitical Risk,地缘政治风险,supply-chain,风险管理,published
+Trade Sanctions Compliance,贸易制裁合规,supply-chain,风险管理,published
+Tariff Risk,关税风险,supply-chain,风险管理,published
+Trade War Impact,贸易战影响,supply-chain,风险管理,published
+China Plus One,中国+1战略,supply-chain,风险管理,published
+Just-in-Case Strategy,以防万一策略,supply-chain,风险管理,published
+De-Risking,去风险化,supply-chain,风险管理,published
+Supply Base Diversification,供应基础多元化,supply-chain,风险管理,published
+Supplier Bankruptcy Monitoring,供应商破产监控,supply-chain,风险管理,published
+Multi-Tier Supply Chain Visibility,多级供应链可视性,supply-chain,风险管理,published
+N-Tier Mapping,N级供应图谱,supply-chain,风险管理,published
+Sub-Tier Supplier Risk,下级供应商风险,supply-chain,风险管理,published
+Cyber Supply Chain Risk,供应链网络安全风险,supply-chain,风险管理,published
+Logistics Disruption,物流中断,supply-chain,风险管理,published
+Berth Waiting Time,泊位等待时间,supply-chain,风险管理,published
+Labor Strike Risk,码头罢工风险,supply-chain,风险管理,published
+Pandemic Disruption,疫情中断,supply-chain,风险管理,published
+Natural Disaster Risk,自然灾害风险,supply-chain,风险管理,published
+Extreme Weather Disruption,极端天气中断,supply-chain,风险管理,published
+Climate Risk Exposure,气候风险敞口,supply-chain,风险管理,published
+Demand Shock,需求冲击,supply-chain,风险管理,published
+Supply Shock,供给冲击,supply-chain,风险管理,published
+Disruption Recovery Time,中断恢复时间,supply-chain,风险管理,published
+Time-to-Recover (TTR),恢复时间,supply-chain,风险管理,published
+Time-to-Survive (TTS),存续时间,supply-chain,风险管理,published
+Risk Quantification,风险量化,supply-chain,风险管理,published
+Risk Mitigation,风险缓释,supply-chain,风险管理,published
+Trade Credit Insurance,贸易信用保险,supply-chain,风险管理,published
+Supply Chain Insurance,供应链保险,supply-chain,风险管理,published
+Stress Testing,压力测试,supply-chain,风险管理,published
+Backup Supplier Qualification,备用供应商认证,supply-chain,风险管理,published
+Carbon Footprint,碳足迹,supply-chain,可持续物流,published
+CO2 Equivalent (CO2e),二氧化碳当量,supply-chain,可持续物流,published
+Net Zero,净零排放,supply-chain,可持续物流,published
+Carbon Neutrality,碳中和,supply-chain,可持续物流,published
+Carbon Intensity,碳强度,supply-chain,可持续物流,published
+Carbon Border Adjustment Mechanism (CBAM),碳边境调节机制,supply-chain,可持续物流,published
+Emissions Trading System (ETS),碳排放交易体系,supply-chain,可持续物流,published
+Carbon Credit,碳信用,supply-chain,可持续物流,published
+Carbon Offset,碳抵消,supply-chain,可持续物流,published
+Insetting,价值链内减排,supply-chain,可持续物流,published
+Internal Carbon Pricing,内部碳定价,supply-chain,可持续物流,published
+Green Freight Program,绿色货运计划,supply-chain,可持续物流,published
+SmartWay Program,智慧货运认证计划,supply-chain,可持续物流,published
+Clean Truck Program,清洁卡车计划,supply-chain,可持续物流,published
+Electric Truck,电动卡车,supply-chain,可持续物流,published
+Battery Electric Vehicle (BEV),纯电动汽车,supply-chain,可持续物流,published
+Fuel Cell Electric Vehicle (FCEV),燃料电池汽车,supply-chain,可持续物流,published
+Hydrogen Refueling Station,加氢站,supply-chain,可持续物流,published
+LNG Bunker Fuel,LNG船用燃料,supply-chain,可持续物流,published
+Green Ammonia Fuel,绿氨燃料,supply-chain,可持续物流,published
+Biofuel,生物燃料,supply-chain,可持续物流,published
+Sustainable Aviation Fuel (SAF),可持续航空燃料,supply-chain,可持续物流,published
+Biodiesel,生物柴油,supply-chain,可持续物流,published
+HVO Diesel,加氢植物油柴油,supply-chain,可持续物流,published
+E-Fuel,电制燃料,supply-chain,可持续物流,published
+Zero-Emission Vessel,零排放船舶,supply-chain,可持续物流,published
+CII Rating,碳强度指标评级,supply-chain,可持续物流,published
+IMO 2050 Decarbonization,国际海事组织2050脱碳目标,supply-chain,可持续物流,published
+EU ETS for Maritime,欧盟航运碳交易,supply-chain,可持续物流,published
+ESG Reporting,ESG报告,supply-chain,可持续物流,published
+ESG Rating,ESG评级,supply-chain,可持续物流,published
+CSRD Directive,欧盟企业可持续发展报告指令,supply-chain,可持续物流,published
+Sustainability Disclosure,可持续信息披露,supply-chain,可持续物流,published
+Circular Packaging,循环包装,supply-chain,可持续物流,published
+Returnable Transport Item (RTI),可循环运输器具,supply-chain,可持续物流,published
+Reusable Pallet,可循环托盘,supply-chain,可持续物流,published
+Pallet Pooling,托盘共用,supply-chain,可持续物流,published
+Reusable Plastic Crate,可循环塑料周转箱,supply-chain,可持续物流,published
+Packaging Waste Regulation,包装废弃物法规,supply-chain,可持续物流,published
+Extended Producer Responsibility (EPR),生产者责任延伸,supply-chain,可持续物流,published
+Product Lifecycle Assessment (LCA),产品生命周期评估,supply-chain,可持续物流,published
+Cradle-to-Gate Assessment,摇篮到大门评估,supply-chain,可持续物流,published
+Rooftop Solar Logistics Park,物流园区屋顶光伏,supply-chain,可持续物流,published
+Rail Freight Decarbonization,铁路货运脱碳,supply-chain,可持续物流,published
+Urban Consolidation Center,城市集配中心,supply-chain,可持续物流,published
+Low Emission Zone (LEZ),低排放区,supply-chain,可持续物流,published
+Supplier Carbon Disclosure,供应商碳信息披露,supply-chain,可持续物流,published
+Digital Freight Platform,数字货运平台,digital-logistics,物流平台,published
+Truckload Marketplace,整车货运平台,digital-logistics,物流平台,published
+Freight Bidding Platform,货运竞价平台,digital-logistics,物流平台,published
+Freight Rate Benchmarking,运价基准对标,digital-logistics,物流平台,published
+Dynamic Pricing,动态定价,digital-logistics,物流平台,published
+Surge Pricing,动态加价,digital-logistics,物流平台,published
+On-Demand Trucking,即时货运,digital-logistics,物流平台,published
 Digital Freight Forwarder,数字货代,digital-logistics,物流平台,pending
 Booking Platform,订舱平台,digital-logistics,物流平台,pending
 Online Booking,在线订舱,digital-logistics,物流平台,pending
