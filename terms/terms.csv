@@ -8314,106 +8314,106 @@ Freight Rate Benchmarking,运价基准对标,digital-logistics,物流平台,publ
 Dynamic Pricing,动态定价,digital-logistics,物流平台,published
 Surge Pricing,动态加价,digital-logistics,物流平台,published
 On-Demand Trucking,即时货运,digital-logistics,物流平台,published
-Digital Freight Forwarder,数字货代,digital-logistics,物流平台,pending
-Booking Platform,订舱平台,digital-logistics,物流平台,pending
-Online Booking,在线订舱,digital-logistics,物流平台,pending
-Instant Booking,即时订舱,digital-logistics,物流平台,pending
-Freight Quote Engine,运费报价引擎,digital-logistics,物流平台,pending
-Carrier Network,承运商网络,digital-logistics,物流平台,pending
-Carrier Onboarding,承运商入驻,digital-logistics,物流平台,pending
-Carrier Procurement,承运商采购,digital-logistics,物流平台,pending
-Transportation Bid Optimization,运输招标优化,digital-logistics,物流平台,pending
-Shipper of Choice,首选货主,digital-logistics,物流平台,pending
-Shipper-Carrier Collaboration,货主承运商协同,digital-logistics,物流平台,pending
-Brokerage Platform,经纪平台,digital-logistics,物流平台,pending
-Virtual Freight Forwarding,虚拟货代,digital-logistics,物流平台,pending
-Two-Sided Platform,双边平台,digital-logistics,物流平台,pending
-Platform Economy,平台经济,digital-logistics,物流平台,pending
-Sharing Economy Logistics,共享经济物流,digital-logistics,物流平台,pending
-Crowdsourced Trucking,众包货运,digital-logistics,物流平台,pending
-Gig Economy Driver,零工司机,digital-logistics,物流平台,pending
-Mobile Freight App,移动货运应用,digital-logistics,物流平台,pending
-Unified Payment Platform,统一结算平台,digital-logistics,物流平台,pending
-Freight Payment,货运支付,digital-logistics,物流平台,pending
-Freight Bill Payment,运费支付,digital-logistics,物流平台,pending
-Rate Dispute Management,运价争议处理,digital-logistics,物流平台,pending
-Bunker Adjustment Factor (BAF),燃油调整系数,digital-logistics,物流平台,pending
-Currency Adjustment Factor (CAF),币值附加费,digital-logistics,物流平台,pending
-NMFC Code,美国货运分类代码,digital-logistics,物流平台,pending
-LTL Platform,零担货运平台,digital-logistics,物流平台,pending
-Container Leasing Platform,集装箱租赁平台,digital-logistics,物流平台,pending
-Online Slot Booking,网上舱位预订,digital-logistics,物流平台,pending
-Platform API Integration,平台API对接,digital-logistics,物流平台,pending
-Transportation Management as a Service,运输管理云服务,digital-logistics,物流平台,pending
-Distributed Ledger Technology (DLT),分布式账本技术,digital-logistics,区块链应用,pending
-Paperless Trading,无纸化贸易,digital-logistics,区块链应用,pending
-TradeLens,TradeLens贸易平台,digital-logistics,区块链应用,pending
-IBM Food Trust,IBM食品溯源链,digital-logistics,区块链应用,pending
-VeChain,唯链,digital-logistics,区块链应用,pending
-Provenance Tracking,溯源追踪,digital-logistics,区块链应用,pending
-Food Traceability,食品溯源,digital-logistics,区块链应用,pending
-Blockchain Traceability,区块链溯源,digital-logistics,区块链应用,pending
-GS1 Digital Link,GS1数字链接,digital-logistics,区块链应用,pending
-EPCIS 2.0,EPCIS 2.0事件标准,digital-logistics,区块链应用,pending
-Verifiable Credential,可验证凭证,digital-logistics,区块链应用,pending
-Decentralized Identifier (DID),分布式数字身份,digital-logistics,区块链应用,pending
-Digital Product Passport (DPP),数字产品护照,digital-logistics,区块链应用,pending
-Immutable Audit Trail,不可篡改审计记录,digital-logistics,区块链应用,pending
-Consortium Blockchain,联盟链,digital-logistics,区块链应用,pending
-Permissioned Network,许可链网络,digital-logistics,区块链应用,pending
-Consensus Mechanism,共识机制,digital-logistics,区块链应用,pending
-Tokenized Asset,资产通证化,digital-logistics,区块链应用,pending
-Cryptographic Hash,加密哈希,digital-logistics,区块链应用,pending
-Public Key Infrastructure (PKI),公钥基础设施,digital-logistics,区块链应用,pending
-Certificate Authority,数字证书机构,digital-logistics,区块链应用,pending
-Blockchain Port Community System,区块链港口社区系统,digital-logistics,区块链应用,pending
-Trade Finance Blockchain,区块链贸易融资,digital-logistics,区块链应用,pending
-Letter of Credit Digitization,信用证数字化,digital-logistics,区块链应用,pending
-Digital Letter of Credit,数字信用证,digital-logistics,区块链应用,pending
-Cross-Border Blockchain Payment,跨境区块链支付,digital-logistics,区块链应用,pending
-Blockchain Certificate of Origin,区块链原产地证,digital-logistics,区块链应用,pending
-On-Chain Document Verification,链上单证核验,digital-logistics,区块链应用,pending
-Document Tokenization,单证通证化,digital-logistics,区块链应用,pending
-eBL Interoperability Standard,电子提单互操作标准,digital-logistics,区块链应用,pending
-DCSA eBL Standard,DCSA电子提单标准,digital-logistics,区块链应用,pending
-BeiDou Navigation Tracking,北斗定位追踪,digital-logistics,物联网应用,pending
-BeiDou Short Message,北斗短报文,digital-logistics,物联网应用,pending
-GNSS Tracking,卫星导航追踪,digital-logistics,物联网应用,pending
-Real-Time Visibility,实时可视化,digital-logistics,物联网应用,pending
-Supply Chain Visibility Platform,供应链可视化平台,digital-logistics,物联网应用,pending
-Asset Tracking,资产追踪,digital-logistics,物联网应用,pending
-OBD Tracker,车载诊断追踪器,digital-logistics,物联网应用,pending
-ELD (Electronic Logging Device),电子日志设备,digital-logistics,物联网应用,pending
-Route Deviation Alert,偏航预警,digital-logistics,物联网应用,pending
-Ultra-Wideband (UWB) Positioning,超宽带定位,digital-logistics,物联网应用,pending
-Bluetooth Low Energy Beacon,低功耗蓝牙信标,digital-logistics,物联网应用,pending
-Wi-Fi Indoor Positioning,Wi-Fi室内定位,digital-logistics,物联网应用,pending
-LoRaWAN Tracking,LoRa物联网追踪,digital-logistics,物联网应用,pending
-NB-IoT Tracker,NB-IoT追踪器,digital-logistics,物联网应用,pending
-Cellular IoT Module,蜂窝物联网模块,digital-logistics,物联网应用,pending
-Humidity Logger,湿度记录仪,digital-logistics,物联网应用,pending
-Temperature and Humidity Logger,温湿度数据记录仪,digital-logistics,物联网应用,pending
-Cold Chain Monitor,冷链监控,digital-logistics,物联网应用,pending
-Cold Chain Integrity,冷链完整性,digital-logistics,物联网应用,pending
-Temperature Excursion Alert,温度超标告警,digital-logistics,物联网应用,pending
-Shock Sensor,震动传感器,digital-logistics,物联网应用,pending
-Tilt Sensor,倾斜传感器,digital-logistics,物联网应用,pending
-Light Exposure Sensor,感光传感器,digital-logistics,物联网应用,pending
-Door Open Sensor,开门传感器,digital-logistics,物联网应用,pending
-Smart Container,智能集装箱,digital-logistics,物联网应用,pending
-Reusable IoT Tracker,可循环追踪器,digital-logistics,物联网应用,pending
-Sensor Fusion,传感器融合,digital-logistics,物联网应用,pending
-Edge Computing Gateway,边缘计算网关,digital-logistics,物联网应用,pending
-IoT Gateway,物联网网关,digital-logistics,物联网应用,pending
-LPWAN,低功耗广域网,digital-logistics,物联网应用,pending
-MQTT Protocol,MQTT消息协议,digital-logistics,物联网应用,pending
-Time Series Database,时序数据库,digital-logistics,物联网应用,pending
-IoT Platform,物联网平台,digital-logistics,物联网应用,pending
-Device Management Platform,设备管理平台,digital-logistics,物联网应用,pending
-Over-the-Air Update (OTA),空中固件升级,digital-logistics,物联网应用,pending
-Fuel Level Monitoring,油量监测,digital-logistics,物联网应用,pending
-Fuel Theft Alert,油量异常告警,digital-logistics,物联网应用,pending
-Fatigue Driving Detection,疲劳驾驶检测,digital-logistics,物联网应用,pending
+Digital Freight Forwarder,数字货代,digital-logistics,物流平台,published
+Booking Platform,订舱平台,digital-logistics,物流平台,published
+Online Booking,在线订舱,digital-logistics,物流平台,published
+Instant Booking,即时订舱,digital-logistics,物流平台,published
+Freight Quote Engine,运费报价引擎,digital-logistics,物流平台,published
+Carrier Network,承运商网络,digital-logistics,物流平台,published
+Carrier Onboarding,承运商入驻,digital-logistics,物流平台,published
+Carrier Procurement,承运商采购,digital-logistics,物流平台,published
+Transportation Bid Optimization,运输招标优化,digital-logistics,物流平台,published
+Shipper of Choice,首选货主,digital-logistics,物流平台,published
+Shipper-Carrier Collaboration,货主承运商协同,digital-logistics,物流平台,published
+Brokerage Platform,经纪平台,digital-logistics,物流平台,published
+Virtual Freight Forwarding,虚拟货代,digital-logistics,物流平台,published
+Two-Sided Platform,双边平台,digital-logistics,物流平台,published
+Platform Economy,平台经济,digital-logistics,物流平台,published
+Sharing Economy Logistics,共享经济物流,digital-logistics,物流平台,published
+Crowdsourced Trucking,众包货运,digital-logistics,物流平台,published
+Gig Economy Driver,零工司机,digital-logistics,物流平台,published
+Mobile Freight App,移动货运应用,digital-logistics,物流平台,published
+Unified Payment Platform,统一结算平台,digital-logistics,物流平台,published
+Freight Payment,货运支付,digital-logistics,物流平台,published
+Freight Bill Payment,运费支付,digital-logistics,物流平台,published
+Rate Dispute Management,运价争议处理,digital-logistics,物流平台,published
+Bunker Adjustment Factor (BAF),燃油调整系数,digital-logistics,物流平台,published
+Currency Adjustment Factor (CAF),币值附加费,digital-logistics,物流平台,published
+NMFC Code,美国货运分类代码,digital-logistics,物流平台,published
+LTL Platform,零担货运平台,digital-logistics,物流平台,published
+Container Leasing Platform,集装箱租赁平台,digital-logistics,物流平台,published
+Online Slot Booking,网上舱位预订,digital-logistics,物流平台,published
+Platform API Integration,平台API对接,digital-logistics,物流平台,published
+Transportation Management as a Service,运输管理云服务,digital-logistics,物流平台,published
+Distributed Ledger Technology (DLT),分布式账本技术,digital-logistics,区块链应用,published
+Paperless Trading,无纸化贸易,digital-logistics,区块链应用,published
+TradeLens,TradeLens贸易平台,digital-logistics,区块链应用,published
+IBM Food Trust,IBM食品溯源链,digital-logistics,区块链应用,published
+VeChain,唯链,digital-logistics,区块链应用,published
+Provenance Tracking,溯源追踪,digital-logistics,区块链应用,published
+Food Traceability,食品溯源,digital-logistics,区块链应用,published
+Blockchain Traceability,区块链溯源,digital-logistics,区块链应用,published
+GS1 Digital Link,GS1数字链接,digital-logistics,区块链应用,published
+EPCIS 2.0,EPCIS 2.0事件标准,digital-logistics,区块链应用,published
+Verifiable Credential,可验证凭证,digital-logistics,区块链应用,published
+Decentralized Identifier (DID),分布式数字身份,digital-logistics,区块链应用,published
+Digital Product Passport (DPP),数字产品护照,digital-logistics,区块链应用,published
+Immutable Audit Trail,不可篡改审计记录,digital-logistics,区块链应用,published
+Consortium Blockchain,联盟链,digital-logistics,区块链应用,published
+Permissioned Network,许可链网络,digital-logistics,区块链应用,published
+Consensus Mechanism,共识机制,digital-logistics,区块链应用,published
+Tokenized Asset,资产通证化,digital-logistics,区块链应用,published
+Cryptographic Hash,加密哈希,digital-logistics,区块链应用,published
+Public Key Infrastructure (PKI),公钥基础设施,digital-logistics,区块链应用,published
+Certificate Authority,数字证书机构,digital-logistics,区块链应用,published
+Blockchain Port Community System,区块链港口社区系统,digital-logistics,区块链应用,published
+Trade Finance Blockchain,区块链贸易融资,digital-logistics,区块链应用,published
+Letter of Credit Digitization,信用证数字化,digital-logistics,区块链应用,published
+Digital Letter of Credit,数字信用证,digital-logistics,区块链应用,published
+Cross-Border Blockchain Payment,跨境区块链支付,digital-logistics,区块链应用,published
+Blockchain Certificate of Origin,区块链原产地证,digital-logistics,区块链应用,published
+On-Chain Document Verification,链上单证核验,digital-logistics,区块链应用,published
+Document Tokenization,单证通证化,digital-logistics,区块链应用,published
+eBL Interoperability Standard,电子提单互操作标准,digital-logistics,区块链应用,published
+DCSA eBL Standard,DCSA电子提单标准,digital-logistics,区块链应用,published
+BeiDou Navigation Tracking,北斗定位追踪,digital-logistics,物联网应用,published
+BeiDou Short Message,北斗短报文,digital-logistics,物联网应用,published
+GNSS Tracking,卫星导航追踪,digital-logistics,物联网应用,published
+Real-Time Visibility,实时可视化,digital-logistics,物联网应用,published
+Supply Chain Visibility Platform,供应链可视化平台,digital-logistics,物联网应用,published
+Asset Tracking,资产追踪,digital-logistics,物联网应用,published
+OBD Tracker,车载诊断追踪器,digital-logistics,物联网应用,published
+ELD (Electronic Logging Device),电子日志设备,digital-logistics,物联网应用,published
+Route Deviation Alert,偏航预警,digital-logistics,物联网应用,published
+Ultra-Wideband (UWB) Positioning,超宽带定位,digital-logistics,物联网应用,published
+Bluetooth Low Energy Beacon,低功耗蓝牙信标,digital-logistics,物联网应用,published
+Wi-Fi Indoor Positioning,Wi-Fi室内定位,digital-logistics,物联网应用,published
+LoRaWAN Tracking,LoRa物联网追踪,digital-logistics,物联网应用,published
+NB-IoT Tracker,NB-IoT追踪器,digital-logistics,物联网应用,published
+Cellular IoT Module,蜂窝物联网模块,digital-logistics,物联网应用,published
+Humidity Logger,湿度记录仪,digital-logistics,物联网应用,published
+Temperature and Humidity Logger,温湿度数据记录仪,digital-logistics,物联网应用,published
+Cold Chain Monitor,冷链监控,digital-logistics,物联网应用,published
+Cold Chain Integrity,冷链完整性,digital-logistics,物联网应用,published
+Temperature Excursion Alert,温度超标告警,digital-logistics,物联网应用,published
+Shock Sensor,震动传感器,digital-logistics,物联网应用,published
+Tilt Sensor,倾斜传感器,digital-logistics,物联网应用,published
+Light Exposure Sensor,感光传感器,digital-logistics,物联网应用,published
+Door Open Sensor,开门传感器,digital-logistics,物联网应用,published
+Smart Container,智能集装箱,digital-logistics,物联网应用,published
+Reusable IoT Tracker,可循环追踪器,digital-logistics,物联网应用,published
+Sensor Fusion,传感器融合,digital-logistics,物联网应用,published
+Edge Computing Gateway,边缘计算网关,digital-logistics,物联网应用,published
+IoT Gateway,物联网网关,digital-logistics,物联网应用,published
+LPWAN,低功耗广域网,digital-logistics,物联网应用,published
+MQTT Protocol,MQTT消息协议,digital-logistics,物联网应用,published
+Time Series Database,时序数据库,digital-logistics,物联网应用,published
+IoT Platform,物联网平台,digital-logistics,物联网应用,published
+Device Management Platform,设备管理平台,digital-logistics,物联网应用,published
+Over-the-Air Update (OTA),空中固件升级,digital-logistics,物联网应用,published
+Fuel Level Monitoring,油量监测,digital-logistics,物联网应用,published
+Fuel Theft Alert,油量异常告警,digital-logistics,物联网应用,published
+Fatigue Driving Detection,疲劳驾驶检测,digital-logistics,物联网应用,published
 UHF RFID Tag,超高频RFID标签,digital-logistics,物联网应用,pending
 Passive RFID Tag,无源RFID标签,digital-logistics,物联网应用,pending
 Active RFID Tag,有源RFID标签,digital-logistics,物联网应用,pending
