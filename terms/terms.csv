@@ -8019,8 +8019,8 @@ Croston's Method,克罗斯顿法,supply-chain,计划体系,published
 Lifecycle Modeling,生命周期建模,supply-chain,计划体系,published
 What-If Simulation,假设情景模拟,supply-chain,计划体系,published
 Strategic Sourcing,战略寻源,supply-chain,采购管理,published
-Sourcing Strategy,寻源策略,supply-chain,采购管理,pending
-Spend Cube,支出立方体,supply-chain,采购管理,pending
+Sourcing Strategy,寻源策略,supply-chain,采购管理,published
+Spend Cube,支出立方体,supply-chain,采购管理,published
 Supplier Scorecard,供应商记分卡,supply-chain,采购管理,published
 Supplier Evaluation,供应商评估,supply-chain,采购管理,published
 Supplier Rationalization,供应商精简,supply-chain,采购管理,published
@@ -8116,104 +8116,104 @@ Modular Product Design,模块化产品设计,supply-chain,库存策略,published
 Commonality,通用化,supply-chain,库存策略,published
 Part Standardization,零件标准化,supply-chain,库存策略,published
 Risk Pooling,风险共担,supply-chain,库存策略,published
-Inventory Centralization,库存集中化,supply-chain,库存策略,pending
-Inventory Pooling,库存池化,supply-chain,库存策略,pending
-Virtual Pooling,虚拟池化,supply-chain,库存策略,pending
-Backup Sourcing,备用寻源,supply-chain,库存策略,pending
-Lateral Transshipment,横向调拨,supply-chain,库存策略,pending
-Stock Balancing,库存平衡调配,supply-chain,库存策略,pending
-Inventory Rebalancing,库存再平衡,supply-chain,库存策略,pending
-Replenishment Policy,补货策略,supply-chain,库存策略,pending
-Continuous Replenishment Program (CRP),连续补货计划,supply-chain,库存策略,pending
-Efficient Replenishment,高效补货,supply-chain,库存策略,pending
-Auto-Replenishment,自动补货,supply-chain,库存策略,pending
-Quick Response (QR),快速反应,supply-chain,库存策略,pending
-Efficient Consumer Response (ECR),高效消费者响应,supply-chain,库存策略,pending
-Make-to-Stock (MTS),面向库存生产,supply-chain,库存策略,pending
-Make-to-Order (MTO),面向订单生产,supply-chain,库存策略,pending
-Assemble-to-Order (ATO),面向订单装配,supply-chain,库存策略,pending
-Engineer-to-Order (ETO),面向订单设计,supply-chain,库存策略,pending
-Configure-to-Order (CTO),面向订单配置,supply-chain,库存策略,pending
-Push-Pull Boundary,推拉结合点,supply-chain,库存策略,pending
-Facility Location Model,设施选址模型,supply-chain,网络设计,pending
-P-Median Model,P中值模型,supply-chain,网络设计,pending
-P-Center Model,P中心模型,supply-chain,网络设计,pending
-Set Covering Model,集合覆盖模型,supply-chain,网络设计,pending
-Maximal Covering Location Problem,最大覆盖选址问题,supply-chain,网络设计,pending
-Uncapacitated Facility Location,无容量限制选址,supply-chain,网络设计,pending
-Capacitated Facility Location,有容量限制选址,supply-chain,网络设计,pending
-Mixed Integer Programming,混合整数规划,supply-chain,网络设计,pending
-Linear Programming,线性规划,supply-chain,网络设计,pending
-Network Optimization,网络优化,supply-chain,网络设计,pending
-Network Modeling,网络建模,supply-chain,网络设计,pending
-Scenario Analysis,情景分析,supply-chain,网络设计,pending
-Greenfield Analysis,绿地分析,supply-chain,网络设计,pending
-Brownfield Analysis,棕地分析,supply-chain,网络设计,pending
-Distribution Center Location,配送中心选址,supply-chain,网络设计,pending
-Direct Shipment Network,直送网络,supply-chain,网络设计,pending
-Regional Distribution Center (RDC),区域配送中心,supply-chain,网络设计,pending
-Two-Echelon Distribution,两级配送,supply-chain,网络设计,pending
-Last Mile,最后一公里,supply-chain,网络设计,pending
-Network Flow Analysis,网络流分析,supply-chain,网络设计,pending
-Transportation Lane,运输通道,supply-chain,网络设计,pending
-Origin-Destination Matrix (OD Matrix),起讫点矩阵,supply-chain,网络设计,pending
-Freight Consolidation,货物集拼,supply-chain,网络设计,pending
-Multi-Echelon Network,多级网络,supply-chain,网络设计,pending
-Supply Chain Footprint,供应链布局,supply-chain,网络设计,pending
-Decentralized Distribution,分散式配送,supply-chain,网络设计,pending
-Centralized Distribution,集中式配送,supply-chain,网络设计,pending
-Hybrid Network Design,混合网络设计,supply-chain,网络设计,pending
-Sensitivity Analysis,敏感性分析,supply-chain,网络设计,pending
-Break-Even Distance,盈亏平衡距离,supply-chain,网络设计,pending
-Fixed Facility Cost,设施固定成本,supply-chain,网络设计,pending
-Facility Capacity Constraint,设施产能约束,supply-chain,网络设计,pending
-Service Area Design,服务区域划分,supply-chain,网络设计,pending
-Customer Allocation,客户分配,supply-chain,网络设计,pending
-Sourcing Assignment,供货指派,supply-chain,网络设计,pending
-Network Redesign,网络重构,supply-chain,网络设计,pending
-Site Selection,场址选择,supply-chain,网络设计,pending
-Transportation Cost Curve,运输成本曲线,supply-chain,网络设计,pending
-Distance Decay Function,距离衰减函数,supply-chain,网络设计,pending
-Network Resilience Design,网络韧性设计,supply-chain,网络设计,pending
-Total Network Cost,网络总成本,supply-chain,网络设计,pending
-Service Level Constraint,服务水平约束,supply-chain,网络设计,pending
-Simulated Annealing,模拟退火算法,supply-chain,网络设计,pending
-Genetic Algorithm,遗传算法,supply-chain,网络设计,pending
-Intermodal Hub Location,多式联运枢纽选址,supply-chain,网络设计,pending
-Perfect Order Fulfillment,完美订单履行率,supply-chain,绩效指标,pending
-In-Full Delivery,足量交付率,supply-chain,绩效指标,pending
-Line Fill Rate,行项满足率,supply-chain,绩效指标,pending
-Item Fill Rate,单品满足率,supply-chain,绩效指标,pending
-Order Cycle Time,订单周期时间,supply-chain,绩效指标,pending
-Days Payable Outstanding (DPO),应付账款周转天数,supply-chain,绩效指标,pending
-Supply Chain Cost,供应链总成本,supply-chain,绩效指标,pending
-Cost of Goods Sold (COGS),销货成本,supply-chain,绩效指标,pending
-Gross Margin,毛利率,supply-chain,绩效指标,pending
-Return on Supply Chain Assets,供应链资产回报率,supply-chain,绩效指标,pending
-Asset Turnover,资产周转率,supply-chain,绩效指标,pending
-Upside Supply Chain Flexibility,供应链上行柔性,supply-chain,绩效指标,pending
-Upside Supply Chain Adaptability,供应链上行适应性,supply-chain,绩效指标,pending
-Downside Supply Chain Adaptability,供应链下行适应性,supply-chain,绩效指标,pending
-Overall Value at Risk,总体价值风险,supply-chain,绩效指标,pending
-Order-to-Cash (O2C),订单到收款,supply-chain,绩效指标,pending
-Dock-to-Stock Time,月台到上架时间,supply-chain,绩效指标,pending
-Schedule Attainment,排程达成率,supply-chain,绩效指标,pending
-Plan Adherence,计划达成率,supply-chain,绩效指标,pending
-First Pass Yield,一次合格率,supply-chain,绩效指标,pending
-Backorder Rate,延交订单率,supply-chain,绩效指标,pending
-Stockout Rate,缺货率,supply-chain,绩效指标,pending
-Picking Accuracy,拣货准确率,supply-chain,绩效指标,pending
-Inventory Record Accuracy,库存记录准确率,supply-chain,绩效指标,pending
-Truck Utilization,车辆利用率,supply-chain,绩效指标,pending
-Empty Running Rate,空驶率,supply-chain,绩效指标,pending
-Fleet Turnaround Time,车队周转时间,supply-chain,绩效指标,pending
-Dwell Time,滞留时间,supply-chain,绩效指标,pending
-Warehouse Cost per Pallet,每托仓储成本,supply-chain,绩效指标,pending
-Units per Labor Hour,单人时处理量,supply-chain,绩效指标,pending
-Lines Picked per Hour,每小时拣货行数,supply-chain,绩效指标,pending
-Throughput,吞吐量,supply-chain,绩效指标,pending
-Balanced Scorecard,平衡计分卡,supply-chain,绩效指标,pending
-Key Performance Indicator (KPI),关键绩效指标,supply-chain,绩效指标,pending
+Inventory Centralization,库存集中化,supply-chain,库存策略,published
+Inventory Pooling,库存池化,supply-chain,库存策略,published
+Virtual Pooling,虚拟池化,supply-chain,库存策略,published
+Backup Sourcing,备用寻源,supply-chain,库存策略,published
+Lateral Transshipment,横向调拨,supply-chain,库存策略,published
+Stock Balancing,库存平衡调配,supply-chain,库存策略,published
+Inventory Rebalancing,库存再平衡,supply-chain,库存策略,published
+Replenishment Policy,补货策略,supply-chain,库存策略,published
+Continuous Replenishment Program (CRP),连续补货计划,supply-chain,库存策略,published
+Efficient Replenishment,高效补货,supply-chain,库存策略,published
+Auto-Replenishment,自动补货,supply-chain,库存策略,published
+Quick Response (QR),快速反应,supply-chain,库存策略,published
+Efficient Consumer Response (ECR),高效消费者响应,supply-chain,库存策略,published
+Make-to-Stock (MTS),面向库存生产,supply-chain,库存策略,published
+Make-to-Order (MTO),面向订单生产,supply-chain,库存策略,published
+Assemble-to-Order (ATO),面向订单装配,supply-chain,库存策略,published
+Engineer-to-Order (ETO),面向订单设计,supply-chain,库存策略,published
+Configure-to-Order (CTO),面向订单配置,supply-chain,库存策略,published
+Push-Pull Boundary,推拉结合点,supply-chain,库存策略,published
+Facility Location Model,设施选址模型,supply-chain,网络设计,published
+P-Median Model,P中值模型,supply-chain,网络设计,published
+P-Center Model,P中心模型,supply-chain,网络设计,published
+Set Covering Model,集合覆盖模型,supply-chain,网络设计,published
+Maximal Covering Location Problem,最大覆盖选址问题,supply-chain,网络设计,published
+Uncapacitated Facility Location,无容量限制选址,supply-chain,网络设计,published
+Capacitated Facility Location,有容量限制选址,supply-chain,网络设计,published
+Mixed Integer Programming,混合整数规划,supply-chain,网络设计,published
+Linear Programming,线性规划,supply-chain,网络设计,published
+Network Optimization,网络优化,supply-chain,网络设计,published
+Network Modeling,网络建模,supply-chain,网络设计,published
+Scenario Analysis,情景分析,supply-chain,网络设计,published
+Greenfield Analysis,绿地分析,supply-chain,网络设计,published
+Brownfield Analysis,棕地分析,supply-chain,网络设计,published
+Distribution Center Location,配送中心选址,supply-chain,网络设计,published
+Direct Shipment Network,直送网络,supply-chain,网络设计,published
+Regional Distribution Center (RDC),区域配送中心,supply-chain,网络设计,published
+Two-Echelon Distribution,两级配送,supply-chain,网络设计,published
+Last Mile,最后一公里,supply-chain,网络设计,published
+Network Flow Analysis,网络流分析,supply-chain,网络设计,published
+Transportation Lane,运输通道,supply-chain,网络设计,published
+Origin-Destination Matrix (OD Matrix),起讫点矩阵,supply-chain,网络设计,published
+Freight Consolidation,货物集拼,supply-chain,网络设计,published
+Multi-Echelon Network,多级网络,supply-chain,网络设计,published
+Supply Chain Footprint,供应链布局,supply-chain,网络设计,published
+Decentralized Distribution,分散式配送,supply-chain,网络设计,published
+Centralized Distribution,集中式配送,supply-chain,网络设计,published
+Hybrid Network Design,混合网络设计,supply-chain,网络设计,published
+Sensitivity Analysis,敏感性分析,supply-chain,网络设计,published
+Break-Even Distance,盈亏平衡距离,supply-chain,网络设计,published
+Fixed Facility Cost,设施固定成本,supply-chain,网络设计,published
+Facility Capacity Constraint,设施产能约束,supply-chain,网络设计,published
+Service Area Design,服务区域划分,supply-chain,网络设计,published
+Customer Allocation,客户分配,supply-chain,网络设计,published
+Sourcing Assignment,供货指派,supply-chain,网络设计,published
+Network Redesign,网络重构,supply-chain,网络设计,published
+Site Selection,场址选择,supply-chain,网络设计,published
+Transportation Cost Curve,运输成本曲线,supply-chain,网络设计,published
+Distance Decay Function,距离衰减函数,supply-chain,网络设计,published
+Network Resilience Design,网络韧性设计,supply-chain,网络设计,published
+Total Network Cost,网络总成本,supply-chain,网络设计,published
+Service Level Constraint,服务水平约束,supply-chain,网络设计,published
+Simulated Annealing,模拟退火算法,supply-chain,网络设计,published
+Genetic Algorithm,遗传算法,supply-chain,网络设计,published
+Intermodal Hub Location,多式联运枢纽选址,supply-chain,网络设计,published
+Perfect Order Fulfillment,完美订单履行率,supply-chain,绩效指标,published
+In-Full Delivery,足量交付率,supply-chain,绩效指标,published
+Line Fill Rate,行项满足率,supply-chain,绩效指标,published
+Item Fill Rate,单品满足率,supply-chain,绩效指标,published
+Order Cycle Time,订单周期时间,supply-chain,绩效指标,published
+Days Payable Outstanding (DPO),应付账款周转天数,supply-chain,绩效指标,published
+Supply Chain Cost,供应链总成本,supply-chain,绩效指标,published
+Cost of Goods Sold (COGS),销货成本,supply-chain,绩效指标,published
+Gross Margin,毛利率,supply-chain,绩效指标,published
+Return on Supply Chain Assets,供应链资产回报率,supply-chain,绩效指标,published
+Asset Turnover,资产周转率,supply-chain,绩效指标,published
+Upside Supply Chain Flexibility,供应链上行柔性,supply-chain,绩效指标,published
+Upside Supply Chain Adaptability,供应链上行适应性,supply-chain,绩效指标,published
+Downside Supply Chain Adaptability,供应链下行适应性,supply-chain,绩效指标,published
+Overall Value at Risk,总体价值风险,supply-chain,绩效指标,published
+Order-to-Cash (O2C),订单到收款,supply-chain,绩效指标,published
+Dock-to-Stock Time,月台到上架时间,supply-chain,绩效指标,published
+Schedule Attainment,排程达成率,supply-chain,绩效指标,published
+Plan Adherence,计划达成率,supply-chain,绩效指标,published
+First Pass Yield,一次合格率,supply-chain,绩效指标,published
+Backorder Rate,延交订单率,supply-chain,绩效指标,published
+Stockout Rate,缺货率,supply-chain,绩效指标,published
+Picking Accuracy,拣货准确率,supply-chain,绩效指标,published
+Inventory Record Accuracy,库存记录准确率,supply-chain,绩效指标,published
+Truck Utilization,车辆利用率,supply-chain,绩效指标,published
+Empty Running Rate,空驶率,supply-chain,绩效指标,published
+Fleet Turnaround Time,车队周转时间,supply-chain,绩效指标,published
+Dwell Time,滞留时间,supply-chain,绩效指标,published
+Warehouse Cost per Pallet,每托仓储成本,supply-chain,绩效指标,published
+Units per Labor Hour,单人时处理量,supply-chain,绩效指标,published
+Lines Picked per Hour,每小时拣货行数,supply-chain,绩效指标,published
+Throughput,吞吐量,supply-chain,绩效指标,published
+Balanced Scorecard,平衡计分卡,supply-chain,绩效指标,published
+Key Performance Indicator (KPI),关键绩效指标,supply-chain,绩效指标,published
 Supply Chain Maturity Model,供应链成熟度模型,supply-chain,绩效指标,pending
 Value Stream Mapping,价值流图析,supply-chain,绩效指标,pending
 Overall Equipment Effectiveness (OEE),设备综合效率,supply-chain,绩效指标,pending
