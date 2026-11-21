@@ -1,7 +1,7 @@
 ---
 title: "Supplier Collaboration Platform"
 linkTitle: "供应商协同平台"
-date: 2026-11-20
+date: 2026-11-21
 type: docs
 subcategory: "采购管理"
 ---
@@ -9,29 +9,35 @@ subcategory: "采购管理"
 > 📖 分类：**供应链管理** / 采购管理　｜　Supplier Collaboration Platform = 供应商协同平台
 
 ## 定义
-供应商协同平台（Supplier Collaboration Platform）是指买方与供应链上下游供应商进行实时信息共享、业务流程整合与数据交互的数字化云端协作系统。该系统打破了传统供应链的信息孤岛，帮助各方在统一的平台上高效处理订单、库存及物流状态。
+
+供应商协同平台（Supplier Collaboration Platform，简称 SCP）是一种基于云端的数字化供应链管理工具，旨在实现买方、货代与各级供应商在统一界面下的实时信息共享与业务联动。它打破了传统邮件和电话沟通的信息孤岛，将采购、生产、库存及物流交付数据进行全链路打通。
 
 ## 详细说明
-- 使用场景：广泛应用于跨国零售、大型制造企业及第三方物流（3PL）的采购、库存补货、PO（采购订单）确认及交货期（ETA）管理。
-- 关键规则或数字：平台通常要求供应商在收到PO后24-48小时内做出响应；通过API或EDI实现数据的自动同步，将订单处理错误率降低80%以上。
-- 实务注意事项：货代与外贸从业人员需熟练掌握平台上的ASN（提前发货通知）录入规则，确保货物实际装运数据与平台信息完全一致，避免因数据延迟导致仓库收货滞后或罚款。
+
+- 使用场景：广泛应用于跨境电商、大型制造企业及国际货代的主供应链管理，主要用于采购订单确认、发货计划（ASN）提交、预计到货时间（ETA）更新以及异常情况的协同处理。
+- 关键规则与数据：平台通常要求供应商在订单下达后的 24-48 小时内完成接单并录入预计出货日期；对于物流交付，节点数据（如提货、装柜、离港）的实时录入率通常需保持在 95% 以上，以确保供应链下游的仓储和干线运输能够无缝衔接。
+- 实务注意事项：货代和外贸人使用时需注意账号权限的分配，避免商业机密外泄；同时，必须确保平台数据与实际操作中的运单、装箱单完全一致，否则系统自动生成的KPI考核数据会产生偏差。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 供应商协同平台 | Supplier Collaboration Platform |
+| 供应商协同平台 | Supplier Collaboration Platform (SCP) |
 | 提前发货通知 | Advanced Shipping Notice (ASN) |
-| 采购订单确认 | Purchase Order Acknowledgment |
-| 供应商绩效管理 | Supplier Performance Management |
+| 预计到货时间 | Estimated Time of Arrival (ETA) |
+| 供应链可视性 | Supply Chain Visibility |
 
 ## 相关术语
+
+- ERP (Enterprise Resource Planning)
+- WMS (Warehouse Management System)
 - EDI (Electronic Data Interchange)
-- API (Application Programming Interface)
-- VMI (Vendor Managed Inventory)
 - PO Management (Purchase Order Management)
 
-##
+## 常见误区
+
+- 认为 SCP 只是一个简单的聊天或文件传输工具：实际上它是结构化的业务流程管理系统，核心在于数据的实时交互与自动化状态更新。
+- 只要上线了平台就能自动解决供应链延误问题：平台本身只提供协同通道，若底层供应商的备货和物流反馈不及时，系统数据依然会失真。
 
 ---
 

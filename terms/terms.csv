@@ -8016,106 +8016,106 @@ Out-of-Sample Testing,样本外测试,supply-chain,计划体系,published
 Forecastability Analysis,需求可预测性分析,supply-chain,计划体系,published
 Intermittent Demand Forecasting,间歇性需求预测,supply-chain,计划体系,published
 Croston's Method,克罗斯顿法,supply-chain,计划体系,published
-Lifecycle Modeling,生命周期建模,supply-chain,计划体系,pending
-What-If Simulation,假设情景模拟,supply-chain,计划体系,pending
-Strategic Sourcing,战略寻源,supply-chain,采购管理,pending
+Lifecycle Modeling,生命周期建模,supply-chain,计划体系,published
+What-If Simulation,假设情景模拟,supply-chain,计划体系,published
+Strategic Sourcing,战略寻源,supply-chain,采购管理,published
 Sourcing Strategy,寻源策略,supply-chain,采购管理,pending
 Spend Cube,支出立方体,supply-chain,采购管理,pending
-Supplier Scorecard,供应商记分卡,supply-chain,采购管理,pending
-Supplier Evaluation,供应商评估,supply-chain,采购管理,pending
-Supplier Rationalization,供应商精简,supply-chain,采购管理,pending
-Single Sourcing,单一寻源,supply-chain,采购管理,pending
-Multiple Sourcing,多源寻源,supply-chain,采购管理,pending
-Preferred Supplier,优选供应商,supply-chain,采购管理,pending
-Request for Information (RFI),信息征询书,supply-chain,采购管理,pending
-Request for Quotation (RFQ),询价书,supply-chain,采购管理,pending
-E-Procurement,电子采购,supply-chain,采购管理,pending
-E-Auction,电子拍卖,supply-chain,采购管理,pending
-Dutch Auction,荷兰式拍卖,supply-chain,采购管理,pending
-Sealed-Bid Auction,密封投标拍卖,supply-chain,采购管理,pending
-E-Tendering,电子招投标,supply-chain,采购管理,pending
-Purchase Requisition,采购申请,supply-chain,采购管理,pending
-Blanket Purchase Order,一揽子采购订单,supply-chain,采购管理,pending
-Master Service Agreement (MSA),主服务协议,supply-chain,采购管理,pending
-Contract Lifecycle Management (CLM),合同全生命周期管理,supply-chain,采购管理,pending
-Should-Cost Modeling,应然成本模型,supply-chain,采购管理,pending
-Cost Breakdown Structure,成本分解结构,supply-chain,采购管理,pending
-Cost-Plus Pricing,成本加成定价,supply-chain,采购管理,pending
-Target Costing,目标成本法,supply-chain,采购管理,pending
-Value Analysis / Value Engineering (VA/VE),价值分析与价值工程,supply-chain,采购管理,pending
-Landed Cost Analysis,到岸成本分析,supply-chain,采购管理,pending
-Kraljic Matrix,卡拉杰克矩阵,supply-chain,采购管理,pending
-Strategic Supplier,战略供应商,supply-chain,采购管理,pending
-Leverage Supplier,杠杆型供应商,supply-chain,采购管理,pending
-Bottleneck Supplier,瓶颈型供应商,supply-chain,采购管理,pending
-Routine Supplier,常规型供应商,supply-chain,采购管理,pending
-Supplier Concentration Risk,供应商集中度风险,supply-chain,采购管理,pending
-Supplier Financial Health Check,供应商财务健康检查,supply-chain,采购管理,pending
-Early Supplier Involvement (ESI),供应商早期介入,supply-chain,采购管理,pending
-Co-Development,联合开发,supply-chain,采购管理,pending
-Joint Managed Inventory (JMI),联合管理库存,supply-chain,采购管理,pending
-Customer Managed Inventory (CMI),客户管理库存,supply-chain,采购管理,pending
-Vendor Owned Inventory,供应商拥有库存,supply-chain,采购管理,pending
-Pay-on-Scan,扫描结算,supply-chain,采购管理,pending
-Scan-Based Trading,扫描式交易,supply-chain,采购管理,pending
-Supplier Hub,供应商集散中心,supply-chain,采购管理,pending
-Supplier Managed Hub,供应商管理仓,supply-chain,采购管理,pending
-Just-in-Time Procurement,准时制采购,supply-chain,采购管理,pending
-Just-in-Sequence Delivery,准时序化交付,supply-chain,采购管理,pending
-Kanban Procurement,看板采购,supply-chain,采购管理,pending
-Supplier Collaboration Platform,供应商协同平台,supply-chain,采购管理,pending
-Supplier Certification,供应商认证,supply-chain,采购管理,pending
-First Article Inspection,首件检验,supply-chain,采购管理,pending
-Incoming Quality Control (IQC),来料质量控制,supply-chain,采购管理,pending
-Supplier Corrective Action Request (SCAR),供应商纠正措施要求,supply-chain,采购管理,pending
-Supplier PPM,供应商百万件不良率,supply-chain,采购管理,pending
-Supplier Lead Time,供应商提前期,supply-chain,采购管理,pending
-Procure-to-Pay (P2P),采购到付款,supply-chain,采购管理,pending
-Source-to-Pay (S2P),寻源到付款,supply-chain,采购管理,pending
-Three-Way Match,三单匹配,supply-chain,采购管理,pending
-Invoice Matching,发票匹配,supply-chain,采购管理,pending
-Supplier Sustainability Audit,供应商可持续审核,supply-chain,采购管理,pending
-Service Level Target,服务水平目标,supply-chain,库存策略,pending
-Cycle Service Level,周期服务水平,supply-chain,库存策略,pending
-Z-Score Method,Z值法,supply-chain,库存策略,pending
-Demand Variability,需求波动性,supply-chain,库存策略,pending
-Lead Time Variability,提前期波动性,supply-chain,库存策略,pending
-Slow-Moving Inventory,慢动库存,supply-chain,库存策略,pending
-ABC Classification,ABC分类法,supply-chain,库存策略,pending
-XYZ Analysis,XYZ分析,supply-chain,库存策略,pending
-ABC-XYZ Matrix,ABC-XYZ组合矩阵,supply-chain,库存策略,pending
-Pareto Analysis,帕累托分析,supply-chain,库存策略,pending
-Days of Inventory on Hand (DOH),库存持有天数,supply-chain,库存策略,pending
-Weeks of Supply,周供应周数,supply-chain,库存策略,pending
-Inventory Carrying Cost,库存持有成本,supply-chain,库存策略,pending
-Ordering Cost,订货成本,supply-chain,库存策略,pending
-Setup Cost,生产准备成本,supply-chain,库存策略,pending
-Perpetual Inventory,永续盘存,supply-chain,库存策略,pending
-Periodic Review System,定期盘存制,supply-chain,库存策略,pending
-Continuous Review System,连续盘存制,supply-chain,库存策略,pending
-(s; S) Policy,(s; S)补货策略,supply-chain,库存策略,pending
-Two-Bin System,双箱系统,supply-chain,库存策略,pending
-Base Stock Policy,基础库存策略,supply-chain,库存策略,pending
-Echelon Stock,梯级库存,supply-chain,库存策略,pending
-Installation Stock,安装点库存,supply-chain,库存策略,pending
-Inventory Position,库存头寸,supply-chain,库存策略,pending
-On-Hand Inventory,现有库存量,supply-chain,库存策略,pending
-In-Transit Inventory,在途库存,supply-chain,库存策略,pending
-Pipeline Inventory,管道库存,supply-chain,库存策略,pending
-Anticipation Inventory,预期库存,supply-chain,库存策略,pending
-Decoupling Stock,解耦库存,supply-chain,库存策略,pending
-Buffer Stock,缓冲库存,supply-chain,库存策略,pending
-Seasonal Stock,季节性库存,supply-chain,库存策略,pending
-Strategic Stock,战略储备库存,supply-chain,库存策略,pending
-Delayed Differentiation,差异化延迟,supply-chain,库存策略,pending
-Postponement Center,延迟配送中心,supply-chain,库存策略,pending
-Final Assembly Postponement,最终装配延迟,supply-chain,库存策略,pending
-Packaging Postponement,包装延迟,supply-chain,库存策略,pending
-Labeling Postponement,贴标延迟,supply-chain,库存策略,pending
-Modular Product Design,模块化产品设计,supply-chain,库存策略,pending
-Commonality,通用化,supply-chain,库存策略,pending
-Part Standardization,零件标准化,supply-chain,库存策略,pending
-Risk Pooling,风险共担,supply-chain,库存策略,pending
+Supplier Scorecard,供应商记分卡,supply-chain,采购管理,published
+Supplier Evaluation,供应商评估,supply-chain,采购管理,published
+Supplier Rationalization,供应商精简,supply-chain,采购管理,published
+Single Sourcing,单一寻源,supply-chain,采购管理,published
+Multiple Sourcing,多源寻源,supply-chain,采购管理,published
+Preferred Supplier,优选供应商,supply-chain,采购管理,published
+Request for Information (RFI),信息征询书,supply-chain,采购管理,published
+Request for Quotation (RFQ),询价书,supply-chain,采购管理,published
+E-Procurement,电子采购,supply-chain,采购管理,published
+E-Auction,电子拍卖,supply-chain,采购管理,published
+Dutch Auction,荷兰式拍卖,supply-chain,采购管理,published
+Sealed-Bid Auction,密封投标拍卖,supply-chain,采购管理,published
+E-Tendering,电子招投标,supply-chain,采购管理,published
+Purchase Requisition,采购申请,supply-chain,采购管理,published
+Blanket Purchase Order,一揽子采购订单,supply-chain,采购管理,published
+Master Service Agreement (MSA),主服务协议,supply-chain,采购管理,published
+Contract Lifecycle Management (CLM),合同全生命周期管理,supply-chain,采购管理,published
+Should-Cost Modeling,应然成本模型,supply-chain,采购管理,published
+Cost Breakdown Structure,成本分解结构,supply-chain,采购管理,published
+Cost-Plus Pricing,成本加成定价,supply-chain,采购管理,published
+Target Costing,目标成本法,supply-chain,采购管理,published
+Value Analysis / Value Engineering (VA/VE),价值分析与价值工程,supply-chain,采购管理,published
+Landed Cost Analysis,到岸成本分析,supply-chain,采购管理,published
+Kraljic Matrix,卡拉杰克矩阵,supply-chain,采购管理,published
+Strategic Supplier,战略供应商,supply-chain,采购管理,published
+Leverage Supplier,杠杆型供应商,supply-chain,采购管理,published
+Bottleneck Supplier,瓶颈型供应商,supply-chain,采购管理,published
+Routine Supplier,常规型供应商,supply-chain,采购管理,published
+Supplier Concentration Risk,供应商集中度风险,supply-chain,采购管理,published
+Supplier Financial Health Check,供应商财务健康检查,supply-chain,采购管理,published
+Early Supplier Involvement (ESI),供应商早期介入,supply-chain,采购管理,published
+Co-Development,联合开发,supply-chain,采购管理,published
+Joint Managed Inventory (JMI),联合管理库存,supply-chain,采购管理,published
+Customer Managed Inventory (CMI),客户管理库存,supply-chain,采购管理,published
+Vendor Owned Inventory,供应商拥有库存,supply-chain,采购管理,published
+Pay-on-Scan,扫描结算,supply-chain,采购管理,published
+Scan-Based Trading,扫描式交易,supply-chain,采购管理,published
+Supplier Hub,供应商集散中心,supply-chain,采购管理,published
+Supplier Managed Hub,供应商管理仓,supply-chain,采购管理,published
+Just-in-Time Procurement,准时制采购,supply-chain,采购管理,published
+Just-in-Sequence Delivery,准时序化交付,supply-chain,采购管理,published
+Kanban Procurement,看板采购,supply-chain,采购管理,published
+Supplier Collaboration Platform,供应商协同平台,supply-chain,采购管理,published
+Supplier Certification,供应商认证,supply-chain,采购管理,published
+First Article Inspection,首件检验,supply-chain,采购管理,published
+Incoming Quality Control (IQC),来料质量控制,supply-chain,采购管理,published
+Supplier Corrective Action Request (SCAR),供应商纠正措施要求,supply-chain,采购管理,published
+Supplier PPM,供应商百万件不良率,supply-chain,采购管理,published
+Supplier Lead Time,供应商提前期,supply-chain,采购管理,published
+Procure-to-Pay (P2P),采购到付款,supply-chain,采购管理,published
+Source-to-Pay (S2P),寻源到付款,supply-chain,采购管理,published
+Three-Way Match,三单匹配,supply-chain,采购管理,published
+Invoice Matching,发票匹配,supply-chain,采购管理,published
+Supplier Sustainability Audit,供应商可持续审核,supply-chain,采购管理,published
+Service Level Target,服务水平目标,supply-chain,库存策略,published
+Cycle Service Level,周期服务水平,supply-chain,库存策略,published
+Z-Score Method,Z值法,supply-chain,库存策略,published
+Demand Variability,需求波动性,supply-chain,库存策略,published
+Lead Time Variability,提前期波动性,supply-chain,库存策略,published
+Slow-Moving Inventory,慢动库存,supply-chain,库存策略,published
+ABC Classification,ABC分类法,supply-chain,库存策略,published
+XYZ Analysis,XYZ分析,supply-chain,库存策略,published
+ABC-XYZ Matrix,ABC-XYZ组合矩阵,supply-chain,库存策略,published
+Pareto Analysis,帕累托分析,supply-chain,库存策略,published
+Days of Inventory on Hand (DOH),库存持有天数,supply-chain,库存策略,published
+Weeks of Supply,周供应周数,supply-chain,库存策略,published
+Inventory Carrying Cost,库存持有成本,supply-chain,库存策略,published
+Ordering Cost,订货成本,supply-chain,库存策略,published
+Setup Cost,生产准备成本,supply-chain,库存策略,published
+Perpetual Inventory,永续盘存,supply-chain,库存策略,published
+Periodic Review System,定期盘存制,supply-chain,库存策略,published
+Continuous Review System,连续盘存制,supply-chain,库存策略,published
+(s; S) Policy,(s; S)补货策略,supply-chain,库存策略,published
+Two-Bin System,双箱系统,supply-chain,库存策略,published
+Base Stock Policy,基础库存策略,supply-chain,库存策略,published
+Echelon Stock,梯级库存,supply-chain,库存策略,published
+Installation Stock,安装点库存,supply-chain,库存策略,published
+Inventory Position,库存头寸,supply-chain,库存策略,published
+On-Hand Inventory,现有库存量,supply-chain,库存策略,published
+In-Transit Inventory,在途库存,supply-chain,库存策略,published
+Pipeline Inventory,管道库存,supply-chain,库存策略,published
+Anticipation Inventory,预期库存,supply-chain,库存策略,published
+Decoupling Stock,解耦库存,supply-chain,库存策略,published
+Buffer Stock,缓冲库存,supply-chain,库存策略,published
+Seasonal Stock,季节性库存,supply-chain,库存策略,published
+Strategic Stock,战略储备库存,supply-chain,库存策略,published
+Delayed Differentiation,差异化延迟,supply-chain,库存策略,published
+Postponement Center,延迟配送中心,supply-chain,库存策略,published
+Final Assembly Postponement,最终装配延迟,supply-chain,库存策略,published
+Packaging Postponement,包装延迟,supply-chain,库存策略,published
+Labeling Postponement,贴标延迟,supply-chain,库存策略,published
+Modular Product Design,模块化产品设计,supply-chain,库存策略,published
+Commonality,通用化,supply-chain,库存策略,published
+Part Standardization,零件标准化,supply-chain,库存策略,published
+Risk Pooling,风险共担,supply-chain,库存策略,published
 Inventory Centralization,库存集中化,supply-chain,库存策略,pending
 Inventory Pooling,库存池化,supply-chain,库存策略,pending
 Virtual Pooling,虚拟池化,supply-chain,库存策略,pending

@@ -1,7 +1,7 @@
 ---
 title: "(s; S) Policy"
 linkTitle: "(s; S)补货策略"
-date: 2026-11-20
+date: 2026-11-21
 type: docs
 subcategory: "库存策略"
 ---
@@ -10,35 +10,34 @@ subcategory: "库存策略"
 
 ## 定义
 
-(s; S)补货策略（英文全称：(s; S) Inventory Replenishment Policy）是一种广泛应用于供应链与库存管理中的经典周期性审查库存控制策略。其中，小写字母 $s$ 代表订货警戒点（Reorder Point），大写字母 $S$ 代表库存上限或目标库存水平（Order-up-to Level）。当系统审查发现当前库存降至或低于 $s$ 时，便会触发补货，将库存补充至 $S$。
+(s; S)补货策略（英文全称：(s; S) Inventory Policy）是一种经典的库存控制与补货方法，其中小写字母 $s$ 代表补货点（Reorder Point），大写字母 $S$ 代表目标库存上限（Order-Up-To Level）。当库存水平降至或低于 $s$ 时，系统会触发采购或发货指令，将库存补充至 $S$ 的水平。
 
 ## 详细说明
 
-- 使用场景：适用于需求波动较大、需要定期盘点库存，且批量采购能带来规模经济效益的国际贸易与仓储管理。
-- 关键规则或数字：当库存量 $I \le s$ 时，下单量为 $Q = S - I$；当库存量 $I > s$ 时，不采取行动。这种机制有效避免了频繁小批量订货带来的高额订购成本与运输成本。
-- 实务注意事项：在国际物流操作中，必须将供应商的提前期（Lead Time）以及海运/空运途中的在途库存（Pipeline Inventory）纳入计算，否则极易因盲目设定 $s$ 和 $S$ 导致供应链断层或港口滞箱费增加。
+- 使用场景：广泛应用于国际供应链中的海外仓备货、第三方物流（3PL）库存管理，以及需求波动较大但需要维持安全库存的SKU。
+- 关键规则或数字：当实时库存（现有库存加在途库存）低于或等于 $s$ 时，补货量等于 $(S - \text{当前库存})$；若库存高于 $s$，则不产生补货行为。参数 $s$ 和 $S$ 的设定需综合考量需求预测、订货铅期（Lead Time）及安全库存。
+- 实务注意事项：在国际货运中，由于海运或空运的运输时间较长，计算补货点 $s$ 时必须充分考虑国际物流的铅期波动，否则极易在航运途中发生断货风险。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| (s; S)补货策略 | (s; S) Inventory Policy |
-| 订货警戒点 | Reorder Point (s) |
-| 目标库存水平 | Order-up-to Level (S) |
-| 提前期 | Lead Time |
-| 在途库存 | Pipeline Inventory |
+| (s; S)补货策略 | (s; S) Policy / (s; S) Inventory Policy |
+| 补货点 | Reorder Point (ROP) |
+| 目标库存水平 | Order-Up-To Level / Maximum Inventory Level |
+| 订货铅期 | Lead Time |
 
 ## 相关术语
 
-- Economic Order Quantity, EOQ（经济订货批量）
+- Reorder Point（再订货点）
 - Safety Stock（安全库存）
-- Reorder Point System（再订货点系统）
-- Inventory Turnover（库存周转率）
+- Economic Order Quantity, EOQ（经济订货批量）
+- Lead Time（铅期/交货期）
 
 ## 常见误区
 
-- 误认为 $s$ 和 $S$ 的数值是一成不变的：在国际物流中，航线延误、季节性需求变动都会影响参数，必须动态调整。
-- 混淆了固定订货量模型与 (s; S) 策略：(s; S) 的每次订货量是变动的，取决于当前库存与目标 $S$ 的差额，而不是固定的批次。
+- 认为 $s$ 和 $S$ 是固定不变的数字：在实际国际物流中，随着旺季、淡季及供应商交货周期的变化，参数 $s$ 和 $S$ 需要动态调整。
+- 忽略在途库存（In-transit Inventory）：在计算是否达到补货点 $s$ 时，若只计算仓库里的现货而漏算已发运但未到港的货物，会导致重复下单和库存积压。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Landed Cost Analysis"
 linkTitle: "到岸成本分析"
-date: 2026-11-20
+date: 2026-11-21
 type: docs
 subcategory: "采购管理"
 ---
@@ -10,34 +10,34 @@ subcategory: "采购管理"
 
 ## 定义
 
-Landed Cost Analysis（到岸成本分析）是指对货物从起运地工厂运送至买方指定目的地仓库所产生的全部费用进行系统性计算与评估的方法。它不仅涵盖基础的海运或空运运费，还全面整合了关税、增值税、保险费、港口杂费以及内陆运输等隐性开支。
+到岸成本分析（Landed Cost Analysis）是指对货物从买方仓库运送到买方指定终点仓库所产生的全部费用进行系统性计算与评估的方法。它全面涵盖了采购价、国际海空运费、保险费、关税、增值税以及目的港各项杂费，旨在帮助外贸与物流从业者精准核算每一批货物的真实综合成本。
 
 ## 详细说明
 
-- 使用场景：广泛应用于跨境电商定价策略制定、供应商成本效益评估、进出口关税筹划以及供应链网络优化决策中。
-- 关键规则或数字：在传统的 FOB 或 EXW 贸易条款下，隐性物流成本往往占到总成本的 15% 至 40% 不等，精准的到岸成本分析是防止利润侵蚀的核心工具。
-- 实务注意事项：计算时必须及时更新目的港的最新关税税率与海关政策，同时要将汇率波动风险、滞箱费（Demurrage & Detention）等不可控因素纳入预案中。
+- 使用场景：广泛应用于跨境电商备货核算、跨国采购供应商比价、进出口毛利预测以及海关合规成本控制。
+- 关键规则或数字：在总成本中，隐性费用（如滞箱费、港口杂费、仓储费及汇率波动）常常占到总到岸成本的 10% 至 30%，若忽略不计将直接导致利润率计算失真。
+- 实务注意事项：必须结合具体的贸易术语（如 Incoterms 中的 DDP 或 FOB）来界定费用的责任划分，同时需实时关注目的地海关最新的税率调整及反倾销政策。
 
 ## 中英对照
 
-| 中文表达 | 英文原称 |
+| 中文表达 | 英文表达 |
 | :--- | :--- |
-| 到岸成本分析 | Landed Cost Analysis |
-| 关税与海关费用 | Duties and Customs Fees |
-| 门到门运输成本 | Door-to-Door Transportation Cost |
-| 供应链总成本 | Total Cost of Supply Chain |
+| 到岸成本 | Landed Cost |
+| 关税与税费 | Duties and Taxes |
+| 国际运费 | International Freight |
+| 目的港杂费 | Destination Handling Charges |
 
 ## 相关术语
 
-- Total Cost of Ownership（总拥有成本）
-- Free on Board（船上交货）
-- Duties and Taxes Unpaid（未完税交货）
-- Customs Clearance（清关）
+- Total Cost of Ownership (TCO)（总拥有成本）
+- Incoterms (International Commercial Terms)（国际贸易术语解释通则）
+- Tariff Classification (HS Code)（税则归类/商品编码）
+- Duty Drawback (关税退税)
 
 ## 常见误区
 
-- 误以为到岸成本仅等于“产品采购价加国际运费”，忽视了清关杂费、保险和末端派送等中间环节的开销。
-- 静态看待到岸成本，忽略了因汇率变动和目的港政策调整带来的成本动态波动。
+- 误区一：认为“到岸成本”就是产品采购价加上国际海运费，忽略了清关产生的关税、增值税及内陆派送费。
+- 误区二：在做成本分析时采用固定汇率，未将外汇市场波动造成的采购及物流成本差异纳入考量。
 
 ---
 
