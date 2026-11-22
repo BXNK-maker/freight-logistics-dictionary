@@ -1,7 +1,7 @@
 ---
 title: "FTA Tariff Preference"
 linkTitle: "自贸协定关税优惠"
-date: 2026-11-21
+date: 2026-11-22
 type: docs
 subcategory: "单证电子化"
 ---
@@ -9,6 +9,8 @@ subcategory: "单证电子化"
 > 📖 分类：**物流数字化** / 单证电子化　｜　FTA Tariff Preference = 自贸协定关税优惠
 
 ## 定义
+
+FTA Tariff Preference（Free Trade Agreement Tariff
 
 ---
 

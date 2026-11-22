@@ -1,7 +1,7 @@
 ---
 title: "UHF RFID Tag"
 linkTitle: "超高频RFID标签"
-date: 2026-11-21
+date: 2026-11-22
 type: docs
 subcategory: "物联网应用"
 ---
@@ -9,7 +9,31 @@ subcategory: "物联网应用"
 > 📖 分类：**物流数字化** / 物联网应用　｜　UHF RFID Tag = 超高频RFID标签
 
 ## 定义
-UHF RFID Tag（Ultra-High Frequency Radio Frequency Identification Tag，超高频射频识别标签）是一种利用超高频无线电波进行非接触式双向数据通信的电子数据载体。在国际货运与物流中，它被
+UHF RFID Tag（全称为 Ultra-High Frequency Radio Frequency Identification Tag，即超高频射频识别标签）是一种通过超高频无线电电磁波与读写设备进行非接触式数据通信的电子标识介质。在国际货运与物流中，它常附着在货物、托盘或集装箱上，用于远距离、批量、自动化的货物识别与在途追踪。
+
+## 详细说明
+- **使用场景**：广泛应用于集装箱出入闸管理、托盘级仓储盘点、交叉转运（Cross-docking）自动分拣以及航空行李与零售快消品（FMCG）的端到端供应链可视化监控。
+- **关键规则与数字**：该标签通常遵循 ISO/IEC 18000-6C 或 EPCglobal Gen2 国际标准，主流工作频段为 860 MHz 至 960 MHz；多数为无源（Passive）标签，识别距离一般可达 3 米至 12 米，且支持每秒读取数百个标签的“群读”功能。
+- **实务注意事项**：超高频电磁波极易被金属反射、被液体吸收，若用于油桶、罐头、冷冻品或金属集装箱表面，必须选用特制的“抗金属标签”（Anti-metal Tag）或增加吸波泡棉衬垫；此外，不同国家和地区的准用频段略有差异（如北美为 902–928 MHz，欧洲为 865–868 MHz），跨国运输应选用符合多频段规范的通用标签。
+
+## 中英对照
+
+| 英文术语 | 中文术语 |
+| :--- | :--- |
+| UHF RFID Tag | 超高频射频识别标签 |
+| Bulk Reading / Multi-tag Reading | 群读 / 批量读取 |
+| EPC Gen2 Standard | 电子产品代码第二代标准 |
+| Anti-metal RFID Tag | 抗金属 RFID 标签 |
+
+## 相关术语
+- RFID Reader（RFID 读写器）
+- Passive RFID（无源射频识别）
+- EPC / Electronic Product Code（产品电子代码）
+- Asset Tracking（资产追踪）
+
+## 常见误区
+- **误区一：混淆 RFID 与 GPS 的定位机制**。多数物流用的 UHF RFID 标签本身没有电池，无法主动向卫星发送信号，它只有在经过装有读写器的卡口、门禁或通道时才能被动记录位置节点，不能实现像 GPS 那样脱离基建设施的无间断全球实时轨迹追踪。
+- **误区二：认为只要贴上标签就能 100% 穿透整柜货物**。大批量高密度堆叠的高含水量货物或重金属包装会对电磁波造成严重衰减与屏蔽，盲目追求“整柜一次性透读”常导致漏读，实操中通常以托盘或外箱为单位在出入库通道门进行逐层复核。
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Harmonized System Classification"
 linkTitle: "商品归类"
-date: 2026-11-21
+date: 2026-11-22
 type: docs
 subcategory: "单证电子化"
 ---
@@ -9,31 +9,31 @@ subcategory: "单证电子化"
 > 📖 分类：**物流数字化** / 单证电子化　｜　Harmonized System Classification = 商品归类
 
 ## 定义
-商品归类（Harmonized System Classification，简称 HS 分类）是指依据世界海关组织（WCO）制定的《协调制度》国际公约，为进出口货物确定唯一法定编码的标准化工序。它是海关征收关税、实施贸易管制和统计国际贸易数据的基础。
+商品归类（Harmonized System Classification，简称 HS 分类）是指依据世界海关组织制定的《协调制度》公约，对进出口货物进行系统化系统编号和归属界定的法定程序。它是国际贸易中确定关税税率、贸易统计及监管条件的核心依据。
 
 ## 详细说明
-- 使用场景：货物在办理进出口报关、海关预归类申报、原产地证明申请及关税核算时均必须使用 HS 分类。
-- 关键规则或数字：HS 编码体系共有 21 类、97 章。其中前 6 位是全球统一的国际标准编码，后几位则根据各国贸易政策及海关管理需要进行延伸。
-- 实务注意事项：归类必须遵循《协调制度》的六条归类总规则（GIR）。一旦申报的 HS 编码错误，可能面临海关行政处罚、货物扣留甚至涉嫌走私的风险，因此发货人需提供准确的产品材质与用途说明。
+- 使用场景：适用于报关行、进出口企业在准备清关单据、计算关税、增值税以及核查非关税壁垒（如许可证、反倾销税）时。
+- 关键规则或数字：HS 编码由 6 位国际标准数字组成，前两位代表“章”，中间两位代表“节”，后两位代表“条”。各国可在此基础上根据本国需要延伸至 8 位或 10 位。
+- 实务注意事项：归类决定了货物的合规成本。申报时必须依据商品的实际物理成分、结构和功能进行归类，切忌仅凭商品俗称或销售名称盲目套用代码，以免产生海关稽查风险。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 商品归类 | Harmonized System Classification |
-| 协调制度编码 | Harmonized System Code / HS Code |
-| 归类总规则 | General Interpretative Rules (GIR) |
-| 海关预归类 | Customs Advance Ruling / Pre-classification |
+| 协调制度编码 | Harmonized System Code (HS Code) |
+| 商品编码归类总规则 | General Rules for the Interpretation of the Harmonized System (GRI) |
+| 预归类 | Advance Ruling / Binding Tariff Information |
 
 ## 相关术语
-- Harmonized System Code（海关编码）
-- Customs Declaration（报关）
+- HS Code（协调制度代码）
+- Customs Tariff（海关税则）
+- Customs Declaration（海关申报）
 - Tariff Rate（关税税率）
-- Customs Broker（报关行）
 
 ## 常见误区
-- 认为只要产品功能相似就可以随意套用同行的 HS 编码；实际上货物的材质、成分和加工程度往往会彻底改变归类结果。
-- 误以为前 6 位全球通用的 HS 编码在所有国家进口时都完全正确，忽略了各国对 8 位或 10 位本国子目编码的特殊要求。
+- 认为只要货名相似就可以随意套用以前出口过的高频 HS 编码，忽视了材质或用途微调可能带来的归类变更。
+- 混淆国际通用的 6 位 HS 编码与各国海关自定的 8 位或 10 位本国子目税号，导致目的地清关税号不符。
 
 ---
 

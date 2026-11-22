@@ -1,7 +1,7 @@
 ---
 title: "Load Matching Algorithm"
 linkTitle: "货源匹配算法"
-date: 2026-11-21
+date: 2026-11-22
 type: docs
 subcategory: "人工智能应用"
 ---
@@ -9,7 +9,8 @@ subcategory: "人工智能应用"
 > 📖 分类：**物流数字化** / 人工智能应用　｜　Load Matching Algorithm = 货源匹配算法
 
 ## 定义
-货源匹配算法（Load Matching Algorithm）是现代数字物流平台中核心的智能调度技术。它利用人工智能和大数据，根据货主的运单需求与承运人的车辆位置、载重及空驶状态，自动实现最优运输资源
+
+货源匹配算法（Load Matching Algorithm）是一种基于计算机技术和运筹学原理的自动化工具，用于将货主的货运需求与承运人的运输能力进行最优匹配。该技术广泛应用于数字货运平台和物流供应链管理中，旨在提升配载
 
 ---
 

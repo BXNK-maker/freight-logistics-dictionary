@@ -8414,106 +8414,106 @@ Over-the-Air Update (OTA),空中固件升级,digital-logistics,物联网应用,p
 Fuel Level Monitoring,油量监测,digital-logistics,物联网应用,published
 Fuel Theft Alert,油量异常告警,digital-logistics,物联网应用,published
 Fatigue Driving Detection,疲劳驾驶检测,digital-logistics,物联网应用,published
-UHF RFID Tag,超高频RFID标签,digital-logistics,物联网应用,pending
+UHF RFID Tag,超高频RFID标签,digital-logistics,物联网应用,published
 Passive RFID Tag,无源RFID标签,digital-logistics,物联网应用,pending
 Active RFID Tag,有源RFID标签,digital-logistics,物联网应用,pending
-RFID Portal Reader,RFID门禁读写器,digital-logistics,物联网应用,pending
-RFID Handheld Reader,RFID手持读写器,digital-logistics,物联网应用,pending
-NFC Tag,NFC标签,digital-logistics,物联网应用,pending
-Wearable Scanner,穿戴式扫描器,digital-logistics,物联网应用,pending
-Smart Pallet,智能托盘,digital-logistics,物联网应用,pending
-Cold Chain IoT Platform,冷链物联网平台,digital-logistics,物联网应用,pending
-Remote Diagnostics,远程诊断,digital-logistics,物联网应用,pending
-Logistics AI Platform,物流AI平台,digital-logistics,人工智能应用,pending
-ETA Prediction,ETA预测,digital-logistics,人工智能应用,pending
-Machine Learning Model,机器学习模型,digital-logistics,人工智能应用,pending
-Deep Learning,深度学习,digital-logistics,人工智能应用,pending
-Neural Network,神经网络,digital-logistics,人工智能应用,pending
-Natural Language Processing (NLP),自然语言处理,digital-logistics,人工智能应用,pending
-Large Language Model (LLM),大语言模型,digital-logistics,人工智能应用,pending
-AI Agent,智能体,digital-logistics,人工智能应用,pending
-Intelligent Document Processing,智能文档处理,digital-logistics,人工智能应用,pending
-Invoice OCR Automation,发票OCR自动识别,digital-logistics,人工智能应用,pending
-Email Parsing Automation,邮件自动解析,digital-logistics,人工智能应用,pending
-Chatbot Customer Service,聊天机器人客服,digital-logistics,人工智能应用,pending
-Conversational AI,对话式AI,digital-logistics,人工智能应用,pending
-Generative AI,生成式AI,digital-logistics,人工智能应用,pending
-AI Copilot for Planners,计划员AI助手,digital-logistics,人工智能应用,pending
-Predictive Analytics,预测性分析,digital-logistics,人工智能应用,pending
-Prescriptive Analytics,指导性分析,digital-logistics,人工智能应用,pending
-Descriptive Analytics,描述性分析,digital-logistics,人工智能应用,pending
-Diagnostic Analytics,诊断性分析,digital-logistics,人工智能应用,pending
-Supply Chain Digital Twin,供应链数字孪生,digital-logistics,人工智能应用,pending
-Warehouse Digital Twin,仓库数字孪生,digital-logistics,人工智能应用,pending
-Simulation Modeling,仿真建模,digital-logistics,人工智能应用,pending
-Reinforcement Learning,强化学习,digital-logistics,人工智能应用,pending
-Computer Vision,计算机视觉,digital-logistics,人工智能应用,pending
-Video Analytics,视频分析,digital-logistics,人工智能应用,pending
-Damage Detection AI,货损视觉检测,digital-logistics,人工智能应用,pending
-License Plate Recognition,车牌识别,digital-logistics,人工智能应用,pending
-Bill of Lading OCR,提单OCR识别,digital-logistics,人工智能应用,pending
-Customs AI,智能报关,digital-logistics,人工智能应用,pending
-Automated Customs Clearance,自动清关,digital-logistics,人工智能应用,pending
-Risk Targeting System,风险布控系统,digital-logistics,人工智能应用,pending
-Anomaly Detection,异常检测,digital-logistics,人工智能应用,pending
-Fraud Detection,欺诈检测,digital-logistics,人工智能应用,pending
-Condition-Based Maintenance,视情维护,digital-logistics,人工智能应用,pending
-Remaining Useful Life Prediction,剩余寿命预测,digital-logistics,人工智能应用,pending
-Route Optimization Algorithm,路径优化算法,digital-logistics,人工智能应用,pending
-Vehicle Routing Problem (VRP),车辆路径问题,digital-logistics,人工智能应用,pending
-Capacitated VRP,带容量约束车辆路径,digital-logistics,人工智能应用,pending
-Traveling Salesman Problem (TSP),旅行商问题,digital-logistics,人工智能应用,pending
-Real-Time Traffic Data,实时交通数据,digital-logistics,人工智能应用,pending
-AI Dispatch System,智能调度系统,digital-logistics,人工智能应用,pending
-Automatic Order Assignment,订单自动分配,digital-logistics,人工智能应用,pending
-Intelligent Matching Engine,智能匹配引擎,digital-logistics,人工智能应用,pending
-Load Matching Algorithm,货源匹配算法,digital-logistics,人工智能应用,pending
-Berth Call Prediction,泊位到港预测,digital-logistics,人工智能应用,pending
-Port Congestion Prediction,拥堵预测,digital-logistics,人工智能应用,pending
-Freight Rate Forecasting,运价预测,digital-logistics,人工智能应用,pending
-Optimization Engine,优化引擎,digital-logistics,人工智能应用,pending
-Causal Inference,因果推断,digital-logistics,人工智能应用,pending
-Feature Engineering,特征工程,digital-logistics,人工智能应用,pending
-Model Drift Monitoring,模型漂移监控,digital-logistics,人工智能应用,pending
-Explainable AI (XAI),可解释AI,digital-logistics,人工智能应用,pending
-AI Governance,AI治理,digital-logistics,人工智能应用,pending
-Electronic Document Management,电子单证管理,digital-logistics,单证电子化,pending
-e-Air Waybill (eAWB),电子空运提单,digital-logistics,单证电子化,pending
-Electronic Sea Waybill,电子海运单,digital-logistics,单证电子化,pending
-Advance Manifest Filing,舱单预申报,digital-logistics,单证电子化,pending
-AMS Filing,美国舱单申报,digital-logistics,单证电子化,pending
-ICS2 Filing,欧盟进口管制系统申报,digital-logistics,单证电子化,pending
-Digital Customs,数字海关,digital-logistics,单证电子化,pending
-FTA Tariff Preference,自贸协定关税优惠,digital-logistics,单证电子化,pending
-Harmonized System Classification,商品归类,digital-logistics,单证电子化,pending
-Electronic POD,电子签收,digital-logistics,单证电子化,pending
-E-Signature,电子签章,digital-logistics,单证电子化,pending
-Compliance Screening,合规筛查,digital-logistics,单证电子化,pending
-EDIFACT,联合国EDIFACT标准,digital-logistics,数据标准,pending
-X12 Standard,美国X12标准,digital-logistics,数据标准,pending
-EDI 856 (ASN),发货通知报文,digital-logistics,数据标准,pending
-EDI 850,采购订单报文,digital-logistics,数据标准,pending
-EDI 855,采购订单确认报文,digital-logistics,数据标准,pending
-EDI 810,发票报文,digital-logistics,数据标准,pending
-EDI 820,付款报文,digital-logistics,数据标准,pending
-EDI 830,计划发布报文,digital-logistics,数据标准,pending
-EDI 862,发运计划报文,digital-logistics,数据标准,pending
-EDI 860,采购订单变更报文,digital-logistics,数据标准,pending
-EDI 865,采购订单变更确认报文,digital-logistics,数据标准,pending
-EDI 214,运输状态报文,digital-logistics,数据标准,pending
-EDI 210,货运发票报文,digital-logistics,数据标准,pending
-EDI 204,机动车装载委托报文,digital-logistics,数据标准,pending
-EDI 990,承运商响应报文,digital-logistics,数据标准,pending
-EDI 997,功能确认报文,digital-logistics,数据标准,pending
-EDI 940,仓库发货指令报文,digital-logistics,数据标准,pending
-EDI 945,仓库发货确认报文,digital-logistics,数据标准,pending
-EDI 943,库存调拨申请报文,digital-logistics,数据标准,pending
-EDI 944,库存调拨接收报文,digital-logistics,数据标准,pending
-EDI 846,库存查询与建议报文,digital-logistics,数据标准,pending
-EDI 867,销售报告报文,digital-logistics,数据标准,pending
-EDI 852,产品销售数据报文,digital-logistics,数据标准,pending
-EDI 832,价格与销售目录报文,digital-logistics,数据标准,pending
-EDI 812,贷记借记调整报文,digital-logistics,数据标准,pending
+RFID Portal Reader,RFID门禁读写器,digital-logistics,物联网应用,published
+RFID Handheld Reader,RFID手持读写器,digital-logistics,物联网应用,published
+NFC Tag,NFC标签,digital-logistics,物联网应用,published
+Wearable Scanner,穿戴式扫描器,digital-logistics,物联网应用,published
+Smart Pallet,智能托盘,digital-logistics,物联网应用,published
+Cold Chain IoT Platform,冷链物联网平台,digital-logistics,物联网应用,published
+Remote Diagnostics,远程诊断,digital-logistics,物联网应用,published
+Logistics AI Platform,物流AI平台,digital-logistics,人工智能应用,published
+ETA Prediction,ETA预测,digital-logistics,人工智能应用,published
+Machine Learning Model,机器学习模型,digital-logistics,人工智能应用,published
+Deep Learning,深度学习,digital-logistics,人工智能应用,published
+Neural Network,神经网络,digital-logistics,人工智能应用,published
+Natural Language Processing (NLP),自然语言处理,digital-logistics,人工智能应用,published
+Large Language Model (LLM),大语言模型,digital-logistics,人工智能应用,published
+AI Agent,智能体,digital-logistics,人工智能应用,published
+Intelligent Document Processing,智能文档处理,digital-logistics,人工智能应用,published
+Invoice OCR Automation,发票OCR自动识别,digital-logistics,人工智能应用,published
+Email Parsing Automation,邮件自动解析,digital-logistics,人工智能应用,published
+Chatbot Customer Service,聊天机器人客服,digital-logistics,人工智能应用,published
+Conversational AI,对话式AI,digital-logistics,人工智能应用,published
+Generative AI,生成式AI,digital-logistics,人工智能应用,published
+AI Copilot for Planners,计划员AI助手,digital-logistics,人工智能应用,published
+Predictive Analytics,预测性分析,digital-logistics,人工智能应用,published
+Prescriptive Analytics,指导性分析,digital-logistics,人工智能应用,published
+Descriptive Analytics,描述性分析,digital-logistics,人工智能应用,published
+Diagnostic Analytics,诊断性分析,digital-logistics,人工智能应用,published
+Supply Chain Digital Twin,供应链数字孪生,digital-logistics,人工智能应用,published
+Warehouse Digital Twin,仓库数字孪生,digital-logistics,人工智能应用,published
+Simulation Modeling,仿真建模,digital-logistics,人工智能应用,published
+Reinforcement Learning,强化学习,digital-logistics,人工智能应用,published
+Computer Vision,计算机视觉,digital-logistics,人工智能应用,published
+Video Analytics,视频分析,digital-logistics,人工智能应用,published
+Damage Detection AI,货损视觉检测,digital-logistics,人工智能应用,published
+License Plate Recognition,车牌识别,digital-logistics,人工智能应用,published
+Bill of Lading OCR,提单OCR识别,digital-logistics,人工智能应用,published
+Customs AI,智能报关,digital-logistics,人工智能应用,published
+Automated Customs Clearance,自动清关,digital-logistics,人工智能应用,published
+Risk Targeting System,风险布控系统,digital-logistics,人工智能应用,published
+Anomaly Detection,异常检测,digital-logistics,人工智能应用,published
+Fraud Detection,欺诈检测,digital-logistics,人工智能应用,published
+Condition-Based Maintenance,视情维护,digital-logistics,人工智能应用,published
+Remaining Useful Life Prediction,剩余寿命预测,digital-logistics,人工智能应用,published
+Route Optimization Algorithm,路径优化算法,digital-logistics,人工智能应用,published
+Vehicle Routing Problem (VRP),车辆路径问题,digital-logistics,人工智能应用,published
+Capacitated VRP,带容量约束车辆路径,digital-logistics,人工智能应用,published
+Traveling Salesman Problem (TSP),旅行商问题,digital-logistics,人工智能应用,published
+Real-Time Traffic Data,实时交通数据,digital-logistics,人工智能应用,published
+AI Dispatch System,智能调度系统,digital-logistics,人工智能应用,published
+Automatic Order Assignment,订单自动分配,digital-logistics,人工智能应用,published
+Intelligent Matching Engine,智能匹配引擎,digital-logistics,人工智能应用,published
+Load Matching Algorithm,货源匹配算法,digital-logistics,人工智能应用,published
+Berth Call Prediction,泊位到港预测,digital-logistics,人工智能应用,published
+Port Congestion Prediction,拥堵预测,digital-logistics,人工智能应用,published
+Freight Rate Forecasting,运价预测,digital-logistics,人工智能应用,published
+Optimization Engine,优化引擎,digital-logistics,人工智能应用,published
+Causal Inference,因果推断,digital-logistics,人工智能应用,published
+Feature Engineering,特征工程,digital-logistics,人工智能应用,published
+Model Drift Monitoring,模型漂移监控,digital-logistics,人工智能应用,published
+Explainable AI (XAI),可解释AI,digital-logistics,人工智能应用,published
+AI Governance,AI治理,digital-logistics,人工智能应用,published
+Electronic Document Management,电子单证管理,digital-logistics,单证电子化,published
+e-Air Waybill (eAWB),电子空运提单,digital-logistics,单证电子化,published
+Electronic Sea Waybill,电子海运单,digital-logistics,单证电子化,published
+Advance Manifest Filing,舱单预申报,digital-logistics,单证电子化,published
+AMS Filing,美国舱单申报,digital-logistics,单证电子化,published
+ICS2 Filing,欧盟进口管制系统申报,digital-logistics,单证电子化,published
+Digital Customs,数字海关,digital-logistics,单证电子化,published
+FTA Tariff Preference,自贸协定关税优惠,digital-logistics,单证电子化,published
+Harmonized System Classification,商品归类,digital-logistics,单证电子化,published
+Electronic POD,电子签收,digital-logistics,单证电子化,published
+E-Signature,电子签章,digital-logistics,单证电子化,published
+Compliance Screening,合规筛查,digital-logistics,单证电子化,published
+EDIFACT,联合国EDIFACT标准,digital-logistics,数据标准,published
+X12 Standard,美国X12标准,digital-logistics,数据标准,published
+EDI 856 (ASN),发货通知报文,digital-logistics,数据标准,published
+EDI 850,采购订单报文,digital-logistics,数据标准,published
+EDI 855,采购订单确认报文,digital-logistics,数据标准,published
+EDI 810,发票报文,digital-logistics,数据标准,published
+EDI 820,付款报文,digital-logistics,数据标准,published
+EDI 830,计划发布报文,digital-logistics,数据标准,published
+EDI 862,发运计划报文,digital-logistics,数据标准,published
+EDI 860,采购订单变更报文,digital-logistics,数据标准,published
+EDI 865,采购订单变更确认报文,digital-logistics,数据标准,published
+EDI 214,运输状态报文,digital-logistics,数据标准,published
+EDI 210,货运发票报文,digital-logistics,数据标准,published
+EDI 204,机动车装载委托报文,digital-logistics,数据标准,published
+EDI 990,承运商响应报文,digital-logistics,数据标准,published
+EDI 997,功能确认报文,digital-logistics,数据标准,published
+EDI 940,仓库发货指令报文,digital-logistics,数据标准,published
+EDI 945,仓库发货确认报文,digital-logistics,数据标准,published
+EDI 943,库存调拨申请报文,digital-logistics,数据标准,published
+EDI 944,库存调拨接收报文,digital-logistics,数据标准,published
+EDI 846,库存查询与建议报文,digital-logistics,数据标准,published
+EDI 867,销售报告报文,digital-logistics,数据标准,published
+EDI 852,产品销售数据报文,digital-logistics,数据标准,published
+EDI 832,价格与销售目录报文,digital-logistics,数据标准,published
+EDI 812,贷记借记调整报文,digital-logistics,数据标准,published
 EDI 824,应用回执报文,digital-logistics,数据标准,pending
 EDI 322,码头作业状态报文,digital-logistics,数据标准,pending
 EDI 315,集装箱状态报文,digital-logistics,数据标准,pending

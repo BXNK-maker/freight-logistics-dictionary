@@ -1,7 +1,7 @@
 ---
 title: "Condition-Based Maintenance"
 linkTitle: "视情维护"
-date: 2026-11-21
+date: 2026-11-22
 type: docs
 subcategory: "人工智能应用"
 ---
@@ -9,36 +9,31 @@ subcategory: "人工智能应用"
 > 📖 分类：**物流数字化** / 人工智能应用　｜　Condition-Based Maintenance = 视情维护
 
 ## 定义
-
-视情维护（Condition-Based Maintenance，简称 CBM）是一种现代资产管理与设备维护策略，指通过实时监测设备的运行状态和性能指标来决定何时进行维护。与传统的定期大修不同，它只在设备显示出即将故障的征兆时才安排维修，从而优化资源配置并降低运营成本。
+Condition-Based Maintenance（中文：视情维护，简称 CBM）是一种基于设备实际运行状态和性能监测数据来决定维护时机的现代维护策略。与传统的定期保养不同，它只在数据表明设备即将出现故障或性能下降时才安排维修，从而优化维护成本并减少意外停机。
 
 ## 详细说明
-
-- 使用场景：广泛应用于国际物流中的高价值资产管理，如远洋集装箱船的主机与辅机、港口大型起重机（岸桥）、冷链运输中的冷藏车及冷机、自动化立体仓库的输送系统等。
-- 关键规则或数字：该技术高度依赖物联网（IoT）传感器、振动分析、红外热成像及油液分析等技术。据行业统计，科学实施视情维护可减少高达 30%-50% 的设备停机时间，并节约 10%-40% 的维护成本。
-- 实务注意事项：货代与物流企业在部署 CBM 时，需前期投入较高的传感器和数据监控平台建设成本；同时，技术人员必须具备解读监测数据的能力，以防传感器误报引发不必要的紧急维修。
+- 使用场景：广泛应用于远洋船舶的主机与辅机、集装箱港口起重机（岸桥/场桥）、自动化立体仓库的堆垛机，以及长途冷链运输车的制冷机组等关键物流装备。
+- 关键规则与数字：通过传感器实时采集振动、温度、油液分析和电流等参数；当监测指标超过预设阈值或出现异常趋势时触发报警，通常可将设备故障停机时间减少 30% 至 50%。
+- 实务注意事项：前期物联网（IoT）传感器和监控软件的投资成本较高；必须确保数据传输的实时性和准确性，若监测数据失真可能导致漏报或误报。
 
 ## 中英对照
-
-| 中文表达 | 英文表达 |
+| 英文表达 | 中文翻译 |
 | :--- | :--- |
-| 视情维护 | Condition-Based Maintenance (CBM) |
-| 预测性维护 | Predictive Maintenance (PdM) |
-| 预防性维护 | Preventive Maintenance (PM) |
-| 状态监测 | Condition Monitoring (CM) |
-| 物联网 | Internet of Things (IoT) |
+| Condition-Based Maintenance (CBM) | 视情维护 / 状态监测维修 |
+| Predictive Maintenance (PdM) | 预测性维护 |
+| Preventive Maintenance (PM) | 预防性维护（定期保养） |
+| Corrective Maintenance (CM) | 纠正性维护 / 故障维修 |
+| Real-time Monitoring | 实时监控 |
 
 ## 相关术语
-
 - Predictive Maintenance（预测性维护）
 - Preventive Maintenance（预防性维护）
-- Condition Monitoring（状态监测）
-- Total Productive Maintenance（全员生产维护）
+- Corrective Maintenance（纠正性维护）
+- Mean Time Between Failures (MTBF)（平均故障间隔时间）
 
 ## 常见误区
-
-- 认为 CBM 可以完全消灭设备故障：实际上它只能做到提前预警，无法阻止突发性的不可抗力损坏。
-- 将视情维护等同于定期维护：定期维护是基于时间和里程，而 CBM 是基于设备实际健康状况。
+- 认为视情维护等同于预测性维护：视情维护主要依据当前状态触发，而预测性维护通常结合大数据和机器学习算法进一步预测故障发生的具体时间。
+- 以为安装了传感器就万事大吉：忽视了对监测数据的专业分析与人工复核，导致系统误判时无法及时采取补救措施。
 
 ---
 
