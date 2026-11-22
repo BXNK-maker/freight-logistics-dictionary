@@ -8612,106 +8612,106 @@ Drone Insurance,无人机保险,digital-logistics,低空物流,published
 Drone Fleet Operations,无人机机队运营,digital-logistics,低空物流,published
 Autonomous Drone Navigation,无人机自主导航,digital-logistics,低空物流,published
 Drone Battery Swap Station,无人机换电站,digital-logistics,低空物流,published
-Flight Endurance,续航时间,digital-logistics,低空物流,pending
-Autonomous Vehicle (AV),自动驾驶车辆,digital-logistics,自动驾驶,pending
-L4 Autonomous Driving,L4级自动驾驶,digital-logistics,自动驾驶,pending
-L2 Advanced Driving Assist,L2级辅助驾驶,digital-logistics,自动驾驶,pending
-Truck Platooning,卡车列队行驶,digital-logistics,自动驾驶,pending
-Driverless Operation,无人驾驶运营,digital-logistics,自动驾驶,pending
-Remote Vehicle Monitoring,远程车辆监控,digital-logistics,自动驾驶,pending
-Remote Teleoperation,远程驾驶接管,digital-logistics,自动驾驶,pending
-Remote Operation Center,远程运营中心,digital-logistics,自动驾驶,pending
-Safety Driver,随车安全员,digital-logistics,自动驾驶,pending
-LiDAR,激光雷达,digital-logistics,自动驾驶,pending
-Millimeter-Wave Radar,毫米波雷达,digital-logistics,自动驾驶,pending
-HD Map,高精地图,digital-logistics,自动驾驶,pending
-Perception System,感知系统,digital-logistics,自动驾驶,pending
-Motion Planning,运动规划,digital-logistics,自动驾驶,pending
-V2X Communication,车路协同通信,digital-logistics,自动驾驶,pending
-Vehicle-to-Vehicle (V2V),车车通信,digital-logistics,自动驾驶,pending
-Vehicle-to-Infrastructure (V2I),车路通信,digital-logistics,自动驾驶,pending
-Intelligent Connected Vehicle,智能网联汽车,digital-logistics,自动驾驶,pending
-Advanced Driver Assistance System (ADAS),高级驾驶辅助系统,digital-logistics,自动驾驶,pending
-Lane Keeping Assist,车道保持辅助,digital-logistics,自动驾驶,pending
-Blind Spot Detection,盲区检测,digital-logistics,自动驾驶,pending
-Driver Monitoring System,驾驶员监测系统,digital-logistics,自动驾驶,pending
-Autonomous Hub-to-Hub,枢纽到枢纽自动驾驶,digital-logistics,自动驾驶,pending
-Autonomous Port Tractor,港口无人集卡,digital-logistics,自动驾驶,pending
-Autonomous Yard Truck,无人场站拖车,digital-logistics,自动驾驶,pending
-Autonomous Mining Truck,矿区无人驾驶卡车,digital-logistics,自动驾驶,pending
-Unmanned Delivery Vehicle,无人配送车,digital-logistics,自动驾驶,pending
-Sidewalk Delivery Robot,人行道配送机器人,digital-logistics,自动驾驶,pending
-Autonomous Forklift,无人叉车,digital-logistics,自动驾驶,pending
-Virtual Driver,虚拟司机,digital-logistics,自动驾驶,pending
-Operational Design Domain (ODD),设计运行域,digital-logistics,自动驾驶,pending
-Redundant Braking System,冗余制动系统,digital-logistics,自动驾驶,pending
-Redundant Steering,冗余转向系统,digital-logistics,自动驾驶,pending
-Fail-Operational Design,失效可运行设计,digital-logistics,自动驾驶,pending
-Truck Automation Pilot,自动驾驶货运试点,digital-logistics,自动驾驶,pending
-Autonomous Freight Corridor,自动驾驶货运走廊,digital-logistics,自动驾驶,pending
-AV Regulatory Framework,自动驾驶监管框架,digital-logistics,自动驾驶,pending
-Functional Safety (ISO 26262),功能安全标准,digital-logistics,自动驾驶,pending
-SOTIF,预期功能安全,digital-logistics,自动驾驶,pending
-Object Detection Algorithm,目标检测算法,digital-logistics,自动驾驶,pending
-Sensor Calibration,传感器标定,digital-logistics,自动驾驶,pending
-High-Precision Positioning,高精度定位,digital-logistics,自动驾驶,pending
-SLAM Technology,同步定位与建图,digital-logistics,自动驾驶,pending
-Autonomous Fleet,自动驾驶车队,digital-logistics,自动驾驶,pending
-Driverless Tractor,无人牵引车,digital-logistics,自动驾驶,pending
-Point-of-Sale Data (POS Data),销售点数据,supply-chain,计划体系,pending
-Deferred Payment Letter of Credit,延期付款信用证,freight-finance,信用证实务,pending
-Negotiation Letter of Credit,议付信用证,freight-finance,信用证实务,pending
-Unconfirmed Letter of Credit,不保兑信用证,freight-finance,信用证实务,pending
-Revocable Letter of Credit,可撤销信用证,freight-finance,信用证实务,pending
-Green Clause Letter of Credit,绿条款信用证,freight-finance,信用证实务,pending
-Packing Letter of Credit,打包信用证,freight-finance,信用证实务,pending
-Local Letter of Credit,本地信用证,freight-finance,信用证实务,pending
-Countervailing Credit,对开信用证,freight-finance,信用证实务,pending
-Reciprocal Letter of Credit,对背信用证,freight-finance,信用证实务,pending
-Anticipatory Credit,预支信用证,freight-finance,信用证实务,pending
-Evergreen Credit,永续信用证,freight-finance,信用证实务,pending
-Nominated Bank,指定银行,freight-finance,信用证实务,pending
-Transferring Bank,转让行,freight-finance,信用证实务,pending
-Applicant of Credit,信用证申请人,freight-finance,信用证实务,pending
-Beneficiary of Credit,信用证受益人,freight-finance,信用证实务,pending
-Second Beneficiary,第二受益人,freight-finance,信用证实务,pending
-Letter of Credit Cancellation,信用证撤销,freight-finance,信用证实务,pending
-Letter of Credit Expiry Date,信用证有效期,freight-finance,信用证实务,pending
-Presentation Period,交单期,freight-finance,信用证实务,pending
-Expiry Place,到期地点,freight-finance,信用证实务,pending
-Credit Availability,信用证兑用方式,freight-finance,信用证实务,pending
-Available With,兑用银行,freight-finance,信用证实务,pending
-Available By,兑用方式,freight-finance,信用证实务,pending
-Clean Credit,光票信用证,freight-finance,信用证实务,pending
-Credit Amount Tolerance,金额增减幅度,freight-finance,信用证实务,pending
-Plus or Plus Tolerance,上下浮动允差,freight-finance,信用证实务,pending
-Partial Shipment Allowed,允许分批装运,freight-finance,信用证实务,pending
-Transshipment Allowed,允许转运,freight-finance,信用证实务,pending
-Drawee,付款人,freight-finance,信用证实务,pending
-Drawer,出票人,freight-finance,信用证实务,pending
-Payee,收款人,freight-finance,信用证实务,pending
-Endorser,背书人,freight-finance,信用证实务,pending
-Endorsee,被背书人,freight-finance,信用证实务,pending
-Maturity Date of Draft,汇票到期日,freight-finance,信用证实务,pending
-Days of Usance,远期天数,freight-finance,信用证实务,pending
-Discrepant Documents,不符点单据,freight-finance,信用证实务,pending
-Discrepancy Notice,不符点通知,freight-finance,信用证实务,pending
-Document Examination Period,审单期限,freight-finance,信用证实务,pending
-Complying Presentation,相符交单,freight-finance,信用证实务,pending
-Soft Clause,软条款,freight-finance,信用证实务,pending
-Inspection Certificate Clause Trap,检验证书软条款,freight-finance,信用证实务,pending
-Applicant Inspects Goods Clause,申请人验货条款,freight-finance,信用证实务,pending
-Letter of Credit Fraud,信用证欺诈,freight-finance,信用证实务,pending
-Fraud Exception,欺诈例外原则,freight-finance,信用证实务,pending
-Autonomy Principle of Credit,信用证独立抽象原则,freight-finance,信用证实务,pending
-Documentary Compliance Standard,单据相符标准,freight-finance,信用证实务,pending
-Letter of Credit Settlement,信用证结算,freight-finance,信用证实务,pending
-Sight Payment Settlement,即期付款交单,freight-finance,信用证实务,pending
-Negotiation Settlement,议付结算,freight-finance,信用证实务,pending
-Acceptance Settlement,承兑结算,freight-finance,信用证实务,pending
-Deferred Payment Settlement,延期付款结算,freight-finance,信用证实务,pending
-Teletransmission of Credit,信用证电开,freight-finance,信用证实务,pending
-SWIFT MT707,SWIFT 信用证修改报文,freight-finance,信用证实务,pending
+Flight Endurance,续航时间,digital-logistics,低空物流,published
+Autonomous Vehicle (AV),自动驾驶车辆,digital-logistics,自动驾驶,published
+L4 Autonomous Driving,L4级自动驾驶,digital-logistics,自动驾驶,published
+L2 Advanced Driving Assist,L2级辅助驾驶,digital-logistics,自动驾驶,published
+Truck Platooning,卡车列队行驶,digital-logistics,自动驾驶,published
+Driverless Operation,无人驾驶运营,digital-logistics,自动驾驶,published
+Remote Vehicle Monitoring,远程车辆监控,digital-logistics,自动驾驶,published
+Remote Teleoperation,远程驾驶接管,digital-logistics,自动驾驶,published
+Remote Operation Center,远程运营中心,digital-logistics,自动驾驶,published
+Safety Driver,随车安全员,digital-logistics,自动驾驶,published
+LiDAR,激光雷达,digital-logistics,自动驾驶,published
+Millimeter-Wave Radar,毫米波雷达,digital-logistics,自动驾驶,published
+HD Map,高精地图,digital-logistics,自动驾驶,published
+Perception System,感知系统,digital-logistics,自动驾驶,published
+Motion Planning,运动规划,digital-logistics,自动驾驶,published
+V2X Communication,车路协同通信,digital-logistics,自动驾驶,published
+Vehicle-to-Vehicle (V2V),车车通信,digital-logistics,自动驾驶,published
+Vehicle-to-Infrastructure (V2I),车路通信,digital-logistics,自动驾驶,published
+Intelligent Connected Vehicle,智能网联汽车,digital-logistics,自动驾驶,published
+Advanced Driver Assistance System (ADAS),高级驾驶辅助系统,digital-logistics,自动驾驶,published
+Lane Keeping Assist,车道保持辅助,digital-logistics,自动驾驶,published
+Blind Spot Detection,盲区检测,digital-logistics,自动驾驶,published
+Driver Monitoring System,驾驶员监测系统,digital-logistics,自动驾驶,published
+Autonomous Hub-to-Hub,枢纽到枢纽自动驾驶,digital-logistics,自动驾驶,published
+Autonomous Port Tractor,港口无人集卡,digital-logistics,自动驾驶,published
+Autonomous Yard Truck,无人场站拖车,digital-logistics,自动驾驶,published
+Autonomous Mining Truck,矿区无人驾驶卡车,digital-logistics,自动驾驶,published
+Unmanned Delivery Vehicle,无人配送车,digital-logistics,自动驾驶,published
+Sidewalk Delivery Robot,人行道配送机器人,digital-logistics,自动驾驶,published
+Autonomous Forklift,无人叉车,digital-logistics,自动驾驶,published
+Virtual Driver,虚拟司机,digital-logistics,自动驾驶,published
+Operational Design Domain (ODD),设计运行域,digital-logistics,自动驾驶,published
+Redundant Braking System,冗余制动系统,digital-logistics,自动驾驶,published
+Redundant Steering,冗余转向系统,digital-logistics,自动驾驶,published
+Fail-Operational Design,失效可运行设计,digital-logistics,自动驾驶,published
+Truck Automation Pilot,自动驾驶货运试点,digital-logistics,自动驾驶,published
+Autonomous Freight Corridor,自动驾驶货运走廊,digital-logistics,自动驾驶,published
+AV Regulatory Framework,自动驾驶监管框架,digital-logistics,自动驾驶,published
+Functional Safety (ISO 26262),功能安全标准,digital-logistics,自动驾驶,published
+SOTIF,预期功能安全,digital-logistics,自动驾驶,published
+Object Detection Algorithm,目标检测算法,digital-logistics,自动驾驶,published
+Sensor Calibration,传感器标定,digital-logistics,自动驾驶,published
+High-Precision Positioning,高精度定位,digital-logistics,自动驾驶,published
+SLAM Technology,同步定位与建图,digital-logistics,自动驾驶,published
+Autonomous Fleet,自动驾驶车队,digital-logistics,自动驾驶,published
+Driverless Tractor,无人牵引车,digital-logistics,自动驾驶,published
+Point-of-Sale Data (POS Data),销售点数据,supply-chain,计划体系,published
+Deferred Payment Letter of Credit,延期付款信用证,freight-finance,信用证实务,published
+Negotiation Letter of Credit,议付信用证,freight-finance,信用证实务,published
+Unconfirmed Letter of Credit,不保兑信用证,freight-finance,信用证实务,published
+Revocable Letter of Credit,可撤销信用证,freight-finance,信用证实务,published
+Green Clause Letter of Credit,绿条款信用证,freight-finance,信用证实务,published
+Packing Letter of Credit,打包信用证,freight-finance,信用证实务,published
+Local Letter of Credit,本地信用证,freight-finance,信用证实务,published
+Countervailing Credit,对开信用证,freight-finance,信用证实务,published
+Reciprocal Letter of Credit,对背信用证,freight-finance,信用证实务,published
+Anticipatory Credit,预支信用证,freight-finance,信用证实务,published
+Evergreen Credit,永续信用证,freight-finance,信用证实务,published
+Nominated Bank,指定银行,freight-finance,信用证实务,published
+Transferring Bank,转让行,freight-finance,信用证实务,published
+Applicant of Credit,信用证申请人,freight-finance,信用证实务,published
+Beneficiary of Credit,信用证受益人,freight-finance,信用证实务,published
+Second Beneficiary,第二受益人,freight-finance,信用证实务,published
+Letter of Credit Cancellation,信用证撤销,freight-finance,信用证实务,published
+Letter of Credit Expiry Date,信用证有效期,freight-finance,信用证实务,published
+Presentation Period,交单期,freight-finance,信用证实务,published
+Expiry Place,到期地点,freight-finance,信用证实务,published
+Credit Availability,信用证兑用方式,freight-finance,信用证实务,published
+Available With,兑用银行,freight-finance,信用证实务,published
+Available By,兑用方式,freight-finance,信用证实务,published
+Clean Credit,光票信用证,freight-finance,信用证实务,published
+Credit Amount Tolerance,金额增减幅度,freight-finance,信用证实务,published
+Plus or Plus Tolerance,上下浮动允差,freight-finance,信用证实务,published
+Partial Shipment Allowed,允许分批装运,freight-finance,信用证实务,published
+Transshipment Allowed,允许转运,freight-finance,信用证实务,published
+Drawee,付款人,freight-finance,信用证实务,published
+Drawer,出票人,freight-finance,信用证实务,published
+Payee,收款人,freight-finance,信用证实务,published
+Endorser,背书人,freight-finance,信用证实务,published
+Endorsee,被背书人,freight-finance,信用证实务,published
+Maturity Date of Draft,汇票到期日,freight-finance,信用证实务,published
+Days of Usance,远期天数,freight-finance,信用证实务,published
+Discrepant Documents,不符点单据,freight-finance,信用证实务,published
+Discrepancy Notice,不符点通知,freight-finance,信用证实务,published
+Document Examination Period,审单期限,freight-finance,信用证实务,published
+Complying Presentation,相符交单,freight-finance,信用证实务,published
+Soft Clause,软条款,freight-finance,信用证实务,published
+Inspection Certificate Clause Trap,检验证书软条款,freight-finance,信用证实务,published
+Applicant Inspects Goods Clause,申请人验货条款,freight-finance,信用证实务,published
+Letter of Credit Fraud,信用证欺诈,freight-finance,信用证实务,published
+Fraud Exception,欺诈例外原则,freight-finance,信用证实务,published
+Autonomy Principle of Credit,信用证独立抽象原则,freight-finance,信用证实务,published
+Documentary Compliance Standard,单据相符标准,freight-finance,信用证实务,published
+Letter of Credit Settlement,信用证结算,freight-finance,信用证实务,published
+Sight Payment Settlement,即期付款交单,freight-finance,信用证实务,published
+Negotiation Settlement,议付结算,freight-finance,信用证实务,published
+Acceptance Settlement,承兑结算,freight-finance,信用证实务,published
+Deferred Payment Settlement,延期付款结算,freight-finance,信用证实务,published
+Teletransmission of Credit,信用证电开,freight-finance,信用证实务,published
+SWIFT MT707,SWIFT 信用证修改报文,freight-finance,信用证实务,published
 SWIFT MT710,SWIFT 通知第三方开证报文,freight-finance,信用证实务,pending
 SWIFT MT754,SWIFT 付款通知报文,freight-finance,信用证实务,pending
 SWIFT MT799,SWIFT 自由格式报文,freight-finance,信用证实务,pending
