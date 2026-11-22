@@ -8415,8 +8415,8 @@ Fuel Level Monitoring,油量监测,digital-logistics,物联网应用,published
 Fuel Theft Alert,油量异常告警,digital-logistics,物联网应用,published
 Fatigue Driving Detection,疲劳驾驶检测,digital-logistics,物联网应用,published
 UHF RFID Tag,超高频RFID标签,digital-logistics,物联网应用,published
-Passive RFID Tag,无源RFID标签,digital-logistics,物联网应用,pending
-Active RFID Tag,有源RFID标签,digital-logistics,物联网应用,pending
+Passive RFID Tag,无源RFID标签,digital-logistics,物联网应用,published
+Active RFID Tag,有源RFID标签,digital-logistics,物联网应用,published
 RFID Portal Reader,RFID门禁读写器,digital-logistics,物联网应用,published
 RFID Handheld Reader,RFID手持读写器,digital-logistics,物联网应用,published
 NFC Tag,NFC标签,digital-logistics,物联网应用,published
@@ -8514,104 +8514,104 @@ EDI 867,销售报告报文,digital-logistics,数据标准,published
 EDI 852,产品销售数据报文,digital-logistics,数据标准,published
 EDI 832,价格与销售目录报文,digital-logistics,数据标准,published
 EDI 812,贷记借记调整报文,digital-logistics,数据标准,published
-EDI 824,应用回执报文,digital-logistics,数据标准,pending
-EDI 322,码头作业状态报文,digital-logistics,数据标准,pending
-EDI 315,集装箱状态报文,digital-logistics,数据标准,pending
-ORDRSP Message,EDIFACT订单响应报文,digital-logistics,数据标准,pending
-INVOIC Message,EDIFACT发票报文,digital-logistics,数据标准,pending
-DESADV Message,EDIFACT发运通知报文,digital-logistics,数据标准,pending
-IFTMIN Message,EDIFACT运输指令报文,digital-logistics,数据标准,pending
-IFTSTA Message,EDIFACT运输状态报文,digital-logistics,数据标准,pending
-IFTMBF Message,EDIFACT订舱确认报文,digital-logistics,数据标准,pending
-COPARN Message,集装箱通报报文,digital-logistics,数据标准,pending
-CODECO Message,集装箱进出闸报文,digital-logistics,数据标准,pending
-VERMAS Message,VGM申报报文,digital-logistics,数据标准,pending
-UN/LOCODE,联合国地点代码,digital-logistics,数据标准,pending
-GS1 Standard,GS1标准,digital-logistics,数据标准,pending
-GS1-128 Barcode,GS1-128条码,digital-logistics,数据标准,pending
-UPC Code,通用产品代码,digital-logistics,数据标准,pending
-EAN-13,欧洲商品编码,digital-logistics,数据标准,pending
-Data Matrix Code,数据矩阵码,digital-logistics,数据标准,pending
-RFID EPC Code,EPC产品电子代码,digital-logistics,数据标准,pending
-EPCglobal Network,EPCglobal网络,digital-logistics,数据标准,pending
-GDSN,全球数据同步网络,digital-logistics,数据标准,pending
-Data Dictionary,数据字典,digital-logistics,数据标准,pending
-Data Mapping,数据映射,digital-logistics,数据标准,pending
-SFTP Transmission,SFTP安全传输,digital-logistics,数据标准,pending
-API Standard,接口标准,digital-logistics,数据标准,pending
-REST API,REST接口,digital-logistics,数据标准,pending
-JSON Message Format,JSON报文格式,digital-logistics,数据标准,pending
-XML Message Format,XML报文格式,digital-logistics,数据标准,pending
-DCSA Standards,DCSA数字化标准,digital-logistics,数据标准,pending
-UN/CEFACT,联合国贸易便利化中心,digital-logistics,数据标准,pending
-ebXML,电子商务XML标准,digital-logistics,数据标准,pending
-GS1 EPCIS,EPC事件捕获标准,digital-logistics,数据标准,pending
-Code 128,128码,digital-logistics,数据标准,pending
-ITF-14,储运单元条码,digital-logistics,数据标准,pending
-Warehouse Management System (WMS),仓储管理系统,digital-logistics,智慧仓储,pending
-Slotting Optimization,货位优化,digital-logistics,智慧仓储,pending
-Put-to-Light,电子标签分播,digital-logistics,智慧仓储,pending
-Mini-Load System,小件自动存取系统,digital-logistics,智慧仓储,pending
-Carousel Storage,旋转货架,digital-logistics,智慧仓储,pending
-Pallet Conveyor,托盘输送线,digital-logistics,智慧仓储,pending
-Robot Fleet Management,机器人集群调度,digital-logistics,智慧仓储,pending
-Robotic Palletizing,机器人码垛,digital-logistics,智慧仓储,pending
-Depalletizing Robot,机器人拆垛,digital-logistics,智慧仓储,pending
-Automated Unloader,自动拆卸机,digital-logistics,智慧仓储,pending
-Slider Sorter,滑块式分拣机,digital-logistics,智慧仓储,pending
-Automated Packing Station,自动包装工作站,digital-logistics,智慧仓储,pending
-Auto-Bagger,自动装袋机,digital-logistics,智慧仓储,pending
-Carton Sealer,封箱机,digital-logistics,智慧仓储,pending
-Print-and-Apply Labeler,打印贴标机,digital-logistics,智慧仓储,pending
-Pick Path Optimization,拣货路径优化,digital-logistics,智慧仓储,pending
-Putaway Strategy,上架策略,digital-logistics,智慧仓储,pending
-Receiving Dock Scheduling,收货月台预约,digital-logistics,智慧仓储,pending
-Smart Forklift,智能叉车,digital-logistics,智慧仓储,pending
-Racking System,货架系统,digital-logistics,智慧仓储,pending
-Mezzanine Platform,阁楼货架平台,digital-logistics,智慧仓储,pending
-Cold Storage Automation,冷库自动化,digital-logistics,智慧仓储,pending
-Warehouse Control System (WCS),仓库控制系统,digital-logistics,智慧仓储,pending
-RFID Inventory Counting,RFID库存盘点,digital-logistics,智慧仓储,pending
-Vision-Guided Robot,视觉引导机器人,digital-logistics,智慧仓储,pending
-Delivery Drone,配送无人机,digital-logistics,低空物流,pending
-Logistics Drone,物流无人机,digital-logistics,低空物流,pending
-UAV (Unmanned Aerial Vehicle),无人机,digital-logistics,低空物流,pending
-eVTOL,电动垂直起降飞行器,digital-logistics,低空物流,pending
-Heavy-Lift Drone,大载重无人机,digital-logistics,低空物流,pending
-Payload Capacity,有效载荷能力,digital-logistics,低空物流,pending
-Drone Flight Range,无人机航程,digital-logistics,低空物流,pending
-Beyond Visual Line of Sight (BVLOS),超视距飞行,digital-logistics,低空物流,pending
-Visual Line of Sight (VLOS),视距内飞行,digital-logistics,低空物流,pending
-Drone Corridor,无人机航线走廊,digital-logistics,低空物流,pending
-Low-Altitude Logistics,低空物流,digital-logistics,低空物流,pending
-Low-Altitude Economy,低空经济,digital-logistics,低空物流,pending
-UAS Traffic Management (UTM),无人机交通管理系统,digital-logistics,低空物流,pending
-Unmanned Aircraft System (UAS),无人驾驶航空器系统,digital-logistics,低空物流,pending
-Drone Flight Approval,飞行计划审批,digital-logistics,低空物流,pending
-Airspace Authorization,空域许可,digital-logistics,低空物流,pending
-Remote ID,远程识别,digital-logistics,低空物流,pending
-Remote Pilot License,遥控驾驶员执照,digital-logistics,低空物流,pending
-Ground Control Station,地面控制站,digital-logistics,低空物流,pending
-Drone Docking Station,无人机机巢,digital-logistics,低空物流,pending
-Vertiport,垂直起降场,digital-logistics,低空物流,pending
-Drone Landing Pad,无人机降落坪,digital-logistics,低空物流,pending
-Parachute Delivery System,降落伞投送系统,digital-logistics,低空物流,pending
-Drone Winch Delivery,无人机吊放投送,digital-logistics,低空物流,pending
-Aerial Freight,空中货运,digital-logistics,低空物流,pending
-Drone Swarm Delivery,无人机集群配送,digital-logistics,低空物流,pending
-Drone Route Planning,无人机航线规划,digital-logistics,低空物流,pending
-Drone Noise Regulation,无人机噪声规范,digital-logistics,低空物流,pending
-Drone Delivery Network,无人机配送网络,digital-logistics,低空物流,pending
-Medical Drone Delivery,医疗无人机配送,digital-logistics,低空物流,pending
-Rural Drone Delivery,偏远地区无人机配送,digital-logistics,低空物流,pending
-Island Drone Logistics,海岛无人机物流,digital-logistics,低空物流,pending
-Emergency Drone Supply,应急无人机补给,digital-logistics,低空物流,pending
-Last-Mile Drone Delivery,末端无人机配送,digital-logistics,低空物流,pending
-Drone Delivery Regulation,无人机配送监管,digital-logistics,低空物流,pending
-Drone Insurance,无人机保险,digital-logistics,低空物流,pending
-Drone Fleet Operations,无人机机队运营,digital-logistics,低空物流,pending
-Autonomous Drone Navigation,无人机自主导航,digital-logistics,低空物流,pending
-Drone Battery Swap Station,无人机换电站,digital-logistics,低空物流,pending
+EDI 824,应用回执报文,digital-logistics,数据标准,published
+EDI 322,码头作业状态报文,digital-logistics,数据标准,published
+EDI 315,集装箱状态报文,digital-logistics,数据标准,published
+ORDRSP Message,EDIFACT订单响应报文,digital-logistics,数据标准,published
+INVOIC Message,EDIFACT发票报文,digital-logistics,数据标准,published
+DESADV Message,EDIFACT发运通知报文,digital-logistics,数据标准,published
+IFTMIN Message,EDIFACT运输指令报文,digital-logistics,数据标准,published
+IFTSTA Message,EDIFACT运输状态报文,digital-logistics,数据标准,published
+IFTMBF Message,EDIFACT订舱确认报文,digital-logistics,数据标准,published
+COPARN Message,集装箱通报报文,digital-logistics,数据标准,published
+CODECO Message,集装箱进出闸报文,digital-logistics,数据标准,published
+VERMAS Message,VGM申报报文,digital-logistics,数据标准,published
+UN/LOCODE,联合国地点代码,digital-logistics,数据标准,published
+GS1 Standard,GS1标准,digital-logistics,数据标准,published
+GS1-128 Barcode,GS1-128条码,digital-logistics,数据标准,published
+UPC Code,通用产品代码,digital-logistics,数据标准,published
+EAN-13,欧洲商品编码,digital-logistics,数据标准,published
+Data Matrix Code,数据矩阵码,digital-logistics,数据标准,published
+RFID EPC Code,EPC产品电子代码,digital-logistics,数据标准,published
+EPCglobal Network,EPCglobal网络,digital-logistics,数据标准,published
+GDSN,全球数据同步网络,digital-logistics,数据标准,published
+Data Dictionary,数据字典,digital-logistics,数据标准,published
+Data Mapping,数据映射,digital-logistics,数据标准,published
+SFTP Transmission,SFTP安全传输,digital-logistics,数据标准,published
+API Standard,接口标准,digital-logistics,数据标准,published
+REST API,REST接口,digital-logistics,数据标准,published
+JSON Message Format,JSON报文格式,digital-logistics,数据标准,published
+XML Message Format,XML报文格式,digital-logistics,数据标准,published
+DCSA Standards,DCSA数字化标准,digital-logistics,数据标准,published
+UN/CEFACT,联合国贸易便利化中心,digital-logistics,数据标准,published
+ebXML,电子商务XML标准,digital-logistics,数据标准,published
+GS1 EPCIS,EPC事件捕获标准,digital-logistics,数据标准,published
+Code 128,128码,digital-logistics,数据标准,published
+ITF-14,储运单元条码,digital-logistics,数据标准,published
+Warehouse Management System (WMS),仓储管理系统,digital-logistics,智慧仓储,published
+Slotting Optimization,货位优化,digital-logistics,智慧仓储,published
+Put-to-Light,电子标签分播,digital-logistics,智慧仓储,published
+Mini-Load System,小件自动存取系统,digital-logistics,智慧仓储,published
+Carousel Storage,旋转货架,digital-logistics,智慧仓储,published
+Pallet Conveyor,托盘输送线,digital-logistics,智慧仓储,published
+Robot Fleet Management,机器人集群调度,digital-logistics,智慧仓储,published
+Robotic Palletizing,机器人码垛,digital-logistics,智慧仓储,published
+Depalletizing Robot,机器人拆垛,digital-logistics,智慧仓储,published
+Automated Unloader,自动拆卸机,digital-logistics,智慧仓储,published
+Slider Sorter,滑块式分拣机,digital-logistics,智慧仓储,published
+Automated Packing Station,自动包装工作站,digital-logistics,智慧仓储,published
+Auto-Bagger,自动装袋机,digital-logistics,智慧仓储,published
+Carton Sealer,封箱机,digital-logistics,智慧仓储,published
+Print-and-Apply Labeler,打印贴标机,digital-logistics,智慧仓储,published
+Pick Path Optimization,拣货路径优化,digital-logistics,智慧仓储,published
+Putaway Strategy,上架策略,digital-logistics,智慧仓储,published
+Receiving Dock Scheduling,收货月台预约,digital-logistics,智慧仓储,published
+Smart Forklift,智能叉车,digital-logistics,智慧仓储,published
+Racking System,货架系统,digital-logistics,智慧仓储,published
+Mezzanine Platform,阁楼货架平台,digital-logistics,智慧仓储,published
+Cold Storage Automation,冷库自动化,digital-logistics,智慧仓储,published
+Warehouse Control System (WCS),仓库控制系统,digital-logistics,智慧仓储,published
+RFID Inventory Counting,RFID库存盘点,digital-logistics,智慧仓储,published
+Vision-Guided Robot,视觉引导机器人,digital-logistics,智慧仓储,published
+Delivery Drone,配送无人机,digital-logistics,低空物流,published
+Logistics Drone,物流无人机,digital-logistics,低空物流,published
+UAV (Unmanned Aerial Vehicle),无人机,digital-logistics,低空物流,published
+eVTOL,电动垂直起降飞行器,digital-logistics,低空物流,published
+Heavy-Lift Drone,大载重无人机,digital-logistics,低空物流,published
+Payload Capacity,有效载荷能力,digital-logistics,低空物流,published
+Drone Flight Range,无人机航程,digital-logistics,低空物流,published
+Beyond Visual Line of Sight (BVLOS),超视距飞行,digital-logistics,低空物流,published
+Visual Line of Sight (VLOS),视距内飞行,digital-logistics,低空物流,published
+Drone Corridor,无人机航线走廊,digital-logistics,低空物流,published
+Low-Altitude Logistics,低空物流,digital-logistics,低空物流,published
+Low-Altitude Economy,低空经济,digital-logistics,低空物流,published
+UAS Traffic Management (UTM),无人机交通管理系统,digital-logistics,低空物流,published
+Unmanned Aircraft System (UAS),无人驾驶航空器系统,digital-logistics,低空物流,published
+Drone Flight Approval,飞行计划审批,digital-logistics,低空物流,published
+Airspace Authorization,空域许可,digital-logistics,低空物流,published
+Remote ID,远程识别,digital-logistics,低空物流,published
+Remote Pilot License,遥控驾驶员执照,digital-logistics,低空物流,published
+Ground Control Station,地面控制站,digital-logistics,低空物流,published
+Drone Docking Station,无人机机巢,digital-logistics,低空物流,published
+Vertiport,垂直起降场,digital-logistics,低空物流,published
+Drone Landing Pad,无人机降落坪,digital-logistics,低空物流,published
+Parachute Delivery System,降落伞投送系统,digital-logistics,低空物流,published
+Drone Winch Delivery,无人机吊放投送,digital-logistics,低空物流,published
+Aerial Freight,空中货运,digital-logistics,低空物流,published
+Drone Swarm Delivery,无人机集群配送,digital-logistics,低空物流,published
+Drone Route Planning,无人机航线规划,digital-logistics,低空物流,published
+Drone Noise Regulation,无人机噪声规范,digital-logistics,低空物流,published
+Drone Delivery Network,无人机配送网络,digital-logistics,低空物流,published
+Medical Drone Delivery,医疗无人机配送,digital-logistics,低空物流,published
+Rural Drone Delivery,偏远地区无人机配送,digital-logistics,低空物流,published
+Island Drone Logistics,海岛无人机物流,digital-logistics,低空物流,published
+Emergency Drone Supply,应急无人机补给,digital-logistics,低空物流,published
+Last-Mile Drone Delivery,末端无人机配送,digital-logistics,低空物流,published
+Drone Delivery Regulation,无人机配送监管,digital-logistics,低空物流,published
+Drone Insurance,无人机保险,digital-logistics,低空物流,published
+Drone Fleet Operations,无人机机队运营,digital-logistics,低空物流,published
+Autonomous Drone Navigation,无人机自主导航,digital-logistics,低空物流,published
+Drone Battery Swap Station,无人机换电站,digital-logistics,低空物流,published
 Flight Endurance,续航时间,digital-logistics,低空物流,pending
 Autonomous Vehicle (AV),自动驾驶车辆,digital-logistics,自动驾驶,pending
 L4 Autonomous Driving,L4级自动驾驶,digital-logistics,自动驾驶,pending
