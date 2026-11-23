@@ -9209,102 +9209,102 @@ Parts Warranty,零件保修,trade-terms,质保,published
 Warranty Start Date,保修起算日,trade-terms,质保,published
 Pro Rata Warranty,按比例质保,trade-terms,质保,published
 Manufacturer Warranty Certificate,制造商保修证书,trade-terms,质保,published
-Lifetime Warranty,终身质保,trade-terms,质保,pending
-Wear and Tear Exclusion,自然磨损除外条款,trade-terms,质保,pending
-Consequential Loss Warranty Exclusion,质保间接损失除外,trade-terms,质保,pending
-Product Recall Clause,产品召回条款,trade-terms,质保,pending
-Recall Insurance,召回保险,trade-terms,质保,pending
-Batch Traceability Record,批次追溯记录,trade-terms,质保,pending
-Sample Management Process,样品管理流程,trade-terms,样品管理,pending
-Sample Request,样品申请,trade-terms,样品管理,pending
-Sample Charge,样品费,trade-terms,样品管理,pending
-Sample Freight Collect,样品运费到付,trade-terms,样品管理,pending
-Sample Courier Service,样品快递,trade-terms,样品管理,pending
-Prototype Development,原型开发,trade-terms,样品管理,pending
-Sample Approval Process,样品确认流程,trade-terms,样品管理,pending
-Approval Sample Sign Off,样品签样确认,trade-terms,样品管理,pending
-Sample Room Management,样品间管理,trade-terms,样品管理,pending
-Sample Tracking System,样品追踪系统,trade-terms,样品管理,pending
-Sample Destruction Record,样品销毁记录,trade-terms,样品管理,pending
-Courier Sample Customs Declaration,样品快递报关,trade-terms,样品管理,pending
-Duty Free Sample Provision,免税样品条款,trade-terms,样品管理,pending
-Salesman Sample,推销样品,trade-terms,样品管理,pending
-Market Sample,市场样,trade-terms,样品管理,pending
-Production Sample,生产样,trade-terms,样品管理,pending
-Shipment Sample,船头样,trade-terms,样品管理,pending
-Archive Sample,存档样,trade-terms,样品管理,pending
-Free Trade Zone Warehouse,自由贸易区仓库,warehousing,仓库类型,pending
-E-Commerce Fulfillment Center,电商履约中心,warehousing,仓库类型,pending
-Urban Warehouse,城市仓库,warehousing,仓库类型,pending
-Deconsolidation Center,分货中心,warehousing,仓库类型,pending
-Finished Goods Warehouse,成品仓库,warehousing,仓库类型,pending
-Raw Material Warehouse,原材料仓库,warehousing,仓库类型,pending
-Spare Parts Warehouse,备件仓库,warehousing,仓库类型,pending
-Contract Warehouse,合同仓库,warehousing,仓库类型,pending
-Bulk Storage Warehouse,散货仓库,warehousing,仓库类型,pending
-Cross-Dock Facility,越库作业设施,warehousing,仓库类型,pending
-Automated Warehouse,自动化仓库,warehousing,仓库类型,pending
-Manual Warehouse,人工作业仓库,warehousing,仓库类型,pending
-Pick and Pack Warehouse,拣配一体仓库,warehousing,仓库类型,pending
-Break-Bulk Warehouse,拆箱分拨仓库,warehousing,仓库类型,pending
-Rail-Served Warehouse,铁路直达仓库,warehousing,仓库类型,pending
-Warehouse Campus,仓储园区,warehousing,仓库类型,pending
-Receiving Area,收货区,warehousing,功能分区,pending
-Shipping Area,发货区,warehousing,功能分区,pending
-Staging Lane,待发通道,warehousing,功能分区,pending
-Consolidation Area,集货区,warehousing,功能分区,pending
-Value-Added Service Area,增值服务区,warehousing,功能分区,pending
-Returns Processing Area,退货处理区,warehousing,功能分区,pending
-Quality Inspection Area,质检区,warehousing,功能分区,pending
-Forward Pick Area,前置拣选区,warehousing,功能分区,pending
-Fast-Mover Zone,快流区,warehousing,功能分区,pending
-Slow-Mover Zone,慢流区,warehousing,功能分区,pending
-Overflow Storage Area,溢出存储区,warehousing,功能分区,pending
-Empty Pallet Area,空托盘区,warehousing,功能分区,pending
-Battery Charging Area,充电区,warehousing,功能分区,pending
-Truck Staging Yard,车辆待卸场,warehousing,功能分区,pending
-Canopy,装卸雨棚,warehousing,功能分区,pending
-Dock Office,月台办公室,warehousing,功能分区,pending
-Mezzanine Office,阁楼办公室,warehousing,功能分区,pending
-Wire Mesh Partition,钢丝网隔断,warehousing,功能分区,pending
-Secure Cage,安保笼,warehousing,功能分区,pending
-High-Value Cage,贵重品笼,warehousing,功能分区,pending
-Sample Room,样品室,warehousing,功能分区,pending
-Document Room,单证室,warehousing,功能分区,pending
-Labeling Area,贴标区,warehousing,功能分区,pending
-Weighing Area,称重区,warehousing,功能分区,pending
-Kitting Area,组套作业区,warehousing,功能分区,pending
-Dock Shelter,门罩,warehousing,月台设备,pending
-Dock Bumper,防撞垫,warehousing,月台设备,pending
-Dock Light,月台照明灯,warehousing,月台设备,pending
-Dock Plate,搭接板,warehousing,月台设备,pending
-Dock Board,铺板,warehousing,月台设备,pending
-Dock Ramp,月台坡道,warehousing,月台设备,pending
-Yard Ramp,移动登车桥,warehousing,月台设备,pending
-Dock House,月台房,warehousing,月台设备,pending
-Drive-Through Dock,贯通式月台,warehousing,月台设备,pending
-Flush Dock,平嵌式月台,warehousing,月台设备,pending
-Finger Dock,突指式月台,warehousing,月台设备,pending
-Sawtooth Dock,锯齿式月台,warehousing,月台设备,pending
-Grade-Level Dock,平地月台,warehousing,月台设备,pending
+Lifetime Warranty,终身质保,trade-terms,质保,published
+Wear and Tear Exclusion,自然磨损除外条款,trade-terms,质保,published
+Consequential Loss Warranty Exclusion,质保间接损失除外,trade-terms,质保,published
+Product Recall Clause,产品召回条款,trade-terms,质保,published
+Recall Insurance,召回保险,trade-terms,质保,published
+Batch Traceability Record,批次追溯记录,trade-terms,质保,published
+Sample Management Process,样品管理流程,trade-terms,样品管理,published
+Sample Request,样品申请,trade-terms,样品管理,published
+Sample Charge,样品费,trade-terms,样品管理,published
+Sample Freight Collect,样品运费到付,trade-terms,样品管理,published
+Sample Courier Service,样品快递,trade-terms,样品管理,published
+Prototype Development,原型开发,trade-terms,样品管理,published
+Sample Approval Process,样品确认流程,trade-terms,样品管理,published
+Approval Sample Sign Off,样品签样确认,trade-terms,样品管理,published
+Sample Room Management,样品间管理,trade-terms,样品管理,published
+Sample Tracking System,样品追踪系统,trade-terms,样品管理,published
+Sample Destruction Record,样品销毁记录,trade-terms,样品管理,published
+Courier Sample Customs Declaration,样品快递报关,trade-terms,样品管理,published
+Duty Free Sample Provision,免税样品条款,trade-terms,样品管理,published
+Salesman Sample,推销样品,trade-terms,样品管理,published
+Market Sample,市场样,trade-terms,样品管理,published
+Production Sample,生产样,trade-terms,样品管理,published
+Shipment Sample,船头样,trade-terms,样品管理,published
+Archive Sample,存档样,trade-terms,样品管理,published
+Free Trade Zone Warehouse,自由贸易区仓库,warehousing,仓库类型,published
+E-Commerce Fulfillment Center,电商履约中心,warehousing,仓库类型,published
+Urban Warehouse,城市仓库,warehousing,仓库类型,published
+Deconsolidation Center,分货中心,warehousing,仓库类型,published
+Finished Goods Warehouse,成品仓库,warehousing,仓库类型,published
+Raw Material Warehouse,原材料仓库,warehousing,仓库类型,published
+Spare Parts Warehouse,备件仓库,warehousing,仓库类型,published
+Contract Warehouse,合同仓库,warehousing,仓库类型,published
+Bulk Storage Warehouse,散货仓库,warehousing,仓库类型,published
+Cross-Dock Facility,越库作业设施,warehousing,仓库类型,published
+Automated Warehouse,自动化仓库,warehousing,仓库类型,published
+Manual Warehouse,人工作业仓库,warehousing,仓库类型,published
+Pick and Pack Warehouse,拣配一体仓库,warehousing,仓库类型,published
+Break-Bulk Warehouse,拆箱分拨仓库,warehousing,仓库类型,published
+Rail-Served Warehouse,铁路直达仓库,warehousing,仓库类型,published
+Warehouse Campus,仓储园区,warehousing,仓库类型,published
+Receiving Area,收货区,warehousing,功能分区,published
+Shipping Area,发货区,warehousing,功能分区,published
+Staging Lane,待发通道,warehousing,功能分区,published
+Consolidation Area,集货区,warehousing,功能分区,published
+Value-Added Service Area,增值服务区,warehousing,功能分区,published
+Returns Processing Area,退货处理区,warehousing,功能分区,published
+Quality Inspection Area,质检区,warehousing,功能分区,published
+Forward Pick Area,前置拣选区,warehousing,功能分区,published
+Fast-Mover Zone,快流区,warehousing,功能分区,published
+Slow-Mover Zone,慢流区,warehousing,功能分区,published
+Overflow Storage Area,溢出存储区,warehousing,功能分区,published
+Empty Pallet Area,空托盘区,warehousing,功能分区,published
+Battery Charging Area,充电区,warehousing,功能分区,published
+Truck Staging Yard,车辆待卸场,warehousing,功能分区,published
+Canopy,装卸雨棚,warehousing,功能分区,published
+Dock Office,月台办公室,warehousing,功能分区,published
+Mezzanine Office,阁楼办公室,warehousing,功能分区,published
+Wire Mesh Partition,钢丝网隔断,warehousing,功能分区,published
+Secure Cage,安保笼,warehousing,功能分区,published
+High-Value Cage,贵重品笼,warehousing,功能分区,published
+Sample Room,样品室,warehousing,功能分区,published
+Document Room,单证室,warehousing,功能分区,published
+Labeling Area,贴标区,warehousing,功能分区,published
+Weighing Area,称重区,warehousing,功能分区,published
+Kitting Area,组套作业区,warehousing,功能分区,published
+Dock Shelter,门罩,warehousing,月台设备,published
+Dock Bumper,防撞垫,warehousing,月台设备,published
+Dock Light,月台照明灯,warehousing,月台设备,published
+Dock Plate,搭接板,warehousing,月台设备,published
+Dock Board,铺板,warehousing,月台设备,published
+Dock Ramp,月台坡道,warehousing,月台设备,published
+Yard Ramp,移动登车桥,warehousing,月台设备,published
+Dock House,月台房,warehousing,月台设备,published
+Drive-Through Dock,贯通式月台,warehousing,月台设备,published
+Flush Dock,平嵌式月台,warehousing,月台设备,published
+Finger Dock,突指式月台,warehousing,月台设备,published
+Sawtooth Dock,锯齿式月台,warehousing,月台设备,published
+Grade-Level Dock,平地月台,warehousing,月台设备,published
 Strip Curtain,条形门帘,warehousing,月台设备,pending
-Air Curtain,风幕机,warehousing,月台设备,pending
+Air Curtain,风幕机,warehousing,月台设备,published
 Pit Leveler,坑式登车桥,warehousing,月台设备,pending
-Edge-of-Dock Leveler,边缘登车桥,warehousing,月台设备,pending
-Vehicle Restraint,车辆限位装置,warehousing,月台设备,pending
+Edge-of-Dock Leveler,边缘登车桥,warehousing,月台设备,published
+Vehicle Restraint,车辆限位装置,warehousing,月台设备,published
 Trailer Lock,挂车锁止器,warehousing,月台设备,pending
-Wheel Chock,车轮止滑器,warehousing,月台设备,pending
-Dock Signal Light,月台信号灯,warehousing,月台设备,pending
+Wheel Chock,车轮止滑器,warehousing,月台设备,published
+Dock Signal Light,月台信号灯,warehousing,月台设备,published
 Tractor,牵引车头,warehousing,月台设备,pending
 Dock Scheduling,月台排程,warehousing,月台设备,pending
 Yard Management System,堆场管理系统,warehousing,月台设备,pending
-Yard Check,堆场盘点,warehousing,月台设备,pending
-Driver Check-In,司机报到,warehousing,月台设备,pending
+Yard Check,堆场盘点,warehousing,月台设备,published
+Driver Check-In,司机报到,warehousing,月台设备,published
 ESFR Sprinkler,早期抑制快速响应喷淋,warehousing,建筑消防,pending
 Fire Alarm Control Panel,火灾报警主机,warehousing,建筑消防,pending
 Fire Shutter,防火卷帘,warehousing,建筑消防,pending
 Fire Exit,安全出口,warehousing,建筑消防,pending
-Evacuation Route,疏散通道,warehousing,建筑消防,pending
+Evacuation Route,疏散通道,warehousing,建筑消防,published
 Emergency Lighting,应急照明,warehousing,建筑消防,pending
 In-Rack Sprinkler,货架内置喷淋,warehousing,建筑消防,pending
 Fire Pump Room,消防泵房,warehousing,建筑消防,pending
