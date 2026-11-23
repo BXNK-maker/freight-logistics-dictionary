@@ -8815,103 +8815,103 @@ Forfaiter,福费廷商,freight-finance,贸易融资,published
 Avalization,票据保付,freight-finance,贸易融资,pending
 Aval,票据保付担保,freight-finance,贸易融资,pending
 Credit Line Facility,授信额度,freight-finance,贸易融资,pending
-Revolving Credit Facility,循环授信,freight-finance,贸易融资,pending
-Committed Facility,承诺性授信,freight-finance,贸易融资,pending
-Uncommitted Facility,非承诺授信,freight-finance,贸易融资,pending
-Utilization Rate of Credit,授信使用率,freight-finance,贸易融资,pending
-Tenor of Financing,融资期限,freight-finance,贸易融资,pending
-Grace Period Financing,融资宽限期,freight-finance,贸易融资,pending
-Rolling Over Tenor,滚动展期,freight-finance,贸易融资,pending
-Bridge Loan,过桥贷款,freight-finance,贸易融资,pending
-Working Capital Loan,流动资金贷款,freight-finance,贸易融资,pending
-Contract Financing,合同融资,freight-finance,贸易融资,pending
-Government Contract Financing,政府采购融资,freight-finance,贸易融资,pending
-Operating Lease Vessel,船舶经营性租赁,freight-finance,贸易融资,pending
-Bareboat Charter Finance,光租融资安排,freight-finance,贸易融资,pending
-Knock-Down Kit Financing,散件组装融资,freight-finance,贸易融资,pending
-Financial Covenant,财务约束条款,freight-finance,贸易融资,pending
-Security Interest,担保权益,freight-finance,贸易融资,pending
-Pledge of Goods,货物质押,freight-finance,贸易融资,pending
-Chattel Mortgage,动产抵押,freight-finance,贸易融资,pending
-Floating Charge,浮动抵押,freight-finance,贸易融资,pending
-Carrier Lien,承运人留置权,freight-finance,贸易融资,pending
-Warehouse Lien,仓储留置权,freight-finance,贸易融资,pending
-Prior Lien Ranking,留置权优先顺序,freight-finance,贸易融资,pending
-Subordination Agreement,受偿顺位协议,freight-finance,贸易融资,pending
-Guarantee Fee,担保费,freight-finance,贸易融资,pending
-Commitment Fee,承诺费,freight-finance,贸易融资,pending
-Arrangement Fee,安排费,freight-finance,贸易融资,pending
-Facility Fee,授信安排费,freight-finance,贸易融资,pending
-Utilization Fee,提款费,freight-finance,贸易融资,pending
-Default Interest,违约利息,freight-finance,贸易融资,pending
-Cross Default Clause,交叉违约条款,freight-finance,贸易融资,pending
-Event of Default,违约事件,freight-finance,贸易融资,pending
-Acceleration Clause,加速到期条款,freight-finance,贸易融资,pending
-Covenant Breach,违反财务约定,freight-finance,贸易融资,pending
-Debt Service Coverage Ratio,偿债覆盖率,freight-finance,贸易融资,pending
-Domestic Factoring,国内保理,freight-finance,保理业务,pending
-Recourse Factoring,有追索权保理,freight-finance,保理业务,pending
-Non-Recourse Factoring,无追索权保理,freight-finance,保理业务,pending
-Disclosed Factoring,明保理,freight-finance,保理业务,pending
-Undisclosed Factoring,暗保理,freight-finance,保理业务,pending
-Maturity Factoring,到期保理,freight-finance,保理业务,pending
-Advance Factoring,预付保理,freight-finance,保理业务,pending
-Export Factor,出口保理商,freight-finance,保理业务,pending
-Import Factor,进口保理商,freight-finance,保理业务,pending
-Factor Chain International,国际保理商联合会,freight-finance,保理业务,pending
-Interfactor Agreement,保理商间协议,freight-finance,保理业务,pending
-Assignment of Receivables,应收账款转让,freight-finance,保理业务,pending
-Notice of Assignment,转让通知,freight-finance,保理业务,pending
-Debtor Notification,债务人通知,freight-finance,保理业务,pending
-Approved Receivables,核准应收账款,freight-finance,保理业务,pending
-Credit Limit Grant,信用额度核定,freight-finance,保理业务,pending
-Discount Charge,贴现息,freight-finance,保理业务,pending
-Service Fee Factoring,保理服务费,freight-finance,保理业务,pending
-Receivables Aging,应收账款账龄,freight-finance,保理业务,pending
-Doubtful Receivables,可疑应收账款,freight-finance,保理业务,pending
-Write-Off Receivable,应收账款核销,freight-finance,保理业务,pending
-Short-Term Export Credit Insurance,短期出口信用险,freight-finance,出口信保,pending
-Medium-Term Export Credit Insurance,中期出口信用险,freight-finance,出口信保,pending
-Long-Term Export Credit Insurance,长期出口信用险,freight-finance,出口信保,pending
-Whole Turnover Policy,综合统保保单,freight-finance,出口信保,pending
-Specific Approval Policy,特定买方保单,freight-finance,出口信保,pending
-Commercial Risk Cover,商业风险承保,freight-finance,出口信保,pending
-Political Risk Cover,政治风险承保,freight-finance,出口信保,pending
-Buyer Default Cover,买方违约承保,freight-finance,出口信保,pending
-Insolvency of Buyer,买方破产风险,freight-finance,出口信保,pending
-Protracted Default,长期拖欠风险,freight-finance,出口信保,pending
-Repudiation Risk,毁约风险,freight-finance,出口信保,pending
-Import License Refusal Risk,进口许可拒发风险,freight-finance,出口信保,pending
-Transfer Delay Risk,汇兑限制风险,freight-finance,出口信保,pending
-War Risk Export Credit,出口信保战争险,freight-finance,出口信保,pending
-OECD Consensus Rules,官方出口信贷君子协定,freight-finance,出口信保,pending
-Mixed Credit,混合信贷,freight-finance,出口信保,pending
-Tied Aid Credit,附带条件援助信贷,freight-finance,出口信保,pending
-Export Working Capital Guarantee,出口周转资金担保,freight-finance,出口信保,pending
-Credit Insurance Policy Limit,信用险保单限额,freight-finance,出口信保,pending
-Credit Insurance Premium Rate,信用险费率,freight-finance,出口信保,pending
-Indemnification Percentage,赔付比例,freight-finance,出口信保,pending
-Waiting Period for Claim,信用险等待期,freight-finance,出口信保,pending
-Subrogation in Credit Insurance,信用险代位求偿,freight-finance,出口信保,pending
-Recovery under Credit Insurance,信用险追偿,freight-finance,出口信保,pending
-Debt Collection Service,商账追收服务,freight-finance,出口信保,pending
-Amicable Collection,友好追收,freight-finance,出口信保,pending
-Legal Collection,司法追收,freight-finance,出口信保,pending
-Debt Recovery Agent,债务追收代理,freight-finance,出口信保,pending
-Credit Report Buyer,买方资信报告,freight-finance,出口信保,pending
-Credit Rating of Buyer,买方信用评级,freight-finance,出口信保,pending
-Trade References,贸易资信参考,freight-finance,出口信保,pending
-Payment Behavior Record,付款行为记录,freight-finance,出口信保,pending
-Credit Bureau Query,征信查询,freight-finance,出口信保,pending
-Country Risk Rating,国家风险评级,freight-finance,出口信保,pending
-Sovereign Risk,主权风险,freight-finance,出口信保,pending
-Transfer Risk Cover,转移风险承保,freight-finance,出口信保,pending
-Currency Inconvertibility,货币不可兑换风险,freight-finance,出口信保,pending
-Expropriation Risk,征收风险,freight-finance,出口信保,pending
-Political Violence Risk,政治暴力风险,freight-finance,出口信保,pending
-Breach of Contract by State Entity,国有主体违约风险,freight-finance,出口信保,pending
-Moratorium Announcement,偿付延期公告风险,freight-finance,出口信保,pending
-Sanctions Impact on Payment,制裁对支付影响,freight-finance,出口信保,pending
+Revolving Credit Facility,循环授信,freight-finance,贸易融资,published
+Committed Facility,承诺性授信,freight-finance,贸易融资,published
+Uncommitted Facility,非承诺授信,freight-finance,贸易融资,published
+Utilization Rate of Credit,授信使用率,freight-finance,贸易融资,published
+Tenor of Financing,融资期限,freight-finance,贸易融资,published
+Grace Period Financing,融资宽限期,freight-finance,贸易融资,published
+Rolling Over Tenor,滚动展期,freight-finance,贸易融资,published
+Bridge Loan,过桥贷款,freight-finance,贸易融资,published
+Working Capital Loan,流动资金贷款,freight-finance,贸易融资,published
+Contract Financing,合同融资,freight-finance,贸易融资,published
+Government Contract Financing,政府采购融资,freight-finance,贸易融资,published
+Operating Lease Vessel,船舶经营性租赁,freight-finance,贸易融资,published
+Bareboat Charter Finance,光租融资安排,freight-finance,贸易融资,published
+Knock-Down Kit Financing,散件组装融资,freight-finance,贸易融资,published
+Financial Covenant,财务约束条款,freight-finance,贸易融资,published
+Security Interest,担保权益,freight-finance,贸易融资,published
+Pledge of Goods,货物质押,freight-finance,贸易融资,published
+Chattel Mortgage,动产抵押,freight-finance,贸易融资,published
+Floating Charge,浮动抵押,freight-finance,贸易融资,published
+Carrier Lien,承运人留置权,freight-finance,贸易融资,published
+Warehouse Lien,仓储留置权,freight-finance,贸易融资,published
+Prior Lien Ranking,留置权优先顺序,freight-finance,贸易融资,published
+Subordination Agreement,受偿顺位协议,freight-finance,贸易融资,published
+Guarantee Fee,担保费,freight-finance,贸易融资,published
+Commitment Fee,承诺费,freight-finance,贸易融资,published
+Arrangement Fee,安排费,freight-finance,贸易融资,published
+Facility Fee,授信安排费,freight-finance,贸易融资,published
+Utilization Fee,提款费,freight-finance,贸易融资,published
+Default Interest,违约利息,freight-finance,贸易融资,published
+Cross Default Clause,交叉违约条款,freight-finance,贸易融资,published
+Event of Default,违约事件,freight-finance,贸易融资,published
+Acceleration Clause,加速到期条款,freight-finance,贸易融资,published
+Covenant Breach,违反财务约定,freight-finance,贸易融资,published
+Debt Service Coverage Ratio,偿债覆盖率,freight-finance,贸易融资,published
+Domestic Factoring,国内保理,freight-finance,保理业务,published
+Recourse Factoring,有追索权保理,freight-finance,保理业务,published
+Non-Recourse Factoring,无追索权保理,freight-finance,保理业务,published
+Disclosed Factoring,明保理,freight-finance,保理业务,published
+Undisclosed Factoring,暗保理,freight-finance,保理业务,published
+Maturity Factoring,到期保理,freight-finance,保理业务,published
+Advance Factoring,预付保理,freight-finance,保理业务,published
+Export Factor,出口保理商,freight-finance,保理业务,published
+Import Factor,进口保理商,freight-finance,保理业务,published
+Factor Chain International,国际保理商联合会,freight-finance,保理业务,published
+Interfactor Agreement,保理商间协议,freight-finance,保理业务,published
+Assignment of Receivables,应收账款转让,freight-finance,保理业务,published
+Notice of Assignment,转让通知,freight-finance,保理业务,published
+Debtor Notification,债务人通知,freight-finance,保理业务,published
+Approved Receivables,核准应收账款,freight-finance,保理业务,published
+Credit Limit Grant,信用额度核定,freight-finance,保理业务,published
+Discount Charge,贴现息,freight-finance,保理业务,published
+Service Fee Factoring,保理服务费,freight-finance,保理业务,published
+Receivables Aging,应收账款账龄,freight-finance,保理业务,published
+Doubtful Receivables,可疑应收账款,freight-finance,保理业务,published
+Write-Off Receivable,应收账款核销,freight-finance,保理业务,published
+Short-Term Export Credit Insurance,短期出口信用险,freight-finance,出口信保,published
+Medium-Term Export Credit Insurance,中期出口信用险,freight-finance,出口信保,published
+Long-Term Export Credit Insurance,长期出口信用险,freight-finance,出口信保,published
+Whole Turnover Policy,综合统保保单,freight-finance,出口信保,published
+Specific Approval Policy,特定买方保单,freight-finance,出口信保,published
+Commercial Risk Cover,商业风险承保,freight-finance,出口信保,published
+Political Risk Cover,政治风险承保,freight-finance,出口信保,published
+Buyer Default Cover,买方违约承保,freight-finance,出口信保,published
+Insolvency of Buyer,买方破产风险,freight-finance,出口信保,published
+Protracted Default,长期拖欠风险,freight-finance,出口信保,published
+Repudiation Risk,毁约风险,freight-finance,出口信保,published
+Import License Refusal Risk,进口许可拒发风险,freight-finance,出口信保,published
+Transfer Delay Risk,汇兑限制风险,freight-finance,出口信保,published
+War Risk Export Credit,出口信保战争险,freight-finance,出口信保,published
+OECD Consensus Rules,官方出口信贷君子协定,freight-finance,出口信保,published
+Mixed Credit,混合信贷,freight-finance,出口信保,published
+Tied Aid Credit,附带条件援助信贷,freight-finance,出口信保,published
+Export Working Capital Guarantee,出口周转资金担保,freight-finance,出口信保,published
+Credit Insurance Policy Limit,信用险保单限额,freight-finance,出口信保,published
+Credit Insurance Premium Rate,信用险费率,freight-finance,出口信保,published
+Indemnification Percentage,赔付比例,freight-finance,出口信保,published
+Waiting Period for Claim,信用险等待期,freight-finance,出口信保,published
+Subrogation in Credit Insurance,信用险代位求偿,freight-finance,出口信保,published
+Recovery under Credit Insurance,信用险追偿,freight-finance,出口信保,published
+Debt Collection Service,商账追收服务,freight-finance,出口信保,published
+Amicable Collection,友好追收,freight-finance,出口信保,published
+Legal Collection,司法追收,freight-finance,出口信保,published
+Debt Recovery Agent,债务追收代理,freight-finance,出口信保,published
+Credit Report Buyer,买方资信报告,freight-finance,出口信保,published
+Credit Rating of Buyer,买方信用评级,freight-finance,出口信保,published
+Trade References,贸易资信参考,freight-finance,出口信保,published
+Payment Behavior Record,付款行为记录,freight-finance,出口信保,published
+Credit Bureau Query,征信查询,freight-finance,出口信保,published
+Country Risk Rating,国家风险评级,freight-finance,出口信保,published
+Sovereign Risk,主权风险,freight-finance,出口信保,published
+Transfer Risk Cover,转移风险承保,freight-finance,出口信保,published
+Currency Inconvertibility,货币不可兑换风险,freight-finance,出口信保,published
+Expropriation Risk,征收风险,freight-finance,出口信保,published
+Political Violence Risk,政治暴力风险,freight-finance,出口信保,published
+Breach of Contract by State Entity,国有主体违约风险,freight-finance,出口信保,published
+Moratorium Announcement,偿付延期公告风险,freight-finance,出口信保,published
+Sanctions Impact on Payment,制裁对支付影响,freight-finance,出口信保,published
 Blocked Funds,冻结资金,freight-finance,出口信保,pending
 Offshore Account Collection,离岸账户收款,freight-finance,出口信保,pending
 Escrow Account Payment,托管账户付款,freight-finance,出口信保,pending
