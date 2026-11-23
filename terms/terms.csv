@@ -9009,106 +9009,106 @@ FDA Registration Number,FDA 注册号,documents,贸易单证,published
 CE Declaration of Conformity,CE 符合性声明,documents,贸易单证,published
 Type Approval Certificate,型式认可证书,documents,贸易单证,published
 Product Registration Certificate,产品注册证,documents,贸易单证,published
-Energy Efficiency Label Document,能效标识文件,documents,贸易单证,pending
-Dangerous Goods Certificate,危险品证明书,documents,贸易单证,pending
-Cargo Declaration,货物申报单,documents,贸易单证,pending
-Ship Stores Declaration,船用物料申报单,documents,贸易单证,pending
-Crew Effects Declaration,船员物品申报单,documents,贸易单证,pending
-Tonnage Certificate,吨位证书,documents,贸易单证,pending
-Class Certificate,船级证书,documents,贸易单证,pending
-Gas-Free Certificate,除气证书,documents,贸易单证,pending
-Grain Loading Certificate,谷物装载证书,documents,贸易单证,pending
-Documentary Requirements List,单证要求清单,documents,贸易单证,pending
-Import Document Checklist,进口单证清单,documents,贸易单证,pending
-Export Document Checklist,出口单证清单,documents,贸易单证,pending
-Document Legalization Service,单证认证服务,documents,贸易单证,pending
-Electronic Certificate of Origin,电子原产地证书,documents,原产单证,pending
-Unique Consignment Reference,唯一发货参考号,documents,贸易单证,pending
-Bill of Lading Number Format,提单号格式,documents,运输单证,pending
-Bill of Lading Copy,提单副本,documents,运输单证,pending
-Blank Endorsed Bill of Lading,空白背书提单,documents,运输单证,pending
-On Board Bill of Lading,已装船提单,documents,运输单证,pending
-Received for Shipment Bill,收货待运提单,documents,运输单证,pending
-Long Form Bill of Lading,全式提单,documents,运输单证,pending
-Telex Release Bill,电放提单,documents,运输单证,pending
-Express Release,快递放单,documents,运输单证,pending
-Surrendered Bill of Lading,交单放货提单,documents,运输单证,pending
-Forwarder Cargo Receipt,货代货物收据,documents,运输单证,pending
-FCR Document,货代收货凭证,documents,运输单证,pending
-Forwarder Certificate of Transport,货代运输证明,documents,运输单证,pending
-Berth Booking Note,泊位订舱单,documents,运输单证,pending
-Hatch Cover Plan,舱盖配载图,documents,运输单证,pending
-Container Manifest,集装箱舱单,documents,运输单证,pending
-Boat Note,卸货交接单,documents,运输单证,pending
-Terminal Receipt,堆场收据,documents,运输单证,pending
-Container Interchange Receipt,集装箱交接单,documents,运输单证,pending
-Release Order,放货指令,documents,运输单证,pending
-Cargo Release Letter,放货函,documents,运输单证,pending
-Bill of Lading Surrender Letter,提单注销函,documents,运输单证,pending
-Letter of Indemnity Shipping,海运赔付保函,documents,运输单证,pending
-LOI for Cargo Release,无单放货保函,documents,运输单证,pending
-Anti-Bribery Clause Document,反贿赂条款文件,documents,运输单证,pending
-Dangerous Cargo Manifest,危险货物舱单,documents,运输单证,pending
-Warehouse Warrant,仓单,documents,运输单证,pending
-Warehouse Receipt Document,入库仓单,documents,运输单证,pending
-Delivery Order Warehouse,仓库提货单,documents,运输单证,pending
-Deposit Certificate,存款证明,documents,金融单证,pending
-Bank Statement for Trade,贸易用银行对账单,documents,金融单证,pending
-Credit Report Document,资信证明文件,documents,金融单证,pending
-Cargo Insurance Policy Document,货运保险单,documents,金融单证,pending
-Insurance Binder,暂保单,documents,金融单证,pending
-Open Policy Certificate,预约保险凭证,documents,金融单证,pending
-Certificate of Insurance COI,保险证明书,documents,金融单证,pending
-Quality Guarantee Clause,质量保证条款,trade-terms,合同条款,pending
-Quantity Tolerance Clause,数量机动幅度条款,trade-terms,合同条款,pending
-Party at Option to Choose Tolerance,选择方约定条款,trade-terms,合同条款,pending
-Devaluation Clause,货币贬值条款,trade-terms,合同条款,pending
-Gold Clause,黄金条款,trade-terms,合同条款,pending
-Force Majeure Clause,不可抗力条款,trade-terms,合同条款,pending
-Force Majeure Event,不可抗力事件,trade-terms,合同条款,pending
-Act of God Clause,天灾条款,trade-terms,合同条款,pending
-Frustration of Contract,合同落空,trade-terms,合同条款,pending
-Impossibility of Performance,履行不能,trade-terms,合同条款,pending
-Material Adverse Change Clause,重大不利变化条款,trade-terms,合同条款,pending
-Notice Period Clause,通知期限条款,trade-terms,合同条款,pending
-Breach of Contract Claim,违约索赔,trade-terms,合同条款,pending
-Anticipatory Breach,预期违约,trade-terms,合同条款,pending
-Fundamental Breach,根本违约,trade-terms,合同条款,pending
-Non-Fundamental Breach,非根本违约,trade-terms,合同条款,pending
-Remedy of Breach,违约补救,trade-terms,合同条款,pending
-Specific Performance,实际履行,trade-terms,合同条款,pending
-Penalty Clause,罚金条款,trade-terms,合同条款,pending
-Exemplary Damages,惩罚性赔偿,trade-terms,合同条款,pending
-Consequential Damages Exclusion,间接损失排除条款,trade-terms,合同条款,pending
-Limitation of Liability Clause,责任限制条款,trade-terms,合同条款,pending
-Liability Cap,责任上限,trade-terms,合同条款,pending
-Indemnity Clause,赔偿条款,trade-terms,合同条款,pending
-Warranty Disclaimer Clause,担保免责声明,trade-terms,合同条款,pending
-Survival Clause,存续条款,trade-terms,合同条款,pending
-Severability Clause,可分割性条款,trade-terms,合同条款,pending
-Entire Agreement Clause,完整协议条款,trade-terms,合同条款,pending
-Amendment in Writing Clause,书面修改条款,trade-terms,合同条款,pending
-Subcontracting Clause,分包条款,trade-terms,合同条款,pending
-Non-Exclusive Agency Clause,非独家代理条款,trade-terms,合同条款,pending
-Exclusivity Clause,独家条款,trade-terms,合同条款,pending
-Most Favored Customer Clause,最优惠客户条款,trade-terms,合同条款,pending
-Take or Pay Contract,照付不议合同,trade-terms,合同条款,pending
-Minimum Purchase Commitment,最低采购承诺,trade-terms,合同条款,pending
-Maximum Purchase Commitment,最高采购上限,trade-terms,合同条款,pending
-Requirements Contract,需求合同,trade-terms,合同条款,pending
-Output Contract,产量合同,trade-terms,合同条款,pending
-Blanket Order Contract,长期总量订单,trade-terms,合同条款,pending
-Call-Off Contract,调用合同,trade-terms,合同条款,pending
-Rolling Contract,滚动合同,trade-terms,合同条款,pending
-Firm Purchase Order,确定采购订单,trade-terms,合同条款,pending
-Purchase Order Amendment,采购订单变更,trade-terms,合同条款,pending
-Contract Renewal Clause,合同续签条款,trade-terms,合同条款,pending
-Termination for Convenience,便利终止条款,trade-terms,合同条款,pending
-Termination for Cause,因由终止条款,trade-terms,合同条款,pending
-Termination Notice Period,终止通知期,trade-terms,合同条款,pending
-Wind-Down Obligation,合同终止收尾义务,trade-terms,合同条款,pending
-Escalation Procedure,争议升级程序,trade-terms,争议解决,pending
-Amicable Settlement Clause,友好协商条款,trade-terms,争议解决,pending
+Energy Efficiency Label Document,能效标识文件,documents,贸易单证,published
+Dangerous Goods Certificate,危险品证明书,documents,贸易单证,published
+Cargo Declaration,货物申报单,documents,贸易单证,published
+Ship Stores Declaration,船用物料申报单,documents,贸易单证,published
+Crew Effects Declaration,船员物品申报单,documents,贸易单证,published
+Tonnage Certificate,吨位证书,documents,贸易单证,published
+Class Certificate,船级证书,documents,贸易单证,published
+Gas-Free Certificate,除气证书,documents,贸易单证,published
+Grain Loading Certificate,谷物装载证书,documents,贸易单证,published
+Documentary Requirements List,单证要求清单,documents,贸易单证,published
+Import Document Checklist,进口单证清单,documents,贸易单证,published
+Export Document Checklist,出口单证清单,documents,贸易单证,published
+Document Legalization Service,单证认证服务,documents,贸易单证,published
+Electronic Certificate of Origin,电子原产地证书,documents,原产单证,published
+Unique Consignment Reference,唯一发货参考号,documents,贸易单证,published
+Bill of Lading Number Format,提单号格式,documents,运输单证,published
+Bill of Lading Copy,提单副本,documents,运输单证,published
+Blank Endorsed Bill of Lading,空白背书提单,documents,运输单证,published
+On Board Bill of Lading,已装船提单,documents,运输单证,published
+Received for Shipment Bill,收货待运提单,documents,运输单证,published
+Long Form Bill of Lading,全式提单,documents,运输单证,published
+Telex Release Bill,电放提单,documents,运输单证,published
+Express Release,快递放单,documents,运输单证,published
+Surrendered Bill of Lading,交单放货提单,documents,运输单证,published
+Forwarder Cargo Receipt,货代货物收据,documents,运输单证,published
+FCR Document,货代收货凭证,documents,运输单证,published
+Forwarder Certificate of Transport,货代运输证明,documents,运输单证,published
+Berth Booking Note,泊位订舱单,documents,运输单证,published
+Hatch Cover Plan,舱盖配载图,documents,运输单证,published
+Container Manifest,集装箱舱单,documents,运输单证,published
+Boat Note,卸货交接单,documents,运输单证,published
+Terminal Receipt,堆场收据,documents,运输单证,published
+Container Interchange Receipt,集装箱交接单,documents,运输单证,published
+Release Order,放货指令,documents,运输单证,published
+Cargo Release Letter,放货函,documents,运输单证,published
+Bill of Lading Surrender Letter,提单注销函,documents,运输单证,published
+Letter of Indemnity Shipping,海运赔付保函,documents,运输单证,published
+LOI for Cargo Release,无单放货保函,documents,运输单证,published
+Anti-Bribery Clause Document,反贿赂条款文件,documents,运输单证,published
+Dangerous Cargo Manifest,危险货物舱单,documents,运输单证,published
+Warehouse Warrant,仓单,documents,运输单证,published
+Warehouse Receipt Document,入库仓单,documents,运输单证,published
+Delivery Order Warehouse,仓库提货单,documents,运输单证,published
+Deposit Certificate,存款证明,documents,金融单证,published
+Bank Statement for Trade,贸易用银行对账单,documents,金融单证,published
+Credit Report Document,资信证明文件,documents,金融单证,published
+Cargo Insurance Policy Document,货运保险单,documents,金融单证,published
+Insurance Binder,暂保单,documents,金融单证,published
+Open Policy Certificate,预约保险凭证,documents,金融单证,published
+Certificate of Insurance COI,保险证明书,documents,金融单证,published
+Quality Guarantee Clause,质量保证条款,trade-terms,合同条款,published
+Quantity Tolerance Clause,数量机动幅度条款,trade-terms,合同条款,published
+Party at Option to Choose Tolerance,选择方约定条款,trade-terms,合同条款,published
+Devaluation Clause,货币贬值条款,trade-terms,合同条款,published
+Gold Clause,黄金条款,trade-terms,合同条款,published
+Force Majeure Clause,不可抗力条款,trade-terms,合同条款,published
+Force Majeure Event,不可抗力事件,trade-terms,合同条款,published
+Act of God Clause,天灾条款,trade-terms,合同条款,published
+Frustration of Contract,合同落空,trade-terms,合同条款,published
+Impossibility of Performance,履行不能,trade-terms,合同条款,published
+Material Adverse Change Clause,重大不利变化条款,trade-terms,合同条款,published
+Notice Period Clause,通知期限条款,trade-terms,合同条款,published
+Breach of Contract Claim,违约索赔,trade-terms,合同条款,published
+Anticipatory Breach,预期违约,trade-terms,合同条款,published
+Fundamental Breach,根本违约,trade-terms,合同条款,published
+Non-Fundamental Breach,非根本违约,trade-terms,合同条款,published
+Remedy of Breach,违约补救,trade-terms,合同条款,published
+Specific Performance,实际履行,trade-terms,合同条款,published
+Penalty Clause,罚金条款,trade-terms,合同条款,published
+Exemplary Damages,惩罚性赔偿,trade-terms,合同条款,published
+Consequential Damages Exclusion,间接损失排除条款,trade-terms,合同条款,published
+Limitation of Liability Clause,责任限制条款,trade-terms,合同条款,published
+Liability Cap,责任上限,trade-terms,合同条款,published
+Indemnity Clause,赔偿条款,trade-terms,合同条款,published
+Warranty Disclaimer Clause,担保免责声明,trade-terms,合同条款,published
+Survival Clause,存续条款,trade-terms,合同条款,published
+Severability Clause,可分割性条款,trade-terms,合同条款,published
+Entire Agreement Clause,完整协议条款,trade-terms,合同条款,published
+Amendment in Writing Clause,书面修改条款,trade-terms,合同条款,published
+Subcontracting Clause,分包条款,trade-terms,合同条款,published
+Non-Exclusive Agency Clause,非独家代理条款,trade-terms,合同条款,published
+Exclusivity Clause,独家条款,trade-terms,合同条款,published
+Most Favored Customer Clause,最优惠客户条款,trade-terms,合同条款,published
+Take or Pay Contract,照付不议合同,trade-terms,合同条款,published
+Minimum Purchase Commitment,最低采购承诺,trade-terms,合同条款,published
+Maximum Purchase Commitment,最高采购上限,trade-terms,合同条款,published
+Requirements Contract,需求合同,trade-terms,合同条款,published
+Output Contract,产量合同,trade-terms,合同条款,published
+Blanket Order Contract,长期总量订单,trade-terms,合同条款,published
+Call-Off Contract,调用合同,trade-terms,合同条款,published
+Rolling Contract,滚动合同,trade-terms,合同条款,published
+Firm Purchase Order,确定采购订单,trade-terms,合同条款,published
+Purchase Order Amendment,采购订单变更,trade-terms,合同条款,published
+Contract Renewal Clause,合同续签条款,trade-terms,合同条款,published
+Termination for Convenience,便利终止条款,trade-terms,合同条款,published
+Termination for Cause,因由终止条款,trade-terms,合同条款,published
+Termination Notice Period,终止通知期,trade-terms,合同条款,published
+Wind-Down Obligation,合同终止收尾义务,trade-terms,合同条款,published
+Escalation Procedure,争议升级程序,trade-terms,争议解决,published
+Amicable Settlement Clause,友好协商条款,trade-terms,争议解决,published
 Mediation Agreement,调解协议,trade-terms,争议解决,pending
 Arbitration Agreement,仲裁协议,trade-terms,争议解决,pending
 CIETAC Arbitration,中国国际经济贸易仲裁委员会仲裁,trade-terms,争议解决,pending
