@@ -8812,9 +8812,9 @@ Import Financing,进口融资,freight-finance,贸易融资,published
 Import Bill Purchase,进口代付,freight-finance,贸易融资,published
 Forfaiting Discount Rate,福费廷贴现率,freight-finance,贸易融资,published
 Forfaiter,福费廷商,freight-finance,贸易融资,published
-Avalization,票据保付,freight-finance,贸易融资,pending
-Aval,票据保付担保,freight-finance,贸易融资,pending
-Credit Line Facility,授信额度,freight-finance,贸易融资,pending
+Avalization,票据保付,freight-finance,贸易融资,published
+Aval,票据保付担保,freight-finance,贸易融资,published
+Credit Line Facility,授信额度,freight-finance,贸易融资,published
 Revolving Credit Facility,循环授信,freight-finance,贸易融资,published
 Committed Facility,承诺性授信,freight-finance,贸易融资,published
 Uncommitted Facility,非承诺授信,freight-finance,贸易融资,published
@@ -8912,103 +8912,103 @@ Political Violence Risk,政治暴力风险,freight-finance,出口信保,publishe
 Breach of Contract by State Entity,国有主体违约风险,freight-finance,出口信保,published
 Moratorium Announcement,偿付延期公告风险,freight-finance,出口信保,published
 Sanctions Impact on Payment,制裁对支付影响,freight-finance,出口信保,published
-Blocked Funds,冻结资金,freight-finance,出口信保,pending
-Offshore Account Collection,离岸账户收款,freight-finance,出口信保,pending
-Escrow Account Payment,托管账户付款,freight-finance,出口信保,pending
-Escrow Agent,托管代理,freight-finance,出口信保,pending
-Milestone Release Escrow,托管分期释放,freight-finance,出口信保,pending
-Documentary Compliance Payment,单证合规支付,freight-finance,出口信保,pending
-Exchange Control Regulation,外汇管制,freight-finance,汇率避险,pending
-Foreign Exchange Settlement,外汇结算,freight-finance,汇率避险,pending
-Forward Exchange Contract,远期外汇合同,freight-finance,汇率避险,pending
-Forward Rate Agreement,远期利率协议,freight-finance,汇率避险,pending
-Non-Deliverable Forward,无本金交割远期,freight-finance,汇率避险,pending
-Cross Currency Swap,交叉货币掉期,freight-finance,汇率避险,pending
-Currency Option,货币期权,freight-finance,汇率避险,pending
-Call Option on Currency,外汇买入期权,freight-finance,汇率避险,pending
-Put Option on Currency,外汇卖出期权,freight-finance,汇率避险,pending
-Strike Price Currency,行权价,freight-finance,汇率避险,pending
-Premium of Option,期权费,freight-finance,汇率避险,pending
-In the Money Option,价内期权,freight-finance,汇率避险,pending
-Out of the Money Option,价外期权,freight-finance,汇率避险,pending
-Zero Cost Collar,零成本领口策略,freight-finance,汇率避险,pending
-Range Forward,区间远期,freight-finance,汇率避险,pending
-Participating Forward,参与式远期,freight-finance,汇率避险,pending
-Time Option Forward,择期外汇交易,freight-finance,汇率避险,pending
-Broken Date Forward,非标准期限远期,freight-finance,汇率避险,pending
-Rolling Hedge Program,滚动套期保值计划,freight-finance,汇率避险,pending
-Natural Hedge,自然对冲,freight-finance,汇率避险,pending
-Hedge Accounting,套期会计,freight-finance,汇率避险,pending
-Mark to Market Valuation,按市值计价,freight-finance,汇率避险,pending
-Exchange Gain or Loss,汇兑损益,freight-finance,汇率避险,pending
-Realized FX Gain,已实现汇兑收益,freight-finance,汇率避险,pending
-Unrealized FX Loss,未实现汇兑损失,freight-finance,汇率避险,pending
-Functional Currency,记账本位币,freight-finance,汇率避险,pending
-Invoice Currency Choice,开票货币选择,freight-finance,汇率避险,pending
-RMB Cross-Border Settlement,人民币跨境结算,freight-finance,汇率避险,pending
-Foreign Exchange Quotation,外汇牌价,freight-finance,汇率避险,pending
-Spot Exchange Rate,即期汇率,freight-finance,汇率避险,pending
-Forward Exchange Rate,远期汇率,freight-finance,汇率避险,pending
-Forward Points,远期点数,freight-finance,汇率避险,pending
-Currency Appreciation,货币升值,freight-finance,汇率避险,pending
-Currency Depreciation,货币贬值,freight-finance,汇率避险,pending
-Exchange Rate Volatility,汇率波动率,freight-finance,汇率避险,pending
-Interest Rate Parity,利率平价,freight-finance,汇率避险,pending
-Carry Trade Risk,套息交易风险,freight-finance,汇率避险,pending
-Price Adjustment Currency Clause,货币汇率调整条款,freight-finance,汇率避险,pending
-Currency Devaluation Clause,货币贬值补偿条款,freight-finance,汇率避险,pending
-Eurocurrency Market,欧洲货币市场,freight-finance,汇率避险,pending
-LIBOR Transition,伦敦同业拆借利率转换,freight-finance,汇率避险,pending
-SOFR Reference Rate,担保隔夜融资利率,freight-finance,汇率避险,pending
-Base Rate Pricing,基准利率定价,freight-finance,汇率避险,pending
-Interest Spread,利差,freight-finance,汇率避险,pending
-Discount Rate for Export Bills,出口票据贴现率,freight-finance,汇率避险,pending
-Loan Principal Repayment,贷款本金偿还,freight-finance,汇率避险,pending
-Equal Installment Repayment,等额分期偿还,freight-finance,汇率避险,pending
-Bullet Repayment,到期一次性偿还,freight-finance,汇率避险,pending
-Amortization Schedule,还款计划表,freight-finance,汇率避险,pending
-Refinancing Risk,再融资风险,freight-finance,汇率避险,pending
-RCEP Certificate of Origin,RCEP 原产地证书,documents,原产单证,pending
-ATR Certificate,ATR 关税特惠证书,documents,原产单证,pending
-Certificate of Origin Chamber Stamp,商会认证原产地证,documents,原产单证,pending
-Origin Declaration on Invoice,发票原产地声明,documents,原产单证,pending
-Approved Exporter Number,经核准出口商编号,documents,原产单证,pending
-Ruling of Origin,原产地裁定,documents,原产单证,pending
-Binding Origin Information,原产地预裁定,documents,原产单证,pending
-Non-Alteration Certificate,不得改装证明,documents,原产单证,pending
-Back to Back Certificate of Origin,背对背原产地证,documents,原产单证,pending
-Third Country Invoicing Origin,第三国开票原产地证,documents,原产单证,pending
-Manufacture Certificate,制造证明书,documents,原产单证,pending
-Subcontractor Declaration,分包商声明,documents,原产单证,pending
-Certificate of Measurement,尺码证书,documents,贸易单证,pending
-Pre-Shipment Inspection Certificate,装运前检验证书,documents,贸易单证,pending
-Third Party Inspection Report,第三方检验报告,documents,贸易单证,pending
-BV Inspection Certificate,BV 检验证书,documents,贸易单证,pending
-COTECNA Inspection Certificate,科泰克检验证书,documents,贸易单证,pending
-Clean Report of Findings,清洁检验报告,documents,贸易单证,pending
-Sampling Certificate,抽样证书,documents,贸易单证,pending
-Sealing Certificate,铅封证明,documents,贸易单证,pending
-Wood Packaging IPPC Mark,木质包装 IPPC 标识,documents,贸易单证,pending
-Health Certificate Food,食品卫生证书,documents,贸易单证,pending
-Radioactivity Certificate,放射性检测证书,documents,贸易单证,pending
-Halal Certificate,清真认证证书,documents,贸易单证,pending
-Certificate of Origin Legalization,原产地证领事认证,documents,贸易单证,pending
-Embassy Attestation,使馆认证,documents,贸易单证,pending
-Apostille Certification,海牙认证加签,documents,贸易单证,pending
-Notarized Document,公证文件,documents,贸易单证,pending
-Certificate of Incumbency,存续证明书,documents,贸易单证,pending
-Business License Copy for Customs,海关用营业执照副本,documents,贸易单证,pending
-Authorization Letter for Declaration,申报授权函,documents,贸易单证,pending
-Non-Automatic Import License,非自动进口许可,documents,贸易单证,pending
-Import Quota Certificate,进口配额证明,documents,贸易单证,pending
-Textile Export License,纺织品出口许可,documents,贸易单证,pending
-End-Use Statement,最终用途说明,documents,贸易单证,pending
-Importer of Record Document,进口商登记文件,documents,贸易单证,pending
-Exporter of Record Document,出口商登记文件,documents,贸易单证,pending
-FDA Registration Number,FDA 注册号,documents,贸易单证,pending
-CE Declaration of Conformity,CE 符合性声明,documents,贸易单证,pending
-Type Approval Certificate,型式认可证书,documents,贸易单证,pending
-Product Registration Certificate,产品注册证,documents,贸易单证,pending
+Blocked Funds,冻结资金,freight-finance,出口信保,published
+Offshore Account Collection,离岸账户收款,freight-finance,出口信保,published
+Escrow Account Payment,托管账户付款,freight-finance,出口信保,published
+Escrow Agent,托管代理,freight-finance,出口信保,published
+Milestone Release Escrow,托管分期释放,freight-finance,出口信保,published
+Documentary Compliance Payment,单证合规支付,freight-finance,出口信保,published
+Exchange Control Regulation,外汇管制,freight-finance,汇率避险,published
+Foreign Exchange Settlement,外汇结算,freight-finance,汇率避险,published
+Forward Exchange Contract,远期外汇合同,freight-finance,汇率避险,published
+Forward Rate Agreement,远期利率协议,freight-finance,汇率避险,published
+Non-Deliverable Forward,无本金交割远期,freight-finance,汇率避险,published
+Cross Currency Swap,交叉货币掉期,freight-finance,汇率避险,published
+Currency Option,货币期权,freight-finance,汇率避险,published
+Call Option on Currency,外汇买入期权,freight-finance,汇率避险,published
+Put Option on Currency,外汇卖出期权,freight-finance,汇率避险,published
+Strike Price Currency,行权价,freight-finance,汇率避险,published
+Premium of Option,期权费,freight-finance,汇率避险,published
+In the Money Option,价内期权,freight-finance,汇率避险,published
+Out of the Money Option,价外期权,freight-finance,汇率避险,published
+Zero Cost Collar,零成本领口策略,freight-finance,汇率避险,published
+Range Forward,区间远期,freight-finance,汇率避险,published
+Participating Forward,参与式远期,freight-finance,汇率避险,published
+Time Option Forward,择期外汇交易,freight-finance,汇率避险,published
+Broken Date Forward,非标准期限远期,freight-finance,汇率避险,published
+Rolling Hedge Program,滚动套期保值计划,freight-finance,汇率避险,published
+Natural Hedge,自然对冲,freight-finance,汇率避险,published
+Hedge Accounting,套期会计,freight-finance,汇率避险,published
+Mark to Market Valuation,按市值计价,freight-finance,汇率避险,published
+Exchange Gain or Loss,汇兑损益,freight-finance,汇率避险,published
+Realized FX Gain,已实现汇兑收益,freight-finance,汇率避险,published
+Unrealized FX Loss,未实现汇兑损失,freight-finance,汇率避险,published
+Functional Currency,记账本位币,freight-finance,汇率避险,published
+Invoice Currency Choice,开票货币选择,freight-finance,汇率避险,published
+RMB Cross-Border Settlement,人民币跨境结算,freight-finance,汇率避险,published
+Foreign Exchange Quotation,外汇牌价,freight-finance,汇率避险,published
+Spot Exchange Rate,即期汇率,freight-finance,汇率避险,published
+Forward Exchange Rate,远期汇率,freight-finance,汇率避险,published
+Forward Points,远期点数,freight-finance,汇率避险,published
+Currency Appreciation,货币升值,freight-finance,汇率避险,published
+Currency Depreciation,货币贬值,freight-finance,汇率避险,published
+Exchange Rate Volatility,汇率波动率,freight-finance,汇率避险,published
+Interest Rate Parity,利率平价,freight-finance,汇率避险,published
+Carry Trade Risk,套息交易风险,freight-finance,汇率避险,published
+Price Adjustment Currency Clause,货币汇率调整条款,freight-finance,汇率避险,published
+Currency Devaluation Clause,货币贬值补偿条款,freight-finance,汇率避险,published
+Eurocurrency Market,欧洲货币市场,freight-finance,汇率避险,published
+LIBOR Transition,伦敦同业拆借利率转换,freight-finance,汇率避险,published
+SOFR Reference Rate,担保隔夜融资利率,freight-finance,汇率避险,published
+Base Rate Pricing,基准利率定价,freight-finance,汇率避险,published
+Interest Spread,利差,freight-finance,汇率避险,published
+Discount Rate for Export Bills,出口票据贴现率,freight-finance,汇率避险,published
+Loan Principal Repayment,贷款本金偿还,freight-finance,汇率避险,published
+Equal Installment Repayment,等额分期偿还,freight-finance,汇率避险,published
+Bullet Repayment,到期一次性偿还,freight-finance,汇率避险,published
+Amortization Schedule,还款计划表,freight-finance,汇率避险,published
+Refinancing Risk,再融资风险,freight-finance,汇率避险,published
+RCEP Certificate of Origin,RCEP 原产地证书,documents,原产单证,published
+ATR Certificate,ATR 关税特惠证书,documents,原产单证,published
+Certificate of Origin Chamber Stamp,商会认证原产地证,documents,原产单证,published
+Origin Declaration on Invoice,发票原产地声明,documents,原产单证,published
+Approved Exporter Number,经核准出口商编号,documents,原产单证,published
+Ruling of Origin,原产地裁定,documents,原产单证,published
+Binding Origin Information,原产地预裁定,documents,原产单证,published
+Non-Alteration Certificate,不得改装证明,documents,原产单证,published
+Back to Back Certificate of Origin,背对背原产地证,documents,原产单证,published
+Third Country Invoicing Origin,第三国开票原产地证,documents,原产单证,published
+Manufacture Certificate,制造证明书,documents,原产单证,published
+Subcontractor Declaration,分包商声明,documents,原产单证,published
+Certificate of Measurement,尺码证书,documents,贸易单证,published
+Pre-Shipment Inspection Certificate,装运前检验证书,documents,贸易单证,published
+Third Party Inspection Report,第三方检验报告,documents,贸易单证,published
+BV Inspection Certificate,BV 检验证书,documents,贸易单证,published
+COTECNA Inspection Certificate,科泰克检验证书,documents,贸易单证,published
+Clean Report of Findings,清洁检验报告,documents,贸易单证,published
+Sampling Certificate,抽样证书,documents,贸易单证,published
+Sealing Certificate,铅封证明,documents,贸易单证,published
+Wood Packaging IPPC Mark,木质包装 IPPC 标识,documents,贸易单证,published
+Health Certificate Food,食品卫生证书,documents,贸易单证,published
+Radioactivity Certificate,放射性检测证书,documents,贸易单证,published
+Halal Certificate,清真认证证书,documents,贸易单证,published
+Certificate of Origin Legalization,原产地证领事认证,documents,贸易单证,published
+Embassy Attestation,使馆认证,documents,贸易单证,published
+Apostille Certification,海牙认证加签,documents,贸易单证,published
+Notarized Document,公证文件,documents,贸易单证,published
+Certificate of Incumbency,存续证明书,documents,贸易单证,published
+Business License Copy for Customs,海关用营业执照副本,documents,贸易单证,published
+Authorization Letter for Declaration,申报授权函,documents,贸易单证,published
+Non-Automatic Import License,非自动进口许可,documents,贸易单证,published
+Import Quota Certificate,进口配额证明,documents,贸易单证,published
+Textile Export License,纺织品出口许可,documents,贸易单证,published
+End-Use Statement,最终用途说明,documents,贸易单证,published
+Importer of Record Document,进口商登记文件,documents,贸易单证,published
+Exporter of Record Document,出口商登记文件,documents,贸易单证,published
+FDA Registration Number,FDA 注册号,documents,贸易单证,published
+CE Declaration of Conformity,CE 符合性声明,documents,贸易单证,published
+Type Approval Certificate,型式认可证书,documents,贸易单证,published
+Product Registration Certificate,产品注册证,documents,贸易单证,published
 Energy Efficiency Label Document,能效标识文件,documents,贸易单证,pending
 Dangerous Goods Certificate,危险品证明书,documents,贸易单证,pending
 Cargo Declaration,货物申报单,documents,贸易单证,pending
