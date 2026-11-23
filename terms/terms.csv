@@ -9109,106 +9109,106 @@ Termination Notice Period,终止通知期,trade-terms,合同条款,published
 Wind-Down Obligation,合同终止收尾义务,trade-terms,合同条款,published
 Escalation Procedure,争议升级程序,trade-terms,争议解决,published
 Amicable Settlement Clause,友好协商条款,trade-terms,争议解决,published
-Mediation Agreement,调解协议,trade-terms,争议解决,pending
-Arbitration Agreement,仲裁协议,trade-terms,争议解决,pending
-CIETAC Arbitration,中国国际经济贸易仲裁委员会仲裁,trade-terms,争议解决,pending
-ICC Arbitration,国际商会仲裁,trade-terms,争议解决,pending
-LCIA Arbitration,伦敦国际仲裁院仲裁,trade-terms,争议解决,pending
-SIAC Arbitration,新加坡国际仲裁中心仲裁,trade-terms,争议解决,pending
-HKIAC Arbitration,香港国际仲裁中心仲裁,trade-terms,争议解决,pending
-Ad Hoc Arbitration,临时仲裁,trade-terms,争议解决,pending
-Institutional Arbitration,机构仲裁,trade-terms,争议解决,pending
-Governing Law Selection,管辖法律选择,trade-terms,争议解决,pending
-Exclusive Jurisdiction,排他性管辖,trade-terms,争议解决,pending
-Non-Exclusive Jurisdiction,非排他性管辖,trade-terms,争议解决,pending
-Court Litigation Clause,法院诉讼条款,trade-terms,争议解决,pending
-Preliminary Injunction,诉前禁令,trade-terms,争议解决,pending
-Asset Preservation Order,财产保全令,trade-terms,争议解决,pending
-Enforcement of Arbitral Award,仲裁裁决执行,trade-terms,争议解决,pending
-Reciprocal Enforcement of Judgments,判决互认执行,trade-terms,争议解决,pending
-Cost Allocation in Arbitration,仲裁费用分担,trade-terms,争议解决,pending
-Statute of Limitations Trade,贸易诉讼时效,trade-terms,争议解决,pending
-Hague Rules Time Bar,海牙规则时效,trade-terms,争议解决,pending
-One Year Time Limit Claims,一年索赔时效,trade-terms,争议解决,pending
-Notification of Loss Period,货损通知期限,trade-terms,争议解决,pending
-latent Defect Notice Period,潜在缺陷通知期,trade-terms,争议解决,pending
-Expert Determination,专家裁定程序,trade-terms,争议解决,pending
-Dispute Review Board,争议评审委员会,trade-terms,争议解决,pending
-Good Faith Negotiation,诚信协商义务,trade-terms,争议解决,pending
-Without Prejudice Negotiation,无损权益协商,trade-terms,争议解决,pending
-Mutual Release Agreement,互免责任协议,trade-terms,争议解决,pending
-Commercial Compromise,商业折中方案,trade-terms,争议解决,pending
-Buy Back Claim,回购抵扣索赔,trade-terms,争议解决,pending
-Credit Note Settlement,红字发票冲抵和解,trade-terms,争议解决,pending
-Deduction from Payment,付款中扣减索赔,trade-terms,争议解决,pending
-Claim Settlement Fund,理赔准备金,trade-terms,争议解决,pending
-Overcharge Dispute,多收费争议,trade-terms,争议解决,pending
-Short Shipment Claim,短装索赔,trade-terms,争议解决,pending
-Late Delivery Claim,迟延交付索赔,trade-terms,争议解决,pending
-Quality Dispute,质量争议,trade-terms,争议解决,pending
-Specification Mismatch Claim,规格不符索赔,trade-terms,争议解决,pending
-Wrong Item Shipped Claim,错发货物索赔,trade-terms,争议解决,pending
-Mixed Cargo Claim,混装索赔,trade-terms,争议解决,pending
-Counterfeit Goods Dispute,假冒货物争议,trade-terms,争议解决,pending
-Indemnification for IP Infringement,知识产权侵权赔偿,trade-terms,争议解决,pending
-Inspection Rights Clause,验货权条款,trade-terms,质量检验,pending
-Pre-Production Inspection,生产前检验,trade-terms,质量检验,pending
-During Production Inspection,生产中期检验,trade-terms,质量检验,pending
-Final Random Inspection,出货前抽检,trade-terms,质量检验,pending
-AQL Acceptable Quality Level,可接受质量水平,trade-terms,质量检验,pending
-AQL Sampling Table,抽样标准表,trade-terms,质量检验,pending
-Critical Defect Definition,致命缺陷判定,trade-terms,质量检验,pending
-Major Defect Definition,主要缺陷判定,trade-terms,质量检验,pending
-Minor Defect Definition,次要缺陷判定,trade-terms,质量检验,pending
-Defect Rate Threshold,缺陷率阈值,trade-terms,质量检验,pending
-Golden Sample,标准样,trade-terms,质量检验,pending
-Reference Sample,参考样,trade-terms,质量检验,pending
-Retained Sample,留样,trade-terms,质量检验,pending
-Color Approval Sample,颜色批准样,trade-terms,质量检验,pending
-Lab Dip Approval,色样确认,trade-terms,质量检验,pending
-Fit Sample Approval,成衣试样确认,trade-terms,质量检验,pending
-Bulk Production Standard,大货生产标准,trade-terms,质量检验,pending
-Certificate of Test,测试证书,trade-terms,质量检验,pending
-Third Party Lab Testing,第三方实验室检测,trade-terms,质量检验,pending
-REACH Compliance Testing,REACH 合规检测,trade-terms,质量检验,pending
-ROHS Compliance Testing,ROHS 合规检测,trade-terms,质量检验,pending
-FDA Compliance Testing,FDA 合规检测,trade-terms,质量检验,pending
-Food Contact Material Test,食品接触材料检测,trade-terms,质量检验,pending
-Shelf Life Test,保质期测试,trade-terms,质量检验,pending
-Drop Test Report,跌落测试报告,trade-terms,质量检验,pending
-Packaging Strength Test,包装强度测试,trade-terms,质量检验,pending
-ISTA Packaging Test,ISTA 包装运输测试,trade-terms,质量检验,pending
-Vibration Test Packaging,包装振动测试,trade-terms,质量检验,pending
-Compression Test Packaging,包装堆码测试,trade-terms,质量检验,pending
-Tensile Strength Test,拉伸强度测试,trade-terms,质量检验,pending
-Calibration Certificate Device,设备校准证书,trade-terms,质量检验,pending
-Quality Control Plan,质量控制计划,trade-terms,质量检验,pending
-Quality Manual,质量手册,trade-terms,质量检验,pending
-Six Sigma Quality Program,六西格玛质量计划,trade-terms,质量检验,pending
-Statistical Process Control,统计过程控制,trade-terms,质量检验,pending
-Control Chart,控制图,trade-terms,质量检验,pending
-Process Capability Index,过程能力指数,trade-terms,质量检验,pending
-Pareto Analysis of Defects,缺陷帕累托分析,trade-terms,质量检验,pending
-Root Cause Analysis Report,根本原因分析报告,trade-terms,质量检验,pending
-Corrective Action Request,纠正措施要求,trade-terms,质量检验,pending
-Preventive Action Plan,预防措施计划,trade-terms,质量检验,pending
-Quality Complaint Letter,质量投诉函,trade-terms,质量检验,pending
-RMA Number,退货授权号,trade-terms,质量检验,pending
-Restocking Fee,退货重新上架费,trade-terms,质量检验,pending
-Warranty Card,保修卡,trade-terms,质保,pending
-Extended Warranty,延长保修,trade-terms,质保,pending
-Warranty Coverage,保修范围,trade-terms,质保,pending
-Warranty Exclusion,保修除外责任,trade-terms,质保,pending
-Warranty Claim Process,保修索赔流程,trade-terms,质保,pending
-Spare Parts Warranty,备件保修,trade-terms,质保,pending
-On-Site Warranty Service,上门保修服务,trade-terms,质保,pending
-Return to Factory Warranty,返厂保修,trade-terms,质保,pending
-Advance Replacement Service,预更换服务,trade-terms,质保,pending
-Labor Warranty,人工保修,trade-terms,质保,pending
-Parts Warranty,零件保修,trade-terms,质保,pending
-Warranty Start Date,保修起算日,trade-terms,质保,pending
-Pro Rata Warranty,按比例质保,trade-terms,质保,pending
-Manufacturer Warranty Certificate,制造商保修证书,trade-terms,质保,pending
+Mediation Agreement,调解协议,trade-terms,争议解决,published
+Arbitration Agreement,仲裁协议,trade-terms,争议解决,published
+CIETAC Arbitration,中国国际经济贸易仲裁委员会仲裁,trade-terms,争议解决,published
+ICC Arbitration,国际商会仲裁,trade-terms,争议解决,published
+LCIA Arbitration,伦敦国际仲裁院仲裁,trade-terms,争议解决,published
+SIAC Arbitration,新加坡国际仲裁中心仲裁,trade-terms,争议解决,published
+HKIAC Arbitration,香港国际仲裁中心仲裁,trade-terms,争议解决,published
+Ad Hoc Arbitration,临时仲裁,trade-terms,争议解决,published
+Institutional Arbitration,机构仲裁,trade-terms,争议解决,published
+Governing Law Selection,管辖法律选择,trade-terms,争议解决,published
+Exclusive Jurisdiction,排他性管辖,trade-terms,争议解决,published
+Non-Exclusive Jurisdiction,非排他性管辖,trade-terms,争议解决,published
+Court Litigation Clause,法院诉讼条款,trade-terms,争议解决,published
+Preliminary Injunction,诉前禁令,trade-terms,争议解决,published
+Asset Preservation Order,财产保全令,trade-terms,争议解决,published
+Enforcement of Arbitral Award,仲裁裁决执行,trade-terms,争议解决,published
+Reciprocal Enforcement of Judgments,判决互认执行,trade-terms,争议解决,published
+Cost Allocation in Arbitration,仲裁费用分担,trade-terms,争议解决,published
+Statute of Limitations Trade,贸易诉讼时效,trade-terms,争议解决,published
+Hague Rules Time Bar,海牙规则时效,trade-terms,争议解决,published
+One Year Time Limit Claims,一年索赔时效,trade-terms,争议解决,published
+Notification of Loss Period,货损通知期限,trade-terms,争议解决,published
+latent Defect Notice Period,潜在缺陷通知期,trade-terms,争议解决,published
+Expert Determination,专家裁定程序,trade-terms,争议解决,published
+Dispute Review Board,争议评审委员会,trade-terms,争议解决,published
+Good Faith Negotiation,诚信协商义务,trade-terms,争议解决,published
+Without Prejudice Negotiation,无损权益协商,trade-terms,争议解决,published
+Mutual Release Agreement,互免责任协议,trade-terms,争议解决,published
+Commercial Compromise,商业折中方案,trade-terms,争议解决,published
+Buy Back Claim,回购抵扣索赔,trade-terms,争议解决,published
+Credit Note Settlement,红字发票冲抵和解,trade-terms,争议解决,published
+Deduction from Payment,付款中扣减索赔,trade-terms,争议解决,published
+Claim Settlement Fund,理赔准备金,trade-terms,争议解决,published
+Overcharge Dispute,多收费争议,trade-terms,争议解决,published
+Short Shipment Claim,短装索赔,trade-terms,争议解决,published
+Late Delivery Claim,迟延交付索赔,trade-terms,争议解决,published
+Quality Dispute,质量争议,trade-terms,争议解决,published
+Specification Mismatch Claim,规格不符索赔,trade-terms,争议解决,published
+Wrong Item Shipped Claim,错发货物索赔,trade-terms,争议解决,published
+Mixed Cargo Claim,混装索赔,trade-terms,争议解决,published
+Counterfeit Goods Dispute,假冒货物争议,trade-terms,争议解决,published
+Indemnification for IP Infringement,知识产权侵权赔偿,trade-terms,争议解决,published
+Inspection Rights Clause,验货权条款,trade-terms,质量检验,published
+Pre-Production Inspection,生产前检验,trade-terms,质量检验,published
+During Production Inspection,生产中期检验,trade-terms,质量检验,published
+Final Random Inspection,出货前抽检,trade-terms,质量检验,published
+AQL Acceptable Quality Level,可接受质量水平,trade-terms,质量检验,published
+AQL Sampling Table,抽样标准表,trade-terms,质量检验,published
+Critical Defect Definition,致命缺陷判定,trade-terms,质量检验,published
+Major Defect Definition,主要缺陷判定,trade-terms,质量检验,published
+Minor Defect Definition,次要缺陷判定,trade-terms,质量检验,published
+Defect Rate Threshold,缺陷率阈值,trade-terms,质量检验,published
+Golden Sample,标准样,trade-terms,质量检验,published
+Reference Sample,参考样,trade-terms,质量检验,published
+Retained Sample,留样,trade-terms,质量检验,published
+Color Approval Sample,颜色批准样,trade-terms,质量检验,published
+Lab Dip Approval,色样确认,trade-terms,质量检验,published
+Fit Sample Approval,成衣试样确认,trade-terms,质量检验,published
+Bulk Production Standard,大货生产标准,trade-terms,质量检验,published
+Certificate of Test,测试证书,trade-terms,质量检验,published
+Third Party Lab Testing,第三方实验室检测,trade-terms,质量检验,published
+REACH Compliance Testing,REACH 合规检测,trade-terms,质量检验,published
+ROHS Compliance Testing,ROHS 合规检测,trade-terms,质量检验,published
+FDA Compliance Testing,FDA 合规检测,trade-terms,质量检验,published
+Food Contact Material Test,食品接触材料检测,trade-terms,质量检验,published
+Shelf Life Test,保质期测试,trade-terms,质量检验,published
+Drop Test Report,跌落测试报告,trade-terms,质量检验,published
+Packaging Strength Test,包装强度测试,trade-terms,质量检验,published
+ISTA Packaging Test,ISTA 包装运输测试,trade-terms,质量检验,published
+Vibration Test Packaging,包装振动测试,trade-terms,质量检验,published
+Compression Test Packaging,包装堆码测试,trade-terms,质量检验,published
+Tensile Strength Test,拉伸强度测试,trade-terms,质量检验,published
+Calibration Certificate Device,设备校准证书,trade-terms,质量检验,published
+Quality Control Plan,质量控制计划,trade-terms,质量检验,published
+Quality Manual,质量手册,trade-terms,质量检验,published
+Six Sigma Quality Program,六西格玛质量计划,trade-terms,质量检验,published
+Statistical Process Control,统计过程控制,trade-terms,质量检验,published
+Control Chart,控制图,trade-terms,质量检验,published
+Process Capability Index,过程能力指数,trade-terms,质量检验,published
+Pareto Analysis of Defects,缺陷帕累托分析,trade-terms,质量检验,published
+Root Cause Analysis Report,根本原因分析报告,trade-terms,质量检验,published
+Corrective Action Request,纠正措施要求,trade-terms,质量检验,published
+Preventive Action Plan,预防措施计划,trade-terms,质量检验,published
+Quality Complaint Letter,质量投诉函,trade-terms,质量检验,published
+RMA Number,退货授权号,trade-terms,质量检验,published
+Restocking Fee,退货重新上架费,trade-terms,质量检验,published
+Warranty Card,保修卡,trade-terms,质保,published
+Extended Warranty,延长保修,trade-terms,质保,published
+Warranty Coverage,保修范围,trade-terms,质保,published
+Warranty Exclusion,保修除外责任,trade-terms,质保,published
+Warranty Claim Process,保修索赔流程,trade-terms,质保,published
+Spare Parts Warranty,备件保修,trade-terms,质保,published
+On-Site Warranty Service,上门保修服务,trade-terms,质保,published
+Return to Factory Warranty,返厂保修,trade-terms,质保,published
+Advance Replacement Service,预更换服务,trade-terms,质保,published
+Labor Warranty,人工保修,trade-terms,质保,published
+Parts Warranty,零件保修,trade-terms,质保,published
+Warranty Start Date,保修起算日,trade-terms,质保,published
+Pro Rata Warranty,按比例质保,trade-terms,质保,published
+Manufacturer Warranty Certificate,制造商保修证书,trade-terms,质保,published
 Lifetime Warranty,终身质保,trade-terms,质保,pending
 Wear and Tear Exclusion,自然磨损除外条款,trade-terms,质保,pending
 Consequential Loss Warranty Exclusion,质保间接损失除外,trade-terms,质保,pending
