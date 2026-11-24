@@ -9295,106 +9295,106 @@ Vehicle Restraint,车辆限位装置,warehousing,月台设备,published
 Trailer Lock,挂车锁止器,warehousing,月台设备,pending
 Wheel Chock,车轮止滑器,warehousing,月台设备,published
 Dock Signal Light,月台信号灯,warehousing,月台设备,published
-Tractor,牵引车头,warehousing,月台设备,pending
-Dock Scheduling,月台排程,warehousing,月台设备,pending
-Yard Management System,堆场管理系统,warehousing,月台设备,pending
+Tractor,牵引车头,warehousing,月台设备,published
+Dock Scheduling,月台排程,warehousing,月台设备,published
+Yard Management System,堆场管理系统,warehousing,月台设备,published
 Yard Check,堆场盘点,warehousing,月台设备,published
 Driver Check-In,司机报到,warehousing,月台设备,published
-ESFR Sprinkler,早期抑制快速响应喷淋,warehousing,建筑消防,pending
-Fire Alarm Control Panel,火灾报警主机,warehousing,建筑消防,pending
-Fire Shutter,防火卷帘,warehousing,建筑消防,pending
-Fire Exit,安全出口,warehousing,建筑消防,pending
+ESFR Sprinkler,早期抑制快速响应喷淋,warehousing,建筑消防,published
+Fire Alarm Control Panel,火灾报警主机,warehousing,建筑消防,published
+Fire Shutter,防火卷帘,warehousing,建筑消防,published
+Fire Exit,安全出口,warehousing,建筑消防,published
 Evacuation Route,疏散通道,warehousing,建筑消防,published
-Emergency Lighting,应急照明,warehousing,建筑消防,pending
-In-Rack Sprinkler,货架内置喷淋,warehousing,建筑消防,pending
-Fire Pump Room,消防泵房,warehousing,建筑消防,pending
-Flue Space,烟气通道,warehousing,建筑消防,pending
-Impact Barrier,防撞栏,warehousing,建筑消防,pending
-Guard Rail,安全护栏,warehousing,建筑消防,pending
-Column Guard,柱护角,warehousing,建筑消防,pending
-Roof Skylight,屋顶采光带,warehousing,建筑消防,pending
-LED High Bay Light,LED工矿灯,warehousing,建筑消防,pending
-HVLS Fan,大型工业风扇,warehousing,建筑消防,pending
-Ventilation Fan,通风风机,warehousing,建筑消防,pending
-Column Grid,柱网,warehousing,建筑消防,pending
-Fire Lane,消防通道,warehousing,建筑消防,pending
-CCTV System,视频监控系统,warehousing,安防门禁,pending
-Access Control System,门禁系统,warehousing,安防门禁,pending
-Biometric Access,生物识别门禁,warehousing,安防门禁,pending
-Intrusion Alarm,入侵报警,warehousing,安防门禁,pending
-Perimeter Fence,周界围栏,warehousing,安防门禁,pending
-Gatehouse,门卫室,warehousing,安防门禁,pending
-Truck Gate,卡车通道闸,warehousing,安防门禁,pending
-Guard Booth,安保岗亭,warehousing,安防门禁,pending
-Video Surveillance Camera,监控摄像头,warehousing,安防门禁,pending
-Alarm Monitoring,报警联网监控,warehousing,安防门禁,pending
-Visitor Registration,来访登记,warehousing,安防门禁,pending
-Patrol Route,巡逻路线,warehousing,安防门禁,pending
-Epoxy Flooring,环氧地坪,warehousing,地面环境,pending
-Superflat Floor,超平地坪,warehousing,地面环境,pending
-Floor Levelness,地面平整度,warehousing,地面环境,pending
-Floor Hardener,地面固化剂,warehousing,地面环境,pending
-Expansion Joint,伸缩缝,warehousing,地面环境,pending
-Joint Sealant,接缝密封胶,warehousing,地面环境,pending
-Dehumidifier,除湿机,warehousing,地面环境,pending
-Humidifier,加湿器,warehousing,地面环境,pending
-Dust Collection System,除尘系统,warehousing,地面环境,pending
-Bird-Proofing Net,防鸟网,warehousing,地面环境,pending
-Thermal Insulation,保温隔热层,warehousing,地面环境,pending
-Refrigerated Warehouse,冷藏库,warehousing,冷链仓储,pending
-Freezer Warehouse,冷冻库,warehousing,冷链仓储,pending
-Chill Room,冷却间,warehousing,冷链仓储,pending
-Air Lock,气锁间,warehousing,冷链仓储,pending
-Insulated Panel,保温库板,warehousing,冷链仓储,pending
-Plate Freezer,平板速冻机,warehousing,冷链仓储,pending
-Spiral Freezer,螺旋速冻机,warehousing,冷链仓储,pending
-Thawing Room,解冻间,warehousing,冷链仓储,pending
-Banana Ripening Room,催熟间,warehousing,冷链仓储,pending
-Controlled Atmosphere Storage,气调储藏,warehousing,冷链仓储,pending
-Modified Atmosphere Packaging,气调包装,warehousing,冷链仓储,pending
-Forced-Air Cooling,差压预冷,warehousing,冷链仓储,pending
-Vacuum Cooling,真空预冷,warehousing,冷链仓储,pending
-Hydro Cooling,水预冷,warehousing,冷链仓储,pending
-Deep Freeze,深冷,warehousing,冷链仓储,pending
-Ultra-Low Temperature Storage,超低温存储,warehousing,冷链仓储,pending
-Temperature and Humidity Monitoring,温湿度监控,warehousing,冷链仓储,pending
-Insulated Pallet Cover,保温托盘罩,warehousing,冷链仓储,pending
-Cold Dock,冷链月台,warehousing,冷链仓储,pending
-HACCP,危害分析与关键控制点,warehousing,冷链仓储,pending
-Carton Flow Racking,流利式货架,warehousing,货架系统,pending
-Shuttle Racking,穿梭式货架,warehousing,货架系统,pending
-Radio Shuttle,四向穿梭车,warehousing,货架系统,pending
-Cantilever Arm,悬臂梁,warehousing,货架系统,pending
-Structural Mezzanine,钢结构平台,warehousing,货架系统,pending
-Modular Mezzanine,模块化平台,warehousing,货架系统,pending
-Rack-Supported Building,货架式仓库建筑,warehousing,货架系统,pending
-Multi-Tier Shelving,多层阁楼货架,warehousing,货架系统,pending
-Wide Span Shelving,宽跨距货架,warehousing,货架系统,pending
-Longspan Shelving,长跨距货架,warehousing,货架系统,pending
-Rivet Shelving,铆钉货架,warehousing,货架系统,pending
-Boltless Shelving,免螺栓货架,warehousing,货架系统,pending
-Mobile Pallet Racking,移动式托盘货架,warehousing,货架系统,pending
-Sliding Rack,滑移式货架,warehousing,货架系统,pending
-Gravity Flow Rack,重力流货架,warehousing,货架系统,pending
-Static Shelving,固定层板货架,warehousing,货架系统,pending
-Pallet Rack Beam,货架横梁,warehousing,货架系统,pending
-Upright Frame,立柱片,warehousing,货架系统,pending
-Wire Mesh Decking,网格层板,warehousing,货架系统,pending
-Pallet Support Bar,托盘支撑梁,warehousing,货架系统,pending
-Row Spacer,排距连接件,warehousing,货架系统,pending
-Pallet Backstop,托盘后挡梁,warehousing,货架系统,pending
-Anti-Collapse Mesh,防坠网,warehousing,货架系统,pending
-Post Protector,立柱护脚,warehousing,货架系统,pending
-End-of-Aisle Guard,巷道端护栏,warehousing,货架系统,pending
-Aisle Marking,巷道标线,warehousing,货架系统,pending
-Floor Marking Tape,地面标线胶带,warehousing,货架系统,pending
-Pallet Stopper,托盘限位块,warehousing,货架系统,pending
-Anchor Bolt,锚栓,warehousing,货架系统,pending
-Base Plate,底脚板,warehousing,货架系统,pending
-Rack Load Plaque,货架承载标牌,warehousing,货架系统,pending
-Rack Inspection,货架检测,warehousing,货架系统,pending
-Rack Damage Assessment,货架损伤评估,warehousing,货架系统,pending
-Beam Connector,横梁连接件,warehousing,货架系统,pending
+Emergency Lighting,应急照明,warehousing,建筑消防,published
+In-Rack Sprinkler,货架内置喷淋,warehousing,建筑消防,published
+Fire Pump Room,消防泵房,warehousing,建筑消防,published
+Flue Space,烟气通道,warehousing,建筑消防,published
+Impact Barrier,防撞栏,warehousing,建筑消防,published
+Guard Rail,安全护栏,warehousing,建筑消防,published
+Column Guard,柱护角,warehousing,建筑消防,published
+Roof Skylight,屋顶采光带,warehousing,建筑消防,published
+LED High Bay Light,LED工矿灯,warehousing,建筑消防,published
+HVLS Fan,大型工业风扇,warehousing,建筑消防,published
+Ventilation Fan,通风风机,warehousing,建筑消防,published
+Column Grid,柱网,warehousing,建筑消防,published
+Fire Lane,消防通道,warehousing,建筑消防,published
+CCTV System,视频监控系统,warehousing,安防门禁,published
+Access Control System,门禁系统,warehousing,安防门禁,published
+Biometric Access,生物识别门禁,warehousing,安防门禁,published
+Intrusion Alarm,入侵报警,warehousing,安防门禁,published
+Perimeter Fence,周界围栏,warehousing,安防门禁,published
+Gatehouse,门卫室,warehousing,安防门禁,published
+Truck Gate,卡车通道闸,warehousing,安防门禁,published
+Guard Booth,安保岗亭,warehousing,安防门禁,published
+Video Surveillance Camera,监控摄像头,warehousing,安防门禁,published
+Alarm Monitoring,报警联网监控,warehousing,安防门禁,published
+Visitor Registration,来访登记,warehousing,安防门禁,published
+Patrol Route,巡逻路线,warehousing,安防门禁,published
+Epoxy Flooring,环氧地坪,warehousing,地面环境,published
+Superflat Floor,超平地坪,warehousing,地面环境,published
+Floor Levelness,地面平整度,warehousing,地面环境,published
+Floor Hardener,地面固化剂,warehousing,地面环境,published
+Expansion Joint,伸缩缝,warehousing,地面环境,published
+Joint Sealant,接缝密封胶,warehousing,地面环境,published
+Dehumidifier,除湿机,warehousing,地面环境,published
+Humidifier,加湿器,warehousing,地面环境,published
+Dust Collection System,除尘系统,warehousing,地面环境,published
+Bird-Proofing Net,防鸟网,warehousing,地面环境,published
+Thermal Insulation,保温隔热层,warehousing,地面环境,published
+Refrigerated Warehouse,冷藏库,warehousing,冷链仓储,published
+Freezer Warehouse,冷冻库,warehousing,冷链仓储,published
+Chill Room,冷却间,warehousing,冷链仓储,published
+Air Lock,气锁间,warehousing,冷链仓储,published
+Insulated Panel,保温库板,warehousing,冷链仓储,published
+Plate Freezer,平板速冻机,warehousing,冷链仓储,published
+Spiral Freezer,螺旋速冻机,warehousing,冷链仓储,published
+Thawing Room,解冻间,warehousing,冷链仓储,published
+Banana Ripening Room,催熟间,warehousing,冷链仓储,published
+Controlled Atmosphere Storage,气调储藏,warehousing,冷链仓储,published
+Modified Atmosphere Packaging,气调包装,warehousing,冷链仓储,published
+Forced-Air Cooling,差压预冷,warehousing,冷链仓储,published
+Vacuum Cooling,真空预冷,warehousing,冷链仓储,published
+Hydro Cooling,水预冷,warehousing,冷链仓储,published
+Deep Freeze,深冷,warehousing,冷链仓储,published
+Ultra-Low Temperature Storage,超低温存储,warehousing,冷链仓储,published
+Temperature and Humidity Monitoring,温湿度监控,warehousing,冷链仓储,published
+Insulated Pallet Cover,保温托盘罩,warehousing,冷链仓储,published
+Cold Dock,冷链月台,warehousing,冷链仓储,published
+HACCP,危害分析与关键控制点,warehousing,冷链仓储,published
+Carton Flow Racking,流利式货架,warehousing,货架系统,published
+Shuttle Racking,穿梭式货架,warehousing,货架系统,published
+Radio Shuttle,四向穿梭车,warehousing,货架系统,published
+Cantilever Arm,悬臂梁,warehousing,货架系统,published
+Structural Mezzanine,钢结构平台,warehousing,货架系统,published
+Modular Mezzanine,模块化平台,warehousing,货架系统,published
+Rack-Supported Building,货架式仓库建筑,warehousing,货架系统,published
+Multi-Tier Shelving,多层阁楼货架,warehousing,货架系统,published
+Wide Span Shelving,宽跨距货架,warehousing,货架系统,published
+Longspan Shelving,长跨距货架,warehousing,货架系统,published
+Rivet Shelving,铆钉货架,warehousing,货架系统,published
+Boltless Shelving,免螺栓货架,warehousing,货架系统,published
+Mobile Pallet Racking,移动式托盘货架,warehousing,货架系统,published
+Sliding Rack,滑移式货架,warehousing,货架系统,published
+Gravity Flow Rack,重力流货架,warehousing,货架系统,published
+Static Shelving,固定层板货架,warehousing,货架系统,published
+Pallet Rack Beam,货架横梁,warehousing,货架系统,published
+Upright Frame,立柱片,warehousing,货架系统,published
+Wire Mesh Decking,网格层板,warehousing,货架系统,published
+Pallet Support Bar,托盘支撑梁,warehousing,货架系统,published
+Row Spacer,排距连接件,warehousing,货架系统,published
+Pallet Backstop,托盘后挡梁,warehousing,货架系统,published
+Anti-Collapse Mesh,防坠网,warehousing,货架系统,published
+Post Protector,立柱护脚,warehousing,货架系统,published
+End-of-Aisle Guard,巷道端护栏,warehousing,货架系统,published
+Aisle Marking,巷道标线,warehousing,货架系统,published
+Floor Marking Tape,地面标线胶带,warehousing,货架系统,published
+Pallet Stopper,托盘限位块,warehousing,货架系统,published
+Anchor Bolt,锚栓,warehousing,货架系统,published
+Base Plate,底脚板,warehousing,货架系统,published
+Rack Load Plaque,货架承载标牌,warehousing,货架系统,published
+Rack Inspection,货架检测,warehousing,货架系统,published
+Rack Damage Assessment,货架损伤评估,warehousing,货架系统,published
+Beam Connector,横梁连接件,warehousing,货架系统,published
 Safety Pin,安全销,warehousing,货架系统,pending
 Boltless Beam,免螺栓横梁,warehousing,货架系统,pending
 Shelf Divider,层板分隔,warehousing,货架系统,pending
