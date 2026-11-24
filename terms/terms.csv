@@ -9592,106 +9592,106 @@ Autonomous Case-Handling Robot,料箱机器人,warehousing,自动化立库,publi
 High-Density Storage,高密度存储,warehousing,自动化立库,published
 Deep Lane Storage,深巷道存储,warehousing,自动化立库,published
 Double-Deep Storage,双深位存储,warehousing,自动化立库,published
-AS/RS Crane Aisle,堆垛机巷道,warehousing,自动化立库,pending
-Pallet Conveyor System,托盘输送系统,warehousing,自动化立库,pending
-Tote Conveyor System,料箱输送系统,warehousing,自动化立库,pending
-Shuttle Lift,穿梭车提升机,warehousing,自动化立库,pending
-Vertical Transfer Unit,垂直移载机,warehousing,自动化立库,pending
-Storage Retrieval Control,存取控制,warehousing,自动化立库,pending
-Rack Clad Structure,库架一体结构,warehousing,自动化立库,pending
-Automated Pallet Conveyor,自动化托盘输送线,warehousing,自动化立库,pending
-Stacker Crane Buffer,堆垛机缓存站,warehousing,自动化立库,pending
-Automated Buffer,自动化缓存系统,warehousing,自动化立库,pending
-AMR Fleet,AMR机器人集群,warehousing,仓储机器人,pending
-Fleet Manager,机器人调度系统,warehousing,仓储机器人,pending
-Vehicle Management System,车辆管理系统,warehousing,仓储机器人,pending
-AGV System,AGV系统,warehousing,仓储机器人,pending
-Forklift AGV,叉车式AGV,warehousing,仓储机器人,pending
-Pallet Mover Robot,托盘搬运机器人,warehousing,仓储机器人,pending
-Tugger AGV,牵引式AGV,warehousing,仓储机器人,pending
-Unit Load AGV,整托AGV,warehousing,仓储机器人,pending
-Tote-Handling Robot,料箱搬运机器人,warehousing,仓储机器人,pending
-Goods-to-Person System,货到人系统,warehousing,仓储机器人,pending
-Robotic Goods-to-Person,机器人货到人,warehousing,仓储机器人,pending
-Goods-to-Robot,货到机器人,warehousing,仓储机器人,pending
-Goods-to-Person Workstation,货到人工作站,warehousing,仓储机器人,pending
-Pick Station,拣选工作站,warehousing,仓储机器人,pending
-Piece-Picking Robot,单件拣选机器人,warehousing,仓储机器人,pending
-Case-Picking Robot,整箱拣选机器人,warehousing,仓储机器人,pending
-Layer-Picking Robot,整层拣选机器人,warehousing,仓储机器人,pending
-Robotic Depalletizer,拆垛机器人,warehousing,仓储机器人,pending
-Articulated Robot,多关节机器人,warehousing,仓储机器人,pending
-SCARA Robot,SCARA机器人,warehousing,仓储机器人,pending
-Delta Robot,三角机器人,warehousing,仓储机器人,pending
-Gantry Robot,龙门机器人,warehousing,仓储机器人,pending
-Collaborative Robot,协作机器人,warehousing,仓储机器人,pending
-Mobile Manipulator,移动操作机器人,warehousing,仓储机器人,pending
-Warehouse Robot,仓储机器人,warehousing,仓储机器人,pending
-Robot Picking Cell,机器人拣选单元,warehousing,仓储机器人,pending
-Robotic Truck Unloading,机器人卸车,warehousing,仓储机器人,pending
-Mobile Picking Robot,移动拣选机器人,warehousing,仓储机器人,pending
-Robotic Stretch Wrapper,机器人缠绕机,warehousing,包装设备,pending
-Turntable Stretch Wrapper,转盘式缠绕机,warehousing,包装设备,pending
-Rotary Arm Wrapper,旋臂式缠绕机,warehousing,包装设备,pending
-Case Erector,开箱机,warehousing,包装设备,pending
-Carton Former,纸箱成型机,warehousing,包装设备,pending
-Tray Former,装托机,warehousing,包装设备,pending
-Case Packer,装箱机,warehousing,包装设备,pending
-Wrap-Around Case Packer,包裹式装箱机,warehousing,包装设备,pending
-Bagging Machine,装袋机,warehousing,包装设备,pending
-Void Fill Machine,填充机,warehousing,包装设备,pending
-Air Pillow Machine,气垫机,warehousing,包装设备,pending
-Paper Void Fill System,纸垫填充系统,warehousing,包装设备,pending
-Foam-in-Place System,现场发泡系统,warehousing,包装设备,pending
-Inline Labeling System,在线贴标系统,warehousing,包装设备,pending
-Weigh-Price Labeler,称重贴标机,warehousing,包装设备,pending
-Automatic Packing Line,自动包装线,warehousing,包装设备,pending
-Right-Sized Packaging System,适配尺寸包装系统,warehousing,包装设备,pending
-Carton On Demand,按需制箱,warehousing,包装设备,pending
-Box Making Machine,制箱机,warehousing,包装设备,pending
-Shrink Wrapping Machine,收缩包装机,warehousing,包装设备,pending
-Shrink Film,收缩膜,warehousing,包装设备,pending
-Water-Activated Tape,湿水牛皮纸胶带,warehousing,包装设备,pending
-Case Sealing Tape,封箱胶带,warehousing,包装设备,pending
-Anti-Static Bag,防静电袋,warehousing,包装设备,pending
-Auto Bagging System,自动套袋机,warehousing,包装设备,pending
-Receiving Process,收货流程,warehousing,入库作业,pending
-Advance Shipping Notice,到货预告,warehousing,入库作业,pending
-Booking Appointment,预约到货,warehousing,入库作业,pending
-Dock Appointment Scheduling,月台预约,warehousing,入库作业,pending
-Trailer Check-In,车辆登记,warehousing,入库作业,pending
-Seal Check,铅封检查,warehousing,入库作业,pending
-Unload Verification,卸货核对,warehousing,入库作业,pending
-Receiving Log,收货日志,warehousing,入库作业,pending
-Blind Receiving,盲收,warehousing,入库作业,pending
-Scan-Based Receiving,扫码收货,warehousing,入库作业,pending
-Pallet Receiving,整托收货,warehousing,入库作业,pending
-Case Receiving,整箱收货,warehousing,入库作业,pending
-Each Receiving,单件收货,warehousing,入库作业,pending
-Opportunistic Cross-Dock,机会越库,warehousing,入库作业,pending
-Direct Putaway,直入上架,warehousing,入库作业,pending
-Incoming Quality Inspection,来料质检,warehousing,入库作业,pending
-Supplier Compliance,供应商合规,warehousing,入库作业,pending
-ASN Matching,预约单匹配,warehousing,入库作业,pending
-Purchase Order Receiving,采购订单收货,warehousing,入库作业,pending
-Over Receipt,超收,warehousing,入库作业,pending
-Short Receipt,短收,warehousing,入库作业,pending
-Damage Recording,破损记录,warehousing,入库作业,pending
-Goods Receipt,收货确认,warehousing,入库作业,pending
-Receiving Tolerance,收货容差,warehousing,入库作业,pending
-Mixed Pallet Receiving,混托收货,warehousing,入库作业,pending
-Receiving Lane,收货道口,warehousing,入库作业,pending
-Putaway Preparation,上架准备,warehousing,入库作业,pending
-System-Directed Putaway,系统引导上架,warehousing,上架策略,pending
-Interleaving,交叉作业,warehousing,上架策略,pending
-Task Interleaving,任务交叉,warehousing,上架策略,pending
-Random Location Storage,随机储位存储,warehousing,上架策略,pending
-Dedicated Storage,固定储位存储,warehousing,上架策略,pending
-Shared Storage,共享储位存储,warehousing,上架策略,pending
-Class-Based Storage,分类存储,warehousing,上架策略,pending
-ABC Storage Assignment,ABC储位分配,warehousing,上架策略,pending
-Velocity-Based Slotting,流转速度定位,warehousing,上架策略,pending
-Slotting Analysis,储位分析,warehousing,上架策略,pending
+AS/RS Crane Aisle,堆垛机巷道,warehousing,自动化立库,published
+Pallet Conveyor System,托盘输送系统,warehousing,自动化立库,published
+Tote Conveyor System,料箱输送系统,warehousing,自动化立库,published
+Shuttle Lift,穿梭车提升机,warehousing,自动化立库,published
+Vertical Transfer Unit,垂直移载机,warehousing,自动化立库,published
+Storage Retrieval Control,存取控制,warehousing,自动化立库,published
+Rack Clad Structure,库架一体结构,warehousing,自动化立库,published
+Automated Pallet Conveyor,自动化托盘输送线,warehousing,自动化立库,published
+Stacker Crane Buffer,堆垛机缓存站,warehousing,自动化立库,published
+Automated Buffer,自动化缓存系统,warehousing,自动化立库,published
+AMR Fleet,AMR机器人集群,warehousing,仓储机器人,published
+Fleet Manager,机器人调度系统,warehousing,仓储机器人,published
+Vehicle Management System,车辆管理系统,warehousing,仓储机器人,published
+AGV System,AGV系统,warehousing,仓储机器人,published
+Forklift AGV,叉车式AGV,warehousing,仓储机器人,published
+Pallet Mover Robot,托盘搬运机器人,warehousing,仓储机器人,published
+Tugger AGV,牵引式AGV,warehousing,仓储机器人,published
+Unit Load AGV,整托AGV,warehousing,仓储机器人,published
+Tote-Handling Robot,料箱搬运机器人,warehousing,仓储机器人,published
+Goods-to-Person System,货到人系统,warehousing,仓储机器人,published
+Robotic Goods-to-Person,机器人货到人,warehousing,仓储机器人,published
+Goods-to-Robot,货到机器人,warehousing,仓储机器人,published
+Goods-to-Person Workstation,货到人工作站,warehousing,仓储机器人,published
+Pick Station,拣选工作站,warehousing,仓储机器人,published
+Piece-Picking Robot,单件拣选机器人,warehousing,仓储机器人,published
+Case-Picking Robot,整箱拣选机器人,warehousing,仓储机器人,published
+Layer-Picking Robot,整层拣选机器人,warehousing,仓储机器人,published
+Robotic Depalletizer,拆垛机器人,warehousing,仓储机器人,published
+Articulated Robot,多关节机器人,warehousing,仓储机器人,published
+SCARA Robot,SCARA机器人,warehousing,仓储机器人,published
+Delta Robot,三角机器人,warehousing,仓储机器人,published
+Gantry Robot,龙门机器人,warehousing,仓储机器人,published
+Collaborative Robot,协作机器人,warehousing,仓储机器人,published
+Mobile Manipulator,移动操作机器人,warehousing,仓储机器人,published
+Warehouse Robot,仓储机器人,warehousing,仓储机器人,published
+Robot Picking Cell,机器人拣选单元,warehousing,仓储机器人,published
+Robotic Truck Unloading,机器人卸车,warehousing,仓储机器人,published
+Mobile Picking Robot,移动拣选机器人,warehousing,仓储机器人,published
+Robotic Stretch Wrapper,机器人缠绕机,warehousing,包装设备,published
+Turntable Stretch Wrapper,转盘式缠绕机,warehousing,包装设备,published
+Rotary Arm Wrapper,旋臂式缠绕机,warehousing,包装设备,published
+Case Erector,开箱机,warehousing,包装设备,published
+Carton Former,纸箱成型机,warehousing,包装设备,published
+Tray Former,装托机,warehousing,包装设备,published
+Case Packer,装箱机,warehousing,包装设备,published
+Wrap-Around Case Packer,包裹式装箱机,warehousing,包装设备,published
+Bagging Machine,装袋机,warehousing,包装设备,published
+Void Fill Machine,填充机,warehousing,包装设备,published
+Air Pillow Machine,气垫机,warehousing,包装设备,published
+Paper Void Fill System,纸垫填充系统,warehousing,包装设备,published
+Foam-in-Place System,现场发泡系统,warehousing,包装设备,published
+Inline Labeling System,在线贴标系统,warehousing,包装设备,published
+Weigh-Price Labeler,称重贴标机,warehousing,包装设备,published
+Automatic Packing Line,自动包装线,warehousing,包装设备,published
+Right-Sized Packaging System,适配尺寸包装系统,warehousing,包装设备,published
+Carton On Demand,按需制箱,warehousing,包装设备,published
+Box Making Machine,制箱机,warehousing,包装设备,published
+Shrink Wrapping Machine,收缩包装机,warehousing,包装设备,published
+Shrink Film,收缩膜,warehousing,包装设备,published
+Water-Activated Tape,湿水牛皮纸胶带,warehousing,包装设备,published
+Case Sealing Tape,封箱胶带,warehousing,包装设备,published
+Anti-Static Bag,防静电袋,warehousing,包装设备,published
+Auto Bagging System,自动套袋机,warehousing,包装设备,published
+Receiving Process,收货流程,warehousing,入库作业,published
+Advance Shipping Notice,到货预告,warehousing,入库作业,published
+Booking Appointment,预约到货,warehousing,入库作业,published
+Dock Appointment Scheduling,月台预约,warehousing,入库作业,published
+Trailer Check-In,车辆登记,warehousing,入库作业,published
+Seal Check,铅封检查,warehousing,入库作业,published
+Unload Verification,卸货核对,warehousing,入库作业,published
+Receiving Log,收货日志,warehousing,入库作业,published
+Blind Receiving,盲收,warehousing,入库作业,published
+Scan-Based Receiving,扫码收货,warehousing,入库作业,published
+Pallet Receiving,整托收货,warehousing,入库作业,published
+Case Receiving,整箱收货,warehousing,入库作业,published
+Each Receiving,单件收货,warehousing,入库作业,published
+Opportunistic Cross-Dock,机会越库,warehousing,入库作业,published
+Direct Putaway,直入上架,warehousing,入库作业,published
+Incoming Quality Inspection,来料质检,warehousing,入库作业,published
+Supplier Compliance,供应商合规,warehousing,入库作业,published
+ASN Matching,预约单匹配,warehousing,入库作业,published
+Purchase Order Receiving,采购订单收货,warehousing,入库作业,published
+Over Receipt,超收,warehousing,入库作业,published
+Short Receipt,短收,warehousing,入库作业,published
+Damage Recording,破损记录,warehousing,入库作业,published
+Goods Receipt,收货确认,warehousing,入库作业,published
+Receiving Tolerance,收货容差,warehousing,入库作业,published
+Mixed Pallet Receiving,混托收货,warehousing,入库作业,published
+Receiving Lane,收货道口,warehousing,入库作业,published
+Putaway Preparation,上架准备,warehousing,入库作业,published
+System-Directed Putaway,系统引导上架,warehousing,上架策略,published
+Interleaving,交叉作业,warehousing,上架策略,published
+Task Interleaving,任务交叉,warehousing,上架策略,published
+Random Location Storage,随机储位存储,warehousing,上架策略,published
+Dedicated Storage,固定储位存储,warehousing,上架策略,published
+Shared Storage,共享储位存储,warehousing,上架策略,published
+Class-Based Storage,分类存储,warehousing,上架策略,published
+ABC Storage Assignment,ABC储位分配,warehousing,上架策略,published
+Velocity-Based Slotting,流转速度定位,warehousing,上架策略,published
+Slotting Analysis,储位分析,warehousing,上架策略,published
 Family Grouping,同族分组存储,warehousing,上架策略,pending
 Popularity Storage,流行度存储,warehousing,上架策略,pending
 Cube per Order Index,体积订单指数,warehousing,上架策略,pending
