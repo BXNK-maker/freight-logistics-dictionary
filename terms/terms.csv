@@ -9287,12 +9287,12 @@ Flush Dock,平嵌式月台,warehousing,月台设备,published
 Finger Dock,突指式月台,warehousing,月台设备,published
 Sawtooth Dock,锯齿式月台,warehousing,月台设备,published
 Grade-Level Dock,平地月台,warehousing,月台设备,published
-Strip Curtain,条形门帘,warehousing,月台设备,pending
+Strip Curtain,条形门帘,warehousing,月台设备,published
 Air Curtain,风幕机,warehousing,月台设备,published
-Pit Leveler,坑式登车桥,warehousing,月台设备,pending
+Pit Leveler,坑式登车桥,warehousing,月台设备,published
 Edge-of-Dock Leveler,边缘登车桥,warehousing,月台设备,published
 Vehicle Restraint,车辆限位装置,warehousing,月台设备,published
-Trailer Lock,挂车锁止器,warehousing,月台设备,pending
+Trailer Lock,挂车锁止器,warehousing,月台设备,published
 Wheel Chock,车轮止滑器,warehousing,月台设备,published
 Dock Signal Light,月台信号灯,warehousing,月台设备,published
 Tractor,牵引车头,warehousing,月台设备,published
@@ -9395,103 +9395,103 @@ Rack Load Plaque,货架承载标牌,warehousing,货架系统,published
 Rack Inspection,货架检测,warehousing,货架系统,published
 Rack Damage Assessment,货架损伤评估,warehousing,货架系统,published
 Beam Connector,横梁连接件,warehousing,货架系统,published
-Safety Pin,安全销,warehousing,货架系统,pending
-Boltless Beam,免螺栓横梁,warehousing,货架系统,pending
-Shelf Divider,层板分隔,warehousing,货架系统,pending
-Box Beam,箱型横梁,warehousing,货架系统,pending
-Step Beam,阶梯横梁,warehousing,货架系统,pending
-Teardrop Pallet Rack,泪滴孔货架,warehousing,货架系统,pending
-Bolt Hole Pattern,货架孔型,warehousing,货架系统,pending
-Seismic Racking,抗震货架,warehousing,货架系统,pending
-High-Bay Racking,高位货架,warehousing,货架系统,pending
-Back-to-Back Racking,背靠背货架,warehousing,货架系统,pending
-Single-Deep Racking,单深位货架,warehousing,货架系统,pending
-Deep Lane Racking,深巷道货架,warehousing,货架系统,pending
-Flow-Through Racking,贯通流利货架,warehousing,货架系统,pending
-Pick Face,拣货面,warehousing,货架系统,pending
-Reserve Rack,储备货架,warehousing,货架系统,pending
-Rack Clad Warehouse,库架合一仓库,warehousing,货架系统,pending
-Plastic Tote,塑料周转箱,warehousing,存储容具,pending
-Attached Lid Container,翻盖周转箱,warehousing,存储容具,pending
-Stackable Bin,可堆叠料盒,warehousing,存储容具,pending
-Nestable Container,套叠周转箱,warehousing,存储容具,pending
-Collapsible Container,折叠周转箱,warehousing,存储容具,pending
-Euro Container,欧标周转箱,warehousing,存储容具,pending
-Wire Basket,铁丝筐,warehousing,存储容具,pending
-Wire Mesh Container,金属网箱,warehousing,存储容具,pending
-Pallet Box,围板箱,warehousing,存储容具,pending
-Pallet Collar,围板框,warehousing,存储容具,pending
-IBC Tote,IBC吨桶,warehousing,存储容具,pending
-Drum,桶,warehousing,存储容具,pending
-Roll Cage,笼车,warehousing,存储容具,pending
-Roll Pallet,滚轮托盘,warehousing,存储容具,pending
-Steel Pallet,钢托盘,warehousing,存储容具,pending
-Presswood Pallet,模压托盘,warehousing,存储容具,pending
-Pallet Top Frame,托盘顶框,warehousing,存储容具,pending
-Interlayer Sheet,隔层纸板,warehousing,存储容具,pending
-Top Cap,顶部护盖,warehousing,存储容具,pending
-Divider Set,分隔板组,warehousing,存储容具,pending
-Container Lid,箱盖,warehousing,存储容具,pending
-Label Holder,标签袋,warehousing,存储容具,pending
-Electric Forklift,电动叉车,warehousing,叉车类型,pending
-Diesel Forklift,柴油叉车,warehousing,叉车类型,pending
-LPG Forklift,液化气叉车,warehousing,叉车类型,pending
-Double-Deep Reach Truck,双深位前移叉车,warehousing,叉车类型,pending
-Walkie Stacker,步驾式堆高车,warehousing,叉车类型,pending
-Rider Stacker,站驾式堆高车,warehousing,叉车类型,pending
-Straddle Stacker,跨立式堆高车,warehousing,叉车类型,pending
-Hand Pallet Truck,手动液压搬运车,warehousing,叉车类型,pending
-Pallet Truck With Scale,带秤搬运车,warehousing,叉车类型,pending
-Order Picker,高位拣选车,warehousing,叉车类型,pending
-Low-Level Order Picker,低位拣选车,warehousing,叉车类型,pending
-Turret Truck,三向堆垛叉车,warehousing,叉车类型,pending
-Man-Up Turret Truck,人上型三向叉车,warehousing,叉车类型,pending
-VNA Truck,窄巷道叉车,warehousing,叉车类型,pending
-Articulated VNA Truck,铰接式窄巷道叉车,warehousing,叉车类型,pending
-Multi-Directional Forklift,多向叉车,warehousing,叉车类型,pending
-Telehandler,伸缩臂叉车,warehousing,叉车类型,pending
-Rough Terrain Forklift,越野叉车,warehousing,叉车类型,pending
-Explosion-Proof Forklift,防爆叉车,warehousing,叉车类型,pending
-Tugger Train,拖挂列车,warehousing,叉车类型,pending
-Heavy-Duty Forklift,重型叉车,warehousing,叉车类型,pending
-Compact Forklift,紧凑型叉车,warehousing,叉车类型,pending
-Three-Wheel Forklift,三轮叉车,warehousing,叉车类型,pending
-Four-Wheel Forklift,四轮叉车,warehousing,叉车类型,pending
-Narrow Aisle Forklift,窄通道叉车,warehousing,叉车类型,pending
-Stand-Up Forklift,站驾叉车,warehousing,叉车类型,pending
-Sit-Down Forklift,坐驾叉车,warehousing,叉车类型,pending
-Warehouse Forklift,库内叉车,warehousing,叉车类型,pending
-Forklift Fleet,叉车队,warehousing,叉车类型,pending
-Lift Table,升降平台,warehousing,搬运设备,pending
-Scissor Lift Table,剪式升降台,warehousing,搬运设备,pending
-Mobile Elevating Work Platform,高空作业平台,warehousing,搬运设备,pending
-Vertical Mast Lift,直柱式升降机,warehousing,搬运设备,pending
-Personnel Lift,载人升降平台,warehousing,搬运设备,pending
-Platform Trolley,平板手推车,warehousing,搬运设备,pending
-Utility Cart,多用推车,warehousing,搬运设备,pending
-Pick Cart,拣选推车,warehousing,搬运设备,pending
-Ladder Cart,带梯推车,warehousing,搬运设备,pending
-Rolling Ladder,移动登高梯,warehousing,搬运设备,pending
-Drum Truck,油桶搬运车,warehousing,搬运设备,pending
-Tugger Cart,牵引挂车,warehousing,搬运设备,pending
-Hand Stacker,手动堆高车,warehousing,搬运设备,pending
-Load Transfer Cart,载荷转运车,warehousing,搬运设备,pending
-Truck Scissor Lift,车载剪式升降台,warehousing,搬运设备,pending
-Forklift Ramp,叉车坡道,warehousing,搬运设备,pending
-Forklift Battery Charger,叉车充电机,warehousing,搬运设备,pending
-Opportunity Charging,随行补电,warehousing,搬运设备,pending
-Hydrogen Fuel Cell Forklift,氢燃料电池叉车,warehousing,搬运设备,pending
-Battery Swap Station,换电站,warehousing,搬运设备,pending
-Forklift Fleet Management,叉车车队管理,warehousing,搬运设备,pending
-Telematics System,车载远程信息系统,warehousing,搬运设备,pending
-Operator Presence Sensor,操作员感应装置,warehousing,搬运设备,pending
-Forklift Safety Light,叉车警示灯,warehousing,搬运设备,pending
-Blue Spot Light,蓝点警示灯,warehousing,搬运设备,pending
-Load Backrest,挡货架,warehousing,搬运设备,pending
-Fork Extensions,加长货叉套,warehousing,搬运设备,pending
-Side Shifter,侧移器,warehousing,叉车属具,pending
-Fork Positioner,调距叉,warehousing,叉车属具,pending
-Rotator,旋转器,warehousing,叉车属具,pending
+Safety Pin,安全销,warehousing,货架系统,published
+Boltless Beam,免螺栓横梁,warehousing,货架系统,published
+Shelf Divider,层板分隔,warehousing,货架系统,published
+Box Beam,箱型横梁,warehousing,货架系统,published
+Step Beam,阶梯横梁,warehousing,货架系统,published
+Teardrop Pallet Rack,泪滴孔货架,warehousing,货架系统,published
+Bolt Hole Pattern,货架孔型,warehousing,货架系统,published
+Seismic Racking,抗震货架,warehousing,货架系统,published
+High-Bay Racking,高位货架,warehousing,货架系统,published
+Back-to-Back Racking,背靠背货架,warehousing,货架系统,published
+Single-Deep Racking,单深位货架,warehousing,货架系统,published
+Deep Lane Racking,深巷道货架,warehousing,货架系统,published
+Flow-Through Racking,贯通流利货架,warehousing,货架系统,published
+Pick Face,拣货面,warehousing,货架系统,published
+Reserve Rack,储备货架,warehousing,货架系统,published
+Rack Clad Warehouse,库架合一仓库,warehousing,货架系统,published
+Plastic Tote,塑料周转箱,warehousing,存储容具,published
+Attached Lid Container,翻盖周转箱,warehousing,存储容具,published
+Stackable Bin,可堆叠料盒,warehousing,存储容具,published
+Nestable Container,套叠周转箱,warehousing,存储容具,published
+Collapsible Container,折叠周转箱,warehousing,存储容具,published
+Euro Container,欧标周转箱,warehousing,存储容具,published
+Wire Basket,铁丝筐,warehousing,存储容具,published
+Wire Mesh Container,金属网箱,warehousing,存储容具,published
+Pallet Box,围板箱,warehousing,存储容具,published
+Pallet Collar,围板框,warehousing,存储容具,published
+IBC Tote,IBC吨桶,warehousing,存储容具,published
+Drum,桶,warehousing,存储容具,published
+Roll Cage,笼车,warehousing,存储容具,published
+Roll Pallet,滚轮托盘,warehousing,存储容具,published
+Steel Pallet,钢托盘,warehousing,存储容具,published
+Presswood Pallet,模压托盘,warehousing,存储容具,published
+Pallet Top Frame,托盘顶框,warehousing,存储容具,published
+Interlayer Sheet,隔层纸板,warehousing,存储容具,published
+Top Cap,顶部护盖,warehousing,存储容具,published
+Divider Set,分隔板组,warehousing,存储容具,published
+Container Lid,箱盖,warehousing,存储容具,published
+Label Holder,标签袋,warehousing,存储容具,published
+Electric Forklift,电动叉车,warehousing,叉车类型,published
+Diesel Forklift,柴油叉车,warehousing,叉车类型,published
+LPG Forklift,液化气叉车,warehousing,叉车类型,published
+Double-Deep Reach Truck,双深位前移叉车,warehousing,叉车类型,published
+Walkie Stacker,步驾式堆高车,warehousing,叉车类型,published
+Rider Stacker,站驾式堆高车,warehousing,叉车类型,published
+Straddle Stacker,跨立式堆高车,warehousing,叉车类型,published
+Hand Pallet Truck,手动液压搬运车,warehousing,叉车类型,published
+Pallet Truck With Scale,带秤搬运车,warehousing,叉车类型,published
+Order Picker,高位拣选车,warehousing,叉车类型,published
+Low-Level Order Picker,低位拣选车,warehousing,叉车类型,published
+Turret Truck,三向堆垛叉车,warehousing,叉车类型,published
+Man-Up Turret Truck,人上型三向叉车,warehousing,叉车类型,published
+VNA Truck,窄巷道叉车,warehousing,叉车类型,published
+Articulated VNA Truck,铰接式窄巷道叉车,warehousing,叉车类型,published
+Multi-Directional Forklift,多向叉车,warehousing,叉车类型,published
+Telehandler,伸缩臂叉车,warehousing,叉车类型,published
+Rough Terrain Forklift,越野叉车,warehousing,叉车类型,published
+Explosion-Proof Forklift,防爆叉车,warehousing,叉车类型,published
+Tugger Train,拖挂列车,warehousing,叉车类型,published
+Heavy-Duty Forklift,重型叉车,warehousing,叉车类型,published
+Compact Forklift,紧凑型叉车,warehousing,叉车类型,published
+Three-Wheel Forklift,三轮叉车,warehousing,叉车类型,published
+Four-Wheel Forklift,四轮叉车,warehousing,叉车类型,published
+Narrow Aisle Forklift,窄通道叉车,warehousing,叉车类型,published
+Stand-Up Forklift,站驾叉车,warehousing,叉车类型,published
+Sit-Down Forklift,坐驾叉车,warehousing,叉车类型,published
+Warehouse Forklift,库内叉车,warehousing,叉车类型,published
+Forklift Fleet,叉车队,warehousing,叉车类型,published
+Lift Table,升降平台,warehousing,搬运设备,published
+Scissor Lift Table,剪式升降台,warehousing,搬运设备,published
+Mobile Elevating Work Platform,高空作业平台,warehousing,搬运设备,published
+Vertical Mast Lift,直柱式升降机,warehousing,搬运设备,published
+Personnel Lift,载人升降平台,warehousing,搬运设备,published
+Platform Trolley,平板手推车,warehousing,搬运设备,published
+Utility Cart,多用推车,warehousing,搬运设备,published
+Pick Cart,拣选推车,warehousing,搬运设备,published
+Ladder Cart,带梯推车,warehousing,搬运设备,published
+Rolling Ladder,移动登高梯,warehousing,搬运设备,published
+Drum Truck,油桶搬运车,warehousing,搬运设备,published
+Tugger Cart,牵引挂车,warehousing,搬运设备,published
+Hand Stacker,手动堆高车,warehousing,搬运设备,published
+Load Transfer Cart,载荷转运车,warehousing,搬运设备,published
+Truck Scissor Lift,车载剪式升降台,warehousing,搬运设备,published
+Forklift Ramp,叉车坡道,warehousing,搬运设备,published
+Forklift Battery Charger,叉车充电机,warehousing,搬运设备,published
+Opportunity Charging,随行补电,warehousing,搬运设备,published
+Hydrogen Fuel Cell Forklift,氢燃料电池叉车,warehousing,搬运设备,published
+Battery Swap Station,换电站,warehousing,搬运设备,published
+Forklift Fleet Management,叉车车队管理,warehousing,搬运设备,published
+Telematics System,车载远程信息系统,warehousing,搬运设备,published
+Operator Presence Sensor,操作员感应装置,warehousing,搬运设备,published
+Forklift Safety Light,叉车警示灯,warehousing,搬运设备,published
+Blue Spot Light,蓝点警示灯,warehousing,搬运设备,published
+Load Backrest,挡货架,warehousing,搬运设备,published
+Fork Extensions,加长货叉套,warehousing,搬运设备,published
+Side Shifter,侧移器,warehousing,叉车属具,published
+Fork Positioner,调距叉,warehousing,叉车属具,published
+Rotator,旋转器,warehousing,叉车属具,published
 Carton Clamp,纸箱夹,warehousing,叉车属具,pending
 Bale Clamp,打包夹,warehousing,叉车属具,pending
 Box Clamp,箱夹,warehousing,叉车属具,pending
