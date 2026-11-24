@@ -9492,106 +9492,106 @@ Fork Extensions,加长货叉套,warehousing,搬运设备,published
 Side Shifter,侧移器,warehousing,叉车属具,published
 Fork Positioner,调距叉,warehousing,叉车属具,published
 Rotator,旋转器,warehousing,叉车属具,published
-Carton Clamp,纸箱夹,warehousing,叉车属具,pending
-Bale Clamp,打包夹,warehousing,叉车属具,pending
-Box Clamp,箱夹,warehousing,叉车属具,pending
-Drum Clamp,油桶夹,warehousing,叉车属具,pending
-Drum Grab,油桶吊夹,warehousing,叉车属具,pending
-Push-Pull Attachment,推拉器,warehousing,叉车属具,pending
-Slip Sheet Attachment,滑板属具,warehousing,叉车属具,pending
-Load Stabilizer,货物稳定器,warehousing,叉车属具,pending
-Paper Roll Clamp,纸卷夹,warehousing,叉车属具,pending
-Carpet Pole,地毯杆,warehousing,叉车属具,pending
-Block Clamp,块状夹,warehousing,叉车属具,pending
-Rotating Clamp,旋转夹,warehousing,叉车属具,pending
-Multi-Purpose Clamp,多用途夹,warehousing,叉车属具,pending
-Bale Spear,草捆叉,warehousing,叉车属具,pending
-Tyre Clamp,轮胎夹,warehousing,叉车属具,pending
-Cylinder Handler,气瓶搬运属具,warehousing,叉车属具,pending
-Telescopic Fork,伸缩货叉,warehousing,叉车属具,pending
-Shovel Attachment,铲斗属具,warehousing,叉车属具,pending
-Sweeper Attachment,清扫器属具,warehousing,叉车属具,pending
-Gravity Roller Conveyor,重力辊筒输送线,warehousing,输送设备,pending
-Powered Roller Conveyor,动力辊筒输送线,warehousing,输送设备,pending
-Slat Conveyor,板链输送机,warehousing,输送设备,pending
-Flexible Conveyor,可弯折输送机,warehousing,输送设备,pending
-Telescopic Boom Conveyor,伸缩皮带输送机,warehousing,输送设备,pending
-Curved Conveyor,弯道输送机,warehousing,输送设备,pending
-Incline Conveyor,爬坡输送机,warehousing,输送设备,pending
-Vertical Reciprocating Conveyor,往复式提升机,warehousing,输送设备,pending
-Continuous Vertical Conveyor,连续垂直输送机,warehousing,输送设备,pending
-Accumulation Conveyor,积放输送机,warehousing,输送设备,pending
-Zero-Pressure Accumulation,零压力积放,warehousing,输送设备,pending
-Merge Conveyor,合流输送机,warehousing,输送设备,pending
-Merge Junction,合流口,warehousing,输送设备,pending
-Divert,分向装置,warehousing,输送设备,pending
-Induction Station,供件口,warehousing,输送设备,pending
-Induction Conveyor,供件输送机,warehousing,输送设备,pending
-Singulation,单件分离,warehousing,输送设备,pending
-Gapping Conveyor,拉间距输送机,warehousing,输送设备,pending
-Barcode Read Station,条码扫描站,warehousing,输送设备,pending
-Cubing and Weighing System,体积称重系统,warehousing,输送设备,pending
-In-Motion Scale,动态称重秤,warehousing,输送设备,pending
-Reject Station,剔除口,warehousing,输送设备,pending
-Sorter Chute,分拣滑槽,warehousing,输送设备,pending
-Package Chute,包裹滑道,warehousing,输送设备,pending
-Overhead Conveyor,悬挂输送机,warehousing,输送设备,pending
-Power and Free Conveyor,积放式悬挂输送机,warehousing,输送设备,pending
-Monorail Conveyor,单轨输送机,warehousing,输送设备,pending
-Pneumatic Tube System,气动物流传输系统,warehousing,输送设备,pending
-Transfer Car,移载小车,warehousing,输送设备,pending
-Turntable Conveyor,转向输送机,warehousing,输送设备,pending
-Loop Cross-Belt Sorter,环形交叉带分拣机,warehousing,分拣设备,pending
-Linear Cross-Belt Sorter,直线交叉带分拣机,warehousing,分拣设备,pending
-Pop-Up Roller Sorter,顶升辊筒分拣机,warehousing,分拣设备,pending
-Pusher Sorter,推板分拣机,warehousing,分拣设备,pending
-Paddle Sorter,翻板分拣机,warehousing,分拣设备,pending
-Arm Sorter,斜臂分拣机,warehousing,分拣设备,pending
-Pneumatic Sorter,气力分拣机,warehousing,分拣设备,pending
-Bomb-Bay Sorter,落袋式分拣机,warehousing,分拣设备,pending
-Vertical Sorter,立式分拣机,warehousing,分拣设备,pending
-Modular Sorter,模块化分拣机,warehousing,分拣设备,pending
-High-Speed Sorter,高速分拣机,warehousing,分拣设备,pending
-Sorter Throughput,分拣能力,warehousing,分拣设备,pending
-Sortation Rate,分拣准确率,warehousing,分拣设备,pending
-Sorter Chute Bank,滑槽组,warehousing,分拣设备,pending
-Drop Chute,落袋滑槽,warehousing,分拣设备,pending
-Outfeed,输出口,warehousing,分拣设备,pending
-Infeed,输入口,warehousing,分拣设备,pending
-Diverter,分流器,warehousing,分拣设备,pending
-Diverter Arm,分流臂,warehousing,分拣设备,pending
-Pop-Up Belt Diverter,顶升皮带分流器,warehousing,分拣设备,pending
-Pop-Up Wheel Diverter,顶升滚轮分流器,warehousing,分拣设备,pending
-Pusher Diverter,推杆分流器,warehousing,分拣设备,pending
-Air-Assist Diverter,气吹分流器,warehousing,分拣设备,pending
-Sorter Control System,分拣控制系统,warehousing,分拣设备,pending
-Induction Robot,供件机器人,warehousing,分拣设备,pending
-Robotic Induction Station,机器人供件台,warehousing,分拣设备,pending
-Unloading Robot,卸车机器人,warehousing,分拣设备,pending
-Parcel Singulation Robot,包裹分离机器人,warehousing,分拣设备,pending
-Reading Tunnel,扫描通道,warehousing,分拣设备,pending
-Sorter Merge System,分拣合流系统,warehousing,分拣设备,pending
-Chute Full Indicator,滑槽满载指示,warehousing,分拣设备,pending
-Sorter Divert Lane,分拣道口,warehousing,分拣设备,pending
-Destination Lane,目的地道口,warehousing,分拣设备,pending
-Sorter Discharge,分拣落包,warehousing,分拣设备,pending
-Unit-Load AS/RS,单元货格立体库,warehousing,自动化立库,pending
-Micro-Load System,微料箱立体库,warehousing,自动化立库,pending
-Stacker Crane,巷道堆垛机,warehousing,自动化立库,pending
-S/R Machine,存取机,warehousing,自动化立库,pending
-Single-Mast Stacker Crane,单立柱堆垛机,warehousing,自动化立库,pending
-Double-Mast Stacker Crane,双立柱堆垛机,warehousing,自动化立库,pending
-Pallet Shuttle,托盘穿梭车,warehousing,自动化立库,pending
-Multi-Deep Shuttle,多深位穿梭车,warehousing,自动化立库,pending
-Carrier and Vehicle System,载体式穿梭系统,warehousing,自动化立库,pending
-3D Shuttle,三维穿梭车,warehousing,自动化立库,pending
-Cube Storage System,料箱立方存储系统,warehousing,自动化立库,pending
-Cube Storage Robot,立方存储机器人,warehousing,自动化立库,pending
-Robotic Cube Storage,机器人密集存储,warehousing,自动化立库,pending
-Autonomous Case-Handling Robot,料箱机器人,warehousing,自动化立库,pending
-High-Density Storage,高密度存储,warehousing,自动化立库,pending
-Deep Lane Storage,深巷道存储,warehousing,自动化立库,pending
-Double-Deep Storage,双深位存储,warehousing,自动化立库,pending
+Carton Clamp,纸箱夹,warehousing,叉车属具,published
+Bale Clamp,打包夹,warehousing,叉车属具,published
+Box Clamp,箱夹,warehousing,叉车属具,published
+Drum Clamp,油桶夹,warehousing,叉车属具,published
+Drum Grab,油桶吊夹,warehousing,叉车属具,published
+Push-Pull Attachment,推拉器,warehousing,叉车属具,published
+Slip Sheet Attachment,滑板属具,warehousing,叉车属具,published
+Load Stabilizer,货物稳定器,warehousing,叉车属具,published
+Paper Roll Clamp,纸卷夹,warehousing,叉车属具,published
+Carpet Pole,地毯杆,warehousing,叉车属具,published
+Block Clamp,块状夹,warehousing,叉车属具,published
+Rotating Clamp,旋转夹,warehousing,叉车属具,published
+Multi-Purpose Clamp,多用途夹,warehousing,叉车属具,published
+Bale Spear,草捆叉,warehousing,叉车属具,published
+Tyre Clamp,轮胎夹,warehousing,叉车属具,published
+Cylinder Handler,气瓶搬运属具,warehousing,叉车属具,published
+Telescopic Fork,伸缩货叉,warehousing,叉车属具,published
+Shovel Attachment,铲斗属具,warehousing,叉车属具,published
+Sweeper Attachment,清扫器属具,warehousing,叉车属具,published
+Gravity Roller Conveyor,重力辊筒输送线,warehousing,输送设备,published
+Powered Roller Conveyor,动力辊筒输送线,warehousing,输送设备,published
+Slat Conveyor,板链输送机,warehousing,输送设备,published
+Flexible Conveyor,可弯折输送机,warehousing,输送设备,published
+Telescopic Boom Conveyor,伸缩皮带输送机,warehousing,输送设备,published
+Curved Conveyor,弯道输送机,warehousing,输送设备,published
+Incline Conveyor,爬坡输送机,warehousing,输送设备,published
+Vertical Reciprocating Conveyor,往复式提升机,warehousing,输送设备,published
+Continuous Vertical Conveyor,连续垂直输送机,warehousing,输送设备,published
+Accumulation Conveyor,积放输送机,warehousing,输送设备,published
+Zero-Pressure Accumulation,零压力积放,warehousing,输送设备,published
+Merge Conveyor,合流输送机,warehousing,输送设备,published
+Merge Junction,合流口,warehousing,输送设备,published
+Divert,分向装置,warehousing,输送设备,published
+Induction Station,供件口,warehousing,输送设备,published
+Induction Conveyor,供件输送机,warehousing,输送设备,published
+Singulation,单件分离,warehousing,输送设备,published
+Gapping Conveyor,拉间距输送机,warehousing,输送设备,published
+Barcode Read Station,条码扫描站,warehousing,输送设备,published
+Cubing and Weighing System,体积称重系统,warehousing,输送设备,published
+In-Motion Scale,动态称重秤,warehousing,输送设备,published
+Reject Station,剔除口,warehousing,输送设备,published
+Sorter Chute,分拣滑槽,warehousing,输送设备,published
+Package Chute,包裹滑道,warehousing,输送设备,published
+Overhead Conveyor,悬挂输送机,warehousing,输送设备,published
+Power and Free Conveyor,积放式悬挂输送机,warehousing,输送设备,published
+Monorail Conveyor,单轨输送机,warehousing,输送设备,published
+Pneumatic Tube System,气动物流传输系统,warehousing,输送设备,published
+Transfer Car,移载小车,warehousing,输送设备,published
+Turntable Conveyor,转向输送机,warehousing,输送设备,published
+Loop Cross-Belt Sorter,环形交叉带分拣机,warehousing,分拣设备,published
+Linear Cross-Belt Sorter,直线交叉带分拣机,warehousing,分拣设备,published
+Pop-Up Roller Sorter,顶升辊筒分拣机,warehousing,分拣设备,published
+Pusher Sorter,推板分拣机,warehousing,分拣设备,published
+Paddle Sorter,翻板分拣机,warehousing,分拣设备,published
+Arm Sorter,斜臂分拣机,warehousing,分拣设备,published
+Pneumatic Sorter,气力分拣机,warehousing,分拣设备,published
+Bomb-Bay Sorter,落袋式分拣机,warehousing,分拣设备,published
+Vertical Sorter,立式分拣机,warehousing,分拣设备,published
+Modular Sorter,模块化分拣机,warehousing,分拣设备,published
+High-Speed Sorter,高速分拣机,warehousing,分拣设备,published
+Sorter Throughput,分拣能力,warehousing,分拣设备,published
+Sortation Rate,分拣准确率,warehousing,分拣设备,published
+Sorter Chute Bank,滑槽组,warehousing,分拣设备,published
+Drop Chute,落袋滑槽,warehousing,分拣设备,published
+Outfeed,输出口,warehousing,分拣设备,published
+Infeed,输入口,warehousing,分拣设备,published
+Diverter,分流器,warehousing,分拣设备,published
+Diverter Arm,分流臂,warehousing,分拣设备,published
+Pop-Up Belt Diverter,顶升皮带分流器,warehousing,分拣设备,published
+Pop-Up Wheel Diverter,顶升滚轮分流器,warehousing,分拣设备,published
+Pusher Diverter,推杆分流器,warehousing,分拣设备,published
+Air-Assist Diverter,气吹分流器,warehousing,分拣设备,published
+Sorter Control System,分拣控制系统,warehousing,分拣设备,published
+Induction Robot,供件机器人,warehousing,分拣设备,published
+Robotic Induction Station,机器人供件台,warehousing,分拣设备,published
+Unloading Robot,卸车机器人,warehousing,分拣设备,published
+Parcel Singulation Robot,包裹分离机器人,warehousing,分拣设备,published
+Reading Tunnel,扫描通道,warehousing,分拣设备,published
+Sorter Merge System,分拣合流系统,warehousing,分拣设备,published
+Chute Full Indicator,滑槽满载指示,warehousing,分拣设备,published
+Sorter Divert Lane,分拣道口,warehousing,分拣设备,published
+Destination Lane,目的地道口,warehousing,分拣设备,published
+Sorter Discharge,分拣落包,warehousing,分拣设备,published
+Unit-Load AS/RS,单元货格立体库,warehousing,自动化立库,published
+Micro-Load System,微料箱立体库,warehousing,自动化立库,published
+Stacker Crane,巷道堆垛机,warehousing,自动化立库,published
+S/R Machine,存取机,warehousing,自动化立库,published
+Single-Mast Stacker Crane,单立柱堆垛机,warehousing,自动化立库,published
+Double-Mast Stacker Crane,双立柱堆垛机,warehousing,自动化立库,published
+Pallet Shuttle,托盘穿梭车,warehousing,自动化立库,published
+Multi-Deep Shuttle,多深位穿梭车,warehousing,自动化立库,published
+Carrier and Vehicle System,载体式穿梭系统,warehousing,自动化立库,published
+3D Shuttle,三维穿梭车,warehousing,自动化立库,published
+Cube Storage System,料箱立方存储系统,warehousing,自动化立库,published
+Cube Storage Robot,立方存储机器人,warehousing,自动化立库,published
+Robotic Cube Storage,机器人密集存储,warehousing,自动化立库,published
+Autonomous Case-Handling Robot,料箱机器人,warehousing,自动化立库,published
+High-Density Storage,高密度存储,warehousing,自动化立库,published
+Deep Lane Storage,深巷道存储,warehousing,自动化立库,published
+Double-Deep Storage,双深位存储,warehousing,自动化立库,published
 AS/RS Crane Aisle,堆垛机巷道,warehousing,自动化立库,pending
 Pallet Conveyor System,托盘输送系统,warehousing,自动化立库,pending
 Tote Conveyor System,料箱输送系统,warehousing,自动化立库,pending
