@@ -1,7 +1,7 @@
 ---
 title: "Smart Glasses Picking"
 linkTitle: "智能眼镜拣选"
-date: 2026-11-24
+date: 2026-11-25
 type: docs
 subcategory: "拣选作业"
 ---
@@ -9,37 +9,32 @@ subcategory: "拣选作业"
 > 📖 分类：**仓储** / 拣选作业　｜　Smart Glasses Picking = 智能眼镜拣选
 
 ## 定义
-
-智能眼镜拣选（Smart Glasses Picking）是一种结合了增强现实（AR）与物联网技术的仓储作业方式。作业人员佩戴内置微型显示屏和摄像头的智能眼镜，系统将拣选指令、商品条码及库位信息实时投射到视野中，实现“解放双手、抬头看路”的高效作业。
+智能眼镜拣选（Smart Glasses Picking）是一种结合了增强现实（AR）与物联网技术的现代化仓储作业方式。作业人员佩戴智能眼镜，通过视线中的AR投射指引进行货物识别、定位和数量确认，实现真正的“解放双手、抬头作业”。
 
 ## 详细说明
-
-- 使用场景：广泛应用于电商大促期间的高频SKU拣选、大型配送中心的复杂订单分拣，以及医药冷链等对准确率要求极高的现代化高位立体仓库。
-- 关键规则与数据：该技术通常能将仓储拣选效率提升20%至40%，并将错误率降低至0.1%以下。作业时，系统依托WMS（仓储管理系统）自动规划最优路径，工人通过语音指令或手势确认完成抓取。
-- 实务注意事项：在实际运营中，需重点考虑设备续航、仓库Wi-Fi信号覆盖稳定性，以及操作人员佩戴眼镜的舒适度与视力适应期。
+- 使用场景：广泛应用于高频次、SKU繁多且对出货时效要求极高的现代化配送中心，如电商大仓、医药分拨中心及高价值电子产品的B2C/B2B订单履约。
+- 关键规则与数据：系统通常集成条码扫描与语音识别功能，扫码识别准确率通常可达99.9%以上；较传统手持RF枪拣货，可提升约25%至35%的作业效率，同时显著降低新员工的培训周期。
+- 实务注意事项：需确保仓库内Wi-Fi信号的全覆盖与稳定性，防止数据传输延迟；同时应关注设备续航能力及长时间佩戴的人体工学舒适度。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 智能眼镜拣选 | Smart Glasses Picking |
-| 增强现实拣选 | Augmented Reality Picking |
-| 语音拣选 | Voice Picking |
-| 仓储管理系统 | Warehouse Management System (WMS) |
-| 射频识别 | Radio Frequency Identification (RFID) |
+| 增强现实拣选 | Augmented Reality Picking / AR Picking |
+| 抬头显示 | Head-Up Display (HUD) |
+| 视觉指引拣选 | Vision-based Picking |
 
 ## 相关术语
-
-- Voice Picking（语音拣选）
+- Pick-by-Voice（语音拣选）
 - Pick-to-Light（电子标签拣选）
-- Automated Storage and Retrieval System (AS/RS)（自动化立体仓库）
-- Warehouse Management System (WMS)（仓储管理系统）
-- Goods-to-Person (G2P)（货到人系统）
+- RF Scanning（无线射频扫描拣选）
+- Warehouse Management System, WMS（仓储管理系统）
+- Augmented Reality, AR（增强现实）
 
 ## 常见误区
-
-- 误区一：认为智能眼镜拣选会完全取代现有的手持终端（PDA）。实际上，两者的结合在复核和盘点环节依然互补。
-- 误区二：盲目追求设备的高端配置而忽视底层WMS系统的兼容性，导致数据传输延迟，影响现场作业连贯性。
+- 误以为智能眼镜拣选完全不需要人工干预：实际上它仍需人工执行抓取和确认动作，只是改变了信息交互与引导的方式。
+- 忽视网络环境对设备性能的决定性影响：认为只要采购高端硬件即可，未考虑到仓库内弱网区域可能导致的系统卡顿与漏单问题。
 
 ---
 

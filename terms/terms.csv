@@ -9693,105 +9693,105 @@ ABC Storage Assignment,ABC储位分配,warehousing,上架策略,published
 Velocity-Based Slotting,流转速度定位,warehousing,上架策略,published
 Slotting Analysis,储位分析,warehousing,上架策略,published
 Family Grouping,同族分组存储,warehousing,上架策略,pending
-Popularity Storage,流行度存储,warehousing,上架策略,pending
-Cube per Order Index,体积订单指数,warehousing,上架策略,pending
-Closest Open Location,最近空储位,warehousing,上架策略,pending
-Zone Storage,分区存储,warehousing,上架策略,pending
+Popularity Storage,流行度存储,warehousing,上架策略,published
+Cube per Order Index,体积订单指数,warehousing,上架策略,published
+Closest Open Location,最近空储位,warehousing,上架策略,published
+Zone Storage,分区存储,warehousing,上架策略,published
 Seasonal Slotting,季节性储位调整,warehousing,上架策略,pending
-Re-Slotting,储位重整,warehousing,上架策略,pending
-Golden Zone Slotting,黄金区上架,warehousing,上架策略,pending
-Weight-Based Slotting,按重量定位,warehousing,上架策略,pending
-Hazmat Segregation,危化品隔离存储,warehousing,上架策略,pending
-Lot-Controlled Putaway,批次控制上架,warehousing,上架策略,pending
-Mixed SKU Storage,混品存储,warehousing,上架策略,pending
-Pick Density Mapping,拣选密度图,warehousing,上架策略,pending
-Location Capacity Check,储位容量校验,warehousing,上架策略,pending
-Wave Planning,波次计划,warehousing,波次计划,pending
-Wave Release,波次释放,warehousing,波次计划,pending
-Wave Template,波次模板,warehousing,波次计划,pending
-Wave Optimization,波次优化,warehousing,波次计划,pending
-Batching Algorithm,分批算法,warehousing,波次计划,pending
-Carrier Cutoff,承运商截单,warehousing,波次计划,pending
-Wave Cutoff,波次截单,warehousing,波次计划,pending
-Order Pooling,订单合池,warehousing,波次计划,pending
-Order Grouping,订单分组,warehousing,波次计划,pending
-Cluster Picking,集群拣选,warehousing,波次计划,pending
-Cluster Cart,集群拣选车,warehousing,波次计划,pending
-Single-Order Picking,单订单拣选,warehousing,波次计划,pending
-Sequential Picking,顺序拣选,warehousing,波次计划,pending
-Simultaneous Picking,同时拣选,warehousing,波次计划,pending
-Priority Wave,优先波次,warehousing,波次计划,pending
-Backorder Wave,缺货波次,warehousing,波次计划,pending
-Dynamic Wave,动态波次,warehousing,波次计划,pending
-Wave Balancing,波次均衡,warehousing,波次计划,pending
-Order Release,订单释放,warehousing,波次计划,pending
-Order Picking,订单拣选,warehousing,拣选作业,pending
-Piece Picking,单件拣选,warehousing,拣选作业,pending
-Each Picking,拆零拣选,warehousing,拣选作业,pending
-Case Picking,整箱拣选,warehousing,拣选作业,pending
-Full Pallet Picking,整托拣选,warehousing,拣选作业,pending
-Broken Case Picking,零箱拣选,warehousing,拣选作业,pending
-Split Case Picking,拆箱拣选,warehousing,拣选作业,pending
-Multi-Order Consolidation,多单合并,warehousing,拣选作业,pending
-Batch-and-Sequence,先批后分,warehousing,拣选作业,pending
-Pick and Pass,接力拣选,warehousing,拣选作业,pending
-Pick and Pass Zone,接力拣选分区,warehousing,拣选作业,pending
-Discrete Picking,单一拣选,warehousing,拣选作业,pending
-Carousel Picking,回转货架拣选,warehousing,拣选作业,pending
-Voice-Directed Warehousing,语音引导作业,warehousing,拣选作业,pending
-Pick-by-Light,电子标签拣选技术,warehousing,拣选作业,pending
-Pick-by-Vision,视觉拣选,warehousing,拣选作业,pending
-AR Picking,增强现实拣选,warehousing,拣选作业,pending
-Smart Glasses Picking,智能眼镜拣选,warehousing,拣选作业,pending
-Mobile Picking App,移动拣选应用,warehousing,拣选作业,pending
-RF Picking,射频拣选,warehousing,拣选作业,pending
-Scan Picking,扫码拣选,warehousing,拣选作业,pending
-Paper Pick List,纸质拣货单,warehousing,拣选作业,pending
-Pick Ticket,拣货票,warehousing,拣选作业,pending
-Pick Route Optimization,拣选路径优化,warehousing,拣选作业,pending
-Serpentine Picking,蛇形拣选,warehousing,拣选作业,pending
-Traversal Picking,遍历式拣选,warehousing,拣选作业,pending
-Best-Route Picking,最优路径拣选,warehousing,拣选作业,pending
-Pick Sequence,拣选顺序,warehousing,拣选作业,pending
-Pick Density,拣选密度,warehousing,拣选作业,pending
-Picking Productivity,拣选效率,warehousing,拣选作业,pending
-Units per Hour,小时处理件数,warehousing,拣选作业,pending
-Pick Error Rate,拣选差错率,warehousing,拣选作业,pending
-Pick Verification,拣选复核,warehousing,拣选作业,pending
-Short Pick,短拣,warehousing,拣选作业,pending
-Mis-Pick,错拣,warehousing,拣选作业,pending
-Pick Confirmation,拣选确认,warehousing,拣选作业,pending
-Batch Cart Picking,批量车拣选,warehousing,拣选作业,pending
-Multi-Tier Pick,多层拣选,warehousing,拣选作业,pending
-Robotic Picking,机器人拣选,warehousing,拣选作业,pending
-Automated Piece Picking,自动拆零拣选,warehousing,拣选作业,pending
-Forward Pick Replenishment,前拣区补货,warehousing,补货作业,pending
-Min-Max Replenishment,上下限补货,warehousing,补货作业,pending
-Reorder Point Replenishment,订货点补货,warehousing,补货作业,pending
-Demand-Driven Replenishment,需求驱动补货,warehousing,补货作业,pending
-Opportunistic Replenishment,机会补货,warehousing,补货作业,pending
-Emergency Replenishment,紧急补货,warehousing,补货作业,pending
-Interleaved Replenishment,交叉补货,warehousing,补货作业,pending
-Let-Down Replenishment,降位补货,warehousing,补货作业,pending
-Pick Face Check,拣货面检查,warehousing,补货作业,pending
-Replenishment Threshold,补货阈值,warehousing,补货作业,pending
-Replenishment Trigger,补货触发,warehousing,补货作业,pending
-Manual Replenishment,人工补货,warehousing,补货作业,pending
-Replenishment Task,补货任务,warehousing,补货作业,pending
-Replenishment Priority,补货优先级,warehousing,补货作业,pending
-Concurrent Replenishment,同步补货,warehousing,补货作业,pending
-Advance Replenishment,预先补货,warehousing,补货作业,pending
-Wave Replenishment,波次补货,warehousing,补货作业,pending
-Reserve-to-Forward Movement,储备转前拣,warehousing,补货作业,pending
-Empty Pick Face Alert,空拣货面告警,warehousing,补货作业,pending
-Replenishment Efficiency,补货效率,warehousing,补货作业,pending
-Top-Up Replenishment,补充式补货,warehousing,补货作业,pending
-Order Packing,订单装箱,warehousing,包装作业,pending
-Pack and Hold,包装暂存,warehousing,包装作业,pending
-Pack Station,包装台,warehousing,包装作业,pending
-Packing Workbench,打包工作台,warehousing,包装作业,pending
-Carton Selection,选箱,warehousing,包装作业,pending
-Right-Size Boxing,适配装箱,warehousing,包装作业,pending
+Re-Slotting,储位重整,warehousing,上架策略,published
+Golden Zone Slotting,黄金区上架,warehousing,上架策略,published
+Weight-Based Slotting,按重量定位,warehousing,上架策略,published
+Hazmat Segregation,危化品隔离存储,warehousing,上架策略,published
+Lot-Controlled Putaway,批次控制上架,warehousing,上架策略,published
+Mixed SKU Storage,混品存储,warehousing,上架策略,published
+Pick Density Mapping,拣选密度图,warehousing,上架策略,published
+Location Capacity Check,储位容量校验,warehousing,上架策略,published
+Wave Planning,波次计划,warehousing,波次计划,published
+Wave Release,波次释放,warehousing,波次计划,published
+Wave Template,波次模板,warehousing,波次计划,published
+Wave Optimization,波次优化,warehousing,波次计划,published
+Batching Algorithm,分批算法,warehousing,波次计划,published
+Carrier Cutoff,承运商截单,warehousing,波次计划,published
+Wave Cutoff,波次截单,warehousing,波次计划,published
+Order Pooling,订单合池,warehousing,波次计划,published
+Order Grouping,订单分组,warehousing,波次计划,published
+Cluster Picking,集群拣选,warehousing,波次计划,published
+Cluster Cart,集群拣选车,warehousing,波次计划,published
+Single-Order Picking,单订单拣选,warehousing,波次计划,published
+Sequential Picking,顺序拣选,warehousing,波次计划,published
+Simultaneous Picking,同时拣选,warehousing,波次计划,published
+Priority Wave,优先波次,warehousing,波次计划,published
+Backorder Wave,缺货波次,warehousing,波次计划,published
+Dynamic Wave,动态波次,warehousing,波次计划,published
+Wave Balancing,波次均衡,warehousing,波次计划,published
+Order Release,订单释放,warehousing,波次计划,published
+Order Picking,订单拣选,warehousing,拣选作业,published
+Piece Picking,单件拣选,warehousing,拣选作业,published
+Each Picking,拆零拣选,warehousing,拣选作业,published
+Case Picking,整箱拣选,warehousing,拣选作业,published
+Full Pallet Picking,整托拣选,warehousing,拣选作业,published
+Broken Case Picking,零箱拣选,warehousing,拣选作业,published
+Split Case Picking,拆箱拣选,warehousing,拣选作业,published
+Multi-Order Consolidation,多单合并,warehousing,拣选作业,published
+Batch-and-Sequence,先批后分,warehousing,拣选作业,published
+Pick and Pass,接力拣选,warehousing,拣选作业,published
+Pick and Pass Zone,接力拣选分区,warehousing,拣选作业,published
+Discrete Picking,单一拣选,warehousing,拣选作业,published
+Carousel Picking,回转货架拣选,warehousing,拣选作业,published
+Voice-Directed Warehousing,语音引导作业,warehousing,拣选作业,published
+Pick-by-Light,电子标签拣选技术,warehousing,拣选作业,published
+Pick-by-Vision,视觉拣选,warehousing,拣选作业,published
+AR Picking,增强现实拣选,warehousing,拣选作业,published
+Smart Glasses Picking,智能眼镜拣选,warehousing,拣选作业,published
+Mobile Picking App,移动拣选应用,warehousing,拣选作业,published
+RF Picking,射频拣选,warehousing,拣选作业,published
+Scan Picking,扫码拣选,warehousing,拣选作业,published
+Paper Pick List,纸质拣货单,warehousing,拣选作业,published
+Pick Ticket,拣货票,warehousing,拣选作业,published
+Pick Route Optimization,拣选路径优化,warehousing,拣选作业,published
+Serpentine Picking,蛇形拣选,warehousing,拣选作业,published
+Traversal Picking,遍历式拣选,warehousing,拣选作业,published
+Best-Route Picking,最优路径拣选,warehousing,拣选作业,published
+Pick Sequence,拣选顺序,warehousing,拣选作业,published
+Pick Density,拣选密度,warehousing,拣选作业,published
+Picking Productivity,拣选效率,warehousing,拣选作业,published
+Units per Hour,小时处理件数,warehousing,拣选作业,published
+Pick Error Rate,拣选差错率,warehousing,拣选作业,published
+Pick Verification,拣选复核,warehousing,拣选作业,published
+Short Pick,短拣,warehousing,拣选作业,published
+Mis-Pick,错拣,warehousing,拣选作业,published
+Pick Confirmation,拣选确认,warehousing,拣选作业,published
+Batch Cart Picking,批量车拣选,warehousing,拣选作业,published
+Multi-Tier Pick,多层拣选,warehousing,拣选作业,published
+Robotic Picking,机器人拣选,warehousing,拣选作业,published
+Automated Piece Picking,自动拆零拣选,warehousing,拣选作业,published
+Forward Pick Replenishment,前拣区补货,warehousing,补货作业,published
+Min-Max Replenishment,上下限补货,warehousing,补货作业,published
+Reorder Point Replenishment,订货点补货,warehousing,补货作业,published
+Demand-Driven Replenishment,需求驱动补货,warehousing,补货作业,published
+Opportunistic Replenishment,机会补货,warehousing,补货作业,published
+Emergency Replenishment,紧急补货,warehousing,补货作业,published
+Interleaved Replenishment,交叉补货,warehousing,补货作业,published
+Let-Down Replenishment,降位补货,warehousing,补货作业,published
+Pick Face Check,拣货面检查,warehousing,补货作业,published
+Replenishment Threshold,补货阈值,warehousing,补货作业,published
+Replenishment Trigger,补货触发,warehousing,补货作业,published
+Manual Replenishment,人工补货,warehousing,补货作业,published
+Replenishment Task,补货任务,warehousing,补货作业,published
+Replenishment Priority,补货优先级,warehousing,补货作业,published
+Concurrent Replenishment,同步补货,warehousing,补货作业,published
+Advance Replenishment,预先补货,warehousing,补货作业,published
+Wave Replenishment,波次补货,warehousing,补货作业,published
+Reserve-to-Forward Movement,储备转前拣,warehousing,补货作业,published
+Empty Pick Face Alert,空拣货面告警,warehousing,补货作业,published
+Replenishment Efficiency,补货效率,warehousing,补货作业,published
+Top-Up Replenishment,补充式补货,warehousing,补货作业,published
+Order Packing,订单装箱,warehousing,包装作业,published
+Pack and Hold,包装暂存,warehousing,包装作业,published
+Pack Station,包装台,warehousing,包装作业,published
+Packing Workbench,打包工作台,warehousing,包装作业,published
+Carton Selection,选箱,warehousing,包装作业,published
+Right-Size Boxing,适配装箱,warehousing,包装作业,published
 Cartonization Algorithm,装箱算法,warehousing,包装作业,pending
 3D Bin Packing,三维装箱,warehousing,包装作业,pending
 Volume Utilization,体积利用率,warehousing,包装作业,pending
