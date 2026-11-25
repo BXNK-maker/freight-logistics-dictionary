@@ -9890,106 +9890,106 @@ Location Count,储位盘点,warehousing,盘点方法,published
 SKU-Level Count,SKU级盘点,warehousing,盘点方法,published
 Count Accuracy,盘点准确率,warehousing,盘点指标,published
 Variance Rate,差异率,warehousing,盘点指标,published
-Cycle Count Completion,循环盘点完成率,warehousing,盘点指标,pending
-Count Variance Value,盘点差异金额,warehousing,盘点指标,pending
-Overage,盘盈,warehousing,盘点指标,pending
-Book-to-Physical Variance,账实差异,warehousing,盘点指标,pending
-Negative Stock,负库存,warehousing,盘点指标,pending
-Stock Balance,库存结存,warehousing,盘点指标,pending
-Inventory Valuation,库存估值,warehousing,盘点指标,pending
-Lot Balance,批次结存,warehousing,盘点指标,pending
-Age Buckets,库龄区间,warehousing,盘点指标,pending
-Stock Adjustment Approval,库存调整审批,warehousing,盘点指标,pending
-Return Authorization,退货授权,warehousing,退货处理,pending
-RMA Process,退货流程,warehousing,退货处理,pending
-Return Policy,退货政策,warehousing,退货处理,pending
-Return Pickup,退货上门取件,warehousing,退货处理,pending
-Return Shipping Label,退货面单,warehousing,退货处理,pending
-Return Drop-Off,退货自寄点,warehousing,退货处理,pending
-Customer Return,客户退货,warehousing,退货处理,pending
-Merchant Return,商家退货,warehousing,退货处理,pending
-Refused Delivery,拒收件,warehousing,退货处理,pending
-Undeliverable Return,无法投递退回,warehousing,退货处理,pending
-Return Reasons,退货原因,warehousing,退货处理,pending
-Return Inspection,退货质检,warehousing,退货处理,pending
-Grade A Return,完好退货品,warehousing,退货处理,pending
-Restocking,重新上架,warehousing,退货处理,pending
-Return to Stock,退货入库,warehousing,退货处理,pending
-Scrap Disposal,报废处理,warehousing,退货处理,pending
-Liquidation,清仓处理,warehousing,退货处理,pending
-Salvage Channel,残值处理渠道,warehousing,退货处理,pending
-Open-Box Sale,开箱二手销售,warehousing,退货处理,pending
-Refund Processing,退款处理,warehousing,退货处理,pending
-Return Fraud,退货欺诈,warehousing,退货处理,pending
-Abusive Returns,恶意退货,warehousing,退货处理,pending
-Return Rate,退货率,warehousing,退货处理,pending
-Returns Management System,退货管理系统,warehousing,退货处理,pending
-Returns Processing,退货处理作业,warehousing,退货处理,pending
-Cross-Border Returns,跨境退货,warehousing,退货处理,pending
-Return Dock,退货月台,warehousing,退货处理,pending
-Disposition,处置判定,warehousing,退货处理,pending
-Order Fulfillment,订单履约,warehousing,履约模式,pending
-Front Warehouse,前置仓,warehousing,履约模式,pending
-Buy Online Pick-Up In Store,线上下单门店自提,warehousing,履约模式,pending
-Ship-to-Store,门店收货,warehousing,履约模式,pending
-Omni-Channel Fulfillment,全渠道履约,warehousing,履约模式,pending
-Distributed Order Management,分布式订单管理,warehousing,履约模式,pending
-Micro-Warehousing,微型仓储,warehousing,履约模式,pending
-Fulfillment by Amazon,亚马逊物流,warehousing,履约模式,pending
-FBA Prep,FBA入仓预处理,warehousing,履约模式,pending
-Same-Day Fulfillment,当日履约,warehousing,履约模式,pending
-E-Grocery Fulfillment,生鲜电商履约,warehousing,履约模式,pending
-Q-Commerce,即时零售,warehousing,履约模式,pending
-Subscription Box Fulfillment,订阅盒履约,warehousing,履约模式,pending
-B2B Fulfillment,企业级订单履约,warehousing,履约模式,pending
-B2C Fulfillment,个人客户履约,warehousing,履约模式,pending
-Direct-to-Consumer,直连消费者,warehousing,履约模式,pending
-Inventory Sync,库存同步,warehousing,履约模式,pending
-Channel Inventory Allocation,渠道库存分配,warehousing,履约模式,pending
-Smart Order Routing,智能订单路由,warehousing,履约模式,pending
-Order Orchestration,订单编排,warehousing,履约模式,pending
-Order Promising,订单承诺,warehousing,履约模式,pending
-Distributed Inventory,分布式库存,warehousing,履约模式,pending
-Two-Hour Delivery,两小时达,warehousing,时效配送,pending
-Scheduled Delivery,预约配送,warehousing,时效配送,pending
-Time-Slot Delivery,时段配送,warehousing,时效配送,pending
-Threshold Delivery,入户配送,warehousing,时效配送,pending
-Locker Delivery,自提柜投递,warehousing,时效配送,pending
-Instant Delivery,即时送,warehousing,时效配送,pending
-On-Demand Delivery,按需配送,warehousing,时效配送,pending
-Export Declaration,出口报关,warehousing,跨境履约,pending
-Duty and Tax,关税与税费,warehousing,跨境履约,pending
-Export Consolidation,出口拼箱,warehousing,跨境履约,pending
-Return to Origin,退货至原发国,warehousing,跨境履约,pending
-Forward Stocking Location,前置备货点,warehousing,跨境履约,pending
-Postal Channel,邮政小包渠道,warehousing,跨境履约,pending
-Dedicated Line,专线,warehousing,跨境履约,pending
-Export Repacking,出口换包装,warehousing,跨境履约,pending
-Relabeling,换标,warehousing,跨境履约,pending
-Overseas Return Handling,海外退货处理,warehousing,跨境履约,pending
-Location Management,库位管理,warehousing,WMS功能,pending
-Bin Management,货位管理,warehousing,WMS功能,pending
-Location Type,储位类型,warehousing,WMS功能,pending
-Zone Management,库区管理,warehousing,WMS功能,pending
-Inventory Snapshot,库存快照,warehousing,WMS功能,pending
-Inventory Inquiry,库存查询,warehousing,WMS功能,pending
-Inventory Reservation,库存预留,warehousing,WMS功能,pending
-Soft Allocation,软分配,warehousing,WMS功能,pending
-Hard Allocation,硬分配,warehousing,WMS功能,pending
-Allocation Logic,分配逻辑,warehousing,WMS功能,pending
-Task Management,任务管理,warehousing,WMS功能,pending
-Work Order Management,作业单管理,warehousing,WMS功能,pending
-Inbound Order,入库单,warehousing,WMS功能,pending
-Outbound Order,出库单,warehousing,WMS功能,pending
-Transfer Order,移库单,warehousing,WMS功能,pending
-Adjustment Order,调整单,warehousing,WMS功能,pending
-Cycle Count Request,循环盘点任务,warehousing,WMS功能,pending
-Lot Attribute,批次属性,warehousing,WMS功能,pending
-Barcode Labeling,条码贴标,warehousing,WMS功能,pending
-Location Barcode,储位条码,warehousing,WMS功能,pending
-Pallet License Plate,托盘电子标签,warehousing,WMS功能,pending
-LPN,储运单元标签,warehousing,WMS功能,pending
-RF Terminal,射频终端,warehousing,WMS功能,pending
+Cycle Count Completion,循环盘点完成率,warehousing,盘点指标,published
+Count Variance Value,盘点差异金额,warehousing,盘点指标,published
+Overage,盘盈,warehousing,盘点指标,published
+Book-to-Physical Variance,账实差异,warehousing,盘点指标,published
+Negative Stock,负库存,warehousing,盘点指标,published
+Stock Balance,库存结存,warehousing,盘点指标,published
+Inventory Valuation,库存估值,warehousing,盘点指标,published
+Lot Balance,批次结存,warehousing,盘点指标,published
+Age Buckets,库龄区间,warehousing,盘点指标,published
+Stock Adjustment Approval,库存调整审批,warehousing,盘点指标,published
+Return Authorization,退货授权,warehousing,退货处理,published
+RMA Process,退货流程,warehousing,退货处理,published
+Return Policy,退货政策,warehousing,退货处理,published
+Return Pickup,退货上门取件,warehousing,退货处理,published
+Return Shipping Label,退货面单,warehousing,退货处理,published
+Return Drop-Off,退货自寄点,warehousing,退货处理,published
+Customer Return,客户退货,warehousing,退货处理,published
+Merchant Return,商家退货,warehousing,退货处理,published
+Refused Delivery,拒收件,warehousing,退货处理,published
+Undeliverable Return,无法投递退回,warehousing,退货处理,published
+Return Reasons,退货原因,warehousing,退货处理,published
+Return Inspection,退货质检,warehousing,退货处理,published
+Grade A Return,完好退货品,warehousing,退货处理,published
+Restocking,重新上架,warehousing,退货处理,published
+Return to Stock,退货入库,warehousing,退货处理,published
+Scrap Disposal,报废处理,warehousing,退货处理,published
+Liquidation,清仓处理,warehousing,退货处理,published
+Salvage Channel,残值处理渠道,warehousing,退货处理,published
+Open-Box Sale,开箱二手销售,warehousing,退货处理,published
+Refund Processing,退款处理,warehousing,退货处理,published
+Return Fraud,退货欺诈,warehousing,退货处理,published
+Abusive Returns,恶意退货,warehousing,退货处理,published
+Return Rate,退货率,warehousing,退货处理,published
+Returns Management System,退货管理系统,warehousing,退货处理,published
+Returns Processing,退货处理作业,warehousing,退货处理,published
+Cross-Border Returns,跨境退货,warehousing,退货处理,published
+Return Dock,退货月台,warehousing,退货处理,published
+Disposition,处置判定,warehousing,退货处理,published
+Order Fulfillment,订单履约,warehousing,履约模式,published
+Front Warehouse,前置仓,warehousing,履约模式,published
+Buy Online Pick-Up In Store,线上下单门店自提,warehousing,履约模式,published
+Ship-to-Store,门店收货,warehousing,履约模式,published
+Omni-Channel Fulfillment,全渠道履约,warehousing,履约模式,published
+Distributed Order Management,分布式订单管理,warehousing,履约模式,published
+Micro-Warehousing,微型仓储,warehousing,履约模式,published
+Fulfillment by Amazon,亚马逊物流,warehousing,履约模式,published
+FBA Prep,FBA入仓预处理,warehousing,履约模式,published
+Same-Day Fulfillment,当日履约,warehousing,履约模式,published
+E-Grocery Fulfillment,生鲜电商履约,warehousing,履约模式,published
+Q-Commerce,即时零售,warehousing,履约模式,published
+Subscription Box Fulfillment,订阅盒履约,warehousing,履约模式,published
+B2B Fulfillment,企业级订单履约,warehousing,履约模式,published
+B2C Fulfillment,个人客户履约,warehousing,履约模式,published
+Direct-to-Consumer,直连消费者,warehousing,履约模式,published
+Inventory Sync,库存同步,warehousing,履约模式,published
+Channel Inventory Allocation,渠道库存分配,warehousing,履约模式,published
+Smart Order Routing,智能订单路由,warehousing,履约模式,published
+Order Orchestration,订单编排,warehousing,履约模式,published
+Order Promising,订单承诺,warehousing,履约模式,published
+Distributed Inventory,分布式库存,warehousing,履约模式,published
+Two-Hour Delivery,两小时达,warehousing,时效配送,published
+Scheduled Delivery,预约配送,warehousing,时效配送,published
+Time-Slot Delivery,时段配送,warehousing,时效配送,published
+Threshold Delivery,入户配送,warehousing,时效配送,published
+Locker Delivery,自提柜投递,warehousing,时效配送,published
+Instant Delivery,即时送,warehousing,时效配送,published
+On-Demand Delivery,按需配送,warehousing,时效配送,published
+Export Declaration,出口报关,warehousing,跨境履约,published
+Duty and Tax,关税与税费,warehousing,跨境履约,published
+Export Consolidation,出口拼箱,warehousing,跨境履约,published
+Return to Origin,退货至原发国,warehousing,跨境履约,published
+Forward Stocking Location,前置备货点,warehousing,跨境履约,published
+Postal Channel,邮政小包渠道,warehousing,跨境履约,published
+Dedicated Line,专线,warehousing,跨境履约,published
+Export Repacking,出口换包装,warehousing,跨境履约,published
+Relabeling,换标,warehousing,跨境履约,published
+Overseas Return Handling,海外退货处理,warehousing,跨境履约,published
+Location Management,库位管理,warehousing,WMS功能,published
+Bin Management,货位管理,warehousing,WMS功能,published
+Location Type,储位类型,warehousing,WMS功能,published
+Zone Management,库区管理,warehousing,WMS功能,published
+Inventory Snapshot,库存快照,warehousing,WMS功能,published
+Inventory Inquiry,库存查询,warehousing,WMS功能,published
+Inventory Reservation,库存预留,warehousing,WMS功能,published
+Soft Allocation,软分配,warehousing,WMS功能,published
+Hard Allocation,硬分配,warehousing,WMS功能,published
+Allocation Logic,分配逻辑,warehousing,WMS功能,published
+Task Management,任务管理,warehousing,WMS功能,published
+Work Order Management,作业单管理,warehousing,WMS功能,published
+Inbound Order,入库单,warehousing,WMS功能,published
+Outbound Order,出库单,warehousing,WMS功能,published
+Transfer Order,移库单,warehousing,WMS功能,published
+Adjustment Order,调整单,warehousing,WMS功能,published
+Cycle Count Request,循环盘点任务,warehousing,WMS功能,published
+Lot Attribute,批次属性,warehousing,WMS功能,published
+Barcode Labeling,条码贴标,warehousing,WMS功能,published
+Location Barcode,储位条码,warehousing,WMS功能,published
+Pallet License Plate,托盘电子标签,warehousing,WMS功能,published
+LPN,储运单元标签,warehousing,WMS功能,published
+RF Terminal,射频终端,warehousing,WMS功能,published
 RF Gun,手持扫描终端,warehousing,WMS功能,pending
 Mobile WMS,移动端仓库系统,warehousing,WMS功能,pending
 Voice Picking Integration,语音拣选集成,warehousing,WMS功能,pending
