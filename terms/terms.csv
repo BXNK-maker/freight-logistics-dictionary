@@ -9990,106 +9990,106 @@ Location Barcode,储位条码,warehousing,WMS功能,published
 Pallet License Plate,托盘电子标签,warehousing,WMS功能,published
 LPN,储运单元标签,warehousing,WMS功能,published
 RF Terminal,射频终端,warehousing,WMS功能,published
-RF Gun,手持扫描终端,warehousing,WMS功能,pending
-Mobile WMS,移动端仓库系统,warehousing,WMS功能,pending
-Voice Picking Integration,语音拣选集成,warehousing,WMS功能,pending
-Pick Face Management,拣货面管理,warehousing,WMS功能,pending
-Replenishment Logic,补货逻辑,warehousing,WMS功能,pending
-Wave Engine,波次引擎,warehousing,WMS功能,pending
-Shipping System Integration,发运系统集成,warehousing,WMS功能,pending
-Carrier Integration,承运商系统对接,warehousing,WMS功能,pending
-Shipment Tracking,货件追踪,warehousing,WMS功能,pending
-ERP Integration,ERP集成,warehousing,WMS功能,pending
-Inventory Visibility,库存可视化,warehousing,WMS功能,pending
-Real-Time Inventory,实时库存,warehousing,WMS功能,pending
-Audit Trail,操作日志,warehousing,WMS功能,pending
-User Role Permission,用户权限,warehousing,WMS功能,pending
-Dashboard Reporting,看板报表,warehousing,WMS功能,pending
-KPI Reporting,关键指标报表,warehousing,WMS功能,pending
-System Configuration,系统参数配置,warehousing,WMS功能,pending
-Route Planning,路径规划,warehousing,TMS功能,pending
-Multi-Stop Planning,多点配送规划,warehousing,TMS功能,pending
-Carrier Rate Management,承运商运价管理,warehousing,TMS功能,pending
-Tariff Management,费率管理,warehousing,TMS功能,pending
-Load Tendering,配载招标,warehousing,TMS功能,pending
-Rate Card,运价卡,warehousing,TMS功能,pending
-Freight Classification,货物分级,warehousing,TMS功能,pending
-Shipping Label Generation,面单生成,warehousing,TMS功能,pending
-In-Transit Visibility,在途可视化,warehousing,TMS功能,pending
-Appointment Booking,预约排程,warehousing,TMS功能,pending
-Detention and Demurrage,滞留与滞期费,warehousing,TMS功能,pending
-Mileage Rating,里程计费,warehousing,TMS功能,pending
-Real-Time Synchronization,实时同步,warehousing,数据集成,pending
-Data Middleware,数据中间件,warehousing,数据集成,pending
-Message Queue,消息队列,warehousing,数据集成,pending
-Item Master,商品主数据,warehousing,数据集成,pending
-Barcode Symbology,条码码制,warehousing,数据集成,pending
-Forklift Safety,叉车安全,warehousing,仓储安全,pending
-Pedestrian Safety,行人安全,warehousing,仓储安全,pending
-Pedestrian Walkway,人行通道,warehousing,仓储安全,pending
-Traffic Management Plan,人车分流方案,warehousing,仓储安全,pending
-Blind Corner Mirror,转角反光镜,warehousing,仓储安全,pending
-Convex Mirror,凸面镜,warehousing,仓储安全,pending
-Warning Sign,警示标识,warehousing,仓储安全,pending
-High-Visibility Vest,反光背心,warehousing,仓储安全,pending
-Safety Shoes,安全鞋,warehousing,仓储安全,pending
-Personal Protective Equipment,个人防护装备,warehousing,仓储安全,pending
-Hard Hat,安全帽,warehousing,仓储安全,pending
-Ear Protection,听力防护,warehousing,仓储安全,pending
-Dust Mask,防尘口罩,warehousing,仓储安全,pending
-Safety Training,安全培训,warehousing,仓储安全,pending
-Load Capacity Limit,载重限值,warehousing,仓储安全,pending
-Rack Safety Audit,货架安全审核,warehousing,仓储安全,pending
-Safety Barrier,安全隔离栏,warehousing,仓储安全,pending
-Machine Guarding,机械防护,warehousing,仓储安全,pending
-Lockout Tagout,上锁挂牌,warehousing,仓储安全,pending
-First Aid Kit,急救箱,warehousing,仓储安全,pending
-AED,自动体外除颤器,warehousing,仓储安全,pending
-Near Miss Reporting,未遂事件报告,warehousing,仓储安全,pending
-Human-Robot Collaboration,人机协作,warehousing,人机协作,pending
-Cobot Palletizing,协作码垛,warehousing,人机协作,pending
-Shared Workspace,人机共享工位,warehousing,人机协作,pending
-Ergonomic Workstation,人体工学工位,warehousing,人机协作,pending
-Lift Assist,助力机械手,warehousing,人机协作,pending
-Manipulator Arm,助力臂,warehousing,人机协作,pending
-Vacuum Lifter,真空吊具,warehousing,人机协作,pending
-Ergonomics Assessment,人机工学评估,warehousing,人机协作,pending
-Workforce Scheduling,人员排班,warehousing,人机协作,pending
-Labor Standards,工时标准,warehousing,人机协作,pending
-Engineered Labor Standards,标准工时测定,warehousing,人机协作,pending
-Gamification,游戏化激励,warehousing,人机协作,pending
-FedEx Express,联邦快递航空,organizations,货运航空,pending
-UPS Airlines,联合包裹航空,organizations,货运航空,pending
-DHL Aviation,敦豪航空,organizations,货运航空,pending
-European Air Transport Leipzig,欧洲航空运输公司,organizations,货运航空,pending
-AeroLogic,埃罗逻辑航空,organizations,货运航空,pending
-Amazon Air,亚马逊航空,organizations,货运航空,pending
-Kalitta Air,卡利塔航空,organizations,货运航空,pending
-Kalitta Charters,卡利塔包机航空,organizations,货运航空,pending
-Amerijet International,美捷国际航空,organizations,货运航空,pending
-ABX Air,ABX航空,organizations,货运航空,pending
-Air Transport International,国际航空运输公司,organizations,货运航空,pending
-National Airlines,美国国家航空,organizations,货运航空,pending
-Sky Lease Cargo,天空租赁货运航空,organizations,货运航空,pending
-USA Jet Airlines,美国喷气航空,organizations,货运航空,pending
-Ameriflight,美洲飞行航空,organizations,货运航空,pending
-Empire Airlines,帝国航空,organizations,货运航空,pending
-Wiggins Airways,威金斯航空,organizations,货运航空,pending
-Mountain Air Cargo,山地航空货运,organizations,货运航空,pending
-Alpine Air Express,阿尔卑斯航空快递,organizations,货运航空,pending
-Key Lime Air,青柠航空,organizations,货运航空,pending
-Air Cargo Carriers,航空货运承运商航空,organizations,货运航空,pending
-Baron Aviation Services,男爵航空,organizations,货运航空,pending
-CSA Air,CSA航空,organizations,货运航空,pending
-Flight Express,飞行快递航空,organizations,货运航空,pending
-Corporate Air,企业航空,organizations,货运航空,pending
+RF Gun,手持扫描终端,warehousing,WMS功能,published
+Mobile WMS,移动端仓库系统,warehousing,WMS功能,published
+Voice Picking Integration,语音拣选集成,warehousing,WMS功能,published
+Pick Face Management,拣货面管理,warehousing,WMS功能,published
+Replenishment Logic,补货逻辑,warehousing,WMS功能,published
+Wave Engine,波次引擎,warehousing,WMS功能,published
+Shipping System Integration,发运系统集成,warehousing,WMS功能,published
+Carrier Integration,承运商系统对接,warehousing,WMS功能,published
+Shipment Tracking,货件追踪,warehousing,WMS功能,published
+ERP Integration,ERP集成,warehousing,WMS功能,published
+Inventory Visibility,库存可视化,warehousing,WMS功能,published
+Real-Time Inventory,实时库存,warehousing,WMS功能,published
+Audit Trail,操作日志,warehousing,WMS功能,published
+User Role Permission,用户权限,warehousing,WMS功能,published
+Dashboard Reporting,看板报表,warehousing,WMS功能,published
+KPI Reporting,关键指标报表,warehousing,WMS功能,published
+System Configuration,系统参数配置,warehousing,WMS功能,published
+Route Planning,路径规划,warehousing,TMS功能,published
+Multi-Stop Planning,多点配送规划,warehousing,TMS功能,published
+Carrier Rate Management,承运商运价管理,warehousing,TMS功能,published
+Tariff Management,费率管理,warehousing,TMS功能,published
+Load Tendering,配载招标,warehousing,TMS功能,published
+Rate Card,运价卡,warehousing,TMS功能,published
+Freight Classification,货物分级,warehousing,TMS功能,published
+Shipping Label Generation,面单生成,warehousing,TMS功能,published
+In-Transit Visibility,在途可视化,warehousing,TMS功能,published
+Appointment Booking,预约排程,warehousing,TMS功能,published
+Detention and Demurrage,滞留与滞期费,warehousing,TMS功能,published
+Mileage Rating,里程计费,warehousing,TMS功能,published
+Real-Time Synchronization,实时同步,warehousing,数据集成,published
+Data Middleware,数据中间件,warehousing,数据集成,published
+Message Queue,消息队列,warehousing,数据集成,published
+Item Master,商品主数据,warehousing,数据集成,published
+Barcode Symbology,条码码制,warehousing,数据集成,published
+Forklift Safety,叉车安全,warehousing,仓储安全,published
+Pedestrian Safety,行人安全,warehousing,仓储安全,published
+Pedestrian Walkway,人行通道,warehousing,仓储安全,published
+Traffic Management Plan,人车分流方案,warehousing,仓储安全,published
+Blind Corner Mirror,转角反光镜,warehousing,仓储安全,published
+Convex Mirror,凸面镜,warehousing,仓储安全,published
+Warning Sign,警示标识,warehousing,仓储安全,published
+High-Visibility Vest,反光背心,warehousing,仓储安全,published
+Safety Shoes,安全鞋,warehousing,仓储安全,published
+Personal Protective Equipment,个人防护装备,warehousing,仓储安全,published
+Hard Hat,安全帽,warehousing,仓储安全,published
+Ear Protection,听力防护,warehousing,仓储安全,published
+Dust Mask,防尘口罩,warehousing,仓储安全,published
+Safety Training,安全培训,warehousing,仓储安全,published
+Load Capacity Limit,载重限值,warehousing,仓储安全,published
+Rack Safety Audit,货架安全审核,warehousing,仓储安全,published
+Safety Barrier,安全隔离栏,warehousing,仓储安全,published
+Machine Guarding,机械防护,warehousing,仓储安全,published
+Lockout Tagout,上锁挂牌,warehousing,仓储安全,published
+First Aid Kit,急救箱,warehousing,仓储安全,published
+AED,自动体外除颤器,warehousing,仓储安全,published
+Near Miss Reporting,未遂事件报告,warehousing,仓储安全,published
+Human-Robot Collaboration,人机协作,warehousing,人机协作,published
+Cobot Palletizing,协作码垛,warehousing,人机协作,published
+Shared Workspace,人机共享工位,warehousing,人机协作,published
+Ergonomic Workstation,人体工学工位,warehousing,人机协作,published
+Lift Assist,助力机械手,warehousing,人机协作,published
+Manipulator Arm,助力臂,warehousing,人机协作,published
+Vacuum Lifter,真空吊具,warehousing,人机协作,published
+Ergonomics Assessment,人机工学评估,warehousing,人机协作,published
+Workforce Scheduling,人员排班,warehousing,人机协作,published
+Labor Standards,工时标准,warehousing,人机协作,published
+Engineered Labor Standards,标准工时测定,warehousing,人机协作,published
+Gamification,游戏化激励,warehousing,人机协作,published
+FedEx Express,联邦快递航空,organizations,货运航空,published
+UPS Airlines,联合包裹航空,organizations,货运航空,published
+DHL Aviation,敦豪航空,organizations,货运航空,published
+European Air Transport Leipzig,欧洲航空运输公司,organizations,货运航空,published
+AeroLogic,埃罗逻辑航空,organizations,货运航空,published
+Amazon Air,亚马逊航空,organizations,货运航空,published
+Kalitta Air,卡利塔航空,organizations,货运航空,published
+Kalitta Charters,卡利塔包机航空,organizations,货运航空,published
+Amerijet International,美捷国际航空,organizations,货运航空,published
+ABX Air,ABX航空,organizations,货运航空,published
+Air Transport International,国际航空运输公司,organizations,货运航空,published
+National Airlines,美国国家航空,organizations,货运航空,published
+Sky Lease Cargo,天空租赁货运航空,organizations,货运航空,published
+USA Jet Airlines,美国喷气航空,organizations,货运航空,published
+Ameriflight,美洲飞行航空,organizations,货运航空,published
+Empire Airlines,帝国航空,organizations,货运航空,published
+Wiggins Airways,威金斯航空,organizations,货运航空,published
+Mountain Air Cargo,山地航空货运,organizations,货运航空,published
+Alpine Air Express,阿尔卑斯航空快递,organizations,货运航空,published
+Key Lime Air,青柠航空,organizations,货运航空,published
+Air Cargo Carriers,航空货运承运商航空,organizations,货运航空,published
+Baron Aviation Services,男爵航空,organizations,货运航空,published
+CSA Air,CSA航空,organizations,货运航空,published
+Flight Express,飞行快递航空,organizations,货运航空,published
+Corporate Air,企业航空,organizations,货运航空,published
 IFL Group,IFL航空,organizations,货运航空,pending
-Northern Air Cargo,北方货运航空,organizations,货运航空,pending
+Northern Air Cargo,北方货运航空,organizations,货运航空,published
 Everts Air,埃弗茨航空,organizations,货运航空,pending
 Lynden Air Cargo,林登货运航空,organizations,货运航空,pending
-Bering Air,贝林航空,organizations,货运航空,pending
+Bering Air,贝林航空,organizations,货运航空,published
 Cargojet Airways,加拿大货捷航空,organizations,货运航空,pending
-Kelowna Flightcraft,凯洛纳航空,organizations,货运航空,pending
+Kelowna Flightcraft,凯洛纳航空,organizations,货运航空,published
 Morningstar Air Express,晨星航空快递,organizations,货运航空,pending
 Wasaya Airways,瓦萨亚航空,organizations,货运航空,pending
 Perimeter Aviation,周边航空,organizations,货运航空,pending
