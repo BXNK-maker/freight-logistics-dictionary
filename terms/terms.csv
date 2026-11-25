@@ -9692,12 +9692,12 @@ Class-Based Storage,分类存储,warehousing,上架策略,published
 ABC Storage Assignment,ABC储位分配,warehousing,上架策略,published
 Velocity-Based Slotting,流转速度定位,warehousing,上架策略,published
 Slotting Analysis,储位分析,warehousing,上架策略,published
-Family Grouping,同族分组存储,warehousing,上架策略,pending
+Family Grouping,同族分组存储,warehousing,上架策略,published
 Popularity Storage,流行度存储,warehousing,上架策略,published
 Cube per Order Index,体积订单指数,warehousing,上架策略,published
 Closest Open Location,最近空储位,warehousing,上架策略,published
 Zone Storage,分区存储,warehousing,上架策略,published
-Seasonal Slotting,季节性储位调整,warehousing,上架策略,pending
+Seasonal Slotting,季节性储位调整,warehousing,上架策略,published
 Re-Slotting,储位重整,warehousing,上架策略,published
 Golden Zone Slotting,黄金区上架,warehousing,上架策略,published
 Weight-Based Slotting,按重量定位,warehousing,上架策略,published
@@ -9792,104 +9792,104 @@ Pack Station,包装台,warehousing,包装作业,published
 Packing Workbench,打包工作台,warehousing,包装作业,published
 Carton Selection,选箱,warehousing,包装作业,published
 Right-Size Boxing,适配装箱,warehousing,包装作业,published
-Cartonization Algorithm,装箱算法,warehousing,包装作业,pending
-3D Bin Packing,三维装箱,warehousing,包装作业,pending
-Volume Utilization,体积利用率,warehousing,包装作业,pending
-Cushioning,缓冲包装,warehousing,包装作业,pending
-Foam Insert,泡沫内衬,warehousing,包装作业,pending
-Air Pillow,气枕,warehousing,包装作业,pending
-Paper Cushioning,纸质缓冲,warehousing,包装作业,pending
-Shredded Paper,碎纸填充,warehousing,包装作业,pending
-Packaging Material,包装材料,warehousing,包装作业,pending
-Corrugated Box,瓦楞纸箱,warehousing,包装作业,pending
-Corrugated Cardboard,瓦楞纸板,warehousing,包装作业,pending
-Flute Type,瓦楞楞型,warehousing,包装作业,pending
-Double-Wall Carton,双瓦楞纸箱,warehousing,包装作业,pending
-Poly Mailer,塑料快递袋,warehousing,包装作业,pending
-Padded Mailer,气泡信封袋,warehousing,包装作业,pending
-Tamper-Proof Packaging,防拆包装,warehousing,包装作业,pending
-Palletizing Pattern,码盘方式,warehousing,包装作业,pending
-Pallet Pattern,码盘图,warehousing,包装作业,pending
-Unit Load Formation,单元载荷组配,warehousing,包装作业,pending
-Load Stability,堆码稳定性,warehousing,包装作业,pending
-Stacking Pattern,堆码方式,warehousing,包装作业,pending
-Column Stacking,对列堆码,warehousing,包装作业,pending
-Interlocked Stacking,交错堆码,warehousing,包装作业,pending
-Steel Strapping,钢捆扎带,warehousing,包装作业,pending
-Polypropylene Strapping,PP打包带,warehousing,包装作业,pending
-Label Placement,标签粘贴位,warehousing,包装作业,pending
-Order Verification,订单复核,warehousing,质量复核,pending
-Pack Verification,包装复核,warehousing,质量复核,pending
-Shipment Audit,发运审核,warehousing,质量复核,pending
-Photo Documentation,拍照留证,warehousing,质量复核,pending
-Barcode Verification,条码复核,warehousing,质量复核,pending
-Content Verification,内容清点,warehousing,质量复核,pending
-Error Proofing,防错,warehousing,质量复核,pending
-Mistake Proofing,防呆,warehousing,质量复核,pending
-Poka-Yoke,防错设计,warehousing,质量复核,pending
-Double Check Station,双重复核台,warehousing,质量复核,pending
-Random Audit,随机抽检,warehousing,质量复核,pending
-Outbound Quality Check,出库质检,warehousing,质量复核,pending
-Order Accuracy Audit,订单准确率审核,warehousing,质量复核,pending
-Compliance Check,合规检查,warehousing,质量复核,pending
-Shipping Label Check,面单核对,warehousing,质量复核,pending
-Packing Compliance,包装合规,warehousing,质量复核,pending
-Final Inspection,终检,warehousing,质量复核,pending
-Outbound Process,出库流程,warehousing,发货作业,pending
-Shipment Release,发运释放,warehousing,发货作业,pending
-Shipment Confirmation,发货确认,warehousing,发货作业,pending
-Shipping Manifest,发货清单,warehousing,发货作业,pending
-Load Planning,装车计划,warehousing,发货作业,pending
-Trailer Loading,装车作业,warehousing,发货作业,pending
-Load Sequencing,装车顺序,warehousing,发货作业,pending
-Pallet Loading,托盘装载,warehousing,发货作业,pending
-Cube Optimization,车厢空间优化,warehousing,发货作业,pending
-Weight Distribution,配重分布,warehousing,发货作业,pending
-Axle Weight Compliance,轴重合规,warehousing,发货作业,pending
-Load Securement,货物固定,warehousing,发货作业,pending
-Load Lock Bar,封车杆,warehousing,发货作业,pending
-Cargo Bar,货物支撑杆,warehousing,发货作业,pending
-Trailer Seal,挂车铅封,warehousing,发货作业,pending
-Dock Door Assignment,月台门分配,warehousing,发货作业,pending
-Outbound Staging,出库暂存,warehousing,发货作业,pending
-Trailer Utilization,挂车装载率,warehousing,发货作业,pending
-Shipment Consolidation,货件合并,warehousing,发货作业,pending
-Inventory Control,库存控制,warehousing,库存控制,pending
-Max Stock Level,最高库存,warehousing,库存控制,pending
-Min Stock Level,最低库存,warehousing,库存控制,pending
-Aged Inventory,库龄库存,warehousing,库存控制,pending
-Aging Analysis,库龄分析,warehousing,库存控制,pending
-LIFO,后进先出,warehousing,库存控制,pending
-Just-in-Time Inventory,准时制库存,warehousing,库存控制,pending
-Cycle Stock,周转库存,warehousing,库存控制,pending
-Anticipation Stock,预期储备库存,warehousing,库存控制,pending
-Days on Hand,库存天数,warehousing,库存控制,pending
-ABC Cycle Counting,ABC循环盘点,warehousing,盘点方法,pending
-Count Frequency,盘点频率,warehousing,盘点方法,pending
-Blind Count,盲盘,warehousing,盘点方法,pending
-Double Blind Count,双盲盘点,warehousing,盘点方法,pending
-Partial Count,部分盘点,warehousing,盘点方法,pending
-Full Physical Inventory,期末全面盘点,warehousing,盘点方法,pending
-Annual Physical Inventory,年度盘点,warehousing,盘点方法,pending
-Spot Check,抽盘,warehousing,盘点方法,pending
-Sample Count,抽样盘点,warehousing,盘点方法,pending
-Dynamic Counting,动态盘点,warehousing,盘点方法,pending
-Real-Time Counting,实时盘点,warehousing,盘点方法,pending
-RF Counting,射频盘点,warehousing,盘点方法,pending
-Robotic Counting,机器人盘点,warehousing,盘点方法,pending
-Inventory Reconciliation,库存对账,warehousing,盘点方法,pending
-System Quantity,系统库存,warehousing,盘点方法,pending
-Physical Quantity,实物库存,warehousing,盘点方法,pending
-Count Adjustment,盘点调整,warehousing,盘点方法,pending
-Discrepancy Investigation,差异调查,warehousing,盘点方法,pending
-Recount,复盘,warehousing,盘点方法,pending
-Count Tolerance,盘点容差,warehousing,盘点方法,pending
-Inventory Freeze,库存冻结,warehousing,盘点方法,pending
-Snapshot Count,快照盘点,warehousing,盘点方法,pending
-Location Count,储位盘点,warehousing,盘点方法,pending
-SKU-Level Count,SKU级盘点,warehousing,盘点方法,pending
-Count Accuracy,盘点准确率,warehousing,盘点指标,pending
-Variance Rate,差异率,warehousing,盘点指标,pending
+Cartonization Algorithm,装箱算法,warehousing,包装作业,published
+3D Bin Packing,三维装箱,warehousing,包装作业,published
+Volume Utilization,体积利用率,warehousing,包装作业,published
+Cushioning,缓冲包装,warehousing,包装作业,published
+Foam Insert,泡沫内衬,warehousing,包装作业,published
+Air Pillow,气枕,warehousing,包装作业,published
+Paper Cushioning,纸质缓冲,warehousing,包装作业,published
+Shredded Paper,碎纸填充,warehousing,包装作业,published
+Packaging Material,包装材料,warehousing,包装作业,published
+Corrugated Box,瓦楞纸箱,warehousing,包装作业,published
+Corrugated Cardboard,瓦楞纸板,warehousing,包装作业,published
+Flute Type,瓦楞楞型,warehousing,包装作业,published
+Double-Wall Carton,双瓦楞纸箱,warehousing,包装作业,published
+Poly Mailer,塑料快递袋,warehousing,包装作业,published
+Padded Mailer,气泡信封袋,warehousing,包装作业,published
+Tamper-Proof Packaging,防拆包装,warehousing,包装作业,published
+Palletizing Pattern,码盘方式,warehousing,包装作业,published
+Pallet Pattern,码盘图,warehousing,包装作业,published
+Unit Load Formation,单元载荷组配,warehousing,包装作业,published
+Load Stability,堆码稳定性,warehousing,包装作业,published
+Stacking Pattern,堆码方式,warehousing,包装作业,published
+Column Stacking,对列堆码,warehousing,包装作业,published
+Interlocked Stacking,交错堆码,warehousing,包装作业,published
+Steel Strapping,钢捆扎带,warehousing,包装作业,published
+Polypropylene Strapping,PP打包带,warehousing,包装作业,published
+Label Placement,标签粘贴位,warehousing,包装作业,published
+Order Verification,订单复核,warehousing,质量复核,published
+Pack Verification,包装复核,warehousing,质量复核,published
+Shipment Audit,发运审核,warehousing,质量复核,published
+Photo Documentation,拍照留证,warehousing,质量复核,published
+Barcode Verification,条码复核,warehousing,质量复核,published
+Content Verification,内容清点,warehousing,质量复核,published
+Error Proofing,防错,warehousing,质量复核,published
+Mistake Proofing,防呆,warehousing,质量复核,published
+Poka-Yoke,防错设计,warehousing,质量复核,published
+Double Check Station,双重复核台,warehousing,质量复核,published
+Random Audit,随机抽检,warehousing,质量复核,published
+Outbound Quality Check,出库质检,warehousing,质量复核,published
+Order Accuracy Audit,订单准确率审核,warehousing,质量复核,published
+Compliance Check,合规检查,warehousing,质量复核,published
+Shipping Label Check,面单核对,warehousing,质量复核,published
+Packing Compliance,包装合规,warehousing,质量复核,published
+Final Inspection,终检,warehousing,质量复核,published
+Outbound Process,出库流程,warehousing,发货作业,published
+Shipment Release,发运释放,warehousing,发货作业,published
+Shipment Confirmation,发货确认,warehousing,发货作业,published
+Shipping Manifest,发货清单,warehousing,发货作业,published
+Load Planning,装车计划,warehousing,发货作业,published
+Trailer Loading,装车作业,warehousing,发货作业,published
+Load Sequencing,装车顺序,warehousing,发货作业,published
+Pallet Loading,托盘装载,warehousing,发货作业,published
+Cube Optimization,车厢空间优化,warehousing,发货作业,published
+Weight Distribution,配重分布,warehousing,发货作业,published
+Axle Weight Compliance,轴重合规,warehousing,发货作业,published
+Load Securement,货物固定,warehousing,发货作业,published
+Load Lock Bar,封车杆,warehousing,发货作业,published
+Cargo Bar,货物支撑杆,warehousing,发货作业,published
+Trailer Seal,挂车铅封,warehousing,发货作业,published
+Dock Door Assignment,月台门分配,warehousing,发货作业,published
+Outbound Staging,出库暂存,warehousing,发货作业,published
+Trailer Utilization,挂车装载率,warehousing,发货作业,published
+Shipment Consolidation,货件合并,warehousing,发货作业,published
+Inventory Control,库存控制,warehousing,库存控制,published
+Max Stock Level,最高库存,warehousing,库存控制,published
+Min Stock Level,最低库存,warehousing,库存控制,published
+Aged Inventory,库龄库存,warehousing,库存控制,published
+Aging Analysis,库龄分析,warehousing,库存控制,published
+LIFO,后进先出,warehousing,库存控制,published
+Just-in-Time Inventory,准时制库存,warehousing,库存控制,published
+Cycle Stock,周转库存,warehousing,库存控制,published
+Anticipation Stock,预期储备库存,warehousing,库存控制,published
+Days on Hand,库存天数,warehousing,库存控制,published
+ABC Cycle Counting,ABC循环盘点,warehousing,盘点方法,published
+Count Frequency,盘点频率,warehousing,盘点方法,published
+Blind Count,盲盘,warehousing,盘点方法,published
+Double Blind Count,双盲盘点,warehousing,盘点方法,published
+Partial Count,部分盘点,warehousing,盘点方法,published
+Full Physical Inventory,期末全面盘点,warehousing,盘点方法,published
+Annual Physical Inventory,年度盘点,warehousing,盘点方法,published
+Spot Check,抽盘,warehousing,盘点方法,published
+Sample Count,抽样盘点,warehousing,盘点方法,published
+Dynamic Counting,动态盘点,warehousing,盘点方法,published
+Real-Time Counting,实时盘点,warehousing,盘点方法,published
+RF Counting,射频盘点,warehousing,盘点方法,published
+Robotic Counting,机器人盘点,warehousing,盘点方法,published
+Inventory Reconciliation,库存对账,warehousing,盘点方法,published
+System Quantity,系统库存,warehousing,盘点方法,published
+Physical Quantity,实物库存,warehousing,盘点方法,published
+Count Adjustment,盘点调整,warehousing,盘点方法,published
+Discrepancy Investigation,差异调查,warehousing,盘点方法,published
+Recount,复盘,warehousing,盘点方法,published
+Count Tolerance,盘点容差,warehousing,盘点方法,published
+Inventory Freeze,库存冻结,warehousing,盘点方法,published
+Snapshot Count,快照盘点,warehousing,盘点方法,published
+Location Count,储位盘点,warehousing,盘点方法,published
+SKU-Level Count,SKU级盘点,warehousing,盘点方法,published
+Count Accuracy,盘点准确率,warehousing,盘点指标,published
+Variance Rate,差异率,warehousing,盘点指标,published
 Cycle Count Completion,循环盘点完成率,warehousing,盘点指标,pending
 Count Variance Value,盘点差异金额,warehousing,盘点指标,pending
 Overage,盘盈,warehousing,盘点指标,pending
