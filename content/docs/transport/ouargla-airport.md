@@ -1,0 +1,16 @@
+---
+title: "Ouargla Airport"
+linkTitle: "瓦尔格拉机场"
+date: 2026-11-26
+type: docs
+subcategory: "非洲中东机场"
+---
+
+> 📖 分类：**运输** / 非洲中东机场　｜　Ouargla Airport = 瓦尔格拉机场
+
+## 定义
+瓦尔格拉机场（Ouargla Airport，IATA代码：OGX，ICAO代码：DAUU）是位于阿尔及利亚东部
+
+---
+
+*本词条由 AI 生成初稿、经人工审核后发布，仅供学习参考，不构成法律或商务建议。*
