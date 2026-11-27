@@ -1,7 +1,7 @@
 ---
 title: "Sal Amilcar Cabral Airport"
 linkTitle: "萨尔岛机场"
-date: 2026-11-26
+date: 2026-11-27
 type: docs
 subcategory: "非洲中东机场"
 ---
@@ -9,8 +9,31 @@ subcategory: "非洲中东机场"
 > 📖 分类：**运输** / 非洲中东机场　｜　Sal Amilcar Cabral Airport = 萨尔岛机场
 
 ## 定义
+萨尔岛机场（英文：Amílcar Cabral International Airport，IATA代码：SID），通常简称为萨尔岛机场，是佛得角共和国最主要的国际航空枢纽。该机场在跨大西洋航线网络中具有重要的地理战略地位，是连接欧洲、非洲及南美洲航空货运与客运的关键经停点。
 
-萨尔岛机场（英文全称：Amilcar Cabral International Airport，IATA代码：SID）是佛
+## 详细说明
+- 使用场景：主要用于跨大西洋航班的技术经停、中转加油，以及佛得角本土进出口航空货物的集散。
+- 关键规则与数字：机场拥有长达数千米的跑道，可起降各类大型宽体货机。作为佛得角的国家级门户，其地面服务和清关流程遵循国际民航组织（ICAO）标准。
+- 实务注意事项：由于该机场地处大西洋岛屿，天气多变可能对航班起降造成临时影响；同时，当地地面处理能力相对有限，大宗货物中转时需提前与航司及地勤确认机坪舱位和换单时效。
+
+## 中英对照
+
+| 中文表达 | 英文表达 |
+| :--- | :--- |
+| 萨尔岛机场 | Amílcar Cabral International Airport (SID) |
+| 技术经停 | Technical Stop |
+| 跨大西洋航线 | Transatlantic Route |
+| 航空货运枢纽 | Air Cargo Hub |
+
+## 相关术语
+- `IATA Code（国际航空运输协会代码）`
+- `Technical Stop（技术经停）`
+- `Wide-body Aircraft（宽体飞机）`
+- `Air Waybill (AWB)（航空货运单）`
+
+## 常见误区
+- 误认为萨尔岛机场仅处理佛得角本土的本地货物，忽视了其作为大西洋跨洋航线重要中转站的物流功能。
+- 混淆了萨尔岛机场与其他非洲大陆主要枢纽机场的地面保障能力，导致在安排超大件或急件中转时低估了地勤作业时间。
 
 ---
 

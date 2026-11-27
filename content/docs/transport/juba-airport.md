@@ -1,7 +1,7 @@
 ---
 title: "Juba Airport"
 linkTitle: "朱巴国际机场"
-date: 2026-11-26
+date: 2026-11-27
 type: docs
 subcategory: "非洲中东机场"
 ---
@@ -10,34 +10,34 @@ subcategory: "非洲中东机场"
 
 ## 定义
 
-朱巴国际机场（Juba International Airport，IATA代码：JUB，ICAO代码：HSSJ）是南苏丹共和国的主要国际机场，位于首都朱巴。该机场是该国连接东非及全球航空货运的核心枢纽，承担着大量人道主义救援物资和商业贸易货物的空运进出口任务。
+朱巴国际机场（Juba International Airport，IATA代码：JUB，ICAO代码：HSSJ）是南苏丹共和国的主要国际机场，位于首都朱巴。它是该国连通国际航空货运的核心枢纽，承担着大量人道主义救援物资和商业贸易货物的空运进出口业务。
 
 ## 详细说明
 
-- 使用场景：主要用于发往南苏丹的空运（Air Freight）货物，特别是重型机械设备、紧急人道主义救援物资、医疗用品及油气行业备件的终点站卸货。
-- 关键规则或数字：机场拥有沥青跑道，但受当地基础设施限制，夜间起降条件有限，且经常面临燃油供应短缺、地面装卸设备（GSE）老化及短缺的问题。
-- 实务注意事项：由于南苏丹政局多变、清关手续繁琐且海关效率低下，收货人必须具备强大的当地协调能力以避免长期滞港费（Demurrage）；同时，所有进口单证（如商业发票、箱单、原产地证及检验检疫证明）必须极其准确并提前认证。
+- 使用场景：主要用于发往南苏丹的国际航空货运，特别是从东非枢纽（如内罗毕、亚的斯亚贝巴）转运急需物资、机械设备及消费品。
+- 关键规则或数字：机场拥有沥青跑道，可起降中大型货机（如B737F、伊尔-76等），但由于当地基础设施薄弱，夜间起降和雷雨季节的航班保障能力有限。
+- 实务注意事项：当地海关清关效率较低，政策多变，且常因港口拥堵导致大量货物积压在机场；建议货代在订舱时提前确认收货人的当地清关能力，并务必购买全险以防滞港或货损。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 朱巴国际机场 | Juba International Airport |
-| 人道主义救援物资 | Humanitarian Relief Cargo |
-| 地面装卸设备 | Ground Support Equipment (GSE) |
-| 空运单 | Air Waybill (AWB) |
+| 朱巴国际机场 | Juba International Airport (JUB) |
+| 南苏丹空运 | Air Freight to South Sudan |
+| 国际包机服务 | International Charter Service |
+| 机场仓储滞留 | Airport Storage Demurrage |
 
 ## 相关术语
 
-- Air Freight（空运）
-- Air Waybill（航空运单）
-- Ground Handling（地面代理/地勤服务）
-- Charter Flight（包机运输）
+- Nairobi Jomo Kenyatta International Airport（内罗毕乔莫·肯雅塔国际机场）
+- Addis Ababa Bole International Airport（亚的斯亚贝巴博莱国际机场）
+- Air Waybill (AWB)（航空运单）
+- General Declaration (GD)（航空总申报单）
 
 ## 常见误区
 
-- 误以为该机场具备全天候现代化货运处理能力，实际上其夜间航班保障和自动化仓储设施相对落后。
-- 认为货物到达后可像其他国际枢纽一样在1-2天内完成清关并派送，忽视了当地海关效率及复杂的行政审批流程。
+- 误区一：认为南苏丹首都机场现代化程度高，可以处理快速中转和自动化分拣。实际上朱巴机场地面操作高度依赖人工，效率较慢。
+- 误区二：认为所有国际航司都常态化运营该航线。由于安全局势和航油供应问题，航班计划经常临时调整，必须以航司实时动态为准。
 
 ---
 

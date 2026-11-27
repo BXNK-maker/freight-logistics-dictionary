@@ -1,7 +1,7 @@
 ---
 title: "Nouakchott Airport"
 linkTitle: "努瓦克肖特国际机场"
-date: 2026-11-26
+date: 2026-11-27
 type: docs
 subcategory: "非洲中东机场"
 ---
@@ -9,35 +9,30 @@ subcategory: "非洲中东机场"
 > 📖 分类：**运输** / 非洲中东机场　｜　Nouakchott Airport = 努瓦克肖特国际机场
 
 ## 定义
-
-Nouakchott Airport（努瓦克肖特机场）通常指毛里塔尼亚的乌姆通朱西国际机场（Nouakchott-Oumtounsy International Airport），IATA代码为NKC。它是该国最主要的国际航空枢纽，承担了绝大部分进出毛里塔尼亚的空运货物和旅客运输任务。
+Nouakchott Airport（努瓦克肖特国际机场）通常指毛里塔尼亚伊斯兰共和国首都努瓦克特的主要国际航空枢纽，现主要指代努瓦克肖特-乌姆特通尤安国际机场（Nouakchott-Oumtounsy International Airport）。它是该国连接非洲、中东及欧洲的重要航空货运与客运进出港口岸。
 
 ## 详细说明
-
-- 使用场景：主要用于发往或来自西非毛里塔尼亚首都努瓦克的高端、急需或鲜活货物的航空运输。
-- 关键规则或数字：机场位于首都努瓦克以北约25公里处，拥有现代化的跑道设施，可起降大型宽体货机，是连接西非与欧洲、中东的重要航空节点。
-- 实务注意事项：当地清关效率受基础设施和行政审批流程限制，可能比较缓慢；进口货物必须提供详细且准确的商业发票、装箱单及原产地证，且部分特殊商品需提前获得毛里塔尼亚相关部门的进口许可。
+- 使用场景：主要用于空运出口至毛里塔尼亚或自该国进口普货、海鲜、机械设备及人道主义救援物资的航空货运代理业务。
+- 关键规则或数字：该机场IATA代码为NKC，ICAO代码为GQNO。新机场距离市中心约25公里，拥有现代化的跑道，能够起降大型宽体货机。
+- 实务注意事项：毛里塔尼亚清关政策较为严格，且当地物流基础设施相对落后，航线航班资源有限。货代在安排空运时，务必提前确认目的港的航班排期、舱位情况以及当地海关对进口单证（如产地证、商业发票认证等）的具体要求，以防产生高昂的滞港费。
 
 ## 中英对照
-
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 努瓦克肖特国际机场 | Nouakchott-Oumtounsy International Airport |
+| 努瓦克肖特国际机场 | Nouakchott International Airport |
+| 努瓦克肖特-乌姆特通尤安国际机场 | Nouakchott-Oumtounsy International Airport |
 | 航空货运单 | Air Waybill (AWB) |
-| 航空公司燃油附加费 | Fuel Surcharge (FSC) |
-| 机场地面代理 | Ground Handling Agent (GHA) |
+| 目的港清关 | Destination Customs Clearance |
 
 ## 相关术语
-
 - Nouakchott Port（努瓦克港）
-- Air Freight Forwarder（空运货运代理）
-- Ground Handling Service（地面代理服务）
-- Customs Clearance（海关清关）
+- Air Freight (空运)
+- Air Waybill (航空货运单)
+- Ground Handling (地面代理)
 
 ## 常见误区
-
-- 误认为该机场仅有客运航班而无法处理大宗航空货运，实际上它具备完善的货机起降及仓储能力。
-- 忽视毛里塔尼亚严格的清关文件要求，导致货物到达努瓦克机场后因单证不全而产生巨额滞场费。
+- 误以为该机场仍在老市区附近：老机场已关闭，目前所有商业客货运航班均起降于城北的新机场（努瓦克肖特-乌姆特通尤安国际机场），发货及提货时需核对正确的场站地址。
+- 误认为该机场具备极强的中转分拨能力：该机场国际航班频次相对有限，不适合作为西非地区的大型航空转运枢纽，一般仅用于点对点的直飞或经停终点站。
 
 ---
 

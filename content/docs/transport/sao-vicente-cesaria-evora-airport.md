@@ -1,7 +1,7 @@
 ---
 title: "Sao Vicente Cesaria Evora Airport"
 linkTitle: "圣维森特岛机场"
-date: 2026-11-26
+date: 2026-11-27
 type: docs
 subcategory: "非洲中东机场"
 ---
@@ -9,31 +9,36 @@ subcategory: "非洲中东机场"
 > 📖 分类：**运输** / 非洲中东机场　｜　Sao Vicente Cesaria Evora Airport = 圣维森特岛机场
 
 ## 定义
-圣维森特岛机场（Sao Vicente Cesaria Evora Airport，IATA代码：VXE，ICAO代码：GVSV）是位于西非岛国佛得角圣维森特岛的主要国际机场，以当地著名歌手塞萨里亚·埃沃拉的名字命名。该机场是连接该岛与欧洲及其他非洲岛屿的重要航空货运与客运枢纽。
+
+圣维森特岛机场（Sao Vicente Cesaria Evora Airport，IATA代码：VXE）是位于非洲岛国佛得角圣维森特岛的国际机场，主要承担该岛及周边地区的客货运航空运输服务。它是连接佛得角北部群岛与国际市场的重要区域性航空枢纽，对岛屿经济和对外贸易起着关键支撑作用。
 
 ## 详细说明
-- 使用场景：主要用于处理进出圣维森特岛及周边群岛的急件、生鲜食品、医疗物资及少量高附加值商品的空运进出口业务。
-- 关键规则或数字：机场跑道长度适中，主要起降中小型窄体货机及客机腹舱货运；由于岛屿地理位置，航班频率受大西洋季风及侧风影响较大。
-- 实务注意事项：由于当地仓储和地面处理能力相对有限，货代在安排空运时需提前与航司确认舱位及地面转运能力，避免货物滞留；同时需严格遵守佛得角海关的清关文件要求。
+
+- 使用场景：主要用于进出圣维森特岛的航空货运、跨境电商小包以及紧急商业物资的空运进出口，特别适用于海鲜、本地手工艺品等特色货物的对外输出。
+- 关键规则或数字：机场拥有中等长度的跑道，能够起降主流的中小型窄体货机；由于地理位置及岛屿经济结构限制，航班频率和载货容量相对有限，国际大宗货物通常需经由萨尔岛（SID）等大型枢纽进行中转。
+- 实务注意事项：货代在安排该机场航线时，需提前确认航司的机型载重限制及当地地勤的装卸效率；同时应密切关注佛得角海关的清关政策和查验要求，避免因单证不全导致货物滞留机场仓库。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
 | 圣维森特岛机场 | Sao Vicente Cesaria Evora Airport |
-| 航空货运 | Air Freight / Air Cargo |
-| 地面处理 | Ground Handling |
-| 航班腹舱载货 | Belly Cargo |
+| 机场代码 | Airport Code (VXE) |
+| 航空货运 | Air Cargo / Air Freight |
+| 航班中转 | Flight Transit / Transshipment |
 
 ## 相关术语
-- Cesaria Evora Airport（塞萨里亚·埃沃拉机场）
-- Sal Amilcar Cabral International Airport（萨尔岛阿米尔卡·卡布拉尔国际机场）
-- Air Waybill (AWB)（航空货运单）
-- Ground Handling Agent (GHA)（地面代理人）
+
+- Cesaria Evora Airport（塞萨莉娅·埃沃拉机场）
+- Sal International Airport（萨尔国际机场）
+- Air Waybill（航空运单）
+- Cargo Aircraft Only（仅限货机）
+- Airport of Destination（目的地机场）
 
 ## 常见误区
-- 误认为该机场能够起降大型宽体货机，实际上受限于跑道条件，主流机型以中小型窄体机为主。
-- 混淆了圣维森特岛机场与佛得角主枢纽萨尔岛机场（SID），导致在安排跨岛转运时产生路径规划错误。
+
+- 误认为该机场可直接起降所有类型的大型宽体货机，忽视了其跑道及地面保障能力的实际限制。
+- 混淆了佛得角国内不同岛屿机场的货运吞吐能力，导致在制定物流方案时未能预留足够的中转时间。
 
 ---
 
