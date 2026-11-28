@@ -10981,8 +10981,8 @@ Asheville Regional Airport,阿什维尔地区机场,transport,美洲机场,publi
 Fayetteville Regional Airport,费耶特维尔地区机场,transport,美洲机场,published
 New Bern Airport,新伯尔尼机场,transport,美洲机场,published
 Kinston Airport,金斯顿机场,transport,美洲机场,published
-Fargo Hector Airport,法戈机场,transport,美洲机场,pending
-Grand Forks Airport,大福克斯机场,transport,美洲机场,pending
+Fargo Hector Airport,法戈机场,transport,美洲机场,published
+Grand Forks Airport,大福克斯机场,transport,美洲机场,published
 Bismarck Airport,俾斯麦机场,transport,美洲机场,published
 Minot Airport,迈诺特机场,transport,美洲机场,published
 Cleveland Hopkins Airport,克利夫兰霍普金斯国际机场,transport,美洲机场,published
@@ -11080,104 +11080,104 @@ Thunder Bay Airport,桑德贝机场,transport,美洲机场,published
 Sudbury Airport,萨德伯里机场,transport,美洲机场,published
 Halifax Stanfield Airport,哈利法克斯国际机场,transport,美洲机场,published
 Moncton Airport,蒙克顿机场,transport,美洲机场,published
-Fredericton Airport,弗雷德里克顿机场,transport,美洲机场,pending
-Saint John Airport,圣约翰机场,transport,美洲机场,pending
-Charlottetown Airport,夏洛特敦机场,transport,美洲机场,pending
-Gander Airport,甘德机场,transport,美洲机场,pending
-St. John's Newfoundland Airport,圣约翰斯机场,transport,美洲机场,pending
-Deer Lake Airport,迪尔莱克机场,transport,美洲机场,pending
-Goose Bay Airport,古斯贝机场,transport,美洲机场,pending
-Whitehorse Airport,怀特霍斯机场,transport,美洲机场,pending
-Yellowknife Airport,耶洛奈夫机场,transport,美洲机场,pending
-Iqaluit Airport,伊魁特机场,transport,美洲机场,pending
-Mexico City Felipe Angeles Airport,墨西哥城费利佩安赫莱斯国际机场,transport,美洲机场,pending
-Guadalajara Miguel Hidalgo Airport,瓜达拉哈拉国际机场,transport,美洲机场,pending
-Monterrey Mariano Escobedo Airport,蒙特雷国际机场,transport,美洲机场,pending
-Tijuana Rodriguez Airport,蒂华纳国际机场,transport,美洲机场,pending
-Cancun International Airport,坎昆国际机场,transport,美洲机场,pending
-Los Cabos Airport,洛斯卡沃斯机场,transport,美洲机场,pending
-Puerto Vallarta Airport,巴亚尔塔港机场,transport,美洲机场,pending
-Mazatlan Airport,马萨特兰机场,transport,美洲机场,pending
-Merida Airport,梅里达机场,transport,美洲机场,pending
-Queretaro Airport,克雷塔罗机场,transport,美洲机场,pending
-Aguascalientes Airport,阿瓜斯卡连特斯机场,transport,美洲机场,pending
-Leon Bajio Airport,莱昂机场,transport,美洲机场,pending
-Puebla Airport,普埃布拉机场,transport,美洲机场,pending
-Toluca Airport,托卢卡机场,transport,美洲机场,pending
-Hermosillo Airport,埃莫西约机场,transport,美洲机场,pending
-Culiacan Airport,库利亚坎机场,transport,美洲机场,pending
-Chihuahua Airport,奇瓦瓦机场,transport,美洲机场,pending
-Veracruz Airport,韦拉克鲁斯机场,transport,美洲机场,pending
-Villahermosa Airport,比亚埃尔莫萨机场,transport,美洲机场,pending
-Oaxaca Airport,瓦哈卡机场,transport,美洲机场,pending
-Guatemala City La Aurora Airport,危地马拉城机场,transport,美洲机场,pending
-San Salvador Oscar Romero Airport,圣萨尔瓦多国际机场,transport,美洲机场,pending
-San Jose Juan Santamaria Airport,圣何塞胡安圣玛丽亚国际机场,transport,美洲机场,pending
-Liberia Costa Rica Airport,利比里亚机场,transport,美洲机场,pending
-Panama City Tocumen Airport,巴拿马城托库门国际机场,transport,美洲机场,pending
-Tegucigalpa Palmerola Airport,特古西加尔巴机场,transport,美洲机场,pending
-San Pedro Sula Villeda Morales Airport,圣佩德罗苏拉机场,transport,美洲机场,pending
-Managua Augusto Sandino Airport,马那瓜国际机场,transport,美洲机场,pending
-Belize City Goldson Airport,伯利兹城国际机场,transport,美洲机场,pending
-Nassau Lynden Pindling Airport,拿骚国际机场,transport,美洲机场,pending
-Kingston Norman Manley Airport,金斯敦机场,transport,美洲机场,pending
-Montego Bay Sangster Airport,蒙特哥贝国际机场,transport,美洲机场,pending
-Havana Jose Marti Airport,哈瓦那何塞马蒂国际机场,transport,美洲机场,pending
-Santo Domingo Americas Airport,圣多明各国际机场,transport,美洲机场,pending
-Santiago Dominican Republic Airport,圣地亚哥机场,transport,美洲机场,pending
-Punta Cana Airport,蓬塔卡纳国际机场,transport,美洲机场,pending
-Aguadilla Rafael Hernandez Airport,阿瓜迪亚机场,transport,美洲机场,pending
-San Juan Munoz Marin Airport,圣胡安国际机场,transport,美洲机场,pending
-Ponce Airport,蓬塞机场,transport,美洲机场,pending
-Port-au-Prince Toussaint Louverture Airport,太子港国际机场,transport,美洲机场,pending
-Curacao Hato Airport,库拉索机场,transport,美洲机场,pending
-Aruba Reina Beatrix Airport,阿鲁巴机场,transport,美洲机场,pending
-Bridgetown Grantley Adams Airport,布里奇敦国际机场,transport,美洲机场,pending
-Port of Spain Piarco Airport,西班牙港机场,transport,美洲机场,pending
-Tobago Crown Point Airport,多巴哥机场,transport,美洲机场,pending
-Saint John's Antigua Airport,圣约翰斯安提瓜机场,transport,美洲机场,pending
-Castries Hewanorra Airport,卡斯特里机场,transport,美洲机场,pending
-Philipsburg Princess Juliana Airport,菲利普斯堡机场,transport,美洲机场,pending
-Basseterre Airport,巴斯特尔机场,transport,美洲机场,pending
-Roseau Dominica Airport,罗索机场,transport,美洲机场,pending
-Grenada Maurice Bishop Airport,格林纳达机场,transport,美洲机场,pending
-Saint Thomas Airport,圣托马斯机场,transport,美洲机场,pending
-Medellin Cordova Airport,麦德林国际机场,transport,美洲机场,pending
-Medellin Olaya Herrera Airport,麦德林奥拉亚埃雷拉机场,transport,美洲机场,pending
-Cali Alfonso Bonilla Aragon Airport,卡利机场,transport,美洲机场,pending
-Cartagena Rafael Nunez Airport,卡塔赫纳机场,transport,美洲机场,pending
-Barranquilla Airport,巴兰基亚机场,transport,美洲机场,pending
-Pereira Airport,佩雷拉机场,transport,美洲机场,pending
-Santa Marta Airport,圣玛尔塔机场,transport,美洲机场,pending
-Bucaramanga Airport,布卡拉曼加机场,transport,美洲机场,pending
-Caracas Maiquetia Airport,加拉加斯迈克蒂亚西蒙玻利瓦尔国际机场,transport,美洲机场,pending
-Valencia Venezuela Airport,巴伦西亚机场,transport,美洲机场,pending
-Maracaibo Airport,马拉开波机场,transport,美洲机场,pending
-Guayaquil Olmedo Airport,瓜亚基尔机场,transport,美洲机场,pending
-Cuenca Airport,昆卡机场,transport,美洲机场,pending
-Manta Airport,曼塔机场,transport,美洲机场,pending
-Latacunga Cotopaxi Airport,拉塔昆加机场,transport,美洲机场,pending
-Arequipa Airport,阿雷基帕机场,transport,美洲机场,pending
-Cusco Airport,库斯科机场,transport,美洲机场,pending
-Piura Airport,皮乌拉机场,transport,美洲机场,pending
-La Paz El Alto Airport,拉巴斯埃尔阿托国际机场,transport,美洲机场,pending
-Santa Cruz Viru Viru Airport,圣克鲁斯国际机场,transport,美洲机场,pending
-Cochabamba Airport,科恰班巴机场,transport,美洲机场,pending
-Antofagasta Airport,安托法加斯塔机场,transport,美洲机场,pending
-Punta Arenas Airport,蓬塔阿雷纳斯机场,transport,美洲机场,pending
-Easter Island Airport,复活节岛机场,transport,美洲机场,pending
-Buenos Aires Ezeiza Airport,布宜诺斯艾利斯埃塞萨国际机场,transport,美洲机场,pending
-Buenos Aires Jorge Newbery Airport,布宜诺斯艾利斯机场,transport,美洲机场,pending
-Cordoba Argentina Airport,科尔多瓦机场,transport,美洲机场,pending
-Rosario Airport,罗萨里奥机场,transport,美洲机场,pending
-Mendoza Airport,门多萨机场,transport,美洲机场,pending
-Bariloche Airport,巴里洛切机场,transport,美洲机场,pending
-Montevideo Carrasco Airport,蒙得维的亚机场,transport,美洲机场,pending
-Punta del Este Airport,埃斯特角城机场,transport,美洲机场,pending
-Asuncion Pettirossi Airport,亚松森国际机场,transport,美洲机场,pending
-Ciudad del Este Airport,东方市机场,transport,美洲机场,pending
-Sao Paulo Congonhas Airport,圣保罗孔戈尼亚斯机场,transport,美洲机场,pending
-Campinas Viracopos Airport,坎皮纳斯国际机场,transport,美洲机场,pending
+Fredericton Airport,弗雷德里克顿机场,transport,美洲机场,published
+Saint John Airport,圣约翰机场,transport,美洲机场,published
+Charlottetown Airport,夏洛特敦机场,transport,美洲机场,published
+Gander Airport,甘德机场,transport,美洲机场,published
+St. John's Newfoundland Airport,圣约翰斯机场,transport,美洲机场,published
+Deer Lake Airport,迪尔莱克机场,transport,美洲机场,published
+Goose Bay Airport,古斯贝机场,transport,美洲机场,published
+Whitehorse Airport,怀特霍斯机场,transport,美洲机场,published
+Yellowknife Airport,耶洛奈夫机场,transport,美洲机场,published
+Iqaluit Airport,伊魁特机场,transport,美洲机场,published
+Mexico City Felipe Angeles Airport,墨西哥城费利佩安赫莱斯国际机场,transport,美洲机场,published
+Guadalajara Miguel Hidalgo Airport,瓜达拉哈拉国际机场,transport,美洲机场,published
+Monterrey Mariano Escobedo Airport,蒙特雷国际机场,transport,美洲机场,published
+Tijuana Rodriguez Airport,蒂华纳国际机场,transport,美洲机场,published
+Cancun International Airport,坎昆国际机场,transport,美洲机场,published
+Los Cabos Airport,洛斯卡沃斯机场,transport,美洲机场,published
+Puerto Vallarta Airport,巴亚尔塔港机场,transport,美洲机场,published
+Mazatlan Airport,马萨特兰机场,transport,美洲机场,published
+Merida Airport,梅里达机场,transport,美洲机场,published
+Queretaro Airport,克雷塔罗机场,transport,美洲机场,published
+Aguascalientes Airport,阿瓜斯卡连特斯机场,transport,美洲机场,published
+Leon Bajio Airport,莱昂机场,transport,美洲机场,published
+Puebla Airport,普埃布拉机场,transport,美洲机场,published
+Toluca Airport,托卢卡机场,transport,美洲机场,published
+Hermosillo Airport,埃莫西约机场,transport,美洲机场,published
+Culiacan Airport,库利亚坎机场,transport,美洲机场,published
+Chihuahua Airport,奇瓦瓦机场,transport,美洲机场,published
+Veracruz Airport,韦拉克鲁斯机场,transport,美洲机场,published
+Villahermosa Airport,比亚埃尔莫萨机场,transport,美洲机场,published
+Oaxaca Airport,瓦哈卡机场,transport,美洲机场,published
+Guatemala City La Aurora Airport,危地马拉城机场,transport,美洲机场,published
+San Salvador Oscar Romero Airport,圣萨尔瓦多国际机场,transport,美洲机场,published
+San Jose Juan Santamaria Airport,圣何塞胡安圣玛丽亚国际机场,transport,美洲机场,published
+Liberia Costa Rica Airport,利比里亚机场,transport,美洲机场,published
+Panama City Tocumen Airport,巴拿马城托库门国际机场,transport,美洲机场,published
+Tegucigalpa Palmerola Airport,特古西加尔巴机场,transport,美洲机场,published
+San Pedro Sula Villeda Morales Airport,圣佩德罗苏拉机场,transport,美洲机场,published
+Managua Augusto Sandino Airport,马那瓜国际机场,transport,美洲机场,published
+Belize City Goldson Airport,伯利兹城国际机场,transport,美洲机场,published
+Nassau Lynden Pindling Airport,拿骚国际机场,transport,美洲机场,published
+Kingston Norman Manley Airport,金斯敦机场,transport,美洲机场,published
+Montego Bay Sangster Airport,蒙特哥贝国际机场,transport,美洲机场,published
+Havana Jose Marti Airport,哈瓦那何塞马蒂国际机场,transport,美洲机场,published
+Santo Domingo Americas Airport,圣多明各国际机场,transport,美洲机场,published
+Santiago Dominican Republic Airport,圣地亚哥机场,transport,美洲机场,published
+Punta Cana Airport,蓬塔卡纳国际机场,transport,美洲机场,published
+Aguadilla Rafael Hernandez Airport,阿瓜迪亚机场,transport,美洲机场,published
+San Juan Munoz Marin Airport,圣胡安国际机场,transport,美洲机场,published
+Ponce Airport,蓬塞机场,transport,美洲机场,published
+Port-au-Prince Toussaint Louverture Airport,太子港国际机场,transport,美洲机场,published
+Curacao Hato Airport,库拉索机场,transport,美洲机场,published
+Aruba Reina Beatrix Airport,阿鲁巴机场,transport,美洲机场,published
+Bridgetown Grantley Adams Airport,布里奇敦国际机场,transport,美洲机场,published
+Port of Spain Piarco Airport,西班牙港机场,transport,美洲机场,published
+Tobago Crown Point Airport,多巴哥机场,transport,美洲机场,published
+Saint John's Antigua Airport,圣约翰斯安提瓜机场,transport,美洲机场,published
+Castries Hewanorra Airport,卡斯特里机场,transport,美洲机场,published
+Philipsburg Princess Juliana Airport,菲利普斯堡机场,transport,美洲机场,published
+Basseterre Airport,巴斯特尔机场,transport,美洲机场,published
+Roseau Dominica Airport,罗索机场,transport,美洲机场,published
+Grenada Maurice Bishop Airport,格林纳达机场,transport,美洲机场,published
+Saint Thomas Airport,圣托马斯机场,transport,美洲机场,published
+Medellin Cordova Airport,麦德林国际机场,transport,美洲机场,published
+Medellin Olaya Herrera Airport,麦德林奥拉亚埃雷拉机场,transport,美洲机场,published
+Cali Alfonso Bonilla Aragon Airport,卡利机场,transport,美洲机场,published
+Cartagena Rafael Nunez Airport,卡塔赫纳机场,transport,美洲机场,published
+Barranquilla Airport,巴兰基亚机场,transport,美洲机场,published
+Pereira Airport,佩雷拉机场,transport,美洲机场,published
+Santa Marta Airport,圣玛尔塔机场,transport,美洲机场,published
+Bucaramanga Airport,布卡拉曼加机场,transport,美洲机场,published
+Caracas Maiquetia Airport,加拉加斯迈克蒂亚西蒙玻利瓦尔国际机场,transport,美洲机场,published
+Valencia Venezuela Airport,巴伦西亚机场,transport,美洲机场,published
+Maracaibo Airport,马拉开波机场,transport,美洲机场,published
+Guayaquil Olmedo Airport,瓜亚基尔机场,transport,美洲机场,published
+Cuenca Airport,昆卡机场,transport,美洲机场,published
+Manta Airport,曼塔机场,transport,美洲机场,published
+Latacunga Cotopaxi Airport,拉塔昆加机场,transport,美洲机场,published
+Arequipa Airport,阿雷基帕机场,transport,美洲机场,published
+Cusco Airport,库斯科机场,transport,美洲机场,published
+Piura Airport,皮乌拉机场,transport,美洲机场,published
+La Paz El Alto Airport,拉巴斯埃尔阿托国际机场,transport,美洲机场,published
+Santa Cruz Viru Viru Airport,圣克鲁斯国际机场,transport,美洲机场,published
+Cochabamba Airport,科恰班巴机场,transport,美洲机场,published
+Antofagasta Airport,安托法加斯塔机场,transport,美洲机场,published
+Punta Arenas Airport,蓬塔阿雷纳斯机场,transport,美洲机场,published
+Easter Island Airport,复活节岛机场,transport,美洲机场,published
+Buenos Aires Ezeiza Airport,布宜诺斯艾利斯埃塞萨国际机场,transport,美洲机场,published
+Buenos Aires Jorge Newbery Airport,布宜诺斯艾利斯机场,transport,美洲机场,published
+Cordoba Argentina Airport,科尔多瓦机场,transport,美洲机场,published
+Rosario Airport,罗萨里奥机场,transport,美洲机场,published
+Mendoza Airport,门多萨机场,transport,美洲机场,published
+Bariloche Airport,巴里洛切机场,transport,美洲机场,published
+Montevideo Carrasco Airport,蒙得维的亚机场,transport,美洲机场,published
+Punta del Este Airport,埃斯特角城机场,transport,美洲机场,published
+Asuncion Pettirossi Airport,亚松森国际机场,transport,美洲机场,published
+Ciudad del Este Airport,东方市机场,transport,美洲机场,published
+Sao Paulo Congonhas Airport,圣保罗孔戈尼亚斯机场,transport,美洲机场,published
+Campinas Viracopos Airport,坎皮纳斯国际机场,transport,美洲机场,published
 Rio de Janeiro Galeao Airport,里约热内卢国际机场,transport,美洲机场,pending
 Rio de Janeiro Santos Dumont Airport,里约热内卢桑托斯杜蒙机场,transport,美洲机场,pending
 Brasilia Airport,巴西利亚国际机场,transport,美洲机场,pending
