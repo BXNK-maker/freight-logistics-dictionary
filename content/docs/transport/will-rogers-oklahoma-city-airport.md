@@ -1,7 +1,7 @@
 ---
 title: "Will Rogers Oklahoma City Airport"
 linkTitle: "俄克拉何马城机场"
-date: 2026-11-27
+date: 2026-11-28
 type: docs
 subcategory: "美洲机场"
 ---
@@ -9,31 +9,31 @@ subcategory: "美洲机场"
 > 📖 分类：**运输** / 美洲机场　｜　Will Rogers Oklahoma City Airport = 俄克拉何马城机场
 
 ## 定义
-Will Rogers Oklahoma City Airport（威利·罗杰斯俄克拉何马城机场，IATA代码：OKC）是美国俄克拉何马州主要的民用及货运航空枢纽。该机场为该地区提供高效的航空货运和客运腹舱货运服务，是连接美国中部与国内外物流网络的重要节点。
+Will Rogers Oklahoma City Airport（威利·罗杰斯俄克拉荷马城机场，三字代码：OKC）是美国俄克拉荷马州主要的民用及货运航空枢纽。该机场在区域物流网络中扮演重要角色，主要处理该地区的航空快递、国内空运货物及部分包机业务。
 
 ## 详细说明
-- 使用场景：主要用于进出美国俄克拉何马州及周边地区的空运货物集散，涵盖普货、生鲜及部分工业零担货物的航空转运。
-- 关键规则与数字：机场代码为OKC；运营多条连接美国主要货运枢纽的定期航班；地面货站需严格遵守美国运输安全管理局（TSA）关于航空货运安全筛选的规定。
-- 实务注意事项：货代在安排该机场的提货或交货时，应提前确认各大航司或地面代理（GHAs）的提货窗口时间，避免因航班时刻变动或地面拥堵产生滞留费用。
+- 使用场景：适用于发往美国俄克拉荷马州及周边中南部地区的航空货运、散货拼箱转运以及快件派送服务。
+- 关键规则或数字：作为中型航空货运枢纽，该机场拥有完善的地面货站设施，能够起降主流窄体及部分宽体货机，衔接达拉斯、孟菲斯等大型货运中转站。
+- 实务注意事项：由于该机场国际直达货运航班较少，国际货物通常需在芝加哥、达拉斯等枢纽清关后，通过卡车航班（TIR）或国内航班转运至此，操作时需预留足够的境内转运时间。
 
 ## 中英对照
 
 | 中文表达 | 英文表达 |
 | :--- | :--- |
-| 俄克拉何马城机场 | Will Rogers Oklahoma City Airport (OKC) |
-| 航空货运枢纽 | Air Cargo Hub |
-| 地面代理 | Ground Handling Agent (GHA) |
-| 货运航班 | Cargo Flight |
+| 俄克拉荷马城机场 | Will Rogers Oklahoma City Airport (OKC) |
+| 航空货运站 | Air Cargo Terminal |
+| 卡车航班 | Truck Flight / Air Trucking |
+| 货运代理 | Freight Forwarder |
 
 ## 相关术语
-- Air Waybill（航空运单）
-- Ground Handling Agent（地面代理）
-- Cargo Terminal（货运站）
-- Known Shipper Program（已知发货人计划）
+- Air Waybill (AWB)（航空货运单）
+- Customs Clearance (清关)
+- Feeder Service (支线运输)
+- Hub and Spoke (枢纽辐射式网络)
 
 ## 常见误区
-- 误认为该机场仅处理客机腹舱带货，实际上它拥有完善的配套设施，能够支持各类货运业务。
-- 忽略了美国国内空运对安检（TSA Screening）的严格时效要求，导致货物未能赶上预定航班。
+- 误认为该机场拥有大量直飞亚洲或欧洲的洲际货运航班，实际上绝大多数国际货物需要通过其他美国大型门户机场进行中转。
+- 混淆了机场代码“OKC”与当地的实际清关能力，部分特殊监管货物可能需要转运至海关更具优势的口岸处理。
 
 ---
 
